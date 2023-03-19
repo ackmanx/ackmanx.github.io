@@ -1,12 +1,34 @@
 {
-    // comments
-    unquoted: 'and you can quote me on that',
-    singleQuotes: 'I can use "double quotes" here',
-    lineBreaks: "Look, Mom! \
-No \\n's!",
-    hexadecimal: 0xdecaf,
-    leadingDecimalPoint: .8675309, andTrailing: 8675309.,
-    positiveSign: +1,
-    trailingComma: 'in objects', andIn: ['arrays',],
-    "backwardsCompatible": "with JSON",
+  incomes: [
+    {
+      name: 'Eric',
+      amount: 6438,
+      rate: 'monthly',
+    },
+    {
+      name: 'Yao',
+      amount: 2700,
+      rate: 'monthly',
+    },
+  ],
+  loans: [
+    {
+      name: 'VW Golf R',
+      bank: 'Target Credit Union',
+      amount: 696,
+      apr: 2.74,
+      creditReportName: 'Baxter Credit Union',
+      website: 'targetcu.org',
+      notes: '',
+    },
+    {
+      name: 'VW Atlas',
+      bank: 'Target Credit Union',
+      amount: 676,
+      apr: 2.74,
+      creditReportName: 'Baxter Credit Union',
+      website: 'targetcu.org',
+      notes: '',
+    },
+  ],
 }
