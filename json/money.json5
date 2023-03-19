@@ -1,4 +1,13 @@
 {
+  creditCards: [
+    {
+      name: '',
+      apr: 0,
+      notes: '',
+      creditReportName: '',
+      website: '',
+    }
+  ],
   incomes: [
     {
       name: 'Eric',
@@ -9,6 +18,14 @@
       name: 'Yao',
       amount: 2700,
       rate: 'monthly',
+    },
+  ],
+  investments: [
+    {
+      name: 'sdg ESOP',
+      type: 'private stock',
+      notes: 'Can request payments in 2025',
+      website: 'principal.com',
     },
   ],
   loans: [
@@ -29,6 +46,28 @@
       creditReportName: 'Baxter Credit Union',
       website: 'targetcu.org',
       notes: '',
+    },
+  ],
+  people: [
+    {
+      name: 'Ba',
+      amount: 21000,
+      direction: 'borrowed',
+    },
+  ],
+  subscriptions: [
+    {
+      name: 'Netflix',
+      amount: 21,
+      notes: '',
+    },
+  ],
+  utilities: [
+    {
+      name: '',
+      amount: 0,
+      notes: '',
+      website: '',
     },
   ],
 }
