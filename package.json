@@ -1,0 +1,10 @@
+{
+  "name": "ackmanx.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:ackmanx/ackmanx.github.io.git",
+  "author": "ackmanx <ackmanx@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
