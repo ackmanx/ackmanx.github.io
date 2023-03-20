@@ -206,6 +206,7 @@
       name: 'Ba',
       amount: 21000,
       direction: 'borrowed',
+      notes: '',
     },
   ],
   subscriptions: [
