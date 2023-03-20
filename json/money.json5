@@ -6,7 +6,7 @@
       notes: '',
       creditReportName: '',
       website: '',
-    }
+    },
   ],
   incomes: [
     {
@@ -114,6 +114,13 @@
       notes: 'Payment includes escrow. Valid as of 2023-03-19',
     },
   ],
+  misc: [
+    {
+      name: 'Lifetime Fitness',
+      amount: 90,
+      notes: 'I want to go but I do not enough',
+    },
+  ],
   people: [
     {
       name: 'Ba',
@@ -127,13 +134,62 @@
       amount: 21,
       notes: '',
     },
+    {
+      name: 'YouTube Premium',
+      amount: 18,
+      notes: '',
+    },
+    {
+      name: 'Spotify',
+      amount: 17,
+      notes: '',
+    },
+    {
+      name: 'NY Times',
+      amount: 12,
+      notes: 'Promotional pricing until October 2023',
+    },
+    {
+      name: 'Wikimedia',
+      amount: 2,
+      notes: '',
+    },
+    {
+      name: 'Arizona Republic News',
+      amount: 10,
+      notes: 'God I keep forgetting to cancel this',
+    },
   ],
   utilities: [
     {
-      name: '',
-      amount: 0,
+      name: 'T-Mobile',
+      amount: 170,
       notes: '',
       website: '',
+    },
+    {
+      name: 'Comcast',
+      amount: 100,
+      notes: '',
+      website: '',
+    },
+    {
+      name: 'Xcel Energy',
+      amount: 400,
+      notes: 'Electricity and natural gas',
+      website: '',
+    },
+    {
+      name: 'Curbside Waste',
+      amount: -1,
+      notes: 'Trash only',
+      website: '',
+    },
+    {
+      name: 'City of New Brighton',
+      amount: 115,
+      notes: 'Water, sewage and recycling',
+      website: 'Find more payments to get an average of bill',
     },
   ],
 }
