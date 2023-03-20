@@ -76,11 +76,13 @@
       name: 'Eric',
       amount: 6438,
       rate: 'monthly',
+      notes: '',
     },
     {
       name: 'Yao',
       amount: 2700,
       rate: 'monthly',
+      notes: '',
     },
   ],
   investments: [
