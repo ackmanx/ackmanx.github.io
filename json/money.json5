@@ -111,7 +111,7 @@
       bank: 'GreenSky',
       amount: 85,
       apr: 4.99,
-      creditReportName: 'SERVICE FINANCE COMPAN',
+      creditReportName: '',
       website: 'http://www.greenskyonline.com',
       notes: 'Through Your Home Improvement company',
     },
