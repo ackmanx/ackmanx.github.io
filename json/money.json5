@@ -127,7 +127,7 @@
     {
       name: 'HVAC - Furnace and AC',
       bank: 'Service Finance Company',
-      amount: 0,
+      amount: -1,
       apr: -1,
       creditReportName: 'SERVICE FINANCE COMPAN',
       website: 'http://www.svcfin.com',
@@ -172,7 +172,7 @@
     {
       name: 'Yao Student Loan',
       bank: 'Aidvantage',
-      amount: 0,
+      amount: -1,
       apr: -1,
       creditReportName: '',
       website: 'http://myaccount.aidvantage.com',
