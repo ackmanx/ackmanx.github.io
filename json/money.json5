@@ -76,13 +76,13 @@
       name: 'Eric',
       amount: 6438,
       rate: 'monthly',
-      notes: '',
+      notes: '4/9: Will go up because changed insurance to Yao',
     },
     {
       name: 'Yao',
       amount: 2700,
       rate: 'monthly',
-      notes: '',
+      notes: '4/9: Need to calculate for accuracy',
     },
   ],
   investments: [
@@ -103,6 +103,24 @@
       type: 'restricted stock',
       notes: 'Vests 25% each year for 4 years starting 2022',
       website: 'http://www.fidelity.com',
+    },
+    {
+      name: 'Target 401k',
+      type: 'retirement',
+      notes: 'Need details. This is just a placeholder',
+      website: '',
+    },
+    {
+      name: 'Fairview 401k',
+      type: 'retirement',
+      notes: 'Need details. This is just a placeholder',
+      website: '',
+    },
+    {
+      name: 'Healthpartners 401k',
+      type: 'retirement',
+      notes: 'Need details. This is just a placeholder',
+      website: '',
     },
   ],
   loans: [
@@ -179,6 +197,16 @@
       notes: 'Under Yao credit report. Payments currently on hold due to COVID relief',
     },
   ],
+  healthcare: [
+    {
+      name: 'North Memorial',
+      amount: 120,
+    },
+    {
+      name: 'Something with Eric',
+      amount: -1,
+    },
+  ],
   misc: [
     {
       name: 'Children International',
@@ -238,6 +266,11 @@
     {
       name: 'YouTube Premium',
       amount: 18,
+      notes: '',
+    },
+    {
+      name: 'Feiya iPad Game',
+      amount: 5,
       notes: '',
     },
   ],
