@@ -74,13 +74,13 @@
   incomes: [
     {
       name: 'Eric',
-      amount: 6438,
+      amount: 7144,
       rate: 'monthly',
-      notes: '4/9: Will go up because changed insurance to Yao',
+      notes: 'Estimate with raise and benefits switching to Yao',
     },
     {
       name: 'Yao',
-      amount: 2700,
+      amount: 3000,
       rate: 'monthly',
       notes: '4/9: Need to calculate for accuracy',
     },
@@ -204,7 +204,7 @@
     },
     {
       name: 'Something with Eric',
-      amount: -1,
+      amount: 100,
     },
   ],
   misc: [
