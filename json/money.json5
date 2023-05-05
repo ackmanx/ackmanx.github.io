@@ -199,11 +199,15 @@
   ],
   healthcare: [
     {
-      name: 'North Memorial',
+      name: 'Yao - North Memorial',
       amount: 120,
     },
+{
+      name: 'Yao - Fairview',
+      amount: 100,
+    },
     {
-      name: 'Something with Eric',
+      name: 'Eric - Health partners',
       amount: 100,
     },
   ],
