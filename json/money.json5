@@ -225,16 +225,6 @@
       notes: '',
     },
     {
-      name: 'Lifetime Fitness',
-      amount: 90,
-      notes: 'I want to go but I do not enough',
-    },
-    {
-      name: 'MN Chinese Daycare',
-      amount: 870,
-      notes: 'Amount is average between 4 and 5 week months cost',
-    },
-    {
       name: 'Progressive - Car Insurance',
       amount: 200,
       notes: 'Paid in full every 6 months',
