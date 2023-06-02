@@ -250,11 +250,6 @@
   ],
   subscriptions: [
     {
-      name: 'Arizona Republic News',
-      amount: 10,
-      notes: 'God I keep forgetting to cancel this',
-    },
-    {
       name: 'Netflix',
       amount: 21,
       notes: '',
