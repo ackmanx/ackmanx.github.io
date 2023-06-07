@@ -157,12 +157,12 @@
     {
       name: 'Mortgage',
       bank: 'Think Mutual Bank',
-      amount: 4318,
+      amount: 4374,
       apr: 7.125,
       dueDate: '1st',
       creditReportName: 'Think Mutal Bank',
       website: 'http://www.thinkbank.com',
-      notes: 'Payment includes escrow. Valid as of 2023-03-19',
+      notes: 'Payment includes escrow. Valid as of 2023-06-07',
     },
     {
       name: 'Tempur Pedic bed',
