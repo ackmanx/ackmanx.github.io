@@ -197,7 +197,7 @@
     {
       name: 'Yao Student Loan',
       bank: 'Aidvantage',
-      amount: -1,
+      amount: 320,
       apr: -1,
       creditReportName: '',
       website: 'http://myaccount.aidvantage.com',
