@@ -1,1 +1,3 @@
-# Backups of all my Spotify playlists taken using the https://www.spotify-backup.com/ service
+# Backups of all my Spotify playlists
+
+Taken using the https://www.spotify-backup.com/ service
