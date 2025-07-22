@@ -1,8 +1,7 @@
 # ackmanx.github.io
 
-JSON store. You can access with the below:
-https://ackmanx.github.io/json/money.json
+Visit https://ackmanx.github.io/ for site
 
-Any changes to `main` branch will be automatically deployed within a couple minutes.
+Any changes to `main` branch will be automatically deployed within a couple minutes and `/docs` is the page hosted
 
-Obviously, don't put anything such as credentials in here
+Other files aren't hosted, but this is a public repository, so...
