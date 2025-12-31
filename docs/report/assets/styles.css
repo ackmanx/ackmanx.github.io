@@ -1,0 +1,148 @@
+:root {
+    --color-dark: #1c1d1e;
+    --color-light: #f5f5f5;
+    --color-green: rgb(76, 175, 80);
+    --color-dark-blue: #222428;
+    --color-medium-blue: #506591;
+}
+
+@font-face {
+    font-family: "Zen Kurenaido";
+    src: url("ZenKurenaido-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Asimovian-Regular";
+    src: url("Asimovian-Regular.ttf");
+}
+
+html {
+    font-family: "Zen Kurenaido", "sans-serif";
+}
+
+body {
+    margin: 32px 0 0 0;
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    display: block;
+}
+
+header {
+    display: flex;
+    gap: 24px;
+    margin-top: 16px;
+    padding-left: 48px;
+    height: 300px;
+    color: var(--color-light);
+    background-color: var(--color-medium-blue);
+
+    a {
+        display: block;
+        width: 900px;
+    }
+
+    img {
+        width: 900px;
+        height: 332px;
+        object-fit: cover;
+        outline: 4px solid var(--color-dark);
+        margin-top: -16px;
+        border-radius: 8px;
+    }
+
+    h1 {
+        font-family: "Asimovian-Regular", "sans-serif";
+        margin: 0;
+        z-index: 100;
+        font-size: 72px;
+        position: absolute;
+        bottom: -22px;
+        left: 16px;
+        color: var(--color-light);
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: var(--color-dark);
+    }
+
+    .header-artist {
+        position: relative;
+    }
+
+    .header-meta {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: var(--color-dark);
+        font-size: 42px;
+    }
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: 56px 24px;
+
+    section {
+        display: flex;
+        gap: 16px;
+
+        h2 {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        .subhead {
+            font-size: 20px;
+            margin: 0;
+        }
+
+        button {
+            background-color: var(--color-light);
+            border: none;
+            border-radius: 4px;
+            padding: 8px;
+            margin-top: 8px;
+            color: var(--color-dark);
+            transition: all 100ms ease-in;
+
+            &.viewed {
+                background-color: var(--color-medium-blue);
+                color: var(--color-light);
+            }
+        }
+    }
+
+    img {
+        width: 320px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--color-dark);
+        color: var(--color-light);
+    }
+
+    a,
+    a:visited,
+    a:active {
+        color: var(--color-light);
+    }
+
+    header {
+        background-color: var(--color-dark-blue);
+
+        img {
+            outline: 2px solid var(--color-light);
+            outline-offset: 2px;
+        }
+    }
+}
