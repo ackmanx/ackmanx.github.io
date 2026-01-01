@@ -1,0 +1,43 @@
+:root {
+    --color-dark: #1c1d1e;
+    --color-light: #f5f5f5;
+    --color-green: rgb(76, 175, 80);
+    --color-dark-blue: #222428;
+    --color-medium-blue: #506591;
+}
+
+@font-face {
+    font-family: "Zen Kurenaido";
+    src: url("ZenKurenaido-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Asimovian-Regular";
+    src: url("Asimovian-Regular.ttf");
+}
+
+html {
+    font-family: "Zen Kurenaido", "sans-serif";
+}
+
+body,
+p {
+    margin: 0;
+}
+
+img {
+    display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--color-dark);
+        color: var(--color-light);
+    }
+
+    a,
+    a:visited,
+    a:active {
+        color: var(--color-light);
+    }
+}
