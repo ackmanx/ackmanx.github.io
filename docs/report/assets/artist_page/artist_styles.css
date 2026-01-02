@@ -1,3 +1,8 @@
+/*___________________________________________________
+      ___       __   ___  __
+|__| |__   /\  |  \ |__  |__)
+|  | |___ /~~\ |__/ |___ |  \
+___________________________________________________*/
 nav {
     display: flex;
     justify-content: space-between;
@@ -19,7 +24,7 @@ header {
         width: 900px;
     }
 
-    img {
+    .cover-art {
         width: 900px;
         height: 332px;
         object-fit: cover;
@@ -55,27 +60,56 @@ header {
     }
 }
 
+/*___________________________________________________
+
+|\/|  /\  | |\ |
+|  | /~~\ | | \|
+___________________________________________________*/
 main {
     display: flex;
     flex-direction: column;
     gap: 32px;
     margin: 56px 24px;
 
-    section {
+    .album {
         display: flex;
         gap: 16px;
 
-        h2 {
+        .album-cover-art {
+            width: 320px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .album-name {
             font-size: 36px;
             margin: 0;
+
+            a {
+                text-transform: lowercase;
+                font-weight: 100;
+                -webkit-text-stroke-width: 2px;
+                -webkit-text-stroke-color: var(--color-light);
+                border-bottom: 2px solid var(--color-dark);
+
+                @media (prefers-color-scheme: dark) {
+                    -webkit-text-stroke-color: var(--color-dark);
+                    border-bottom: 2px solid var(--color-light);
+                }
+            }
         }
 
-        .subhead {
-            font-size: 20px;
-            margin: 0;
+        .album-meta {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+
+            p {
+                font-size: 24px;
+            }
         }
 
-        button {
+        .viewed-button {
             background-color: var(--color-light);
             border: none;
             border-radius: 4px;
@@ -84,17 +118,11 @@ main {
             color: var(--color-dark);
             transition: all 100ms ease-in;
 
-            &.viewed {
+            &.is-viewed {
                 background-color: var(--color-medium-blue);
                 color: var(--color-light);
             }
         }
-    }
-
-    img {
-        width: 320px;
-        object-fit: cover;
-        border-radius: 8px;
     }
 }
 

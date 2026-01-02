@@ -1,3 +1,8 @@
+/*___________________________________________________
+      ___       __   ___  __
+|__| |__   /\  |  \ |__  |__)
+|  | |___ /~~\ |__/ |___ |  \
+___________________________________________________*/
 header {
     display: flex;
     justify-content: space-between;
@@ -11,18 +16,45 @@ header {
         color: var(--color-light);
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: var(--color-dark);
+
+        @media (prefers-color-scheme: dark) {
+            -webkit-text-stroke-width: 3px;
+        }
     }
 }
 
+/*___________________________________________________
+
+|\/|  /\  | |\ |
+|  | /~~\ | | \|
+___________________________________________________*/
 main {
     display: flex;
     flex-direction: column;
     gap: 32px;
     margin: 16px 24px;
 
-    section {
+    .artist {
         display: flex;
         gap: 16px;
+
+        .artist-name {
+            font-size: 36px;
+            margin: 0;
+
+            a {
+                text-transform: lowercase;
+                font-weight: 100;
+                -webkit-text-stroke-width: 2px;
+                -webkit-text-stroke-color: var(--color-light);
+                border-bottom: 2px solid var(--color-dark);
+
+                @media (prefers-color-scheme: dark) {
+                    -webkit-text-stroke-color: var(--color-dark);
+                    border-bottom: 2px solid var(--color-light);
+                }
+            }
+        }
 
         .artist-meta {
             display: flex;
@@ -36,11 +68,6 @@ main {
             p.last-updated {
                 font-size: 18px;
             }
-        }
-
-        h2 {
-            font-size: 36px;
-            margin: 0;
         }
     }
 
