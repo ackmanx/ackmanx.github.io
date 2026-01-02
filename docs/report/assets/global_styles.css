@@ -8,12 +8,12 @@
 
 @font-face {
     font-family: "Zen Kurenaido";
-    src: url("ZenKurenaido-Regular.ttf");
+    src: url("fonts/ZenKurenaido-Regular.ttf");
 }
 
 @font-face {
     font-family: "Asimovian-Regular";
-    src: url("Asimovian-Regular.ttf");
+    src: url("fonts/Asimovian-Regular.ttf");
 }
 
 html {

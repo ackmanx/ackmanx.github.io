@@ -25,7 +25,7 @@ function toggle_viewed_status() {
   const artist_viewed = JSON.parse(localStorage.getItem(button.dataset.artistName))
 
   if (button.classList.contains('viewed')) {
-    artist_viewed.toSpliced(artist_viewed.indexOf(button.dataset.albumName))
+    artist_viewed.splice(artist_viewed.indexOf(button.dataset.albumName), 1)
     button.classList.remove('viewed')
   } else {
     artist_viewed.push(button.dataset.albumName)
