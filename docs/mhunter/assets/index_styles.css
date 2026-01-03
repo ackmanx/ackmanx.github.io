@@ -6,7 +6,7 @@ ___________________________________________________*/
 header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     margin: 24px;
 
     h1 {
@@ -47,11 +47,9 @@ main {
                 font-weight: 100;
                 -webkit-text-stroke-width: 2px;
                 -webkit-text-stroke-color: var(--color-light);
-                border-bottom: 2px solid var(--color-dark);
 
                 @media (prefers-color-scheme: dark) {
                     -webkit-text-stroke-color: var(--color-dark);
-                    border-bottom: 2px solid var(--color-light);
                 }
             }
         }

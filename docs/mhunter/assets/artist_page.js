@@ -15,23 +15,34 @@ viewed_buttons.forEach((button) => {
   button.addEventListener('click', toggle_viewed_status)
 
   if (artist_viewed.includes(button.dataset.albumName)) {
-    button.classList.add('viewed')
+    button.classList.add('is-viewed')
   }
 })
 
-function toggle_viewed_status() {
+async function toggle_viewed_status() {
   const button = event.target
 
   const artist_viewed = JSON.parse(localStorage.getItem(button.dataset.artistName))
 
-  if (button.classList.contains('viewed')) {
+  if (button.classList.contains('is-viewed')) {
     artist_viewed.splice(artist_viewed.indexOf(button.dataset.albumName), 1)
-    button.classList.remove('viewed')
+    button.classList.remove('is-viewed')
   } else {
     artist_viewed.push(button.dataset.albumName)
     artist_viewed.sort()
-    button.classList.add('viewed')
+    button.classList.add('is-viewed')
   }
 
   localStorage.setItem(button.dataset.artistName, JSON.stringify(artist_viewed))
+
+  await fetch(
+    `https://mhunter-backend.vercel.app/artist?name=${button.dataset.artistName}`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(artist_viewed),
+    },
+  )
 }

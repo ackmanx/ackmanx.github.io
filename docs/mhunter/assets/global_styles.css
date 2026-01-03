@@ -5,11 +5,7 @@
 ___________________________________________________*/
 :root {
     --color-dark: #1c1d1e;
-    --color-white: #ffffff;
     --color-light: #f5f5f5;
-    --color-green: rgb(76, 175, 80);
-    --color-dark-blue: #222428;
-    --color-medium-blue: #506591;
 }
 
 /*___________________________________________________
@@ -52,6 +48,10 @@ p {
 
 img {
     display: block;
+}
+
+button {
+    cursor: pointer;
 }
 
 /*___________________________________________________

@@ -6,8 +6,13 @@ ___________________________________________________*/
 nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin: 16px 16px 36px;
+    align-items: flex-start;
+    margin: 24px 24px 44px;
+
+    a {
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: var(--color-light);
+    }
 }
 
 header {
@@ -15,9 +20,10 @@ header {
     gap: 24px;
     margin-top: 16px;
     padding-left: 48px;
-    height: 300px;
+    height: 280px;
     color: var(--color-light);
-    background-color: var(--color-medium-blue);
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
 
     .cover-art-link {
         display: block;
@@ -29,8 +35,13 @@ header {
         height: 332px;
         object-fit: cover;
         outline: 4px solid var(--color-dark);
-        margin-top: -16px;
+        margin-top: -26px;
         border-radius: 8px;
+
+        @media (prefers-color-scheme: dark) {
+            outline: 2px solid var(--color-light);
+            outline-offset: 2px;
+        }
     }
 
     h1 {
@@ -39,8 +50,8 @@ header {
         z-index: 100;
         font-size: 72px;
         position: absolute;
-        bottom: -22px;
-        left: 16px;
+        bottom: -28px;
+        left: 20px;
         color: var(--color-light);
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: var(--color-dark);
@@ -54,9 +65,8 @@ header {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        -webkit-text-stroke-width: 1px;
-        -webkit-text-stroke-color: var(--color-dark);
-        font-size: 42px;
+        color: var(--color-dark);
+        font-size: 36px;
     }
 }
 
@@ -90,11 +100,9 @@ main {
                 font-weight: 100;
                 -webkit-text-stroke-width: 2px;
                 -webkit-text-stroke-color: var(--color-light);
-                border-bottom: 2px solid var(--color-dark);
 
                 @media (prefers-color-scheme: dark) {
                     -webkit-text-stroke-color: var(--color-dark);
-                    border-bottom: 2px solid var(--color-light);
                 }
             }
         }
@@ -106,6 +114,10 @@ main {
 
             p {
                 font-size: 24px;
+            }
+
+            p.artist-list {
+                font-size: 18px;
             }
         }
 
@@ -119,20 +131,9 @@ main {
             transition: all 100ms ease-in;
 
             &.is-viewed {
-                background-color: var(--color-medium-blue);
+                background-color: var(--color-dark);
                 color: var(--color-light);
             }
-        }
-    }
-}
-
-@media (prefers-color-scheme: dark) {
-    header {
-        background-color: var(--color-dark-blue);
-
-        img {
-            outline: 2px solid var(--color-light);
-            outline-offset: 2px;
         }
     }
 }
