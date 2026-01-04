@@ -6,6 +6,12 @@ ___________________________________________________*/
 :root {
     --color-dark: #1c1d1e;
     --color-light: #f5f5f5;
+    --color-selected-green: hsl(139.41deg 58.62% 54.51%);
+    --color-selected-lighter-green: hsl(139 59% 65% / 1);
+    --color-selected-lighter-border: hsl(210 3% 33% / 1);
+    --color-meta-blue: hsl(219.09deg 58.62% 54.51%);
+    --color-meta-yellow: hsl(49.32deg 100% 62.55%);
+    --color-button-dark: #2c303a;
 }
 
 /*___________________________________________________
