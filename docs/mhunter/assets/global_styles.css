@@ -11,7 +11,8 @@ ___________________________________________________*/
     --color-selected-lighter-border: hsl(210 3% 33% / 1);
     --color-meta-blue: hsl(219.09deg 58.62% 54.51%);
     --color-meta-yellow: hsl(49.32deg 100% 62.55%);
-    --color-button-dark: #2c303a;
+    --color-button-dark: hsl(210 3% 15% / 1);
+    --color-button-dark-hover: hsl(210 3% 25% / 1);
 }
 
 /*___________________________________________________

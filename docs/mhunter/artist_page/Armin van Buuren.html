@@ -14,9 +14,7 @@
         <div>Cached On: Mon Dec 29 2025</div>
     </nav>
     <header>
-        <div class="header-artist"><a class="cover-art-link" href="spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"><img class="cover-art" src="https://i.scdn.co/image/ab6761610000e5eb60f60edeaa78efbf3d335b2c" alt="Armin van Buuren"></a>
-            <h1>Armin van Buuren</h1>
-        </div>
+        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5eb60f60edeaa78efbf3d335b2c" alt="Armin van Buuren"><a class="cover-art-link" href="spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb60f60edeaa78efbf3d335b2c" alt="Armin van Buuren"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5eb60f60edeaa78efbf3d335b2c" alt="Armin van Buuren"></div>
         <div class="header-meta">
             <div><span>Followers</span> 4,570,608</div>
             <div><span>Popularity</span> 76</div>
@@ -3156,7 +3154,7 @@
                 $button.innerHTML = 'Viewed'
                 $button.classList.add('is-viewed')
             } else {
-                $button.innerHTML = 'Mark Viewed'
+                $button.innerHTML = 'New'
             }
         })
 
@@ -3169,7 +3167,7 @@
 
                 artist.viewed.splice(album_index, 1)
 
-                $button.innerHTML = 'Mark Viewed'
+                $button.innerHTML = 'New'
                 $button.classList.remove('is-viewed')
             } else {
                 artist.viewed.push($button.dataset.albumName)
