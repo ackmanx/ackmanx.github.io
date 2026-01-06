@@ -155,7 +155,11 @@ main {
                 font-size: 24px;
 
                 span {
-                    color: var(--color-meta-yellow);
+                    color: var(--color-meta-blue);
+
+                    @media (prefers-color-scheme: dark) {
+                        color: var(--color-meta-yellow);
+                    }
                 }
             }
 
