@@ -4,22 +4,38 @@
 |  | |___ /~~\ |__/ |___ |  \
 ___________________________________________________*/
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
     margin: 24px;
 
-    h1 {
-        font-family: "Asimovian-Regular", "sans-serif";
-        margin: 0;
-        font-size: 72px;
-        color: var(--color-light);
-        -webkit-text-stroke-width: 1px;
-        -webkit-text-stroke-color: var(--color-dark);
+    @media (min-width: 1200px) {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    span {
+        color: var(--color-meta-blue);
+        margin-right: 4px;
 
         @media (prefers-color-scheme: dark) {
-            -webkit-text-stroke-width: 3px;
+            color: var(--color-meta-yellow);
         }
+    }
+}
+
+h1 {
+    font-family: "Asimovian-Regular", "sans-serif";
+    font-size: 48px;
+    margin: 0;
+    color: var(--color-light);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--color-dark);
+
+    @media (min-width: 1200px) {
+        font-size: 72px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        -webkit-text-stroke-width: 3px;
     }
 }
 
@@ -32,46 +48,76 @@ main {
     display: flex;
     flex-direction: column;
     gap: 32px;
-    margin: 16px 24px;
+    margin: 16px;
 
-    .artist {
-        display: flex;
-        gap: 16px;
+    @media (min-width: 1200px) {
+        margin: 16px 24px;
+    }
+}
 
-        .artist-name {
-            font-size: 36px;
-            margin: 0;
+.artist {
+    display: flex;
+    gap: 16px;
 
-            a {
-                text-transform: lowercase;
-                font-weight: 100;
-                -webkit-text-stroke-width: 2px;
-                -webkit-text-stroke-color: var(--color-light);
+    img {
+        width: 160px;
+        object-fit: cover;
+        border-radius: 8px;
 
-                @media (prefers-color-scheme: dark) {
-                    -webkit-text-stroke-color: var(--color-dark);
-                }
-            }
+        @media (min-width: 1200px) {
+            width: 320px;
         }
+    }
+}
 
-        .artist-meta {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
+.artist-name {
+    font-size: 42px;
+    margin: 0 0 8px 0;
 
-            p {
-                font-size: 24px;
-            }
+    a {
+        text-transform: lowercase;
+        font-weight: 100;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: var(--color-light);
 
-            p.last-updated {
-                font-size: 18px;
-            }
+        @media (prefers-color-scheme: dark) {
+            -webkit-text-stroke-color: var(--color-dark);
+        }
+    }
+}
+
+.artist-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    span {
+        color: var(--color-meta-blue);
+
+        @media (prefers-color-scheme: dark) {
+            color: var(--color-meta-yellow);
         }
     }
 
-    img {
-        width: 320px;
-        object-fit: cover;
-        border-radius: 8px;
+    p {
+        font-size: 22px;
+
+        &.last-updated {
+            color: var(--color-selected-lighter-green);
+        }
+
+        &.genres,
+        &.last-updated {
+            font-size: 14px;
+        }
+
+        @media (min-width: 1200px) {
+            font-size: 24px;
+
+            &.genres,
+            &.last-updated {
+                font-size: 18px;
+            }
+        }
     }
 }

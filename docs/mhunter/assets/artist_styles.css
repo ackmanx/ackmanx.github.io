@@ -12,17 +12,23 @@ nav {
     a {
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: var(--color-light);
+
+        @media (prefers-color-scheme: dark) {
+            -webkit-text-stroke-width: 0;
+        }
+    }
+
+    span {
+        color: var(--color-meta-blue);
+
+        @media (prefers-color-scheme: dark) {
+            color: var(--color-meta-yellow);
+        }
     }
 }
 
 header {
     color: var(--color-light);
-
-    /*@media (min-width: 1450px) {
-    }*/
-
-    /*@media (prefers-color-scheme: dark) {*/
-    /*}*/
 
     .cover-art-link {
         display: block;
@@ -80,8 +86,8 @@ header {
 
     .header-meta {
         display: flex;
-        /*flex-direction: column;*/
         justify-content: space-around;
+        align-items: center;
         color: var(--color-dark);
         font-size: 36px;
 
@@ -95,6 +101,10 @@ header {
             span {
                 color: var(--color-meta-yellow);
             }
+        }
+
+        .genre-list {
+            font-size: 28px;
         }
     }
 }
@@ -112,7 +122,7 @@ main {
 
     .album {
         display: flex;
-        gap: 16px;
+        gap: 28px;
 
         .album-cover-art {
             width: 320px;
@@ -139,10 +149,14 @@ main {
         .album-meta {
             display: flex;
             flex-direction: column;
-            gap: 8px;
+            gap: 20px;
 
             p {
                 font-size: 24px;
+
+                span {
+                    color: var(--color-meta-yellow);
+                }
             }
 
             p.artist-list {
@@ -163,8 +177,7 @@ main {
             width: 100px;
 
             @media (prefers-color-scheme: dark) {
-                border: none;
-                border-top: 3px solid var(--color-light);
+                border: 1px solid var(--color-light);
                 background-color: var(--color-button-dark);
                 color: var(--color-light);
 
@@ -179,9 +192,8 @@ main {
                 color: var(--color-dark);
 
                 @media (prefers-color-scheme: dark) {
-                    border: none;
-                    border-top: 3px solid var(--color-selected-green);
-                    background-color: var(--color-button-dark);
+                    border: 1px solid var(--color-selected-darker-green);
+                    background-color: var(--color-selected-darker-green);
                     color: var(--color-light);
 
                     &:hover {
