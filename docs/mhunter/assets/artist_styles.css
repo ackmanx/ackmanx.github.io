@@ -32,36 +32,61 @@ header {
 
     .cover-art-link {
         display: block;
-        width: 900px;
+        width: 100%;
         z-index: 100;
+
+        @media (min-width: 600px) {
+            width: 900px;
+        }
     }
 
     .cover-art {
-        width: 900px;
         height: 332px;
         object-fit: cover;
-        outline: 4px solid var(--color-light);
-        border-radius: 8px;
+        border-radius: 0;
         z-index: 100;
 
         &.large {
-            box-shadow: 0 0 0 8px var(--color-dark);
+            width: 100%;
+            outline: 4px solid var(--color-light);
+
+            @media (min-width: 600px) {
+                width: 900px;
+            }
+        }
+
+        @media (min-width: 600px) {
+            border-radius: 8px;
         }
 
         @media (prefers-color-scheme: dark) {
             outline: 2px solid var(--color-light);
         }
 
-        &.small {
-            filter: blur(4px) brightness(0.25);
-            outline: none;
-            width: 200px;
+        &.small,
+        &.medium {
+            display: none;
         }
 
-        &.medium {
-            filter: blur(4px) brightness(0.5);
-            outline: none;
-            z-index: 50;
+        &.large {
+            box-shadow: 0 0 0 8px var(--color-dark);
+        }
+
+        @media (min-width: 600px) {
+            &.small {
+                display: block;
+                filter: blur(4px) brightness(0.25);
+                outline: none;
+                width: 200px;
+            }
+
+            &.medium {
+                display: block;
+                width: 900px;
+                filter: blur(4px) brightness(0.5);
+                outline: none;
+                z-index: 50;
+            }
         }
     }
 
@@ -85,11 +110,16 @@ header {
     }
 
     .header-meta {
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
         color: var(--color-dark);
+        margin: 0 16px;
         font-size: 36px;
+
+        @media (min-width: 600px) {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin: 0;
+        }
 
         span {
             color: var(--color-meta-blue);
@@ -117,12 +147,20 @@ ___________________________________________________*/
 main {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 64px;
-    margin: 84px 48px;
+    margin: 48px 0;
+
+    @media (min-width: 600px) {
+        align-items: initial;
+        margin: 84px 48px;
+    }
 
     .album {
-        display: flex;
-        gap: 28px;
+        @media (min-width: 600px) {
+            display: flex;
+            gap: 28px;
+        }
 
         .album-cover-art {
             width: 320px;
@@ -149,7 +187,11 @@ main {
         .album-meta {
             display: flex;
             flex-direction: column;
-            gap: 20px;
+            gap: 8px;
+
+            @media (min-width: 600px) {
+                gap: 18px;
+            }
 
             p {
                 font-size: 24px;
