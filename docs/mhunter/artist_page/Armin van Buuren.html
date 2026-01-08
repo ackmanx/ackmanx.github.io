@@ -3119,8 +3119,10 @@
         }
 
         export async function update_artist_viewed(artist_name, viewed_array) {
+            const password_hash = localStorage.getItem('super_secret')
+
             const response = await fetch(
-                `https://mhunter-backend.vercel.app/artist?name=${artist_name}`, {
+                `https://mhunter-backend.vercel.app/artist?name=${artist_name}&super_secret=${password_hash}`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
