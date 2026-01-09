@@ -23,7 +23,7 @@ header {
 }
 
 h1 {
-    font-family: "Asimovian-Regular", "sans-serif";
+    font-family: "Asimovian", "sans-serif";
     font-size: 48px;
     margin: 0;
     color: var(--color-light);

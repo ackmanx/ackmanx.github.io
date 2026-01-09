@@ -26,7 +26,7 @@ ___________________________________________________*/
 }
 
 @font-face {
-    font-family: "Asimovian-Regular";
+    font-family: "Asimovian";
     src: url("fonts/Asimovian-Regular.ttf");
 }
 
@@ -72,7 +72,7 @@ a:active,
 a:link,
 a:hover {
     color: var(--color-dark);
-    font-family: "Asimovian-Regular", "sans-serif";
+    font-family: "Asimovian", "sans-serif";
     text-decoration: none;
 
     @media (prefers-color-scheme: dark) {
