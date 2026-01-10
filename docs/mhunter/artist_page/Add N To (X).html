@@ -28,7 +28,10 @@
         </div>
     </header>
     <main data-artist-name="add n to (x)">
-        <div class="filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="everything">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked> new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="filters">
+            <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="year-all" checked>all</label><label><input name="release-year" type="radio"></label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label><label for="1998"><input name="release-year" type="radio" id="1998" value="1998">1998</label><label for="1996"><input name="release-year" type="radio" id="1996" value="1996">1996</label></div>
+            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="everything">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked> new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        </div>
         <div class="albums-list">
             <section class="album"><a href="spotify:album:2zhN7Bz0lSkgXQ5nOYsjL1"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b2d35b5e711a00c27ab1221b" alt="Loud Like Nature"></a>
                 <div class="album-meta">
@@ -138,20 +141,45 @@
             }
         })
 
+        const $year_filters = document.querySelectorAll('input[name="release-year"]')
+
+        $year_filters.forEach(($input) => {
+            $input.addEventListener('click', filter_by_year)
+        })
+
         const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]')
 
         $viewed_filters.forEach(($input) => {
-            $input.addEventListener('click', filter_albums)
+            $input.addEventListener('click', filter_by_viewed_status)
         })
 
         // Fake an event on initial page load to default to only showing new albums
-        filter_albums({
-            currentTarget: {
-                value: 'new'
-            }
-        })
+        // filter_by_viewed_status({ currentTarget: { value: 'new' } })
 
-        function filter_albums(event) {
+        function filter_by_year(event) {
+            const filter_selection = event.currentTarget.value
+
+            if (filter_selection === 'year-all') {
+                for (const $album of document.querySelectorAll('.album')) {
+                    $album.classList.remove('hidden')
+                    $album.classList.add('visible')
+                }
+
+                return
+            }
+
+            for (const $album of document.querySelectorAll('.album')) {
+                if ($album.dataset.releaseYear === filter_selection) {
+                    $album.classList.remove('hidden')
+                    $album.classList.add('visible')
+                } else {
+                    $album.classList.remove('visible')
+                    $album.classList.add('hidden')
+                }
+            }
+        }
+
+        function filter_by_viewed_status(event) {
             const filter_selection = event.currentTarget.value
 
             if (filter_selection === 'everything') {

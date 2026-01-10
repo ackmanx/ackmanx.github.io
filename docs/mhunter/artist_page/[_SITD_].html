@@ -17,18 +17,21 @@
 <body>
     <nav>
         <p><a href="../index.html">Index</a> / [:SITD:]</p>
-        <p><span>Cached On</span> Mon Dec 29 2025</p>
+        <p><span>Cached On</span> Fri Jan 09 2026</p>
     </nav>
     <header>
         <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5ebc5138bd9ae7c1c88e027b044" alt="[:SITD:]"><a class="cover-art-link" href="spotify:artist:2McJOiKebPtBGqyEYyZQFN"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebc5138bd9ae7c1c88e027b044" alt="[:SITD:]"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5ebc5138bd9ae7c1c88e027b044" alt="[:SITD:]"></div>
         <div class="header-meta">
-            <p><span>Followers</span> 29,174</p>
-            <p><span>Popularity</span> 31</p>
+            <p><span>Followers</span> 29,241</p>
+            <p><span>Popularity</span> 32</p>
             <p class="genre-list">ebm, industrial, darkwave, synthpop</p>
         </div>
     </header>
     <main data-artist-name="[:sitd:]">
-        <div class="filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="everything">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked> new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="filters">
+            <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="year-all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label><label for="2003"><input name="release-year" type="radio" id="2003" value="2003">2003</label><label for="2002"><input name="release-year" type="radio" id="2002" value="2002">2002</label></div>
+            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="everything">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked> new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        </div>
         <div class="albums-list">
             <section class="album" data-release-year="2024"><a href="spotify:album:4C95B8Y21PDIZtk7uZzKOd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b34bf861bf8562784909c539" alt="Brieselang"></a>
                 <div class="album-meta">
@@ -135,7 +138,7 @@
                     <p><span>2005-02-21</span> - album </p><button type="button" class="viewed-button" data-artist-name="[:sitd:]" data-album-name="richtfest">…</button>
                 </div>
             </section>
-            <section class="album"><a href="spotify:album:6TuuXmqqPEaVtStif1Mj03"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273e8892429513dfeaa5832524e" alt="Amnesia"></a>
+            <section class="album" data-release-year="2005"><a href="spotify:album:6TuuXmqqPEaVtStif1Mj03"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273e8892429513dfeaa5832524e" alt="Amnesia"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:6TuuXmqqPEaVtStif1Mj03">Amnesia</a></h2>
                     <p class="artist-list">Frozen Plasma, [:SITD:]</p>
@@ -236,20 +239,45 @@
             }
         })
 
+        const $year_filters = document.querySelectorAll('input[name="release-year"]')
+
+        $year_filters.forEach(($input) => {
+            $input.addEventListener('click', filter_by_year)
+        })
+
         const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]')
 
         $viewed_filters.forEach(($input) => {
-            $input.addEventListener('click', filter_albums)
+            $input.addEventListener('click', filter_by_viewed_status)
         })
 
         // Fake an event on initial page load to default to only showing new albums
-        filter_albums({
-            currentTarget: {
-                value: 'new'
-            }
-        })
+        // filter_by_viewed_status({ currentTarget: { value: 'new' } })
 
-        function filter_albums(event) {
+        function filter_by_year(event) {
+            const filter_selection = event.currentTarget.value
+
+            if (filter_selection === 'year-all') {
+                for (const $album of document.querySelectorAll('.album')) {
+                    $album.classList.remove('hidden')
+                    $album.classList.add('visible')
+                }
+
+                return
+            }
+
+            for (const $album of document.querySelectorAll('.album')) {
+                if ($album.dataset.releaseYear === filter_selection) {
+                    $album.classList.remove('hidden')
+                    $album.classList.add('visible')
+                } else {
+                    $album.classList.remove('visible')
+                    $album.classList.add('hidden')
+                }
+            }
+        }
+
+        function filter_by_viewed_status(event) {
             const filter_selection = event.currentTarget.value
 
             if (filter_selection === 'everything') {
