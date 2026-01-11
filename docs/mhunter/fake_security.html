@@ -17,27 +17,19 @@
 <body>
     <main style="display:flex;align-items:center;flex-direction:column;"><input type="text" placeholder="put ya password here" style="width:90vw;font-size:32px;margin-bottom:16px;padding:8px;border-radius:8px;"><button type="button" style="width:200px;height:50px;font-size:36px;border-radius:8px;cursor:pointer;">submit</button></main>
     <script type="module">
-        // deno-lint-ignore-file no-window
-
-        document.querySelector('button').addEventListener('click', async () => {
-            const password = document.querySelector('input').value
-
-            localStorage.setItem('super_secret', await hash_string(password))
-
-            window.location.href = 'index.html'
-        })
-
-        /*
-         * During POST to the backend, we send the hashed password generated here, pulled out of local storage
-         * Super secure backend then compares the hash to its stored password hash
-         */
+        document.querySelector('button')?.addEventListener('click', async () => {
+            const password = document.querySelector('input')?.value;
+            if (!password) {
+                throw new Error('The impossible happened. Password input not found');
+            }
+            localStorage.setItem('super_secret', await hash_string(password));
+            window.location.href = 'index.html';
+        });
         async function hash_string(input_string) {
-            const encoder = new TextEncoder()
-
-            const data = encoder.encode(input_string)
-            const array_buffer = await crypto.subtle.digest('SHA-256', data)
-
-            return new Uint8Array(array_buffer).toHex()
+            const encoder = new TextEncoder();
+            const data = encoder.encode(input_string);
+            const array_buffer = await crypto.subtle.digest('SHA-256', data);
+            return new Uint8Array(array_buffer).toHex();
         }
     </script>
 </body>

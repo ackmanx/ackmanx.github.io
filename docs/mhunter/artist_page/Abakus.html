@@ -568,202 +568,141 @@
         </div>
     </main>
     <script type="module">
-        /*
-         * I enabled CORS on `mhunter-backend` so these aren't a problem directly from the browser
-         */
-
-        /**
-         * @typedef {Object} Artist
-         * @property {string} name
-         * @property {string[]} viewed
-         */
-
-        /**
-         * @param {string} name
-         * @returns {Promise<Artist>}
-         */
-        export async function fetch_artist_viewed(artist_name) {
-            const response = await fetch(
-                `https://mhunter-backend.vercel.app/artist?name=${artist_name}`,
-            )
-
-            return response.json()
+        async function fetch_artist_viewed(artist_name) {
+            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${artist_name}`);
+            return response.json();
         }
-
-        export async function update_artist_viewed(artist_name, viewed_array) {
-            const password_hash = localStorage.getItem('super_secret')
-
-            const response = await fetch(
-                `https://mhunter-backend.vercel.app/artist?name=${artist_name}&super_secret=${password_hash}`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify(viewed_array),
+        async function update_artist_viewed(artist_name, viewed_array) {
+            const password_hash = localStorage.getItem('super_secret');
+            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${artist_name}&super_secret=${password_hash}`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
                 },
-            )
-
-            return response.json()
+                body: JSON.stringify(viewed_array)
+            });
+            return response.json();
         }
-
-        // deno-lint-ignore-file no-window
-
-        /* -------------------------------------------------------------------------
-        ___  __   __           ___       ___
-         |  /  \ |__)    |    |__  \  / |__  |
-         |  \__/ |       |___ |___  \/  |___ |___
-        ------------------------------------------------------------------------- */
-
-        // Initial page load, get latest viewed albums
-        const $main = document.querySelector('main')
-
-        const artist = await fetch_artist_viewed($main.dataset.artistName)
-
+        const $main = document.querySelector('main');
+        if (!$main) {
+            throw new Error('You did the impossible. The app itself did not even load');
+        }
+        if (!$main.dataset.artistName) {
+            throw new Error('You did the impossible. Artist name is not found on the `main` element');
+        }
+        const artist = await fetch_artist_viewed($main.dataset.artistName);
         window.__artist = artist ?? {
             name: $main.dataset.artistName,
             viewed: []
-        }
-
+        };
         window.__filter = {
             release_year: 'all',
-            viewed_status: 'all',
-        }
-
-        const $viewed_buttons = document.querySelectorAll('.viewed-button')
-
+            viewed_status: 'all'
+        };
+        const $viewed_buttons = document.querySelectorAll('.viewed-button');
         $viewed_buttons.forEach(($button) => {
-            $button.addEventListener('click', toggle_viewed_status)
-
-            if (window.__artist.viewed.includes($button.dataset.albumName)) {
-                $button.innerHTML = 'Viewed'
-                $button.classList.add('is-viewed')
-            } else {
-                $button.innerHTML = 'New'
+            $button.addEventListener('click', toggle_viewed_status);
+            if (!$button.dataset.albumName) {
+                throw new Error('You did the impossible. Album name is not found one of the `button` elements');
             }
-        })
-
-        const $year_filters = document.querySelectorAll('input[name="release-year"]')
-
+            if (window.__artist.viewed.includes($button.dataset.albumName)) {
+                $button.innerHTML = 'Viewed';
+                $button.classList.add('is-viewed');
+            } else {
+                $button.innerHTML = 'New';
+            }
+        });
+        const $year_filters = document.querySelectorAll('input[name="release-year"]');
         $year_filters.forEach(($input) => {
-            $input.addEventListener('click', filter_by_year)
-        })
-
-        const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]')
-
+            $input.addEventListener('click', filter_by_year);
+        });
+        const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]');
         $viewed_filters.forEach(($input) => {
-            $input.addEventListener('click', filter_by_viewed_status)
-        })
-
-        // Fake an event on initial page load to default to only showing new albums
+            $input.addEventListener('click', filter_by_viewed_status);
+        });
         filter_by_viewed_status({
             currentTarget: {
                 value: 'new'
             }
-        })
-
-        /* -------------------------------------------------------------------------
-         ___            __  ___    __        __
-        |__  |  | |\ | /  `  |  | /  \ |\ | /__`
-        |    \__/ | \| \__,  |  | \__/ | \| .__/
-        ------------------------------------------------------------------------- */
+        });
 
         function filter_by_year(event) {
-            window.__filter.release_year = event.currentTarget.value
-
-            filter_albums()
+            const $radio_input = event.currentTarget;
+            window.__filter.release_year = $radio_input.value;
+            filter_albums();
         }
 
         function filter_by_viewed_status(event) {
-            window.__filter.viewed_status = event.currentTarget.value
-
-            filter_albums()
+            const $radio_input = event.currentTarget;
+            window.__filter.viewed_status = $radio_input.value;
+            filter_albums();
         }
-
         async function toggle_viewed_status(event) {
-            const $button = event.currentTarget
-            const artist = window.__artist
-
-            if ($button.classList.contains('is-viewed')) {
-                const album_index = artist.viewed.indexOf($button.dataset.albumName)
-
-                artist.viewed.splice(album_index, 1)
-
-                $button.innerHTML = 'New'
-                $button.classList.remove('is-viewed')
-            } else {
-                artist.viewed.push($button.dataset.albumName)
-                artist.viewed.sort()
-
-                $button.innerHTML = 'Viewed'
-                $button.classList.add('is-viewed')
+            const $button = event.currentTarget;
+            const artist = window.__artist;
+            if (!$button.dataset.albumName) {
+                throw new Error('You did the impossible. Album name is not found one of the `button` elements');
             }
-
-            await update_artist_viewed(artist.name, artist.viewed)
-
-            filter_albums()
+            if ($button.classList.contains('is-viewed')) {
+                const album_index = artist.viewed.indexOf($button.dataset.albumName);
+                artist.viewed.splice(album_index, 1);
+                $button.innerHTML = 'New';
+                $button.classList.remove('is-viewed');
+            } else {
+                artist.viewed.push($button.dataset.albumName);
+                artist.viewed.sort();
+                $button.innerHTML = 'Viewed';
+                $button.classList.add('is-viewed');
+            }
+            await update_artist_viewed(artist.name, artist.viewed);
+            filter_albums();
         }
 
         function filter_albums() {
-            const release_year = window.__filter.release_year
-            const viewed_status = window.__filter.viewed_status
-
+            const release_year = window.__filter.release_year;
+            const viewed_status = window.__filter.viewed_status;
             if (release_year === 'all' && viewed_status === 'all') {
                 for (const $album of document.querySelectorAll('.album')) {
-                    $album.classList.remove('hidden')
+                    $album.classList.remove('hidden');
                 }
-
-                return
+                return;
             }
-
             for (const $album of document.querySelectorAll('.album')) {
-                const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'))
-                const matches_year = $album.dataset.releaseYear === release_year
-
-                // If release year is 'all', then only filter by remaining two options for viewed status
+                const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'));
+                const matches_year = $album.dataset.releaseYear === release_year;
                 if (release_year === 'all') {
                     if (viewed_status === 'new') {
-                        is_viewed ? $album.classList.add('hidden') : $album.classList.remove('hidden')
-                        continue
+                        is_viewed ? $album.classList.add('hidden') : $album.classList.remove('hidden');
+                        continue;
                     }
-
                     if (viewed_status === 'viewed') {
-                        is_viewed ? $album.classList.remove('hidden') : $album.classList.add('hidden')
-                        continue
+                        is_viewed ? $album.classList.remove('hidden') : $album.classList.add('hidden');
+                        continue;
                     }
                 }
-
-                // If viewed status is 'all', then only filter by year
                 if (viewed_status === 'all') {
                     if (matches_year) {
-                        $album.classList.remove('hidden')
-                        continue
+                        $album.classList.remove('hidden');
+                        continue;
                     } else {
-                        $album.classList.add('hidden')
-                        continue
+                        $album.classList.add('hidden');
+                        continue;
                     }
                 }
-
-                // Finally, if this far both filters are engaged to narrow down album list results
-
-                // If we only want new albums and this album is viewed, then hide and get next result
                 if (viewed_status === 'new' && is_viewed) {
-                    $album.classList.add('hidden')
-                    continue
+                    $album.classList.add('hidden');
+                    continue;
                 }
-
-                // If we only want viewed albums and this album is new, then hide and get next result
                 if (viewed_status === 'viewed' && !is_viewed) {
-                    $album.classList.add('hidden')
-                    continue
+                    $album.classList.add('hidden');
+                    continue;
                 }
-
-                // All that's left now is to match the year
                 if (matches_year) {
-                    $album.classList.remove('hidden')
-                    continue
+                    $album.classList.remove('hidden');
+                    continue;
                 } else {
-                    $album.classList.add('hidden')
-                    continue
+                    $album.classList.add('hidden');
+                    continue;
                 }
             }
         }
