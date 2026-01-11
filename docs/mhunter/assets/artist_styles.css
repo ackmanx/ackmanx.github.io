@@ -169,13 +169,11 @@ main {
     }
 
     .album {
-        &.visible {
-            display: "block";
+        display: block;
 
-            @media (min-width: 600px) {
-                display: flex;
-                gap: 28px;
-            }
+        @media (min-width: 600px) {
+            display: flex;
+            gap: 28px;
         }
 
         &.hidden {
