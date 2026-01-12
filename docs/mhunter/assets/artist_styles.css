@@ -153,8 +153,46 @@ main {
 
     .filters {
         display: flex;
-        justify-content: space-between;
-        margin-bottom: 24px;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 36px;
+        margin-bottom: 48px;
+
+        @media (min-width: 600px) {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .release-year-filters {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+
+        label {
+            padding: 6px 8px 8px 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.2s all linear;
+        }
+
+        label:hover {
+            background-color: var(--color-light);
+            color: var(--color-dark);
+        }
+
+        label:has(input:checked) {
+            background-color: var(--color-selected-darker-green);
+            color: var(--color-light);
+        }
+
+        input {
+            appearance: none;
+            margin: 0;
+        }
     }
 
     .albums-list {
@@ -169,10 +207,13 @@ main {
     }
 
     .album {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
 
         @media (min-width: 600px) {
-            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
             gap: 28px;
         }
 
@@ -187,6 +228,7 @@ main {
         }
 
         .album-name {
+            text-align: center;
             font-size: 36px;
             margin: 0;
 
@@ -205,9 +247,11 @@ main {
         .album-meta {
             display: flex;
             flex-direction: column;
+            align-items: center;
             gap: 8px;
 
             @media (min-width: 600px) {
+                align-items: flex-start;
                 gap: 18px;
             }
 
