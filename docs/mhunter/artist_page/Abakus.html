@@ -27,12 +27,12 @@
             <p class="genre-list">downtempo</p>
         </div>
     </header>
-    <main data-artist-name="abakus">
+    <main data-artist-name="abakus" data-albums-count="76">
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label><input name="release-year" type="radio"></label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2008"><input name="release-year" type="radio" id="2008" value="2008">2008</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
-        <div class="albums-list">
+        <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:4zHbZtzXBgYWnDgVpcFksJ"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27333c378ce08cc5c808e0efa2d" alt="This Moment With You (Abakus Remix)"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:4zHbZtzXBgYWnDgVpcFksJ">This Moment With You (Abakus Remix)</a></h2>
@@ -565,6 +565,7 @@
                     <p><span>2008-11-04</span> - single - 4 track</p><button type="button" class="viewed-button" data-artist-name="abakus" data-album-name="under the stars ep">…</button>
                 </div>
             </section>
+            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
     <script type="module">
@@ -583,7 +584,9 @@
             });
             return response.json();
         }
-        const $main = document.querySelector('main');
+        const $ = (selector) => document.querySelector(selector);
+        const $$ = (selector) => document.querySelectorAll(selector);
+        const $main = $('main');
         if (!$main) {
             throw new Error('You did the impossible. The app itself did not even load');
         }
@@ -599,7 +602,7 @@
             release_year: 'all',
             viewed_status: 'all'
         };
-        const $viewed_buttons = document.querySelectorAll('.viewed-button');
+        const $viewed_buttons = $$('.viewed-button');
         $viewed_buttons.forEach(($button) => {
             $button.addEventListener('click', toggle_viewed_status);
             if (!$button.dataset.albumName) {
@@ -612,11 +615,11 @@
                 $button.innerHTML = 'New';
             }
         });
-        const $year_filters = document.querySelectorAll('input[name="release-year"]');
+        const $year_filters = $$('input[name="release-year"]');
         $year_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_year);
         });
-        const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]');
+        const $viewed_filters = $$('input[name="viewed-filter"]');
         $viewed_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_viewed_status);
         });
@@ -625,6 +628,7 @@
                 value: 'new'
             }
         });
+        $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {
             const $radio_input = event.currentTarget;
@@ -662,12 +666,12 @@
             const release_year = window.__filter.release_year;
             const viewed_status = window.__filter.viewed_status;
             if (release_year === 'all' && viewed_status === 'all') {
-                for (const $album of document.querySelectorAll('.album')) {
+                for (const $album of $$('.album')) {
                     $album.classList.remove('hidden');
                 }
                 return;
             }
-            for (const $album of document.querySelectorAll('.album')) {
+            for (const $album of $$('.album')) {
                 const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'));
                 const matches_year = $album.dataset.releaseYear === release_year;
                 if (release_year === 'all') {
@@ -704,6 +708,16 @@
                     $album.classList.add('hidden');
                     continue;
                 }
+            }
+            const all_albums_count = Number($main?.dataset.albumsCount);
+            const all_hidden_albums = $$('.album.hidden');
+            if (all_albums_count === all_hidden_albums.length) {
+                $('#no-results-year-filter').innerHTML = window.__filter.release_year;
+                $('#no-results-viewed-status-filter').innerHTML = window.__filter.viewed_status;
+                debugger;
+                $('.no-results-message')?.classList.remove('hidden');
+            } else {
+                $('.no-results-message')?.classList.add('hidden');
             }
         }
     </script>

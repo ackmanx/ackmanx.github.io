@@ -144,6 +144,14 @@ header {
 |\/|  /\  | |\ |
 |  | /~~\ | | \|
 ___________________________________________________*/
+.hidden {
+    display: none !important;
+}
+
+.transparent {
+    opacity: 0 !important;
+}
+
 main {
     margin: 48px 0;
 
@@ -200,9 +208,22 @@ main {
         flex-direction: column;
         align-items: center;
         gap: 64px;
+        transition: 200ms all linear;
+        opacity: 1;
 
         @media (min-width: 600px) {
             align-items: initial;
+        }
+
+        .no-results-message {
+            text-align: center;
+
+            span {
+                padding: 2px 12px;
+                border-radius: 8px;
+                background-color: var(--color-selected-darker-green);
+                color: var(--color-light);
+            }
         }
     }
 
@@ -215,10 +236,6 @@ main {
             flex-direction: row;
             align-items: flex-start;
             gap: 28px;
-        }
-
-        &.hidden {
-            display: none;
         }
 
         .album-cover-art {

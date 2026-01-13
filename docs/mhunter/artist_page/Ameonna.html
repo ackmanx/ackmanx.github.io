@@ -27,12 +27,12 @@
             <p class="genre-list">deathcore</p>
         </div>
     </header>
-    <main data-artist-name="ameonna">
+    <main data-artist-name="ameonna" data-albums-count="3">
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
-        <div class="albums-list">
+        <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:3kzWFB1M13bkdgN28qWWuq"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273127905fa855b31884a826810" alt="The Birth of Death"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:3kzWFB1M13bkdgN28qWWuq">The Birth of Death</a></h2>
@@ -54,6 +54,7 @@
                     <p><span>2024-01-14</span> - single - 6 track</p><button type="button" class="viewed-button" data-artist-name="ameonna" data-album-name="goddess wept">…</button>
                 </div>
             </section>
+            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
     <script type="module">
@@ -72,7 +73,9 @@
             });
             return response.json();
         }
-        const $main = document.querySelector('main');
+        const $ = (selector) => document.querySelector(selector);
+        const $$ = (selector) => document.querySelectorAll(selector);
+        const $main = $('main');
         if (!$main) {
             throw new Error('You did the impossible. The app itself did not even load');
         }
@@ -88,7 +91,7 @@
             release_year: 'all',
             viewed_status: 'all'
         };
-        const $viewed_buttons = document.querySelectorAll('.viewed-button');
+        const $viewed_buttons = $$('.viewed-button');
         $viewed_buttons.forEach(($button) => {
             $button.addEventListener('click', toggle_viewed_status);
             if (!$button.dataset.albumName) {
@@ -101,11 +104,11 @@
                 $button.innerHTML = 'New';
             }
         });
-        const $year_filters = document.querySelectorAll('input[name="release-year"]');
+        const $year_filters = $$('input[name="release-year"]');
         $year_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_year);
         });
-        const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]');
+        const $viewed_filters = $$('input[name="viewed-filter"]');
         $viewed_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_viewed_status);
         });
@@ -114,6 +117,7 @@
                 value: 'new'
             }
         });
+        $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {
             const $radio_input = event.currentTarget;
@@ -151,12 +155,12 @@
             const release_year = window.__filter.release_year;
             const viewed_status = window.__filter.viewed_status;
             if (release_year === 'all' && viewed_status === 'all') {
-                for (const $album of document.querySelectorAll('.album')) {
+                for (const $album of $$('.album')) {
                     $album.classList.remove('hidden');
                 }
                 return;
             }
-            for (const $album of document.querySelectorAll('.album')) {
+            for (const $album of $$('.album')) {
                 const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'));
                 const matches_year = $album.dataset.releaseYear === release_year;
                 if (release_year === 'all') {
@@ -193,6 +197,16 @@
                     $album.classList.add('hidden');
                     continue;
                 }
+            }
+            const all_albums_count = Number($main?.dataset.albumsCount);
+            const all_hidden_albums = $$('.album.hidden');
+            if (all_albums_count === all_hidden_albums.length) {
+                $('#no-results-year-filter').innerHTML = window.__filter.release_year;
+                $('#no-results-viewed-status-filter').innerHTML = window.__filter.viewed_status;
+                debugger;
+                $('.no-results-message')?.classList.remove('hidden');
+            } else {
+                $('.no-results-message')?.classList.add('hidden');
             }
         }
     </script>

@@ -27,12 +27,12 @@
             <p class="genre-list">metalcore, deathcore, djent</p>
         </div>
     </header>
-    <main data-artist-name="alpha wolf">
+    <main data-artist-name="alpha wolf" data-albums-count="17">
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
-        <div class="albums-list">
+        <div class="albums-list transparent">
             <section class="album" data-release-year="2024"><a href="spotify:album:1SzS1LUUceddG6DBicNjlx"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2733e6c4fe2889fb2a91fbd4d3a" alt="Alpha Wolf on Audiotree Live"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:1SzS1LUUceddG6DBicNjlx">Alpha Wolf on Audiotree Live</a></h2>
@@ -152,6 +152,7 @@
                     <p><span>2015-11-04</span> - single - 2 track</p><button type="button" class="viewed-button" data-artist-name="alpha wolf" data-album-name="dark soul">…</button>
                 </div>
             </section>
+            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
     <script type="module">
@@ -170,7 +171,9 @@
             });
             return response.json();
         }
-        const $main = document.querySelector('main');
+        const $ = (selector) => document.querySelector(selector);
+        const $$ = (selector) => document.querySelectorAll(selector);
+        const $main = $('main');
         if (!$main) {
             throw new Error('You did the impossible. The app itself did not even load');
         }
@@ -186,7 +189,7 @@
             release_year: 'all',
             viewed_status: 'all'
         };
-        const $viewed_buttons = document.querySelectorAll('.viewed-button');
+        const $viewed_buttons = $$('.viewed-button');
         $viewed_buttons.forEach(($button) => {
             $button.addEventListener('click', toggle_viewed_status);
             if (!$button.dataset.albumName) {
@@ -199,11 +202,11 @@
                 $button.innerHTML = 'New';
             }
         });
-        const $year_filters = document.querySelectorAll('input[name="release-year"]');
+        const $year_filters = $$('input[name="release-year"]');
         $year_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_year);
         });
-        const $viewed_filters = document.querySelectorAll('input[name="viewed-filter"]');
+        const $viewed_filters = $$('input[name="viewed-filter"]');
         $viewed_filters.forEach(($input) => {
             $input.addEventListener('click', filter_by_viewed_status);
         });
@@ -212,6 +215,7 @@
                 value: 'new'
             }
         });
+        $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {
             const $radio_input = event.currentTarget;
@@ -249,12 +253,12 @@
             const release_year = window.__filter.release_year;
             const viewed_status = window.__filter.viewed_status;
             if (release_year === 'all' && viewed_status === 'all') {
-                for (const $album of document.querySelectorAll('.album')) {
+                for (const $album of $$('.album')) {
                     $album.classList.remove('hidden');
                 }
                 return;
             }
-            for (const $album of document.querySelectorAll('.album')) {
+            for (const $album of $$('.album')) {
                 const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'));
                 const matches_year = $album.dataset.releaseYear === release_year;
                 if (release_year === 'all') {
@@ -291,6 +295,16 @@
                     $album.classList.add('hidden');
                     continue;
                 }
+            }
+            const all_albums_count = Number($main?.dataset.albumsCount);
+            const all_hidden_albums = $$('.album.hidden');
+            if (all_albums_count === all_hidden_albums.length) {
+                $('#no-results-year-filter').innerHTML = window.__filter.release_year;
+                $('#no-results-viewed-status-filter').innerHTML = window.__filter.viewed_status;
+                debugger;
+                $('.no-results-message')?.classList.remove('hidden');
+            } else {
+                $('.no-results-message')?.classList.add('hidden');
             }
         }
     </script>
