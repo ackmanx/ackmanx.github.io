@@ -173,6 +173,7 @@ main {
 
         @media (min-width: 600px) {
             flex-direction: row;
+            align-items: baseline;
             justify-content: space-between;
         }
 
@@ -183,6 +184,17 @@ main {
             justify-content: center;
             gap: 8px;
             margin-bottom: 16px;
+
+            @media (min-width: 600px) {
+                justify-content: left;
+                width: 950px;
+            }
+        }
+
+        .viewed-filters {
+            @media (min-width: 600px) {
+                width: 200px;
+            }
         }
 
         label {
