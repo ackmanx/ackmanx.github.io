@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label><label for="2003"><input name="release-year" type="radio" id="2003" value="2003">2003</label><label for="2002"><input name="release-year" type="radio" id="2002" value="2002">2002</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2024"><a href="spotify:album:4C95B8Y21PDIZtk7uZzKOd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b34bf861bf8562784909c539" alt="Brieselang"></a>
                 <div class="album-meta">
@@ -229,6 +232,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

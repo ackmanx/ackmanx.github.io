@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2016"><a href="spotify:album:5qWgCRjM8nf56Tx8FFhw1Q"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27344364c4b27af2a06a37fd97a" alt="Eleven"></a>
                 <div class="album-meta">
@@ -131,6 +134,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

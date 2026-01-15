@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="1994"><input name="release-year" type="radio" id="1994" value="1994">1994</label><label for="1993"><input name="release-year" type="radio" id="1993" value="1993">1993</label><label for="1991"><input name="release-year" type="radio" id="1991" value="1991">1991</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2014"><a href="spotify:album:2go9pd8BcLKxS6NKIvrxDP"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738447c9a5f8ebfcdd27665449" alt="In Your Face"></a>
                 <div class="album-meta">
@@ -222,6 +225,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label><label for="2002"><input name="release-year" type="radio" id="2002" value="2002">2002</label><label for="2000"><input name="release-year" type="radio" id="2000" value="2000">2000</label><label for="1997"><input name="release-year" type="radio" id="1997" value="1997">1997</label><label for="1996"><input name="release-year" type="radio" id="1996" value="1996">1996</label><label for="1993"><input name="release-year" type="radio" id="1993" value="1993">1993</label><label for="1992"><input name="release-year" type="radio" id="1992" value="1992">1992</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:0xiYXaoizTl1lyfHcoRrtD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273bf2c5a745a8533bd10746a8f" alt="Kathy's Song XXV"></a>
                 <div class="album-meta">
@@ -285,6 +288,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

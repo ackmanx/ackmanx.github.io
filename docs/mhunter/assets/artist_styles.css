@@ -152,6 +152,11 @@ ___________________________________________________*/
     opacity: 0 !important;
 }
 
+.loading-spinner-container {
+    display: flex;
+    justify-content: center;
+}
+
 main {
     margin: 48px 0;
 

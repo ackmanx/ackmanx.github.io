@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:1EqtP8ZuIgtpJ7E4XkF5F0"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cccdacb58e9d5a435168d3ed" alt="Apart (Binary Division Remix)"></a>
                 <div class="album-meta">
@@ -201,6 +204,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

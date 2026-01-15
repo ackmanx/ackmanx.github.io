@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2021"><a href="spotify:album:1hzD5UTC35MqrkBQbhcYE9"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734b0cdd2e37dd174f417cde2c" alt="Songs for Alan Turing"></a>
                 <div class="album-meta">
@@ -131,6 +134,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

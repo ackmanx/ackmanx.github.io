@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2012"><a href="spotify:album:4811TdyKtm51ct9ReQQPOG"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734f28f46e4583a1d2e69e628b" alt="And Down Goes the Sky"></a>
                 <div class="album-meta">
@@ -110,6 +113,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

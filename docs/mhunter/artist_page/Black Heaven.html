@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2008"><input name="release-year" type="radio" id="2008" value="2008">2008</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2004"><input name="release-year" type="radio" id="2004" value="2004">2004</label><label for="2001"><input name="release-year" type="radio" id="2001" value="2001">2001</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2019"><a href="spotify:album:4A06zkj20wjL0c483luADc"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f486c1c659155b92710c1a56" alt="Suicide Songs"></a>
                 <div class="album-meta">
@@ -152,6 +155,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

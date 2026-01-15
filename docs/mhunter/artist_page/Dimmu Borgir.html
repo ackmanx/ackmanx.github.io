@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label><label for="2008"><input name="release-year" type="radio" id="2008" value="2008">2008</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label><label for="2003"><input name="release-year" type="radio" id="2003" value="2003">2003</label><label for="2001"><input name="release-year" type="radio" id="2001" value="2001">2001</label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label><label for="1998"><input name="release-year" type="radio" id="1998" value="1998">1998</label><label for="1997"><input name="release-year" type="radio" id="1997" value="1997">1997</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album" data-release-year="2023"><a href="spotify:album:6PMOZfuG2E4wDMZLGmpkkx"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734ae0198c41a1fe1d62d731e7" alt="Inspiratio Profanus"></a>
                 <div class="album-meta">
@@ -236,6 +239,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {

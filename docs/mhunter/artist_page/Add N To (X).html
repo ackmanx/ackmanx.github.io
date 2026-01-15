@@ -32,6 +32,9 @@
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label><input name="release-year" type="radio"></label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label><label for="1998"><input name="release-year" type="radio" id="1998" value="1998">1998</label><label for="1996"><input name="release-year" type="radio" id="1996" value="1996">1996</label></div>
             <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
         <div class="albums-list transparent">
             <section class="album"><a href="spotify:album:2zhN7Bz0lSkgXQ5nOYsjL1"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b2d35b5e711a00c27ab1221b" alt="Loud Like Nature"></a>
                 <div class="album-meta">
@@ -131,6 +134,7 @@
                 value: 'new'
             }
         });
+        $('.loading-spinner-container')?.classList.add('hidden');
         $('.albums-list')?.classList.remove('transparent');
 
         function filter_by_year(event) {
