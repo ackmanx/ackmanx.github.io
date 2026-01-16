@@ -170,7 +170,11 @@ main {
         align-items: center;
         margin-top: 36px;
         margin-bottom: 48px;
-        background-color: var(--color-button-dark);
+        background-color: var(--color-light-again);
+
+        @media (prefers-color-scheme: dark) {
+            background-color: var(--color-button-dark);
+        }
 
         @media (min-width: 600px) {
             flex-direction: row;
@@ -213,8 +217,13 @@ main {
         }
 
         label:has(input:checked) {
-            background-color: var(--color-meta-yellow);
-            color: var(--color-dark);
+            background-color: var(--color-meta-blue);
+            color: var(--color-light);
+
+            @media (prefers-color-scheme: dark) {
+                background-color: var(--color-meta-yellow);
+                color: var(--color-dark);
+            }
         }
 
         input {
@@ -240,8 +249,13 @@ main {
 
             span {
                 padding: 2px 12px;
-                background-color: var(--color-meta-yellow);
-                color: var(--color-dark);
+                background-color: var(--color-meta-blue);
+                color: var(--color-light);
+
+                @media (prefers-color-scheme: dark) {
+                    background-color: var(--color-meta-yellow);
+                    color: var(--color-dark);
+                }
             }
         }
     }
