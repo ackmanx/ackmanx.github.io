@@ -170,10 +170,11 @@ main {
         align-items: center;
         margin-top: 36px;
         margin-bottom: 48px;
+        background-color: var(--color-button-dark);
 
         @media (min-width: 600px) {
             flex-direction: row;
-            align-items: baseline;
+            align-items: normal;
             justify-content: space-between;
         }
 
@@ -188,18 +189,20 @@ main {
             @media (min-width: 600px) {
                 justify-content: left;
                 width: 950px;
+                margin-bottom: 0;
             }
         }
 
         .viewed-filters {
+            display: flex;
+
             @media (min-width: 600px) {
-                width: 200px;
+                width: 180px;
             }
         }
 
         label {
             padding: 6px 8px 8px 8px;
-            border-radius: 8px;
             cursor: pointer;
             transition: 0.2s all linear;
         }
@@ -210,8 +213,8 @@ main {
         }
 
         label:has(input:checked) {
-            background-color: var(--color-selected-darker-green);
-            color: var(--color-light);
+            background-color: var(--color-meta-yellow);
+            color: var(--color-dark);
         }
 
         input {
@@ -237,9 +240,8 @@ main {
 
             span {
                 padding: 2px 12px;
-                border-radius: 8px;
-                background-color: var(--color-selected-darker-green);
-                color: var(--color-light);
+                background-color: var(--color-meta-yellow);
+                color: var(--color-dark);
             }
         }
     }
