@@ -1,0 +1,99 @@
+/*___________________________________________________
+           __          __        ___  __
+\  /  /\  |__) |  /\  |__) |    |__  /__`
+ \/  /~~\ |  \ | /~~\ |__) |___ |___ .__/
+___________________________________________________*/
+:root {
+    --color-dark: #1c1d1e;
+    --color-light: #f5f5f5;
+    --color-light-again: #e2e2e2;
+    --color-selected-darker-green: hsl(139 59% 30% / 1);
+    --color-selected-lighter-green: hsl(139 59% 65% / 1);
+    --color-selected-lighter-border: hsl(210 3% 33% / 1);
+    --color-meta-blue: hsl(219.09deg 58.62% 54.51%);
+    --color-meta-yellow: hsl(49.32deg 100% 62.55%);
+    --color-button-dark: hsl(210 3% 15% / 1);
+    --color-button-dark-hover: hsl(210 3% 25% / 1);
+}
+
+/*___________________________________________________
+ ___  __       ___
+|__  /  \ |\ |  |
+|    \__/ | \|  |
+___________________________________________________*/
+@font-face {
+    font-family: "Zen Kurenaido";
+    src: url("fonts/ZenKurenaido-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Asimovian";
+    src: url("fonts/Asimovian-Regular.ttf");
+}
+
+html {
+    font-family: "Zen Kurenaido", "sans-serif";
+}
+
+/*___________________________________________________
+ __   ___  __   ___ ___  __
+|__) |__  /__` |__   |  /__`
+|  \ |___ .__/ |___  |  .__/
+___________________________________________________*/
+body {
+    margin: 0;
+    background-color: var(--color-light);
+
+    @media (prefers-color-scheme: dark) {
+        background-color: var(--color-dark);
+        color: var(--color-light);
+    }
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    display: block;
+}
+
+button {
+    cursor: pointer;
+}
+
+/*___________________________________________________
+ __        __   __
+/ _` |    /  \ |__)  /\  |
+\__> |___ \__/ |__) /~~\ |___
+___________________________________________________*/
+a,
+a:visited,
+a:active,
+a:link,
+a:hover {
+    color: var(--color-dark);
+    font-family: "Asimovian", "sans-serif";
+    text-decoration: none;
+
+    @media (prefers-color-scheme: dark) {
+        color: var(--color-light);
+    }
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid var(--color-light);
+    border-radius: 8px;
+    animation: 2s linear 0s infinite dizzy-dizzy;
+}
+
+@keyframes dizzy-dizzy {
+    from {
+        transform: rotate3d(0, 0, 0, 0deg);
+    }
+    to {
+        transform: rotate3d(30, 0, 100, 360deg);
+    }
+}

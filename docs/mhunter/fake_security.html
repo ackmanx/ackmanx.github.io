@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000000">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="manifest" href="assets/manifest.json">
+    <link rel="icon" href="assets/favicon.png">
+    <link rel="stylesheet" href="assets/global_styles.css">
+    <link rel="stylesheet" href="assets/fake_security.css">
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;fafca58fc0304523be0fede299408817&quot;}"></script>
+    <title>Fake Security Login</title>
+</head>
+
+<body>
+    <main style="display:flex;align-items:center;flex-direction:column;"><input type="text" placeholder="put ya password here" style="width:90vw;font-size:32px;margin-bottom:16px;padding:8px;border-radius:8px;"><button type="button" style="width:200px;height:50px;font-size:36px;border-radius:8px;cursor:pointer;">submit</button></main>
+    <script type="module">
+        document.querySelector('button')?.addEventListener('click', async () => {
+            const password = document.querySelector('input')?.value;
+            if (!password) {
+                throw new Error('The impossible happened. Password input not found');
+            }
+            localStorage.setItem('super_secret', await hash_string(password));
+            window.location.href = 'index.html';
+        });
+        async function hash_string(input_string) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(input_string);
+            const array_buffer = await crypto.subtle.digest('SHA-256', data);
+            return new Uint8Array(array_buffer).toHex();
+        }
+    </script>
+</body>
+
+</html>
