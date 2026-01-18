@@ -11,16 +11,16 @@
     <link rel="stylesheet" href="../assets/global_styles.css">
     <link rel="stylesheet" href="../assets/artist_styles.css">
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;fafca58fc0304523be0fede299408817&quot;}"></script>
-    <title>FantomenK</title>
+    <title>fantomenk</title>
 </head>
 
 <body>
     <nav>
-        <p><a href="../index.html">Index</a> / FantomenK</p>
+        <p><a href="../index.html">Index</a> / fantomenk</p>
         <p><span>Cached On</span> Wed Jan 14 2026</p>
     </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="FantomenK"><a class="cover-art-link" href="spotify:artist:2H11tig8QJ8eV3D04ocjQv"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="FantomenK"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="FantomenK"></div>
+        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"><a class="cover-art-link" href="spotify:artist:2H11tig8QJ8eV3D04ocjQv"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></div>
         <div class="header-meta">
             <p><span>Followers</span> 24,038</p>
             <p><span>Popularity</span> 30</p>
@@ -36,16 +36,16 @@
             <div class="loading-spinner"></div>
         </div>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2017"><a href="spotify:album:3UqtrI73uajshR3MJKuGWg"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738bfc252e0948f38f5f3e557c" alt="Crystal Tokyo"></a>
+            <section class="album" data-release-year="2017"><a href="spotify:album:3UqtrI73uajshR3MJKuGWg"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738bfc252e0948f38f5f3e557c" alt="crystal tokyo"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3UqtrI73uajshR3MJKuGWg">Crystal Tokyo</a></h2>
+                    <h2 class="album-name"><a href="spotify:album:3UqtrI73uajshR3MJKuGWg">crystal tokyo</a></h2>
                     <p class="artist-list">FantomenK, meganeko</p>
                     <p><span>2017-05-30</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="fantomenk" data-album-name="crystal tokyo"></button>
                 </div>
             </section>
-            <section class="album" data-release-year="2011"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="FantomenK"></a>
+            <section class="album" data-release-year="2011"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs">FantomenK</a></h2>
+                    <h2 class="album-name"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs">fantomenk</a></h2>
                     <p class="artist-list">FantomenK</p>
                     <p><span>2011-03-11</span> - album </p><button type="button" class="viewed-button" data-artist-name="fantomenk" data-album-name="fantomenk"></button>
                 </div>
@@ -54,13 +54,13 @@
         </div>
     </main>
     <script type="module">
-        async function fetch_artist_viewed(artist_name) {
-            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${artist_name}`);
+        async function fetch_artist_viewed(name) {
+            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${name}`);
             return response.json();
         }
-        async function update_artist_viewed(artist_name, viewed_array) {
+        async function update_artist_viewed(name, viewed_array) {
             const password_hash = localStorage.getItem('super_secret');
-            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${artist_name}&super_secret=${password_hash}`, {
+            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${name}&super_secret=${password_hash}`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

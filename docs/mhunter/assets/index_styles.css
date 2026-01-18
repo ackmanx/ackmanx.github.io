@@ -44,6 +44,14 @@ h1 {
 |\/|  /\  | |\ |
 |  | /~~\ | | \|
 ___________________________________________________*/
+.hidden {
+    display: none !important;
+}
+
+.transparent {
+    opacity: 0 !important;
+}
+
 main {
     display: flex;
     justify-content: space-around;
