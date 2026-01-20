@@ -185,7 +185,7 @@ main {
         .release-year-filters {
             display: flex;
             flex-wrap: wrap;
-            align-items: center;
+            align-items: normal;
             justify-content: center;
             gap: 8px;
             margin-bottom: 16px;
@@ -202,6 +202,7 @@ main {
 
             @media (min-width: 600px) {
                 width: 180px;
+                height: 80px;
             }
         }
 
