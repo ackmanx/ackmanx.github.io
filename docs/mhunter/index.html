@@ -5635,6 +5635,9 @@
         if (!localStorage.getItem('super_secret')) {
             window.location.href = 'fake_security.html';
         }
+
+        // Wake up mhunter-backend
+        fetch('https://mhunter-backend.vercel.app/artist')
     </script>
 </body>
 
