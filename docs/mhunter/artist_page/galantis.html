@@ -1511,12 +1511,12 @@
     </main>
     <script type="module">
         async function fetch_artist_viewed(name) {
-            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${name}`);
+            const response = await fetch(`https://mhunter-backend.vercel.app/mhunter/artist?name=${name}`);
             return response.json();
         }
         async function update_artist_viewed(name, viewed_array) {
             const password_hash = localStorage.getItem('super_secret');
-            const response = await fetch(`https://mhunter-backend.vercel.app/artist?name=${name}&super_secret=${password_hash}`, {
+            const response = await fetch(`https://mhunter-backend.vercel.app/mhunter/artist?name=${name}&super_secret=${password_hash}`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
