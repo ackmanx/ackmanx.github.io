@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Every Wednesday</title>
+    <style>
+      body {
+        background-color: #fdf6e3;
+        color: #586e75;
+        font-family: sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        padding-top: 10vh;
+      }
+
+      h1 {
+        font-size: 5rem;
+        margin: 0 0 2rem 0;
+      }
+
+      #activity-list {
+        width: 100%;
+        max-width: 450px;
+        margin-bottom: 2rem;
+      }
+
+      .activity-item {
+        font-size: 1.5rem;
+        margin: 0.8rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+        transition: opacity 0.2s;
+      }
+
+      /* Strikethrough for completed items */
+      .activity-text.completed {
+        text-decoration: line-through;
+        opacity: 0.5;
+      }
+
+      .activity-text {
+        flex-grow: 1;
+        text-align: center;
+      }
+
+      /* Delete Button Styling */
+      .delete-btn {
+        font-size: 1.2rem;
+        color: #dc322f; /* Solarized Red */
+        margin-left: 1rem;
+        opacity: 0.3;
+        transition: opacity 0.2s;
+        padding: 5px;
+      }
+
+      .delete-btn:hover {
+        opacity: 1;
+      }
+
+      input {
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid #93a1a1;
+        color: #586e75;
+        font-family: sans-serif;
+        font-size: 1.2rem;
+        padding: 0.5rem;
+        text-align: center;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Sunday</h1>
+
+    <div id="activity-list"></div>
+
+    <input
+      type="text"
+      id="activity-input"
+      placeholder="Add new item..."
+      autocomplete="off"
+    />
+
+    <script>
+      const listContainer = document.getElementById('activity-list')
+      const inputField = document.getElementById('activity-input')
+
+      // Load initial data (now objects to track completion)
+      let activities = JSON.parse(localStorage.getItem('wednesdayItems')) || [
+        { text: 'shave', completed: false },
+      ]
+
+      function saveData() {
+        localStorage.setItem('wednesdayItems', JSON.stringify(activities))
+        render()
+      }
+
+      function render() {
+        listContainer.innerHTML = ''
+        activities.forEach((item, index) => {
+          const wrapper = document.createElement('div')
+          wrapper.className = 'activity-item'
+
+          // Text portion
+          const textSpan = document.createElement('span')
+          textSpan.className = `activity-text ${item.completed ? 'completed' : ''}`
+          textSpan.textContent = item.text
+          textSpan.onclick = () => {
+            activities[index].completed = !activities[index].completed
+            saveData()
+          }
+
+          // Delete portion
+          const delBtn = document.createElement('span')
+          delBtn.className = 'delete-btn'
+          delBtn.innerHTML = '&times;'
+          delBtn.onclick = (e) => {
+            e.stopPropagation() // Prevents triggering the "cross off" click
+            activities.splice(index, 1)
+            saveData()
+          }
+
+          wrapper.appendChild(textSpan)
+          wrapper.appendChild(delBtn)
+          listContainer.appendChild(wrapper)
+        })
+      }
+
+      inputField.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter' && inputField.value.trim() !== '') {
+          activities.push({ text: inputField.value.trim(), completed: false })
+          inputField.value = ''
+          saveData()
+        }
+      })
+
+      render()
+    </script>
+  </body>
+</html>
