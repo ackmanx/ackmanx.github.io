@@ -993,17 +993,20 @@
     </main>
     <script type="module">
         async function fetch_artist_viewed(name) {
-            const response = await fetch(`https://mhunter-backend.vercel.app/mhunter/artist?name=${name}`);
+            const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`);
             return response.json();
         }
         async function update_artist_viewed(name, viewed_array) {
-            const password_hash = localStorage.getItem('super_secret');
-            const response = await fetch(`https://mhunter-backend.vercel.app/mhunter/artist?name=${name}&super_secret=${password_hash}`, {
+            const password = localStorage.getItem('super_secret');
+            const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify(viewed_array)
+                body: JSON.stringify({
+                    password,
+                    viewed_albums: viewed_array
+                })
             });
             return response.json();
         }
@@ -1071,6 +1074,11 @@
             if (!$button.dataset.albumName) {
                 throw new Error('You did the impossible. Album name is not found one of the `button` elements');
             }
+            const response_body = await update_artist_viewed(artist.name, artist.viewed);
+            if (response_body.message) {
+                console.error(response_body.message);
+                return;
+            }
             if ($button.classList.contains('is-viewed')) {
                 const album_index = artist.viewed.indexOf($button.dataset.albumName);
                 artist.viewed.splice(album_index, 1);
@@ -1082,7 +1090,6 @@
                 $button.innerHTML = 'Viewed';
                 $button.classList.add('is-viewed');
             }
-            await update_artist_viewed(artist.name, artist.viewed);
             filter_albums();
         }
 
