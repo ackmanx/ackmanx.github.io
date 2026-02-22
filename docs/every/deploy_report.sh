@@ -3,20 +3,14 @@
 # Move to Github pages repo
 cd /Volumes/Storage/Code/ackmanx.github.io/docs
 
-ls -l
-
 # Clear old report
 rm -rf every
-
-ls -l
 
 # # Create directory again
 mkdir every
 
-ls -l
-
 # # Copy contents of new report cache to Github pages repo
-cp -r /Volumes/Storage/Code/every-static-html-version/* every
+cp -r /Volumes/Storage/Code/every/* every
 
 # # Commit new changes
 git add .
