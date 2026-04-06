@@ -1,0 +1,585 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JetDiff - Side-by-Side Comparison</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/diff@5.2.0/dist/diff.min.js"></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+
+      :root {
+        --bg-color: #1e1f22;
+        --text-color: #bcbec4;
+        --gutter-bg: #2b2d30;
+        --gutter-text: #6f737a;
+
+        --added-bg: rgba(41, 145, 61, 0.2);
+        --added-border: #29913d;
+        --added-word: rgba(41, 145, 61, 0.4);
+
+        --removed-bg: rgba(133, 41, 41, 0.25);
+        --removed-border: #852929;
+        --removed-word: rgba(133, 41, 41, 0.5);
+
+        --modified-bg: rgba(55, 95, 143, 0.2);
+        --modified-border: #375f8f;
+        --modified-word-added: rgba(55, 95, 143, 0.5);
+        --modified-word-removed: rgba(110, 80, 40, 0.4);
+
+        --input-bg: #2b2d30;
+        --border-color: #323232;
+      }
+
+      body {
+        background-color: #1a1b1d;
+        color: var(--text-color);
+        font-family:
+          'Inter',
+          -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          Roboto,
+          sans-serif;
+        margin: 0;
+        overflow: hidden;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .mono {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 13px;
+        line-height: 1.5;
+      }
+
+      header {
+        padding: 12px 20px;
+        background-color: #2b2d30;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        z-index: 20;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        flex-shrink: 0;
+      }
+
+      .source-controls {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        background: #232428;
+        padding: 15px 20px;
+        border-bottom: 1px solid var(--border-color);
+        transition: all 0.3s ease;
+      }
+
+      .diff-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        flex-grow: 1;
+        overflow: hidden;
+        border-top: 1px solid var(--border-color);
+      }
+
+      .diff-pane {
+        overflow: auto;
+        height: 100%;
+        position: relative;
+        background-color: var(--bg-color);
+      }
+
+      .diff-line {
+        display: flex;
+        min-width: fit-content;
+      }
+
+      .gutter {
+        width: 50px;
+        background-color: var(--gutter-bg);
+        color: var(--gutter-text);
+        text-align: right;
+        padding-right: 10px;
+        user-select: none;
+        flex-shrink: 0;
+        border-right: 1px solid var(--border-color);
+      }
+
+      .code-content {
+        padding-left: 10px;
+        white-space: pre;
+        flex-grow: 1;
+      }
+
+      /* Line Status Styles */
+      .line-added {
+        background-color: var(--added-bg);
+      }
+      .line-removed {
+        background-color: var(--removed-bg);
+      }
+      .line-modified {
+        background-color: var(--modified-bg);
+      }
+
+      .gutter-added {
+        border-right: 3px solid var(--added-border);
+      }
+      .gutter-removed {
+        border-right: 3px solid var(--removed-border);
+      }
+      .gutter-modified {
+        border-right: 3px solid var(--modified-border);
+      }
+
+      /* Internal Word Highlights */
+      .word-added {
+        background-color: var(--added-word);
+        border-radius: 2px;
+      }
+      .word-removed {
+        background-color: var(--removed-word);
+        border-radius: 2px;
+        text-decoration: line-through;
+      }
+      .word-mod-in {
+        background-color: var(--modified-word-added);
+        border-radius: 2px;
+      }
+      .word-mod-out {
+        background-color: var(--modified-word-removed);
+        border-radius: 2px;
+      }
+
+      .empty-line {
+        background-color: #26282e;
+        opacity: 0.3;
+      }
+
+      /* Input Styles */
+      .file-input-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        background: #393b40;
+        padding: 6px 14px;
+        border-radius: 4px;
+        border: 1px solid #4e5157;
+        cursor: pointer;
+        min-width: 180px;
+      }
+
+      .file-input-wrapper:hover {
+        background: #43454a;
+      }
+      input[type='file'] {
+        display: none;
+      }
+
+      .text-input-area {
+        width: 100%;
+        height: 120px;
+        background: #1e1f22;
+        color: var(--text-color);
+        border: 1px solid #4e5157;
+        border-radius: 4px;
+        padding: 8px;
+        resize: none;
+        outline: none;
+      }
+
+      .text-input-area:focus {
+        border-color: #3574f0;
+      }
+
+      .toggle-btn {
+        background: #393b40;
+        color: #bcbec4;
+        padding: 4px 12px;
+        border-radius: 4px;
+        font-size: 12px;
+        font-weight: 600;
+        border: 1px solid transparent;
+      }
+
+      .toggle-btn.active {
+        background: #3574f0;
+        color: white;
+      }
+
+      .btn-compare {
+        background-color: #3574f0;
+        color: white;
+        padding: 6px 20px;
+        border-radius: 4px;
+        font-weight: 500;
+        transition: background 0.2s;
+      }
+
+      .btn-compare:hover {
+        background-color: #4e85f2;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      .placeholder-screen {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        color: #6f737a;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="text-white font-bold text-lg flex items-center gap-2">
+        <svg
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect width="24" height="24" rx="4" fill="#000" />
+          <path d="M5 5L19 19M19 5L5 19" stroke="#3574f0" stroke-width="3" />
+        </svg>
+        JetDiff
+      </div>
+
+      <div class="flex bg-[#1e1f22] p-1 rounded-md border border-[#4e5157] ml-4">
+        <button id="modeText" class="toggle-btn active">TEXT</button>
+        <button id="modeFile" class="toggle-btn">FILE</button>
+      </div>
+
+      <button id="compareBtn" class="btn-compare ml-4">Compare</button>
+
+      <div class="ml-auto flex gap-4 items-center">
+        <div class="flex gap-3 text-[10px] uppercase font-bold">
+          <span class="flex items-center gap-1"
+            ><span
+              class="w-2 h-2 rounded-full"
+              style="background: var(--added-border)"
+            ></span>
+            Added</span
+          >
+          <span class="flex items-center gap-1"
+            ><span
+              class="w-2 h-2 rounded-full"
+              style="background: var(--removed-border)"
+            ></span>
+            Deleted</span
+          >
+          <span class="flex items-center gap-1"
+            ><span
+              class="w-2 h-2 rounded-full"
+              style="background: var(--modified-border)"
+            ></span>
+            Modified</span
+          >
+        </div>
+        <div class="text-xs text-gray-500" id="status-info">Ready</div>
+      </div>
+    </header>
+
+    <div class="source-controls" id="controlsContainer">
+      <!-- Text Mode Inputs -->
+      <div id="textInputs" class="grid grid-cols-2 gap-4">
+        <div class="flex flex-col gap-1">
+          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1"
+            >Original Text</span
+          >
+          <textarea
+            id="textLeft"
+            class="text-input-area mono"
+            placeholder="Paste original text here..."
+          ></textarea>
+        </div>
+        <div class="flex flex-col gap-1">
+          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1"
+            >Modified Text</span
+          >
+          <textarea
+            id="textRight"
+            class="text-input-area mono"
+            placeholder="Paste modified text here..."
+          ></textarea>
+        </div>
+      </div>
+
+      <!-- File Mode Inputs -->
+      <div id="fileInputs" class="hidden flex gap-4 items-center justify-center py-4">
+        <label class="file-input-wrapper">
+          <span id="file1-label" class="text-sm">Select Original File</span>
+          <input type="file" id="file1" />
+        </label>
+        <span class="text-gray-500 font-bold">VS</span>
+        <label class="file-input-wrapper">
+          <span id="file2-label" class="text-sm">Select Modified File</span>
+          <input type="file" id="file2" />
+        </label>
+      </div>
+    </div>
+
+    <main class="diff-container" id="diffContainer">
+      <div class="placeholder-screen w-full col-span-2">
+        <svg class="w-16 h-16 mb-4 opacity-20" fill="currentColor" viewBox="0 0 24 24">
+          <path
+            d="M14,2L20,8V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H14M18,20V9H13V4H6V20H18M12,12L16,16L12,20V17H8V15H12V12Z"
+          />
+        </svg>
+        <p class="text-xl">Input content to start comparison</p>
+        <p class="text-sm mt-2">Paste text above or switch to File mode to upload</p>
+      </div>
+    </main>
+
+    <script>
+      const file1Input = document.getElementById('file1')
+      const file2Input = document.getElementById('file2')
+      const textLeft = document.getElementById('textLeft')
+      const textRight = document.getElementById('textRight')
+      const compareBtn = document.getElementById('compareBtn')
+      const diffContainer = document.getElementById('diffContainer')
+      const statusInfo = document.getElementById('status-info')
+
+      const modeTextBtn = document.getElementById('modeText')
+      const modeFileBtn = document.getElementById('modeFile')
+      const textInputsDiv = document.getElementById('textInputs')
+      const fileInputsDiv = document.getElementById('fileInputs')
+
+      let currentMode = 'text' // 'text' or 'file'
+      let content1 = ''
+      let content2 = ''
+
+      // Toggle logic
+      modeTextBtn.onclick = () => switchMode('text')
+      modeFileBtn.onclick = () => switchMode('file')
+
+      function switchMode(mode) {
+        currentMode = mode
+        if (mode === 'text') {
+          modeTextBtn.classList.add('active')
+          modeFileBtn.classList.remove('active')
+          textInputsDiv.classList.remove('hidden')
+          fileInputsDiv.classList.add('hidden')
+        } else {
+          modeTextBtn.classList.remove('active')
+          modeFileBtn.classList.add('active')
+          textInputsDiv.classList.add('hidden')
+          fileInputsDiv.classList.remove('hidden')
+        }
+      }
+
+      // File listeners
+      file1Input.addEventListener('change', (e) => {
+        if (e.target.files[0]) {
+          document.getElementById('file1-label').textContent = e.target.files[0].name
+          readFile(e.target.files[0], (c) => (content1 = c))
+        }
+      })
+
+      file2Input.addEventListener('change', (e) => {
+        if (e.target.files[0]) {
+          document.getElementById('file2-label').textContent = e.target.files[0].name
+          readFile(e.target.files[0], (c) => (content2 = c))
+        }
+      })
+
+      function readFile(file, callback) {
+        const reader = new FileReader()
+        reader.onload = (e) => callback(e.target.result)
+        reader.readAsText(file)
+      }
+
+      // Auto-diff on text change for Text mode
+      ;[textLeft, textRight].forEach((el) => {
+        el.addEventListener('input', () => {
+          if (currentMode === 'text') {
+            content1 = textLeft.value
+            content2 = textRight.value
+            if (content1 || content2) renderDiff()
+          }
+        })
+      })
+
+      compareBtn.addEventListener('click', () => {
+        if (currentMode === 'text') {
+          content1 = textLeft.value
+          content2 = textRight.value
+        }
+
+        if (!content1 && !content2) {
+          statusInfo.textContent = 'Input content on at least one side'
+          statusInfo.className = 'text-red-400 text-xs'
+          return
+        }
+        statusInfo.className = 'text-gray-500 text-xs'
+        renderDiff()
+      })
+
+      function renderDiff() {
+        const diffLib = window.Diff || window.JsDiff
+        if (!diffLib) return
+
+        const lineDiff = diffLib.diffLines(content1 || '', content2 || '')
+
+        diffContainer.innerHTML = ''
+        const leftPane = document.createElement('div')
+        leftPane.className = 'diff-pane mono'
+        const rightPane = document.createElement('div')
+        rightPane.className = 'diff-pane mono'
+
+        let leftLineNum = 1
+        let rightLineNum = 1
+
+        for (let i = 0; i < lineDiff.length; i++) {
+          const part = lineDiff[i]
+          const nextPart = lineDiff[i + 1]
+
+          if (part.removed && nextPart && nextPart.added) {
+            const oldLines = part.value.split('\n')
+            if (oldLines[oldLines.length - 1] === '') oldLines.pop()
+            const newLines = nextPart.value.split('\n')
+            if (newLines[newLines.length - 1] === '') newLines.pop()
+
+            const commonLength = Math.min(oldLines.length, newLines.length)
+
+            for (let j = 0; j < commonLength; j++) {
+              addModifiedLines(
+                leftPane,
+                rightPane,
+                oldLines[j],
+                newLines[j],
+                leftLineNum++,
+                rightLineNum++
+              )
+            }
+            for (let j = commonLength; j < oldLines.length; j++) {
+              addLine(leftPane, oldLines[j], leftLineNum++, 'removed')
+              addEmptyLine(rightPane)
+            }
+            for (let j = commonLength; j < newLines.length; j++) {
+              addEmptyLine(leftPane)
+              addLine(rightPane, newLines[j], rightLineNum++, 'added')
+            }
+            i++
+          } else if (part.added) {
+            const lines = part.value.split('\n')
+            if (lines[lines.length - 1] === '') lines.pop()
+            lines.forEach((line) => {
+              addEmptyLine(leftPane)
+              addLine(rightPane, line, rightLineNum++, 'added')
+            })
+          } else if (part.removed) {
+            const lines = part.value.split('\n')
+            if (lines[lines.length - 1] === '') lines.pop()
+            lines.forEach((line) => {
+              addLine(leftPane, line, leftLineNum++, 'removed')
+              addEmptyLine(rightPane)
+            })
+          } else {
+            const lines = part.value.split('\n')
+            if (lines[lines.length - 1] === '') lines.pop()
+            lines.forEach((line) => {
+              addLine(leftPane, line, leftLineNum++, 'normal')
+              addLine(rightPane, line, rightLineNum++, 'normal')
+            })
+          }
+        }
+
+        diffContainer.appendChild(leftPane)
+        diffContainer.appendChild(rightPane)
+        setupSyncScroll(leftPane, rightPane)
+        statusInfo.textContent = `Lines: ${Math.max(leftLineNum, rightLineNum) - 1}`
+      }
+
+      function addModifiedLines(
+        leftPane,
+        rightPane,
+        oldText,
+        newText,
+        leftNum,
+        rightNum
+      ) {
+        const diffLib = window.Diff || window.JsDiff
+        const wordDiff = diffLib.diffWordsWithSpace(oldText, newText)
+
+        const leftLineDiv = createLineBase(leftNum, 'modified')
+        const rightLineDiv = createLineBase(rightNum, 'modified')
+        const leftContent = leftLineDiv.querySelector('.code-content')
+        const rightContent = rightLineDiv.querySelector('.code-content')
+
+        wordDiff.forEach((change) => {
+          const span = document.createElement('span')
+          span.textContent = change.value
+          if (change.removed) {
+            span.className = 'word-mod-out'
+            leftContent.appendChild(span)
+          } else if (change.added) {
+            span.className = 'word-mod-in'
+            rightContent.appendChild(span)
+          } else {
+            leftContent.appendChild(span)
+            rightContent.appendChild(document.createTextNode(change.value))
+          }
+        })
+
+        leftPane.appendChild(leftLineDiv)
+        rightPane.appendChild(rightLineDiv)
+      }
+
+      function createLineBase(num, type) {
+        const lineDiv = document.createElement('div')
+        lineDiv.className = `diff-line line-${type}`
+        const gutter = document.createElement('div')
+        gutter.className = `gutter gutter-${type}`
+        gutter.textContent = num || ' '
+        const code = document.createElement('div')
+        code.className = 'code-content'
+        lineDiv.appendChild(gutter)
+        lineDiv.appendChild(code)
+        return lineDiv
+      }
+
+      function addLine(pane, text, num, type) {
+        const lineDiv = createLineBase(num, type)
+        lineDiv.querySelector('.code-content').textContent = text || ' '
+        pane.appendChild(lineDiv)
+      }
+
+      function addEmptyLine(pane) {
+        const lineDiv = document.createElement('div')
+        lineDiv.className = 'diff-line empty-line'
+        const gutter = document.createElement('div')
+        gutter.className = 'gutter'
+        gutter.innerHTML = '&nbsp;'
+        const code = document.createElement('div')
+        code.className = 'code-content'
+        code.innerHTML = '&nbsp;'
+        lineDiv.appendChild(gutter)
+        lineDiv.appendChild(code)
+        pane.appendChild(lineDiv)
+      }
+
+      function setupSyncScroll(pane1, pane2) {
+        let isScrolling = false
+        const sync = (source, target) => {
+          if (isScrolling) return
+          isScrolling = true
+          target.scrollTop = source.scrollTop
+          target.scrollLeft = source.scrollLeft
+          setTimeout(() => {
+            isScrolling = false
+          }, 20)
+        }
+        pane1.onscroll = () => sync(pane1, pane2)
+        pane2.onscroll = () => sync(pane2, pane1)
+      }
+    </script>
+  </body>
+</html>
