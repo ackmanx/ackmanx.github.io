@@ -1,0 +1,124 @@
+:root {
+  --color-bg: #ffffff;
+  --color-accent: #df518b;
+  --color-name: #d3d3d3;
+  --color-text: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #1d1f20;
+    --color-accent: #df518b;
+    --color-name: #ffffff24;
+    --color-text: #e3e1de;
+  }
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  color: var(--color-text);
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-bg);
+}
+
+button {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+svg {
+  display: block;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 16px;
+}
+
+.selected-person {
+  display: flex;
+  flex-direction: column;
+  margin: 0 16px;
+}
+
+h1 {
+  font-family: Monoton, sans-serif;
+  font-size: 128px;
+  font-weight: lighter;
+  color: var(--color-name);
+  overflow: hidden;
+}
+
+.age-years,
+.age-months {
+  text-align: right;
+  font-style: normal;
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 72px;
+}
+
+.age-months {
+  font-size: 36px;
+}
+
+.birthday {
+  font-style: normal;
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 72px;
+  margin-top: 32px;
+}
+
+nav {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  left: 0;
+}
+
+nav ul {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+nav button {
+  padding: 8px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  background-color: inherit;
+  border: none;
+  color: inherit;
+  transition: color 150ms linear;
+}
+
+nav button:hover {
+  color: var(--color-accent);
+}

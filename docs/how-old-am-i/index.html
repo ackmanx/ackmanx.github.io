@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="./static/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How Old Am I</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Monoton&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main>
+    <div id="selected-person" class="selected-person">
+      <h1 id="person-name"></h1>
+      <div id="age-years" class="age-years"></div>
+      <div id="age-months" class="age-months"></div>
+      <div id="birthday" class="birthday"></div>
+    </div>
+    
+    <nav>
+      <ul id="nav-list">
+      </ul>
+    </nav>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+  <script type="module" src="./script.js"></script>
+</body>
+</html>
