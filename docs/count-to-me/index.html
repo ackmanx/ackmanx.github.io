@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Count to Me</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --text-color: #f8fafc;
+            --primary: #3b82f6;
+            --primary-hover: #2563eb;
+            --stop-color: #ef4444;
+            --stop-hover: #dc2626;
+            --card-bg: #1e293b;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+
+        main {
+            text-align: center;
+            background: var(--card-bg);
+            padding: 3rem 4rem;
+            border-radius: 16px;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.4), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        main:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 30px -5px rgba(0, 0, 0, 0.5), 0 15px 15px -5px rgba(0, 0, 0, 0.3);
+        }
+
+        button {
+            padding: 12px 32px;
+            font-size: 1.25rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            border: none;
+            background-color: var(--primary);
+            color: white;
+            border-radius: 8px;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        button:hover {
+            background-color: var(--primary-hover);
+            transform: scale(1.05);
+        }
+        
+        button:active {
+            transform: scale(0.95);
+        }
+
+        button.playing {
+            background-color: var(--stop-color);
+            box-shadow: 0 0 15px rgba(239, 68, 68, 0.5);
+        }
+
+        button.playing:hover {
+            background-color: var(--stop-hover);
+        }
+
+        p {
+            font-size: 4.5rem;
+            margin: 2rem 0 0;
+            font-weight: 700;
+            background: linear-gradient(to right, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            min-width: 3ch;
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <button id="toggleBtn">go</button>
+        <p id="numberDisplay">0</p>
+    </main>
+
+    <script>
+        let number = 0;
+        let isPlaying = false;
+        let intervalId;
+
+        const toggleBtn = document.getElementById('toggleBtn');
+        const numberDisplay = document.getElementById('numberDisplay');
+
+        function speak() {
+            if (isPlaying) {
+                let utterance = new SpeechSynthesisUtterance(String(number));
+                speechSynthesis.speak(utterance);
+            }
+        }
+
+        function playPopAnimation() {
+            numberDisplay.style.transform = 'scale(1.2)';
+            setTimeout(() => {
+                numberDisplay.style.transform = 'scale(1)';
+            }, 150);
+        }
+
+        toggleBtn.addEventListener('click', () => {
+            if (isPlaying) {
+                isPlaying = false;
+                clearInterval(intervalId);
+                intervalId = undefined;
+                toggleBtn.textContent = 'go';
+                toggleBtn.classList.remove('playing');
+                return;
+            }
+
+            isPlaying = true;
+            toggleBtn.textContent = 'stop';
+            toggleBtn.classList.add('playing');
+            
+            // Speak the initial number as soon as we press Go
+            speak();
+
+            // Intermittently increment and speak
+            intervalId = setInterval(() => {
+                number += 2;
+                numberDisplay.textContent = number;
+                playPopAnimation();
+                speak();
+            }, 2000);
+        });
+    </script>
+</body>
+</html>
