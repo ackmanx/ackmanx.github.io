@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Object Sorter & Formatter</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Prevent default scrollbars on textareas when they resize */
+    textarea {
+      resize: none;
+    }
+  </style>
+</head>
+<body class="flex flex-col md:flex-row h-screen w-full bg-slate-900 text-slate-100 overflow-hidden font-sans">
+  
+  <!-- Left Input Section -->
+  <div class="flex flex-col flex-1 border-r border-slate-700 relative">
+    <div class="bg-slate-800 px-4 py-2 text-xs font-bold uppercase tracking-wider text-slate-400 flex justify-between items-center">
+      <span>Input (JS Object)</span>
+      <span class="lowercase text-[10px] font-normal italic opacity-60">
+        Comments & trailing commas allowed
+      </span>
+    </div>
+    <textarea id="input-area"
+      class="flex-1 w-full p-4 bg-slate-900 text-slate-300 font-mono text-sm outline-none focus:ring-1 focus:ring-blue-500 transition-all resize-none"
+      placeholder="Paste JS object here..."
+      spellcheck="false"></textarea>
+  </div>
+
+  <!-- Right Output Section -->
+  <div class="flex flex-col flex-1 relative bg-slate-900">
+    <div class="bg-slate-800 px-4 py-2 text-xs font-bold uppercase tracking-wider text-slate-400 flex justify-between items-center">
+      <span>Output (Sorted & Formatted)</span>
+      <span id="error-badge" class="text-red-400 text-[10px] hidden">Parse Error</span>
+    </div>
+    <textarea id="output-area" readonly
+      class="flex-1 w-full p-4 font-mono text-sm outline-none resize-none bg-slate-900 text-blue-300"
+      placeholder="Sorted result will appear here..."
+      spellcheck="false"></textarea>
+
+    <!-- Quick Action Button -->
+    <button id="copy-btn"
+      class="absolute bottom-6 right-6 bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-md shadow-lg text-sm font-medium transition-colors hidden">
+      Copy Output
+    </button>
+  </div>
+
+  <script>
+    const inputArea = document.getElementById('input-area');
+    const outputArea = document.getElementById('output-area');
+    const errorBadge = document.getElementById('error-badge');
+    const copyBtn = document.getElementById('copy-btn');
+
+    let currentOutput = '';
+    let isError = false;
+
+    // Deep sort object keys
+    const sortObject = (obj) => {
+      if (obj === null || typeof obj !== "object") {
+        return obj;
+      }
+
+      if (Array.isArray(obj)) {
+        return obj.map(sortObject);
+      }
+
+      return Object.keys(obj)
+        .sort()
+        .reduce((acc, key) => {
+          acc[key] = sortObject(obj[key]);
+          return acc;
+        }, {});
+    };
+
+    function handleTransform(val) {
+      if (!val.trim()) {
+        currentOutput = "";
+        isError = false;
+        renderOutput();
+        return;
+      }
+
+      try {
+        // Using Function constructor to evaluate as a JS expression
+        // This handles comments and trailing commas much better than JSON.parse
+        const evaluated = new Function(`return (${val})`)();
+
+        if (typeof evaluated !== "object" || evaluated === null) {
+          throw new Error("Input must be a valid Javascript object or array.");
+        }
+
+        const sorted = sortObject(evaluated);
+        const formatted = JSON.stringify(sorted, null, 2);
+
+        currentOutput = formatted;
+        isError = false;
+        renderOutput();
+      } catch (err) {
+        currentOutput = `// Error parsing object:\n// ${err.message}`;
+        isError = true;
+        renderOutput();
+      }
+    }
+
+    function renderOutput() {
+      outputArea.value = currentOutput;
+      
+      if (isError) {
+        outputArea.classList.remove('bg-slate-900', 'text-blue-300');
+        outputArea.classList.add('bg-red-950/20', 'text-red-300');
+        errorBadge.classList.remove('hidden');
+        copyBtn.classList.add('hidden');
+      } else {
+        outputArea.classList.add('bg-slate-900', 'text-blue-300');
+        outputArea.classList.remove('bg-red-950/20', 'text-red-300');
+        errorBadge.classList.add('hidden');
+        if (currentOutput) {
+          copyBtn.classList.remove('hidden');
+        } else {
+          copyBtn.classList.add('hidden');
+        }
+      }
+    }
+
+    inputArea.addEventListener('input', (e) => {
+      handleTransform(e.target.value);
+    });
+
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(currentOutput);
+        const originalText = copyBtn.innerText;
+        copyBtn.innerText = 'Copied!';
+        setTimeout(() => {
+          copyBtn.innerText = originalText;
+        }, 2000);
+      } catch (err) {
+        // Fallback
+        outputArea.select();
+        document.execCommand('copy');
+        const originalText = copyBtn.innerText;
+        copyBtn.innerText = 'Copied (Fallback)!';
+        setTimeout(() => {
+          copyBtn.innerText = originalText;
+        }, 2000);
+      }
+    });
+
+    // Initial transform
+    const initialText = '{\n  /* Comments are okay */\n  "c": 3,\n  "a": 1,\n  "b": 2,\n  "nested": {\n    "z": 10,\n    "x": 5\n  },\n}';
+    inputArea.value = initialText;
+    handleTransform(initialText);
+  </script>
+</body>
+</html>
