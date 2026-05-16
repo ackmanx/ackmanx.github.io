@@ -759,6 +759,19 @@
         }
       })
 
+      // Listen for system theme changes
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        if (!('theme' in localStorage)) {
+          if (e.matches) {
+            document.documentElement.classList.add('dark')
+            themeIcon.classList.replace('ph-moon', 'ph-sun')
+          } else {
+            document.documentElement.classList.remove('dark')
+            themeIcon.classList.replace('ph-sun', 'ph-moon')
+          }
+        }
+      })
+
       await loadData()
       renderChips()
       renderCalendar()
