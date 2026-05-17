@@ -104,10 +104,10 @@
             <i class="ph ph-caret-down"></i>
           </div>
         </div>
-        <button id="btn-delete-mobile-cal"
-          class="flex-none p-1.5 rounded-md hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors text-red-500 dark:text-red-400"
-          title="Delete active calendar">
-          <i class="ph ph-trash text-lg"></i>
+        <button id="btn-edit-mobile-cal"
+          class="flex-none p-1.5 rounded-md hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors text-slate-500 dark:text-slate-400"
+          title="Edit active calendar">
+          <i class="ph ph-pencil-simple text-lg"></i>
         </button>
       </div>
     </div>
@@ -262,7 +262,7 @@
     <div
       class="bg-white dark:bg-slate-800 rounded-xl shadow-2xl w-full max-w-sm overflow-hidden fade-in border border-slate-200 dark:border-slate-700">
       <div class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50">
-        <h3 class="text-lg font-semibold text-slate-800 dark:text-slate-100">
+        <h3 id="cal-modal-title" class="text-lg font-semibold text-slate-800 dark:text-slate-100">
           Create New Calendar
         </h3>
       </div>
@@ -274,15 +274,23 @@
           placeholder="E.g., Work, Personal, Fitness" autocomplete="off" />
       </div>
       <div
-        class="px-6 py-4 border-t border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 flex justify-end gap-3">
-        <button id="btn-cancel-cal"
-          class="px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 rounded-lg transition-colors">
-          Cancel
-        </button>
-        <button id="btn-save-cal"
-          class="px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 rounded-lg shadow-sm transition-colors">
-          Create
-        </button>
+        class="px-6 py-4 border-t border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 flex justify-between items-center">
+        <div>
+          <button id="btn-delete-cal-direct"
+            class="hidden px-4 py-2 text-sm font-medium text-red-600 hover:bg-red-50 dark:text-red-400 dark:hover:bg-red-500/10 rounded-lg transition-colors">
+            Delete
+          </button>
+        </div>
+        <div class="flex gap-3">
+          <button id="btn-cancel-cal"
+            class="px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 rounded-lg transition-colors">
+            Cancel
+          </button>
+          <button id="btn-save-cal"
+            class="px-4 py-2 text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 rounded-lg shadow-sm transition-colors">
+            Create
+          </button>
+        </div>
       </div>
     </div>
   </div>
@@ -471,20 +479,20 @@
         nameSpan.textContent = cal.name
         chip.appendChild(nameSpan)
 
-        const delBtn = document.createElement('button')
-        delBtn.innerHTML = '<i class="ph ph-trash"></i>'
-        delBtn.className = `opacity-0 group-hover:opacity-100 transition-opacity p-1.5 rounded-full flex items-center justify-center ${isActive
+        const editBtn = document.createElement('button')
+        editBtn.innerHTML = '<i class="ph ph-pencil-simple"></i>'
+        editBtn.className = `opacity-0 group-hover:opacity-100 transition-opacity p-1.5 rounded-full flex items-center justify-center ${isActive
           ? 'hover:bg-indigo-700 dark:hover:bg-indigo-600 text-indigo-200 hover:text-white'
-          : 'hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-400 hover:text-red-500 dark:hover:text-red-400'
+          : 'hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-400 hover:text-indigo-500 dark:hover:text-indigo-400'
           }`
-        delBtn.title = 'Delete Calendar'
+        editBtn.title = 'Edit Calendar'
 
-        delBtn.addEventListener('click', (e) => {
-          e.stopPropagation() // Prevents the chip from becoming 'active' when trying to delete it
-          openDeleteCalModal(cal.id, cal.name)
+        editBtn.addEventListener('click', (e) => {
+          e.stopPropagation() // Prevents the chip from becoming 'active' when trying to edit it
+          openCalModal(cal.id, cal.name)
         })
 
-        chip.appendChild(delBtn)
+        chip.appendChild(editBtn)
 
         chip.addEventListener('click', () => {
           appData.activeCalId = cal.id
@@ -861,9 +869,14 @@
       renderCalendar()
     }
 
-    // New Calendar Modal Logic
+    // Edit/New Calendar Modal Logic
     const newCalModal = document.getElementById('new-cal-modal')
     const calNameInput = document.getElementById('cal-name')
+    const calModalTitle = document.getElementById('cal-modal-title')
+    const btnSaveCal = document.getElementById('btn-save-cal')
+    const btnDeleteCalDirect = document.getElementById('btn-delete-cal-direct')
+    
+    let currentEditingCalId = null
 
     calNameInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
@@ -872,35 +885,63 @@
       }
     })
 
-    const openNewCalModal = () => {
-      calNameInput.value = ''
+    const openCalModal = (calId = null, calName = '') => {
+      currentEditingCalId = calId
+      calNameInput.value = calName
+      
+      if (calId) {
+        calModalTitle.textContent = 'Edit Calendar'
+        btnSaveCal.textContent = 'Save'
+        btnDeleteCalDirect.classList.remove('hidden')
+      } else {
+        calModalTitle.textContent = 'Create New Calendar'
+        btnSaveCal.textContent = 'Create'
+        btnDeleteCalDirect.classList.add('hidden')
+      }
+      
       newCalModal.classList.remove('hidden')
       setTimeout(() => calNameInput.focus(), 50)
     }
 
-    const closeNewCalModal = () => {
+    const closeCalModal = () => {
       newCalModal.classList.add('hidden')
+      currentEditingCalId = null
     }
 
     document
       .getElementById('btn-new-calendar')
-      .addEventListener('click', openNewCalModal)
+      .addEventListener('click', () => openCalModal())
     document
       .getElementById('btn-cancel-cal')
-      .addEventListener('click', closeNewCalModal)
+      .addEventListener('click', closeCalModal)
 
-    document.getElementById('btn-save-cal').addEventListener('click', () => {
+    btnDeleteCalDirect.addEventListener('click', () => {
+      if (currentEditingCalId) {
+        const cal = appData.calendars.find(c => c.id === currentEditingCalId)
+        if (cal) {
+          openDeleteCalModal(cal.id, cal.name)
+        }
+        closeCalModal()
+      }
+    })
+
+    btnSaveCal.addEventListener('click', () => {
       const name = calNameInput.value.trim()
       if (!name) return
 
-      const newCalId = generateUUID()
-      appData.calendars.push({ id: newCalId, name: name })
-      appData.activeCalId = newCalId // Auto-switch to new cal
+      if (currentEditingCalId) {
+        const cal = appData.calendars.find(c => c.id === currentEditingCalId)
+        if (cal) cal.name = name
+      } else {
+        const newCalId = generateUUID()
+        appData.calendars.push({ id: newCalId, name: name })
+        appData.activeCalId = newCalId // Auto-switch to new cal
+      }
 
       saveData()
       renderChips()
       renderCalendar()
-      closeNewCalModal()
+      closeCalModal()
     })
 
     // --- STREAMING_CHUNK:Implementing delete calendar logic... ---
@@ -970,12 +1011,12 @@
         })
       }
 
-      const mobileDeleteBtn = document.getElementById('btn-delete-mobile-cal')
-      if (mobileDeleteBtn) {
-        mobileDeleteBtn.addEventListener('click', () => {
+      const mobileEditBtn = document.getElementById('btn-edit-mobile-cal')
+      if (mobileEditBtn) {
+        mobileEditBtn.addEventListener('click', () => {
           const activeCal = appData.calendars.find(c => c.id === appData.activeCalId)
           if (activeCal) {
-            openDeleteCalModal(activeCal.id, activeCal.name)
+            openCalModal(activeCal.id, activeCal.name)
           }
         })
       }
