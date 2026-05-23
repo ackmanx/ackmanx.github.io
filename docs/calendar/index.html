@@ -328,6 +328,7 @@
                 <option value="Once">Once</option>
                 <option value="Daily">Daily</option>
                 <option value="Weekly">Weekly</option>
+                <option value="Biweekly">Biweekly</option>
                 <option value="Monthly">Monthly</option>
               </select>
               <div
@@ -691,6 +692,12 @@
           const diffTime = Math.abs(checkTime - startTime)
           const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24))
           return diffDays % 7 === 0
+        }
+
+        if (entry.cadence === 'Biweekly') {
+          const diffTime = Math.abs(checkTime - startTime)
+          const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24))
+          return diffDays % 14 === 0
         }
 
         if (entry.cadence === 'Monthly') {
