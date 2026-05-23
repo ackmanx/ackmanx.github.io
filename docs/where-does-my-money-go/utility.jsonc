@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Xcel Energy",
+    "payment": "$350?",
+    "note": "Electricity and natural gas. Enrolled in their stable bill annual program so monthly amount doesn't vary until December when they true up",
+  },
+  {
+    "name": "T-Mobile",
+    "payment": "$161",
+    "note": null,
+  },
+  {
+    "name": "New Brighton",
+    "payment": "$104",
+    "note": "Water, sewage and recycling https://www.newbrightonmn.gov/ 456/Pay",
+  },
+  {
+    "name": "Xfinity",
+    "payment": "$75",
+    "note": null,
+  },
+  {
+    "name": "Curbside Waste",
+    "payment": "$0",
+    "note": "Trash only http://www.curbsidewaste.com/",
+  },
+]

@@ -1,0 +1,16 @@
+{
+  "note": "Last 4 paychecks averaged. Bonus not included.",
+  "sources": [
+    {
+      "name": "Honey",
+      "amount": "$7,326",
+      "details": "3,663 11/25",
+    },
+    {
+      "name": "Liebe",
+      "amount": "$4,964",
+      "details": "2,482 11/25",
+    },
+  ],
+  "total": "$12,290",
+}
