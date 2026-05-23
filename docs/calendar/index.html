@@ -216,18 +216,6 @@
             >
               Add Entry
             </h3>
-            <label
-              class="inline-flex items-center cursor-pointer ml-2 hidden"
-              id="edit-mode-toggle-container"
-            >
-              <input type="checkbox" id="edit-mode-toggle" class="sr-only peer" />
-              <div
-                class="relative w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer dark:bg-slate-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all dark:border-slate-600 peer-checked:bg-indigo-600"
-              ></div>
-              <span class="ms-2 text-xs font-medium text-slate-600 dark:text-slate-300"
-                >Edit</span
-              >
-            </label>
           </div>
           <button
             id="btn-close-modal"
@@ -846,16 +834,11 @@
 
       // Entry Modal Logic
       let currentEditingEntryId = null
-      let isEditMode = true
 
       const entryModal = document.getElementById('entry-modal')
       const entryNameInput = document.getElementById('entry-name')
       const entryDescInput = document.getElementById('entry-desc')
       const entryCadenceSelect = document.getElementById('entry-cadence')
-      const editModeToggleContainer = document.getElementById(
-        'edit-mode-toggle-container'
-      )
-      const editModeToggle = document.getElementById('edit-mode-toggle')
       const btnSaveEntry = document.getElementById('btn-save-entry')
       const btnDeleteEntry = document.getElementById('btn-delete-entry')
       const modalTitle = document.getElementById('modal-title')
@@ -865,8 +848,6 @@
 
       colorButtons.forEach((btn) => {
         btn.addEventListener('click', (e) => {
-          if (!isEditMode) return
-
           colorButtons.forEach((b) => {
             b.classList.remove(`ring-${b.dataset.color}-500`)
             b.classList.add('ring-transparent')
@@ -894,36 +875,8 @@
         })
       }
 
-      const setEditMode = (mode) => {
-        isEditMode = mode
-        editModeToggle.checked = mode
-        entryNameInput.disabled = !mode
-        entryDescInput.disabled = !mode
-        entryCadenceSelect.disabled = !mode
-        btnSaveEntry.disabled = !mode
-
-        colorButtons.forEach((btn) => {
-          btn.disabled = !mode
-          if (!mode) {
-            btn.classList.add('cursor-not-allowed', 'opacity-50')
-          } else {
-            btn.classList.remove('cursor-not-allowed', 'opacity-50')
-          }
-        })
-
-        if (!mode) {
-          btnDeleteEntry.classList.add('hidden')
-        } else if (currentEditingEntryId) {
-          btnDeleteEntry.classList.remove('hidden')
-        }
-      }
-
-      editModeToggle.addEventListener('change', (e) => {
-        setEditMode(e.target.checked)
-      })
-
       const handleEntryEnter = (e) => {
-        if (e.key === 'Enter' && isEditMode) {
+        if (e.key === 'Enter') {
           e.preventDefault()
           document.getElementById('btn-save-entry').click()
         }
@@ -943,35 +896,31 @@
           dateObj.toLocaleDateString(undefined, options)
 
         if (entry) {
-          // View existing entry
+          // Edit existing entry
           currentEditingEntryId = entry.id
-          modalTitle.textContent = 'View Entry'
-          editModeToggleContainer.classList.remove('hidden')
+          modalTitle.textContent = 'Edit Entry'
 
           entryNameInput.value = entry.name
           entryDescInput.value = entry.description || ''
           entryCadenceSelect.value = entry.cadence || 'Once'
           updateColorPickerUI(entry.color)
 
-          setEditMode(false)
+          btnDeleteEntry.classList.remove('hidden')
         } else {
           // Add new entry
           currentEditingEntryId = null
           modalTitle.textContent = 'Add Entry'
-          editModeToggleContainer.classList.add('hidden')
 
           entryNameInput.value = ''
           entryDescInput.value = ''
           entryCadenceSelect.value = 'Monthly'
           updateColorPickerUI('indigo')
 
-          setEditMode(true)
+          btnDeleteEntry.classList.add('hidden')
         }
 
         entryModal.classList.remove('hidden')
-        if (isEditMode) {
-          setTimeout(() => entryNameInput.focus(), 50)
-        }
+        setTimeout(() => entryNameInput.focus(), 50)
       }
 
       const closeEntryModal = () => {
@@ -988,7 +937,6 @@
         .addEventListener('click', closeEntryModal)
 
       document.getElementById('btn-save-entry').addEventListener('click', () => {
-        if (!isEditMode) return
         const name = entryNameInput.value.trim()
         if (!name) return
 
