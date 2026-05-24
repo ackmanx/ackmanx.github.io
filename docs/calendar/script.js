@@ -29,10 +29,16 @@ const loadData = async () => {
       const data = await response.json()
       if (data && data.appData) {
         appData = data.appData
+        showToast('Loaded from cloud', 'success')
+      } else {
+        showToast('Cloud returned an empty response — using local data', 'error')
       }
+    } else {
+      showToast(`Cloud fetch failed: HTTP ${response.status}`, 'error')
     }
   } catch (error) {
     console.error('Failed to fetch calendar data', error)
+    showToast(`Cloud unreachable: ${error.message}`, 'error')
   }
 
   // Auto-create default calendar if none exists
