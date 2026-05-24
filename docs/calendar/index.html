@@ -6,15 +6,14 @@
     <link rel="icon" type="image/png" href="/fav_icon.png" />
     <title>Full Page Calendar</title>
 
-    <script type="module">
+    <!-- Load Tailwind CSS via CDN for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
       if (!localStorage.getItem('super_secret')) {
         window.location.href = '../fake_security.html'
       }
-    </script>
 
-    <!-- Load Tailwind CSS via CDN for styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
       // Configure Tailwind to use class-based dark mode
       tailwind.config = { darkMode: 'class' }
 
