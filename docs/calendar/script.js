@@ -357,6 +357,7 @@ let currentEditingEntryId = null
 
 const entryModal = document.getElementById('entry-modal')
 const entryNameInput = document.getElementById('entry-name')
+const entryWebsiteInput = document.getElementById('entry-website')
 const entryDescInput = document.getElementById('entry-desc')
 const entryCadenceSelect = document.getElementById('entry-cadence')
 const btnSaveEntry = document.getElementById('btn-save-entry')
@@ -402,7 +403,13 @@ const handleEntryEnter = (e) => {
   }
 }
 entryNameInput.addEventListener('keydown', handleEntryEnter)
+entryWebsiteInput.addEventListener('keydown', handleEntryEnter)
 entryCadenceSelect.addEventListener('keydown', handleEntryEnter)
+
+document.getElementById('btn-open-website').addEventListener('click', () => {
+  const url = entryWebsiteInput.value.trim()
+  if (url) window.open(url, '_blank', 'noopener,noreferrer')
+})
 
 const openEntryModal = (dateStr, dateObj, entry = null) => {
   selectedDateForEntry = dateStr
@@ -412,8 +419,10 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
     month: 'long',
     day: 'numeric',
   }
-  document.getElementById('modal-date-display').textContent =
-    dateObj.toLocaleDateString(undefined, options)
+  document.getElementById('modal-date-display').textContent = dateObj.toLocaleDateString(
+    undefined,
+    options
+  )
 
   if (entry) {
     // Edit existing entry
@@ -421,6 +430,7 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
     modalTitle.textContent = 'Edit Entry'
 
     entryNameInput.value = entry.name
+    entryWebsiteInput.value = entry.website || ''
     entryDescInput.value = entry.description || ''
     entryCadenceSelect.value = entry.cadence || 'Once'
     updateColorPickerUI(entry.color)
@@ -432,6 +442,7 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
     modalTitle.textContent = 'Add Entry'
 
     entryNameInput.value = ''
+    entryWebsiteInput.value = ''
     entryDescInput.value = ''
     entryCadenceSelect.value = 'Monthly'
     updateColorPickerUI('indigo')
@@ -461,6 +472,7 @@ document.getElementById('btn-save-entry').addEventListener('click', () => {
     const entry = appData.entries.find((e) => e.id === currentEditingEntryId)
     if (entry) {
       entry.name = name
+      entry.website = entryWebsiteInput.value.trim()
       entry.description = entryDescInput.value.trim()
       entry.cadence = entryCadenceSelect.value
       entry.color = selectedEntryColor
@@ -472,6 +484,7 @@ document.getElementById('btn-save-entry').addEventListener('click', () => {
       calendarId: appData.activeCalId,
       date: selectedDateForEntry,
       name: name,
+      website: entryWebsiteInput.value.trim(),
       description: entryDescInput.value.trim(),
       cadence: entryCadenceSelect.value,
       color: selectedEntryColor,
@@ -536,7 +549,9 @@ const closeCalModal = () => {
   currentEditingCalId = null
 }
 
-document.getElementById('btn-new-calendar').addEventListener('click', () => openCalModal())
+document
+  .getElementById('btn-new-calendar')
+  .addEventListener('click', () => openCalModal())
 document.getElementById('btn-cancel-cal').addEventListener('click', closeCalModal)
 
 btnDeleteCalDirect.addEventListener('click', () => {
@@ -614,17 +629,15 @@ document.getElementById('btn-confirm-delete-cal').addEventListener('click', () =
 // --- Initialize App ---
 window.addEventListener('DOMContentLoaded', async () => {
   // Listen for system theme changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener('change', (e) => {
-      if (!('theme' in localStorage)) {
-        if (e.matches) {
-          document.documentElement.classList.add('dark')
-        } else {
-          document.documentElement.classList.remove('dark')
-        }
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+    if (!('theme' in localStorage)) {
+      if (e.matches) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
       }
-    })
+    }
+  })
 
   const mobileSelect = document.getElementById('mobile-cal-select')
   if (mobileSelect) {
