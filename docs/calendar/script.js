@@ -584,7 +584,6 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
   }
 
   entryModal.classList.remove('hidden')
-  setTimeout(() => entryNameInput.focus(), 50)
 }
 
 const closeEntryModal = () => {
