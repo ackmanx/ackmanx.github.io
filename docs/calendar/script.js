@@ -124,60 +124,20 @@ const showToast = (message, type = 'error') => {
   }, 3000)
 }
 
-// --- Render Header Chips ---
+// --- Render Calendar Selector Dropdown ---
 const renderChips = () => {
-  const container = document.getElementById('calendar-chips')
-  container.innerHTML = ''
-  const mobileSelect = document.getElementById('mobile-cal-select')
-  if (mobileSelect) mobileSelect.innerHTML = ''
+  const select = document.getElementById('cal-select')
+  if (select) select.innerHTML = ''
 
   appData.calendars.forEach((cal) => {
     const isActive = cal.id === appData.activeCalId
 
-    const chip = document.createElement('div')
-    chip.className = `group flex items-center flex-none pl-4 pr-1 py-1 rounded-full text-sm font-medium transition-all duration-200 border cursor-pointer select-none ${
-      isActive
-        ? 'bg-indigo-600 dark:bg-indigo-500 text-white border-indigo-600 dark:border-indigo-500 shadow-md shadow-indigo-200 dark:shadow-none'
-        : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
-    }`
-
-    const nameSpan = document.createElement('span')
-    nameSpan.className = 'pr-2'
-    nameSpan.textContent = cal.name
-    chip.appendChild(nameSpan)
-
-    const editBtn = document.createElement('button')
-    editBtn.innerHTML = '<i class="ph ph-pencil-simple"></i>'
-    editBtn.className = `opacity-0 group-hover:opacity-100 transition-opacity p-1.5 rounded-full flex items-center justify-center ${
-      isActive
-        ? 'hover:bg-indigo-700 dark:hover:bg-indigo-600 text-indigo-200 hover:text-white'
-        : 'hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-400 hover:text-indigo-500 dark:hover:text-indigo-400'
-    }`
-    editBtn.title = 'Edit Calendar'
-
-    editBtn.addEventListener('click', (e) => {
-      e.stopPropagation() // Prevents the chip from becoming 'active' when trying to edit it
-      openCalModal(cal.id, cal.name)
-    })
-
-    chip.appendChild(editBtn)
-
-    chip.addEventListener('click', () => {
-      appData.activeCalId = cal.id
-      saveData()
-      renderChips()
-      renderCalendar()
-    })
-
-    container.appendChild(chip)
-
-    // Populate mobile dropdown
-    if (mobileSelect) {
+    if (select) {
       const option = document.createElement('option')
       option.value = cal.id
       option.textContent = cal.name
       option.selected = isActive
-      mobileSelect.appendChild(option)
+      select.appendChild(option)
     }
   })
 }
@@ -341,15 +301,182 @@ const renderCalendar = () => {
   }
 }
 
+// --- Agenda List Rendering ---
+const renderAgenda = () => {
+  const year = currentDate.getFullYear()
+  const month = currentDate.getMonth()
+
+  const monthNames = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+    'July',
+    'August',
+    'September',
+    'October',
+    'November',
+    'December',
+  ]
+  document.getElementById('current-month-display').textContent =
+    `${monthNames[month]} ${year}`
+
+  const container = document.getElementById('agenda-view')
+  container.innerHTML = ''
+
+  const daysInMonth = new Date(year, month + 1, 0).getDate()
+  const activeEntries = appData.entries.filter(
+    (e) => e.calendarId === appData.activeCalId
+  )
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  const dayNames = [
+    'Sunday',
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday',
+    'Saturday',
+  ]
+
+  let hasAnyEvents = false
+
+  for (let day = 1; day <= daysInMonth; day++) {
+    const dateObj = new Date(year, month, day)
+    dateObj.setHours(0, 0, 0, 0)
+
+    const dayEntries = activeEntries.filter((entry) => isEntryOnDate(entry, dateObj))
+    if (dayEntries.length === 0) continue
+
+    hasAnyEvents = true
+    const isToday = dateObj.getTime() === today.getTime()
+
+    // Day section wrapper
+    const section = document.createElement('div')
+    section.className = 'mb-6'
+
+    // Day header row
+    const dayRow = document.createElement('div')
+    dayRow.className = 'flex items-center gap-3 mb-2.5'
+
+    // Day number circle
+    const dayCircle = document.createElement('div')
+    dayCircle.className = `flex-none w-9 h-9 rounded-full flex items-center justify-center text-sm font-bold ${
+      isToday
+        ? 'bg-indigo-600 dark:bg-indigo-500 text-white'
+        : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300'
+    }`
+    dayCircle.textContent = day
+
+    // Day name label
+    const dayLabel = document.createElement('div')
+    dayLabel.className = `text-sm font-semibold ${
+      isToday
+        ? 'text-indigo-600 dark:text-indigo-400'
+        : 'text-slate-600 dark:text-slate-400'
+    }`
+    dayLabel.textContent = `${dayNames[dateObj.getDay()]}, ${monthNames[month]} ${day}`
+
+    // Divider line
+    const divider = document.createElement('div')
+    divider.className = 'flex-1 h-px bg-slate-200 dark:bg-slate-700'
+
+    dayRow.appendChild(dayCircle)
+    dayRow.appendChild(dayLabel)
+    dayRow.appendChild(divider)
+    section.appendChild(dayRow)
+
+    // Events list indented to align under the day label
+    const eventsList = document.createElement('div')
+    eventsList.className = 'pl-12 space-y-1.5'
+
+    dayEntries.forEach((entry) => {
+      const color = entry.color || 'indigo'
+      const entryEl = document.createElement('div')
+      entryEl.className = `bg-${color}-50 dark:bg-${color}-500/10 border border-${color}-100 dark:border-${color}-500/20 text-${color}-800 dark:text-${color}-300 px-3 py-2 rounded-lg text-sm font-medium cursor-pointer hover:bg-${color}-100 dark:hover:bg-${color}-500/20 transition-colors flex items-center justify-between gap-3`
+
+      const nameEl = document.createElement('span')
+      nameEl.textContent = entry.name
+      entryEl.appendChild(nameEl)
+
+      if (entry.cadence && entry.cadence !== 'Once') {
+        const cadenceEl = document.createElement('span')
+        cadenceEl.className = 'text-xs opacity-50 flex-none'
+        cadenceEl.textContent = entry.cadence
+        entryEl.appendChild(cadenceEl)
+      }
+
+      entryEl.addEventListener('click', () => {
+        openEntryModal(entry.date, parseDateStr(entry.date), entry)
+      })
+
+      eventsList.appendChild(entryEl)
+    })
+
+    section.appendChild(eventsList)
+    container.appendChild(section)
+  }
+
+  if (!hasAnyEvents) {
+    const empty = document.createElement('div')
+    empty.className =
+      'flex flex-col items-center justify-center h-full text-slate-400 dark:text-slate-500 select-none'
+    empty.innerHTML = `
+      <i class="ph ph-calendar-blank" style="font-size:3.5rem"></i>
+      <p class="mt-4 text-base font-medium">No events this month</p>
+      <p class="mt-1 text-sm opacity-70">Switch to calendar view to add events</p>
+    `
+    container.appendChild(empty)
+  }
+}
+
+// --- View State ---
+let currentView = 'calendar' // 'calendar' | 'agenda'
+
+const renderCurrentView = () => {
+  if (currentView === 'calendar') {
+    renderCalendar()
+  } else {
+    renderAgenda()
+  }
+}
+
+const setView = (view) => {
+  currentView = view
+  const calendarViewEl = document.getElementById('calendar-view')
+  const agendaViewEl = document.getElementById('agenda-view')
+  const toggleBtn = document.getElementById('btn-toggle-view')
+  const toggleIcon = document.getElementById('view-toggle-icon')
+
+  if (view === 'calendar') {
+    calendarViewEl.classList.remove('hidden')
+    agendaViewEl.classList.add('hidden')
+    toggleIcon.className =
+      'ph ph-list-bullets text-xl group-hover:scale-110 transition-transform'
+    toggleBtn.title = 'Switch to agenda view'
+    renderCalendar()
+  } else {
+    calendarViewEl.classList.add('hidden')
+    agendaViewEl.classList.remove('hidden')
+    toggleIcon.className =
+      'ph ph-calendar-blank text-xl group-hover:scale-110 transition-transform'
+    toggleBtn.title = 'Switch to calendar view'
+    renderAgenda()
+  }
+}
+
 // --- Month Navigation ---
 document.getElementById('btn-prev-month').addEventListener('click', () => {
   currentDate.setMonth(currentDate.getMonth() - 1)
-  renderCalendar()
+  renderCurrentView()
 })
 
 document.getElementById('btn-next-month').addEventListener('click', () => {
   currentDate.setMonth(currentDate.getMonth() + 1)
-  renderCalendar()
+  renderCurrentView()
 })
 
 // --- Entry Modal Logic ---
@@ -497,7 +624,7 @@ document.getElementById('btn-save-entry').addEventListener('click', () => {
   }
 
   saveData()
-  renderCalendar()
+  renderCurrentView()
   closeEntryModal()
 })
 
@@ -511,7 +638,7 @@ document.getElementById('btn-delete-entry').addEventListener('click', () => {
 const deleteEntry = (id) => {
   appData.entries = appData.entries.filter((e) => e.id !== id)
   saveData()
-  renderCalendar()
+  renderCurrentView()
 }
 
 // --- Calendar Modal Logic ---
@@ -587,7 +714,7 @@ btnSaveCal.addEventListener('click', () => {
 
   saveData()
   renderChips()
-  renderCalendar()
+  renderCurrentView()
   closeCalModal()
 })
 
@@ -642,7 +769,7 @@ document.getElementById('btn-confirm-delete-cal').addEventListener('click', () =
 
   saveData()
   renderChips()
-  renderCalendar()
+  renderCurrentView()
   closeDeleteCalModal()
 })
 
@@ -659,19 +786,19 @@ window.addEventListener('DOMContentLoaded', async () => {
     }
   })
 
-  const mobileSelect = document.getElementById('mobile-cal-select')
-  if (mobileSelect) {
-    mobileSelect.addEventListener('change', (e) => {
+  const calSelect = document.getElementById('cal-select')
+  if (calSelect) {
+    calSelect.addEventListener('change', (e) => {
       appData.activeCalId = e.target.value
       saveData()
       renderChips()
-      renderCalendar()
+      renderCurrentView()
     })
   }
 
-  const mobileEditBtn = document.getElementById('btn-edit-mobile-cal')
-  if (mobileEditBtn) {
-    mobileEditBtn.addEventListener('click', () => {
+  const editCalBtn = document.getElementById('btn-edit-cal')
+  if (editCalBtn) {
+    editCalBtn.addEventListener('click', () => {
       const activeCal = appData.calendars.find((c) => c.id === appData.activeCalId)
       if (activeCal) {
         openCalModal(activeCal.id, activeCal.name)
@@ -679,7 +806,11 @@ window.addEventListener('DOMContentLoaded', async () => {
     })
   }
 
+  document.getElementById('btn-toggle-view').addEventListener('click', () => {
+    setView(currentView === 'calendar' ? 'agenda' : 'calendar')
+  })
+
   await loadData()
   renderChips()
-  renderCalendar()
+  renderCurrentView()
 })
