@@ -460,6 +460,10 @@ const closeEntryModal = () => {
   currentEditingEntryId = null
 }
 
+entryModal.addEventListener('click', (e) => {
+  if (e.target === entryModal) closeEntryModal()
+})
+
 document.getElementById('btn-close-modal').addEventListener('click', closeEntryModal)
 document.getElementById('btn-cancel-entry').addEventListener('click', closeEntryModal)
 
@@ -549,6 +553,10 @@ const closeCalModal = () => {
   currentEditingCalId = null
 }
 
+newCalModal.addEventListener('click', (e) => {
+  if (e.target === newCalModal) closeCalModal()
+})
+
 document
   .getElementById('btn-new-calendar')
   .addEventListener('click', () => openCalModal())
@@ -596,6 +604,18 @@ const closeDeleteCalModal = () => {
   calendarToDelete = null
   document.getElementById('delete-cal-modal').classList.add('hidden')
 }
+
+const deleteCalModal = document.getElementById('delete-cal-modal')
+deleteCalModal.addEventListener('click', (e) => {
+  if (e.target === deleteCalModal) closeDeleteCalModal()
+})
+
+document.addEventListener('keydown', (e) => {
+  if (e.key !== 'Escape') return
+  if (!entryModal.classList.contains('hidden')) closeEntryModal()
+  else if (!newCalModal.classList.contains('hidden')) closeCalModal()
+  else if (!deleteCalModal.classList.contains('hidden')) closeDeleteCalModal()
+})
 
 document
   .getElementById('btn-cancel-delete-cal')
