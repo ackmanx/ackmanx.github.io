@@ -57,12 +57,11 @@ const saveData = async () => {
   localStorage.setItem('calendarAppData', JSON.stringify(appData))
 
   try {
-    const password = localStorage.getItem('super_secret')
     const response = await fetch('https://friends-of-mongo.vercel.app/calendar', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: password,
+        Authorization: localStorage.getItem('super_secret') ?? '',
       },
       body: JSON.stringify({
         appData,
