@@ -62,9 +62,9 @@ const saveData = async () => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        Authorization: password,
       },
       body: JSON.stringify({
-        password,
         appData,
       }),
     })
