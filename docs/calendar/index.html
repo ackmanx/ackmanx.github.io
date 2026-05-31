@@ -302,6 +302,7 @@
                 class="w-6 h-6 rounded-full bg-pink-500 ring-2 ring-offset-2 ring-offset-white dark:ring-offset-slate-800 ring-transparent transition-all focus:outline-none"
               ></button>
             </div>
+            <div id="color-label-hint" class="min-h-5 mt-1.5"></div>
           </div>
 
           <div>
@@ -365,10 +366,10 @@
       class="fixed inset-0 bg-slate-900/50 dark:bg-slate-900/80 backdrop-blur-sm hidden z-50 flex items-center justify-center p-4"
     >
       <div
-        class="bg-white dark:bg-slate-800 rounded-xl shadow-2xl w-full max-w-sm overflow-hidden fade-in border border-slate-200 dark:border-slate-700"
+        class="bg-white dark:bg-slate-800 rounded-xl shadow-2xl w-full max-w-md overflow-hidden fade-in border border-slate-200 dark:border-slate-700 flex flex-col max-h-[90dvh]"
       >
         <div
-          class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50"
+          class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 flex-none"
         >
           <h3
             id="cal-modal-title"
@@ -377,19 +378,125 @@
             Create New Calendar
           </h3>
         </div>
-        <div class="p-6">
-          <label
-            for="cal-name"
-            class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
-            >Calendar Name</label
-          >
-          <input
-            type="text"
-            id="cal-name"
-            class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
-            placeholder="E.g., Work, Personal, Fitness"
-            autocomplete="off"
-          />
+        <div class="p-6 overflow-y-auto space-y-5">
+          <div>
+            <label
+              for="cal-name"
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
+              >Calendar Name</label
+            >
+            <input
+              type="text"
+              id="cal-name"
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+              placeholder="E.g., Work, Personal, Fitness"
+              autocomplete="off"
+            />
+          </div>
+
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
+              >Color Labels</label
+            >
+            <p class="text-xs text-slate-500 dark:text-slate-400 mb-3">
+              Optionally name each color for this calendar.
+            </p>
+            <div class="space-y-2.5">
+              <div class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-indigo-500 flex-shrink-0"></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Indigo</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-indigo"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-red-500 flex-shrink-0"></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Red</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-red"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="flex items-center gap-3">
+                <span
+                  class="w-3.5 h-3.5 rounded-full bg-emerald-500 flex-shrink-0"
+                ></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Emerald</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-emerald"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-amber-500 flex-shrink-0"></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Amber</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-amber"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-purple-500 flex-shrink-0"></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Purple</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-purple"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-pink-500 flex-shrink-0"></span>
+                <span
+                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                  >Pink</span
+                >
+                <input
+                  type="text"
+                  id="cal-color-label-pink"
+                  maxlength="30"
+                  class="flex-1 min-w-0 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all placeholder-slate-400 dark:placeholder-slate-500"
+                  placeholder="Optional label..."
+                  autocomplete="off"
+                />
+              </div>
+            </div>
+          </div>
         </div>
         <div
           class="px-6 py-4 border-t border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 flex justify-between items-center"

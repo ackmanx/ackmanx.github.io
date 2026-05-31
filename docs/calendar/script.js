@@ -5,6 +5,8 @@ let appData = {
   activeCalId: null,
 }
 
+const COLORS = ['indigo', 'red', 'emerald', 'amber', 'purple', 'pink']
+
 let currentDate = new Date()
 let selectedDateForEntry = null
 
@@ -505,8 +507,21 @@ colorButtons.forEach((btn) => {
     clickedBtn.classList.add(`ring-${color}-500`)
 
     selectedEntryColor = color
+    updateColorLabelHint(color)
   })
 })
+
+const updateColorLabelHint = (color) => {
+  const hint = document.getElementById('color-label-hint')
+  if (!hint) return
+  const activeCal = appData.calendars.find((c) => c.id === appData.activeCalId)
+  const label = activeCal?.colorLabels?.[color]
+  if (label) {
+    hint.innerHTML = `<span class="text-xs font-medium text-${color}-600 dark:text-${color}-400">${label}</span>`
+  } else {
+    hint.innerHTML = ''
+  }
+}
 
 const updateColorPickerUI = (color) => {
   selectedEntryColor = color || 'indigo'
@@ -519,6 +534,7 @@ const updateColorPickerUI = (color) => {
       b.classList.add('ring-transparent')
     }
   })
+  updateColorLabelHint(selectedEntryColor)
 }
 
 const handleEntryEnter = (e) => {
@@ -658,6 +674,14 @@ const openCalModal = (calId = null, calName = '') => {
   currentEditingCalId = calId
   calNameInput.value = calName
 
+  // Populate color label inputs
+  const cal = calId ? appData.calendars.find((c) => c.id === calId) : null
+  const colorLabels = cal?.colorLabels || {}
+  COLORS.forEach((color) => {
+    const input = document.getElementById(`cal-color-label-${color}`)
+    if (input) input.value = colorLabels[color] || ''
+  })
+
   if (calId) {
     calModalTitle.textContent = 'Edit Calendar'
     btnSaveCal.textContent = 'Save'
@@ -700,12 +724,23 @@ btnSaveCal.addEventListener('click', () => {
   const name = calNameInput.value.trim()
   if (!name) return
 
+  // Collect color labels (only save non-empty ones)
+  const colorLabels = {}
+  COLORS.forEach((color) => {
+    const input = document.getElementById(`cal-color-label-${color}`)
+    const val = input?.value.trim()
+    if (val) colorLabels[color] = val
+  })
+
   if (currentEditingCalId) {
     const cal = appData.calendars.find((c) => c.id === currentEditingCalId)
-    if (cal) cal.name = name
+    if (cal) {
+      cal.name = name
+      cal.colorLabels = colorLabels
+    }
   } else {
     const newCalId = generateUUID()
-    appData.calendars.push({ id: newCalId, name: name })
+    appData.calendars.push({ id: newCalId, name, colorLabels })
     appData.activeCalId = newCalId // Auto-switch to new cal
   }
 
