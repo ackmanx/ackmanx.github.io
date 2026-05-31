@@ -18,20 +18,15 @@ const generateUUID = () => {
 }
 
 const loadData = async () => {
-  const stored = localStorage.getItem('calendarAppData')
-  if (stored) {
-    appData = JSON.parse(stored)
-  }
-
   try {
-    const response = await fetch('https://friends-of-mongo.vercel.app/calendar')
+    const response = await fetch('https://friends-of-mongo.vercel.app/calendar', {
+      headers: { Authorization: localStorage.getItem('super_secret') },
+    })
     if (response.ok) {
       const data = await response.json()
       if (data && data.appData) {
         appData = data.appData
         showToast('Loaded from cloud', 'success')
-      } else {
-        showToast('Cloud returned an empty response — using local data', 'error')
       }
     } else {
       showToast(`Cloud fetch failed: HTTP ${response.status}`, 'error')
@@ -54,8 +49,6 @@ const loadData = async () => {
 }
 
 const saveData = async () => {
-  localStorage.setItem('calendarAppData', JSON.stringify(appData))
-
   try {
     const response = await fetch('https://friends-of-mongo.vercel.app/calendar', {
       method: 'POST',
