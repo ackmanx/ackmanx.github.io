@@ -6,6 +6,16 @@ let appData = {
 }
 
 const COLORS = ['indigo', 'red', 'emerald', 'amber', 'purple', 'pink']
+const COLOR_NAMES = {
+  indigo: 'Indigo',
+  red: 'Red',
+  emerald: 'Emerald',
+  amber: 'Amber',
+  purple: 'Purple',
+  pink: 'Pink',
+}
+
+let activeColorFilter = null
 
 let currentDate = new Date()
 let selectedDateForEntry = null
@@ -140,6 +150,60 @@ const renderChips = () => {
       select.appendChild(option)
     }
   })
+
+  renderColorFilter()
+}
+
+// --- Color Filter Bar ---
+const renderColorFilter = () => {
+  const bar = document.getElementById('color-filter-bar')
+  if (!bar) return
+  bar.innerHTML = ''
+
+  // "All" button
+  const allBtn = document.createElement('button')
+  allBtn.type = 'button'
+  allBtn.className =
+    activeColorFilter === null
+      ? 'flex-none px-3 py-1 rounded-full text-xs font-semibold bg-slate-700 dark:bg-slate-200 text-white dark:text-slate-900 transition-colors'
+      : 'flex-none px-3 py-1 rounded-full text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors'
+  allBtn.textContent = 'All'
+  allBtn.addEventListener('click', () => {
+    activeColorFilter = null
+    renderColorFilter()
+    renderCurrentView()
+  })
+  bar.appendChild(allBtn)
+
+  // Color filter pills
+  const activeCal = appData.calendars.find((c) => c.id === appData.activeCalId)
+  const colorLabels = activeCal?.colorLabels || {}
+
+  COLORS.forEach((color) => {
+    const label = colorLabels[color] || COLOR_NAMES[color]
+    const isActive = activeColorFilter === color
+    const btn = document.createElement('button')
+    btn.type = 'button'
+
+    if (isActive) {
+      btn.className = `flex-none flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold bg-${color}-500 text-white transition-colors`
+    } else {
+      btn.className = `flex-none flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-${color}-50 dark:bg-${color}-500/10 text-${color}-700 dark:text-${color}-300 hover:bg-${color}-100 dark:hover:bg-${color}-500/20 transition-colors`
+    }
+
+    const dot = document.createElement('span')
+    dot.className = `w-2 h-2 rounded-full flex-none ${isActive ? 'bg-white/70' : `bg-${color}-500`}`
+    btn.appendChild(dot)
+    btn.appendChild(document.createTextNode(label))
+
+    btn.addEventListener('click', () => {
+      activeColorFilter = color
+      renderColorFilter()
+      renderCurrentView()
+    })
+
+    bar.appendChild(btn)
+  })
 }
 
 // --- Date Recurrence Logic ---
@@ -221,9 +285,11 @@ const renderCalendar = () => {
   const today = new Date()
   today.setHours(0, 0, 0, 0)
 
-  // Fetch entries for active calendar to optimize loop
+  // Fetch entries for active calendar (and active color filter) to optimize loop
   const activeEntries = appData.entries.filter(
-    (e) => e.calendarId === appData.activeCalId
+    (e) =>
+      e.calendarId === appData.activeCalId &&
+      (activeColorFilter === null || (e.color || 'indigo') === activeColorFilter)
   )
 
   for (let i = 0; i < totalCells; i++) {
@@ -328,7 +394,9 @@ const renderAgenda = () => {
 
   const daysInMonth = new Date(year, month + 1, 0).getDate()
   const activeEntries = appData.entries.filter(
-    (e) => e.calendarId === appData.activeCalId
+    (e) =>
+      e.calendarId === appData.activeCalId &&
+      (activeColorFilter === null || (e.color || 'indigo') === activeColorFilter)
   )
   const today = new Date()
   today.setHours(0, 0, 0, 0)
@@ -799,6 +867,7 @@ document.getElementById('btn-confirm-delete-cal').addEventListener('click', () =
     }
   }
 
+  activeColorFilter = null
   saveData()
   renderChips()
   renderCurrentView()
@@ -822,6 +891,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   if (calSelect) {
     calSelect.addEventListener('change', (e) => {
       appData.activeCalId = e.target.value
+      activeColorFilter = null
       saveData()
       renderChips()
       renderCurrentView()
