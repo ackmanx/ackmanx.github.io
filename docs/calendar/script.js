@@ -5,7 +5,7 @@ let appData = {
   activeCalId: null,
 }
 
-const COLORS = ['indigo', 'red', 'emerald', 'amber', 'purple', 'pink']
+const COLORS = ['indigo', 'red', 'emerald', 'amber', 'purple', 'pink', 'slate']
 const COLOR_NAMES = {
   indigo: 'Indigo',
   red: 'Red',
@@ -13,6 +13,7 @@ const COLOR_NAMES = {
   amber: 'Amber',
   purple: 'Purple',
   pink: 'Pink',
+  slate: 'Gray',
 }
 
 let activeColorFilter = null
