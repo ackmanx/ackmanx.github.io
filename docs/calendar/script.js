@@ -154,55 +154,81 @@ const renderChips = () => {
   renderColorFilter()
 }
 
-// --- Color Filter Bar ---
-const renderColorFilter = () => {
-  const bar = document.getElementById('color-filter-bar')
-  if (!bar) return
-  bar.innerHTML = ''
+// --- Color Filter Dropdown ---
+const closeColorFilterDropdown = () => {
+  const panel = document.getElementById('color-filter-panel')
+  if (panel) panel.classList.add('hidden')
+}
 
-  // "All" button
+const renderColorFilter = () => {
+  const dotEl = document.getElementById('color-filter-btn-dot')
+  const labelEl = document.getElementById('color-filter-btn-label')
+  const triggerBtn = document.getElementById('btn-color-filter')
+  const activeCal = appData.calendars.find((c) => c.id === appData.activeCalId)
+  const colorLabels = activeCal?.colorLabels || {}
+
+  // Update trigger button to reflect the active filter
+  if (activeColorFilter === null) {
+    if (dotEl)
+      dotEl.className =
+        'w-2.5 h-2.5 rounded-full flex-none bg-slate-400 dark:bg-slate-500 transition-colors'
+    if (labelEl) labelEl.textContent = 'All'
+    if (triggerBtn)
+      triggerBtn.className =
+        'flex-none flex items-center gap-1.5 px-3 py-2 rounded-full bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors'
+  } else {
+    const colorLabel = colorLabels[activeColorFilter] || COLOR_NAMES[activeColorFilter]
+    if (dotEl)
+      dotEl.className = `w-2.5 h-2.5 rounded-full flex-none bg-${activeColorFilter}-500 transition-colors`
+    if (labelEl) labelEl.textContent = colorLabel
+    if (triggerBtn)
+      triggerBtn.className = `flex-none flex items-center gap-1.5 px-3 py-2 rounded-full bg-${activeColorFilter}-100 dark:bg-${activeColorFilter}-500/20 text-${activeColorFilter}-700 dark:text-${activeColorFilter}-300 hover:bg-${activeColorFilter}-200 dark:hover:bg-${activeColorFilter}-500/30 transition-colors`
+  }
+
+  // Populate the dropdown chips
+  const chips = document.getElementById('color-filter-chips')
+  if (!chips) return
+  chips.innerHTML = ''
+
+  // "All" chip
   const allBtn = document.createElement('button')
   allBtn.type = 'button'
   allBtn.className =
     activeColorFilter === null
-      ? 'flex-none px-3 py-1 rounded-full text-xs font-semibold bg-slate-700 dark:bg-slate-200 text-white dark:text-slate-900 transition-colors'
-      : 'flex-none px-3 py-1 rounded-full text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600 transition-colors'
-  allBtn.textContent = 'All'
+      ? 'w-full flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-700 dark:bg-slate-200 text-white dark:text-slate-900 transition-colors'
+      : 'w-full flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-xs font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors'
+  const allDot = document.createElement('span')
+  allDot.className = `w-2.5 h-2.5 rounded-full flex-none ${activeColorFilter === null ? 'bg-white/70 dark:bg-slate-900/40' : 'bg-slate-400 dark:bg-slate-500'}`
+  allBtn.appendChild(allDot)
+  allBtn.appendChild(document.createTextNode('All'))
   allBtn.addEventListener('click', () => {
     activeColorFilter = null
+    closeColorFilterDropdown()
     renderColorFilter()
     renderCurrentView()
   })
-  bar.appendChild(allBtn)
+  chips.appendChild(allBtn)
 
-  // Color filter pills
-  const activeCal = appData.calendars.find((c) => c.id === appData.activeCalId)
-  const colorLabels = activeCal?.colorLabels || {}
-
+  // Color chips
   COLORS.forEach((color) => {
-    const label = colorLabels[color] || COLOR_NAMES[color]
+    const colorLabel = colorLabels[color] || COLOR_NAMES[color]
     const isActive = activeColorFilter === color
     const btn = document.createElement('button')
     btn.type = 'button'
-
-    if (isActive) {
-      btn.className = `flex-none flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold bg-${color}-500 text-white transition-colors`
-    } else {
-      btn.className = `flex-none flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-${color}-50 dark:bg-${color}-500/10 text-${color}-700 dark:text-${color}-300 hover:bg-${color}-100 dark:hover:bg-${color}-500/20 transition-colors`
-    }
-
-    const dot = document.createElement('span')
-    dot.className = `w-2 h-2 rounded-full flex-none ${isActive ? 'bg-white/70' : `bg-${color}-500`}`
-    btn.appendChild(dot)
-    btn.appendChild(document.createTextNode(label))
-
+    btn.className = isActive
+      ? `w-full flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-${color}-500 text-white transition-colors`
+      : `w-full flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-xs font-medium text-${color}-700 dark:text-${color}-300 hover:bg-${color}-50 dark:hover:bg-${color}-500/10 transition-colors`
+    const colorDot = document.createElement('span')
+    colorDot.className = `w-2.5 h-2.5 rounded-full flex-none ${isActive ? 'bg-white/70' : `bg-${color}-500`}`
+    btn.appendChild(colorDot)
+    btn.appendChild(document.createTextNode(colorLabel))
     btn.addEventListener('click', () => {
       activeColorFilter = color
+      closeColorFilterDropdown()
       renderColorFilter()
       renderCurrentView()
     })
-
-    bar.appendChild(btn)
+    chips.appendChild(btn)
   })
 }
 
@@ -839,7 +865,10 @@ deleteCalModal.addEventListener('click', (e) => {
 
 document.addEventListener('keydown', (e) => {
   if (e.key !== 'Escape') return
-  if (!entryModal.classList.contains('hidden')) closeEntryModal()
+  const colorFilterPanel = document.getElementById('color-filter-panel')
+  if (colorFilterPanel && !colorFilterPanel.classList.contains('hidden'))
+    closeColorFilterDropdown()
+  else if (!entryModal.classList.contains('hidden')) closeEntryModal()
   else if (!newCalModal.classList.contains('hidden')) closeCalModal()
   else if (!deleteCalModal.classList.contains('hidden')) closeDeleteCalModal()
 })
@@ -907,6 +936,18 @@ window.addEventListener('DOMContentLoaded', async () => {
       }
     })
   }
+
+  // Color filter dropdown toggle
+  document.getElementById('btn-color-filter').addEventListener('click', (e) => {
+    e.stopPropagation()
+    document.getElementById('color-filter-panel').classList.toggle('hidden')
+  })
+
+  // Close when clicking outside
+  document.addEventListener('click', (e) => {
+    const wrapper = document.getElementById('color-filter-dropdown-wrapper')
+    if (wrapper && !wrapper.contains(e.target)) closeColorFilterDropdown()
+  })
 
   document.getElementById('btn-toggle-view').addEventListener('click', () => {
     setView(currentView === 'calendar' ? 'agenda' : 'calendar')
