@@ -158,3 +158,9 @@ The favicon file is named `favicon__replace-me-with-a-new-icon.png` — it's a p
 - **Do not commit secrets.** The credential in `if-you-know-you-know.md` already exists in the repo; do not copy it into code or expose it in new places.
 - **Do not modify `people.js` casually** — it contains real personal data.
 - **Do not add a `package.json`** or any file that implies a Node.js project exists here.
+
+## Code Style
+
+- Do not use semi-colons unless required
+- Use whitespace to organize code with proper indentation and newlines
+- Avoid single letter variable names, because they are ambiguous
