@@ -161,6 +161,6 @@ The favicon file is named `favicon__replace-me-with-a-new-icon.png` — it's a p
 
 ## Code Style
 
-- Do not use semi-colons unless required
+- Honor prettier config
 - Use whitespace to organize code with proper indentation and newlines
 - Avoid single letter variable names, because they are ambiguous
