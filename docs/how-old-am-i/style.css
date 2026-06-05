@@ -92,6 +92,13 @@ h1 {
   margin-top: 32px;
 }
 
+.countdown {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 12px;
+}
+
 nav {
   position: absolute;
   bottom: 20px;
