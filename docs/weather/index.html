@@ -1,0 +1,630 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fargo Weather | NOAA Forecast</title>
+
+    <!-- Tailwind CSS for rapid, modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+        /* Deep, modern atmospheric gradient */
+        background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0c4a6e 100%);
+        background-attachment: fixed;
+        color: white;
+        min-height: 100vh;
+      }
+
+      /* Glassmorphism card style */
+      .glass-card {
+        background: rgba(255, 255, 255, 0.08);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      }
+
+      /* Hide scrollbar for the horizontal scrolling elements but keep functionality */
+      .no-scrollbar::-webkit-scrollbar {
+        display: none;
+      }
+      .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+
+      /* Smooth fade-in animation */
+      .fade-in {
+        animation: fadeIn 0.6s ease-in-out forwards;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </head>
+  <body class="antialiased p-4 md:p-8 flex justify-center items-start">
+    <!-- Loading State -->
+    <div id="loading" class="flex flex-col items-center justify-center h-[80vh] w-full">
+      <i data-lucide="loader-2" class="w-12 h-12 animate-spin text-blue-300 mb-4"></i>
+      <h2 class="text-xl font-medium text-blue-100 animate-pulse">
+        Connecting to NOAA Weather Station...
+      </h2>
+    </div>
+
+    <!-- Error State -->
+    <div
+      id="error-state"
+      class="hidden flex flex-col items-center justify-center h-[80vh] w-full text-center max-w-md mx-auto"
+    >
+      <i data-lucide="cloud-off" class="w-16 h-16 text-red-400 mb-4"></i>
+      <h2 class="text-2xl font-bold text-white mb-2">Weather Unavailable</h2>
+      <p class="text-blue-100" id="error-message">
+        We couldn't fetch the latest data from NOAA right now. Please try again later.
+      </p>
+      <button
+        onclick="location.reload()"
+        class="mt-6 px-6 py-2 bg-white/10 hover:bg-white/20 border border-white/20 rounded-full transition-colors"
+      >
+        Try Again
+      </button>
+    </div>
+
+    <!-- Main App Content (Hidden until loaded) -->
+    <main id="app" class="hidden w-full max-w-5xl space-y-6 fade-in relative">
+      <button
+        id="settings-btn"
+        class="absolute right-0 top-0 p-3 bg-white/5 hover:bg-white/10 rounded-full text-blue-300 hover:text-white transition-colors z-10"
+        title="Location Settings"
+      >
+        <i data-lucide="settings" class="w-5 h-5"></i>
+      </button>
+
+      <!-- Header -->
+      <header class="text-center space-y-1 mb-8">
+        <div class="flex items-center justify-center gap-2 mb-1">
+          <i data-lucide="map-pin" class="w-5 h-5 text-blue-300"></i>
+          <h1 id="location-name" class="text-3xl md:text-4xl font-bold tracking-tight">
+            Loading Location...
+          </h1>
+        </div>
+        <p id="current-date" class="text-blue-200 font-medium"></p>
+        <p class="text-xs text-white/50 uppercase tracking-widest mt-2">Live NWS / NOAA Data</p>
+      </header>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <!-- Left Column: Current Conditions -->
+        <div class="lg:col-span-1 space-y-6">
+          <!-- Main Temperature Card -->
+          <div
+            class="glass-card rounded-3xl p-8 flex flex-col items-center justify-center text-center relative overflow-hidden"
+          >
+            <div class="absolute top-0 right-0 p-4 opacity-10">
+              <i data-lucide="sun" id="bg-weather-icon" class="w-32 h-32"></i>
+            </div>
+
+            <div class="relative z-10 flex flex-col items-center">
+              <div id="current-icon-container" class="mb-4 text-blue-200">
+                <!-- Icon injected by JS -->
+              </div>
+              <h2 id="current-temp" class="text-7xl font-bold tracking-tighter mb-2">--°</h2>
+              <p id="current-desc" class="text-xl font-medium text-blue-100 capitalize">--</p>
+
+              <div class="flex gap-4 mt-6 text-sm text-blue-200 bg-black/20 rounded-full px-5 py-2">
+                <span class="flex items-center gap-1"
+                  ><i data-lucide="thermometer" class="w-4 h-4"></i> Feels like
+                  <span id="current-feels">--</span>°</span
+                >
+              </div>
+            </div>
+          </div>
+
+          <!-- Current Details Grid -->
+          <div class="grid grid-cols-2 gap-4">
+            <div class="glass-card rounded-2xl p-4 flex flex-col items-start">
+              <i data-lucide="wind" class="w-6 h-6 text-blue-300 mb-2"></i>
+              <span class="text-xs text-blue-200 uppercase tracking-wider">Wind</span>
+              <span id="current-wind" class="text-lg font-semibold mt-1">-- mph</span>
+            </div>
+            <div class="glass-card rounded-2xl p-4 flex flex-col items-start">
+              <i data-lucide="droplets" class="w-6 h-6 text-blue-300 mb-2"></i>
+              <span class="text-xs text-blue-200 uppercase tracking-wider">Humidity</span>
+              <span id="current-humidity" class="text-lg font-semibold mt-1">--%</span>
+            </div>
+            <div class="glass-card rounded-2xl p-4 flex flex-col items-start">
+              <i data-lucide="cloud-rain" class="w-6 h-6 text-blue-300 mb-2"></i>
+              <span class="text-xs text-blue-200 uppercase tracking-wider">Precip Chance</span>
+              <span id="current-precip" class="text-lg font-semibold mt-1">--%</span>
+            </div>
+            <div class="glass-card rounded-2xl p-4 flex flex-col items-start">
+              <i data-lucide="eye" class="w-6 h-6 text-blue-300 mb-2"></i>
+              <span class="text-xs text-blue-200 uppercase tracking-wider">Visibility</span>
+              <span id="current-vis" class="text-lg font-semibold mt-1">Good</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Forecasts -->
+        <div class="lg:col-span-2 space-y-6">
+          <!-- Hourly Forecast -->
+          <div class="glass-card rounded-3xl p-6">
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-lg font-semibold flex items-center gap-2">
+                <i data-lucide="clock" class="w-5 h-5 text-blue-300"></i> Next 24 Hours
+              </h3>
+            </div>
+            <!-- Horizontal scroll container -->
+            <div
+              id="hourly-container"
+              class="flex overflow-x-auto gap-4 pb-4 no-scrollbar cursor-grab active:cursor-grabbing"
+            >
+              <!-- Hourly items injected by JS -->
+            </div>
+          </div>
+
+          <!-- Daily Forecast -->
+          <div class="glass-card rounded-3xl p-6">
+            <h3 class="text-lg font-semibold flex items-center gap-2 mb-4">
+              <i data-lucide="calendar-days" class="w-5 h-5 text-blue-300"></i> Upcoming Days
+            </h3>
+            <div id="daily-container" class="space-y-1">
+              <!-- Daily items injected by JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Live Radar -->
+        <div class="glass-card rounded-3xl p-6 lg:col-span-3">
+          <h3 class="text-lg font-semibold flex items-center gap-2 mb-4">
+            <i data-lucide="radar" class="w-5 h-5 text-blue-300"></i> Live Radar
+          </h3>
+          <div
+            class="w-full h-[400px] md:h-[500px] rounded-2xl overflow-hidden bg-black/20 border border-white/5 relative"
+          >
+            <!-- Loading placeholder for iframe -->
+            <div class="absolute inset-0 flex flex-col items-center justify-center -z-10">
+              <i data-lucide="loader-2" class="w-8 h-8 animate-spin text-blue-300 mb-2"></i>
+              <span class="text-sm text-blue-200">Loading Radar Data...</span>
+            </div>
+            <iframe
+              id="radar-iframe"
+              width="100%"
+              height="100%"
+              frameborder="0"
+              title="Weather Radar"
+              class="w-full h-full relative z-10"
+            >
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Settings Modal -->
+    <div
+      id="settings-modal"
+      class="hidden fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4"
+    >
+      <div
+        class="glass-card bg-[#0f172a] rounded-3xl p-6 w-full max-w-sm transform transition-all shadow-2xl"
+      >
+        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+          <i data-lucide="map" class="w-5 h-5 text-blue-300"></i> Location Settings
+        </h3>
+        <div class="space-y-4">
+          <button
+            id="detect-location"
+            class="w-full py-2.5 rounded-xl bg-blue-500/20 hover:bg-blue-500/30 text-blue-300 border border-blue-500/30 font-medium transition-colors flex items-center justify-center gap-2"
+          >
+            <i data-lucide="navigation" class="w-4 h-4"></i> Detect My Location
+          </button>
+          <div class="relative flex py-2 items-center">
+            <div class="flex-grow border-t border-white/10"></div>
+            <span class="flex-shrink-0 mx-4 text-white/30 text-xs">OR ENTER MANUALLY</span>
+            <div class="flex-grow border-t border-white/10"></div>
+          </div>
+          <div>
+            <label class="block text-sm text-blue-200 mb-1">Latitude</label>
+            <input
+              type="number"
+              id="input-lat"
+              step="any"
+              class="w-full bg-black/30 border border-white/10 rounded-xl px-4 py-2 text-white focus:outline-none focus:border-blue-400"
+            />
+          </div>
+          <div>
+            <label class="block text-sm text-blue-200 mb-1">Longitude</label>
+            <input
+              type="number"
+              id="input-lon"
+              step="any"
+              class="w-full bg-black/30 border border-white/10 rounded-xl px-4 py-2 text-white focus:outline-none focus:border-blue-400"
+            />
+          </div>
+          <p id="settings-error" class="text-red-400 text-sm hidden">
+            Please enter valid numerical coordinates.
+          </p>
+          <div class="flex gap-3 mt-6">
+            <button
+              id="cancel-settings"
+              class="flex-1 py-2 rounded-xl bg-white/5 hover:bg-white/10 transition-colors"
+            >
+              Cancel
+            </button>
+            <button
+              id="save-settings"
+              class="flex-1 py-2 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-medium transition-colors"
+            >
+              Save
+            </button>
+          </div>
+          <p class="text-xs text-white/50 text-center mt-2">
+            Enter coordinates for any US location.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Default Coordinates (Fargo, ND)
+      const DEFAULT_LAT = 46.8772
+      const DEFAULT_LON = -96.7898
+
+      // Load from LocalStorage or fallback to default
+      let currentLat = parseFloat(localStorage.getItem('weather_lat')) || DEFAULT_LAT
+      let currentLon = parseFloat(localStorage.getItem('weather_lon')) || DEFAULT_LON
+
+      // Initialize App
+      document.addEventListener('DOMContentLoaded', () => {
+        lucide.createIcons()
+        updateDate()
+        setupSettings()
+        fetchWeatherData()
+      })
+
+      function updateDate() {
+        const dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString(
+          'en-US',
+          dateOptions
+        )
+      }
+
+      function setupSettings() {
+        const modal = document.getElementById('settings-modal')
+        const btn = document.getElementById('settings-btn')
+        const cancelBtn = document.getElementById('cancel-settings')
+        const saveBtn = document.getElementById('save-settings')
+        const latInput = document.getElementById('input-lat')
+        const lonInput = document.getElementById('input-lon')
+        const errorMsg = document.getElementById('settings-error')
+        const detectBtn = document.getElementById('detect-location')
+
+        btn.addEventListener('click', () => {
+          latInput.value = currentLat
+          lonInput.value = currentLon
+          errorMsg.classList.add('hidden')
+          modal.classList.remove('hidden')
+        })
+
+        cancelBtn.addEventListener('click', () => {
+          modal.classList.add('hidden')
+        })
+
+        saveBtn.addEventListener('click', () => {
+          const newLat = parseFloat(latInput.value)
+          const newLon = parseFloat(lonInput.value)
+
+          if (!isNaN(newLat) && !isNaN(newLon)) {
+            currentLat = newLat
+            currentLon = newLon
+            localStorage.setItem('weather_lat', currentLat)
+            localStorage.setItem('weather_lon', currentLon)
+            modal.classList.add('hidden')
+            fetchWeatherData() // Refetch with new coordinates
+          } else {
+            errorMsg.textContent = 'Please enter valid numerical coordinates.'
+            errorMsg.classList.remove('hidden')
+          }
+        })
+
+        detectBtn.addEventListener('click', () => {
+          if (!navigator.geolocation) {
+            errorMsg.textContent = 'Geolocation is not supported by your browser.'
+            errorMsg.classList.remove('hidden')
+            return
+          }
+
+          const originalText = detectBtn.innerHTML
+          detectBtn.innerHTML =
+            '<i data-lucide="loader-2" class="w-4 h-4 animate-spin"></i> Locating...'
+          lucide.createIcons()
+          detectBtn.disabled = true
+
+          navigator.geolocation.getCurrentPosition(
+            (position) => {
+              const newLat = position.coords.latitude
+              const newLon = position.coords.longitude
+
+              latInput.value = newLat.toFixed(4)
+              lonInput.value = newLon.toFixed(4)
+
+              // Auto-save and fetch
+              currentLat = newLat
+              currentLon = newLon
+              localStorage.setItem('weather_lat', currentLat)
+              localStorage.setItem('weather_lon', currentLon)
+
+              modal.classList.add('hidden')
+              fetchWeatherData()
+
+              // Reset button state silently in background
+              detectBtn.innerHTML = originalText
+              lucide.createIcons()
+              detectBtn.disabled = false
+              errorMsg.classList.add('hidden')
+            },
+            (error) => {
+              errorMsg.textContent =
+                'Unable to retrieve location. Please check browser permissions.'
+              errorMsg.classList.remove('hidden')
+              detectBtn.innerHTML = originalText
+              lucide.createIcons()
+              detectBtn.disabled = false
+            }
+          )
+        })
+      }
+
+      async function fetchWeatherData() {
+        try {
+          // Show loading state when refetching
+          document.getElementById('app').classList.add('hidden')
+          document.getElementById('error-state').classList.add('hidden')
+          document.getElementById('loading').classList.remove('hidden')
+
+          // 1. Get the local grid points from NOAA using the coordinates
+          const pointsResponse = await fetch(
+            `https://api.weather.gov/points/${currentLat},${currentLon}`
+          )
+          if (!pointsResponse.ok) throw new Error('Failed to fetch grid points')
+          const pointsData = await pointsResponse.json()
+
+          // Extract City and State and update UI
+          const city = pointsData.properties.relativeLocation.properties.city
+          const state = pointsData.properties.relativeLocation.properties.state
+          document.getElementById('location-name').textContent = `${city}, ${state}`
+          document.title = `${city}, ${state} | NOAA Forecast`
+
+          const forecastUrl = pointsData.properties.forecast
+          const hourlyUrl = pointsData.properties.forecastHourly
+
+          // 2. Fetch Daily and Hourly forecasts simultaneously
+          const [dailyRes, hourlyRes] = await Promise.all([fetch(forecastUrl), fetch(hourlyUrl)])
+
+          if (!dailyRes.ok || !hourlyRes.ok) throw new Error('Failed to fetch forecasts')
+
+          const dailyData = await dailyRes.json()
+          const hourlyData = await hourlyRes.json()
+
+          // 3. Render Data
+          renderCurrentConditions(hourlyData.properties.periods[0], dailyData.properties.periods[0])
+          renderHourlyForecast(hourlyData.properties.periods)
+          renderDailyForecast(dailyData.properties.periods)
+          updateRadar(currentLat, currentLon)
+
+          // Show app, hide loading
+          document.getElementById('loading').classList.add('hidden')
+          document.getElementById('app').classList.remove('hidden')
+        } catch (error) {
+          console.error('Weather App Error:', error)
+          document.getElementById('loading').classList.add('hidden')
+          document.getElementById('error-state').classList.remove('hidden')
+        }
+      }
+
+      function renderCurrentConditions(currentHourly, currentDaily) {
+        // Temperature & Description
+        document.getElementById('current-temp').textContent = `${currentHourly.temperature}°`
+        document.getElementById('current-desc').textContent = currentHourly.shortForecast
+
+        // Icon
+        const iconName = getWeatherIcon(currentHourly.shortForecast, currentHourly.isDaytime)
+        document.getElementById('current-icon-container').innerHTML =
+          `<i data-lucide="${iconName}" class="w-16 h-16 drop-shadow-lg"></i>`
+        document.getElementById('bg-weather-icon').setAttribute('data-lucide', iconName)
+
+        // Details
+        document.getElementById('current-wind').textContent =
+          `${currentHourly.windSpeed} ${currentHourly.windDirection}`
+
+        const humidity =
+          currentHourly.relativeHumidity?.value || currentDaily.relativeHumidity?.value || '--'
+        document.getElementById('current-humidity').textContent = `${humidity}%`
+
+        const precip =
+          currentHourly.probabilityOfPrecipitation?.value ||
+          currentDaily.probabilityOfPrecipitation?.value ||
+          '0'
+        document.getElementById('current-precip').textContent = `${precip}%`
+
+        // We don't get exact "feels like" easily from this basic endpoint without calculation,
+        // so we'll approximate or just fall back to actual temp for the UI requirement
+        document.getElementById('current-feels').textContent = currentHourly.temperature
+
+        // Re-render lucide icons for dynamically added content
+        lucide.createIcons()
+      }
+
+      function renderHourlyForecast(hourlyPeriods) {
+        const container = document.getElementById('hourly-container')
+        container.innerHTML = '' // Clear skeleton
+
+        // Render next 24 hours
+        for (let i = 1; i <= 24; i++) {
+          const period = hourlyPeriods[i]
+          const time = new Date(period.startTime).toLocaleTimeString('en-US', {
+            hour: 'numeric',
+            hour12: true,
+          })
+          const iconName = getWeatherIcon(period.shortForecast, period.isDaytime)
+
+          const hourlyEl = document.createElement('div')
+          hourlyEl.className =
+            'flex flex-col items-center justify-between min-w-[70px] py-2 px-3 bg-white/5 rounded-2xl border border-white/5 hover:bg-white/10 transition-colors flex-shrink-0'
+
+          hourlyEl.innerHTML = `
+                    <span class="text-xs text-blue-200 mb-2 font-medium">${time}</span>
+                    <i data-lucide="${iconName}" class="w-6 h-6 mb-2 ${period.isDaytime ? 'text-yellow-200' : 'text-blue-200'}"></i>
+                    <span class="text-sm font-bold">${period.temperature}°</span>
+                    <span class="text-[10px] text-blue-300 mt-1 flex items-center gap-1">
+                        <i data-lucide="droplets" class="w-3 h-3"></i>
+                        ${period.probabilityOfPrecipitation?.value || 0}%
+                    </span>
+                `
+          container.appendChild(hourlyEl)
+        }
+        lucide.createIcons()
+      }
+
+      function renderDailyForecast(dailyPeriods) {
+        const container = document.getElementById('daily-container')
+        container.innerHTML = ''
+
+        // NOAA daily periods include "Today", "Tonight", "Tuesday", "Tuesday Night"
+        // We want to group them by day or just show the Day forecasts.
+        // We'll filter to show only daytime forecasts to keep the list clean (approx 7 days)
+        const dayForecasts = dailyPeriods.filter((period) => period.isDaytime)
+
+        // If the first item is "Tonight" (isDaytime = false), we still want to show it if it's currently night.
+        // But to keep it simple, we'll iterate through the raw periods and pair them up.
+
+        let html = ''
+
+        for (let i = 0; i < dailyPeriods.length; i++) {
+          const period = dailyPeriods[i]
+
+          // Only create rows for Daytime (or Tonight if it's the very first period and it's night)
+          if (period.isDaytime || (i === 0 && !period.isDaytime)) {
+            const iconName = getWeatherIcon(period.shortForecast, period.isDaytime)
+            const isToday = period.number === 1
+            const dayName = isToday ? (period.isDaytime ? 'Today' : 'Tonight') : period.name
+
+            // Try to find the corresponding night for the low temp
+            let nightPeriod = null
+            if (period.isDaytime && i + 1 < dailyPeriods.length) {
+              nightPeriod = dailyPeriods[i + 1]
+            }
+
+            const highTemp = period.temperature
+            const lowTemp = nightPeriod ? nightPeriod.temperature : '--'
+
+            const precip = period.probabilityOfPrecipitation?.value || 0
+
+            html += `
+                        <div class="flex items-center justify-between p-3 rounded-xl hover:bg-white/5 transition-colors border-b border-white/5 last:border-0">
+                            <div class="w-32 font-medium ${isToday ? 'text-white' : 'text-blue-100'}">${dayName}</div>
+
+                            <div class="flex items-center justify-center flex-1 gap-2">
+                                <i data-lucide="${iconName}" class="w-5 h-5 ${period.isDaytime ? 'text-yellow-200' : 'text-blue-200'}"></i>
+                                ${precip > 10 ? `<span class="text-xs text-blue-300 w-8">${precip}%</span>` : `<span class="w-8"></span>`}
+                            </div>
+
+                            <div class="w-24 text-right flex justify-end gap-3 text-sm">
+                                <span class="font-bold text-white">${highTemp}°</span>
+                                <span class="text-blue-300/60">${lowTemp}°</span>
+                            </div>
+                        </div>
+                    `
+          }
+        }
+        container.innerHTML = html
+        lucide.createIcons()
+      }
+
+      function updateRadar(lat, lon) {
+        const iframe = document.getElementById('radar-iframe')
+        // Uses Windy.com embed with NOAA radar data overlay, dynamically passing our lat/lon
+        iframe.src = `https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=%C2%B0F&metricWind=mph&zoom=8&overlay=radar&product=radar&level=surface&lat=${lat}&lon=${lon}`
+      }
+
+      // Helper function to map NOAA text descriptions to Lucide icons
+      function getWeatherIcon(shortForecast, isDaytime) {
+        const forecast = shortForecast.toLowerCase()
+
+        if (forecast.includes('thunder') || forecast.includes('t-storm')) return 'cloud-lightning'
+        if (
+          forecast.includes('snow') ||
+          forecast.includes('blizzard') ||
+          forecast.includes('flurries')
+        )
+          return 'snowflake'
+        if (
+          forecast.includes('rain') ||
+          forecast.includes('showers') ||
+          forecast.includes('drizzle')
+        )
+          return 'cloud-rain'
+        if (forecast.includes('fog')) return 'cloud-fog'
+        if (forecast.includes('wind') || forecast.includes('breezy')) return 'wind'
+
+        if (forecast.includes('partly') || forecast.includes('mostly')) {
+          return isDaytime ? 'cloud-sun' : 'cloud-moon'
+        }
+        if (forecast.includes('cloud')) return 'cloud'
+
+        // Default to clear/sunny
+        return isDaytime ? 'sun' : 'moon'
+      }
+
+      // Mouse drag scrolling for the hourly container
+      const slider = document.getElementById('hourly-container')
+      let isDown = false
+      let startX
+      let scrollLeft
+
+      slider.addEventListener('mousedown', (e) => {
+        isDown = true
+        slider.classList.add('active')
+        startX = e.pageX - slider.offsetLeft
+        scrollLeft = slider.scrollLeft
+      })
+      slider.addEventListener('mouseleave', () => {
+        isDown = false
+        slider.classList.remove('active')
+      })
+      slider.addEventListener('mouseup', () => {
+        isDown = false
+        slider.classList.remove('active')
+      })
+      slider.addEventListener('mousemove', (e) => {
+        if (!isDown) return
+        e.preventDefault()
+        const x = e.pageX - slider.offsetLeft
+        const walk = (x - startX) * 2 // Scroll speed multiplier
+        slider.scrollLeft = scrollLeft - walk
+      })
+    </script>
+  </body>
+</html>
