@@ -217,9 +217,9 @@
         </div>
       </div>
 
-      <!-- Footer displaying forecast update timestamp -->
+      <!-- Footer displaying update timestamp -->
       <footer class="text-center text-xs text-white/40 pt-4 pb-2">
-        <p>Forecast data last updated: <span id="last-updated">--</span></p>
+        <p><span id="last-updated-label">Last updated</span>: <span id="last-updated">--</span></p>
       </footer>
     </main>
 
@@ -422,20 +422,51 @@
           const forecastUrl = pointsData.properties.forecast
           const hourlyUrl = pointsData.properties.forecastHourly
 
-          // 2. Fetch Daily and Hourly forecasts simultaneously
-          const [dailyRes, hourlyRes] = await Promise.all([fetch(forecastUrl), fetch(hourlyUrl)])
+          // 2. Fetch Daily, Hourly forecasts and Stations list simultaneously
+          const [dailyRes, hourlyRes, stationsRes] = await Promise.all([
+            fetch(forecastUrl),
+            fetch(hourlyUrl),
+            fetch(pointsData.properties.observationStations)
+          ])
 
           if (!dailyRes.ok || !hourlyRes.ok) throw new Error('Failed to fetch forecasts')
 
           const dailyData = await dailyRes.json()
           const hourlyData = await hourlyRes.json()
 
+          // Try to fetch latest physical station observation
+          let observationData = null
+          let observationTime = null
+          if (stationsRes && stationsRes.ok) {
+            try {
+              const stationsData = await stationsRes.json()
+              const nearestStationUrl = stationsData.features[0]?.id
+
+              if (nearestStationUrl) {
+                const observationRes = await fetch(`${nearestStationUrl}/observations/latest`)
+                if (observationRes.ok) {
+                  observationData = await observationRes.json()
+                  observationTime = observationData.properties.timestamp
+                }
+              }
+            } catch (stationError) {
+              console.warn('Failed to fetch nearest station observation:', stationError)
+            }
+          }
+
           // 3. Render Data
-          renderCurrentConditions(hourlyData.properties.periods[0], dailyData.properties.periods[0])
+          renderCurrentConditions(
+            hourlyData.properties.periods[0],
+            dailyData.properties.periods[0],
+            observationData
+          )
           renderHourlyForecast(hourlyData.properties.periods)
           renderDailyForecast(dailyData.properties.periods)
           updateRadar(currentLat, currentLon)
-          updateLastUpdated(dailyData.properties.updateTime)
+          updateLastUpdated(
+            observationTime || dailyData.properties.updateTime,
+            Boolean(observationTime)
+          )
 
           // Show app, hide loading
           document.getElementById('loading').classList.add('hidden')
@@ -447,31 +478,86 @@
         }
       }
 
-      function renderCurrentConditions(currentHourly, currentDaily) {
+      function renderCurrentConditions(currentHourly, currentDaily, observationData = null) {
         // Temperature & Description
-        document.getElementById('current-temp').textContent = `${currentHourly.temperature}°`
-        document.getElementById('current-desc').textContent = currentHourly.shortForecast
+        let temperature = currentHourly.temperature
+        if (observationData && observationData.properties.temperature.value !== null) {
+          temperature = Math.round((observationData.properties.temperature.value * 9) / 5 + 32)
+        }
+
+        document.getElementById('current-temp').textContent = `${temperature}°`
+
+        let description = currentHourly.shortForecast
+        if (observationData && observationData.properties.textDescription) {
+          description = observationData.properties.textDescription
+        }
+
+        document.getElementById('current-desc').textContent = description
 
         // Icon update on the top right
-        const iconName = getWeatherIcon(currentHourly.shortForecast, currentHourly.isDaytime)
+        const iconName = getWeatherIcon(description, currentHourly.isDaytime)
         document.getElementById('bg-weather-icon').setAttribute('data-lucide', iconName)
 
         // Details
-        document.getElementById('current-wind').textContent =
-          `${currentHourly.windSpeed} ${currentHourly.windDirection}`
+        let windText = `${currentHourly.windSpeed} ${currentHourly.windDirection}`
+        if (observationData && observationData.properties.windSpeed.value !== null) {
+          const milesPerHour = Math.round(observationData.properties.windSpeed.value * 0.621371)
+          let directionText = ''
 
-        const humidity =
+          if (observationData.properties.windDirection.value !== null) {
+            const windDegrees = observationData.properties.windDirection.value
+            const directionsList = [
+              'N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE',
+              'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW'
+            ]
+            const directionIndex = Math.round(windDegrees / 22.5) % 16
+            directionText = directionsList[directionIndex]
+          }
+
+          windText = `${milesPerHour} mph ${directionText}`.trim()
+        }
+
+        document.getElementById('current-wind').textContent = windText
+
+        let relativeHumidity =
           currentHourly.relativeHumidity?.value || currentDaily.relativeHumidity?.value || '--'
-        document.getElementById('current-humidity').textContent = `${humidity}%`
+        if (observationData && observationData.properties.relativeHumidity.value !== null) {
+          relativeHumidity = Math.round(observationData.properties.relativeHumidity.value)
+        }
 
-        const precip =
+        document.getElementById('current-humidity').textContent = `${relativeHumidity}%`
+
+        const precipitationChance =
           currentHourly.probabilityOfPrecipitation?.value ||
           currentDaily.probabilityOfPrecipitation?.value ||
           '0'
-        document.getElementById('current-precip').textContent = `${precip}%`
+        document.getElementById('current-precip').textContent = `${precipitationChance}%`
 
-        // Fall back to actual temp for feels like if calculation is not easily available
-        document.getElementById('current-feels').textContent = currentHourly.temperature
+        // Feels like temperature calculation
+        let feelsLikeTemp = currentHourly.temperature
+        if (observationData) {
+          const heatIndexCelsius = observationData.properties.heatIndex.value
+          const windChillCelsius = observationData.properties.windChill.value
+
+          if (heatIndexCelsius !== null) {
+            feelsLikeTemp = Math.round((heatIndexCelsius * 9) / 5 + 32)
+          } else if (windChillCelsius !== null) {
+            feelsLikeTemp = Math.round((windChillCelsius * 9) / 5 + 32)
+          } else if (observationData.properties.temperature.value !== null) {
+            feelsLikeTemp = Math.round((observationData.properties.temperature.value * 9) / 5 + 32)
+          }
+        }
+
+        document.getElementById('current-feels').textContent = feelsLikeTemp
+
+        // Visibility
+        let visibilityText = 'Good'
+        if (observationData && observationData.properties.visibility.value !== null) {
+          const visibilityMiles = Math.round(observationData.properties.visibility.value / 1609.34)
+          visibilityText = `${visibilityMiles} miles`
+        }
+
+        document.getElementById('current-vis').textContent = visibilityText
 
         // Re-render lucide icons for dynamically added content
         lucide.createIcons()
@@ -561,7 +647,7 @@
         iframe.src = `https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=%C2%B0F&metricWind=mph&zoom=8&overlay=radar&product=radar&level=surface&lat=${lat}&lon=${lon}`
       }
 
-      function updateLastUpdated(updateTime) {
+      function updateLastUpdated(updateTime, isObservation = false) {
         if (!updateTime) {
           return
         }
@@ -581,6 +667,11 @@
         const timestampElement = document.getElementById('last-updated')
         if (timestampElement) {
           timestampElement.textContent = `${formattedDate} at ${formattedTime}`
+        }
+
+        const labelElement = document.getElementById('last-updated-label')
+        if (labelElement) {
+          labelElement.textContent = isObservation ? 'Last observed' : 'Forecast last updated'
         }
       }
 
