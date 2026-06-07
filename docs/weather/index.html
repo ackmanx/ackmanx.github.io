@@ -216,6 +216,11 @@
           </div>
         </div>
       </div>
+
+      <!-- Footer displaying forecast update timestamp -->
+      <footer class="text-center text-xs text-white/40 pt-4 pb-2">
+        <p>Forecast data last updated: <span id="last-updated">--</span></p>
+      </footer>
     </main>
 
     <!-- Settings Modal -->
@@ -430,6 +435,7 @@
           renderHourlyForecast(hourlyData.properties.periods)
           renderDailyForecast(dailyData.properties.periods)
           updateRadar(currentLat, currentLon)
+          updateLastUpdated(dailyData.properties.updateTime)
 
           // Show app, hide loading
           document.getElementById('loading').classList.add('hidden')
@@ -553,6 +559,29 @@
         const iframe = document.getElementById('radar-iframe')
         // Uses Windy.com embed with NOAA radar data overlay, dynamically passing our lat/lon
         iframe.src = `https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=in&metricTemp=%C2%B0F&metricWind=mph&zoom=8&overlay=radar&product=radar&level=surface&lat=${lat}&lon=${lon}`
+      }
+
+      function updateLastUpdated(updateTime) {
+        if (!updateTime) {
+          return
+        }
+
+        const lastUpdatedDate = new Date(updateTime)
+        const formattedTime = lastUpdatedDate.toLocaleTimeString('en-US', {
+          hour: 'numeric',
+          minute: '2-digit',
+          hour12: true
+        })
+
+        const formattedDate = lastUpdatedDate.toLocaleDateString('en-US', {
+          month: 'short',
+          day: 'numeric'
+        })
+
+        const timestampElement = document.getElementById('last-updated')
+        if (timestampElement) {
+          timestampElement.textContent = `${formattedDate} at ${formattedTime}`
+        }
       }
 
       // Helper function to map NOAA text descriptions to Lucide icons
