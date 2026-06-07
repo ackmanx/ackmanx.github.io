@@ -125,7 +125,19 @@
             </div>
 
             <div class="relative z-10 flex flex-col items-center mt-4">
-              <h2 id="current-temp" class="text-7xl font-bold tracking-tighter mb-2">--°</h2>
+              <div class="relative flex items-center justify-center">
+                <h2 id="current-temp" class="text-7xl font-bold tracking-tighter mb-2">--°</h2>
+                <!-- Turtle warning overlay -->
+                <div id="forecast-warning" class="hidden absolute -right-8 top-1 group cursor-help">
+                  <i data-lucide="turtle" class="w-5 h-5 text-yellow-400 drop-shadow-md animate-pulse"></i>
+                  <!-- Tooltip -->
+                  <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 hidden group-hover:block bg-slate-900/90 text-white text-[10px] py-1.5 px-2.5 rounded-lg shadow-xl border border-white/10 text-center backdrop-blur-sm z-50">
+                    Showing forecasted data (live station data unavailable)
+                    <!-- Tooltip arrow -->
+                    <div class="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-900/90"></div>
+                  </div>
+                </div>
+              </div>
               <p id="current-desc" class="text-xl font-medium text-blue-100 capitalize">--</p>
 
               <div class="flex gap-4 mt-6 text-sm text-blue-200 bg-black/20 rounded-full px-5 py-2">
@@ -479,6 +491,16 @@
       }
 
       function renderCurrentConditions(currentHourly, currentDaily, observationData = null) {
+        // Update warning icon if forecast data is used instead of live observations
+        const warningElement = document.getElementById('forecast-warning')
+        if (warningElement) {
+          if (observationData) {
+            warningElement.classList.add('hidden')
+          } else {
+            warningElement.classList.remove('hidden')
+          }
+        }
+
         // Temperature & Description
         let temperature = currentHourly.temperature
         if (observationData && observationData.properties.temperature.value !== null) {
