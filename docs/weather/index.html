@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fargo Weather | NOAA Forecast</title>
+    <title>Weather | NOAA Forecast</title>
 
     <!-- Tailwind CSS for rapid, modern styling -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -120,14 +120,11 @@
           <div
             class="glass-card rounded-3xl p-8 flex flex-col items-center justify-center text-center relative overflow-hidden"
           >
-            <div class="absolute top-0 right-0 p-4 opacity-10">
-              <i data-lucide="sun" id="bg-weather-icon" class="w-32 h-32"></i>
+            <div class="absolute top-6 right-6 text-blue-200 drop-shadow-xl">
+              <i data-lucide="sun" id="bg-weather-icon" class="w-20 h-20"></i>
             </div>
 
-            <div class="relative z-10 flex flex-col items-center">
-              <div id="current-icon-container" class="mb-4 text-blue-200">
-                <!-- Icon injected by JS -->
-              </div>
+            <div class="relative z-10 flex flex-col items-center mt-4">
               <h2 id="current-temp" class="text-7xl font-bold tracking-tighter mb-2">--°</h2>
               <p id="current-desc" class="text-xl font-medium text-blue-100 capitalize">--</p>
 
@@ -449,10 +446,8 @@
         document.getElementById('current-temp').textContent = `${currentHourly.temperature}°`
         document.getElementById('current-desc').textContent = currentHourly.shortForecast
 
-        // Icon
+        // Icon update on the top right
         const iconName = getWeatherIcon(currentHourly.shortForecast, currentHourly.isDaytime)
-        document.getElementById('current-icon-container').innerHTML =
-          `<i data-lucide="${iconName}" class="w-16 h-16 drop-shadow-lg"></i>`
         document.getElementById('bg-weather-icon').setAttribute('data-lucide', iconName)
 
         // Details
@@ -469,8 +464,7 @@
           '0'
         document.getElementById('current-precip').textContent = `${precip}%`
 
-        // We don't get exact "feels like" easily from this basic endpoint without calculation,
-        // so we'll approximate or just fall back to actual temp for the UI requirement
+        // Fall back to actual temp for feels like if calculation is not easily available
         document.getElementById('current-feels').textContent = currentHourly.temperature
 
         // Re-render lucide icons for dynamically added content
@@ -511,14 +505,6 @@
       function renderDailyForecast(dailyPeriods) {
         const container = document.getElementById('daily-container')
         container.innerHTML = ''
-
-        // NOAA daily periods include "Today", "Tonight", "Tuesday", "Tuesday Night"
-        // We want to group them by day or just show the Day forecasts.
-        // We'll filter to show only daytime forecasts to keep the list clean (approx 7 days)
-        const dayForecasts = dailyPeriods.filter((period) => period.isDaytime)
-
-        // If the first item is "Tonight" (isDaytime = false), we still want to show it if it's currently night.
-        // But to keep it simple, we'll iterate through the raw periods and pair them up.
 
         let html = ''
 
