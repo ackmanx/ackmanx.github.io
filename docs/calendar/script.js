@@ -378,7 +378,7 @@ const renderCalendar = () => {
 
       const isDone = entry.doneDates && entry.doneDates.includes(dateStr)
       if (isDone) {
-        entryEl.classList.add('opacity-50', 'line-through')
+        entryEl.classList.add('opacity-50', 'line-through', 'decoration-2')
         const checkIcon = document.createElement('i')
         checkIcon.className = 'ph-fill ph-check-circle text-[10px] mr-1 flex-shrink-0'
         entryEl.insertBefore(checkIcon, titleSpan)
@@ -493,7 +493,7 @@ const renderAgenda = () => {
       const isDone = entry.doneDates && entry.doneDates.includes(occurrenceDateStr)
       if (isDone) {
         entryEl.classList.add('opacity-50')
-        nameEl.classList.add('line-through')
+        nameEl.classList.add('line-through', 'decoration-2')
         const checkIcon = document.createElement('i')
         checkIcon.className = 'ph-fill ph-check-circle text-xs flex-none'
         entryEl.insertBefore(checkIcon, nameEl)
