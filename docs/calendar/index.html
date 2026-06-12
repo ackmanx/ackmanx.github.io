@@ -20,8 +20,7 @@
       // Prevent Flash of Unstyled Content (FOUC)
       if (
         localStorage.theme === 'dark' ||
-        (!('theme' in localStorage) &&
-          window.matchMedia('(prefers-color-scheme: dark)').matches)
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
       ) {
         document.documentElement.classList.add('dark')
       } else {
@@ -148,10 +147,7 @@
     </header>
 
     <!-- Main Content Area -->
-    <main
-      data-component="main-content"
-      class="flex-1 w-full h-full overflow-hidden flex flex-col"
-    >
+    <main data-component="main-content" class="flex-1 w-full h-full overflow-hidden flex flex-col">
       <!-- Calendar Grid View -->
       <div
         id="calendar-view"
@@ -235,20 +231,20 @@
           class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 flex justify-between items-center bg-slate-50 dark:bg-slate-800/50"
         >
           <div class="flex items-center gap-3">
-            <h3
-              id="modal-title"
-              class="text-lg font-semibold text-slate-800 dark:text-slate-100"
-            >
+            <h3 id="modal-title" class="text-lg font-semibold text-slate-800 dark:text-slate-100">
               Add Entry
             </h3>
           </div>
-          <button
-            id="btn-close-modal"
-            data-action="close-modal"
-            class="text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors p-1"
-          >
-            <i class="ph ph-x text-xl"></i>
-          </button>
+          <div class="flex items-center gap-2">
+            <button
+              id="btn-toggle-done"
+              type="button"
+              class="hidden text-slate-400 dark:text-slate-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
+              title="Toggle complete"
+            >
+              <i id="done-icon" class="ph ph-check-circle text-2xl"></i>
+            </button>
+          </div>
         </div>
 
         <div data-part="modal-body" class="p-6 overflow-y-auto space-y-5">
@@ -317,8 +313,7 @@
           </div>
 
           <div data-part="field-color">
-            <label
-              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+            <label class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
               >Color</label
             >
             <div class="flex flex-wrap items-center gap-3" id="entry-color-picker">
@@ -434,10 +429,7 @@
           data-part="modal-header"
           class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 flex-none"
         >
-          <h3
-            id="cal-modal-title"
-            class="text-lg font-semibold text-slate-800 dark:text-slate-100"
-          >
+          <h3 id="cal-modal-title" class="text-lg font-semibold text-slate-800 dark:text-slate-100">
             Create New Calendar
           </h3>
         </div>
@@ -458,22 +450,16 @@
           </div>
 
           <div data-part="field-color-labels">
-            <label
-              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
+            <label class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
               >Color Labels</label
             >
             <p class="text-xs text-slate-500 dark:text-slate-400 mb-3">
               Optionally name each color for this calendar.
             </p>
             <div class="space-y-2.5">
-              <div
-                data-part="color-label-row"
-                data-color="indigo"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="indigo" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-indigo-500 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Indigo</span
                 >
                 <input
@@ -485,14 +471,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="red"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="red" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-red-500 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Red</span
                 >
                 <input
@@ -504,16 +485,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="emerald"
-                class="flex items-center gap-3"
-              >
-                <span
-                  class="w-3.5 h-3.5 rounded-full bg-emerald-500 flex-shrink-0"
-                ></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+              <div data-part="color-label-row" data-color="emerald" class="flex items-center gap-3">
+                <span class="w-3.5 h-3.5 rounded-full bg-emerald-500 flex-shrink-0"></span>
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Emerald</span
                 >
                 <input
@@ -525,14 +499,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="amber"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="amber" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-amber-500 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Amber</span
                 >
                 <input
@@ -544,14 +513,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="purple"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="purple" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-purple-500 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Purple</span
                 >
                 <input
@@ -563,14 +527,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="pink"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="pink" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-pink-500 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Pink</span
                 >
                 <input
@@ -582,14 +541,9 @@
                   autocomplete="off"
                 />
               </div>
-              <div
-                data-part="color-label-row"
-                data-color="slate"
-                class="flex items-center gap-3"
-              >
+              <div data-part="color-label-row" data-color="slate" class="flex items-center gap-3">
                 <span class="w-3.5 h-3.5 rounded-full bg-slate-400 flex-shrink-0"></span>
-                <span
-                  class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
+                <span class="text-xs text-slate-500 dark:text-slate-400 w-14 flex-shrink-0"
                   >Gray</span
                 >
                 <input
@@ -651,19 +605,13 @@
           data-part="modal-header"
           class="px-6 py-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50"
         >
-          <h3 class="text-lg font-semibold text-slate-800 dark:text-slate-100">
-            Delete Calendar
-          </h3>
+          <h3 class="text-lg font-semibold text-slate-800 dark:text-slate-100">Delete Calendar</h3>
         </div>
         <div data-part="modal-body" class="p-6">
           <p class="text-sm text-slate-700 dark:text-slate-300">
             Are you sure you want to delete the calendar
-            <span
-              id="delete-cal-name"
-              class="font-bold text-slate-900 dark:text-white"
-            ></span
-            >? All of its entries will be permanently deleted. This action cannot be
-            undone.
+            <span id="delete-cal-name" class="font-bold text-slate-900 dark:text-white"></span>? All
+            of its entries will be permanently deleted. This action cannot be undone.
           </p>
         </div>
         <div

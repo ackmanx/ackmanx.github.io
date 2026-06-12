@@ -293,8 +293,7 @@ const renderCalendar = () => {
     'November',
     'December',
   ]
-  document.getElementById('current-month-display').textContent =
-    `${monthNames[month]} ${year}`
+  document.getElementById('current-month-display').textContent = `${monthNames[month]} ${year}`
 
   const grid = document.getElementById('calendar-grid')
   grid.innerHTML = ''
@@ -346,9 +345,7 @@ const renderCalendar = () => {
     // Date Number Header
     const dateHeader = document.createElement('div')
     dateHeader.className = `text-right mb-1 ${
-      isCurrentMonth
-        ? 'text-slate-700 dark:text-slate-200'
-        : 'text-slate-400 dark:text-slate-500'
+      isCurrentMonth ? 'text-slate-700 dark:text-slate-200' : 'text-slate-400 dark:text-slate-500'
     }`
 
     const dateSpan = document.createElement('span')
@@ -367,9 +364,7 @@ const renderCalendar = () => {
     entriesContainer.className = 'flex-1 overflow-y-auto no-scrollbar space-y-1'
 
     // Find matching entries for this date
-    const todaysEntries = activeEntries.filter((entry) =>
-      isEntryOnDate(entry, cellDateObj)
-    )
+    const todaysEntries = activeEntries.filter((entry) => isEntryOnDate(entry, cellDateObj))
 
     todaysEntries.forEach((entry) => {
       const entryEl = document.createElement('div')
@@ -381,9 +376,17 @@ const renderCalendar = () => {
       titleSpan.className = 'truncate pointer-events-none'
       entryEl.appendChild(titleSpan)
 
-      entryEl.addEventListener('click', (e) => {
-        e.stopPropagation() // Don't trigger cell click
-        openEntryModal(entry.date, parseDateStr(entry.date), entry)
+      const isDone = entry.doneDates && entry.doneDates.includes(dateStr)
+      if (isDone) {
+        entryEl.classList.add('opacity-50', 'line-through')
+        const checkIcon = document.createElement('i')
+        checkIcon.className = 'ph-fill ph-check-circle text-[10px] mr-1 flex-shrink-0'
+        entryEl.insertBefore(checkIcon, titleSpan)
+      }
+
+      entryEl.addEventListener('click', (clickEvent) => {
+        clickEvent.stopPropagation()
+        openEntryModal(dateStr, cellDateObj, entry)
       })
 
       entriesContainer.appendChild(entryEl)
@@ -413,8 +416,7 @@ const renderAgenda = () => {
     'November',
     'December',
   ]
-  document.getElementById('current-month-display').textContent =
-    `${monthNames[month]} ${year}`
+  document.getElementById('current-month-display').textContent = `${monthNames[month]} ${year}`
 
   const container = document.getElementById('agenda-view')
   container.innerHTML = ''
@@ -427,15 +429,7 @@ const renderAgenda = () => {
   )
   const today = new Date()
   today.setHours(0, 0, 0, 0)
-  const dayNames = [
-    'Sunday',
-    'Monday',
-    'Tuesday',
-    'Wednesday',
-    'Thursday',
-    'Friday',
-    'Saturday',
-  ]
+  const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
   let hasAnyEvents = false
 
@@ -469,9 +463,7 @@ const renderAgenda = () => {
     // Day name label
     const dayLabel = document.createElement('div')
     dayLabel.className = `text-sm font-semibold ${
-      isToday
-        ? 'text-indigo-600 dark:text-indigo-400'
-        : 'text-slate-600 dark:text-slate-400'
+      isToday ? 'text-indigo-600 dark:text-indigo-400' : 'text-slate-600 dark:text-slate-400'
     }`
     dayLabel.textContent = `${dayNames[dateObj.getDay()]}, ${monthNames[month]} ${day}`
 
@@ -497,6 +489,16 @@ const renderAgenda = () => {
       nameEl.textContent = entry.name
       entryEl.appendChild(nameEl)
 
+      const occurrenceDateStr = formatDateStr(year, month, day)
+      const isDone = entry.doneDates && entry.doneDates.includes(occurrenceDateStr)
+      if (isDone) {
+        entryEl.classList.add('opacity-50')
+        nameEl.classList.add('line-through')
+        const checkIcon = document.createElement('i')
+        checkIcon.className = 'ph-fill ph-check-circle text-xs flex-none'
+        entryEl.insertBefore(checkIcon, nameEl)
+      }
+
       if (entry.cadence && entry.cadence !== 'Once') {
         const cadenceEl = document.createElement('span')
         cadenceEl.className = 'text-xs opacity-50 flex-none'
@@ -505,7 +507,7 @@ const renderAgenda = () => {
       }
 
       entryEl.addEventListener('click', () => {
-        openEntryModal(entry.date, parseDateStr(entry.date), entry)
+        openEntryModal(occurrenceDateStr, dateObj, entry)
       })
 
       eventsList.appendChild(entryEl)
@@ -549,15 +551,13 @@ const setView = (view) => {
   if (view === 'calendar') {
     calendarViewEl.classList.remove('hidden')
     agendaViewEl.classList.add('hidden')
-    toggleIcon.className =
-      'ph ph-list-bullets text-xl group-hover:scale-110 transition-transform'
+    toggleIcon.className = 'ph ph-list-bullets text-xl group-hover:scale-110 transition-transform'
     toggleBtn.title = 'Switch to agenda view'
     renderCalendar()
   } else {
     calendarViewEl.classList.add('hidden')
     agendaViewEl.classList.remove('hidden')
-    toggleIcon.className =
-      'ph ph-calendar-blank text-xl group-hover:scale-110 transition-transform'
+    toggleIcon.className = 'ph ph-calendar-blank text-xl group-hover:scale-110 transition-transform'
     toggleBtn.title = 'Switch to calendar view'
     renderAgenda()
   }
@@ -576,6 +576,7 @@ document.getElementById('btn-next-month').addEventListener('click', () => {
 
 // --- Entry Modal Logic ---
 let currentEditingEntryId = null
+let currentEditingEntryIsDone = false
 
 const entryModal = document.getElementById('entry-modal')
 const entryNameInput = document.getElementById('entry-name')
@@ -585,6 +586,8 @@ const entryCadenceSelect = document.getElementById('entry-cadence')
 const btnSaveEntry = document.getElementById('btn-save-entry')
 const btnDeleteEntry = document.getElementById('btn-delete-entry')
 const modalTitle = document.getElementById('modal-title')
+const btnToggleDone = document.getElementById('btn-toggle-done')
+const doneIcon = document.getElementById('done-icon')
 
 let selectedEntryColor = 'indigo'
 const colorButtons = document.querySelectorAll('#entry-color-picker button')
@@ -647,6 +650,21 @@ document.getElementById('btn-open-website').addEventListener('click', () => {
   if (url) window.open(url, '_blank', 'noopener,noreferrer')
 })
 
+const updateDoneIconUI = (isDone) => {
+  if (isDone) {
+    doneIcon.className = 'ph-fill ph-check-circle text-2xl text-emerald-500 dark:text-emerald-400'
+    btnToggleDone.title = 'Mark as incomplete'
+  } else {
+    doneIcon.className = 'ph ph-check-circle text-2xl'
+    btnToggleDone.title = 'Mark as complete'
+  }
+}
+
+btnToggleDone.addEventListener('click', () => {
+  currentEditingEntryIsDone = !currentEditingEntryIsDone
+  updateDoneIconUI(currentEditingEntryIsDone)
+})
+
 const openEntryModal = (dateStr, dateObj, entry = null) => {
   selectedDateForEntry = dateStr
   const options = {
@@ -671,6 +689,10 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
     entryCadenceSelect.value = entry.cadence || 'Once'
     updateColorPickerUI(entry.color)
 
+    currentEditingEntryIsDone = entry.doneDates && entry.doneDates.includes(selectedDateForEntry)
+    updateDoneIconUI(currentEditingEntryIsDone)
+    btnToggleDone.classList.remove('hidden')
+
     btnDeleteEntry.classList.remove('hidden')
   } else {
     // Add new entry
@@ -683,6 +705,9 @@ const openEntryModal = (dateStr, dateObj, entry = null) => {
     entryCadenceSelect.value = 'Monthly'
     updateColorPickerUI('indigo')
 
+    currentEditingEntryIsDone = false
+    btnToggleDone.classList.add('hidden')
+
     btnDeleteEntry.classList.add('hidden')
   }
 
@@ -693,13 +718,13 @@ const closeEntryModal = () => {
   entryModal.classList.add('hidden')
   selectedDateForEntry = null
   currentEditingEntryId = null
+  currentEditingEntryIsDone = false
 }
 
 entryModal.addEventListener('click', (e) => {
   if (e.target === entryModal) closeEntryModal()
 })
 
-document.getElementById('btn-close-modal').addEventListener('click', closeEntryModal)
 document.getElementById('btn-cancel-entry').addEventListener('click', closeEntryModal)
 
 document.getElementById('btn-save-entry').addEventListener('click', () => {
@@ -708,13 +733,29 @@ document.getElementById('btn-save-entry').addEventListener('click', () => {
 
   if (currentEditingEntryId) {
     // Update existing
-    const entry = appData.entries.find((e) => e.id === currentEditingEntryId)
-    if (entry) {
-      entry.name = name
-      entry.website = entryWebsiteInput.value.trim()
-      entry.description = entryDescInput.value.trim()
-      entry.cadence = entryCadenceSelect.value
-      entry.color = selectedEntryColor
+    const existingEntry = appData.entries.find(
+      (iteratedEntry) => iteratedEntry.id === currentEditingEntryId
+    )
+    if (existingEntry) {
+      existingEntry.name = name
+      existingEntry.website = entryWebsiteInput.value.trim()
+      existingEntry.description = entryDescInput.value.trim()
+      existingEntry.cadence = entryCadenceSelect.value
+      existingEntry.color = selectedEntryColor
+
+      if (!existingEntry.doneDates) {
+        existingEntry.doneDates = []
+      }
+
+      if (currentEditingEntryIsDone) {
+        if (!existingEntry.doneDates.includes(selectedDateForEntry)) {
+          existingEntry.doneDates.push(selectedDateForEntry)
+        }
+      } else {
+        existingEntry.doneDates = existingEntry.doneDates.filter(
+          (dateStr) => dateStr !== selectedDateForEntry
+        )
+      }
     }
   } else {
     // Create new
@@ -727,6 +768,7 @@ document.getElementById('btn-save-entry').addEventListener('click', () => {
       description: entryDescInput.value.trim(),
       cadence: entryCadenceSelect.value,
       color: selectedEntryColor,
+      doneDates: [],
     }
     appData.entries.push(newEntry)
   }
@@ -800,9 +842,7 @@ newCalModal.addEventListener('click', (e) => {
   if (e.target === newCalModal) closeCalModal()
 })
 
-document
-  .getElementById('btn-new-calendar')
-  .addEventListener('click', () => openCalModal())
+document.getElementById('btn-new-calendar').addEventListener('click', () => openCalModal())
 document.getElementById('btn-cancel-cal').addEventListener('click', closeCalModal)
 
 btnDeleteCalDirect.addEventListener('click', () => {
@@ -867,16 +907,13 @@ deleteCalModal.addEventListener('click', (e) => {
 document.addEventListener('keydown', (e) => {
   if (e.key !== 'Escape') return
   const colorFilterPanel = document.getElementById('color-filter-panel')
-  if (colorFilterPanel && !colorFilterPanel.classList.contains('hidden'))
-    closeColorFilterDropdown()
+  if (colorFilterPanel && !colorFilterPanel.classList.contains('hidden')) closeColorFilterDropdown()
   else if (!entryModal.classList.contains('hidden')) closeEntryModal()
   else if (!newCalModal.classList.contains('hidden')) closeCalModal()
   else if (!deleteCalModal.classList.contains('hidden')) closeDeleteCalModal()
 })
 
-document
-  .getElementById('btn-cancel-delete-cal')
-  .addEventListener('click', closeDeleteCalModal)
+document.getElementById('btn-cancel-delete-cal').addEventListener('click', closeDeleteCalModal)
 
 document.getElementById('btn-confirm-delete-cal').addEventListener('click', () => {
   if (!calendarToDelete) return
