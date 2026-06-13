@@ -333,18 +333,35 @@ const renderCalendar = () => {
 
     // Build Cell Container
     const cell = document.createElement('div')
-    cell.className = `border rounded-lg p-2 flex flex-col transition-all duration-300 cursor-pointer group ${
+    cell.className = `relative overflow-hidden border rounded-lg p-2 flex flex-col transition-all duration-300 group ${
       isCurrentMonth
         ? 'bg-white dark:bg-slate-800 border-slate-200 dark:border-slate-700 hover:shadow-md'
         : 'bg-transparent border-transparent opacity-30 grayscale hover:grayscale-0 hover:opacity-100 hover:bg-white dark:hover:bg-slate-800 hover:border-slate-200 dark:hover:border-slate-700 hover:shadow-sm'
     } ${isToday ? 'ring-2 ring-indigo-500 dark:ring-indigo-400 border-transparent' : ''}`
 
-    // Add click listener for modal
-    cell.addEventListener('click', () => openEntryModal(dateStr, cellDateObj))
+    // Add split hitboxes for normal click and quick add
+    const leftHitbox = document.createElement('div')
+    leftHitbox.className = 'absolute left-0 top-0 w-1/2 h-full z-0 hover:bg-slate-100/50 dark:hover:bg-slate-700/20 rounded-l-lg transition-colors cursor-pointer'
+    leftHitbox.title = 'Add Entry'
+    leftHitbox.addEventListener('click', (event) => {
+      event.stopPropagation()
+      openEntryModal(dateStr, cellDateObj)
+    })
+
+    const rightHitbox = document.createElement('div')
+    rightHitbox.className = 'absolute right-0 top-0 w-1/2 h-full z-0 hover:bg-indigo-50/40 dark:hover:bg-indigo-500/10 rounded-r-lg transition-colors border-l border-dashed border-transparent group-hover:border-slate-200 dark:group-hover:border-slate-700/50 cursor-pointer'
+    rightHitbox.title = 'Quick Add Entry'
+    rightHitbox.addEventListener('click', (event) => {
+      event.stopPropagation()
+      openQuickAddModal(dateStr, cellDateObj)
+    })
+
+    cell.appendChild(leftHitbox)
+    cell.appendChild(rightHitbox)
 
     // Date Number Header
     const dateHeader = document.createElement('div')
-    dateHeader.className = `text-right mb-1 ${
+    dateHeader.className = `relative text-right mb-1 pointer-events-none z-10 ${
       isCurrentMonth ? 'text-slate-700 dark:text-slate-200' : 'text-slate-400 dark:text-slate-500'
     }`
 
@@ -361,7 +378,7 @@ const renderCalendar = () => {
 
     // Entries Container
     const entriesContainer = document.createElement('div')
-    entriesContainer.className = 'flex-1 overflow-y-auto no-scrollbar space-y-1'
+    entriesContainer.className = 'relative flex-1 overflow-y-auto no-scrollbar space-y-1 z-10 pointer-events-none'
 
     // Find matching entries for this date
     const todaysEntries = activeEntries.filter((entry) => isEntryOnDate(entry, cellDateObj))
@@ -369,7 +386,7 @@ const renderCalendar = () => {
     todaysEntries.forEach((entry) => {
       const entryEl = document.createElement('div')
       const color = entry.color || 'indigo'
-      entryEl.className = `bg-${color}-50 dark:bg-${color}-500/10 border border-${color}-100 dark:border-${color}-500/20 text-${color}-800 dark:text-${color}-300 text-xs px-2 py-1.5 rounded truncate font-medium flex items-center group/item hover:bg-${color}-100 dark:hover:bg-${color}-500/20 transition-colors`
+      entryEl.className = `bg-${color}-50 dark:bg-${color}-500/10 border border-${color}-100 dark:border-${color}-50/20 text-${color}-800 dark:text-${color}-300 text-xs px-2 py-1.5 rounded truncate font-medium flex items-center group/item hover:bg-${color}-100 dark:hover:bg-${color}-500/20 transition-colors pointer-events-auto cursor-pointer`
 
       const titleSpan = document.createElement('span')
       titleSpan.textContent = entry.name
@@ -791,6 +808,106 @@ const deleteEntry = (id) => {
   renderCurrentView()
 }
 
+// --- Quick Add Modal Logic ---
+const quickAddModal = document.getElementById('quick-add-modal')
+const quickAddDateDisplay = document.getElementById('quick-add-date-display')
+const quickAddTemplatesContainer = document.getElementById('quick-add-templates-container')
+
+const openQuickAddModal = (dateStr, dateObj) => {
+  selectedDateForEntry = dateStr
+  const options = {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  }
+  quickAddDateDisplay.textContent = dateObj.toLocaleDateString(undefined, options)
+
+  renderQuickAddTemplates(dateStr, dateObj)
+
+  quickAddModal.classList.remove('hidden')
+}
+
+const closeQuickAddModal = () => {
+  quickAddModal.classList.add('hidden')
+  selectedDateForEntry = null
+}
+
+const renderQuickAddTemplates = (dateStr, dateObj) => {
+  quickAddTemplatesContainer.innerHTML = ''
+
+  const activeCal = appData.calendars.find((calendar) => calendar.id === appData.activeCalId)
+  const templates = activeCal?.quickAddTemplates || []
+
+  if (templates.length === 0) {
+    const noTemplatesEl = document.createElement('div')
+    noTemplatesEl.className = 'text-center py-6 text-slate-500 dark:text-slate-400'
+    noTemplatesEl.innerHTML = `
+      <i class="ph ph-sparkle text-3xl opacity-50 mb-2"></i>
+      <p class="text-sm font-medium">No templates created yet</p>
+      <p class="text-xs opacity-70 mt-1 max-w-[280px] mx-auto">
+        Create templates under Calendar Settings to quick-add events in one click.
+      </p>
+      <button
+        id="btn-quick-add-to-settings"
+        type="button"
+        class="mt-4 px-3.5 py-1.5 text-xs font-semibold text-white bg-indigo-600 hover:bg-indigo-700 rounded-lg transition-colors focus:outline-none"
+      >
+        Open Settings
+      </button>
+    `
+    quickAddTemplatesContainer.appendChild(noTemplatesEl)
+
+    document.getElementById('btn-quick-add-to-settings').addEventListener('click', () => {
+      closeQuickAddModal()
+      if (activeCal) {
+        openCalModal(activeCal.id, activeCal.name)
+      }
+    })
+    return
+  }
+
+  templates.forEach((template) => {
+    const button = document.createElement('button')
+    button.type = 'button'
+    const color = template.color || 'indigo'
+    button.className = `w-full flex items-center gap-3 p-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-${color}-50 hover:border-${color}-300 dark:hover:bg-${color}-500/10 dark:hover:border-${color}-500/30 transition-all text-left shadow-sm group focus:outline-none`
+
+    button.innerHTML = `
+      <span class="w-4 h-4 rounded-full bg-${color}-500 flex-shrink-0 group-hover:scale-110 transition-transform"></span>
+      <span class="text-sm font-semibold text-slate-700 dark:text-slate-300 group-hover:text-${color}-900 dark:group-hover:text-${color}-200 transition-colors flex-1 truncate">
+        ${template.name}
+      </span>
+      <i class="ph ph-plus text-slate-400 group-hover:text-${color}-600 dark:group-hover:text-${color}-400 text-lg transition-colors"></i>
+    `
+
+    button.addEventListener('click', () => {
+      addQuickEntry(template, dateStr)
+      closeQuickAddModal()
+      showToast('Event quick-added!', 'success')
+    })
+
+    quickAddTemplatesContainer.appendChild(button)
+  })
+}
+
+const addQuickEntry = (template, dateStr) => {
+  const newEntry = {
+    id: generateUUID(),
+    calendarId: appData.activeCalId,
+    date: dateStr,
+    name: template.name,
+    website: '',
+    description: '',
+    cadence: 'Once',
+    color: template.color,
+    doneDates: [dateStr]
+  }
+  appData.entries.push(newEntry)
+  saveData()
+  renderCurrentView()
+}
+
 // --- Calendar Modal Logic ---
 const newCalModal = document.getElementById('new-cal-modal')
 const calNameInput = document.getElementById('cal-name')
@@ -807,17 +924,202 @@ calNameInput.addEventListener('keydown', (e) => {
   }
 })
 
+let tempTemplates = []
+let currentEditingTemplateId = null
+
+const renderCalModalTemplates = () => {
+  const container = document.getElementById('quick-templates-list')
+  if (!container) return
+
+  container.innerHTML = ''
+
+  if (tempTemplates.length === 0 && currentEditingTemplateId !== 'new') {
+    const emptyMsg = document.createElement('div')
+    emptyMsg.className = 'text-xs text-slate-500 dark:text-slate-400 italic py-2 text-center'
+    emptyMsg.textContent = 'No templates created yet.'
+    container.appendChild(emptyMsg)
+    return
+  }
+
+  tempTemplates.forEach((template) => {
+    if (currentEditingTemplateId === template.id) {
+      const editorEl = createTemplateEditor(template)
+      container.appendChild(editorEl)
+    } else {
+      const row = document.createElement('div')
+      row.className = 'flex items-center gap-3 p-2 bg-slate-50 dark:bg-slate-800/40 rounded-lg border border-slate-200 dark:border-slate-700 transition-all hover:bg-slate-100 dark:hover:bg-slate-800'
+
+      const activeCal = appData.calendars.find((calendar) => calendar.id === currentEditingCalId)
+      const colorLabel = activeCal?.colorLabels?.[template.color] || COLOR_NAMES[template.color]
+
+      row.innerHTML = `
+        <span class="w-3 h-3 rounded-full bg-${template.color}-500 flex-shrink-0"></span>
+        <span class="text-xs font-semibold text-slate-500 dark:text-slate-400 w-14 flex-shrink-0 truncate" title="${colorLabel}">${colorLabel}</span>
+        <span class="text-sm font-semibold text-slate-800 dark:text-slate-200 flex-1 truncate">${template.name}</span>
+        <div class="flex items-center gap-1">
+          <button type="button" class="btn-edit-template p-1 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 transition-colors" title="Edit template">
+            <i class="ph ph-pencil-simple text-base"></i>
+          </button>
+          <button type="button" class="btn-delete-template p-1 text-slate-400 hover:text-red-600 transition-colors" title="Delete template">
+            <i class="ph ph-trash text-base"></i>
+          </button>
+        </div>
+      `
+
+      row.querySelector('.btn-edit-template').addEventListener('click', () => {
+        currentEditingTemplateId = template.id
+        renderCalModalTemplates()
+      })
+
+      row.querySelector('.btn-delete-template').addEventListener('click', () => {
+        tempTemplates = tempTemplates.filter((tempTemplate) => tempTemplate.id !== template.id)
+        renderCalModalTemplates()
+      })
+
+      container.appendChild(row)
+    }
+  })
+
+  if (currentEditingTemplateId === 'new') {
+    const editorEl = createTemplateEditor({ id: 'new', name: '', color: 'indigo' })
+    container.appendChild(editorEl)
+  }
+}
+
+const createTemplateEditor = (template) => {
+  const isNew = template.id === 'new'
+  const wrapper = document.createElement('div')
+  wrapper.className = 'flex flex-col gap-3 p-3 bg-slate-50 dark:bg-slate-800/80 rounded-xl border border-indigo-200 dark:border-indigo-500/30 shadow-inner'
+
+  let selectedColor = template.color
+
+  const activeCal = appData.calendars.find((calendar) => calendar.id === currentEditingCalId)
+  const colorLabels = activeCal?.colorLabels || {}
+
+  let colorButtonsHtml = ''
+  COLORS.forEach((color) => {
+    const label = colorLabels[color] || COLOR_NAMES[color]
+    const isSelected = color === selectedColor
+    colorButtonsHtml += `
+      <button
+        type="button"
+        data-color="${color}"
+        class="w-5 h-5 rounded-full bg-${color}-500 ring-2 ring-offset-2 ring-offset-slate-50 dark:ring-offset-slate-800 ${isSelected ? `ring-${color}-500` : 'ring-transparent'} transition-all focus:outline-none"
+        title="${label}"
+      ></button>
+    `
+  })
+
+  wrapper.innerHTML = `
+    <div>
+      <label class="block text-[10px] font-bold text-slate-400 dark:text-slate-500 mb-1 uppercase tracking-wider">Template Name</label>
+      <input
+        type="text"
+        id="template-edit-name"
+        class="w-full px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+        placeholder="E.g., Replace Furnace Filter"
+        value="${template.name}"
+        autocomplete="off"
+      />
+    </div>
+    <div>
+      <label class="block text-[10px] font-bold text-slate-400 dark:text-slate-500 mb-1.5 uppercase tracking-wider">Color Tag</label>
+      <div class="flex flex-wrap gap-2" id="template-edit-colors">
+        ${colorButtonsHtml}
+      </div>
+    </div>
+    <div class="flex justify-end gap-2 pt-2 border-t border-slate-200/50 dark:border-slate-700/50">
+      <button
+        type="button"
+        id="btn-template-edit-cancel"
+        class="px-2.5 py-1 text-xs font-semibold text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 rounded transition-colors"
+      >
+        Cancel
+      </button>
+      <button
+        type="button"
+        id="btn-template-edit-save"
+        class="px-3 py-1 text-xs font-semibold text-white bg-indigo-600 hover:bg-indigo-700 rounded shadow-sm transition-colors"
+      >
+        Save
+      </button>
+    </div>
+  `
+
+  const buttons = wrapper.querySelectorAll('#template-edit-colors button')
+  buttons.forEach((button) => {
+    button.addEventListener('click', (event) => {
+      buttons.forEach((btn) => {
+        btn.classList.remove(`ring-${btn.dataset.color}-500`)
+        btn.classList.add('ring-transparent')
+      })
+      const clicked = event.currentTarget
+      selectedColor = clicked.dataset.color
+      clicked.classList.remove('ring-transparent')
+      clicked.classList.add(`ring-${selectedColor}-500`)
+    })
+  })
+
+  wrapper.querySelector('#btn-template-edit-cancel').addEventListener('click', () => {
+    currentEditingTemplateId = null
+    renderCalModalTemplates()
+  })
+
+  const saveBtn = wrapper.querySelector('#btn-template-edit-save')
+  const nameInput = wrapper.querySelector('#template-edit-name')
+
+  const handleSave = () => {
+    const val = nameInput.value.trim()
+    if (!val) return
+
+    if (isNew) {
+      tempTemplates.push({
+        id: generateUUID(),
+        name: val,
+        color: selectedColor
+      })
+    } else {
+      const existing = tempTemplates.find((tempTemplate) => tempTemplate.id === template.id)
+      if (existing) {
+        existing.name = val
+        existing.color = selectedColor
+      }
+    }
+
+    currentEditingTemplateId = null
+    renderCalModalTemplates()
+  }
+
+  saveBtn.addEventListener('click', handleSave)
+
+  nameInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+      event.preventDefault()
+      handleSave()
+    }
+  })
+
+  setTimeout(() => nameInput.focus(), 50)
+
+  return wrapper
+}
+
 const openCalModal = (calId = null, calName = '') => {
   currentEditingCalId = calId
   calNameInput.value = calName
 
   // Populate color label inputs
-  const cal = calId ? appData.calendars.find((c) => c.id === calId) : null
+  const cal = calId ? appData.calendars.find((calendar) => calendar.id === calId) : null
   const colorLabels = cal?.colorLabels || {}
   COLORS.forEach((color) => {
     const input = document.getElementById(`cal-color-label-${color}`)
     if (input) input.value = colorLabels[color] || ''
   })
+
+  // Initialize templates state
+  tempTemplates = cal?.quickAddTemplates ? cal.quickAddTemplates.map((template) => ({ ...template })) : []
+  currentEditingTemplateId = null
+  renderCalModalTemplates()
 
   if (calId) {
     calModalTitle.textContent = 'Edit Calendar'
@@ -838,8 +1140,8 @@ const closeCalModal = () => {
   currentEditingCalId = null
 }
 
-newCalModal.addEventListener('click', (e) => {
-  if (e.target === newCalModal) closeCalModal()
+newCalModal.addEventListener('click', (event) => {
+  if (event.target === newCalModal) closeCalModal()
 })
 
 document.getElementById('btn-new-calendar').addEventListener('click', () => openCalModal())
@@ -847,7 +1149,7 @@ document.getElementById('btn-cancel-cal').addEventListener('click', closeCalModa
 
 btnDeleteCalDirect.addEventListener('click', () => {
   if (currentEditingCalId) {
-    const cal = appData.calendars.find((c) => c.id === currentEditingCalId)
+    const cal = appData.calendars.find((calendar) => calendar.id === currentEditingCalId)
     if (cal) {
       openDeleteCalModal(cal.id, cal.name)
     }
@@ -868,14 +1170,15 @@ btnSaveCal.addEventListener('click', () => {
   })
 
   if (currentEditingCalId) {
-    const cal = appData.calendars.find((c) => c.id === currentEditingCalId)
+    const cal = appData.calendars.find((calendar) => calendar.id === currentEditingCalId)
     if (cal) {
       cal.name = name
       cal.colorLabels = colorLabels
+      cal.quickAddTemplates = tempTemplates
     }
   } else {
     const newCalId = generateUUID()
-    appData.calendars.push({ id: newCalId, name, colorLabels })
+    appData.calendars.push({ id: newCalId, name, colorLabels, quickAddTemplates: tempTemplates })
     appData.activeCalId = newCalId // Auto-switch to new cal
   }
 
@@ -904,16 +1207,28 @@ deleteCalModal.addEventListener('click', (e) => {
   if (e.target === deleteCalModal) closeDeleteCalModal()
 })
 
-document.addEventListener('keydown', (e) => {
-  if (e.key !== 'Escape') return
+document.addEventListener('keydown', (event) => {
+  if (event.key !== 'Escape') return
   const colorFilterPanel = document.getElementById('color-filter-panel')
   if (colorFilterPanel && !colorFilterPanel.classList.contains('hidden')) closeColorFilterDropdown()
   else if (!entryModal.classList.contains('hidden')) closeEntryModal()
+  else if (!quickAddModal.classList.contains('hidden')) closeQuickAddModal()
   else if (!newCalModal.classList.contains('hidden')) closeCalModal()
   else if (!deleteCalModal.classList.contains('hidden')) closeDeleteCalModal()
 })
 
 document.getElementById('btn-cancel-delete-cal').addEventListener('click', closeDeleteCalModal)
+
+document.getElementById('btn-add-quick-template').addEventListener('click', () => {
+  currentEditingTemplateId = 'new'
+  renderCalModalTemplates()
+})
+
+document.getElementById('btn-close-quick-add').addEventListener('click', closeQuickAddModal)
+document.getElementById('btn-cancel-quick-add').addEventListener('click', closeQuickAddModal)
+quickAddModal.addEventListener('click', (event) => {
+  if (event.target === quickAddModal) closeQuickAddModal()
+})
 
 document.getElementById('btn-confirm-delete-cal').addEventListener('click', () => {
   if (!calendarToDelete) return
