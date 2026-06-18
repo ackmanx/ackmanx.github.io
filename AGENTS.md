@@ -165,4 +165,4 @@ The favicon file is named `favicon__replace-me-with-a-new-icon.png` — it's a p
 - Use whitespace to organize code with proper indentation and newlines
 - Avoid single letter variable names, because they are ambiguous
 - Use snake_case instead of camelCase with symbol names
-- Constants should use ALL_CAPS_SNAKE_CASE
+- True constants should use ALL_CAPS_SNAKE_CASE. An example of a constant is a number that is used in multiple places for the same purpose and never changes. An example of something that \_is not\* a constant is something that is used in multiple places but will change in the future, or a standard `const` variable in JS that is the result of a call.
