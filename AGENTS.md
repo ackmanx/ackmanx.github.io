@@ -164,3 +164,5 @@ The favicon file is named `favicon__replace-me-with-a-new-icon.png` — it's a p
 - Honor prettier config
 - Use whitespace to organize code with proper indentation and newlines
 - Avoid single letter variable names, because they are ambiguous
+- Use snake_case instead of camelCase with symbol names
+- Constants should use ALL_CAPS_SNAKE_CASE
