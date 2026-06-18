@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AckDiff</title>
     <link rel="icon" type="image/png" href="/fav_icon.png" />
+    <script src="/analytics.js" defer></script>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/diff@5.2.0/dist/diff.min.js"></script>
     <style>
@@ -263,24 +264,15 @@
       <div class="ml-auto flex gap-4 items-center">
         <div class="flex gap-3 text-[10px] uppercase font-bold">
           <span class="flex items-center gap-1"
-            ><span
-              class="w-2 h-2 rounded-full"
-              style="background: var(--added-border)"
-            ></span>
+            ><span class="w-2 h-2 rounded-full" style="background: var(--added-border)"></span>
             Added</span
           >
           <span class="flex items-center gap-1"
-            ><span
-              class="w-2 h-2 rounded-full"
-              style="background: var(--removed-border)"
-            ></span>
+            ><span class="w-2 h-2 rounded-full" style="background: var(--removed-border)"></span>
             Deleted</span
           >
           <span class="flex items-center gap-1"
-            ><span
-              class="w-2 h-2 rounded-full"
-              style="background: var(--modified-border)"
-            ></span>
+            ><span class="w-2 h-2 rounded-full" style="background: var(--modified-border)"></span>
             Modified</span
           >
         </div>
@@ -292,9 +284,7 @@
       <!-- Text Mode Inputs -->
       <div id="textInputs" class="grid grid-cols-2 gap-4">
         <div class="flex flex-col gap-1">
-          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1"
-            >Original Text</span
-          >
+          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1">Original Text</span>
           <textarea
             id="textLeft"
             class="text-input-area mono"
@@ -302,9 +292,7 @@
           ></textarea>
         </div>
         <div class="flex flex-col gap-1">
-          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1"
-            >Modified Text</span
-          >
+          <span class="text-[10px] uppercase font-bold text-gray-500 ml-1">Modified Text</span>
           <textarea
             id="textRight"
             class="text-input-area mono"
@@ -499,14 +487,7 @@
         statusInfo.textContent = `Lines: ${Math.max(leftLineNum, rightLineNum) - 1}`
       }
 
-      function addModifiedLines(
-        leftPane,
-        rightPane,
-        oldText,
-        newText,
-        leftNum,
-        rightNum
-      ) {
+      function addModifiedLines(leftPane, rightPane, oldText, newText, leftNum, rightNum) {
         const diffLib = window.Diff || window.JsDiff
         const wordDiff = diffLib.diffWordsWithSpace(oldText, newText)
 

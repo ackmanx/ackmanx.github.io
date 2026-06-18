@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="/fav_icon.png" />
     <title>The Shrinking Notepad</title>
+    <script src="/analytics.js" defer></script>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       :root {
@@ -305,8 +306,7 @@
         adjustFontSize()
         updateHistoryUI()
         editor.focus()
-        if (window.innerWidth < 768 && !sidebar.classList.contains('closed'))
-          toggleSidebar()
+        if (window.innerWidth < 768 && !sidebar.classList.contains('closed')) toggleSidebar()
       }
 
       function toggleSidebar() {
