@@ -10,7 +10,7 @@
     <link rel="icon" href="../assets/favicon.png">
     <link rel="stylesheet" href="../assets/global_styles.css">
     <link rel="stylesheet" href="../assets/artist_styles.css">
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;fafca58fc0304523be0fede299408817&quot;}"></script>
+    <script src="/analytics.js" defer></script>
     <title>rezz</title>
 </head>
 
@@ -570,14 +570,14 @@
             return response.json();
         }
         async function update_artist_viewed(name, viewed_array) {
-            const password = localStorage.getItem('super_secret');
+            localStorage.getItem('super_secret');
             const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`, {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json'
+                    'Content-Type': 'application/json',
+                    Authorization: localStorage.getItem('super_secret') ?? ''
                 },
                 body: JSON.stringify({
-                    
                     viewed_albums: viewed_array
                 })
             });
