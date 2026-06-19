@@ -11,9 +11,8 @@ Usage:
 import http.server
 import os
 import socketserver
-import sys
 
-PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 3000
+PORT = 3000
 
 # Serve from the directory this script lives in
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
