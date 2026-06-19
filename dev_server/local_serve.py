@@ -11,11 +11,15 @@ Usage:
 import http.server
 import os
 import socketserver
+from pathlib import Path
 
 PORT = 3000
 
-# Serve from the directory this script lives in
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# .resolve() gets the absolute path of the script
+# .parent.parent goes up two levels (from the file to the script dir, then up one more)
+docs_dir = Path(__file__).resolve().parent.parent / "docs"
+
+os.chdir(docs_dir)
 
 
 class Handler(http.server.SimpleHTTPRequestHandler):
