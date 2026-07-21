@@ -242,8 +242,8 @@
 
       #editor {
         display: flex;
-        width: min(100%, 68rem);
-        height: min(100%, 44rem);
+        width: min(100%, 80rem);
+        height: min(100%, 60rem);
         align-items: center;
         justify-content: center;
         padding: clamp(1.5rem, 5vw, 4rem);
@@ -487,7 +487,12 @@
         adjustFontSize()
         updateHistoryUI()
         editor.focus()
-        if (window.innerWidth < 768 && !sidebar.classList.contains('closed')) toggleSidebar()
+        closeSidebar()
+      }
+
+      function closeSidebar() {
+        sidebar.classList.add('closed')
+        overlay.classList.add('hidden')
       }
 
       function toggleSidebar() {
