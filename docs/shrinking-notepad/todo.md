@@ -1,5 +1,2 @@
 - Store the dump in mongo instead of local storage
-- Re-skin to not look so Tailwindy and Bootstrappy
-  - Keep it minimalist still
-  - Prefer contrast
 - Allow deleting of notes in the sidebar

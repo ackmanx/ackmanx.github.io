@@ -6,179 +6,368 @@
     <link rel="icon" type="image/png" href="/fav_icon.png" />
     <title>The Shrinking Notepad</title>
     <script src="/analytics.js" defer></script>
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
       :root {
-        --bg-color: #ffffff;
-        --text-color: #1a1a1a;
-        --sidebar-bg: #f3f4f6;
-        --accent: #3b82f6;
+        --page: #f7f1e6;
+        --paper: #fffaf0;
+        --paper-line: rgba(118, 92, 56, 0.13);
+        --ink: #30271f;
+        --muted-ink: #766a5f;
+        --sidebar: #efe4d0;
+        --sidebar-border: #d8c5a6;
+        --accent: #8e5f2f;
+        --accent-hover: #744b22;
+        --shadow: rgba(67, 47, 24, 0.16);
+        --focus-ring: rgba(142, 95, 47, 0.28);
       }
 
       @media (prefers-color-scheme: dark) {
         :root {
-          --bg-color: #121212;
-          --text-color: #e5e7eb;
-          --sidebar-bg: #1f2937;
-          --accent: #60a5fa;
+          --page: #17130f;
+          --paper: #211b15;
+          --paper-line: rgba(230, 205, 166, 0.09);
+          --ink: #f0e4d2;
+          --muted-ink: #b8a996;
+          --sidebar: #261f17;
+          --sidebar-border: #4b3d2e;
+          --accent: #d39a5b;
+          --accent-hover: #e2ae73;
+          --shadow: rgba(0, 0, 0, 0.32);
+          --focus-ring: rgba(211, 154, 91, 0.24);
         }
       }
 
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
       body {
-        background-color: var(--bg-color);
-        color: var(--text-color);
+        height: 100%;
+      }
+
+      body {
+        margin: 0;
+        overflow: hidden;
+        background:
+          radial-gradient(circle at top left, rgba(255, 255, 255, 0.38), transparent 34rem),
+          var(--page);
+        color: var(--ink);
+        font-family: Georgia, 'Times New Roman', serif;
         transition:
           background-color 0.3s,
           color 0.3s;
-        overflow: hidden;
-        font-family:
-          ui-sans-serif,
-          system-ui,
-          -apple-system,
-          BlinkMacSystemFont,
-          'Segoe UI',
-          Roboto,
-          'Helvetica Neue',
-          Arial,
-          sans-serif;
       }
 
-      #editor {
-        background: transparent;
-        color: var(--text-color);
-        border: none;
-        outline: none;
-        resize: none;
-        width: 100%;
-        height: 100%;
-        padding: 2rem;
+      button,
+      textarea {
+        font: inherit;
+      }
+
+      button {
+        color: inherit;
+      }
+
+      .app-shell {
         display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        line-height: 1.2;
-        transition: font-size 0.1s ease-out;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
       }
 
       .sidebar {
-        background-color: var(--sidebar-bg);
-        transition: transform 0.3s ease-in-out;
+        position: fixed;
+        inset: 0 auto 0 0;
         z-index: 50;
+        display: flex;
+        width: min(20rem, 86vw);
+        flex-direction: column;
+        padding: 1.25rem;
+        background: var(--sidebar);
+        border-right: 1px solid var(--sidebar-border);
+        box-shadow: 1rem 0 2rem var(--shadow);
+        transition: transform 0.3s ease-in-out;
       }
 
       .sidebar.closed {
         transform: translateX(-100%);
       }
 
-      .history-item {
+      .sidebar-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .sidebar-title {
+        margin: 0;
+        font-size: 1.35rem;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+      }
+
+      .icon-button,
+      .primary-button {
+        border: 0;
         cursor: pointer;
-        padding: 0.75rem 1rem;
-        border-radius: 0.5rem;
-        transition: background 0.2s;
-        white-space: nowrap;
+        transition:
+          background-color 0.18s ease,
+          color 0.18s ease,
+          transform 0.18s ease,
+          box-shadow 0.18s ease;
+      }
+
+      .icon-button {
+        display: inline-flex;
+        width: 2.5rem;
+        height: 2.5rem;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        border-radius: 999px;
+        background: transparent;
+      }
+
+      .icon-button:hover {
+        background: rgba(118, 92, 56, 0.14);
+      }
+
+      .icon-button:focus-visible,
+      .primary-button:focus-visible,
+      #editor:focus-visible {
+        outline: 3px solid var(--focus-ring);
+        outline-offset: 3px;
+      }
+
+      .primary-button {
+        width: 100%;
+        margin-bottom: 1rem;
+        padding: 0.7rem 1rem;
+        border-radius: 999px;
+        background: var(--accent);
+        color: #fffaf0;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+        box-shadow: 0 0.35rem 0.9rem var(--shadow);
+      }
+
+      .primary-button:hover {
+        background: var(--accent-hover);
+        transform: translateY(-1px);
+      }
+
+      #historyList {
+        flex: 1;
+        overflow-y: auto;
+      }
+
+      .history-item {
+        position: relative;
+        margin-bottom: 0.35rem;
+        padding: 0.75rem 0.9rem 0.75rem 1rem;
         overflow: hidden;
+        border-radius: 0.35rem;
+        color: var(--muted-ink);
+        cursor: pointer;
         text-overflow: ellipsis;
-        margin-bottom: 0.25rem;
+        white-space: nowrap;
+        transition:
+          background-color 0.18s ease,
+          color 0.18s ease;
       }
 
       .history-item:hover {
-        background-color: rgba(128, 128, 128, 0.1);
+        background: rgba(118, 92, 56, 0.12);
+        color: var(--ink);
       }
 
       .history-item.active {
-        border-left: 4px solid var(--accent);
-        background-color: rgba(59, 130, 246, 0.1);
+        background: rgba(142, 95, 47, 0.14);
+        color: var(--ink);
+        font-weight: 700;
       }
 
-      /* Hide scrollbar but keep functionality */
+      .history-item.active::before {
+        position: absolute;
+        top: 0.55rem;
+        bottom: 0.55rem;
+        left: 0.35rem;
+        width: 3px;
+        border-radius: 999px;
+        background: var(--accent);
+        content: '';
+      }
+
+      .main-content {
+        position: relative;
+        display: flex;
+        flex: 1;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+      }
+
+      .overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 40;
+        background: rgba(19, 14, 9, 0.44);
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      .controls {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        z-index: 10;
+      }
+
+      .controls .icon-button {
+        background: color-mix(in srgb, var(--paper) 82%, transparent);
+        box-shadow: 0 0.35rem 1rem var(--shadow);
+        backdrop-filter: blur(8px);
+      }
+
+      .editor-wrap {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+        padding: clamp(1rem, 5vw, 3rem);
+        overflow: hidden;
+      }
+
+      #editor {
+        display: flex;
+        width: min(100%, 68rem);
+        height: min(100%, 44rem);
+        align-items: center;
+        justify-content: center;
+        padding: clamp(1.5rem, 5vw, 4rem);
+        resize: none;
+        border: 1px solid var(--sidebar-border);
+        border-radius: 1.25rem;
+        outline: none;
+        background:
+          repeating-linear-gradient(
+            to bottom,
+            transparent 0,
+            transparent 2.2rem,
+            var(--paper-line) 2.2rem,
+            var(--paper-line) calc(2.2rem + 1px)
+          ),
+          var(--paper);
+        box-shadow: 0 1.25rem 3rem var(--shadow);
+        color: var(--ink);
+        line-height: 1.2;
+        text-align: center;
+        transition:
+          border-color 0.2s ease,
+          box-shadow 0.2s ease,
+          font-size 0.1s ease-out;
+      }
+
+      #editor::placeholder {
+        color: var(--muted-ink);
+        opacity: 0.72;
+      }
+
+      #editor:focus {
+        border-color: var(--accent);
+        box-shadow:
+          0 1.25rem 3rem var(--shadow),
+          0 0 0 0.35rem var(--focus-ring);
+      }
+
       .no-scrollbar::-webkit-scrollbar {
         display: none;
       }
+
       .no-scrollbar {
         -ms-overflow-style: none;
         scrollbar-width: none;
       }
+
+      @media (max-width: 48rem) {
+        .editor-wrap {
+          padding: 4.5rem 1rem 1rem;
+        }
+
+        #editor {
+          border-radius: 0.9rem;
+        }
+      }
     </style>
   </head>
-  <body class="flex h-screen w-screen overflow-hidden">
-    <!-- Sidebar -->
-    <aside
-      id="sidebar"
-      class="sidebar fixed inset-y-0 left-0 w-64 md:w-80 p-4 border-r border-gray-700/10 flex flex-col closed"
-    >
-      <div class="flex justify-between items-center mb-6">
-        <h2 class="font-bold text-xl">History</h2>
-        <button onclick="toggleSidebar()" class="p-2 rounded-full hover:bg-gray-500/20">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <path d="m15 18-6-6 6-6" />
-          </svg>
-        </button>
-      </div>
+  <body>
+    <div class="app-shell">
+      <aside id="sidebar" class="sidebar closed">
+        <div class="sidebar-header">
+          <h2 class="sidebar-title">History</h2>
+          <button onclick="toggleSidebar()" class="icon-button" aria-label="Close history">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m15 18-6-6 6-6" />
+            </svg>
+          </button>
+        </div>
 
-      <button
-        onclick="newNote()"
-        class="mb-4 w-full py-2 px-4 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors"
-      >
-        + New Note
-      </button>
+        <button onclick="newNote()" class="primary-button">+ New Note</button>
 
-      <div id="historyList" class="flex-1 overflow-y-auto no-scrollbar">
-        <!-- History items injected here -->
-      </div>
-    </aside>
+        <div id="historyList" class="no-scrollbar">
+          <!-- History items injected here -->
+        </div>
+      </aside>
 
-    <!-- Main Content -->
-    <main class="relative flex-1 flex flex-col h-full w-full">
-      <!-- Overlay for mobile sidebar -->
-      <div
-        id="overlay"
-        onclick="toggleSidebar()"
-        class="fixed inset-0 bg-black/40 hidden z-40"
-      ></div>
+      <main class="main-content">
+        <div id="overlay" onclick="toggleSidebar()" class="overlay hidden"></div>
 
-      <!-- Controls -->
-      <div class="absolute top-4 left-4 z-10 flex gap-2">
-        <button
-          onclick="toggleSidebar()"
-          class="p-2 rounded-lg bg-gray-500/10 hover:bg-gray-500/20 backdrop-blur-sm"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <line x1="3" y1="12" x2="21" y2="12"></line>
-            <line x1="3" y1="6" x2="21" y2="6"></line>
-            <line x1="3" y1="18" x2="21" y2="18"></line>
-          </svg>
-        </button>
-      </div>
+        <div class="controls">
+          <button onclick="toggleSidebar()" class="icon-button" aria-label="Open history">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+        </div>
 
-      <div class="flex-1 flex items-center justify-center overflow-hidden p-4 md:p-12">
-        <textarea
-          id="editor"
-          placeholder="Start typing..."
-          spellcheck="false"
-          autocomplete="off"
-        ></textarea>
-      </div>
-    </main>
+        <div class="editor-wrap">
+          <textarea
+            id="editor"
+            placeholder="Start typing..."
+            spellcheck="false"
+            autocomplete="off"
+          ></textarea>
+        </div>
+      </main>
+    </div>
 
     <script>
       const editor = document.getElementById('editor')
@@ -189,7 +378,6 @@
       let currentNoteId = null
       let notes = JSON.parse(localStorage.getItem('shrink_notes') || '[]')
 
-      // Initialize
       window.onload = () => {
         loadLatestNote()
         editor.focus()
@@ -197,7 +385,6 @@
         adjustFontSize()
       }
 
-      // Resize observer to handle font resizing when window size changes
       const resizeObserver = new ResizeObserver(() => {
         adjustFontSize()
       })
@@ -213,11 +400,9 @@
         const containerWidth = editor.clientWidth - 40
         const containerHeight = editor.clientHeight - 40
 
-        // Start large, shrink down
-        let fontSize = 120 // Max size
-        const minSize = 16 // Min size
+        let fontSize = 120
+        const minSize = 16
 
-        // Create a hidden span to measure text size accurately
         const tester = document.createElement('span')
         tester.style.visibility = 'hidden'
         tester.style.position = 'absolute'
@@ -257,13 +442,11 @@
           if (index !== -1) {
             notes[index].text = content
             notes[index].updated = timestamp
-            // Move to top
             const note = notes.splice(index, 1)[0]
             notes.unshift(note)
           }
         }
 
-        // Limit history to 50 items
         if (notes.length > 50) notes.pop()
 
         localStorage.setItem('shrink_notes', JSON.stringify(notes))
@@ -274,7 +457,7 @@
         historyList.innerHTML = ''
         notes.forEach((note) => {
           const item = document.createElement('div')
-          item.className = `history-item ${note.id === currentNoteId ? 'active' : ''}`
+          item.className = 'history-item ' + (note.id === currentNoteId ? 'active' : '')
           item.innerText = note.text.substring(0, 50) || '(Empty Note)'
           item.onclick = () => loadNote(note.id)
           historyList.appendChild(item)
@@ -314,7 +497,6 @@
         overlay.classList.toggle('hidden')
       }
 
-      // Prevent tab from leaving textarea
       editor.onkeydown = function (e) {
         if (e.keyCode === 9) {
           e.preventDefault()
