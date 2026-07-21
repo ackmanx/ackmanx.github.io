@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Current weather and hourly forecast for New Brighton, Minnesota."
+    />
+    <title>New Brighton Field Weather</title>
+    <link rel="icon" href="./public/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <main class="field-page">
+      <header class="masthead">
+        <div class="brand">
+          <span class="pine">▲</span><span>NEW BRIGHTON<br />FIELD WEATHER</span>
+        </div>
+        <button class="refresh" id="refresh" type="button" aria-label="Refresh weather">
+          ↻ <span id="updated">Refresh</span>
+        </button>
+      </header>
+
+      <div class="notice" id="notice" hidden>
+        Couldn’t refresh. Showing the last successful observation.
+      </div>
+
+      <section class="weather-grid">
+        <article class="current-card">
+          <div class="current-copy">
+            <div class="temperature" id="temperature">--°</div>
+            <h1 id="conditions">Loading weather…</h1>
+            <p>
+              <strong id="feels-like">Feels like --°</strong><i></i>
+              <span class="high" id="high">H --°</span> <span class="low" id="low">L --°</span>
+            </p>
+          </div>
+          <div class="hero-art" aria-hidden="true"></div>
+        </article>
+
+        <div class="metrics">
+          <article class="metric drop">
+            <span class="metric-icon" aria-hidden="true">◉</span>
+            <h2>Humidity</h2>
+            <p id="humidity">--%</p>
+          </article>
+          <article class="metric wind">
+            <span class="metric-icon" aria-hidden="true">≋</span>
+            <h2>Wind</h2>
+            <p id="wind">-- mph</p>
+          </article>
+          <article class="metric rain">
+            <span class="metric-icon" aria-hidden="true">☂</span>
+            <h2>Rain</h2>
+            <p id="rain">--%</p>
+          </article>
+          <article class="metric sunrise">
+            <span class="metric-icon" aria-hidden="true">☀</span>
+            <h2>Sunrise</h2>
+            <p id="sunrise">--</p>
+          </article>
+          <article class="metric sunset">
+            <span class="metric-icon" aria-hidden="true">◒</span>
+            <h2>Sunset</h2>
+            <p id="sunset">--</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="hourly" id="hourly" aria-label="Hourly forecast"></section>
+
+      <footer>
+        <span>Forecast data: <a href="https://open-meteo.com/" rel="noreferrer">Open-Meteo</a></span
+        ><span>Automatic updates every 10 minutes</span>
+      </footer>
+    </main>
+  </body>
+</html>
