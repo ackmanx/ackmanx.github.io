@@ -91,7 +91,6 @@ header {
   }
 
   h1 {
-    font-family: 'Asimovian', 'sans-serif';
     margin: 0;
     z-index: 100;
     font-size: 72px;
@@ -289,13 +288,7 @@ main {
 
       a {
         text-transform: lowercase;
-        font-weight: 100;
-        -webkit-text-stroke-width: 2px;
-        -webkit-text-stroke-color: var(--color-light);
-
-        @media (prefers-color-scheme: dark) {
-          -webkit-text-stroke-color: var(--color-dark);
-        }
+        font-weight: lighter;
       }
     }
 
@@ -334,7 +327,9 @@ main {
       padding: 12px 8px;
       margin-top: 8px;
       color: var(--color-dark);
-      transition: border-color 200ms ease-in, background-color 100ms ease-in;
+      transition:
+        border-color 200ms ease-in,
+        background-color 100ms ease-in;
       width: 100px;
 
       @media (prefers-color-scheme: dark) {

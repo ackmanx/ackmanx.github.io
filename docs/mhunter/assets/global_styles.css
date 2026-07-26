@@ -26,11 +26,6 @@ ___________________________________________________*/
   src: url('fonts/ZenKurenaido-Regular.ttf');
 }
 
-@font-face {
-  font-family: 'Asimovian';
-  src: url('fonts/Asimovian-Regular.ttf');
-}
-
 html {
   font-family: 'Zen Kurenaido', 'sans-serif';
 }
@@ -73,7 +68,6 @@ a:active,
 a:link,
 a:hover {
   color: var(--color-dark);
-  font-family: 'Asimovian', 'sans-serif';
   text-decoration: none;
 
   @media (prefers-color-scheme: dark) {

@@ -6,12 +6,6 @@ ___________________________________________________*/
 header {
   margin: 24px;
 
-  @media (min-width: 600px) {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-
   span {
     color: var(--color-meta-blue);
     margin-right: 4px;
@@ -19,23 +13,6 @@ header {
     @media (prefers-color-scheme: dark) {
       color: var(--color-meta-yellow);
     }
-  }
-}
-
-h1 {
-  font-family: 'Asimovian', 'sans-serif';
-  font-size: 48px;
-  margin: 0;
-  color: var(--color-light);
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: var(--color-dark);
-
-  @media (min-width: 600px) {
-    font-size: 72px;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    -webkit-text-stroke-width: 3px;
   }
 }
 
@@ -53,71 +30,21 @@ ___________________________________________________*/
 }
 
 main {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  gap: 32px;
   margin: 16px;
-
-  @media (min-width: 600px) {
-    margin: 16px 24px;
-  }
 }
 
 section {
-  width: 390px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .artist {
   display: flex;
-  flex-direction: column;
   gap: 16px;
-
-  img {
-    width: 100%;
-    height: 250px;
-
-    object-fit: cover;
-    border-radius: 8px;
-
-    @media (min-width: 600px) {
-      width: 320px;
-      height: 250px;
-    }
-  }
-}
-
-.artist-name {
-  font-size: 42px;
-  margin: 0 0 8px 0;
-
-  a {
-    text-transform: lowercase;
-    font-weight: 100;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: var(--color-light);
-
-    @media (prefers-color-scheme: dark) {
-      -webkit-text-stroke-color: var(--color-dark);
-    }
-  }
-}
-
-.artist-meta {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
 
   span {
     color: var(--color-meta-blue);
-
-    @media (min-width: 600px) {
-      margin-right: 8px;
-
-      &:last-of-type {
-        margin-left: 16px;
-      }
-    }
 
     @media (prefers-color-scheme: dark) {
       color: var(--color-meta-yellow);
@@ -125,21 +52,6 @@ section {
   }
 
   p {
-    display: flex;
-    justify-content: space-around;
-
-    &.albums-meta {
-      font-size: 22px;
-    }
-
-    &.followers-meta {
-      font-size: 18px;
-    }
-
-    @media (min-width: 600px) {
-      display: block;
-    }
-
     &.last-updated {
       color: var(--color-selected-darker-green);
 
@@ -152,14 +64,25 @@ section {
     &.last-updated {
       font-size: 14px;
     }
+  }
+}
 
-    @media (min-width: 600px) {
-      font-size: 24px;
+.artist-name {
+  font-size: 28px;
+  font-weight: lighter;
+  margin: 0 0 8px 0;
 
-      &.genres,
-      &.last-updated {
-        font-size: 18px;
-      }
-    }
+  a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  img {
+    width: 50px;
+    height: 50px;
+
+    object-fit: cover;
+    border-radius: 8px;
   }
 }
