@@ -1074,12 +1074,15 @@
             return response.json();
         }
         async function update_artist_viewed(name, viewed_array) {
-            localStorage.getItem('super_secret');
+            const auth_code = localStorage.getItem('super_secret');
+            if (!auth_code) {
+                alert(`Uh oh, you seem to be missing the super_secret password`);
+            }
             const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    Authorization: localStorage.getItem('super_secret') ?? ''
+                    Authorization: auth_code ?? ''
                 },
                 body: JSON.stringify({
                     viewed_albums: viewed_array
