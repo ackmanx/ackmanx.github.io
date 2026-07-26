@@ -1,12 +1,12 @@
 body {
-    margin: 32px;
+  margin: 32px;
 }
 
 @media (prefers-color-scheme: dark) {
-    input,
-    button {
-        background-color: var(--colors-dark);
-        color: var(--colors-light);
-        border: none;
-    }
+  input,
+  button {
+    background-color: var(--colors-dark);
+    color: var(--colors-light);
+    border: none;
+  }
 }

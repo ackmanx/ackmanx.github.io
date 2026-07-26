@@ -16,7 +16,7 @@
 
 <body>
     <header>
-        <p><span>Report Date</span>Sat Jul 25 2026</p>
+        <p><span>Report Date</span>Sun Jul 26 2026</p>
     </header>
     <main>
         <section class="" data-artist-name="1788-l">
@@ -6147,16 +6147,7 @@
             </div>
         </section>
     </main>
-    <script type="module">
-        if (!localStorage.getItem('super_secret')) {
-            window.location.href = 'fake_security.html';
-        }
-        fetch('https://friends-of-mongo.vercel.app/mhunter/artist', {
-            headers: {
-                Authorization: localStorage.getItem('super_secret') ?? ''
-            }
-        });
-    </script>
+    <script type="module" src="assets/index_page.js"></script>
 </body>
 
 </html>
