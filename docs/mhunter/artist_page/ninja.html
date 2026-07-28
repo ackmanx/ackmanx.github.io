@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / ninja</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5ebe839c2f7426d6dddc154c2ea" alt="ninja"><a class="cover-art-link" href="spotify:artist:1MpTRWf8JWazWgL4zDlWsE"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebe839c2f7426d6dddc154c2ea" alt="ninja"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5ebe839c2f7426d6dddc154c2ea" alt="ninja"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 5,420</p>
-            <p><span>Popularity</span> 22</p>
-            <p class="genre-list"></p>
-        </div>
+        <nav><a href="../index.html">Index</a> / ninja</nav>
     </header>
-    <main data-artist-name="ninja" data-albums-count="2">
+    <main data-artist-name="ninja" data-albums-count="2"><a class="artist-hero" href="spotify:artist:1MpTRWf8JWazWgL4zDlWsE"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebe839c2f7426d6dddc154c2ea" alt="ninja"></a>
+        <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:0PKzBQ3qsIEHpKI0QygSp8">glue me</a></h2>
                     <p class="artist-list">Nep Li, Ninja</p>
-                    <p><span>2022-06-08</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="ninja" data-album-name="glue me"></button>
+                    <p><span>2022-06-08</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="ninja" data-album-name="glue me"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:1ZTTtYiivr4tUgHLt1f0Nh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a18932fec7d894b1f8ffe0c2" alt="game time (feat. ninja)"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:1ZTTtYiivr4tUgHLt1f0Nh">game time (feat. ninja)</a></h2>
                     <p class="artist-list">3LAU, Ninja</p>
-                    <p><span>2018-11-30</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="ninja" data-album-name="game time (feat. ninja)"></button>
+                    <p><span>2018-11-30</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="ninja" data-album-name="game time (feat. ninja)"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

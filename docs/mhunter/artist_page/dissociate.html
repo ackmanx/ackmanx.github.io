@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / dissociate</p>
-        <p><span>Cached On</span> Wed Jan 14 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5eb1665ea0c2c9c5dea6e08b3ef" alt="dissociate"><a class="cover-art-link" href="spotify:artist:2jaduQUJ49zB6K8ooeVtEs"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb1665ea0c2c9c5dea6e08b3ef" alt="dissociate"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5eb1665ea0c2c9c5dea6e08b3ef" alt="dissociate"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 36</p>
-            <p><span>Popularity</span> 0</p>
-            <p class="genre-list"></p>
-        </div>
+        <nav><a href="../index.html">Index</a> / dissociate</nav>
     </header>
-    <main data-artist-name="dissociate" data-albums-count="3">
+    <main data-artist-name="dissociate" data-albums-count="3"><a class="artist-hero" href="spotify:artist:2jaduQUJ49zB6K8ooeVtEs"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb1665ea0c2c9c5dea6e08b3ef" alt="dissociate"></a>
+        <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,26 +32,27 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:150rQaGSs0O9ouQtZAG35e">pls be mine</a></h2>
                     <p class="artist-list">Dissociate</p>
-                    <p><span>2023-06-29</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="dissociate" data-album-name="pls be mine"></button>
+                    <p><span>2023-06-29</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="dissociate" data-album-name="pls be mine"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2022"><a href="spotify:album:0uzutSurbDCoGJiC4Sssqa"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273c3989b3486c686a2cd244f48" alt="heartache"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:0uzutSurbDCoGJiC4Sssqa">heartache</a></h2>
                     <p class="artist-list">Dissociate</p>
-                    <p><span>2022-11-25</span> - single - 4 track</p><button type="button" class="viewed-button" data-artist-name="dissociate" data-album-name="heartache"></button>
+                    <p><span>2022-11-25</span> - single - 4 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="dissociate" data-album-name="heartache"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:3te4x0Dtfwr6VWNHaFeOtF"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273571c7a4faf90ca7948d459d3" alt="damaged"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:3te4x0Dtfwr6VWNHaFeOtF">damaged</a></h2>
                     <p class="artist-list">Dissociate</p>
-                    <p><span>2018-01-05</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="dissociate" data-album-name="damaged"></button>
+                    <p><span>2018-01-05</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="dissociate" data-album-name="damaged"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Wed Jan 14 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

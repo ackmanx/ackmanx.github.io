@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / mosh</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5eb38ff5b986f4fcc6d43a674d8" alt="mosh"><a class="cover-art-link" href="spotify:artist:1QQdz4yWDmGAy2f5c94PC4"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb38ff5b986f4fcc6d43a674d8" alt="mosh"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5eb38ff5b986f4fcc6d43a674d8" alt="mosh"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 11,053</p>
-            <p><span>Popularity</span> 25</p>
-            <p class="genre-list"></p>
-        </div>
+        <nav><a href="../index.html">Index</a> / mosh</nav>
     </header>
-    <main data-artist-name="mosh" data-albums-count="3">
+    <main data-artist-name="mosh" data-albums-count="3"><a class="artist-hero" href="spotify:artist:1QQdz4yWDmGAy2f5c94PC4"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb38ff5b986f4fcc6d43a674d8" alt="mosh"></a>
+        <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,26 +32,27 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:2sVCzC4AEo1nDxB2ruFVOv">tragic anatomy</a></h2>
                     <p class="artist-list">Mosh</p>
-                    <p><span>2016-01-01</span> - album </p><button type="button" class="viewed-button" data-artist-name="mosh" data-album-name="tragic anatomy"></button>
+                    <p><span>2016-01-01</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="mosh" data-album-name="tragic anatomy"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2013"><a href="spotify:album:171xoW3CL04i3FoCoPcD3d"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273413784fdbe96dc3bd5a1a13d" alt="empire"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:171xoW3CL04i3FoCoPcD3d">empire</a></h2>
                     <p class="artist-list">Mosh</p>
-                    <p><span>2013-10-30</span> - album </p><button type="button" class="viewed-button" data-artist-name="mosh" data-album-name="empire"></button>
+                    <p><span>2013-10-30</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="mosh" data-album-name="empire"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:0ey9sCd6LZjaYKhM1rVHLH"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273570eea272c14def5a0e652cf" alt="monarchy"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:0ey9sCd6LZjaYKhM1rVHLH">monarchy</a></h2>
                     <p class="artist-list">Mosh</p>
-                    <p><span>2012-11-16</span> - album </p><button type="button" class="viewed-button" data-artist-name="mosh" data-album-name="monarchy"></button>
+                    <p><span>2012-11-16</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="mosh" data-album-name="monarchy"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

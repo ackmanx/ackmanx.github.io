@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / fantomenk</p>
-        <p><span>Cached On</span> Wed Jan 14 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"><a class="cover-art-link" href="spotify:artist:2H11tig8QJ8eV3D04ocjQv"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 24,038</p>
-            <p><span>Popularity</span> 30</p>
-            <p class="genre-list"></p>
-        </div>
+        <nav><a href="../index.html">Index</a> / fantomenk</nav>
     </header>
-    <main data-artist-name="fantomenk" data-albums-count="2">
+    <main data-artist-name="fantomenk" data-albums-count="2"><a class="artist-hero" href="spotify:artist:2H11tig8QJ8eV3D04ocjQv"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></a>
+        <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:3UqtrI73uajshR3MJKuGWg">crystal tokyo</a></h2>
                     <p class="artist-list">FantomenK, meganeko</p>
-                    <p><span>2017-05-30</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="fantomenk" data-album-name="crystal tokyo"></button>
+                    <p><span>2017-05-30</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="fantomenk" data-album-name="crystal tokyo"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2011"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273df9e44da64f179b3854b5e07" alt="fantomenk"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:54V9uFgQMrZzmksTPijwOs">fantomenk</a></h2>
                     <p class="artist-list">FantomenK</p>
-                    <p><span>2011-03-11</span> - album </p><button type="button" class="viewed-button" data-artist-name="fantomenk" data-album-name="fantomenk"></button>
+                    <p><span>2011-03-11</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="fantomenk" data-album-name="fantomenk"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Wed Jan 14 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

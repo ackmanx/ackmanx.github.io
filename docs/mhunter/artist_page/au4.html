@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / au4</p>
-        <p><span>Cached On</span> Wed Jan 14 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b2734f28f46e4583a1d2e69e628b" alt="au4"><a class="cover-art-link" href="spotify:artist:28eLsrLzJaTiLGJokMVtOZ"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b2734f28f46e4583a1d2e69e628b" alt="au4"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b2734f28f46e4583a1d2e69e628b" alt="au4"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 4,595</p>
-            <p><span>Popularity</span> 16</p>
-            <p class="genre-list"></p>
-        </div>
+        <nav><a href="../index.html">Index</a> / au4</nav>
     </header>
-    <main data-artist-name="au4" data-albums-count="2">
+    <main data-artist-name="au4" data-albums-count="2"><a class="artist-hero" href="spotify:artist:28eLsrLzJaTiLGJokMVtOZ"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b2734f28f46e4583a1d2e69e628b" alt="au4"></a>
+        <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:4811TdyKtm51ct9ReQQPOG">and down goes the sky</a></h2>
                     <p class="artist-list">Au4</p>
-                    <p><span>2012-12-21</span> - album </p><button type="button" class="viewed-button" data-artist-name="au4" data-album-name="and down goes the sky"></button>
+                    <p><span>2012-12-21</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="au4" data-album-name="and down goes the sky"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2006"><a href="spotify:album:2qt9YwQ7BvKJbRYsPs64Zf"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a9f34f1cdf32c031c98d7762" alt="on: audio"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:2qt9YwQ7BvKJbRYsPs64Zf">on: audio</a></h2>
                     <p class="artist-list">Au4</p>
-                    <p><span>2006-01-01</span> - album </p><button type="button" class="viewed-button" data-artist-name="au4" data-album-name="on: audio"></button>
+                    <p><span>2006-01-01</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="au4" data-album-name="on: audio"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Wed Jan 14 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

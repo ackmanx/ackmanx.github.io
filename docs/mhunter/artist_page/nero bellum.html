@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / nero bellum</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"><a class="cover-art-link" href="spotify:artist:4xo3jXN0qflZWFC84IBeLO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 2,376</p>
-            <p><span>Popularity</span> 6</p>
-            <p class="genre-list">industrial, noise music, ebm, industrial metal, industrial rock</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / nero bellum</nav>
     </header>
-    <main data-artist-name="nero bellum" data-albums-count="2">
+    <main data-artist-name="nero bellum" data-albums-count="2"><a class="artist-hero" href="spotify:artist:4xo3jXN0qflZWFC84IBeLO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"></a>
+        <div class="genres">industrial, noise music, ebm, industrial metal, industrial rock</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:5ds7hmzf9LdqMDU1hgiSML">the voice of your blood cries to me from the soil</a></h2>
                     <p class="artist-list">Nero Bellum</p>
-                    <p><span>2020-09-11</span> - album </p><button type="button" class="viewed-button" data-artist-name="nero bellum" data-album-name="the voice of your blood cries to me from the soil"></button>
+                    <p><span>2020-09-11</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="nero bellum" data-album-name="the voice of your blood cries to me from the soil"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2019"><a href="spotify:album:3w41e7R76TBST08zpLeHzt"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nfrnº"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:3w41e7R76TBST08zpLeHzt">nfrnº</a></h2>
                     <p class="artist-list">Nero Bellum</p>
-                    <p><span>2019-05-24</span> - album </p><button type="button" class="viewed-button" data-artist-name="nero bellum" data-album-name="nfrnº"></button>
+                    <p><span>2019-05-24</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="nero bellum" data-album-name="nfrnº"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

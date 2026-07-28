@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / necessary response</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5eb5065748909ebde88c6825062" alt="necessary response"><a class="cover-art-link" href="spotify:artist:5JpmFYHmzG3e2GUKL8gEx4"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb5065748909ebde88c6825062" alt="necessary response"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5eb5065748909ebde88c6825062" alt="necessary response"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 7,480</p>
-            <p><span>Popularity</span> 16</p>
-            <p class="genre-list">ebm, industrial, synthpop, darkwave</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / necessary response</nav>
     </header>
-    <main data-artist-name="necessary response" data-albums-count="1">
+    <main data-artist-name="necessary response" data-albums-count="1"><a class="artist-hero" href="spotify:artist:5JpmFYHmzG3e2GUKL8gEx4"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb5065748909ebde88c6825062" alt="necessary response"></a>
+        <div class="genres">ebm, industrial, synthpop, darkwave</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,12 +32,13 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:3ZTJGJ9FQgwlRp02TB9AGH">blood spills not far from the wound</a></h2>
                     <p class="artist-list">Necessary Response</p>
-                    <p><span>2007-01-01</span> - album </p><button type="button" class="viewed-button" data-artist-name="necessary response" data-album-name="blood spills not far from the wound"></button>
+                    <p><span>2007-01-01</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="necessary response" data-album-name="blood spills not far from the wound"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

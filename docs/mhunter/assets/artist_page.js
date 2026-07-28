@@ -1,5 +1,13 @@
 async function fetch_artist_viewed(name) {
-    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`);
+    const auth_code = localStorage.getItem('super_secret');
+    if (!auth_code) {
+        alert(`Uh oh, you seem to be missing the super_secret password`);
+    }
+    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${encodeURIComponent(name)}`, {
+        headers: {
+            Authorization: auth_code ?? ''
+        }
+    });
     return response.json();
 }
 async function update_artist_viewed(name, viewed_array) {
@@ -7,7 +15,7 @@ async function update_artist_viewed(name, viewed_array) {
     if (!auth_code) {
         alert(`Uh oh, you seem to be missing the super_secret password`);
     }
-    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${name}`, {
+    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${encodeURIComponent(name)}`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -37,8 +45,8 @@ window.__filter = {
     release_year: 'all',
     viewed_status: 'all'
 };
-const $viewed_buttons = $$('.viewed-button');
-$viewed_buttons.forEach(($button)=>{
+const $mark_viewed_buttons = $$('.mark-as-viewed-button');
+$mark_viewed_buttons.forEach(($button)=>{
     $button.addEventListener('click', toggle_viewed_status);
     if (!$button.dataset.albumName) {
         throw new Error('You did the impossible. Album name is not found one of the `button` elements');
@@ -54,7 +62,7 @@ const $year_filters = $$('input[name="release-year"]');
 $year_filters.forEach(($input)=>{
     $input.addEventListener('click', filter_by_year);
 });
-const $viewed_filters = $$('input[name="viewed-filter"]');
+const $viewed_filters = $$('input[name="view-status-filter"]');
 $viewed_filters.forEach(($input)=>{
     $input.addEventListener('click', filter_by_viewed_status);
 });

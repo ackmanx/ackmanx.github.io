@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / pulse legion</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff" alt="pulse legion"><a class="cover-art-link" href="spotify:artist:2PvRNk3KhVARsGCqvQi1eU"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff" alt="pulse legion"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff" alt="pulse legion"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 931</p>
-            <p><span>Popularity</span> 2</p>
-            <p class="genre-list">ebm, industrial, industrial rock, industrial metal</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / pulse legion</nav>
     </header>
-    <main data-artist-name="pulse legion" data-albums-count="2">
+    <main data-artist-name="pulse legion" data-albums-count="2"><a class="artist-hero" href="spotify:artist:2PvRNk3KhVARsGCqvQi1eU"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff" alt="pulse legion"></a>
+        <div class="genres">ebm, industrial, industrial rock, industrial metal</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label><label for="1997"><input name="release-year" type="radio" id="1997" value="1997">1997</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:7ds0kergwKRiJCZaYREVAs">one thing</a></h2>
                     <p class="artist-list">Pulse Legion</p>
-                    <p><span>1999-10-12</span> - album </p><button type="button" class="viewed-button" data-artist-name="pulse legion" data-album-name="one thing"></button>
+                    <p><span>1999-10-12</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="pulse legion" data-album-name="one thing"></button>
                 </div>
             </section>
             <section class="album" data-release-year="1997"><a href="spotify:album:4PfRUUV7G20hITcVTvknpk"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff" alt="evolve"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:4PfRUUV7G20hITcVTvknpk">evolve</a></h2>
                     <p class="artist-list">Pulse Legion</p>
-                    <p><span>1997-10-28</span> - album </p><button type="button" class="viewed-button" data-artist-name="pulse legion" data-album-name="evolve"></button>
+                    <p><span>1997-10-28</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="pulse legion" data-album-name="evolve"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

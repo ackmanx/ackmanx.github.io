@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / 範例三</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab6761610000e5eb23de0d4e9499ecaf13acc97c" alt="範例三"><a class="cover-art-link" href="spotify:artist:6P6VHZ4xAfv8O5fsse8CPz"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb23de0d4e9499ecaf13acc97c" alt="範例三"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab6761610000e5eb23de0d4e9499ecaf13acc97c" alt="範例三"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 1,763</p>
-            <p><span>Popularity</span> 5</p>
-            <p class="genre-list">chinese hip hop, chinese indie</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / 範例三</nav>
     </header>
-    <main data-artist-name="範例三" data-albums-count="2">
+    <main data-artist-name="範例三" data-albums-count="2"><a class="artist-hero" href="spotify:artist:6P6VHZ4xAfv8O5fsse8CPz"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb23de0d4e9499ecaf13acc97c" alt="範例三"></a>
+        <div class="genres">chinese hip hop, chinese indie</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2026"><input name="release-year" type="radio" id="2026" value="2026">2026</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:0XVTHcqzM4OjFfQZPAEV0X">好小子健康錄</a></h2>
                     <p class="artist-list">許時, 範例三</p>
-                    <p><span>2026-01-13</span> - single - 4 track</p><button type="button" class="viewed-button" data-artist-name="範例三" data-album-name="好小子健康錄"></button>
+                    <p><span>2026-01-13</span> - single - 4 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="範例三" data-album-name="好小子健康錄"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2020"><a href="spotify:album:13espQzjJ9lDw7rQ5SyUhn"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27366a7a5eb6a6506bd39dbf0b8" alt="請你叫我查理布朗"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:13espQzjJ9lDw7rQ5SyUhn">請你叫我查理布朗</a></h2>
                     <p class="artist-list">範例三</p>
-                    <p><span>2020-05-01</span> - album </p><button type="button" class="viewed-button" data-artist-name="範例三" data-album-name="請你叫我查理布朗"></button>
+                    <p><span>2020-05-01</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="範例三" data-album-name="請你叫我查理布朗"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

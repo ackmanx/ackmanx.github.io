@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / seven tang</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b273531a0db7eb29ab7f2b3e9832" alt="seven tang"><a class="cover-art-link" href="spotify:artist:5j1PgGSQGshHPX5rdKMg2L"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273531a0db7eb29ab7f2b3e9832" alt="seven tang"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b273531a0db7eb29ab7f2b3e9832" alt="seven tang"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 1,374</p>
-            <p><span>Popularity</span> 18</p>
-            <p class="genre-list">chinese r&amp;b, c-pop, chinese hip hop</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / seven tang</nav>
     </header>
-    <main data-artist-name="seven tang" data-albums-count="2">
+    <main data-artist-name="seven tang" data-albums-count="2"><a class="artist-hero" href="spotify:artist:5j1PgGSQGshHPX5rdKMg2L"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273531a0db7eb29ab7f2b3e9832" alt="seven tang"></a>
+        <div class="genres">chinese r&amp;b, c-pop, chinese hip hop</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,19 +32,20 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:5GqnSLQel30TYp8kzWE34L">just to find you</a></h2>
                     <p class="artist-list">Seven Tang, Anu</p>
-                    <p><span>2018-12-21</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="seven tang" data-album-name="just to find you"></button>
+                    <p><span>2018-12-21</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="seven tang" data-album-name="just to find you"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:6JJolJP8O9NC9OloCFgeao"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273226ac7cdfac2e02779f4e517" alt="just to find you"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:6JJolJP8O9NC9OloCFgeao">just to find you</a></h2>
                     <p class="artist-list">Seven Tang</p>
-                    <p><span>2018-04-14</span> - single - 1 track</p><button type="button" class="viewed-button" data-artist-name="seven tang" data-album-name="just to find you"></button>
+                    <p><span>2018-04-14</span> - single - 1 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="seven tang" data-album-name="just to find you"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

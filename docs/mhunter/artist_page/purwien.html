@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / purwien</p>
-        <p><span>Cached On</span> Thu Jan 15 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="purwien"><a class="cover-art-link" href="spotify:artist:2CogqYhjp015S0gWFr1aTw"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="purwien"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="purwien"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 266</p>
-            <p><span>Popularity</span> 4</p>
-            <p class="genre-list">ebm, darkwave, synthpop</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / purwien</nav>
     </header>
-    <main data-artist-name="purwien" data-albums-count="3">
+    <main data-artist-name="purwien" data-albums-count="3"><a class="artist-hero" href="spotify:artist:2CogqYhjp015S0gWFr1aTw"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="purwien"></a>
+        <div class="genres">ebm, darkwave, synthpop</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,26 +32,27 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:5bLLeVVDIORd0Fr9V4ZxE1">so kalt</a></h2>
                     <p class="artist-list">Purwien</p>
-                    <p><span>2007-11-23</span> - single - 5 track</p><button type="button" class="viewed-button" data-artist-name="purwien" data-album-name="so kalt"></button>
+                    <p><span>2007-11-23</span> - single - 5 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="so kalt"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2007"><a href="spotify:album:50qCPS4kmkLyDp3jDLool4"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734bacd6a0b5b3920c2b0061a4" alt="alle fehler"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:50qCPS4kmkLyDp3jDLool4">alle fehler</a></h2>
                     <p class="artist-list">Purwien</p>
-                    <p><span>2007-06-15</span> - single - 5 track</p><button type="button" class="viewed-button" data-artist-name="purwien" data-album-name="alle fehler"></button>
+                    <p><span>2007-06-15</span> - single - 5 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="alle fehler"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2007"><a href="spotify:album:2Q4Je4wtr5vuCRSl1sOkWS"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="eins"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:2Q4Je4wtr5vuCRSl1sOkWS">eins</a></h2>
                     <p class="artist-list">Purwien</p>
-                    <p><span>2007-01-01</span> - album </p><button type="button" class="viewed-button" data-artist-name="purwien" data-album-name="eins"></button>
+                    <p><span>2007-01-01</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="eins"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Thu Jan 15 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

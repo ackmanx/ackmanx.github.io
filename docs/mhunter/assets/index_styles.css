@@ -1,25 +1,5 @@
 /*___________________________________________________
-      ___       __   ___  __
-|__| |__   /\  |  \ |__  |__)
-|  | |___ /~~\ |__/ |___ |  \
-___________________________________________________*/
-header {
-  margin: 24px;
-
-  span {
-    color: var(--color-meta-blue);
-    margin-right: 4px;
-
-    @media (prefers-color-scheme: dark) {
-      color: var(--color-meta-yellow);
-    }
-  }
-}
-
-/*___________________________________________________
-
-|\/|  /\  | |\ |
-|  | /~~\ | | \|
+| Main
 ___________________________________________________*/
 .hidden {
   display: none !important;
@@ -33,50 +13,8 @@ main {
   margin: 16px;
 }
 
-section {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.artist {
-  display: flex;
-  gap: 16px;
-
-  span {
-    color: var(--color-meta-blue);
-
-    @media (prefers-color-scheme: dark) {
-      color: var(--color-meta-yellow);
-    }
-  }
-
-  p {
-    &.last-updated {
-      color: var(--color-selected-darker-green);
-
-      @media (prefers-color-scheme: dark) {
-        color: var(--color-selected-lighter-green);
-      }
-    }
-
-    &.genres,
-    &.last-updated {
-      font-size: 14px;
-    }
-  }
-}
-
 .artist-name {
-  font-size: 28px;
-  font-weight: lighter;
-  margin: 0 0 8px 0;
-
-  a {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
+  margin: 0;
 
   img {
     width: 50px;
@@ -84,5 +22,37 @@ section {
 
     object-fit: cover;
     border-radius: 8px;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 24px;
+    font-weight: lighter;
+  }
+
+  span {
+    font-size: 14px;
+    color: #7a8b9d;
+    margin-left: 8px;
+  }
+}
+
+/*___________________________________________________
+| Footer
+___________________________________________________*/
+footer {
+  text-align: right;
+  padding: 16px;
+  background-color: var(--color-button-dark);
+
+  span {
+    color: var(--color-meta-blue);
+    margin-right: 4px;
+
+    @media (prefers-color-scheme: dark) {
+      color: var(--color-meta-yellow);
+    }
   }
 }

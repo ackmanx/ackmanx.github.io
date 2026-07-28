@@ -15,22 +15,14 @@
 </head>
 
 <body>
-    <nav>
-        <p><a href="../index.html">Index</a> / dupont</p>
-        <p><span>Cached On</span> Wed Jan 14 2026</p>
-    </nav>
     <header>
-        <div class="header-artist"><img class="cover-art small" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="dupont"><a class="cover-art-link" href="spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="dupont"></a><img class="cover-art medium" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="dupont"></div>
-        <div class="header-meta">
-            <p><span>Followers</span> 4,231</p>
-            <p><span>Popularity</span> 8</p>
-            <p class="genre-list">ebm, industrial, synthpop, darkwave</p>
-        </div>
+        <nav><a href="../index.html">Index</a> / dupont</nav>
     </header>
-    <main data-artist-name="dupont" data-albums-count="3">
+    <main data-artist-name="dupont" data-albums-count="3"><a class="artist-hero" href="spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="dupont"></a>
+        <div class="genres">ebm, industrial, synthpop, darkwave</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label></div>
-            <div class="viewed-filters"><label for="everything"><input name="viewed-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="viewed-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="viewed-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+            <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
@@ -40,26 +32,27 @@
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:6PI3jJ0zWwu3NVuHibEn1r">dope of love - ep</a></h2>
                     <p class="artist-list">Dupont</p>
-                    <p><span>2010-10-29</span> - single - 3 track</p><button type="button" class="viewed-button" data-artist-name="dupont" data-album-name="dope of love - ep"></button>
+                    <p><span>2010-10-29</span> - single - 3 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="dupont" data-album-name="dope of love - ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2009"><a href="spotify:album:0BxdqfpfpZHN37f3uOAVtd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b52cdfc8d36fd406816bf6dd" alt="new dawn - ep"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:0BxdqfpfpZHN37f3uOAVtd">new dawn - ep</a></h2>
                     <p class="artist-list">Dupont</p>
-                    <p><span>2009-10-02</span> - single - 3 track</p><button type="button" class="viewed-button" data-artist-name="dupont" data-album-name="new dawn - ep"></button>
+                    <p><span>2009-10-02</span> - single - 3 track</p><button type="button" class="mark-as-viewed-button" data-artist-name="dupont" data-album-name="new dawn - ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2009"><a href="spotify:album:2JCJSuUiMFWKctygY7rZKl"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="entering the ice age"></a>
                 <div class="album-meta">
                     <h2 class="album-name"><a href="spotify:album:2JCJSuUiMFWKctygY7rZKl">entering the ice age</a></h2>
                     <p class="artist-list">Dupont</p>
-                    <p><span>2009-08-19</span> - album </p><button type="button" class="viewed-button" data-artist-name="dupont" data-album-name="entering the ice age"></button>
+                    <p><span>2009-08-19</span> - album </p><button type="button" class="mark-as-viewed-button" data-artist-name="dupont" data-album-name="entering the ice age"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
+    <footer><span>Cached On</span>Wed Jan 14 2026</footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 
