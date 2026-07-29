@@ -5,7 +5,28 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin: 16px 0 24px 12px;
+  margin: 16px 12px 24px 12px;
+
+  label {
+    padding: 6px 8px 8px 8px;
+    cursor: pointer;
+    transition: 0.2s all linear;
+  }
+
+  label:has(input:checked) {
+    background-color: var(--color-meta-blue);
+    color: var(--color-light);
+
+    @media (prefers-color-scheme: dark) {
+      background-color: var(--color-meta-yellow);
+      color: var(--color-dark);
+    }
+  }
+
+  input {
+    appearance: none;
+    margin: 0;
+  }
 }
 
 /*___________________________________________________
@@ -51,6 +72,7 @@ main {
   .genres {
     color: var(--color-dark);
     margin: 0 16px;
+    margin-bottom: 16px;
     font-size: 18px;
     text-align: right;
 
@@ -64,10 +86,6 @@ main {
   }
 
   .filters {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 36px;
     margin-bottom: 48px;
     background-color: var(--color-light-again);
 
@@ -82,10 +100,6 @@ main {
       justify-content: center;
       gap: 8px;
       margin-bottom: 16px;
-    }
-
-    .view-status-filters {
-      display: flex;
     }
 
     label {
@@ -231,6 +245,7 @@ ___________________________________________________*/
 footer {
   text-align: right;
   padding: 16px;
+  color: var(--color-light);
   background-color: var(--color-button-dark);
 
   span {

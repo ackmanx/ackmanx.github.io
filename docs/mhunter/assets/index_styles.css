@@ -57,6 +57,7 @@ ___________________________________________________*/
 footer {
   text-align: right;
   padding: 16px;
+  color: var(--color-light);
   background-color: var(--color-button-dark);
 
   span {
