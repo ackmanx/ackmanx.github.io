@@ -137,27 +137,27 @@
           id="btn-toggle-view"
           data-action="toggle-view"
           class="flex-none w-10 h-10 bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-600 rounded-full transition-colors flex items-center justify-center group"
-          title="Switch to agenda view"
+          title="Switch to full-size calendar view"
         >
           <i
             id="view-toggle-icon"
-            class="ph ph-list-bullets text-xl group-hover:scale-110 transition-transform"
+            class="ph ph-arrows-out text-xl group-hover:scale-110 transition-transform"
           ></i>
         </button>
       </div>
     </header>
 
     <!-- Main Content Area -->
-    <main data-component="main-content" class="flex-1 w-full h-full overflow-hidden flex flex-col">
+    <main
+      data-component="main-content"
+      class="flex-1 min-h-0 w-full h-full overflow-hidden flex flex-col"
+    >
       <!-- Calendar Grid View -->
       <div
         id="calendar-view"
-        class="flex-1 w-full h-full p-4 overflow-auto flex flex-col box-border"
+        class="calendar-view--fluid flex-1 min-h-0 w-full h-full p-4 flex flex-col box-border"
       >
-        <div
-          data-part="calendar-container"
-          class="min-w-[1200px] flex flex-col flex-1 min-h-[900px] lg:min-h-full pb-4"
-        >
+        <div data-part="calendar-container" class="w-full flex flex-col flex-1 min-h-0">
           <!-- Days of the Week Header -->
           <div data-part="weekday-headers" class="grid grid-cols-7 gap-2 mb-2 flex-none">
             <div

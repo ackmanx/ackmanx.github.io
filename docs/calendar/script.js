@@ -305,8 +305,9 @@ const renderCalendar = () => {
   // Calculate how many rows we need (5 or 6 typically) to fit the days
   const totalCells = Math.ceil((firstDayOfMonth + daysInMonth) / 7) * 7
 
-  // Set dynamic grid rows
-  grid.style.gridTemplateRows = `repeat(${totalCells / 7}, minmax(100px, 1fr))`
+  // Fluid mode fits every week in the viewport; full mode preserves readable event rows.
+  const minimumRowHeight = currentView === 'fluid' ? '0' : '100px'
+  grid.style.gridTemplateRows = `repeat(${totalCells / 7}, minmax(${minimumRowHeight}, 1fr))`
 
   const today = new Date()
   today.setHours(0, 0, 0, 0)
@@ -551,13 +552,14 @@ const renderAgenda = () => {
 }
 
 // --- View State ---
-let currentView = 'calendar' // 'calendar' | 'agenda'
+const VIEW_SEQUENCE = ['fluid', 'calendar', 'agenda']
+let currentView = 'fluid'
 
 const renderCurrentView = () => {
-  if (currentView === 'calendar') {
-    renderCalendar()
-  } else {
+  if (currentView === 'agenda') {
     renderAgenda()
+  } else {
+    renderCalendar()
   }
 }
 
@@ -567,18 +569,24 @@ const setView = (view) => {
   const agendaViewEl = document.getElementById('agenda-view')
   const toggleBtn = document.getElementById('btn-toggle-view')
   const toggleIcon = document.getElementById('view-toggle-icon')
+  const isAgenda = view === 'agenda'
 
-  if (view === 'calendar') {
-    calendarViewEl.classList.remove('hidden')
-    agendaViewEl.classList.add('hidden')
+  calendarViewEl.classList.toggle('hidden', isAgenda)
+  calendarViewEl.classList.toggle('calendar-view--fluid', view === 'fluid')
+  calendarViewEl.classList.toggle('calendar-view--full', view === 'calendar')
+  agendaViewEl.classList.toggle('hidden', !isAgenda)
+
+  if (view === 'fluid') {
+    toggleIcon.className = 'ph ph-arrows-out text-xl group-hover:scale-110 transition-transform'
+    toggleBtn.title = 'Switch to full-size calendar view'
+    renderCalendar()
+  } else if (view === 'calendar') {
     toggleIcon.className = 'ph ph-list-bullets text-xl group-hover:scale-110 transition-transform'
     toggleBtn.title = 'Switch to agenda view'
     renderCalendar()
   } else {
-    calendarViewEl.classList.add('hidden')
-    agendaViewEl.classList.remove('hidden')
-    toggleIcon.className = 'ph ph-calendar-blank text-xl group-hover:scale-110 transition-transform'
-    toggleBtn.title = 'Switch to calendar view'
+    toggleIcon.className = 'ph ph-arrows-in text-xl group-hover:scale-110 transition-transform'
+    toggleBtn.title = 'Switch to fluid calendar view'
     renderAgenda()
   }
 }
@@ -1310,10 +1318,12 @@ window.addEventListener('DOMContentLoaded', async () => {
   })
 
   document.getElementById('btn-toggle-view').addEventListener('click', () => {
-    setView(currentView === 'calendar' ? 'agenda' : 'calendar')
+    const currentViewIndex = VIEW_SEQUENCE.indexOf(currentView)
+    const nextView = VIEW_SEQUENCE[(currentViewIndex + 1) % VIEW_SEQUENCE.length]
+    setView(nextView)
   })
 
   await loadData()
   renderChips()
-  renderCurrentView()
+  setView(currentView)
 })

@@ -1,32 +1,59 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 body {
-  font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Calendar sizing modes */
+#calendar-view.calendar-view--fluid {
+    overflow: hidden;
+}
+
+#calendar-view.calendar-view--fluid > [data-part='calendar-container'] {
+    min-width: 0;
+    min-height: 0;
+    padding-bottom: 0;
+}
+
+#calendar-view.calendar-view--full {
+    overflow: auto;
+}
+
+#calendar-view.calendar-view--full > [data-part='calendar-container'] {
+    min-width: 1200px;
+    min-height: 900px;
+    padding-bottom: 1rem;
+}
+
+@media (min-width: 1024px) {
+    #calendar-view.calendar-view--full > [data-part='calendar-container'] {
+        min-height: 100%;
+    }
 }
 
 /* Hide scrollbar for cleanly styled lists but keep functionality */
 .no-scrollbar::-webkit-scrollbar {
-  display: none;
+    display: none;
 }
 
 .no-scrollbar {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
 }
 
 /* Soft fade-in animation for modals */
 .fade-in {
-  animation: fadeIn 0.2s ease-out forwards;
+    animation: fadeIn 0.2s ease-out forwards;
 }
 
 @keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: scale(0.95);
-  }
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
 
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
 }
