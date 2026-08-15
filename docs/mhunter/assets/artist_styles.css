@@ -132,10 +132,10 @@ main {
   .albums-list {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 64px;
+    gap: 24px;
     transition: 200ms all linear;
     opacity: 1;
+    padding: 0 16px;
 
     .no-results-message {
       text-align: center;
@@ -155,18 +155,17 @@ main {
 
   .album {
     display: flex;
-    flex-direction: column;
     align-items: center;
+    gap: 16px;
 
     .album-cover-art {
-      width: 320px;
+      width: 100px;
       object-fit: cover;
       border-radius: 8px;
     }
 
     .album-name {
-      text-align: center;
-      font-size: 36px;
+      font-size: 20px;
       margin: 0;
 
       a {
@@ -178,13 +177,10 @@ main {
     .album-meta {
       display: flex;
       flex-direction: column;
-      align-items: center;
       gap: 8px;
 
-      p {
-        font-size: 24px;
-
-        span {
+      .album-name {
+        a {
           color: var(--color-meta-blue);
 
           @media (prefers-color-scheme: dark) {
@@ -194,46 +190,8 @@ main {
       }
 
       p.artist-list {
-        font-size: 18px;
-      }
-    }
-
-    .mark-as-viewed-button {
-      background-color: var(--color-light);
-      border-radius: 4px;
-      border: 2px solid var(--color-dark);
-      padding: 12px 8px;
-      margin-top: 8px;
-      color: var(--color-dark);
-      transition:
-        border-color 200ms ease-in,
-        background-color 100ms ease-in;
-      width: 100px;
-
-      @media (prefers-color-scheme: dark) {
-        border: 1px solid var(--color-light);
-        background-color: var(--color-button-dark);
-        color: var(--color-light);
-
-        &:hover {
-          background-color: var(--color-button-dark-hover);
-        }
-      }
-
-      &.is-viewed {
-        background-color: var(--color-selected-lighter-green);
-        border-color: var(--color-selected-lighter-border);
-        color: var(--color-dark);
-
-        @media (prefers-color-scheme: dark) {
-          border: 1px solid var(--color-selected-darker-green);
-          background-color: var(--color-selected-darker-green);
-          color: var(--color-light);
-
-          &:hover {
-            background-color: var(--color-button-dark-hover);
-          }
-        }
+        font-size: 14px;
+        color: var(--color-selected-lighter-border);
       }
     }
   }
