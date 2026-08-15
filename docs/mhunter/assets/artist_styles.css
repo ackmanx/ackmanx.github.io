@@ -67,6 +67,10 @@ main {
     @media (prefers-color-scheme: dark) {
       outline: 2px solid var(--color-light);
     }
+
+    @media (min-width: 800px) {
+      width: 800px;
+    }
   }
 
   .genres {
