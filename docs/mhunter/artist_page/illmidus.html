@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000000">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="manifest" href="../assets/manifest.json">
+    <link rel="icon" href="../assets/favicon.png">
+    <link rel="stylesheet" href="../assets/global_styles.css">
+    <link rel="stylesheet" href="../assets/artist_styles.css">
+    <script src="/analytics.js" defer></script>
+    <title>illmidus</title>
+</head>
+
+<body>
+    <header>
+        <nav><a href="../index.html">Index</a> / illmidus</nav>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+    </header>
+    <main data-artist-name="illmidus" data-albums-count="0"><a class="artist-hero" href="spotify:artist:2lxRmj0k0Odo2DjgeOSE0B"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eba04ac6d5db2d0e5c4cff7428" alt="illmidus"></a>
+        <div class="genres"></div>
+        <div class="filters">
+            <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label></div>
+        </div>
+        <div class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+        </div>
+        <div class="albums-list transparent">
+            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+        </div>
+    </main>
+    <footer><span>Cached On</span>Sat Aug 15 2026</footer>
+    <script type="module" src="../assets/artist_page.js"></script>
+</body>
+
+</html>
