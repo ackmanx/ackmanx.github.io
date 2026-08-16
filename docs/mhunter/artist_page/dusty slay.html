@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / dusty slay</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="dusty slay" data-albums-count="4"><a class="artist-hero" href="spotify:artist:2TKmTiS99CwktgV2lwllpl"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb5d59a8bc660ff2863ebdbeea" alt="dusty slay"></a>
+    <main data-artist-name="dusty slay" data-albums-count="4"><a href="spotify:artist:2TKmTiS99CwktgV2lwllpl"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb5d59a8bc660ff2863ebdbeea" alt="dusty slay"></a>
         <div class="genres">comedy</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2026"><input name="release-year" type="radio" id="2026" value="2026">2026</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
@@ -30,26 +30,34 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2026"><a href="spotify:album:1MQeqao8lZF0Yp1zQ5MM2q"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273e128d1e2dfa73318a64f7cda" alt="workin' man"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:1MQeqao8lZF0Yp1zQ5MM2q">workin' man</a></h2>
-                    <p><span>2026-05-31 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:1MQeqao8lZF0Yp1zQ5MM2q">workin' man</a></h2>
+                        <p>2026-05-31 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="dusty slay" data-album-name="workin' man"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2025"><a href="spotify:album:4lQHmbmxkgjPOBjwPvDo33"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27388db77fa8f2d2c02db8375c8" alt="crock pot comedy"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:4lQHmbmxkgjPOBjwPvDo33">crock pot comedy</a></h2>
-                    <p><span>2025-07-11 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:4lQHmbmxkgjPOBjwPvDo33">crock pot comedy</a></h2>
+                        <p>2025-07-11 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="dusty slay" data-album-name="crock pot comedy"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2017"><a href="spotify:album:13ICZO8wukcgCneFm2yIna"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a8ac8bd60ae7e6b47d3470ef" alt="son of a ditch"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:13ICZO8wukcgCneFm2yIna">son of a ditch</a></h2>
-                    <p><span>2017-02-02 13 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:13ICZO8wukcgCneFm2yIna">son of a ditch</a></h2>
+                        <p>2017-02-02 · 13 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="dusty slay" data-album-name="son of a ditch"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2014"><a href="spotify:album:52cbIgH9U58FFIvqu2mBWv"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737c37cb39aee32191c928ec6c" alt="makin' that fudge"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:52cbIgH9U58FFIvqu2mBWv">makin' that fudge</a></h2>
-                    <p><span>2014-08-24 18 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:52cbIgH9U58FFIvqu2mBWv">makin' that fudge</a></h2>
+                        <p>2014-08-24 · 18 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="dusty slay" data-album-name="makin' that fudge"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

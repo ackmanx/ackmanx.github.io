@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / sombear</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="sombear" data-albums-count="3"><a class="artist-hero" href="spotify:artist:4utnV0ZxDPidklLpyc4JAC"><img class="cover-art large" src="https://i.scdn.co/image/1ba4935e3f1177a32bd57989745b0f86b0015905" alt="sombear"></a>
+    <main data-artist-name="sombear" data-albums-count="3"><a href="spotify:artist:4utnV0ZxDPidklLpyc4JAC"><img class="cover-art large" src="https://i.scdn.co/image/1ba4935e3f1177a32bd57989745b0f86b0015905" alt="sombear"></a>
         <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label></div>
@@ -30,22 +30,28 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2019"><a href="spotify:album:18IEQLK2MPidXwX92eGP0p"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738fbbf560a02fcce8e28a85b5" alt="pacific northwest (remix)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:18IEQLK2MPidXwX92eGP0p">pacific northwest (remix)</a></h2>
-                    <p><span>2019-12-13 1 track</span></p>
-                    <p class="artist-list">with getting by</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:18IEQLK2MPidXwX92eGP0p">pacific northwest (remix)</a></h2>
+                        <p>2019-12-13 · 1 track</p>
+                        <p class="supporting-artists-list">with getting by</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="sombear" data-album-name="pacific northwest (remix)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2014"><a href="spotify:album:6Fy0qJvQ3X34mhzyxBlJTu"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732a48016b0ed4d243d6e72e8b" alt="red bird (sombear remix)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6Fy0qJvQ3X34mhzyxBlJTu">red bird (sombear remix)</a></h2>
-                    <p><span>2014-12-31 1 track</span></p>
-                    <p class="artist-list">with kevin devine</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6Fy0qJvQ3X34mhzyxBlJTu">red bird (sombear remix)</a></h2>
+                        <p>2014-12-31 · 1 track</p>
+                        <p class="supporting-artists-list">with kevin devine</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="sombear" data-album-name="red bird (sombear remix)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2013"><a href="spotify:album:6zkk7SQAGB6GNkz0eTZeKN"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2735ea5bedfe0aca95c1fed787a" alt="love you in the dark"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6zkk7SQAGB6GNkz0eTZeKN">love you in the dark</a></h2>
-                    <p><span>2013-07-23 10 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6zkk7SQAGB6GNkz0eTZeKN">love you in the dark</a></h2>
+                        <p>2013-07-23 · 10 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="sombear" data-album-name="love you in the dark"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

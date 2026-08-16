@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / trümmerfrau</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="trümmerfrau" data-albums-count="3"><a class="artist-hero" href="spotify:artist:1QXaGAtRJt0AWsWXvzxuc3"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273cd3977e93f49c790ec0a438d" alt="trümmerfrau"></a>
+    <main data-artist-name="trümmerfrau" data-albums-count="3"><a href="spotify:artist:1QXaGAtRJt0AWsWXvzxuc3"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273cd3977e93f49c790ec0a438d" alt="trümmerfrau"></a>
         <div class="genres">ebm, industrial</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2008"><input name="release-year" type="radio" id="2008" value="2008">2008</label></div>
@@ -30,20 +30,26 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2014"><a href="spotify:album:2eqxj2cZn57Z2gpT7E46rM"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732b28b23ad8eb386f0223f03a" alt="another song (ed flow remix)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2eqxj2cZn57Z2gpT7E46rM">another song (ed flow remix)</a></h2>
-                    <p><span>2014-01-27 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2eqxj2cZn57Z2gpT7E46rM">another song (ed flow remix)</a></h2>
+                        <p>2014-01-27 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="trümmerfrau" data-album-name="another song (ed flow remix)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2011"><a href="spotify:album:3f6YQ7jltzJxb3NqQHdSAy"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cd3977e93f49c790ec0a438d" alt="geschmacksmusterverletzung"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3f6YQ7jltzJxb3NqQHdSAy">geschmacksmusterverletzung</a></h2>
-                    <p><span>2011-06-17 11 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3f6YQ7jltzJxb3NqQHdSAy">geschmacksmusterverletzung</a></h2>
+                        <p>2011-06-17 · 11 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="trümmerfrau" data-album-name="geschmacksmusterverletzung"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2008"><a href="spotify:album:31SZx7rw4UYzYMQLcbwoM0"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273765b0857316739cc8fccc8cb" alt="músika mottekki"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:31SZx7rw4UYzYMQLcbwoM0">músika mottekki</a></h2>
-                    <p><span>2008-10-08 13 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:31SZx7rw4UYzYMQLcbwoM0">músika mottekki</a></h2>
+                        <p>2008-10-08 · 13 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="trümmerfrau" data-album-name="músika mottekki"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

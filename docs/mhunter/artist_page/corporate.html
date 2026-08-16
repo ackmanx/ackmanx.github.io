@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / corporate</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="corporate" data-albums-count="9"><a class="artist-hero" href="spotify:artist:0MyHfWjRKQIecnhLJfJay7"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebafaeb2d3510d64901101302a" alt="corporate"></a>
+    <main data-artist-name="corporate" data-albums-count="9"><a href="spotify:artist:0MyHfWjRKQIecnhLJfJay7"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebafaeb2d3510d64901101302a" alt="corporate"></a>
         <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label></div>
@@ -30,59 +30,77 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:5xqQwwZSdQNW6JiGzfgikI"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739ed13cca61f5e02c0cadaa96" alt="speak (whowhenwhy remix)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5xqQwwZSdQNW6JiGzfgikI">speak (whowhenwhy remix)</a></h2>
-                    <p><span>2025-04-25 1 track</span></p>
-                    <p class="artist-list">with mickey shiloh, whowhenwhy</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5xqQwwZSdQNW6JiGzfgikI">speak (whowhenwhy remix)</a></h2>
+                        <p>2025-04-25 · 1 track</p>
+                        <p class="supporting-artists-list">with mickey shiloh, whowhenwhy</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="speak (whowhenwhy remix)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2022"><a href="spotify:album:0jx6bbo2WRkgWdYYHYvjkw"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732873b3b703e6a1541fedd340" alt="collateral ep"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0jx6bbo2WRkgWdYYHYvjkw">collateral ep</a></h2>
-                    <p><span>2022-11-11 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0jx6bbo2WRkgWdYYHYvjkw">collateral ep</a></h2>
+                        <p>2022-11-11 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="collateral ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2022"><a href="spotify:album:3OX7CDlxg3fMF5WcWqU0HH"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732fa16a64194a5ab45618a87e" alt="culture shock"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3OX7CDlxg3fMF5WcWqU0HH">culture shock</a></h2>
-                    <p><span>2022-11-04 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3OX7CDlxg3fMF5WcWqU0HH">culture shock</a></h2>
+                        <p>2022-11-04 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="culture shock"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2019"><a href="spotify:album:7p19IvW0QMzVbbK1GtzDuN"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b811313ffd19cc482f32871c" alt="system ep"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7p19IvW0QMzVbbK1GtzDuN">system ep</a></h2>
-                    <p><span>2019-11-11 3 tracks</span></p>
-                    <p class="artist-list">with pedestrian tactics</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7p19IvW0QMzVbbK1GtzDuN">system ep</a></h2>
+                        <p>2019-11-11 · 3 tracks</p>
+                        <p class="supporting-artists-list">with pedestrian tactics</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="system ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:0G0VZ4M72X2AUaOofx3qWl"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27377c7eb25c522f43d1b5d70fa" alt="a6 ep"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0G0VZ4M72X2AUaOofx3qWl">a6 ep</a></h2>
-                    <p><span>2016-10-07 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0G0VZ4M72X2AUaOofx3qWl">a6 ep</a></h2>
+                        <p>2016-10-07 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="a6 ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:0St8SNDBq3SXZr2ahO1Pgh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a15482f9e485350f92903e51" alt="speak"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0St8SNDBq3SXZr2ahO1Pgh">speak</a></h2>
-                    <p><span>2016-09-05 1 track</span></p>
-                    <p class="artist-list">with mickey shiloh</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0St8SNDBq3SXZr2ahO1Pgh">speak</a></h2>
+                        <p>2016-09-05 · 1 track</p>
+                        <p class="supporting-artists-list">with mickey shiloh</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="speak"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:39Gr0XqYlEJE03sxAWOamd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f0cbef21d9ebd415d65e0af1" alt="a5 ep"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:39Gr0XqYlEJE03sxAWOamd">a5 ep</a></h2>
-                    <p><span>2016-04-18 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:39Gr0XqYlEJE03sxAWOamd">a5 ep</a></h2>
+                        <p>2016-04-18 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="a5 ep"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:7b0hxIB9dgfmXUok85YXWR"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27375d89a2755f9d56a514efd4a" alt="t13"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7b0hxIB9dgfmXUok85YXWR">t13</a></h2>
-                    <p><span>2016-02-01 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7b0hxIB9dgfmXUok85YXWR">t13</a></h2>
+                        <p>2016-02-01 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="t13"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2013"><a href="spotify:album:2ml3TFehi32eRRcqLWUmSU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27387732f1ba04943e5cb63864c" alt="ice"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2ml3TFehi32eRRcqLWUmSU">ice</a></h2>
-                    <p><span>2013-11-04 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2ml3TFehi32eRRcqLWUmSU">ice</a></h2>
+                        <p>2013-11-04 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="corporate" data-album-name="ice"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

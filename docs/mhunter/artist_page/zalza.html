@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / zalza</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="zalza" data-albums-count="9"><a class="artist-hero" href="spotify:artist:2Z8uw0b49TctXxO4yLX6GM"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebc3f5663f988a7583a423c8fa" alt="zalza"></a>
+    <main data-artist-name="zalza" data-albums-count="9"><a href="spotify:artist:2Z8uw0b49TctXxO4yLX6GM"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebc3f5663f988a7583a423c8fa" alt="zalza"></a>
         <div class="genres"></div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label></div>
@@ -30,57 +30,75 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2021"><a href="spotify:album:7hbyIQtHf30Do2M27vNoMd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2736b8565432dd947cf6bd6e385" alt="bye"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7hbyIQtHf30Do2M27vNoMd">bye</a></h2>
-                    <p><span>2021-01-30 1 track</span></p>
-                    <p class="artist-list">with trey, nömad</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7hbyIQtHf30Do2M27vNoMd">bye</a></h2>
+                        <p>2021-01-30 · 1 track</p>
+                        <p class="supporting-artists-list">with trey, nömad</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="bye"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2017"><a href="spotify:album:5pj9WqiMrng2f9ymn8EYkw"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2736b53c4314eac84c09dca867d" alt="high roller"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5pj9WqiMrng2f9ymn8EYkw">high roller</a></h2>
-                    <p><span>2017-08-18 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5pj9WqiMrng2f9ymn8EYkw">high roller</a></h2>
+                        <p>2017-08-18 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="high roller"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:0AmWzEjEsncdcao2fhgZEi"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273be32e3f08ad6c96a4b991d75" alt="out of memory"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0AmWzEjEsncdcao2fhgZEi">out of memory</a></h2>
-                    <p><span>2016-12-24 14 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0AmWzEjEsncdcao2fhgZEi">out of memory</a></h2>
+                        <p>2016-12-24 · 14 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="out of memory"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:4IIWMBurkg55ICSK6l3N2E"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2731a1a7b8d715b63c0c3c88f01" alt="superposition"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:4IIWMBurkg55ICSK6l3N2E">superposition</a></h2>
-                    <p><span>2015-03-28 14 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:4IIWMBurkg55ICSK6l3N2E">superposition</a></h2>
+                        <p>2015-03-28 · 14 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="superposition"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:466RvAB4NohJ8pTyCUiv1b"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b65c52f22ef0852bc28ce08e" alt="zalza vs. the world vol. 2"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:466RvAB4NohJ8pTyCUiv1b">zalza vs. the world vol. 2</a></h2>
-                    <p><span>2012-11-22 4 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:466RvAB4NohJ8pTyCUiv1b">zalza vs. the world vol. 2</a></h2>
+                        <p>2012-11-22 · 4 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="zalza vs. the world vol. 2"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:3LY4oAqavJbael8afI29Rj"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273844a70f200d3c2ab1b0dec5f" alt="zalza vs. the world vol. 3"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3LY4oAqavJbael8afI29Rj">zalza vs. the world vol. 3</a></h2>
-                    <p><span>2012-10-26 5 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3LY4oAqavJbael8afI29Rj">zalza vs. the world vol. 3</a></h2>
+                        <p>2012-10-26 · 5 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="zalza vs. the world vol. 3"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:7pWx1v7B8aDhp9jvDZKZkU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737f5c0def6e2d7435bdec3655" alt="zalza vs. the world vol. 1"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7pWx1v7B8aDhp9jvDZKZkU">zalza vs. the world vol. 1</a></h2>
-                    <p><span>2012-09-28 4 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7pWx1v7B8aDhp9jvDZKZkU">zalza vs. the world vol. 1</a></h2>
+                        <p>2012-09-28 · 4 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="zalza vs. the world vol. 1"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:7lpwr04kQRYkXpyVc1Cmc5"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27351c22ec1b0f179044df0d81e" alt="the original 2204355 song - single"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7lpwr04kQRYkXpyVc1Cmc5">the original 2204355 song - single</a></h2>
-                    <p><span>2012-09-25 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7lpwr04kQRYkXpyVc1Cmc5">the original 2204355 song - single</a></h2>
+                        <p>2012-09-25 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="the original 2204355 song - single"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2010"><a href="spotify:album:4TPBVt5qwpe1wYELvmRGrl"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273707f96b62585014ccda64898" alt="back to the chipland"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:4TPBVt5qwpe1wYELvmRGrl">back to the chipland</a></h2>
-                    <p><span>2010-06-10 22 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:4TPBVt5qwpe1wYELvmRGrl">back to the chipland</a></h2>
+                        <p>2010-06-10 · 22 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="zalza" data-album-name="back to the chipland"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

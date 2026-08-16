@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / ex machina</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="ex machina" data-albums-count="4"><a class="artist-hero" href="spotify:artist:0ervG9shMGJvl2Uw2RFmNW"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273411e2c417dea28936110bf41" alt="ex machina"></a>
+    <main data-artist-name="ex machina" data-albums-count="4"><a href="spotify:artist:0ervG9shMGJvl2Uw2RFmNW"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273411e2c417dea28936110bf41" alt="ex machina"></a>
         <div class="genres">synthwave</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label></div>
@@ -30,26 +30,34 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:4C7BApyY0fW1p7EJ48uEr6"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f542f4f635244cf17222c251" alt="odyssey"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:4C7BApyY0fW1p7EJ48uEr6">odyssey</a></h2>
-                    <p><span>2025-11-20 6 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:4C7BApyY0fW1p7EJ48uEr6">odyssey</a></h2>
+                        <p>2025-11-20 · 6 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ex machina" data-album-name="odyssey"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2022"><a href="spotify:album:3DeLGYHnGNyKZlMuyI3lEL"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cb94a118e9a3f907cc711da1" alt="the archaeologist"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3DeLGYHnGNyKZlMuyI3lEL">the archaeologist</a></h2>
-                    <p><span>2022-06-11 13 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3DeLGYHnGNyKZlMuyI3lEL">the archaeologist</a></h2>
+                        <p>2022-06-11 · 13 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ex machina" data-album-name="the archaeologist"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:5Azd2VDb4j866XW1aSbLkl"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273411e2c417dea28936110bf41" alt="transhuman"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5Azd2VDb4j866XW1aSbLkl">transhuman</a></h2>
-                    <p><span>2015-12-30 9 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5Azd2VDb4j866XW1aSbLkl">transhuman</a></h2>
+                        <p>2015-12-30 · 9 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ex machina" data-album-name="transhuman"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:6t4wNT3yHd1hJodtOtBq5E"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273c5d84eafd8b78ebdaac681c8" alt="dystopian dreams"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6t4wNT3yHd1hJodtOtBq5E">dystopian dreams</a></h2>
-                    <p><span>2015-01-09 10 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6t4wNT3yHd1hJodtOtBq5E">dystopian dreams</a></h2>
+                        <p>2015-01-09 · 10 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ex machina" data-album-name="dystopian dreams"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

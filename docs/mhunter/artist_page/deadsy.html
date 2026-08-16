@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / deadsy</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="deadsy" data-albums-count="3"><a class="artist-hero" href="spotify:artist:1RBQSFgtcUFw4LXSw0tUBq"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb9e44dea272fe53432f8ead11" alt="deadsy"></a>
+    <main data-artist-name="deadsy" data-albums-count="3"><a href="spotify:artist:1RBQSFgtcUFw4LXSw0tUBq"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb9e44dea272fe53432f8ead11" alt="deadsy"></a>
         <div class="genres">industrial rock, industrial metal, nu metal, industrial</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label></div>
@@ -30,20 +30,26 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2024"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b1e149bdd2b0adddf79ac30d" alt="(study for a portrait of) napolean in rags"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X">(study for a portrait of) napolean in rags</a></h2>
-                    <p><span>2024-02-08 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X">(study for a portrait of) napolean in rags</a></h2>
+                        <p>2024-02-08 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="(study for a portrait of) napolean in rags"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2006"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ae063206a195712e3b0f17ac" alt="phantasmagore (remastered)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU">phantasmagore (remastered)</a></h2>
-                    <p><span>2006-08-22 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU">phantasmagore (remastered)</a></h2>
+                        <p>2006-08-22 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="phantasmagore (remastered)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="1999"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27308d1ca2926b466dc598d301e" alt="commencement"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD">commencement</a></h2>
-                    <p><span>1999 14 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD">commencement</a></h2>
+                        <p>1999 · 14 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="commencement"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

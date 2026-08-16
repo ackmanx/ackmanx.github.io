@@ -48,13 +48,6 @@ ___________________________________________________*/
 main {
   margin-bottom: 48px;
 
-  .artist-hero {
-    display: block;
-    width: 100%;
-    z-index: 100;
-    margin-bottom: 24px;
-  }
-
   .cover-art {
     height: 332px;
     object-fit: cover;
@@ -75,17 +68,11 @@ main {
 
   .genres {
     color: var(--color-dark);
-    margin: 0 16px;
-    margin-bottom: 16px;
     font-size: 18px;
-    text-align: right;
+    margin: 16px;
 
     @media (prefers-color-scheme: dark) {
       color: var(--color-light);
-
-      span {
-        color: var(--color-meta-yellow);
-      }
     }
   }
 
@@ -159,7 +146,6 @@ main {
 
   .album {
     display: flex;
-    align-items: center;
     gap: 16px;
 
     .album-cover-art {
@@ -179,9 +165,9 @@ main {
     }
 
     .album-meta {
+      width: 100%;
       display: flex;
-      flex-direction: column;
-      gap: 8px;
+      justify-content: space-between;
 
       .album-name {
         a {
@@ -193,10 +179,18 @@ main {
         }
       }
 
-      p.artist-list {
+      .supporting-artists-list {
         font-size: 14px;
-        color: var(--color-selected-lighter-border);
+        color: var(--color-light-again);
       }
+    }
+
+    .mark-as-viewed-button {
+      background-color: transparent;
+      color: var(--color-light);
+      padding: 0;
+      margin: 0;
+      border: none;
     }
   }
 }

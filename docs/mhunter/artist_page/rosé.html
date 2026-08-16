@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / rosé</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="rosé" data-albums-count="6"><a class="artist-hero" href="spotify:artist:3eVa5w3URK5duf6eyVDbu9"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebcfb4350222919670128ff2dc" alt="rosé"></a>
+    <main data-artist-name="rosé" data-albums-count="6"><a href="spotify:artist:3eVa5w3URK5duf6eyVDbu9"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebcfb4350222919670128ff2dc" alt="rosé"></a>
         <div class="genres">k-pop</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label></div>
@@ -30,41 +30,53 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2025"><a href="spotify:album:128pqckLyL3mr3SJwpUZun"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ec955e8f93996f0973d95e53" alt="on my mind"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:128pqckLyL3mr3SJwpUZun">on my mind</a></h2>
-                    <p><span>2025-06-27 1 track</span></p>
-                    <p class="artist-list">with alex warren</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:128pqckLyL3mr3SJwpUZun">on my mind</a></h2>
+                        <p>2025-06-27 · 1 track</p>
+                        <p class="supporting-artists-list">with alex warren</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="on my mind"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2025"><a href="spotify:album:0k428U1kVhDaxhqBP7PbGr"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27327303a68d325216fe413f62c" alt="messy (from f1® the movie)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0k428U1kVhDaxhqBP7PbGr">messy (from f1® the movie)</a></h2>
-                    <p><span>2025-05-08 1 track</span></p>
-                    <p class="artist-list">with f1 the album</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0k428U1kVhDaxhqBP7PbGr">messy (from f1® the movie)</a></h2>
+                        <p>2025-05-08 · 1 track</p>
+                        <p class="supporting-artists-list">with f1 the album</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="messy (from f1® the movie)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2024"><a href="spotify:album:7kFyd5oyJdVX2pIi6P4iHE"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737be65ce6672ed7e5aac6e966" alt="rosie"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7kFyd5oyJdVX2pIi6P4iHE">rosie</a></h2>
-                    <p><span>2024-12-06 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7kFyd5oyJdVX2pIi6P4iHE">rosie</a></h2>
+                        <p>2024-12-06 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="rosie"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2024"><a href="spotify:album:5R7uaKp0OOVFhcAruLmi2G"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737490ce741ff262f063410149" alt="number one girl"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5R7uaKp0OOVFhcAruLmi2G">number one girl</a></h2>
-                    <p><span>2024-11-22 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5R7uaKp0OOVFhcAruLmi2G">number one girl</a></h2>
+                        <p>2024-11-22 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="number one girl"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2024"><a href="spotify:album:2IYQwwgxgOIn7t3iF6ufFD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a" alt="apt."></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2IYQwwgxgOIn7t3iF6ufFD">apt.</a></h2>
-                    <p><span>2024-10-18 1 track</span></p>
-                    <p class="artist-list">with bruno mars</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2IYQwwgxgOIn7t3iF6ufFD">apt.</a></h2>
+                        <p>2024-10-18 · 1 track</p>
+                        <p class="supporting-artists-list">with bruno mars</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="apt."></button>
                 </div>
             </section>
             <section class="album" data-release-year="2021"><a href="spotify:album:5BQcoDfcZ8aBcikYX9B7Ob"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="r"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5BQcoDfcZ8aBcikYX9B7Ob">r</a></h2>
-                    <p><span>2021-03-12 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5BQcoDfcZ8aBcikYX9B7Ob">r</a></h2>
+                        <p>2021-03-12 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="rosé" data-album-name="r"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / hitchhiker</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="hitchhiker" data-albums-count="15"><a class="artist-hero" href="spotify:artist:5ePDPFrSdmaieYrKrPDJPx"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebefc0f35f729fb661b94d5e35" alt="hitchhiker"></a>
+    <main data-artist-name="hitchhiker" data-albums-count="15"><a href="spotify:artist:5ePDPFrSdmaieYrKrPDJPx"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebefc0f35f729fb661b94d5e35" alt="hitchhiker"></a>
         <div class="genres">noise music</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2026"><input name="release-year" type="radio" id="2026" value="2026">2026</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
@@ -30,97 +30,127 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2026"><a href="spotify:album:7d4oHMJid03U8y9kloX9mw"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27399817bb350e2b986e60e353b" alt="iona"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7d4oHMJid03U8y9kloX9mw">iona</a></h2>
-                    <p><span>2026-06-19 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7d4oHMJid03U8y9kloX9mw">iona</a></h2>
+                        <p>2026-06-19 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="iona"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2022"><a href="spotify:album:5n8uUHa8zfnpWBjrFwAxNG"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734bb7e0f9b676776f4a676ba2" alt="alone"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5n8uUHa8zfnpWBjrFwAxNG">alone</a></h2>
-                    <p><span>2022-01-07 2 tracks</span></p>
-                    <p class="artist-list">with 3rd</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5n8uUHa8zfnpWBjrFwAxNG">alone</a></h2>
+                        <p>2022-01-07 · 2 tracks</p>
+                        <p class="supporting-artists-list">with 3rd</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="alone"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2021"><a href="spotify:album:6f8Coii7w0nJi3TKVMXoWk"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27302191556c0f11c17512e0438" alt="iscream vol.9 : hot sauce remixes"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6f8Coii7w0nJi3TKVMXoWk">iscream vol.9 : hot sauce remixes</a></h2>
-                    <p><span>2021-06-10 2 tracks</span></p>
-                    <p class="artist-list">with nct dream, minimonster</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6f8Coii7w0nJi3TKVMXoWk">iscream vol.9 : hot sauce remixes</a></h2>
+                        <p>2021-06-10 · 2 tracks</p>
+                        <p class="supporting-artists-list">with nct dream, minimonster</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="iscream vol.9 : hot sauce remixes"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2020"><a href="spotify:album:2y4mpiNDgi8hW3DXrD01Ru"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f5de23f11d730b10bee8e2f2" alt="shake it"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2y4mpiNDgi8hW3DXrD01Ru">shake it</a></h2>
-                    <p><span>2020-07-20 1 track</span></p>
-                    <p class="artist-list">with meaux green</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2y4mpiNDgi8hW3DXrD01Ru">shake it</a></h2>
+                        <p>2020-07-20 · 1 track</p>
+                        <p class="supporting-artists-list">with meaux green</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="shake it"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2020"><a href="spotify:album:0Fxi6YHJ79iyYj8bdwhyLN"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a16b336b8710ff88f1049fee" alt="sugar - sm station"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0Fxi6YHJ79iyYj8bdwhyLN">sugar - sm station</a></h2>
-                    <p><span>2020-05-15 2 tracks</span></p>
-                    <p class="artist-list">with sokodomo</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0Fxi6YHJ79iyYj8bdwhyLN">sugar - sm station</a></h2>
+                        <p>2020-05-15 · 2 tracks</p>
+                        <p class="supporting-artists-list">with sokodomo</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="sugar - sm station"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2019"><a href="spotify:album:1lbRacjt8u3j3pPi9g1NE6"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27377ca32c7fe642b11b9cec299" alt="nada"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:1lbRacjt8u3j3pPi9g1NE6">nada</a></h2>
-                    <p><span>2019-05-23 2 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:1lbRacjt8u3j3pPi9g1NE6">nada</a></h2>
+                        <p>2019-05-23 · 2 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="nada"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:6P7iIJQNA1zZ53rlo8E6ei"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730978604b4562aaa1da69ab6b" alt="4lines"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6P7iIJQNA1zZ53rlo8E6ei">4lines</a></h2>
-                    <p><span>2018-12-19 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6P7iIJQNA1zZ53rlo8E6ei">4lines</a></h2>
+                        <p>2018-12-19 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="4lines"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:6BPoSoEhp81iEr9KhIFS2e"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273fd5a0ed15e073ae4f4e50d09" alt="time"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6BPoSoEhp81iEr9KhIFS2e">time</a></h2>
-                    <p><span>2018-08-29 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6BPoSoEhp81iEr9KhIFS2e">time</a></h2>
+                        <p>2018-08-29 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="time"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:0SHIbwF3e3NmjNVGSigQyU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273e730945214a9533dfcaa915b" alt="chaos"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0SHIbwF3e3NmjNVGSigQyU">chaos</a></h2>
-                    <p><span>2018-06-08 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0SHIbwF3e3NmjNVGSigQyU">chaos</a></h2>
+                        <p>2018-06-08 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="chaos"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:1wIvVfyaF41yRxaNBvnZ2B"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737d93c23347e3571c18c6b704" alt="omg"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:1wIvVfyaF41yRxaNBvnZ2B">omg</a></h2>
-                    <p><span>2018-05-25 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:1wIvVfyaF41yRxaNBvnZ2B">omg</a></h2>
+                        <p>2018-05-25 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="omg"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2018"><a href="spotify:album:486qSoKDggEhNdY4KDKNDL"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738af91c3fc8987d47d7892116" alt="ah"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:486qSoKDggEhNdY4KDKNDL">ah</a></h2>
-                    <p><span>2018-05-17 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:486qSoKDggEhNdY4KDKNDL">ah</a></h2>
+                        <p>2018-05-17 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="ah"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2017"><a href="spotify:album:5q5i2CwIgkbhJzY25Oga5v"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2731785bc0c090259c647f8710c" alt="around - sm station"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5q5i2CwIgkbhJzY25Oga5v">around - sm station</a></h2>
-                    <p><span>2017-05-12 2 tracks</span></p>
-                    <p class="artist-list">with taeyong</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5q5i2CwIgkbhJzY25Oga5v">around - sm station</a></h2>
+                        <p>2017-05-12 · 2 tracks</p>
+                        <p class="supporting-artists-list">with taeyong</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="around - sm station"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2016"><a href="spotify:album:6gAu82bWVzZ5Wo4CwOGvBm"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27308af72382c0d1993653fa236" alt="$10 - sm station"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6gAu82bWVzZ5Wo4CwOGvBm">$10 - sm station</a></h2>
-                    <p><span>2016-09-02 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6gAu82bWVzZ5Wo4CwOGvBm">$10 - sm station</a></h2>
+                        <p>2016-09-02 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="$10 - sm station"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:2z8fNKhSBZxrt4LgZJJzpa"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273507276b4c916fe80a1f94d5a" alt="11(eleven) hitchhiker remix"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2z8fNKhSBZxrt4LgZJJzpa">11(eleven) hitchhiker remix</a></h2>
-                    <p><span>2015-01-30 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2z8fNKhSBZxrt4LgZJJzpa">11(eleven) hitchhiker remix</a></h2>
+                        <p>2015-01-30 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="11(eleven) hitchhiker remix"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2014"><a href="spotify:album:2fVXtK2nGjttuG7o6vWG1N"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273dde17201046dc5c88414548a" alt="11 (eleven)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2fVXtK2nGjttuG7o6vWG1N">11 (eleven)</a></h2>
-                    <p><span>2014-09-12 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2fVXtK2nGjttuG7o6vWG1N">11 (eleven)</a></h2>
+                        <p>2014-09-12 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="hitchhiker" data-album-name="11 (eleven)"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

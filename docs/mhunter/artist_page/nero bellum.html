@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / nero bellum</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="nero bellum" data-albums-count="2"><a class="artist-hero" href="spotify:artist:4xo3jXN0qflZWFC84IBeLO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"></a>
+    <main data-artist-name="nero bellum" data-albums-count="2"><a href="spotify:artist:4xo3jXN0qflZWFC84IBeLO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nero bellum"></a>
         <div class="genres">noise music, industrial, ebm, industrial metal</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label></div>
@@ -30,14 +30,18 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2020"><a href="spotify:album:5ds7hmzf9LdqMDU1hgiSML"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730403f6e4fcbf0cf3100c3e3f" alt="the voice of your blood cries to me from the soil"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5ds7hmzf9LdqMDU1hgiSML">the voice of your blood cries to me from the soil</a></h2>
-                    <p><span>2020-09-11 10 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5ds7hmzf9LdqMDU1hgiSML">the voice of your blood cries to me from the soil</a></h2>
+                        <p>2020-09-11 · 10 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="nero bellum" data-album-name="the voice of your blood cries to me from the soil"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2019"><a href="spotify:album:3w41e7R76TBST08zpLeHzt"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2" alt="nfrnº"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3w41e7R76TBST08zpLeHzt">nfrnº</a></h2>
-                    <p><span>2019-05-24 11 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3w41e7R76TBST08zpLeHzt">nfrnº</a></h2>
+                        <p>2019-05-24 · 11 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="nero bellum" data-album-name="nfrnº"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

@@ -37,25 +37,28 @@ if (!$main.dataset.artistName) {
     throw new Error('You did the impossible. Artist name is not found on the `main` element');
 }
 const artist = await fetch_artist_viewed($main.dataset.artistName);
-window.__artist = artist ?? {
-    name: $main.dataset.artistName,
-    viewed: []
-};
-window.__filter = {
-    release_year: 'all',
-    viewed_status: 'all'
+window.mhunter = {
+    artist: artist ?? {
+        name: $main.dataset.artistName,
+        viewed: []
+    },
+    filter: {
+        release_year: 'all',
+        viewed_status: 'all'
+    }
 };
 const $mark_viewed_buttons = $$('.mark-as-viewed-button');
 $mark_viewed_buttons.forEach(($button)=>{
-    $button.addEventListener('click', toggle_viewed_status);
+    $button.addEventListener('click', mark_album_viewed_status);
     if (!$button.dataset.albumName) {
-        throw new Error('You did the impossible. Album name is not found one of the `button` elements');
+        throw new Error('You did the impossible. Album name is not found');
     }
-    if (window.__artist.viewed.includes($button.dataset.albumName)) {
-        $button.innerHTML = 'Viewed';
+    if (window.mhunter.artist.viewed.includes($button.dataset.albumName)) {
+        $button.innerHTML = '✔ Viewed';
         $button.classList.add('is-viewed');
     } else {
-        $button.innerHTML = 'New';
+        $button.innerHTML = '○ Mark viewed';
+        $button.classList.remove('is-viewed');
     }
 });
 const $year_filters = $$('input[name="release-year"]');
@@ -66,50 +69,49 @@ const $viewed_filters = $$('input[name="view-status-filter"]');
 $viewed_filters.forEach(($input)=>{
     $input.addEventListener('click', filter_by_viewed_status);
 });
+const current_viewed_status_filter = $('input[name="view-status-filter"]:checked');
 filter_by_viewed_status({
-    currentTarget: {
-        value: 'new'
-    }
+    currentTarget: current_viewed_status_filter
 });
 $('.loading-spinner-container')?.classList.add('hidden');
 $('.albums-list')?.classList.remove('transparent');
 function filter_by_year(event) {
     const $radio_input = event.currentTarget;
-    window.__filter.release_year = $radio_input.value;
+    window.mhunter.filter.release_year = $radio_input.value;
     filter_albums();
 }
 function filter_by_viewed_status(event) {
     const $radio_input = event.currentTarget;
-    window.__filter.viewed_status = $radio_input.value;
+    window.mhunter.filter.viewed_status = $radio_input.value;
     filter_albums();
 }
-async function toggle_viewed_status(event) {
+async function mark_album_viewed_status(event) {
     const $button = event.currentTarget;
-    const artist = window.__artist;
+    const artist = window.mhunter.artist;
     if (!$button.dataset.albumName) {
         throw new Error('You did the impossible. Album name is not found one of the `button` elements');
+    }
+    if ($button.classList.contains('is-viewed')) {
+        const album_index = artist.viewed.indexOf($button.dataset.albumName);
+        artist.viewed.splice(album_index, 1);
+        $button.innerHTML = '○ Mark viewed';
+        $button.classList.remove('is-viewed');
+    } else {
+        artist.viewed.push($button.dataset.albumName);
+        artist.viewed.sort();
+        $button.innerHTML = '✔ Viewed';
+        $button.classList.add('is-viewed');
     }
     const response_body = await update_artist_viewed(artist.name, artist.viewed);
     if (response_body.message) {
         console.error(response_body.message);
         return;
     }
-    if ($button.classList.contains('is-viewed')) {
-        const album_index = artist.viewed.indexOf($button.dataset.albumName);
-        artist.viewed.splice(album_index, 1);
-        $button.innerHTML = 'New';
-        $button.classList.remove('is-viewed');
-    } else {
-        artist.viewed.push($button.dataset.albumName);
-        artist.viewed.sort();
-        $button.innerHTML = 'Viewed';
-        $button.classList.add('is-viewed');
-    }
     filter_albums();
 }
 function filter_albums() {
-    const release_year = window.__filter.release_year;
-    const viewed_status = window.__filter.viewed_status;
+    const release_year = window.mhunter.filter.release_year;
+    const viewed_status = window.mhunter.filter.viewed_status;
     if (release_year === 'all' && viewed_status === 'all') {
         for (const $album of $$('.album')){
             $album.classList.remove('hidden');
@@ -157,8 +159,8 @@ function filter_albums() {
     const all_albums_count = Number($main?.dataset.albumsCount);
     const all_hidden_albums = $$('.album.hidden');
     if (all_albums_count === all_hidden_albums.length) {
-        $('#no-results-year-filter').innerHTML = window.__filter.release_year;
-        $('#no-results-viewed-status-filter').innerHTML = window.__filter.viewed_status;
+        $('#no-results-year-filter').innerHTML = window.mhunter.filter.release_year;
+        $('#no-results-viewed-status-filter').innerHTML = window.mhunter.filter.viewed_status;
         $('.no-results-message')?.classList.remove('hidden');
     } else {
         $('.no-results-message')?.classList.add('hidden');

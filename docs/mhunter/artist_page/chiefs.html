@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / chiefs</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="chiefs" data-albums-count="5"><a class="artist-hero" href="spotify:artist:4azvTMyFn1SRGUsaEeMtKO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273522a347a1e4035032d607a52" alt="chiefs"></a>
+    <main data-artist-name="chiefs" data-albums-count="5"><a href="spotify:artist:4azvTMyFn1SRGUsaEeMtKO"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273522a347a1e4035032d607a52" alt="chiefs"></a>
         <div class="genres">future bass</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
@@ -30,34 +30,44 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2016"><a href="spotify:album:5qWgCRjM8nf56Tx8FFhw1Q"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27344364c4b27af2a06a37fd97a" alt="eleven"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:5qWgCRjM8nf56Tx8FFhw1Q">eleven</a></h2>
-                    <p><span>2016-01-11 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:5qWgCRjM8nf56Tx8FFhw1Q">eleven</a></h2>
+                        <p>2016-01-11 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="chiefs" data-album-name="eleven"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:6s30otXzUYeCm1LmtHp4Ge"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273600d0ff4076af094af3339a6" alt="demon"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:6s30otXzUYeCm1LmtHp4Ge">demon</a></h2>
-                    <p><span>2015-07-15 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:6s30otXzUYeCm1LmtHp4Ge">demon</a></h2>
+                        <p>2015-07-15 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="chiefs" data-album-name="demon"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:1YZQif8ffX6stCpveQcOne"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273381078120926ca2ab7ae95e2" alt="what u do"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:1YZQif8ffX6stCpveQcOne">what u do</a></h2>
-                    <p><span>2015-03-10 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:1YZQif8ffX6stCpveQcOne">what u do</a></h2>
+                        <p>2015-03-10 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="chiefs" data-album-name="what u do"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2015"><a href="spotify:album:50yx8Iw89dOqpg23YDOq0J"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273522a347a1e4035032d607a52" alt="inside outside (remixes)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:50yx8Iw89dOqpg23YDOq0J">inside outside (remixes)</a></h2>
-                    <p><span>2015-01-06 3 tracks</span></p>
-                    <p class="artist-list">with nick acquroff</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:50yx8Iw89dOqpg23YDOq0J">inside outside (remixes)</a></h2>
+                        <p>2015-01-06 · 3 tracks</p>
+                        <p class="supporting-artists-list">with nick acquroff</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="chiefs" data-album-name="inside outside (remixes)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2014"><a href="spotify:album:58ReBB6UXu7xQ2MJAvuwS4"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273fe1539aea9df7f21831cb927" alt="inside outside"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:58ReBB6UXu7xQ2MJAvuwS4">inside outside</a></h2>
-                    <p><span>2014-11-17 5 tracks</span></p>
-                    <p class="artist-list">with nick acquroff</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:58ReBB6UXu7xQ2MJAvuwS4">inside outside</a></h2>
+                        <p>2014-11-17 · 5 tracks</p>
+                        <p class="supporting-artists-list">with nick acquroff</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="chiefs" data-album-name="inside outside"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / sushi killer</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="sushi killer" data-albums-count="2"><a class="artist-hero" href="spotify:artist:4dljuICglLYdFmk4dXtfUa"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273d9c8c6ab1d88f832a59fd608" alt="sushi killer"></a>
+    <main data-artist-name="sushi killer" data-albums-count="2"><a href="spotify:artist:4dljuICglLYdFmk4dXtfUa"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273d9c8c6ab1d88f832a59fd608" alt="sushi killer"></a>
         <div class="genres">future bass</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2015"><input name="release-year" type="radio" id="2015" value="2015">2015</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label></div>
@@ -30,16 +30,20 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2015"><a href="spotify:album:37uHBMzICdMnENHF8aytqd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27305bccaf5a3292bee506f4ff2" alt="ohana (sushi killer remix)"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:37uHBMzICdMnENHF8aytqd">ohana (sushi killer remix)</a></h2>
-                    <p><span>2015-09-04 1 track</span></p>
-                    <p class="artist-list">with vena cava</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:37uHBMzICdMnENHF8aytqd">ohana (sushi killer remix)</a></h2>
+                        <p>2015-09-04 · 1 track</p>
+                        <p class="supporting-artists-list">with vena cava</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="sushi killer" data-album-name="ohana (sushi killer remix)"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2014"><a href="spotify:album:3VeB3svxVPUaXgcgVdcMN3"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273d9c8c6ab1d88f832a59fd608" alt="anime bae"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3VeB3svxVPUaXgcgVdcMN3">anime bae</a></h2>
-                    <p><span>2014-10-20 1 track</span></p>
-                    <p class="artist-list">with kevin villecco</p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3VeB3svxVPUaXgcgVdcMN3">anime bae</a></h2>
+                        <p>2014-10-20 · 1 track</p>
+                        <p class="supporting-artists-list">with kevin villecco</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="sushi killer" data-album-name="anime bae"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

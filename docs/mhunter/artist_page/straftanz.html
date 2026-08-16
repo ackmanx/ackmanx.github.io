@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / straftanz</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="straftanz" data-albums-count="4"><a class="artist-hero" href="spotify:artist:2A7wOjGoGRwaT3rY6UqgXd"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273eb6cfa485300e225c7430e9a" alt="straftanz"></a>
+    <main data-artist-name="straftanz" data-albums-count="4"><a href="spotify:artist:2A7wOjGoGRwaT3rY6UqgXd"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273eb6cfa485300e225c7430e9a" alt="straftanz"></a>
         <div class="genres">ebm, industrial, darkwave</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2008"><input name="release-year" type="radio" id="2008" value="2008">2008</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label></div>
@@ -30,26 +30,34 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2011"><a href="spotify:album:14lFeX6YfMigzj4XxFDlqE"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732e12215c3bc3440d62e21cb0" alt="mainstream sellout overground"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:14lFeX6YfMigzj4XxFDlqE">mainstream sellout overground</a></h2>
-                    <p><span>2011-10-11 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:14lFeX6YfMigzj4XxFDlqE">mainstream sellout overground</a></h2>
+                        <p>2011-10-11 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="straftanz" data-album-name="mainstream sellout overground"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2008"><a href="spotify:album:027oxhotI2fO9mpRjNIyaZ"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27318a47d922d94b8acbfba7743" alt="forward ever, backward never"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:027oxhotI2fO9mpRjNIyaZ">forward ever, backward never</a></h2>
-                    <p><span>2008-07-04 12 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:027oxhotI2fO9mpRjNIyaZ">forward ever, backward never</a></h2>
+                        <p>2008-07-04 · 12 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="straftanz" data-album-name="forward ever, backward never"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2008"><a href="spotify:album:239zoGm40bSACEGJc68HiJ"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273eb6cfa485300e225c7430e9a" alt="tanzt kaputt, was euch kaputt macht!"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:239zoGm40bSACEGJc68HiJ">tanzt kaputt, was euch kaputt macht!</a></h2>
-                    <p><span>2008-07-04 7 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:239zoGm40bSACEGJc68HiJ">tanzt kaputt, was euch kaputt macht!</a></h2>
+                        <p>2008-07-04 · 7 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="straftanz" data-album-name="tanzt kaputt, was euch kaputt macht!"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2006"><a href="spotify:album:3Um1PO7grs9M0o4n6y8kuz"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27313664e34d5756e5b9e7fe646" alt="straftanz"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:3Um1PO7grs9M0o4n6y8kuz">straftanz</a></h2>
-                    <p><span>2006-10-20 6 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:3Um1PO7grs9M0o4n6y8kuz">straftanz</a></h2>
+                        <p>2006-10-20 · 6 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="straftanz" data-album-name="straftanz"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

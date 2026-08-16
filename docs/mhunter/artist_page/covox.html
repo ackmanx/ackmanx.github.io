@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / covox</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="covox" data-albums-count="2"><a class="artist-hero" href="spotify:artist:2aYQ5jggFTNykHeemiVDFP"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273d909518ae5e4ab670999882a" alt="covox"></a>
+    <main data-artist-name="covox" data-albums-count="2"><a href="spotify:artist:2aYQ5jggFTNykHeemiVDFP"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b273d909518ae5e4ab670999882a" alt="covox"></a>
         <div class="genres">synthwave</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label></div>
@@ -30,14 +30,18 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2023"><a href="spotify:album:0h6RTXtRR3jur2CeEeH5IM"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273269abe0653c7a91ec7ff8849" alt="rewind"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0h6RTXtRR3jur2CeEeH5IM">rewind</a></h2>
-                    <p><span>2023-04-28 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0h6RTXtRR3jur2CeEeH5IM">rewind</a></h2>
+                        <p>2023-04-28 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="covox" data-album-name="rewind"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2012"><a href="spotify:album:2MjRdj9FReAnBRW3qNP5IG"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273d909518ae5e4ab670999882a" alt="strike ep"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2MjRdj9FReAnBRW3qNP5IG">strike ep</a></h2>
-                    <p><span>2012-10-12 3 tracks</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2MjRdj9FReAnBRW3qNP5IG">strike ep</a></h2>
+                        <p>2012-10-12 · 3 tracks</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="covox" data-album-name="strike ep"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>

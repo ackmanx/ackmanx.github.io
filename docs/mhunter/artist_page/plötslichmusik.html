@@ -17,9 +17,9 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / plötslichmusik</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
+        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all" checked>everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new">new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="plötslichmusik" data-albums-count="4"><a class="artist-hero" href="spotify:artist:4cZpGu1xT78Bd3yrY4Ruob"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb10614a4b1f01101fb3fb7802" alt="plötslichmusik"></a>
+    <main data-artist-name="plötslichmusik" data-albums-count="4"><a href="spotify:artist:4cZpGu1xT78Bd3yrY4Ruob"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb10614a4b1f01101fb3fb7802" alt="plötslichmusik"></a>
         <div class="genres">ebm</div>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label></div>
@@ -30,26 +30,34 @@
         <div class="albums-list transparent">
             <section class="album" data-release-year="2022"><a href="spotify:album:7sov83hFb92DmsiqYXzVBH"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27309b48e3a4bfbc05939740c3c" alt="geburtstag"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:7sov83hFb92DmsiqYXzVBH">geburtstag</a></h2>
-                    <p><span>2022-05-30 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:7sov83hFb92DmsiqYXzVBH">geburtstag</a></h2>
+                        <p>2022-05-30 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="plötslichmusik" data-album-name="geburtstag"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2006"><a href="spotify:album:2Ol62qcK4fJ2hLDUleQXMD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273148305cb4fcfa1883e440459" alt="keine stabilität"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:2Ol62qcK4fJ2hLDUleQXMD">keine stabilität</a></h2>
-                    <p><span>2006-01-01 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:2Ol62qcK4fJ2hLDUleQXMD">keine stabilität</a></h2>
+                        <p>2006-01-01 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="plötslichmusik" data-album-name="keine stabilität"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2005"><a href="spotify:album:0CJ9yxwD8dl6jk3jQ4Hu6Z"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27327658429ae94b7b393ef0ecc" alt="das alphabet"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:0CJ9yxwD8dl6jk3jQ4Hu6Z">das alphabet</a></h2>
-                    <p><span>2005-01-01 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:0CJ9yxwD8dl6jk3jQ4Hu6Z">das alphabet</a></h2>
+                        <p>2005-01-01 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="plötslichmusik" data-album-name="das alphabet"></button>
                 </div>
             </section>
             <section class="album" data-release-year="2005"><a href="spotify:album:1rvLqtAS7YxYSSmHzQt2tB"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2737d6fa2a61d6c5f7af85a26de" alt="wasserliebe"></a>
                 <div class="album-meta">
-                    <h2 class="album-name"><a href="spotify:album:1rvLqtAS7YxYSSmHzQt2tB">wasserliebe</a></h2>
-                    <p><span>2005-01-01 1 track</span></p>
+                    <div>
+                        <h2 class="album-name"><a href="spotify:album:1rvLqtAS7YxYSSmHzQt2tB">wasserliebe</a></h2>
+                        <p>2005-01-01 · 1 track</p>
+                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="plötslichmusik" data-album-name="wasserliebe"></button>
                 </div>
             </section>
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
