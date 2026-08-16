@@ -11,10 +11,19 @@ ___________________________________________________*/
 
 main {
   margin: 0;
+
+  @media (min-width: 800px) {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .artist-card {
   padding: 8px 24px;
+
+  @media (min-width: 800px) {
+    width: 500px;
+  }
 }
 
 .artist-card:nth-child(even of .artist-card:not(.hidden)) {
@@ -29,8 +38,8 @@ main {
   margin: 0;
 
   .artist-cover {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
 
     object-fit: cover;
     border-radius: 8px;
