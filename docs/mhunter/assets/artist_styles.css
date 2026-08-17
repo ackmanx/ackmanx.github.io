@@ -60,8 +60,15 @@ main {
     @media (prefers-color-scheme: dark) {
       border: 2px solid var(--color-light);
     }
+  }
 
-    @media (min-width: 800px) {
+  @media (min-width: 800px) {
+    a.hero {
+      width: 800px;
+      display: block;
+    }
+
+    .cover-art {
       width: 800px;
     }
   }
@@ -147,6 +154,14 @@ main {
   .album {
     display: flex;
     gap: 16px;
+    transition: transform 150ms ease-out;
+
+    &:hover,
+    &:focus-within {
+      transform: scale(1.05);
+      outline: 2px solid black;
+      border-radius: 4px;
+    }
 
     .album-cover-art {
       width: 100px;
@@ -181,16 +196,24 @@ main {
 
       .supporting-artists-list {
         font-size: 14px;
-        color: var(--color-light-again);
+        color: var(--color-button-dark-hover);
+
+        @media (prefers-color-scheme: dark) {
+          color: var(--color-light-again);
+        }
       }
     }
 
     .mark-as-viewed-button {
       background-color: transparent;
-      color: var(--color-light);
+      color: var(--color-dark);
       padding: 0;
       margin: 0;
       border: none;
+
+      @media (prefers-color-scheme: dark) {
+        color: var(--color-light);
+      }
     }
   }
 }
