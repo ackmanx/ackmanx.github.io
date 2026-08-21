@@ -49,11 +49,7 @@ footer {
   background-color: var(--color-button-dark);
 
   span {
-    color: var(--color-meta-blue);
     margin-right: 4px;
-
-    @media (prefers-color-scheme: dark) {
-      color: var(--color-meta-yellow);
-    }
+    color: var(--color-meta-yellow);
   }
 }

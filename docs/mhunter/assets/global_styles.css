@@ -37,12 +37,8 @@ html {
 ___________________________________________________*/
 body {
   margin: 0;
-  background-color: var(--color-light);
-
-  @media (prefers-color-scheme: dark) {
-    background-color: var(--color-dark);
-    color: var(--color-light);
-  }
+  background-color: var(--color-dark);
+  color: var(--color-light);
 }
 
 p {
@@ -76,12 +72,8 @@ a:visited,
 a:active,
 a:link,
 a:hover {
-  color: var(--color-dark);
+  color: var(--color-light);
   text-decoration: none;
-
-  @media (prefers-color-scheme: dark) {
-    color: var(--color-light);
-  }
 }
 
 .loading-spinner {

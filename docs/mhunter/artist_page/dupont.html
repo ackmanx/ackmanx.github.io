@@ -19,8 +19,7 @@
         <nav><a href="../index.html">Index</a> / dupont</nav>
         <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="dupont" data-albums-count="4"><a class="hero" href="spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"><img class="cover-art large" src="https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549" alt="dupont"></a>
-        <div class="genres">ebm, industrial, synthpop, darkwave</div>
+    <main data-artist-name="dupont" data-albums-count="4"><a class="artist-link" href="spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"></a>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2026"><input name="release-year" type="radio" id="2026" value="2026">2026</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label></div>
         </div>
@@ -63,7 +62,9 @@
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
-    <footer><span>Cached On</span>Sat Aug 15 2026</footer>
+    <footer>
+        <div class="genres">ebm, industrial, synthpop, darkwave</div><span>Cached On</span>Sat Aug 15 2026
+    </footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

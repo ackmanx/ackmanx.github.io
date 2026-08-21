@@ -19,8 +19,7 @@
         <nav><a href="../index.html">Index</a> / binärpilot</nav>
         <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="binärpilot" data-albums-count="5"><a class="hero" href="spotify:artist:7h7YbSISHutpSg3XJt831S"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb3a1cb5ede4bc3a8a27c7647f" alt="binärpilot"></a>
-        <div class="genres"></div>
+    <main data-artist-name="binärpilot" data-albums-count="5"><a class="artist-link" href="spotify:artist:7h7YbSISHutpSg3XJt831S"></a>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="2005"><input name="release-year" type="radio" id="2005" value="2005">2005</label></div>
         </div>
@@ -71,7 +70,9 @@
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
-    <footer><span>Cached On</span>Sat Aug 15 2026</footer>
+    <footer>
+        <div class="genres"></div><span>Cached On</span>Sat Aug 15 2026
+    </footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

@@ -19,8 +19,7 @@
         <nav><a href="../index.html">Index</a> / corporate</nav>
         <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="corporate" data-albums-count="9"><a class="hero" href="spotify:artist:0MyHfWjRKQIecnhLJfJay7"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5ebafaeb2d3510d64901101302a" alt="corporate"></a>
-        <div class="genres"></div>
+    <main data-artist-name="corporate" data-albums-count="9"><a class="artist-link" href="spotify:artist:0MyHfWjRKQIecnhLJfJay7"></a>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label></div>
         </div>
@@ -106,7 +105,9 @@
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
-    <footer><span>Cached On</span>Sat Aug 15 2026</footer>
+    <footer>
+        <div class="genres"></div><span>Cached On</span>Sat Aug 15 2026
+    </footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 

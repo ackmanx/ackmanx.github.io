@@ -19,8 +19,7 @@
         <nav><a href="../index.html">Index</a> / dissociate</nav>
         <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="dissociate" data-albums-count="3"><a class="hero" href="spotify:artist:2jaduQUJ49zB6K8ooeVtEs"><img class="cover-art large" src="https://i.scdn.co/image/ab6761610000e5eb070178a17aff23694ed4e2d8" alt="dissociate"></a>
-        <div class="genres"></div>
+    <main data-artist-name="dissociate" data-albums-count="3"><a class="artist-link" href="spotify:artist:2jaduQUJ49zB6K8ooeVtEs"></a>
         <div class="filters">
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
         </div>
@@ -55,7 +54,9 @@
             <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         </div>
     </main>
-    <footer><span>Cached On</span>Sat Aug 15 2026</footer>
+    <footer>
+        <div class="genres"></div><span>Cached On</span>Sat Aug 15 2026
+    </footer>
     <script type="module" src="../assets/artist_page.js"></script>
 </body>
 
