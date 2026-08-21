@@ -1,4 +1,14 @@
 /*___________________________________________________
+| Header
+___________________________________________________*/
+header {
+  text-align: right;
+  padding: 16px;
+  color: var(--color-light);
+  background-color: var(--color-button-dark);
+}
+
+/*___________________________________________________
 | Main
 ___________________________________________________*/
 .hidden {
@@ -10,58 +20,22 @@ ___________________________________________________*/
 }
 
 main {
-  margin: 0;
-
-  @media (min-width: 800px) {
-    display: flex;
-    flex-wrap: wrap;
-  }
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
 }
 
 .artist-card {
-  padding: 8px 24px;
-  transition: transform 150ms ease-out;
-
-  @media (min-width: 800px) {
-    width: 500px;
-  }
-}
-
-.artist-card:nth-child(even of .artist-card:not(.hidden)) {
-  background-color: rgb(0 0 0 / 4%);
-
-  @media (prefers-color-scheme: dark) {
-    background-color: rgb(255 255 255 / 4%);
-  }
+  min-width: 0;
 }
 
 .artist {
   margin: 0;
 
   .artist-cover {
-    width: 100px;
-    height: 100px;
-
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
     object-fit: cover;
-    border-radius: 8px;
-  }
-
-  a {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-
-  h2 {
-    font-size: 24px;
-    font-weight: lighter;
-    line-height: 1em;
-    margin-bottom: 8px;
-  }
-
-  .artist-albums-viewed-stats {
-    font-size: 14px;
-    color: #7a8b9d;
   }
 }
 
