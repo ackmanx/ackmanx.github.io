@@ -44,7 +44,7 @@ window.mhunter = {
     },
     filter: {
         release_year: 'all',
-        viewed_status: 'all'
+        viewed_status: 'new'
     }
 };
 const $mark_viewed_buttons = $$('.mark-as-viewed-button');

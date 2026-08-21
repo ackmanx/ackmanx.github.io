@@ -157,13 +157,6 @@ main {
     transition: transform 150ms ease-out;
     padding: 8px;
 
-    &:hover,
-    &:focus-within {
-      transform: scale(1.05);
-      outline: 2px solid black;
-      border-radius: 4px;
-    }
-
     .album-cover-art {
       width: 100px;
       object-fit: cover;
