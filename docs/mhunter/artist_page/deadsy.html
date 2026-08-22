@@ -17,41 +17,20 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / deadsy</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="deadsy" data-albums-count="3"><a class="artist-link" href="spotify:artist:1RBQSFgtcUFw4LXSw0tUBq"></a>
+    <main data-artist-name="deadsy" data-albums-count="3">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2006"><input name="release-year" type="radio" id="2006" value="2006">2006</label><label for="1999"><input name="release-year" type="radio" id="1999" value="1999">1999</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2024"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b1e149bdd2b0adddf79ac30d" alt="(study for a portrait of) napolean in rags"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X">(study for a portrait of) napolean in rags</a></h2>
-                        <p>2024-02-08 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="(study for a portrait of) napolean in rags"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2006"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ae063206a195712e3b0f17ac" alt="phantasmagore (remastered)"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU">phantasmagore (remastered)</a></h2>
-                        <p>2006-08-22 · 12 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="phantasmagore (remastered)"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="1999"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27308d1ca2926b466dc598d301e" alt="commencement"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD">commencement</a></h2>
-                        <p>1999 · 14 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="deadsy" data-album-name="commencement"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="(study for a portrait of) napolean in rags" data-release-year="2024"><a href="spotify:album:06p8DaHDXAV3NRaALqze7X"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b1e149bdd2b0adddf79ac30d" alt="(study for a portrait of) napolean in rags"></a></section>
+            <section class="album" data-album-name="phantasmagore (remastered)" data-release-year="2006"><a href="spotify:album:3wikNtQQI9fVSPH4rhSoEU"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ae063206a195712e3b0f17ac" alt="phantasmagore (remastered)"></a></section>
+            <section class="album" data-album-name="commencement" data-release-year="1999"><a href="spotify:album:2kBPVOM0vVUlihWChxqWMD"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27308d1ca2926b466dc598d301e" alt="commencement"></a></section>
         </div>
     </main>
     <footer>

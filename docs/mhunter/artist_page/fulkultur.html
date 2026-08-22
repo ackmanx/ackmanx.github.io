@@ -17,49 +17,21 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / fulkultur</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="fulkultur" data-albums-count="4"><a class="artist-link" href="spotify:artist:5nDbivjnpds6YhiPu8UY61"></a>
+    <main data-artist-name="fulkultur" data-albums-count="4">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2010"><input name="release-year" type="radio" id="2010" value="2010">2010</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2011"><a href="spotify:album:1QLrgvnrIsXwQL6cYpScO8"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739b3b2937a2c37e7fa26ffaaf" alt="the ugly dance"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1QLrgvnrIsXwQL6cYpScO8">the ugly dance</a></h2>
-                        <p>2011-11-28 · 3 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="fulkultur" data-album-name="the ugly dance"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2011"><a href="spotify:album:6VGuRBvrc99NMQvc3wrymP"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2733ef35f939edc2b4004598f92" alt="masshypnos"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:6VGuRBvrc99NMQvc3wrymP">masshypnos</a></h2>
-                        <p>2011-05-09 · 5 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="fulkultur" data-album-name="masshypnos"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2010"><a href="spotify:album:0vCYhfR8OVYv1VAvyKqj6p"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273915fbadd9e07dc833f83ffc0" alt="grrr"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0vCYhfR8OVYv1VAvyKqj6p">grrr</a></h2>
-                        <p>2010-10-28 · 5 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="fulkultur" data-album-name="grrr"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2010"><a href="spotify:album:5YcaaJrcifln8BIU0BBGVr"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739ad617d30a46054723aded61" alt="fuldans"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:5YcaaJrcifln8BIU0BBGVr">fuldans</a></h2>
-                        <p>2010-09-20 · 3 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="fulkultur" data-album-name="fuldans"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="the ugly dance" data-release-year="2011"><a href="spotify:album:1QLrgvnrIsXwQL6cYpScO8"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739b3b2937a2c37e7fa26ffaaf" alt="the ugly dance"></a></section>
+            <section class="album" data-album-name="masshypnos" data-release-year="2011"><a href="spotify:album:6VGuRBvrc99NMQvc3wrymP"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2733ef35f939edc2b4004598f92" alt="masshypnos"></a></section>
+            <section class="album" data-album-name="grrr" data-release-year="2010"><a href="spotify:album:0vCYhfR8OVYv1VAvyKqj6p"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273915fbadd9e07dc833f83ffc0" alt="grrr"></a></section>
+            <section class="album" data-album-name="fuldans" data-release-year="2010"><a href="spotify:album:5YcaaJrcifln8BIU0BBGVr"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739ad617d30a46054723aded61" alt="fuldans"></a></section>
         </div>
     </main>
     <footer>

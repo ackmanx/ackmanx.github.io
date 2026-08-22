@@ -17,41 +17,20 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / ameonna</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="ameonna" data-albums-count="3"><a class="artist-link" href="spotify:artist:4ZmEpcMFWAfiL6jLLEPkbO"></a>
+    <main data-artist-name="ameonna" data-albums-count="3">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2025"><input name="release-year" type="radio" id="2025" value="2025">2025</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2025"><a href="spotify:album:3kzWFB1M13bkdgN28qWWuq"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273127905fa855b31884a826810" alt="the birth of death"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:3kzWFB1M13bkdgN28qWWuq">the birth of death</a></h2>
-                        <p>2025-02-14 · 4 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ameonna" data-album-name="the birth of death"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2024"><a href="spotify:album:0UttXAiQv6sQh0okpiRy6H"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27364ccd71bdaed349d3c444389" alt="goddess reign"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0UttXAiQv6sQh0okpiRy6H">goddess reign</a></h2>
-                        <p>2024-05-15 · 5 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ameonna" data-album-name="goddess reign"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2024"><a href="spotify:album:6osAv4q6ypCiLFYIAxpVGu"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739b64a8515ac2a2dafdc569b5" alt="goddess wept"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:6osAv4q6ypCiLFYIAxpVGu">goddess wept</a></h2>
-                        <p>2024-01-14 · 6 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ameonna" data-album-name="goddess wept"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="the birth of death" data-release-year="2025"><a href="spotify:album:3kzWFB1M13bkdgN28qWWuq"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273127905fa855b31884a826810" alt="the birth of death"></a></section>
+            <section class="album" data-album-name="goddess reign" data-release-year="2024"><a href="spotify:album:0UttXAiQv6sQh0okpiRy6H"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27364ccd71bdaed349d3c444389" alt="goddess reign"></a></section>
+            <section class="album" data-album-name="goddess wept" data-release-year="2024"><a href="spotify:album:6osAv4q6ypCiLFYIAxpVGu"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739b64a8515ac2a2dafdc569b5" alt="goddess wept"></a></section>
         </div>
     </main>
     <footer>

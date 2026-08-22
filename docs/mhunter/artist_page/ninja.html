@@ -17,35 +17,19 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / ninja</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="ninja" data-albums-count="2"><a class="artist-link" href="spotify:artist:1MpTRWf8JWazWgL4zDlWsE"></a>
+    <main data-artist-name="ninja" data-albums-count="2">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2022"><a href="spotify:album:0PKzBQ3qsIEHpKI0QygSp8"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273be2e4f8b77545395b397a8a0" alt="glue me"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0PKzBQ3qsIEHpKI0QygSp8">glue me</a></h2>
-                        <p>2022-06-08 · 1 track</p>
-                        <p class="supporting-artists-list">with nep li</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ninja" data-album-name="glue me"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2018"><a href="spotify:album:1ZTTtYiivr4tUgHLt1f0Nh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a18932fec7d894b1f8ffe0c2" alt="game time (feat. ninja)"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1ZTTtYiivr4tUgHLt1f0Nh">game time (feat. ninja)</a></h2>
-                        <p>2018-11-30 · 1 track</p>
-                        <p class="supporting-artists-list">with 3lau</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="ninja" data-album-name="game time (feat. ninja)"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="glue me" data-release-year="2022"><a href="spotify:album:0PKzBQ3qsIEHpKI0QygSp8"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273be2e4f8b77545395b397a8a0" alt="glue me"></a></section>
+            <section class="album" data-album-name="game time (feat. ninja)" data-release-year="2018"><a href="spotify:album:1ZTTtYiivr4tUgHLt1f0Nh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273a18932fec7d894b1f8ffe0c2" alt="game time (feat. ninja)"></a></section>
         </div>
     </main>
     <footer>

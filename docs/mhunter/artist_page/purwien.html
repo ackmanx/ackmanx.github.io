@@ -17,41 +17,20 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / purwien</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="purwien" data-albums-count="3"><a class="artist-link" href="spotify:artist:2CogqYhjp015S0gWFr1aTw"></a>
+    <main data-artist-name="purwien" data-albums-count="3">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2007"><input name="release-year" type="radio" id="2007" value="2007">2007</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2007"><a href="spotify:album:5bLLeVVDIORd0Fr9V4ZxE1"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273986bb52798ec12cd2dec0a85" alt="so kalt"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:5bLLeVVDIORd0Fr9V4ZxE1">so kalt</a></h2>
-                        <p>2007-11-23 · 5 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="so kalt"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2007"><a href="spotify:album:50qCPS4kmkLyDp3jDLool4"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734bacd6a0b5b3920c2b0061a4" alt="alle fehler"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:50qCPS4kmkLyDp3jDLool4">alle fehler</a></h2>
-                        <p>2007-06-15 · 5 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="alle fehler"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2007"><a href="spotify:album:2Q4Je4wtr5vuCRSl1sOkWS"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="eins"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:2Q4Je4wtr5vuCRSl1sOkWS">eins</a></h2>
-                        <p>2007-01-01 · 20 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="purwien" data-album-name="eins"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="so kalt" data-release-year="2007"><a href="spotify:album:5bLLeVVDIORd0Fr9V4ZxE1"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273986bb52798ec12cd2dec0a85" alt="so kalt"></a></section>
+            <section class="album" data-album-name="alle fehler" data-release-year="2007"><a href="spotify:album:50qCPS4kmkLyDp3jDLool4"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734bacd6a0b5b3920c2b0061a4" alt="alle fehler"></a></section>
+            <section class="album" data-album-name="eins" data-release-year="2007"><a href="spotify:album:2Q4Je4wtr5vuCRSl1sOkWS"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27369aebe65c29e4faeacc78891" alt="eins"></a></section>
         </div>
     </main>
     <footer>

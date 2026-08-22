@@ -17,41 +17,20 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / c-block</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="c-block" data-albums-count="3"><a class="artist-link" href="spotify:artist:3oBEQDpycb0JgSyFyy6VEq"></a>
+    <main data-artist-name="c-block" data-albums-count="3">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2017"><input name="release-year" type="radio" id="2017" value="2017">2017</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2017"><a href="spotify:album:1Xj9bPYW5CXiXhQD5bC45p"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27350bc3a3840cc2fc6219c826f" alt="以下範上"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1Xj9bPYW5CXiXhQD5bC45p">以下範上</a></h2>
-                        <p>2017-10-13 · 16 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="c-block" data-album-name="以下範上"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2017"><a href="spotify:album:6PvQ2Bj40rLTWytnuxxT5Z"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732c510a079904a4e6698e24e5" alt="火苗"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:6PvQ2Bj40rLTWytnuxxT5Z">火苗</a></h2>
-                        <p>2017-10-05 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="c-block" data-album-name="火苗"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2017"><a href="spotify:album:4Jd2RN13uupHBObBUPNyI3"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730247e6b2463e8a1dc73ffa28" alt="江湖流"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:4Jd2RN13uupHBObBUPNyI3">江湖流</a></h2>
-                        <p>2017-09-18 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="c-block" data-album-name="江湖流"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="以下範上" data-release-year="2017"><a href="spotify:album:1Xj9bPYW5CXiXhQD5bC45p"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27350bc3a3840cc2fc6219c826f" alt="以下範上"></a></section>
+            <section class="album" data-album-name="火苗" data-release-year="2017"><a href="spotify:album:6PvQ2Bj40rLTWytnuxxT5Z"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2732c510a079904a4e6698e24e5" alt="火苗"></a></section>
+            <section class="album" data-album-name="江湖流" data-release-year="2017"><a href="spotify:album:4Jd2RN13uupHBObBUPNyI3"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730247e6b2463e8a1dc73ffa28" alt="江湖流"></a></section>
         </div>
     </main>
     <footer>

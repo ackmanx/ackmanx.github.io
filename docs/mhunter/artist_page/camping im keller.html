@@ -17,33 +17,19 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / camping im keller</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="camping im keller" data-albums-count="2"><a class="artist-link" href="spotify:artist:1EqjMnUkwH4HCsyysONZ6F"></a>
+    <main data-artist-name="camping im keller" data-albums-count="2">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2011"><a href="spotify:album:7h8PkHbuRrzHcCmUUdFgZz"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273de6e660518f8b119621ef414" alt="suende"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:7h8PkHbuRrzHcCmUUdFgZz">suende</a></h2>
-                        <p>2011-07-29 · 6 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="camping im keller" data-album-name="suende"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2009"><a href="spotify:album:6ipw5gxaUcXFMy7gT9sIxG"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730d001faa300c9fe01312376f" alt="am puls der zeit"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:6ipw5gxaUcXFMy7gT9sIxG">am puls der zeit</a></h2>
-                        <p>2009-07-24 · 10 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="camping im keller" data-album-name="am puls der zeit"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="suende" data-release-year="2011"><a href="spotify:album:7h8PkHbuRrzHcCmUUdFgZz"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273de6e660518f8b119621ef414" alt="suende"></a></section>
+            <section class="album" data-album-name="am puls der zeit" data-release-year="2009"><a href="spotify:album:6ipw5gxaUcXFMy7gT9sIxG"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730d001faa300c9fe01312376f" alt="am puls der zeit"></a></section>
         </div>
     </main>
     <footer>

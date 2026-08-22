@@ -17,89 +17,26 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / xyce</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="xyce" data-albums-count="9"><a class="artist-link" href="spotify:artist:4fIuC4t8qCtGEJFdkaru0S"></a>
+    <main data-artist-name="xyce" data-albums-count="9">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label><label for="2016"><input name="release-year" type="radio" id="2016" value="2016">2016</label><label for="2014"><input name="release-year" type="radio" id="2014" value="2014">2014</label><label for="2013"><input name="release-year" type="radio" id="2013" value="2013">2013</label><label for="2012"><input name="release-year" type="radio" id="2012" value="2012">2012</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2020"><a href="spotify:album:5vOAoAulZGkKz8poeV4Owk"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273c51d5cd9be55ff2f6f093b9a" alt="vue"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:5vOAoAulZGkKz8poeV4Owk">vue</a></h2>
-                        <p>2020-08-21 · 14 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="vue"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2018"><a href="spotify:album:01NJZ9IvH2w0291m9atK96"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27370e24f5ce02a2f8667e4ee7f" alt="pop"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:01NJZ9IvH2w0291m9atK96">pop</a></h2>
-                        <p>2018-10-01 · 15 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="pop"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2016"><a href="spotify:album:0jd4nrU4avuYNkq40EL3Bp"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273705b8bfcfd64f068552bcb55" alt="autre"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0jd4nrU4avuYNkq40EL3Bp">autre</a></h2>
-                        <p>2016-06-06 · 14 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="autre"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2014"><a href="spotify:album:47D86unv3AXvHLxyVO5zEv"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273631be82730aeea7db7001064" alt="nova"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:47D86unv3AXvHLxyVO5zEv">nova</a></h2>
-                        <p>2014-09-01 · 14 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="nova"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2013"><a href="spotify:album:1q66dPSIXaxfXca86ylTJr"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27365e12aac2052d21c1c0bb9ff" alt="papillons"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1q66dPSIXaxfXca86ylTJr">papillons</a></h2>
-                        <p>2013-06-08 · 16 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="papillons"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2013"><a href="spotify:album:0RtYPFqyi01w6BDcW9GbND"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734ccb972f0875b3a7f6cafa64" alt="un peu de douceur"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0RtYPFqyi01w6BDcW9GbND">un peu de douceur</a></h2>
-                        <p>2013-03-19 · 10 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="un peu de douceur"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2013"><a href="spotify:album:6j2sG4MtoMOMhiOBVGVeJM"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2731c7f6879d580940aa1cb5ff7" alt="4chpcm love"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:6j2sG4MtoMOMhiOBVGVeJM">4chpcm love</a></h2>
-                        <p>2013-01-14 · 23 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="4chpcm love"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2012"><a href="spotify:album:5QWoD8ajxzxwL7arQQCsXd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cb29a59155b929f719c49e57" alt="mosaik"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:5QWoD8ajxzxwL7arQQCsXd">mosaik</a></h2>
-                        <p>2012-06-15 · 11 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="mosaik"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2011"><a href="spotify:album:22IsHY8pZVWuYPyrCdFpjX"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273112d1db8f090b10acc50ab57" alt="biscuit"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:22IsHY8pZVWuYPyrCdFpjX">biscuit</a></h2>
-                        <p>2011-10-07 · 11 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="xyce" data-album-name="biscuit"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="vue" data-release-year="2020"><a href="spotify:album:5vOAoAulZGkKz8poeV4Owk"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273c51d5cd9be55ff2f6f093b9a" alt="vue"></a></section>
+            <section class="album" data-album-name="pop" data-release-year="2018"><a href="spotify:album:01NJZ9IvH2w0291m9atK96"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27370e24f5ce02a2f8667e4ee7f" alt="pop"></a></section>
+            <section class="album" data-album-name="autre" data-release-year="2016"><a href="spotify:album:0jd4nrU4avuYNkq40EL3Bp"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273705b8bfcfd64f068552bcb55" alt="autre"></a></section>
+            <section class="album" data-album-name="nova" data-release-year="2014"><a href="spotify:album:47D86unv3AXvHLxyVO5zEv"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273631be82730aeea7db7001064" alt="nova"></a></section>
+            <section class="album" data-album-name="papillons" data-release-year="2013"><a href="spotify:album:1q66dPSIXaxfXca86ylTJr"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27365e12aac2052d21c1c0bb9ff" alt="papillons"></a></section>
+            <section class="album" data-album-name="un peu de douceur" data-release-year="2013"><a href="spotify:album:0RtYPFqyi01w6BDcW9GbND"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2734ccb972f0875b3a7f6cafa64" alt="un peu de douceur"></a></section>
+            <section class="album" data-album-name="4chpcm love" data-release-year="2013"><a href="spotify:album:6j2sG4MtoMOMhiOBVGVeJM"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2731c7f6879d580940aa1cb5ff7" alt="4chpcm love"></a></section>
+            <section class="album" data-album-name="mosaik" data-release-year="2012"><a href="spotify:album:5QWoD8ajxzxwL7arQQCsXd"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cb29a59155b929f719c49e57" alt="mosaik"></a></section>
+            <section class="album" data-album-name="biscuit" data-release-year="2011"><a href="spotify:album:22IsHY8pZVWuYPyrCdFpjX"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273112d1db8f090b10acc50ab57" alt="biscuit"></a></section>
         </div>
     </main>
     <footer>

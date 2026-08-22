@@ -119,7 +119,11 @@ function filter_albums() {
         return;
     }
     for (const $album of $$('.album')){
-        const is_viewed = Boolean($album.querySelector(':has(.is-viewed)'));
+        const album_name = $album.dataset.albumName;
+        if (!album_name) {
+            throw new Error('You did the impossible. Album name is not found on one of the `.album` elements');
+        }
+        const is_viewed = window.mhunter.artist.viewed.includes(album_name);
         const matches_year = $album.dataset.releaseYear === release_year;
         if (release_year === 'all') {
             if (viewed_status === 'new') {

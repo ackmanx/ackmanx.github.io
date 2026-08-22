@@ -17,33 +17,19 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / robot science</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="robot science" data-albums-count="2"><a class="artist-link" href="spotify:artist:6HGjSunetwiJw8nzm6iyME"></a>
+    <main data-artist-name="robot science" data-albums-count="2">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2011"><input name="release-year" type="radio" id="2011" value="2011">2011</label><label for="2009"><input name="release-year" type="radio" id="2009" value="2009">2009</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2011"><a href="spotify:album:4sgNwlj2W0970HynDJdr0A"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27349f1df7c173edb3e2d84f9b4" alt="good luck"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:4sgNwlj2W0970HynDJdr0A">good luck</a></h2>
-                        <p>2011-01-22 · 9 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="robot science" data-album-name="good luck"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2009"><a href="spotify:album:5a9CGEUveIC8ViubBmvcSq"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ea36afcdf204de79ac0a7d3a" alt="square"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:5a9CGEUveIC8ViubBmvcSq">square</a></h2>
-                        <p>2009-10-11 · 10 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="robot science" data-album-name="square"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="good luck" data-release-year="2011"><a href="spotify:album:4sgNwlj2W0970HynDJdr0A"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27349f1df7c173edb3e2d84f9b4" alt="good luck"></a></section>
+            <section class="album" data-album-name="square" data-release-year="2009"><a href="spotify:album:5a9CGEUveIC8ViubBmvcSq"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ea36afcdf204de79ac0a7d3a" alt="square"></a></section>
         </div>
     </main>
     <footer>

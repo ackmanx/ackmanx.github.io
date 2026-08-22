@@ -17,51 +17,21 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / 福克斯</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="福克斯" data-albums-count="4"><a class="artist-link" href="spotify:artist:6UWHAmMGO1EK76InCEFpe1"></a>
+    <main data-artist-name="福克斯" data-albums-count="4">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label><label for="2019"><input name="release-year" type="radio" id="2019" value="2019">2019</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2020"><a href="spotify:album:0RUBYEVfCme9nFTOGFqbQh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738ecd9879fc5a552712449f79" alt="二十四·味：章节二"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0RUBYEVfCme9nFTOGFqbQh">二十四·味：章节二</a></h2>
-                        <p>2020-08-24 · 2 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="福克斯" data-album-name="二十四·味：章节二"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2020"><a href="spotify:album:1cKRKYcftqbEF28VVq5GOs"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273fc88ef99c281a9d6f05c8142" alt="醉江南"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1cKRKYcftqbEF28VVq5GOs">醉江南</a></h2>
-                        <p>2020-08-03 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="福克斯" data-album-name="醉江南"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2019"><a href="spotify:album:0GvYcQKhGg5nzsSYCMu4Cn"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27360cb062ce23104ddade5fb34" alt="why we fight"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0GvYcQKhGg5nzsSYCMu4Cn">why we fight</a></h2>
-                        <p>2019-04-30 · 1 track</p>
-                        <p class="supporting-artists-list">with k￥ller</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="福克斯" data-album-name="why we fight"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2019"><a href="spotify:album:71f4x23IZ2GkMsSEoBEWXC"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2736e572f20b22836c99f404dcc" alt="海外东坡"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:71f4x23IZ2GkMsSEoBEWXC">海外东坡</a></h2>
-                        <p>2019-04-19 · 3 tracks</p>
-                        <p class="supporting-artists-list">with hayrul海力, 隆历奇</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="福克斯" data-album-name="海外东坡"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="二十四·味：章节二" data-release-year="2020"><a href="spotify:album:0RUBYEVfCme9nFTOGFqbQh"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2738ecd9879fc5a552712449f79" alt="二十四·味：章节二"></a></section>
+            <section class="album" data-album-name="醉江南" data-release-year="2020"><a href="spotify:album:1cKRKYcftqbEF28VVq5GOs"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273fc88ef99c281a9d6f05c8142" alt="醉江南"></a></section>
+            <section class="album" data-album-name="why we fight" data-release-year="2019"><a href="spotify:album:0GvYcQKhGg5nzsSYCMu4Cn"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27360cb062ce23104ddade5fb34" alt="why we fight"></a></section>
+            <section class="album" data-album-name="海外东坡" data-release-year="2019"><a href="spotify:album:71f4x23IZ2GkMsSEoBEWXC"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2736e572f20b22836c99f404dcc" alt="海外东坡"></a></section>
         </div>
     </main>
     <footer>

@@ -17,42 +17,20 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / huangfu</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="huangfu" data-albums-count="3"><a class="artist-link" href="spotify:artist:3tWGUNAljQ0Le36qt4thBm"></a>
+    <main data-artist-name="huangfu" data-albums-count="3">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2018"><input name="release-year" type="radio" id="2018" value="2018">2018</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2022"><a href="spotify:album:7uNbrpOO3v81xSDFuQaw3k"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27375b0d34bfb8eecd195ff7774" alt="saucing"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:7uNbrpOO3v81xSDFuQaw3k">saucing</a></h2>
-                        <p>2022-04-29 · 1 track</p>
-                        <p class="supporting-artists-list">with g.k. 高偉庭, braveboy</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="huangfu" data-album-name="saucing"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2018"><a href="spotify:album:1mz78RWMNnns0CYLUtPMQi"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cc4fd5a8b73047a55f34deb7" alt="襪子不洗"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:1mz78RWMNnns0CYLUtPMQi">襪子不洗</a></h2>
-                        <p>2018-02-22 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="huangfu" data-album-name="襪子不洗"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2018"><a href="spotify:album:7fNPdOBrs4dP57DFK93v9Q"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739213a3640ab942300955fba0" alt="超級趴的beat"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:7fNPdOBrs4dP57DFK93v9Q">超級趴的beat</a></h2>
-                        <p>2018-01-29 · 1 track</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="huangfu" data-album-name="超級趴的beat"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="saucing" data-release-year="2022"><a href="spotify:album:7uNbrpOO3v81xSDFuQaw3k"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27375b0d34bfb8eecd195ff7774" alt="saucing"></a></section>
+            <section class="album" data-album-name="襪子不洗" data-release-year="2018"><a href="spotify:album:1mz78RWMNnns0CYLUtPMQi"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273cc4fd5a8b73047a55f34deb7" alt="襪子不洗"></a></section>
+            <section class="album" data-album-name="超級趴的beat" data-release-year="2018"><a href="spotify:album:7fNPdOBrs4dP57DFK93v9Q"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2739213a3640ab942300955fba0" alt="超級趴的beat"></a></section>
         </div>
     </main>
     <footer>

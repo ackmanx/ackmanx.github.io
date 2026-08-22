@@ -17,33 +17,19 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / mrgamer</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="mrgamer" data-albums-count="2"><a class="artist-link" href="spotify:artist:4qf8SGjeFVS1btSQX38CaR"></a>
+    <main data-artist-name="mrgamer" data-albums-count="2">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2020"><input name="release-year" type="radio" id="2020" value="2020">2020</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2020"><a href="spotify:album:36eqgTNXqd5K1nemEV3Bor"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ea69e08327960ffaf599e983" alt="anthroposcene"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:36eqgTNXqd5K1nemEV3Bor">anthroposcene</a></h2>
-                        <p>2020-12-13 · 9 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="mrgamer" data-album-name="anthroposcene"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2020"><a href="spotify:album:303lVOyVh2OSgGUOj6CSeZ"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27343d4120079f3674758d638a6" alt="old dawn"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:303lVOyVh2OSgGUOj6CSeZ">old dawn</a></h2>
-                        <p>2020-06-19 · 12 tracks</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="mrgamer" data-album-name="old dawn"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="anthroposcene" data-release-year="2020"><a href="spotify:album:36eqgTNXqd5K1nemEV3Bor"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273ea69e08327960ffaf599e983" alt="anthroposcene"></a></section>
+            <section class="album" data-album-name="old dawn" data-release-year="2020"><a href="spotify:album:303lVOyVh2OSgGUOj6CSeZ"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27343d4120079f3674758d638a6" alt="old dawn"></a></section>
         </div>
     </main>
     <footer>

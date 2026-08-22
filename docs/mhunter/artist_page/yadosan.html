@@ -17,71 +17,23 @@
 <body>
     <header>
         <nav><a href="../index.html">Index</a> / yadosan</nav>
-        <div class="view-status-filters"><label for="everything"><input name="view-status-filter" type="radio" id="everything" value="all">everything</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
     </header>
-    <main data-artist-name="yadosan" data-albums-count="6"><a class="artist-link" href="spotify:artist:1mCavamEMIEh1fnGcLSk3J"></a>
+    <main data-artist-name="yadosan" data-albums-count="6">
         <div class="filters">
+            <div class="view-status-filters"><label for="all"><input name="view-status-filter" type="radio" id="all" value="all">all</label><label for="new"><input name="view-status-filter" type="radio" id="new" value="new" checked>new</label><label for="viewed"><input name="view-status-filter" type="radio" id="viewed" value="viewed">viewed</label></div>
             <div class="release-year-filters"><label for="year-all"><input name="release-year" type="radio" id="year-all" value="all" checked>all</label><label for="2024"><input name="release-year" type="radio" id="2024" value="2024">2024</label><label for="2023"><input name="release-year" type="radio" id="2023" value="2023">2023</label><label for="2022"><input name="release-year" type="radio" id="2022" value="2022">2022</label><label for="2021"><input name="release-year" type="radio" id="2021" value="2021">2021</label></div>
         </div>
         <div class="loading-spinner-container">
             <div class="loading-spinner"></div>
         </div>
+        <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
         <div class="albums-list transparent">
-            <section class="album" data-release-year="2024"><a href="spotify:album:2FU3kSQhg5LDGU95nrlyDz"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2735a6375b40349ac300052ef44" alt="authentic"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:2FU3kSQhg5LDGU95nrlyDz">authentic</a></h2>
-                        <p>2024-06-01 · 1 track</p>
-                        <p class="supporting-artists-list">with we die young</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="authentic"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2023"><a href="spotify:album:0b3qu0I1LwidtyeZJnR4R0"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27384e7b54d71a844bd67647f55" alt="don't leave me"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0b3qu0I1LwidtyeZJnR4R0">don't leave me</a></h2>
-                        <p>2023-10-18 · 1 track</p>
-                        <p class="supporting-artists-list">with komb</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="don't leave me"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2023"><a href="spotify:album:0kHtGkq74HZCulqwXijJzv"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f761cec4907e1cd8f4c66113" alt="bust like"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:0kHtGkq74HZCulqwXijJzv">bust like</a></h2>
-                        <p>2023-07-01 · 1 track</p>
-                        <p class="supporting-artists-list">with we die young</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="bust like"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2023"><a href="spotify:album:51ScAUJjg7Iyj5Z8CkH3Sg"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27335444ae9fb384cc3cbd7c01e" alt="lad"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:51ScAUJjg7Iyj5Z8CkH3Sg">lad</a></h2>
-                        <p>2023-06-09 · 1 track</p>
-                        <p class="supporting-artists-list">with banvox</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="lad"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2022"><a href="spotify:album:24jh3J74gafjOkwVHBVzSa"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b4349d9313cd2e0d7d7211f6" alt="protect me"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:24jh3J74gafjOkwVHBVzSa">protect me</a></h2>
-                        <p>2022-10-21 · 1 track</p>
-                        <p class="supporting-artists-list">with k?d</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="protect me"></button>
-                </div>
-            </section>
-            <section class="album" data-release-year="2021"><a href="spotify:album:32OO60xmuCqrEnaTnjL34w"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730705a1372f1decd70880d4a6" alt="omg (spank boy x yadosan remix)"></a>
-                <div class="album-meta">
-                    <div>
-                        <h2 class="album-name"><a href="spotify:album:32OO60xmuCqrEnaTnjL34w">omg (spank boy x yadosan remix)</a></h2>
-                        <p>2021-10-22 · 1 track</p>
-                        <p class="supporting-artists-list">with g-buck, ma-less, spank boy</p>
-                    </div><button type="button" class="mark-as-viewed-button" data-artist-name="yadosan" data-album-name="omg (spank boy x yadosan remix)"></button>
-                </div>
-            </section>
-            <h2 class="no-results-message hidden">no albums matching <span id="no-results-year-filter"></span> and <span id="no-results-viewed-status-filter"></span></h2>
+            <section class="album" data-album-name="authentic" data-release-year="2024"><a href="spotify:album:2FU3kSQhg5LDGU95nrlyDz"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2735a6375b40349ac300052ef44" alt="authentic"></a></section>
+            <section class="album" data-album-name="don't leave me" data-release-year="2023"><a href="spotify:album:0b3qu0I1LwidtyeZJnR4R0"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27384e7b54d71a844bd67647f55" alt="don't leave me"></a></section>
+            <section class="album" data-album-name="bust like" data-release-year="2023"><a href="spotify:album:0kHtGkq74HZCulqwXijJzv"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273f761cec4907e1cd8f4c66113" alt="bust like"></a></section>
+            <section class="album" data-album-name="lad" data-release-year="2023"><a href="spotify:album:51ScAUJjg7Iyj5Z8CkH3Sg"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b27335444ae9fb384cc3cbd7c01e" alt="lad"></a></section>
+            <section class="album" data-album-name="protect me" data-release-year="2022"><a href="spotify:album:24jh3J74gafjOkwVHBVzSa"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b273b4349d9313cd2e0d7d7211f6" alt="protect me"></a></section>
+            <section class="album" data-album-name="omg (spank boy x yadosan remix)" data-release-year="2021"><a href="spotify:album:32OO60xmuCqrEnaTnjL34w"><img class="album-cover-art" src="https://i.scdn.co/image/ab67616d0000b2730705a1372f1decd70880d4a6" alt="omg (spank boy x yadosan remix)"></a></section>
         </div>
     </main>
     <footer>
