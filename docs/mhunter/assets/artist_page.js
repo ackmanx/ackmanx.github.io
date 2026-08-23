@@ -10,23 +10,6 @@ async function fetch_artist_viewed(name) {
     });
     return response.json();
 }
-async function update_artist_viewed(name, viewed_array) {
-    const auth_code = localStorage.getItem('super_secret');
-    if (!auth_code) {
-        alert(`Uh oh, you seem to be missing the super_secret password`);
-    }
-    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${encodeURIComponent(name)}`, {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            Authorization: auth_code ?? ''
-        },
-        body: JSON.stringify({
-            viewed_albums: viewed_array
-        })
-    });
-    return response.json();
-}
 const $ = (selector)=>document.querySelector(selector);
 const $$ = (selector)=>document.querySelectorAll(selector);
 const $main = $('main');
@@ -47,18 +30,13 @@ window.mhunter = {
         viewed_status: 'new'
     }
 };
-const $mark_viewed_buttons = $$('.mark-as-viewed-button');
-$mark_viewed_buttons.forEach(($button)=>{
-    $button.addEventListener('click', mark_album_viewed_status);
-    if (!$button.dataset.albumName) {
+const $albums = $$('.album');
+$albums.forEach(($album)=>{
+    if (!$album.dataset.albumName) {
         throw new Error('You did the impossible. Album name is not found');
     }
-    if (window.mhunter.artist.viewed.includes($button.dataset.albumName)) {
-        $button.innerHTML = '✔ Viewed';
-        $button.classList.add('is-viewed');
-    } else {
-        $button.innerHTML = '○ Mark viewed';
-        $button.classList.remove('is-viewed');
+    if (window.mhunter.artist.viewed.includes($album.dataset.albumName)) {
+        $album.classList.add('is-viewed');
     }
 });
 const $year_filters = $$('input[name="release-year"]');
@@ -83,30 +61,6 @@ function filter_by_year(event) {
 function filter_by_viewed_status(event) {
     const $radio_input = event.currentTarget;
     window.mhunter.filter.viewed_status = $radio_input.value;
-    filter_albums();
-}
-async function mark_album_viewed_status(event) {
-    const $button = event.currentTarget;
-    const artist = window.mhunter.artist;
-    if (!$button.dataset.albumName) {
-        throw new Error('You did the impossible. Album name is not found one of the `button` elements');
-    }
-    if ($button.classList.contains('is-viewed')) {
-        const album_index = artist.viewed.indexOf($button.dataset.albumName);
-        artist.viewed.splice(album_index, 1);
-        $button.innerHTML = '○ Mark viewed';
-        $button.classList.remove('is-viewed');
-    } else {
-        artist.viewed.push($button.dataset.albumName);
-        artist.viewed.sort();
-        $button.innerHTML = '✔ Viewed';
-        $button.classList.add('is-viewed');
-    }
-    const response_body = await update_artist_viewed(artist.name, artist.viewed);
-    if (response_body.message) {
-        console.error(response_body.message);
-        return;
-    }
     filter_albums();
 }
 function filter_albums() {
