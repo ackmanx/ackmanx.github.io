@@ -97,12 +97,6 @@ ___________________________________________________*/
 }
 
 .album {
-  &.is-viewed img {
-    filter: grayscale(0.5) brightness(0.5);
-    opacity: 0.6;
-    transition: all 0.3s ease;
-  }
-
   .album-cover-art {
     width: 100%;
     aspect-ratio: 1;

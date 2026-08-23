@@ -116,6 +116,7 @@ function filter_albums() {
         for (const $album of $$('.album')){
             $album.classList.remove('hidden');
         }
+        $('.no-results-message')?.classList.add('hidden');
         return;
     }
     for (const $album of $$('.album')){
