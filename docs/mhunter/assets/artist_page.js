@@ -10,6 +10,23 @@ async function fetch_artist_viewed(name) {
     });
     return response.json();
 }
+async function update_artist_viewed(name, viewed_array) {
+    const auth_code = localStorage.getItem('super_secret');
+    if (!auth_code) {
+        alert(`Uh oh, you seem to be missing the super_secret password`);
+    }
+    const response = await fetch(`https://friends-of-mongo.vercel.app/mhunter/artist?name=${encodeURIComponent(name)}`, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            Authorization: auth_code ?? ''
+        },
+        body: JSON.stringify({
+            viewed_albums: viewed_array
+        })
+    });
+    return response.json();
+}
 const $ = (selector)=>document.querySelector(selector);
 const $$ = (selector)=>document.querySelectorAll(selector);
 const $main = $('main');
@@ -35,9 +52,10 @@ $albums.forEach(($album)=>{
     if (!$album.dataset.albumName) {
         throw new Error('You did the impossible. Album name is not found');
     }
-    if (window.mhunter.artist.viewed.includes($album.dataset.albumName)) {
-        $album.classList.add('is-viewed');
-    }
+    const $button = $album.querySelector('.mark-as-viewed-button');
+    const is_viewed = window.mhunter.artist.viewed.includes($album.dataset.albumName);
+    set_album_viewed_state($album, $button, is_viewed);
+    $button?.addEventListener('click', mark_album_viewed_status);
 });
 const $year_filters = $$('input[name="release-year"]');
 $year_filters.forEach(($input)=>{
@@ -62,6 +80,44 @@ function filter_by_viewed_status(event) {
     const $radio_input = event.currentTarget;
     window.mhunter.filter.viewed_status = $radio_input.value;
     filter_albums();
+}
+async function mark_album_viewed_status(event) {
+    const $button = event.currentTarget;
+    const $album = $button.closest('.album');
+    const album_name = $button.dataset.albumName;
+    const artist = window.mhunter.artist;
+    if (!album_name || !$album) {
+        throw new Error('You did the impossible. Album information is missing from the viewed button');
+    }
+    const previous_viewed = [
+        ...artist.viewed
+    ];
+    const is_viewed = artist.viewed.includes(album_name);
+    artist.viewed = is_viewed ? artist.viewed.filter((viewed_album)=>viewed_album !== album_name) : [
+        ...artist.viewed,
+        album_name
+    ].sort();
+    set_album_viewed_state($album, $button, !is_viewed);
+    $button.disabled = true;
+    try {
+        const response_body = await update_artist_viewed(artist.name, artist.viewed);
+        if (response_body.message) {
+            throw new Error(response_body.message);
+        }
+        filter_albums();
+    } catch (error) {
+        artist.viewed = previous_viewed;
+        set_album_viewed_state($album, $button, is_viewed);
+        console.error('Could not update album viewed status', error);
+    } finally{
+        $button.disabled = false;
+    }
+}
+function set_album_viewed_state($album, $button, is_viewed) {
+    $album.classList.toggle('is-viewed', is_viewed);
+    if (!$button?.dataset.albumName) return;
+    const action = is_viewed ? 'not viewed' : 'viewed';
+    $button.title = `Mark as ${action}`;
 }
 function filter_albums() {
     const release_year = window.mhunter.filter.release_year;
