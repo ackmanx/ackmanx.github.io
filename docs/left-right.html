@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Columns</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f7f7f7;
+        --surface: #ffffff;
+        --text: #161616;
+        --muted: #6b6b6b;
+        --border: #d9d9d9;
+        --button-hover: #ededed;
+        --focus: #777777;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111111;
+          --surface: #171717;
+          --text: #eeeeee;
+          --muted: #999999;
+          --border: #303030;
+          --button-hover: #242424;
+          --focus: #aaaaaa;
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background: var(--bg);
+        color: var(--text);
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+      }
+
+      button,
+      textarea {
+        font: inherit;
+      }
+
+      #app {
+        width: 100%;
+        height: 100dvh;
+      }
+
+      .toolbar {
+        position: fixed;
+        top: 12px;
+        right: 12px;
+        z-index: 10;
+        display: flex;
+        gap: 8px;
+      }
+
+      .toolbar button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 40px;
+        height: 40px;
+        padding: 0 12px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: color-mix(in srgb, var(--surface) 92%, transparent);
+        color: var(--text);
+        cursor: pointer;
+        backdrop-filter: blur(8px);
+      }
+
+      .toolbar button:hover {
+        background: var(--button-hover);
+      }
+
+      .toolbar button:focus-visible {
+        outline: 2px solid var(--focus);
+        outline-offset: 2px;
+      }
+
+      .columns {
+        display: grid;
+        grid-auto-flow: column;
+        grid-auto-columns: minmax(0, 1fr);
+        width: 100%;
+        height: 100%;
+      }
+
+      .column {
+        min-width: 0;
+        height: 100%;
+        border-left: 1px solid var(--border);
+        background: var(--surface);
+      }
+
+      .column:first-child {
+        border-left: 0;
+      }
+
+      .column textarea {
+        display: block;
+        width: 100%;
+        height: 100%;
+        resize: none;
+        border: 0;
+        outline: 0;
+        padding: 24px;
+        padding-top: 68px;
+        background: transparent;
+        color: var(--text);
+        caret-color: var(--text);
+        line-height: 1.55;
+        overflow: auto;
+      }
+
+      .column textarea::placeholder {
+        color: var(--muted);
+      }
+
+    </style>
+  </head>
+  <body>
+    <main id="app">
+      <div class="toolbar">
+        <button id="add-column" type="button" aria-label="Add column" title="Add column">
+          +
+        </button>
+      </div>
+
+      <section id="columns" class="columns" aria-label="Text columns"></section>
+    </main>
+
+    <script>
+      (() => {
+        const STORAGE_KEY = "personal-columns-v1";
+        const SAVE_DELAY_MS = 250;
+
+        const columnsElement = document.querySelector("#columns");
+        const addColumnButton = document.querySelector("#add-column");
+
+        let columns = loadColumns();
+        let saveTimer = null;
+
+        function loadColumns() {
+          try {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (!saved) return [""];
+
+            const parsed = JSON.parse(saved);
+            if (!Array.isArray(parsed) || parsed.length === 0) return [""];
+
+            return parsed.map((value) => (typeof value === "string" ? value : ""));
+          } catch {
+            return [""];
+          }
+        }
+
+        function saveColumns() {
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(columns));
+        }
+
+        function scheduleSave() {
+          window.clearTimeout(saveTimer);
+          saveTimer = window.setTimeout(saveColumns, SAVE_DELAY_MS);
+        }
+
+        function createColumn(value, index) {
+          const wrapper = document.createElement("div");
+          wrapper.className = "column";
+
+          const textarea = document.createElement("textarea");
+          textarea.value = value;
+          textarea.placeholder = "Type here…";
+          textarea.setAttribute("aria-label", `Column ${index + 1}`);
+          textarea.spellcheck = true;
+
+          textarea.addEventListener("input", () => {
+            columns[index] = textarea.value;
+            scheduleSave();
+          });
+
+          wrapper.append(textarea);
+          return wrapper;
+        }
+
+        function render({ focusLast = false } = {}) {
+          const fragment = document.createDocumentFragment();
+
+          columns.forEach((value, index) => {
+            fragment.append(createColumn(value, index));
+          });
+
+          columnsElement.replaceChildren(fragment);
+
+          if (focusLast) {
+            const textareas = columnsElement.querySelectorAll("textarea");
+            textareas[textareas.length - 1]?.focus();
+          }
+        }
+
+        function addColumn() {
+          columns.push("");
+          saveColumns();
+          render({ focusLast: true });
+        }
+
+        addColumnButton.addEventListener("click", addColumn);
+
+        window.addEventListener("pagehide", () => {
+          window.clearTimeout(saveTimer);
+          saveColumns();
+        });
+
+        render();
+      })();
+    </script>
+  </body>
+</html>
