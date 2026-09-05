@@ -1,0 +1,535 @@
+{
+  "name": "blue stahli",
+  "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+  "uri": "spotify:artist:4DWnSG0RYPAds8EIKY26q3",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb0cf609f86936a003c87c9e4",
+  "genres": [
+    "industrial metal",
+    "industrial rock",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baba383bb952e698f0970593",
+      "uri": "spotify:album:1UG5v5mWm0y5BLXBlDfUXd",
+      "name": "the crew motorfest: vol.2 (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2025-11-19",
+      "release_year": "2025",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "6q13h45euKCgmXJ4HOdJM4",
+          "name": "dirty two club"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "6N41nwrWzqpUhPzodknXU6",
+          "name": "adri mena"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387d157f6f8089e132ca410d4",
+      "uri": "spotify:album:6OB1HT5Q3vwve3AvhKXQtr",
+      "name": "the devil (decade edition)",
+      "album_type": "album",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736375cd2a3b96b1e5259071b2",
+      "uri": "spotify:album:1Z0YViUBYabcOOQbnbbnXE",
+      "name": "saru (from morbid metal)",
+      "album_type": "single",
+      "release_date": "2025-09-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d1ccc60aaecb0ce7946735c",
+      "uri": "spotify:album:1D7CIoRGvRM58bbSCbXPeh",
+      "name": "xxl (blue stahli remix)",
+      "album_type": "single",
+      "release_date": "2024-04-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0e04xgVBPU6mE2QkSHlufD",
+          "name": "mylène farmer"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb611514e27a656eb7559576",
+      "uri": "spotify:album:7tY8iG1WqmCJGbIEkAIAXR",
+      "name": "the crew: motorfest (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "6q13h45euKCgmXJ4HOdJM4",
+          "name": "dirty two club"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "57B9WzJrtc9gSW3i2ez5vq",
+          "name": "ribongia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301285dbb96cf21a69f1b0ba6",
+      "uri": "spotify:album:2C9sfqQCzZoVBj1qWiuv2U",
+      "name": "break and enter",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b51c666d061a3e2334b0126",
+      "uri": "spotify:album:5nUmEaADG6smRhB5lVcaQs",
+      "name": "apocrypha iii: eternal vespers",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DGpuIJ6KAI5bcaFGbJZJs",
+          "name": "satellite empire"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c93efb6866ed0d662c9add0",
+      "uri": "spotify:album:0IxwSIb94iDQd9zkgU5WMS",
+      "name": "upgrade",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "2M7JkcbtuTMqyXlprvWXG7",
+          "name": "danny cocke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c7020d137a0a7ad921ade52",
+      "uri": "spotify:album:0wFvRICUTGLPbWNbcpPLSX",
+      "name": "obsidian",
+      "album_type": "album",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360e76c37529fea4d8c01464d",
+      "uri": "spotify:album:1CAezzKuxW7motYeP5NcRv",
+      "name": "copper",
+      "album_type": "album",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362f8f826895448a69b1d8384",
+      "uri": "spotify:album:4wFyNiJTy2NHOPVzjjFXeJ",
+      "name": "fighter",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9cc7141ef9a5f25799522c1",
+      "uri": "spotify:album:4BbEJGpx78HnX88cMNdN42",
+      "name": "death will have to run",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da80b61eeaedd649761589da",
+      "uri": "spotify:album:0Sc0N5Fqa4txSPPpJmL2mA",
+      "name": "quartz",
+      "album_type": "album",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce53510b6585077804a126a6",
+      "uri": "spotify:album:0JP5x8cEMLUomeZVfP7leS",
+      "name": "lakes of flame (comaduster remix)",
+      "album_type": "single",
+      "release_date": "2019-01-21",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "7qiPN4EfYY3qZqZwaAKzN5",
+          "name": "comaduster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a36a590491bd4f750fa66aa",
+      "uri": "spotify:album:40Lt0SymWc7TK5ffqmfvaR",
+      "name": "lakes of flame",
+      "album_type": "single",
+      "release_date": "2018-12-18",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734375c881906bc9a397bef592",
+      "uri": "spotify:album:0k5zuOfhkAeBRwA1nckeRH",
+      "name": "not over til we say so (formal one remix)",
+      "album_type": "single",
+      "release_date": "2018-08-30",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "7t9RzoO6u80uVTQGEt5p59",
+          "name": "formal one"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735128fe6af0b5227bd6a6b84e",
+      "uri": "spotify:album:1FYvHquKikPD4LObzJasg0",
+      "name": "the devil (remixes) [deluxe edition]",
+      "album_type": "album",
+      "release_date": "2018-07-19",
+      "release_year": "2018",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c070cd60b393649d36fba6e9",
+      "uri": "spotify:album:6cMAuHK4EIzRdN6tRq5zvc",
+      "name": "so so bad (scattavox remix)",
+      "album_type": "single",
+      "release_date": "2018-02-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "5YwTFUdvf1nPndElbEc3tV",
+          "name": "scattavox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e63b00abe33791594a33314e",
+      "uri": "spotify:album:13JWuZsemtEns1wJFZce6S",
+      "name": "rebel yell",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273656102a585036fe497949829",
+      "uri": "spotify:album:5YUJuByqafegNF2ttTGZXA",
+      "name": "metamorphosis (lvl remix)",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "1gOWmDH5ImZRpi3yYoGZ0i",
+          "name": "lvl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb7559b6fec89ad7ee94bb3e",
+      "uri": "spotify:album:5ObseWpOPb02LAE1V6oRPX",
+      "name": "suit up",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273150368142b50b1c6bf07aa2d",
+      "uri": "spotify:album:6z1Q7KJbwFs7PFUEetIBHK",
+      "name": "shotgun senorita (zardonic remix)",
+      "album_type": "single",
+      "release_date": "2017-09-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "7BqEidErPMNiUXCRE0dV2n",
+          "name": "zardonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fb7c8c953729046e9ef0171",
+      "uri": "spotify:album:6DrYTqOgwHVVC0VN61PhaQ",
+      "name": "run the track",
+      "album_type": "single",
+      "release_date": "2017-08-27",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        },
+        {
+          "spotify_id": "5rrWLqEEESla2vFGHGvEdp",
+          "name": "nyzzy nyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2853fc8d5e2f66927a8c4fc",
+      "uri": "spotify:album:08s1eBHH0B4PgmDRFhEYk9",
+      "name": "antisleep, vol. 04",
+      "album_type": "album",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da0e2258c11018c7c17743b0",
+      "uri": "spotify:album:1Iu4CeD7hhtzXv2xATBmT1",
+      "name": "premonitions",
+      "album_type": "album",
+      "release_date": "2016-08-26",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320d06426954869610e4a052f",
+      "uri": "spotify:album:6wZ6bHs81VeaqrAP7LYax1",
+      "name": "the devil (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2015-10-02",
+      "release_year": "2015",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24c2772648d620859c071f2",
+      "uri": "spotify:album:1I6teYD4KRp4ONLdEc847N",
+      "name": "antisleep, vol. 03",
+      "album_type": "album",
+      "release_date": "2012-12-18",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345a6503b0cdc083a8b8b2c5c",
+      "uri": "spotify:album:2i5EMoEBUvyVTUvLSA7qXZ",
+      "name": "blue stahli",
+      "album_type": "single",
+      "release_date": "2012-03-20",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daa0d8c2730e50331204df3b",
+      "uri": "spotify:album:7dtnoQFCsJJ9CsNa4tbqVs",
+      "name": "antisleep, vol. 02",
+      "album_type": "album",
+      "release_date": "2011-12-09",
+      "release_year": "2011",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcd9fe1276c16fcdad98c50c",
+      "uri": "spotify:album:2dqVjHJzeMr18V9VJKRtTj",
+      "name": "blue stahli (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2011-03-02",
+      "release_year": "2011",
+      "total_tracks": 32,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8e32027593818e495ed4916",
+      "uri": "spotify:album:0wN3VQst2ljEyZjkfsTQON",
+      "name": "antisleep, vol. 01",
+      "album_type": "album",
+      "release_date": "2008-01-01",
+      "release_year": "2008",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:47.000Z"
+}

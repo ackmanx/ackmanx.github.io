@@ -1,0 +1,48 @@
+{
+  "name": "ninja",
+  "spotify_id": "1MpTRWf8JWazWgL4zDlWsE",
+  "uri": "spotify:artist:1MpTRWf8JWazWgL4zDlWsE",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe839c2f7426d6dddc154c2ea",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be2e4f8b77545395b397a8a0",
+      "uri": "spotify:album:0PKzBQ3qsIEHpKI0QygSp8",
+      "name": "glue me",
+      "album_type": "single",
+      "release_date": "2022-06-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "65bPhiDUzBFZLuBffNFJfY",
+          "name": "nep li"
+        },
+        {
+          "spotify_id": "1MpTRWf8JWazWgL4zDlWsE",
+          "name": "ninja"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a18932fec7d894b1f8ffe0c2",
+      "uri": "spotify:album:1ZTTtYiivr4tUgHLt1f0Nh",
+      "name": "game time (feat. ninja)",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        },
+        {
+          "spotify_id": "1MpTRWf8JWazWgL4zDlWsE",
+          "name": "ninja"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:25.000Z"
+}

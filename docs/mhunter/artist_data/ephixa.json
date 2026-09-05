@@ -1,0 +1,439 @@
+{
+  "name": "ephixa",
+  "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+  "uri": "spotify:artist:7xYcJfhrRx9Iv8smhoEibc",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb85a37ab6ea9733d60497255b",
+  "genres": [
+    "dubstep",
+    "edm",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730690d849b8b307ee5a171404",
+      "uri": "spotify:album:1zRTUCpW90vXHWBL5tZJqc",
+      "name": "sorry bout dat",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1fde90c1a5cb6713e70c2c",
+      "uri": "spotify:album:7stsyqXaO24wkGyIgVD3QM",
+      "name": "bird gun dub",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecc14d70764d014d56b5daeb",
+      "uri": "spotify:album:11W8sg8LRJzQIgWHPHkty1",
+      "name": "hey there!",
+      "album_type": "single",
+      "release_date": "2023-04-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o66UJPzUonUgENhbqpHRX",
+          "name": "mylk"
+        },
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370992b5ba71aa88a29287340",
+      "uri": "spotify:album:1mxTOCqz72hquPBc0mCAm7",
+      "name": "time travel kool aid (volant remix)",
+      "album_type": "single",
+      "release_date": "2020-08-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "64N3o9z76C2APyfgQV2HMp",
+          "name": "half an orange"
+        },
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "1peAJRnCgGwBv46QXFJEbU",
+          "name": "volant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348441f257bf89f570dbc81e8",
+      "uri": "spotify:album:4YrXTYBBxbVysyRPGzupOt",
+      "name": "time travel kool aid",
+      "album_type": "single",
+      "release_date": "2020-02-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "64N3o9z76C2APyfgQV2HMp",
+          "name": "half an orange"
+        },
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273194eb6d66e00f03fb5c81dbf",
+      "uri": "spotify:album:2oFrFcC6GYP08ZYbzmuYkb",
+      "name": "problems",
+      "album_type": "single",
+      "release_date": "2019-07-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0FvgCHaMG7KL6M83yJuhmL",
+          "name": "stephen walking"
+        },
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6ad2909703abe08f0ae439b",
+      "uri": "spotify:album:6NF7Hsl2Z64odMfXKMHLpY",
+      "name": "let's roll",
+      "album_type": "single",
+      "release_date": "2019-07-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "14XqctcPu0lzQjrUZ06Tsn",
+          "name": "going quantum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307ede4ad305de0b3a19a472f",
+      "uri": "spotify:album:3i79o60w7LVAfonuiZPzaH",
+      "name": "sundance",
+      "album_type": "single",
+      "release_date": "2019-06-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "0rSrqbsuGkhgPrg7jqk7Kk",
+          "name": "heartful"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d56e96af7ae293de904f9c9",
+      "uri": "spotify:album:3GSBcowmQxTWGiBOc4zJwh",
+      "name": "dreamstate",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e72fa342ba307d2836837e04",
+      "uri": "spotify:album:0acMqmEmtw1B5JPlNxFiaW",
+      "name": "subside",
+      "album_type": "single",
+      "release_date": "2017-12-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "1fILrc9B34DjHxSMkJmyBN",
+          "name": "bossfight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0ad7fc9e21ce11ae17e19ec",
+      "uri": "spotify:album:2T8vHIdbWW6GA8rYYJdgdS",
+      "name": "deja vu",
+      "album_type": "single",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "7ddnIV2r4SLjuwyGlgLIWt",
+          "name": "laura brehm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4356179b7199619cc96adc7",
+      "uri": "spotify:album:3VvOC7R7wQtMi1snaUDOMB",
+      "name": "parallel (ephixa remix - instrumental)",
+      "album_type": "single",
+      "release_date": "2017-09-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "7ddnIV2r4SLjuwyGlgLIWt",
+          "name": "laura brehm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd3a88dcde679fcd4929a422",
+      "uri": "spotify:album:6VGPtorpkn6TSWp47Edyjj",
+      "name": "losing you",
+      "album_type": "single",
+      "release_date": "2017-02-01",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "7ddnIV2r4SLjuwyGlgLIWt",
+          "name": "laura brehm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e39b78eb201030ead50b0ec",
+      "uri": "spotify:album:4VtAwaWexSYHwL9lauPEl7",
+      "name": "2080",
+      "album_type": "single",
+      "release_date": "2017-01-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "0rSrqbsuGkhgPrg7jqk7Kk",
+          "name": "heartful"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8dc860dfa1a703f71220b3a",
+      "uri": "spotify:album:4MnZWBPw0vCrIa0rFCQwqD",
+      "name": "wisdom (zelda's lullaby)",
+      "album_type": "single",
+      "release_date": "2016-12-30",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734378c553563e7c176b92c892",
+      "uri": "spotify:album:0xDWlk9ejBn460JgFU5cC9",
+      "name": "retrospect",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384ad0694955dd0dcaf0a4b38",
+      "uri": "spotify:album:2sDzlAcw6kSOGiuLOkzss7",
+      "name": "home (keygen flip) [from \"undertale\"]",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362cc1b710243f329d99bfeb5",
+      "uri": "spotify:album:68tjC8Aq5oE0hJk5bxL807",
+      "name": "matches (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-11-08",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "0FvgCHaMG7KL6M83yJuhmL",
+          "name": "stephen walking"
+        },
+        {
+          "spotify_id": "635Ty89ihpkpWMkLQ7dlsp",
+          "name": "aaron richards"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8a740fc1fadc589a20ce207",
+      "uri": "spotify:album:4WGyPtxpV3uZzBLQpn4BBy",
+      "name": "everlasting",
+      "album_type": "single",
+      "release_date": "2016-09-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "40HDiLfKm0tXk2FxlJx6aO",
+          "name": "jim yosef"
+        },
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303c8d11b3490fbab985f032a",
+      "uri": "spotify:album:7M0xF5udgD6xsTE7Z6ypqk",
+      "name": "cobra",
+      "album_type": "single",
+      "release_date": "2016-07-23",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "4uJ8CwR5OQcZvr0fTS9ZAd",
+          "name": "holder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad432992494d8f013b85154a",
+      "uri": "spotify:album:1PqadK3IOJLs8ww1jKP9kH",
+      "name": "matches",
+      "album_type": "single",
+      "release_date": "2016-07-04",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        },
+        {
+          "spotify_id": "0FvgCHaMG7KL6M83yJuhmL",
+          "name": "stephen walking"
+        },
+        {
+          "spotify_id": "635Ty89ihpkpWMkLQ7dlsp",
+          "name": "aaron richards"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b83db88b11ebc965f1a86fd0",
+      "uri": "spotify:album:6Hx6oTw77mNcFdSUb7cvDi",
+      "name": "ideekay",
+      "album_type": "single",
+      "release_date": "2012-05-19",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9c47b925120e5c9e44f53a7",
+      "uri": "spotify:album:5qi9wKHg3lUG16POqohomS",
+      "name": "some wobbles",
+      "album_type": "single",
+      "release_date": "2011-09-14",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7xYcJfhrRx9Iv8smhoEibc",
+          "name": "ephixa"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:49.000Z"
+}

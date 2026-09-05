@@ -1,0 +1,717 @@
+{
+  "name": "marteria",
+  "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+  "uri": "spotify:artist:3nDNDLcZuSto4k9u4AbcLB",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebceaea40c636d28fd34d6e713",
+  "genres": [
+    "german hip hop",
+    "german pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e07d09a5d5513da522e65f",
+      "uri": "spotify:album:2eFSxvxOTCXFeg0uR5uA3p",
+      "name": "zum glück in die zukunft iii",
+      "album_type": "album",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2a240c322c64c485d2260fc",
+      "uri": "spotify:album:7zkV4UJ6oToN21XonJTX5H",
+      "name": "9 leben (eins übrig)",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356462f2d967d498a4975b843",
+      "uri": "spotify:album:12UG4kJJvo6nKQ1b4s2fBw",
+      "name": "sad holiday (schwarzer sand)",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733258f4a798b08dd0667d2b05",
+      "uri": "spotify:album:6HRFbveHYKhehqzQgQYOzu",
+      "name": "meins!",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cb3dfd71516c8c420f69d44",
+      "uri": "spotify:album:4tmEvilZp4uaqPNQu13mFc",
+      "name": "l.i.e.b.",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4274203bbed9d53dd4ff68d",
+      "uri": "spotify:album:5Jm3LGmOZCZzOv7JO64ovj",
+      "name": "babylonia",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3a7ca6703eea56633d12f33",
+      "uri": "spotify:album:2ml6XyxJEzDDVMo96kZlqQ",
+      "name": "jacky (feat. sido & marteria)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6jL3G5P8rxfUamkyqmRJNU",
+          "name": "marsimoto"
+        },
+        {
+          "spotify_id": "4Yttlv9ndGjCDCVLqM7ACq",
+          "name": "sido"
+        },
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a610d46fe8670e819bddea30",
+      "uri": "spotify:album:3CKqrmwbWQf8EIQVMpswGG",
+      "name": "karma",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2R8vGXr6HRz8x5Mi7VaEuB",
+          "name": "gerda"
+        },
+        {
+          "spotify_id": "4H9W4cb3X0qRpv87yKV7fV",
+          "name": "kwam.e"
+        },
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351b9a6ffbef87aade2a4ea56",
+      "uri": "spotify:album:0fJbTVWuEtBLPsynoYRrZL",
+      "name": "der mensch stammt von waffen ab",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273658aa711e2e1db61190a7c34",
+      "uri": "spotify:album:1DmmqaajQtkzsW88a6ZS37",
+      "name": "wald",
+      "album_type": "single",
+      "release_date": "2022-11-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "2cP7dnZQqfYPoMMdmYQyJl",
+          "name": "nobodys face"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730abd26920bc9f3e6769c5c26",
+      "uri": "spotify:album:2Iwx4EYvvalW1qymOM7V81",
+      "name": "wendekind",
+      "album_type": "single",
+      "release_date": "2022-11-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ZyqnbV7Brg5LgyS4EZCUD",
+          "name": "finch"
+        },
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "3GbUWWI1rMwAIPbUVPvnPA",
+          "name": "silbermond"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737377599b53eda724a812b9ef",
+      "uri": "spotify:album:1tbwLCRm0rqBHEqVrZAxam",
+      "name": "niemand bringt marten um",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6pSQcy8935ABNiK2qOpOlK",
+          "name": "lambert"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae893b0a4fefa0e59a88048e",
+      "uri": "spotify:album:2M1YyohOP5IW9tCXnsazvQ",
+      "name": "scheiss ossis",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2d28be60707c966c775990c",
+      "uri": "spotify:album:19Y5unyuRZrnaKxRLzbQBs",
+      "name": "5. dimension",
+      "album_type": "album",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735882fe2c5fbf7cffdc283c67",
+      "uri": "spotify:album:2SUtYGDsNIacDXy0v6de7k",
+      "name": "love, peace & happiness",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6zBax4hSAI1BJYgwF61EP5",
+          "name": "inéz"
+        },
+        {
+          "spotify_id": "3tmjMu5zfLOTVJ8YX5FDpU",
+          "name": "yasha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af58572eb8e1da13cde895c7",
+      "uri": "spotify:album:0r01OVrWKzN05MYWpa2U0Y",
+      "name": "marilyn",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "22680B8sUdq6bL6nQaJfwg",
+          "name": "siriusmo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731261a91ab0e21134ba970aa9",
+      "uri": "spotify:album:3Q1B7fgpTisy9q9Xa85UbI",
+      "name": "paradise delay",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "1kR99O4MgSTasyeJh8UFCg",
+          "name": "dj koze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1c4bcb50ee049ea4255512f",
+      "uri": "spotify:album:15KTKR5qdOoHikdrW3v65B",
+      "name": "eule",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4KivBMgSnZ7hCDfPm46fKc",
+          "name": "jan delay"
+        },
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323350c6b4af6b3ec97a8dcdf",
+      "uri": "spotify:album:6dGnR9DLH0xU1VLzUAsPqq",
+      "name": "live im ostseestadion",
+      "album_type": "album",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e6422d9969f3e550bfc9c1",
+      "uri": "spotify:album:7jgXwkHWA2zqnYWjvyMVKP",
+      "name": "omg! (live im ostseestadion)",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e9187fc2f4d72a926de3935",
+      "uri": "spotify:album:5g6uLWy6W2e5pUXL0wbaeG",
+      "name": "bengalische tiger (live im ostseestadion)",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fe1c3a6b09018dc5c0620ca",
+      "uri": "spotify:album:7zyeXBemQOEAiDWjeaFvcI",
+      "name": "1982",
+      "album_type": "album",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6UDhlW8uEVBBrqHS3RrKuv",
+          "name": "casper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738aa6aef3e2659bb79faa0635",
+      "uri": "spotify:album:0s0rP4qVAqGPgpeTlOyHUu",
+      "name": "adrenalin",
+      "album_type": "single",
+      "release_date": "2018-08-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6UDhlW8uEVBBrqHS3RrKuv",
+          "name": "casper"
+        },
+        {
+          "spotify_id": "2WpPhBfBqbLgQe1F2QZjXR",
+          "name": "marteria & casper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c309db488229c04c4e61a4b6",
+      "uri": "spotify:album:20sxyL0ZX4Xci5OSPbpNeE",
+      "name": "chardonnay & purple haze",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6UDhlW8uEVBBrqHS3RrKuv",
+          "name": "casper"
+        },
+        {
+          "spotify_id": "2WpPhBfBqbLgQe1F2QZjXR",
+          "name": "marteria & casper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dcaf37ec8758f2924d9ca99",
+      "uri": "spotify:album:55vwB2rzUMiLzupHykME86",
+      "name": "supernova",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6UDhlW8uEVBBrqHS3RrKuv",
+          "name": "casper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334a27e7bec51b6ef040944e3",
+      "uri": "spotify:album:3sZ7w5OVW1LEYis4jke81c",
+      "name": "champion sound",
+      "album_type": "single",
+      "release_date": "2018-06-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "6UDhlW8uEVBBrqHS3RrKuv",
+          "name": "casper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737592ff85719375e8a6401718",
+      "uri": "spotify:album:41euZj8tFncfXIqAi9qWA2",
+      "name": "scotty beam mich hoch",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273509fbb0c7d3cc15c9e1741d6",
+      "uri": "spotify:album:2MlomAWFVeT7DrgExFM8EY",
+      "name": "roswell",
+      "album_type": "album",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324f5b30bbb4abdbec84ad4b8",
+      "uri": "spotify:album:0IJ8DOkWG3F73AvWfrEKNA",
+      "name": "roswell (instrumentals)",
+      "album_type": "album",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbd57ff5142951371b454dd4",
+      "uri": "spotify:album:0DeCtNnAxRV9e6tbOLSbuq",
+      "name": "zum glück in die zukunft ii",
+      "album_type": "album",
+      "release_date": "2014-01-31",
+      "release_year": "2014",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b01017c09f9bdc8a84c693cd",
+      "uri": "spotify:album:10akgQHHfHEKzwzxhNbOOs",
+      "name": "zum glück in die zukunft ii (deluxe version)",
+      "album_type": "album",
+      "release_date": "2014-01-31",
+      "release_year": "2014",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c41b7d5fa8a329119c271c7e",
+      "uri": "spotify:album:2kkRzTFctsVZZFu98wb1Hy",
+      "name": "omg! (dead rabbit remix)",
+      "album_type": "single",
+      "release_date": "2014-01-24",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "1eIApi01IU6QsiajbLMNie",
+          "name": "dead rabbit"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3ba0ac3ab2f6112105242be",
+      "uri": "spotify:album:2BM7ysMs4d1px37B2wOh1y",
+      "name": "big bang",
+      "album_type": "single",
+      "release_date": "2013-09-02",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5e625c92f75943b86d8af56",
+      "uri": "spotify:album:4rsW2YDarQnsqCpHvUOKwW",
+      "name": "lila wolken (beathoavenz remix)",
+      "album_type": "single",
+      "release_date": "2013-03-15",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "3tmjMu5zfLOTVJ8YX5FDpU",
+          "name": "yasha"
+        },
+        {
+          "spotify_id": "30SUIQhGDLj1pP0yg4fSMu",
+          "name": "miss platnum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ce7c9ced02e1851514aca40",
+      "uri": "spotify:album:79m2lkJK14IS4CmwGlgHzj",
+      "name": "lila wolken",
+      "album_type": "single",
+      "release_date": "2012-09-14",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "3tmjMu5zfLOTVJ8YX5FDpU",
+          "name": "yasha"
+        },
+        {
+          "spotify_id": "30SUIQhGDLj1pP0yg4fSMu",
+          "name": "miss platnum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8cd9b88d69e10675ad829ab",
+      "uri": "spotify:album:4aZjYtvdVP0DNt0WZhkt2w",
+      "name": "sekundenschlaf (seed remix)",
+      "album_type": "single",
+      "release_date": "2011-03-04",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3563a538e345434b26084d1",
+      "uri": "spotify:album:0J5pVyGvZzDxLShxu02D91",
+      "name": "zum glück in die zukunft",
+      "album_type": "album",
+      "release_date": "2010-10-29",
+      "release_year": "2010",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308cec93b07369d0eaa3a1bf2",
+      "uri": "spotify:album:0UQKjFvWFL1FLA32Dc8BXp",
+      "name": "zum glück in die zukunft (premium version)",
+      "album_type": "album",
+      "release_date": "2010-08-27",
+      "release_year": "2010",
+      "total_tracks": 39,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a932241632543958536ddf",
+      "uri": "spotify:album:34Wxn7tcuySYBZGIZCvEs0",
+      "name": "endboss (deichkind st pauli rmx)",
+      "album_type": "single",
+      "release_date": "2010-08-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce58b936c20c23cab2f2836b",
+      "uri": "spotify:album:3VcfcnlfyHVvJvaZPKEP4u",
+      "name": "base ventura",
+      "album_type": "album",
+      "release_date": "2007",
+      "release_year": "2007",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:11.000Z"
+}

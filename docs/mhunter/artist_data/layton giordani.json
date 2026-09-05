@@ -1,0 +1,968 @@
+{
+  "name": "layton giordani",
+  "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+  "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c4a89caa76ae4f1d3232f61",
+  "genres": [
+    "techno",
+    "melodic techno",
+    "tech house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273291a3d6c63d3fc8cc091beda",
+      "uri": "spotify:album:17fphJG2iSPRDIXKZtaweO",
+      "name": "the realm",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "7eHoBIirKPLD1FtgLZnjFV",
+          "name": "kasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363a311ad5a7a5595ef6599b6",
+      "uri": "spotify:album:1yFzaDx3ibycTAZqUQHJMh",
+      "name": "tonight",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "7yRimuQSC5Ks3T2Ts0iyZa",
+          "name": "patrick topping"
+        },
+        {
+          "spotify_id": "5xPHGeNecDlCoEezCF2bWn",
+          "name": "kosmo kint"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273117cbaeb29c903d5e9216a4c",
+      "uri": "spotify:album:6DOWj1TYplUhV2QDRsVupR",
+      "name": "meet again",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6TQj5BFPooTa08A7pk8AQ1",
+          "name": "kaskade"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "5bfglVyGJppmmNoC2rhBUG",
+          "name": "natalie jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273444a6f02d95bfa0c43338fb5",
+      "uri": "spotify:album:0KNBzGKNzi9sS8R3TCjwQb",
+      "name": "she's a devil",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "7mGI9Sd66FqHjIkwzkgbG7",
+          "name": "ar/co"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a21b3da24b62b388ac74409",
+      "uri": "spotify:album:4emvnbE9E7wEfypWgO9lhy",
+      "name": "open up",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f78ca96be17b89fd9d00c328",
+      "uri": "spotify:album:31X6KPTcto4idRic20AYWb",
+      "name": "destiny",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "5mNpMP01Co4vXZ3U0fWP3C",
+          "name": "camden cox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333c52c44cdb729134ad006e1",
+      "uri": "spotify:album:190j6VL13BrJpUvxfFoTo7",
+      "name": "when it kicks (rebūke remix)",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        },
+        {
+          "spotify_id": "113reBz1jA6rVxbXl55mlj",
+          "name": "rebūke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d54fcdd0b86f864c1d09d3a",
+      "uri": "spotify:album:7ju3uWe1w2bHwJ3NUdUxRq",
+      "name": "when it kicks (script remix)",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        },
+        {
+          "spotify_id": "4CvDmoy5yE6L4hdBOHg1sz",
+          "name": "script"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e545c104b0fcc8b27d54a49",
+      "uri": "spotify:album:7jnumFQrlaFY5HEllvWEvb",
+      "name": "hold it down (dare)",
+      "album_type": "single",
+      "release_date": "2025-11-12",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c674737de68093c8c90e6ce9",
+      "uri": "spotify:album:38Y5JxxiK9KbrXbWyA5JU8",
+      "name": "call you back",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "4OG9hOPsfAEziKvOJj2SG7",
+          "name": "genesi"
+        },
+        {
+          "spotify_id": "0ToTNYPspLv4FWbcpXgOUt",
+          "name": "be no rain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ace14f2c744a155e3e720a3",
+      "uri": "spotify:album:1QiNL9S4KS4imKoftapDLh",
+      "name": "when it kicks",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b4c9137918882e6509a1f7f",
+      "uri": "spotify:album:0pOs24vzDeIobtd78HbZjS",
+      "name": "at night (anyma x layton giordani remix)",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vSfjPjAbekoehCpmy1RV1",
+          "name": "shakedown"
+        },
+        {
+          "spotify_id": "4iBwchw0U0GZv5RfVYSMxN",
+          "name": "anyma"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea39972560f72df7e6d490fa",
+      "uri": "spotify:album:6CK5736RvBDi7w9wDjCYLf",
+      "name": "alto",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1btv9qmIpbp7q1ixCYNdHu",
+          "name": "adam beyer"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5711263a043a3a2206eb37f",
+      "uri": "spotify:album:7zif1K4NwIoYDfWSlnkCKW",
+      "name": "act of god (camelphat remix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ec2feec0a330fb24008d72c",
+      "uri": "spotify:album:2tFV0VTYlaoVbqJquzfx9V",
+      "name": "focus (feat. cloves) [layton giordani remix]",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "john summit"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3ef3fc134b28294c7dcf987",
+      "uri": "spotify:album:1KrV7mXE0n4n6OncRaEuPB",
+      "name": "deadly valentine",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "6iWBjg4b4ll4jLiParnWXT",
+          "name": "bart skils"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2182e14f063386387307259",
+      "uri": "spotify:album:3uKmknD3G3fnCLgcCg70V0",
+      "name": "act of god",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "0vomb9Zaob10lPzxBcIiNb",
+          "name": "linney"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bd29ccabd4771943fc770d0",
+      "uri": "spotify:album:3dX3gMN0GRtPuuLamZrlKN",
+      "name": "let's go dancing",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "5l9wiTZVfqQTfMDOt0HtwC",
+          "name": "tiga"
+        },
+        {
+          "spotify_id": "1ygSVTF0A998n2Z3nmLei8",
+          "name": "audion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a20c1e92e974954d73b732a",
+      "uri": "spotify:album:5LaUQcTL2F4TtqRbIZdxiG",
+      "name": "better than u thought",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc7519e998907937c892021d",
+      "uri": "spotify:album:2vcisyP9y8jUFqI7W6x7BN",
+      "name": "girl$ (layton giordani remix)",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "205i7E8fNVfojowcQSfK9m",
+          "name": "dom dolla"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735710080f2b69e06d5b43e8ee",
+      "uri": "spotify:album:7kxCqxCTpTGTLj61xXksz7",
+      "name": "freaks at night",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186",
+      "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa",
+      "name": "last night (anyma x layton giordani remix)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6zx3vuOK841XDu7XFozhFv",
+          "name": "loofy"
+        },
+        {
+          "spotify_id": "4iBwchw0U0GZv5RfVYSMxN",
+          "name": "anyma"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312643878170a0384000153e5",
+      "uri": "spotify:album:77RCWyzeOsqkIH0QFNdrjH",
+      "name": "new generation (space 92 remix)",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "6TVdVlY6irsNPkMHT2HkfD",
+          "name": "space 92"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273badd4980f6c0c9d638f13d04",
+      "uri": "spotify:album:5iYWRlPNkKIx6tsAxPmnHU",
+      "name": "patt (party all the time) [adam beyer, layton giordani & green velvet remix]",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7rVEQZBDtYmToQaYOQJCm2",
+          "name": "sharam"
+        },
+        {
+          "spotify_id": "1btv9qmIpbp7q1ixCYNdHu",
+          "name": "adam beyer"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4c9be103898bb3e793ca900",
+      "uri": "spotify:album:32MGb1PwPX3iw4R871kPtW",
+      "name": "paranoid",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388ebf4ac1447fcf595e899ea",
+      "uri": "spotify:album:1mvCo6lKqirk2mq56tiMRy",
+      "name": "when i push (edit)",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lVNSw2GPci8kebrAQpZqU",
+          "name": "eli brown"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "2E1NFr5AeEGUJkLUUsWCAO",
+          "name": "offaiah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a45a661a90684212a01ec8e9",
+      "uri": "spotify:album:2Nm01e295X9vBLH3g9FJBo",
+      "name": "voicemail (layton giordani remix)",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        },
+        {
+          "spotify_id": "7yRimuQSC5Ks3T2Ts0iyZa",
+          "name": "patrick topping"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b8b880aa3427bf454283e3d",
+      "uri": "spotify:album:53kkvZnrWCe8HOFQGr7o3h",
+      "name": "phantom",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b71705618bbd16779e630b9",
+      "uri": "spotify:album:0oNJfZFoypJFKQtOHAvPgW",
+      "name": "life moves fast",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c822735b8415aed6046cc23c",
+      "uri": "spotify:album:6IUAm6HwphfHgl7KJz0X7w",
+      "name": "rabbit hole",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "0ETJQforv5OXgDgidQv9qd",
+          "name": "hi-lo"
+        },
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a97d922da1a3d1a8a4fc3fa",
+      "uri": "spotify:album:0mOZ1Zwt2GmvuikrrEZLZy",
+      "name": "digital age",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273150df7e71d2128b040c815dc",
+      "uri": "spotify:album:6PyxW7J95s2e5ZuzoZcG0H",
+      "name": "rave (remix)",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50ZyjIaVHOy5Xt7FLJ7RZl",
+          "name": "sam paganini"
+        },
+        {
+          "spotify_id": "1btv9qmIpbp7q1ixCYNdHu",
+          "name": "adam beyer"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376867958828f068d39fb0040",
+      "uri": "spotify:album:61YBura65VHqRFXikG8T7l",
+      "name": "hyper world",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0bf0d4998bfb201ee4f16b9",
+      "uri": "spotify:album:18BzrmOh8i9h9VGaJLOtAs",
+      "name": "new generation",
+      "album_type": "album",
+      "release_date": "2020-09-14",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddc9157a43f168202f7ea48a",
+      "uri": "spotify:album:0yHBN7E9bGRdOqHVP0dKhQ",
+      "name": "for a feeling (feat. rhodes) [layton giordani remix]",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369689c8a2634db18eba96348",
+      "uri": "spotify:album:0uGey9uCmwCkcHR7Eow26t",
+      "name": "chrome",
+      "album_type": "single",
+      "release_date": "2019-09-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311afad4d3f1f5fdebbfb5c68",
+      "uri": "spotify:album:5EsqDXOuw04qqRCaV6oAde",
+      "name": "space date remixes",
+      "album_type": "single",
+      "release_date": "2019-07-08",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1btv9qmIpbp7q1ixCYNdHu",
+          "name": "adam beyer"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355f470382fd8e710363edff2",
+      "uri": "spotify:album:5yZ21jBXF9n5145Yww8FVA",
+      "name": "fuzion",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edde1ae609d46a70a28a2740",
+      "uri": "spotify:album:2r8sAt9CLEunfJQpw5Hg5N",
+      "name": "phase ii",
+      "album_type": "single",
+      "release_date": "2018-12-10",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316125cb225d88deb84bac5cd",
+      "uri": "spotify:album:4SpAisVfXv4mffwJHk2jzu",
+      "name": "space date",
+      "album_type": "single",
+      "release_date": "2018-08-13",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1btv9qmIpbp7q1ixCYNdHu",
+          "name": "adam beyer"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "3ABaec4jjl95VqmG1iD4k2",
+          "name": "green velvet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b46c6d3e238f1f743bbca9bc",
+      "uri": "spotify:album:3zUHiE9Gtbq6KG5WV6Ws95",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2018-06-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6eOBEYGx9M4t87osYMIakb",
+          "name": "celeda"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344b6f5b04a2ef444a9c3c334",
+      "uri": "spotify:album:3C8EwfiGChTyLnYfv9jty0",
+      "name": "live again",
+      "album_type": "single",
+      "release_date": "2017-10-23",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "2tG935baRE4mH8B3saiwbm",
+          "name": "danny tenaglia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ab5225e9fbb329853eb7550",
+      "uri": "spotify:album:5OHzrlhfCC94pfWhiaqvnn",
+      "name": "where it begins",
+      "album_type": "album",
+      "release_date": "2017-03-13",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273924147cd6a50b1c213808858",
+      "uri": "spotify:album:3KBfl6Lo4Cfr0U6NvC8b7h",
+      "name": "unspoken",
+      "album_type": "single",
+      "release_date": "2016-06-13",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336292a7e30981a64c4793f02",
+      "uri": "spotify:album:4d6s28qPxeyASYSyWyaAF9",
+      "name": "relentless",
+      "album_type": "single",
+      "release_date": "2015-08-17",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aad5d4aeee315a1a039cd498",
+      "uri": "spotify:album:77pvbZBhaRpwKzXczqpx8s",
+      "name": "random access",
+      "album_type": "single",
+      "release_date": "2015-06-01",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        },
+        {
+          "spotify_id": "6u91vcbmUKnkaDXmKSDjhm",
+          "name": "jesper dahlbäck"
+        },
+        {
+          "spotify_id": "3fmttokPNmNXJOAHMWsXbJ",
+          "name": "tony rohr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734235104654396b768ad088b5",
+      "uri": "spotify:album:1wqssBmWBhZ0RePCgUEFqx",
+      "name": "never forgotten",
+      "album_type": "single",
+      "release_date": "2015-03-23",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a8d5a7662902fda071ef507",
+      "uri": "spotify:album:5eDXoB6xu4QhV4DUaNFv3n",
+      "name": "locust",
+      "album_type": "single",
+      "release_date": "2014-04-28",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ca8d78177dc98886b7b2026",
+      "uri": "spotify:album:6H4yHhZPXuEUIpNWycwQ6y",
+      "name": "over my lt6 ep",
+      "album_type": "single",
+      "release_date": "2014-04-21",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273619e688924a52c9b6b20e019",
+      "uri": "spotify:album:3QIlpaeGHbkLPdX2cfrrJe",
+      "name": "disturbances",
+      "album_type": "single",
+      "release_date": "2013-12-16",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3fmttokPNmNXJOAHMWsXbJ",
+          "name": "tony rohr"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:58.000Z"
+}

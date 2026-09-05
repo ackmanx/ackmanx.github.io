@@ -1,0 +1,90 @@
+{
+  "name": "corporate soldiers",
+  "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+  "uri": "spotify:artist:6lBd7YiYzkxYPQjgyL5bbW",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2733cb88ac3b6c444d891b9e61f",
+  "genres": [
+    "ebm",
+    "industrial",
+    "synthpop",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346a28f2eadd3fb515210d8dd",
+      "uri": "spotify:album:6kts1EgPOQaUwT6NoPxt4U",
+      "name": "forgotten memories",
+      "album_type": "single",
+      "release_date": "2016-07-20",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+          "name": "corporate soldiers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301cc34889bba99a9355c862d",
+      "uri": "spotify:album:6boJFrdR5846LBKuU5BWZc",
+      "name": "give it to you (feat. ayria)",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+          "name": "corporate soldiers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c18d9c264253a531d129c3e5",
+      "uri": "spotify:album:7cX85Ws82DXXnDIjo0AaKe",
+      "name": "apart from you",
+      "album_type": "album",
+      "release_date": "2010-07-08",
+      "release_year": "2010",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+          "name": "corporate soldiers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cb88ac3b6c444d891b9e61f",
+      "uri": "spotify:album:0qYYDIyNjILJPSXydEhWp6",
+      "name": "drop your panties",
+      "album_type": "single",
+      "release_date": "2010-02-02",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+          "name": "corporate soldiers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273677956b6dc0e8e48f46d80dc",
+      "uri": "spotify:album:5ARx8tMBkjMREqVFu3tXhr",
+      "name": "all that's lost",
+      "album_type": "album",
+      "release_date": "2009-10-29",
+      "release_year": "2009",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6lBd7YiYzkxYPQjgyL5bbW",
+          "name": "corporate soldiers"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:57.000Z"
+}

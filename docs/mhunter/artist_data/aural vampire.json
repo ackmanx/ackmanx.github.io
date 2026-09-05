@@ -1,0 +1,58 @@
+{
+  "name": "aural vampire",
+  "spotify_id": "2oLN6vDlufq6mRenZewJvQ",
+  "uri": "spotify:artist:2oLN6vDlufq6mRenZewJvQ",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27355704885647873aa10ce4987",
+  "genres": [
+    "visual kei",
+    "j-rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c71b8a131f54eb021823103",
+      "uri": "spotify:album:4S0VdTDZu9Yh39U0q8txe1",
+      "name": "wani",
+      "album_type": "single",
+      "release_date": "2023-05-27",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2oLN6vDlufq6mRenZewJvQ",
+          "name": "aural vampire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273604b9d3ff86357eb13c09bb9",
+      "uri": "spotify:album:0lviBTzYD664Z4WATyNu6t",
+      "name": "ninja vs amazones",
+      "album_type": "single",
+      "release_date": "2018-07-04",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2oLN6vDlufq6mRenZewJvQ",
+          "name": "aural vampire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355704885647873aa10ce4987",
+      "uri": "spotify:album:4jMR0TauLvErqulWkRpUtZ",
+      "name": "kerguelen vortex",
+      "album_type": "album",
+      "release_date": "2011-12-19",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2oLN6vDlufq6mRenZewJvQ",
+          "name": "aural vampire"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:36.000Z"
+}

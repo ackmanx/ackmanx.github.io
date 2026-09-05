@@ -1,0 +1,55 @@
+{
+  "name": "prof.sakamoto",
+  "spotify_id": "562X77CkQCNohonC6Fn2a2",
+  "uri": "spotify:artist:562X77CkQCNohonC6Fn2a2",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273e052d4a283806c3628b2796f",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daa38d16cf74663770da4470",
+      "uri": "spotify:album:3s9r2v4HEWbIqVoqeKYmFT",
+      "name": "insert, vol. 3: ninja or die",
+      "album_type": "album",
+      "release_date": "2016-08-15",
+      "release_year": "2016",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "562X77CkQCNohonC6Fn2a2",
+          "name": "prof.sakamoto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f6ce56e433e6fb2c587791c",
+      "uri": "spotify:album:2zwzSpT0pzt4jJXATY92tQ",
+      "name": "sakamoto 35",
+      "album_type": "single",
+      "release_date": "2015-12-31",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "562X77CkQCNohonC6Fn2a2",
+          "name": "prof.sakamoto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e052d4a283806c3628b2796f",
+      "uri": "spotify:album:13woenjkdF7sSPmMtuREol",
+      "name": "insert",
+      "album_type": "album",
+      "release_date": "2010-07-01",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "562X77CkQCNohonC6Fn2a2",
+          "name": "prof.sakamoto"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:35.000Z"
+}

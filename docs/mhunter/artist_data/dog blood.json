@@ -1,0 +1,80 @@
+{
+  "name": "dog blood",
+  "spotify_id": "2amyu5pkgYMYdNQZmB3GgY",
+  "uri": "spotify:artist:2amyu5pkgYMYdNQZmB3GgY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb23c3bd069a1bee32bbc2225c",
+  "genres": [
+    "bass house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368093fe28427568b12f03eb1",
+      "uri": "spotify:album:1Pg5Ot24fhSbQbxqV5OTZS",
+      "name": "turn off the lights",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2amyu5pkgYMYdNQZmB3GgY",
+          "name": "dog blood"
+        },
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        },
+        {
+          "spotify_id": "62k5LKMhymqlDNo2DWOvvv",
+          "name": "boys noize"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a2b6f219ea610a7ceed15c6",
+      "uri": "spotify:album:15XaGfU1GlPLYyF9cEw4wN",
+      "name": "middle finger pt. 2 remix ep",
+      "album_type": "single",
+      "release_date": "2014-03-04",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2amyu5pkgYMYdNQZmB3GgY",
+          "name": "dog blood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350a2630ab31a3de9384f40d5",
+      "uri": "spotify:album:1JCt2kwQOQVBJ4coDu2YyS",
+      "name": "middle finger pt. 2",
+      "album_type": "single",
+      "release_date": "2013-09-17",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2amyu5pkgYMYdNQZmB3GgY",
+          "name": "dog blood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384bcddd0e16f0342b75c88ec",
+      "uri": "spotify:album:1sGs88Uas5CNS9wVhm5jE8",
+      "name": "next order/middle finger",
+      "album_type": "single",
+      "release_date": "2012-08-14",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2amyu5pkgYMYdNQZmB3GgY",
+          "name": "dog blood"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:34.000Z"
+}

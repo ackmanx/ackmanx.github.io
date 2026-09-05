@@ -1,0 +1,461 @@
+{
+  "name": "gost",
+  "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+  "uri": "spotify:artist:46HcJG62ky3Tj7yJpB2Qqg",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebea701db07e97d3be9dccb27e",
+  "genres": [
+    "synthwave",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355b436fef7a63dd2801d56fd",
+      "uri": "spotify:album:6XrlvG6GpitRYG6zU7TwE9",
+      "name": "violent storm (gost remix)",
+      "album_type": "single",
+      "release_date": "2026-04-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3FVIkWmqjcUbtIgS86bnab",
+          "name": "cemetery skyline"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123f87205d5a504caed6fad3",
+      "uri": "spotify:album:5Y7psizFVsWxpeLNWFpWVX",
+      "name": "run away (gost remix, radio edit)",
+      "album_type": "single",
+      "release_date": "2025-04-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1jJeQjqm1tKbBVF7Q7lkEo",
+          "name": "treasvre"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273067572b84c39e904909f3302",
+      "uri": "spotify:album:6pHpGXjRCcEJpvzhN8FMyR",
+      "name": "prophecy",
+      "album_type": "album",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1458692f0aaeb70f7507139",
+      "uri": "spotify:album:2EmSQd3hktzO3MDe1c0ib5",
+      "name": "widow song",
+      "album_type": "single",
+      "release_date": "2024-01-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db1e01ba924b0a235bad784f",
+      "uri": "spotify:album:20hWD7GKUdL3zHfUQEXDdB",
+      "name": "prophecy",
+      "album_type": "single",
+      "release_date": "2023-11-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d77acc8473531463eacf07ca",
+      "uri": "spotify:album:1NpPujqlWBgrRGUBpLC8Zf",
+      "name": "the textorcist (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2022-11-28",
+      "release_year": "2022",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330376f9ec3f6dce00dc1ed1f",
+      "uri": "spotify:album:5728PhLCvcjd1c4pSSKra0",
+      "name": "nights in white satin",
+      "album_type": "single",
+      "release_date": "2022-11-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f387b90b7570236778c9ff93",
+      "uri": "spotify:album:0BOn96H6F7r97W3hdUXFZZ",
+      "name": "tomorrow's sky (gost remix)",
+      "album_type": "single",
+      "release_date": "2022-10-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7pSMKyct9zQiixsNr48rr4",
+          "name": "host"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363a36146a5e445dc67c7fcc3",
+      "uri": "spotify:album:0MOeXEiuhuvSwFvG3BrLC0",
+      "name": "strangulator",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7J3YcscK451VHYLO0LKD4T",
+          "name": "strngr"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c46bd0e43b443eb927dabb51",
+      "uri": "spotify:album:50vYq2UvxFNDSsZTD63QPn",
+      "name": "rites of love and reverence",
+      "album_type": "album",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cbefac0b1521ff31ff9e0b6",
+      "uri": "spotify:album:1bPzFk0qa9s18rUXnpOKjl",
+      "name": "burning thyme",
+      "album_type": "single",
+      "release_date": "2021-07-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273045b0126ceae2f6f53fff494",
+      "uri": "spotify:album:5dMfmMgiCsZlOb8LzfOzjt",
+      "name": "bound by the horror",
+      "album_type": "single",
+      "release_date": "2021-07-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a326fa6a26962d336d63a5fe",
+      "uri": "spotify:album:70SxSQS9btoLuelO1YpCz2",
+      "name": "where you go, you'll bring nothing (gost remix)",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4cJaRRVyK5sRMstRVMqu5M",
+          "name": "white void"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2dd9a49c1b3e9cff9e7c9c4",
+      "uri": "spotify:album:4E2dYkVs7HqAxSTbydp3dZ",
+      "name": "a fleeting whisper",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273984bb6f89bedddf872bd7b75",
+      "uri": "spotify:album:3I9MTXRBaNXM3Afqivczba",
+      "name": "coven",
+      "album_type": "single",
+      "release_date": "2021-05-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6352ae0e7a8a01e17428d3a",
+      "uri": "spotify:album:4xKx9I5xKWWPtsLkALGyXq",
+      "name": "valediction",
+      "album_type": "album",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d99e371fd45ae57e287cc8e9",
+      "uri": "spotify:album:4p1p0QctsPpnBo0zOf4BxH",
+      "name": "bloody roses",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273724380a327dedfcf83c7d4c4",
+      "uri": "spotify:album:4UMwB5K2QnrdzwrCj8qJ6O",
+      "name": "ligature marks",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736aba03a38f0bf2e28dc41f0a",
+      "uri": "spotify:album:3XzmCkf7sZQzgEI6sr7LGb",
+      "name": "wrapped in wax",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be4d5d510ab5aef917ccba48",
+      "uri": "spotify:album:3lkb6xeN3AHdrXyCIeJrhT",
+      "name": "the call of the faithful",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273761f5177194862449b2234ce",
+      "uri": "spotify:album:2WR8ScQZA2MfFGBnchL7Jx",
+      "name": "she lives in red light",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6653c8fd27d8840409f7bd2",
+      "uri": "spotify:album:3f1TM6nCi60FxQkyqQ61FP",
+      "name": "possessor",
+      "album_type": "album",
+      "release_date": "2018-03-23",
+      "release_year": "2018",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f87adf482c4cc0505450f39",
+      "uri": "spotify:album:22w3kMjHKkmG44BEgE4Bxc",
+      "name": "non paradisi",
+      "album_type": "album",
+      "release_date": "2016-09-30",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340f5e1e2e7d10f6ad252ac5c",
+      "uri": "spotify:album:2w9CdG6fdXLC29ycVbnw0e",
+      "name": "non paradisi (secret arcana)",
+      "album_type": "single",
+      "release_date": "2016-09-30",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273193cf11fa066dcf56177c1dc",
+      "uri": "spotify:album:6IihVq24JmKbRkJcs8dzLS",
+      "name": "don't panic",
+      "album_type": "single",
+      "release_date": "2016-01-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35eSuzwYxnsVo2Q8stprJP",
+          "name": "dedderz"
+        },
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369c387e3481ab154cdf91835",
+      "uri": "spotify:album:4hKGxesRxEIlQJqvvmKqId",
+      "name": "behemoth",
+      "album_type": "album",
+      "release_date": "2015-04-07",
+      "release_year": "2015",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343de61b3079f5bdf2e5fc012",
+      "uri": "spotify:album:2nk22IHVatCkHOQGIfd5dR",
+      "name": "s/t",
+      "album_type": "single",
+      "release_date": "2014-10-03",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273209d6ca67901b88d8b216ebe",
+      "uri": "spotify:album:3CRvJuhkYY3nmCiDpKmr3Y",
+      "name": "skull",
+      "album_type": "album",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "46HcJG62ky3Tj7yJpB2Qqg",
+          "name": "gost"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:14.000Z"
+}

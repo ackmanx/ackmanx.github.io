@@ -1,0 +1,543 @@
+{
+  "name": "emalkay",
+  "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+  "uri": "spotify:artist:1P6WOOkGjqDnfIitbKYb9w",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eba64cfbaa8bda6102adce602d",
+  "genres": [
+    "dubstep",
+    "dub",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327f42cda663be8101a4a4cb3",
+      "uri": "spotify:album:3Nn0tWVg70c12dDQS50Xvi",
+      "name": "inside",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734320a77f92afbc9494437b27",
+      "uri": "spotify:album:7aseMrfgOJBbtaTzJeYons",
+      "name": "shake",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fae29f1f52d33a5b404109c",
+      "uri": "spotify:album:2Fw5ja2qyD3N1r7vmRdGTG",
+      "name": "raver danger",
+      "album_type": "single",
+      "release_date": "2025-05-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6d1ea002e461ef506ffc7f7",
+      "uri": "spotify:album:3Oy9fbyezdZkQn0zxpdEiQ",
+      "name": "when i look at you (vip)",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a360b6f13945d3414816e01f",
+      "uri": "spotify:album:6WEISnANpJDEbu3HWuGjqb",
+      "name": "fabrication (rivid remix)",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "5XqhayYhh6DsTzBUMnTvnp",
+          "name": "rivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f06409b0c32fec95202b2b88",
+      "uri": "spotify:album:2edoynoV6tNS0s9l7jaK73",
+      "name": "flashpoint",
+      "album_type": "album",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "0HUAf6rGiD9cMQOMYzYuaL",
+          "name": "the others"
+        },
+        {
+          "spotify_id": "1hsDuQAI5ewVmflUTVTVtS",
+          "name": "subscape"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbb2fb66feb83b7e23aabf66",
+      "uri": "spotify:album:4iUOTUxfPrPr1bZ6huAUlX",
+      "name": "berserker",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "0HUAf6rGiD9cMQOMYzYuaL",
+          "name": "the others"
+        },
+        {
+          "spotify_id": "1hsDuQAI5ewVmflUTVTVtS",
+          "name": "subscape"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308afe93c86e77d68e1b48faf",
+      "uri": "spotify:album:42t36a3IshvxsaTmWcnMk0",
+      "name": "inside my head",
+      "album_type": "single",
+      "release_date": "2023-01-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "0HUAf6rGiD9cMQOMYzYuaL",
+          "name": "the others"
+        },
+        {
+          "spotify_id": "1hsDuQAI5ewVmflUTVTVtS",
+          "name": "subscape"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b917ce4ecf8d4aaebfa49f1",
+      "uri": "spotify:album:0NuFSuxGvS3NwfuWC0HZwR",
+      "name": "when i look at you (ekali tribute)",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "0Y0QSi6lz1bPik5Ffjr8sd",
+          "name": "ekali"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad3a8416825d7f6e13d40fd2",
+      "uri": "spotify:album:6kkENZSY3tLxhdgFGpv1cP",
+      "name": "deviate [ukf10]",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ba9dd1b3540df9ff4a6aa2f",
+      "uri": "spotify:album:40d6wtq84PqfqfBdgLtOzR",
+      "name": "reworked",
+      "album_type": "single",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361c0106bb55fccbeea0290ce",
+      "uri": "spotify:album:4GLnhwY07SzJagN0wCRI0p",
+      "name": "fabrication (nitepunk remix)",
+      "album_type": "single",
+      "release_date": "2019-03-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "6iPbI11utXY9CVhX6SPXEg",
+          "name": "nitepunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc990d13ec4e55993c6e67cc",
+      "uri": "spotify:album:4jyxDSvHitg02c3YhNcGST",
+      "name": "angie got stoned (my nu leng remix)",
+      "album_type": "single",
+      "release_date": "2019-03-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "2rChxbkkh2U5ZrPuShKmTZ",
+          "name": "my nu leng"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be4096a236040b9cc28fb14c",
+      "uri": "spotify:album:7DsyQDd990iusZSYtk2kRv",
+      "name": "when i look at you (conrank remix)",
+      "album_type": "single",
+      "release_date": "2019-02-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326acc0f016bf0fc47d6ef26b",
+      "uri": "spotify:album:6M86oDFrqkvH36HkMYxDno",
+      "name": "tomorrow / detonations",
+      "album_type": "single",
+      "release_date": "2014-11-03",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "4nMuaJ4kBLDJCRBizNESI6",
+          "name": "caspa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273369966a1198400985f76f385",
+      "uri": "spotify:album:3yr3WMOgbRIMHoPArEE1yR",
+      "name": "for the people (the remixes) - ep",
+      "album_type": "single",
+      "release_date": "2014-03-03",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ee25918476cb9d453c18bf5",
+      "uri": "spotify:album:4wOwM6Eq89qqomOdzQGGq6",
+      "name": "for the people",
+      "album_type": "single",
+      "release_date": "2013-11-04",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273236f32254e8269ebb4e8314c",
+      "uri": "spotify:album:4qXemnQ31wgctsRfpnNIfo",
+      "name": "the line",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d94403b075a575043c7a9fec",
+      "uri": "spotify:album:0EnHbqQq6br0vlaumhfoFU",
+      "name": "fall out",
+      "album_type": "single",
+      "release_date": "2012-11-19",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3teQSEmMeOuTGlpZyoJJ7t",
+          "name": "the others, emalkay"
+        },
+        {
+          "spotify_id": "0HUAf6rGiD9cMQOMYzYuaL",
+          "name": "the others"
+        },
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366f2fa708a2550f1a0b87b94",
+      "uri": "spotify:album:3uvvKIPcxURprhaloYftro",
+      "name": "bring it down",
+      "album_type": "single",
+      "release_date": "2012-10-14",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d776fcdfd203d59429ed82ec",
+      "uri": "spotify:album:5pAALaMPHYPx8zFsOi1f36",
+      "name": "flesh & bone ep (feat. rod azlan)",
+      "album_type": "single",
+      "release_date": "2012-02-27",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738316ab8fa152b7c26c330aee",
+      "uri": "spotify:album:2n1YHdKfXJtmbm3b5cZCv0",
+      "name": "the world ep",
+      "album_type": "single",
+      "release_date": "2011-07-11",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f211a603459f1ae2fa846866",
+      "uri": "spotify:album:6ygcRZAcwmXc7oR5RNbbvC",
+      "name": "fabrication / massive",
+      "album_type": "single",
+      "release_date": "2011-03-28",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6ce32615887ec4467067c8d",
+      "uri": "spotify:album:6IVWcUhUqA2s3s5LSoiAjg",
+      "name": "crusader / powertool",
+      "album_type": "single",
+      "release_date": "2010-11-29",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273406e83a07a0bd7f323391137",
+      "uri": "spotify:album:0K7F9YTtcFbWvYjrdyQwA4",
+      "name": "when i look at you",
+      "album_type": "single",
+      "release_date": "2009-10-05",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a345decc8e6134e92984c52",
+      "uri": "spotify:album:1m3SrKzwnzOFguwaY0NeD3",
+      "name": "explicit",
+      "album_type": "single",
+      "release_date": "2009-04-13",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ffc1d894c4ff79dc1faea9d",
+      "uri": "spotify:album:4WyKJcLJwYr4Ijrukt4GBG",
+      "name": "my story - single",
+      "album_type": "single",
+      "release_date": "2008-09-15",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f188c517c3d1315cbf633ac",
+      "uri": "spotify:album:3V2zVkzyQD2wUlO1i2Klqt",
+      "name": "mecha - single",
+      "album_type": "single",
+      "release_date": "2007-08-06",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f5ff7efd6d4d1ed9a421efe",
+      "uri": "spotify:album:6LGMLDs3ev15dwgMlDs6gQ",
+      "name": "monsters / overshine",
+      "album_type": "single",
+      "release_date": "2007-07-16",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        },
+        {
+          "spotify_id": "4tkr4Mf6lESNE5TyXzFpcs",
+          "name": "afterdark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364e3b477af082727e8efbd27",
+      "uri": "spotify:album:6JdIEaHqLm8nYFGNClqlNJ",
+      "name": "testing the waters - single",
+      "album_type": "single",
+      "release_date": "2006-10-30",
+      "release_year": "2006",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d478b700f3e9305f42cb9a8f",
+      "uri": "spotify:album:7vIrEe1NWYgmCCXICnEcTu",
+      "name": "gut feeling - single",
+      "album_type": "single",
+      "release_date": "2006-05-08",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1P6WOOkGjqDnfIitbKYb9w",
+          "name": "emalkay"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:35.000Z"
+}

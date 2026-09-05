@@ -1,0 +1,744 @@
+{
+  "name": "jay chou",
+  "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+  "uri": "spotify:artist:2elBjNSdBE2Y3f0j1mjrql",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb87fbbe9ed03fbb500595e720",
+  "genres": [
+    "mandopop",
+    "c-pop",
+    "taiwanese pop",
+    "gufeng",
+    "malay pop",
+    "cantopop",
+    "chinese r&b"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fa52fd5d45c80a63e8deb4a",
+      "uri": "spotify:album:5gDJVilnZpPt8zwBC467UH",
+      "name": "太陽之子",
+      "album_type": "album",
+      "release_date": "2026-03-24",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308ef025bb0ce5b7c796f0ea3",
+      "uri": "spotify:album:16U7b9HGesoAmJygwcv23M",
+      "name": "即興曲",
+      "album_type": "single",
+      "release_date": "2025-06-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365c9f1948a07b16c0f089235",
+      "uri": "spotify:album:7w9LIYtTvYdySDGYwW2VPA",
+      "name": "six degrees",
+      "album_type": "single",
+      "release_date": "2025-01-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xCrrnnj9xif5G0y3ie5dM",
+          "name": "patrick brasca"
+        },
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375b77eb3bc028470222054a9",
+      "uri": "spotify:album:0ga5Hx0wL2Lqh4JtV3EsKp",
+      "name": "稻香",
+      "album_type": "single",
+      "release_date": "2024-07-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383b3a18183ccce1e08e4da44",
+      "uri": "spotify:album:0btE4CEOFvogF0mBkIvv9p",
+      "name": "聖誕星",
+      "album_type": "single",
+      "release_date": "2023-12-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273283111b93a25fffd9d6f050d",
+      "uri": "spotify:album:4stTYRQWkrNj9BOJCwuXUT",
+      "name": "最偉大的作品",
+      "album_type": "album",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ad3aa360f404e4c074fee6b",
+      "uri": "spotify:album:0Yr6TXiqNhoZZQ7fzIKt7r",
+      "name": "最偉大的作品",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cfdcf433f7760bee7203ae6",
+      "uri": "spotify:album:7tbxuapTRzi4FFCKsu2roS",
+      "name": "mojito",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339d952d9703c29b5258e8efb",
+      "uri": "spotify:album:13Snhe8wV3EYGIMcIv80on",
+      "name": "忍者",
+      "album_type": "single",
+      "release_date": "2019-12-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xCrrnnj9xif5G0y3ie5dM",
+          "name": "patrick brasca"
+        },
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ee3d2540c29ed924a5c286e",
+      "uri": "spotify:album:1q81KJImUCLJzxL1sHbehK",
+      "name": "雙截棍",
+      "album_type": "single",
+      "release_date": "2019-12-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xCrrnnj9xif5G0y3ie5dM",
+          "name": "patrick brasca"
+        },
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348a7a2ec6f9f21c5b4202681",
+      "uri": "spotify:album:4Jgb53207l9EkLJOLhxM6o",
+      "name": "我是如此相信",
+      "album_type": "single",
+      "release_date": "2019-12-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ccbde411b492bd7edd351383",
+      "uri": "spotify:album:7LjZLklNEA1qENUpfdBHGa",
+      "name": "周杰倫地表最強世界巡迴演唱會",
+      "album_type": "album",
+      "release_date": "2019-11-11",
+      "release_year": "2019",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e478ed984b1c349fb2bf800",
+      "uri": "spotify:album:7n8dLPlHuK482ipYa90SKc",
+      "name": "說好不哭",
+      "album_type": "single",
+      "release_date": "2019-09-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        },
+        {
+          "spotify_id": "6H93wOohK6r1MwGh41Z4Nb",
+          "name": "ashin chen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7c02b2d8916520fdc686ac0",
+      "uri": "spotify:album:6iDni48nPNQsGuwFhNmYR3",
+      "name": "不愛我就拉倒",
+      "album_type": "single",
+      "release_date": "2018-08-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d7de4aee4d28d09bab17dd3",
+      "uri": "spotify:album:47qS7TGj8MGnyvqnrnliS2",
+      "name": "等你下課",
+      "album_type": "single",
+      "release_date": "2018-01-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        },
+        {
+          "spotify_id": "4iFznCrxI2nlVer46cgvWG",
+          "name": "gary yang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8e5c2ba79fbc0b700662a1c",
+      "uri": "spotify:album:7sydOexyOcfIdE9Pt4WR1H",
+      "name": "周杰倫的床邊故事",
+      "album_type": "album",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e1cc2507dcf15de8171f483",
+      "uri": "spotify:album:286xb4g3DQ0gP3jgvnaPvm",
+      "name": "魔天倫世界巡迴演唱會 (live)",
+      "album_type": "album",
+      "release_date": "2016-05-10",
+      "release_year": "2016",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730be6098b77c3a8c901fa7c82",
+      "uri": "spotify:album:1lVPQOzLU6aSd7QmFbCnUj",
+      "name": "英雄",
+      "album_type": "single",
+      "release_date": "2016-03-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8e1e9887f962e1ca8b66972",
+      "uri": "spotify:album:2SazWv29xao9aCCfQ2zyvK",
+      "name": "try",
+      "album_type": "single",
+      "release_date": "2016-01-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xCrrnnj9xif5G0y3ie5dM",
+          "name": "patrick brasca"
+        },
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b061a2ad05321f2fc4f1032",
+      "uri": "spotify:album:3vkhunM2UohkqFQaHOfzbl",
+      "name": "哎呦，不錯哦",
+      "album_type": "album",
+      "release_date": "2014-12-26",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2ce3c12f1a377d2e5124c9e",
+      "uri": "spotify:album:75cYF8KyzQ7rtqSuqm6Xnt",
+      "name": "黃俊郎的黑",
+      "album_type": "album",
+      "release_date": "2013-12-25",
+      "release_year": "2013",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        },
+        {
+          "spotify_id": "4iFznCrxI2nlVer46cgvWG",
+          "name": "gary yang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344801b7ea92799692b00f785",
+      "uri": "spotify:album:24PRV4KNjbHrAcu1TW64Nz",
+      "name": "天台電影原聲帶",
+      "album_type": "album",
+      "release_date": "2013-07-11",
+      "release_year": "2013",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fe242989071952f392b53ab",
+      "uri": "spotify:album:6n2mXP41BEn7b3FXX3Hcc9",
+      "name": "十二新作",
+      "album_type": "album",
+      "release_date": "2012-12-28",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b064b606558c557cc7df5b71",
+      "uri": "spotify:album:6lLNsexBsSeTUcrC5nJF7I",
+      "name": "驚嘆號",
+      "album_type": "album",
+      "release_date": "2011-11-11",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273170226fc3b37e467accdf61b",
+      "uri": "spotify:album:68BV4H6XyULm5pMbBWbNmd",
+      "name": "天地一鬥",
+      "album_type": "single",
+      "release_date": "2011-02-23",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        },
+        {
+          "spotify_id": "1EwpUxkGyVYwO3PNnoF3Jj",
+          "name": "kobe bryant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c52c97a6cb73acc7c036231d",
+      "uri": "spotify:album:00ekOXtA8Hh2VBRIVDZdBx",
+      "name": "超時代演唱會",
+      "album_type": "album",
+      "release_date": "2011-01-25",
+      "release_year": "2011",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273171d3f9470df5a7bbddcfef8",
+      "uri": "spotify:album:7kT2ETieCxGkeLa47sED5r",
+      "name": "阿爸",
+      "album_type": "single",
+      "release_date": "2010-10-22",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        },
+        {
+          "spotify_id": "21GU61itsJIOXs64dkcwzZ",
+          "name": "hong ronghong"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a97a517ea1c4f493e76defb",
+      "uri": "spotify:album:284sMgc5vlNarGC1QgL2gp",
+      "name": "跨時代",
+      "album_type": "album",
+      "release_date": "2010-05-18",
+      "release_year": "2010",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf53c80ff0b0099325818303",
+      "uri": "spotify:album:5akBJuVQvCggD0hCzjfeR3",
+      "name": "魔杰座",
+      "album_type": "album",
+      "release_date": "2008-10-15",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c79b21c5b68bc42b7ffabe18",
+      "uri": "spotify:album:1dA5hTvg5JU1tczlla1yAb",
+      "name": "千山萬水",
+      "album_type": "single",
+      "release_date": "2008-04-30",
+      "release_year": "2008",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b015fd5d540458f67e48cc2",
+      "uri": "spotify:album:2arVFHigxCvvZBFfyoY2oQ",
+      "name": "周杰倫2007世界巡迴演唱會",
+      "album_type": "album",
+      "release_date": "2008-01-30",
+      "release_year": "2008",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377b87d409cbbd955a5aa905a",
+      "uri": "spotify:album:5JNrPPT60TzrqBxsY3hn0A",
+      "name": "我很忙",
+      "album_type": "album",
+      "release_date": "2007-11-02",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c4d0dbbc1022845a9a6ecd4",
+      "uri": "spotify:album:7eoWv4CgghZ0gvWjjdye98",
+      "name": "不能說的秘密電影原聲帶",
+      "album_type": "album",
+      "release_date": "2007-08-13",
+      "release_year": "2007",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330723e80c20a594c3160d7ff",
+      "uri": "spotify:album:7Byz71YJICkRcZ4Y8AzUPR",
+      "name": "黃金甲",
+      "album_type": "single",
+      "release_date": "2006-12-07",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731da729c58a0de2893db976cb",
+      "uri": "spotify:album:2BvDgFjuzq0BCZOPBeDd1E",
+      "name": "依然范特西",
+      "album_type": "album",
+      "release_date": "2006-09-05",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0315fa2726e14667f73384c",
+      "uri": "spotify:album:18zOfbUjMoWjr95hId4JGX",
+      "name": "霍元甲",
+      "album_type": "single",
+      "release_date": "2006-01-19",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732642de36b3fed494f653b015",
+      "uri": "spotify:album:1TborQGeHwJaEjPnUR9siC",
+      "name": "11月的蕭邦",
+      "album_type": "album",
+      "release_date": "2005-11-11",
+      "release_year": "2005",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a6b6219cad0de2abd8514a2",
+      "uri": "spotify:album:2lW05ZCTyVVpisWGRhAG3o",
+      "name": "2004無與倫比演唱會 (live)",
+      "album_type": "album",
+      "release_date": "2004-12-03",
+      "release_year": "2004",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6dbe22a1e76bce856461820",
+      "uri": "spotify:album:6WdM1OfmVIPuQ56QPmaJIr",
+      "name": "七里香",
+      "album_type": "album",
+      "release_date": "2004-08-03",
+      "release_year": "2004",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f1b39aabec3ec22eb4da5f1",
+      "uri": "spotify:album:2svyg2JefsZu86XroTyGY7",
+      "name": "尋找周杰倫",
+      "album_type": "single",
+      "release_date": "2003-11-11",
+      "release_year": "2003",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b2dd792101b91625f3f1b97",
+      "uri": "spotify:album:0E5yojmnEdbs68b1wM6Kla",
+      "name": "葉惠美",
+      "album_type": "album",
+      "release_date": "2003-07-29",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f479ef6a683abee751a9cbc",
+      "uri": "spotify:album:6aH1XIpHTQuocbqBv01TDM",
+      "name": "the one 演唱會 (live)",
+      "album_type": "album",
+      "release_date": "2002-10-21",
+      "release_year": "2002",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0bab70754d8db6ba4cefd28",
+      "uri": "spotify:album:3LyYZXoNFcRQGYqBpy13Th",
+      "name": "八度空間",
+      "album_type": "album",
+      "release_date": "2002-07-18",
+      "release_year": "2002",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273822b38eb7d2dad3cc424d9e1",
+      "uri": "spotify:album:2moxByOJokXC5eMNNBS5vg",
+      "name": "范特西",
+      "album_type": "single",
+      "release_date": "2001-12-31",
+      "release_year": "2001",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734973a7d9304de53e18583220",
+      "uri": "spotify:album:2QtCt02mqDZBpyDAZW6JzC",
+      "name": "范特西",
+      "album_type": "album",
+      "release_date": "2001-09-14",
+      "release_year": "2001",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273147338ef86c5cccef39f1ca1",
+      "uri": "spotify:album:1Q4Kv3F8xwz7oxRP48grON",
+      "name": "杰倫",
+      "album_type": "album",
+      "release_date": "2000-11-16",
+      "release_year": "2000",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2elBjNSdBE2Y3f0j1mjrql",
+          "name": "jay chou"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:29.000Z"
+}

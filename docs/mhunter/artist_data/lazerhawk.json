@@ -1,0 +1,89 @@
+{
+  "name": "lazerhawk",
+  "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+  "uri": "spotify:artist:3Fobin2AT6OcrkLNsACzt4",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273f281db12465fa5d6f14f5e47",
+  "genres": [
+    "synthwave",
+    "vaporwave",
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc83232756ff47cb2140ce7c",
+      "uri": "spotify:album:7s3VYW79w810TCGu51MhWO",
+      "name": "haunted highway",
+      "album_type": "single",
+      "release_date": "2025-10-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+          "name": "lazerhawk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9d29036e78dd24815cae20b",
+      "uri": "spotify:album:6w8ccx6B6CxrQ0mkmRo65V",
+      "name": "dreamrider",
+      "album_type": "album",
+      "release_date": "2017-01-18",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+          "name": "lazerhawk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332d9a75c5db845aa3d0ac473",
+      "uri": "spotify:album:3aCmxh2cgrB8ayTrMVEkhD",
+      "name": "skull and shark",
+      "album_type": "album",
+      "release_date": "2013-10-24",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+          "name": "lazerhawk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369e41ec4b149b2122077c2cf",
+      "uri": "spotify:album:0cG3hLxNXIBC4NX64AnoJK",
+      "name": "visitors",
+      "album_type": "album",
+      "release_date": "2012-02-03",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+          "name": "lazerhawk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e46933de9ee0f9e21b9308e6",
+      "uri": "spotify:album:0LkWd0vNtF0ark8AbzocZe",
+      "name": "redline",
+      "album_type": "album",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3Fobin2AT6OcrkLNsACzt4",
+          "name": "lazerhawk"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:01.000Z"
+}

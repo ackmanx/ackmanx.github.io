@@ -1,0 +1,1583 @@
+{
+  "name": "djs from mars",
+  "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+  "uri": "spotify:artist:1pmwwNA38kkkJwEMWe8hLD",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1ce89e0eba811906b9a7369e",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcbb84be4c6c73d9977da769",
+      "uri": "spotify:album:3ZvnxXI2TPGdCIt6EabBX5",
+      "name": "state of mind",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1qVxpy82bFH98bY1RfYCX9",
+          "name": "eena"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371d0c7d72d529cc36621190c",
+      "uri": "spotify:album:3EFXSGN5RhzWrOxraYKJxB",
+      "name": "sad girls (djs from mars remix)",
+      "album_type": "single",
+      "release_date": "2026-07-01",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64M6ah0SkkRsnPGtGiRAbb",
+          "name": "bebe rexha"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4666ecd2bdcef80216dea14",
+      "uri": "spotify:album:1dMGF8jEBUIV9vSTJaa0iJ",
+      "name": "high in the room",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "3u45rXhQ0o9pUL24xlnf6e",
+          "name": "chester young"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0722808a0a02c81fbfed411",
+      "uri": "spotify:album:5woqizzx92CIUWBrXtUIFt",
+      "name": "save me tonight (djs from mars remix)",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "jennifer lopez"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc7ed2d9c719b178e61c48b4",
+      "uri": "spotify:album:7ycDYqUc3IQC2gkgSu0adW",
+      "name": "you get what you give (djs from mars remix)",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4zNhfG6i4QlfUuzt1hBGu2",
+          "name": "alexander popov"
+        },
+        {
+          "spotify_id": "3hxJ7exqIsY8CkbNh26b4P",
+          "name": "van snyder"
+        },
+        {
+          "spotify_id": "0kOU8pPakGGPVSMzK9Lan3",
+          "name": "serena bleu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736eb37bf3812ab79216dfddaf",
+      "uri": "spotify:album:2jZ0bRnIX77VNUXQQOc79L",
+      "name": "stop the rock",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "7bH17jyjkwMPMh9AS8EH0u",
+          "name": "le shuuk"
+        },
+        {
+          "spotify_id": "2O0GPxVfZuYNQP0V6mJ3FL",
+          "name": "blackcode"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0015a082217a043e0f19fed",
+      "uri": "spotify:album:5celvKkIqMsgDGb4A3RUKX",
+      "name": "3am",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "tujamo"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "3u45rXhQ0o9pUL24xlnf6e",
+          "name": "chester young"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6b4cf8b9901287b3dd8204e",
+      "uri": "spotify:album:2xH8vaiZpv2MDfQkOgxFP6",
+      "name": "man on the run",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "6BRt9Poo2Mp3Bj6MvKOR6f",
+          "name": "white shrts"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356129981ed9b688e3dee5408",
+      "uri": "spotify:album:7nVJBOTSyfO1rI7EFg6M1W",
+      "name": "man on the run (extended mix)",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "6BRt9Poo2Mp3Bj6MvKOR6f",
+          "name": "white shrts"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c03f383a3e674526040f53e",
+      "uri": "spotify:album:2cy8Bdq096ZXgN5GqZuVsR",
+      "name": "download me",
+      "album_type": "single",
+      "release_date": "2025-12-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1YlyxjwYNSjBD0NAJGEfWB",
+          "name": "bombs away"
+        },
+        {
+          "spotify_id": "7bQLH0u3C9lR2gZQaQ8owM",
+          "name": "melissa grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273999b6b1bd85de39068a7f26e",
+      "uri": "spotify:album:4lIdDDtK5brGCGJNvDQsAa",
+      "name": "i feel the air",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1mDmwVhkzWBBCC8WDpg7qh",
+          "name": "samuele sartini"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732159a042a06960e75aa94a31",
+      "uri": "spotify:album:7lfmJb5na5XoP5vAakO9jr",
+      "name": "hollow way",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "67zbXa7VOBhfFhM5n6AM33",
+          "name": "melo.kids"
+        },
+        {
+          "spotify_id": "6lzdsHJPRvkOydWYIQjnQc",
+          "name": "roundrobin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734697ced591cd9ad22fdc229b",
+      "uri": "spotify:album:03kP8JTvYWWYfi2If6c45E",
+      "name": "carte blanche",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4dEayBlrVBjaQOktGkmWki",
+          "name": "switch disco"
+        },
+        {
+          "spotify_id": "1DT2WEMQmEJ3yRmTaqzrXd",
+          "name": "veracocha"
+        },
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da3e721794d313ee17043b4b",
+      "uri": "spotify:album:1BVA2ZrleGhk13DKwSIJib",
+      "name": "things i haven’t told you",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "5kwHgbzNHq1iHkUSrAmjjQ",
+          "name": "audio bullys"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731359004c2688ae63dbf1ce70",
+      "uri": "spotify:album:523RTOxN3tmJocyOC1IMTE",
+      "name": "underwater",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        },
+        {
+          "spotify_id": "2QH237xSFhmfZJHrRulT7U",
+          "name": "notelle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c01b1156b5cf4244bed1a366",
+      "uri": "spotify:album:7FWAC7XrlfEGPFZpt7oRQJ",
+      "name": "everyone listens to techno",
+      "album_type": "single",
+      "release_date": "2025-07-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "tujamo"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4RKP5zfiRWMMtF4xMcyvw0",
+          "name": "alex lndn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be0a09436ad75352d7cc1872",
+      "uri": "spotify:album:3oq5dfszc7zdVJxBPUW55D",
+      "name": "count these stars",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0m6mgQ6oL0vNUXCuwjOmxY",
+          "name": "siks"
+        },
+        {
+          "spotify_id": "6rC45dneYNC1ulqOz12cyK",
+          "name": "mike demero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd8699f69f2b0ef9fa7879f7",
+      "uri": "spotify:album:1rzzbfToo8YykCAgTsMq28",
+      "name": "sweet escape (zero gravity remix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "3xwLNvmLpu3mDKzCoht2lp",
+          "name": "treetalk"
+        },
+        {
+          "spotify_id": "2wVg0QAhCmeB9A4VnnehK6",
+          "name": "zero gravity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273963c5aff64a5af1805803205",
+      "uri": "spotify:album:4RsDsoM0bQJtfPQdAn1Js4",
+      "name": "i have no memories about last night",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37czgDRfGMvgRiUKHvnnhj",
+          "name": "öwnboss"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0YZmiBsdXDNlyLfWVh7Fb7",
+          "name": "henry himself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cd191be7fd24e6b9b633331",
+      "uri": "spotify:album:5ynmFQwZP6Yr9PUzLDGy49",
+      "name": "sweet escape",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "3xwLNvmLpu3mDKzCoht2lp",
+          "name": "treetalk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348f387e62830df5d39f5aea0",
+      "uri": "spotify:album:35ylUPNEu4EZqHPQ1WwDNP",
+      "name": "deep fear",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "6q9gCO6m4qEl9UiPAjSFiq",
+          "name": "sidekick"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382bf4769b856b4368953fd8e",
+      "uri": "spotify:album:4UNDP4vUFl4sh0Fjj0AMkR",
+      "name": "insanity",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4RKP5zfiRWMMtF4xMcyvw0",
+          "name": "alex lndn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3da415fb0f604e2c5e5b9d0",
+      "uri": "spotify:album:1o7FB65S47p3DIJZKXz5EZ",
+      "name": "ain't nobody",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18006kpQI473m1ICcpimQ9",
+          "name": "22bullets"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4b635f7327ce7c1a05808f4",
+      "uri": "spotify:album:288rEB7yW51fyXqpjXiT97",
+      "name": "shout",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "13wroZC00C9ix8fUR0JvaY",
+          "name": "the stickmen project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b717b38ea19d01a785c3abee",
+      "uri": "spotify:album:5U4unJxnkbLHFWuck4WZUe",
+      "name": "i don't wanna wait (djs from mars remix)",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "5Pwc4xIPtQLFEnJriah9YJ",
+          "name": "onerepublic"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1cd22dd1aced3ea11ba1456",
+      "uri": "spotify:album:47DRIA47liYHhF8DQCV4fa",
+      "name": "komodo (lockdown remix)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0MNSDAOCHF7f2ZfAYxZ9bp",
+          "name": "mauro picotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fabdbe865c2ee503d53e47cf",
+      "uri": "spotify:album:4hBGAbsyAlbxrnkf9ycsbF",
+      "name": "state of euphoria",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313402f36319985f3c013d7c1",
+      "uri": "spotify:album:5u1NYKRPYx8KkcAVXXryQS",
+      "name": "loneliness",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f47d7ad42539e37e57d32ab0",
+      "uri": "spotify:album:7FyG9qDRYEGhJthHnzKWgx",
+      "name": "don't stop",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "tujamo"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb18a0a003cf8031d75503d8",
+      "uri": "spotify:album:0kvwytv9p1qqdGdlDzLN0c",
+      "name": "komodo",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0MNSDAOCHF7f2ZfAYxZ9bp",
+          "name": "mauro picotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320f8c6eafc7169855c351168",
+      "uri": "spotify:album:3FgXLQZ2DGKNouWELPYxDY",
+      "name": "hide and seek",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "5Z59lu7ApgQvSdntngRDkq",
+          "name": "b jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce5f83907e4d709aacbe5b90",
+      "uri": "spotify:album:5Zekn9Uj4je1SiHDWFv3MT",
+      "name": "blue monday",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "jd davis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273389a8357b84ba274addf228d",
+      "uri": "spotify:album:58TIWxaWmZCPbHoTvSkzUI",
+      "name": "blue monday (sped up version)",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "jd davis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d21498c9ab5bf3d93b01ec3",
+      "uri": "spotify:album:7g2y4BGJNh8BZyChGoeIcA",
+      "name": "baby don't hurt me (feat. coi leray) [djs from mars remix]",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1zNqDE7qDGCsyzJwohVaoX",
+          "name": "anne-marie"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349f81cb1a019adabf49a462e",
+      "uri": "spotify:album:60pKd4GWa9RYzVRspilfHg",
+      "name": "it doesn't matter",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5uJw4WCX5nYj4FHky9r1Ug",
+          "name": "smack"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dd61d68673b659ff23ee298",
+      "uri": "spotify:album:6BJ8YGnHmAHHQpBDmA7nc3",
+      "name": "it doesn't matter (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5uJw4WCX5nYj4FHky9r1Ug",
+          "name": "smack"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739eada4a129d63b6cc3bd64c0",
+      "uri": "spotify:album:0ZcDkYIommeM4Vn4OwitD9",
+      "name": "don't you worry (feat. shakira) [david guetta & djs from mars remix]",
+      "album_type": "single",
+      "release_date": "2022-08-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1yxSLGMDHlW21z4YXirZDS",
+          "name": "black eyed peas"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b340f58934ab070532381d4b",
+      "uri": "spotify:album:3HS2cRx6K0TpmTDkBPiykk",
+      "name": "killing me softly",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1nKYzgyVrpiCrKdlUiNR8E",
+          "name": "charla k"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea9f95954db5fdab6bf05478",
+      "uri": "spotify:album:5qHoylXaUoCtzP8e2NiOsB",
+      "name": "killing me softly (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1nKYzgyVrpiCrKdlUiNR8E",
+          "name": "charla k"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273571e633b41b6c83d2a326d86",
+      "uri": "spotify:album:1T3nznub8k2qGDndHBlO9r",
+      "name": "trouble so hard",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2nwk9rtXu9sJ4sh8LLyDUE",
+          "name": "le pedre"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739afde3ee280c4228a2869008",
+      "uri": "spotify:album:68jmmmuB50NpJXb4dpYsGO",
+      "name": "trouble so hard (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2nwk9rtXu9sJ4sh8LLyDUE",
+          "name": "le pedre"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9d46f433cf37d1ec841b1cc",
+      "uri": "spotify:album:2R882HuUKi605oRFryISYI",
+      "name": "sunglasses at night (feat. jd davis)",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4S1P19bTfbDVjEA8Hxs4Cj",
+          "name": "jd davis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4d73fe7ac1d8413d38e49fb",
+      "uri": "spotify:album:5zITibfUVRCDZCehgQ6JsA",
+      "name": "call it house",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376c5abd4be66dcb8e4ada90e",
+      "uri": "spotify:album:32DF835PoudJ4I07ufgwH2",
+      "name": "you spin me round (like a record)",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "6C3OHMsZCk6AWwm2uySonO",
+          "name": "starwoodz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731362a07b01ffc5dd9eb3f311",
+      "uri": "spotify:album:5KXpMgmTx7VAF65ZAtG8kP",
+      "name": "sunday morning",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d859bdc731381266c16b32cd",
+      "uri": "spotify:album:1fZR4z6onhuYn0FBXqXCYB",
+      "name": "let's love (feat. sia) [djs from mars remix]",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307db739c94bd6c506af2804b",
+      "uri": "spotify:album:1nzgB2Il8bdlptAYZNYzAd",
+      "name": "bass & drum (remixes)",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eda47bf99541e11d5426cb4a",
+      "uri": "spotify:album:2RVAOqavCmcby9T3BqGDQo",
+      "name": "bass & drum",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380fe7dd221ca84eefd8eb686",
+      "uri": "spotify:album:1GJlKi1tXSJ9SsP2X8l79n",
+      "name": "stay (don't go away) [feat. raye] [djs from mars remix]",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f91014e5c665ba0be5cc6ed2",
+      "uri": "spotify:album:4fdpQXZIeZLXbf3SKIMGKh",
+      "name": "dance 2 the beat (kanu remix)",
+      "album_type": "single",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "7qGg5f7GRoEEDsjhetcseQ",
+          "name": "kanu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8e441132a2b200b3e7f7bb3",
+      "uri": "spotify:album:3a2ZdJTybsbnHSWV46lWYU",
+      "name": "dance 2 the beat",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "36jYAd2YSZ3xc21LNvMPPV",
+          "name": "davis mallory"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315b7f41c92fe8d71b2557269",
+      "uri": "spotify:album:5C4GhVs6g1sdVv6z74DZdP",
+      "name": "gam gam (remixes)",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322aece57c13bad8b8bd79e35",
+      "uri": "spotify:album:11MRGACKQGwncY0K5EeWie",
+      "name": "gam gam (federico scavo remix)",
+      "album_type": "single",
+      "release_date": "2018-12-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0sPG1Yn8sWnhwDHsUbrU0F",
+          "name": "federico scavo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a0a81973902a934457230fc",
+      "uri": "spotify:album:647nj6oIQobuL6RNX3q4Yp",
+      "name": "gam gam",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360bf178543ec756e08ae9dae",
+      "uri": "spotify:album:6tmGoqll4bCibleZwfcjk0",
+      "name": "gam gam",
+      "album_type": "single",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377488dd6916dfacbcf75192d",
+      "uri": "spotify:album:6Dr4c1kioj1ReSfYsHfqI5",
+      "name": "somewhere above the clouds (remixes)",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e48901b0d7a2be66a33df62",
+      "uri": "spotify:album:64cdQXueNHaVDmrQWdudnt",
+      "name": "somewhere above the clouds",
+      "album_type": "single",
+      "release_date": "2018-05-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e6e0b9ce6e31cfee1b8ab57",
+      "uri": "spotify:album:5mfFFUqSe5xnDJegkByQEC",
+      "name": "harlem (manovski edit)",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b82aa9495a9f86e74599ae21",
+      "uri": "spotify:album:0G1QyAJCYfGDGt0aehSFiU",
+      "name": "always there for you (feat. dani galenda) - single",
+      "album_type": "single",
+      "release_date": "2017-01-06",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "45fRi9kds1brJ8LBV4v5aL",
+          "name": "robotronika"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f494353d6f761ab2f5d92a3",
+      "uri": "spotify:album:3y4Q1xQ7yAO9nI5XffAJxg",
+      "name": "stronger",
+      "album_type": "single",
+      "release_date": "2016-09-23",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "0Dzj2bn9ivDSjvJVSKL4q7",
+          "name": "luca testa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f86696737326e15e3a1a9d99",
+      "uri": "spotify:album:1mnO3kZFdgxdxW5ACtEbXk",
+      "name": "babylon justice",
+      "album_type": "single",
+      "release_date": "2016-09-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "310kmso4HD2PaQvIZIOq3d",
+          "name": "wtdj"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d10a9606335301ef1b97a770",
+      "uri": "spotify:album:03REwPwImdkhQOtTgV6Ohn",
+      "name": "don't come back (original mix)",
+      "album_type": "single",
+      "release_date": "2016-08-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4I4ZRmxuOEADKSea0rNq3h",
+          "name": "john christian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/67a47143e45a255bd45867dc9cd4a4806b7dc2c6",
+      "uri": "spotify:album:0kUB8H1Vv1esVU3QgP8Fw1",
+      "name": "somebody call the cops",
+      "album_type": "single",
+      "release_date": "2016-05-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7sAqpkrQBaOkddsv1Tz1XK",
+          "name": "mosimann"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b948dc62233af20e9ba7da5e",
+      "uri": "spotify:album:71sNz2LmGlwI03hiNDnTlT",
+      "name": "varanasi ghats",
+      "album_type": "single",
+      "release_date": "2016-05-02",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273221d81e58c13946a975c52ca",
+      "uri": "spotify:album:7A7IYuAnnBz9q1HAuKK9MF",
+      "name": "we play loud",
+      "album_type": "single",
+      "release_date": "2016-03-14",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368cb44956682219e4c2701c9",
+      "uri": "spotify:album:0nC47SRfXoFAMqOl51NKS0",
+      "name": "rolling in the dip",
+      "album_type": "single",
+      "release_date": "2016-01-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e674ebfd9d442d2a8bd6a058",
+      "uri": "spotify:album:6a7lc9DwDY3sIxpItyH78I",
+      "name": "phat ass drop (how to produce a club track today)",
+      "album_type": "single",
+      "release_date": "2013-02-05",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6a0b6a256eed8772ef48194",
+      "uri": "spotify:album:3pcE0sGAhM78DKDKBJAXI2",
+      "name": "rock'n'roll",
+      "album_type": "single",
+      "release_date": "2013-02-02",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ad7fb87d3af802098088223",
+      "uri": "spotify:album:1MzQgLEtJhoKlrTxyY6yJX",
+      "name": "glory box",
+      "album_type": "single",
+      "release_date": "2013-01-14",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3Mj7kskBT2nxay5h2KVesB",
+          "name": "maurizio gubellini"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7fb09737da59f506e805a42",
+      "uri": "spotify:album:6b5IEcXrwJFNITMMi51CI1",
+      "name": "glory box",
+      "album_type": "single",
+      "release_date": "2013-01-14",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3Mj7kskBT2nxay5h2KVesB",
+          "name": "maurizio gubellini"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7951e2d4c3135b35fa86762",
+      "uri": "spotify:album:0zhrBeQeKsCTJu6orTlo2m",
+      "name": "insane (in da brain)",
+      "album_type": "single",
+      "release_date": "2012-06-07",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "2t9efDsc10DtZpi4LP3BJJ",
+          "name": "fragma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735521c49af44dc885ea72def3",
+      "uri": "spotify:album:4CuJVlqOnlumRZYo0TCL2v",
+      "name": "que pasa",
+      "album_type": "single",
+      "release_date": "2012-03-04",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "5E7JKH6vSNbmT6aJ7yWzs4",
+          "name": "bellani & spada"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e1cf0bd148953fc68db6a6",
+      "uri": "spotify:album:0TpJOlniJE0sM9JLqCScuh",
+      "name": "phat ass drop (how to produce a club track today)",
+      "album_type": "single",
+      "release_date": "2012-01-09",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358897bd3c96f3a144b01b84a",
+      "uri": "spotify:album:0l2GKWbO4qRU1y0cf5kfx7",
+      "name": "sex, bass & rock'n'roll 2k11",
+      "album_type": "single",
+      "release_date": "2011-01-28",
+      "release_year": "2011",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6vdgAccr11YvDg9pEj6gOZ",
+          "name": "brooklyn bounce"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dd508817b8146ce640f70cb",
+      "uri": "spotify:album:79e4npeMkOZlsGvo3TF5KO",
+      "name": "club bizarre",
+      "album_type": "single",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6vdgAccr11YvDg9pEj6gOZ",
+          "name": "brooklyn bounce"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a034a44bfdd82656b1e7e036",
+      "uri": "spotify:album:2mOdeRKBn3orO9FsBLwUqQ",
+      "name": "club bizarre",
+      "album_type": "single",
+      "release_date": "2010-07-09",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6vdgAccr11YvDg9pEj6gOZ",
+          "name": "brooklyn bounce"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d7b09c163ea6a13fcfec56d",
+      "uri": "spotify:album:3gixMRvpVCxKPHInMSTxCK",
+      "name": "luv 2 like it",
+      "album_type": "single",
+      "release_date": "2010-03-26",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6mUjbb9eMEXtOS9oSPwYjg",
+          "name": "rico bernasconi"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370a42a6c2afadc0756f8e3cc",
+      "uri": "spotify:album:0By89JXnPmDgK1mphVDDpe",
+      "name": "revolution radio",
+      "album_type": "single",
+      "release_date": "2009-04-14",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4k0PdsmU0W9Bfje2V2VBF0",
+          "name": "db pure"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c419094f3b574077466f0b9",
+      "uri": "spotify:album:4ouEgs4E5PEZCygiWUVJyI",
+      "name": "saturday night on the moon",
+      "album_type": "single",
+      "release_date": "2008-09-26",
+      "release_year": "2008",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:27.000Z"
+}

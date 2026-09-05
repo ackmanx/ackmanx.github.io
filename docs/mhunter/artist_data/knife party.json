@@ -1,0 +1,295 @@
+{
+  "name": "knife party",
+  "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+  "uri": "spotify:artist:2DuJi13MWHjRHrqRUwk8vH",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb134cf89df8136ae2ec50d1a1",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "moombahton",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d368a58964a58536a9c57d22",
+      "uri": "spotify:album:4oRJE0jbFZYzA1uIMtfXSk",
+      "name": "death & desire (feat. harrison) [laidback luke remix]",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273201aebfb298caa1a5bc8be5f",
+      "uri": "spotify:album:7LqPv2vMUeAcVOJNSnMG8S",
+      "name": "ghost train (muzz remix)",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "4UNnRb4LN2hGtbtMfPzMhg",
+          "name": "muzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3e11a6fc556e4d3197d56d2",
+      "uri": "spotify:album:2KnB6etEwKGkhyNBf6seUm",
+      "name": "lost souls (annix remix)",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "0llNeW8Q52i2sxV7DsFASR",
+          "name": "annix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733de017538b99f02201a75abe",
+      "uri": "spotify:album:3Gnp75gdbUn4ygyXRJw8GM",
+      "name": "lost souls ep",
+      "album_type": "single",
+      "release_date": "2019-07-18",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e18b2d7ebb118a4b2cca8e4",
+      "uri": "spotify:album:6QmMZKT5XL0WVV6dvKOYMB",
+      "name": "harpoon",
+      "album_type": "single",
+      "release_date": "2018-07-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344eeb3de64aa13489a15e2e4",
+      "uri": "spotify:album:09v2csjoLDsIT7cqFBfhY5",
+      "name": "blood sugar (knife party remix)",
+      "album_type": "single",
+      "release_date": "2018-04-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0A8qgf3FC2sTF33iBuy7OF",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739717e9a6ea61f1cd036dfcd6",
+      "uri": "spotify:album:4JXFER6uqgGofS7dspTPAP",
+      "name": "battle sirens (ephwurd remix)",
+      "album_type": "single",
+      "release_date": "2016-10-21",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "74NBPbyyftqJ4SpDZ4c1Ed",
+          "name": "tom morello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355eba3ca587505483519dc05",
+      "uri": "spotify:album:6lWuqzqdDrIfxPXLp6a11O",
+      "name": "battle sirens (brillz remix)",
+      "album_type": "single",
+      "release_date": "2016-10-13",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "3I3Bt1BgiLrmb9wo729UCc",
+          "name": "tom morello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273716614ea9c0fc59bfe089ec5",
+      "uri": "spotify:album:5a8ICwKgeg6iVsN9m6rB4j",
+      "name": "battle sirens (live version)",
+      "album_type": "single",
+      "release_date": "2016-09-30",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "74NBPbyyftqJ4SpDZ4c1Ed",
+          "name": "tom morello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736eeb84b017b561f7ea8971b8",
+      "uri": "spotify:album:1ldLU78M7lhdfJ3tJfqZpT",
+      "name": "battle sirens",
+      "album_type": "single",
+      "release_date": "2016-09-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "74NBPbyyftqJ4SpDZ4c1Ed",
+          "name": "tom morello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8e0f5cff6cfdbfc5dcbe365",
+      "uri": "spotify:album:4LV2ul9S5VtEfvbyVhhbSQ",
+      "name": "trigger warning",
+      "album_type": "single",
+      "release_date": "2015-11-20",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f484989a4f01a9eba29d58f",
+      "uri": "spotify:album:3isR1GYMYEQhDv8DrzYjAI",
+      "name": "abandon ship",
+      "album_type": "album",
+      "release_date": "2014-11-04",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730863f890bd2c97d58b77d6fb",
+      "uri": "spotify:album:1YhwGzFBdDAR1OA9644LK9",
+      "name": "haunted house",
+      "album_type": "single",
+      "release_date": "2013-05-06",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed2a0b49e0be66b06fcc63b5",
+      "uri": "spotify:album:2Ha5B3dapothPfMP9gWvQB",
+      "name": "100% no modern talking",
+      "album_type": "single",
+      "release_date": "2012-08-01",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273303ae66195b6feba7022698b",
+      "uri": "spotify:album:2KZKR8bLDZPUxOE6JhTh4X",
+      "name": "rage valley",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398286cdaf74530fb6d5708cb",
+      "uri": "spotify:album:4lgZt3Eh34EqYy1SF7PuEi",
+      "name": "antidote",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:00.000Z"
+}

@@ -1,0 +1,1289 @@
+{
+  "name": "meso",
+  "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+  "uri": "spotify:artist:6JWiO1GpBwxybssaf6OUJe",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb570f130e289c67521f3ec31a",
+  "genres": [
+    "bass music",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a9d4adc1b47275c905c1e51",
+      "uri": "spotify:album:2UfxnLVUOi5PccQ3hy2S9K",
+      "name": "seven angels flip",
+      "album_type": "single",
+      "release_date": "2026-07-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273665439982f5d6a63f54d4ad7",
+      "uri": "spotify:album:1ZZcWQOqGWF2CymVM6wPNT",
+      "name": "cichol",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b0914048291f0e0f070f722",
+      "uri": "spotify:album:7e3gkYDTxhad1fpDThOm2B",
+      "name": "rebirth",
+      "album_type": "single",
+      "release_date": "2026-06-02",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "0kTw7vIelHUswz75FLrnJw",
+          "name": "greyfate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6187d707801c9168a5c3b3c",
+      "uri": "spotify:album:7sIxLcdZfX3G4ZExKXlJGj",
+      "name": "warrior",
+      "album_type": "single",
+      "release_date": "2026-04-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4e59e0cc15ac1470a0e1ce6",
+      "uri": "spotify:album:72ppQSDHCCz8eImyxFV8S4",
+      "name": "wishy washy",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "1yxgjoiYczfFDnh4YYp4t1",
+          "name": "g-space"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ced78fa224ce01f9df2853b4",
+      "uri": "spotify:album:05YxbteSwcKnOpzcyM0WcF",
+      "name": "cursed",
+      "album_type": "single",
+      "release_date": "2026-03-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c5f76fa932f6c8861c79042",
+      "uri": "spotify:album:2kHJ0R7LRdB6e9rLPrKGtO",
+      "name": "dawn re mix",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736752a6c91e6d99cd912fc3e6",
+      "uri": "spotify:album:22RXA3eYOjUMGmzAeCEwDg",
+      "name": "lil flip flip",
+      "album_type": "single",
+      "release_date": "2025-12-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ef0f2f7e407f8479a30169b",
+      "uri": "spotify:album:4X4wYzNIKeSlsXfAIXKHkF",
+      "name": "sub zero (meso remix)",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1kwGj7uDO5WXVXtQLvGJr0",
+          "name": "just a gent"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341cff559398259a5576664cf",
+      "uri": "spotify:album:54YH99dB1B8Y6s17jboB2r",
+      "name": "mi",
+      "album_type": "single",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735802d59e73b571bba42d4b63",
+      "uri": "spotify:album:2GDwQdMugKok3XV06SPHon",
+      "name": "dojo",
+      "album_type": "single",
+      "release_date": "2025-11-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8bcc24ac4323af33ef27aaf",
+      "uri": "spotify:album:6q5sMDOV01q1acP4B9haUa",
+      "name": "with u",
+      "album_type": "single",
+      "release_date": "2025-10-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bpawMyuwPcgQnhkATuvz1",
+          "name": "2 player"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1bb0390de4a18c667715cd1",
+      "uri": "spotify:album:6ExL6D6Nfxd0oB1X4Msj9t",
+      "name": "cure",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3sj8sfPArMs6XLOyyBnst1",
+          "name": "some"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5de2d9a0394ac0a1c358ff3",
+      "uri": "spotify:album:5qj13d94aKgCsRyumnmnOH",
+      "name": "phaseshift vip",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BwM43tn51Mq0Dn8NMB5zk",
+          "name": "freddy todd"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8928249e5ea5f4256eaee25",
+      "uri": "spotify:album:6OxJTxDCXYFPAoRDBUH1ES",
+      "name": "arbiter",
+      "album_type": "single",
+      "release_date": "2025-03-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "4ROegzIP1F9QmnzywpiVk9",
+          "name": "finneh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae21335cdd11593224645740",
+      "uri": "spotify:album:1NZFhOsZaJd121xLdOKAx3",
+      "name": "paradox",
+      "album_type": "single",
+      "release_date": "2025-02-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1kwGj7uDO5WXVXtQLvGJr0",
+          "name": "just a gent"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c40ffb652f8479e2e8d20ae6",
+      "uri": "spotify:album:5U88seMsVGN1apqTc2bh8w",
+      "name": "know u",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bpawMyuwPcgQnhkATuvz1",
+          "name": "2 player"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "29SqVrI9W5QGuI0MSPfZqB",
+          "name": "jeffufu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395ee0951ddb0b7d24e4b7a77",
+      "uri": "spotify:album:1Vy6PWf7Mwn5SW3y8v7kn6",
+      "name": "photon",
+      "album_type": "single",
+      "release_date": "2025-01-21",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1yxgjoiYczfFDnh4YYp4t1",
+          "name": "g-space"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273596030562cc72b072e2d8a5d",
+      "uri": "spotify:album:0Kvueq8dAzyKVrJf8fe14d",
+      "name": "check",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307ff8a4caedd014788a59626",
+      "uri": "spotify:album:3Fdm4krmXr4KklpHxCl4F6",
+      "name": "abysmal",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9e98404cb3e0160c8ed1b75",
+      "uri": "spotify:album:2dPkbIbm2u2EReWb6dqsTB",
+      "name": "lost project file 1",
+      "album_type": "single",
+      "release_date": "2024-04-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6c86ebe40f3d868c4a89f07",
+      "uri": "spotify:album:1T8N40MFM6T28qUNI9Pun5",
+      "name": "dark moon",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "4vhBj1tAmj0jreQyGM7s9W",
+          "name": "kurei"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734711ab1486659aa71bc9959c",
+      "uri": "spotify:album:4EdLUJfYFEWLHpNB910gFX",
+      "name": "gone",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f62a71e836a962849f49992",
+      "uri": "spotify:album:0q5MQlmKBITHHAlEOvEGjz",
+      "name": "g18",
+      "album_type": "single",
+      "release_date": "2023-11-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd45dc642cc480f2fbe077a2",
+      "uri": "spotify:album:2lVBXqhEwWqSN8889nUBuK",
+      "name": "underneath",
+      "album_type": "single",
+      "release_date": "2023-10-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732636e6372aa20fd2f6b74b62",
+      "uri": "spotify:album:5MOnZIh0l73nS5lmO8zVg7",
+      "name": "100k",
+      "album_type": "single",
+      "release_date": "2023-09-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273498c1233e1a4c7863f71087e",
+      "uri": "spotify:album:0RAKOs5kyT4CZvMhB70NU0",
+      "name": "imminent",
+      "album_type": "single",
+      "release_date": "2023-07-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "0lmP3WmCVHEjRvoE9GyYAX",
+          "name": "tripzy leary"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273184cf96c5a4208b8f6f68843",
+      "uri": "spotify:album:3nDMvde4k7qTPbqiuMeg2X",
+      "name": "parts",
+      "album_type": "single",
+      "release_date": "2023-06-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "3ehOD9yxqlsHtvRFNQRPR0",
+          "name": "jonnie boi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311f1a825fe4cc9d843c896dc",
+      "uri": "spotify:album:1GH3RIvPE8FIv5cd1baSlY",
+      "name": "calamity",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d413d7180d9305811ba1f462",
+      "uri": "spotify:album:2zTromfUR9H0EA9n02gU6U",
+      "name": "involution",
+      "album_type": "single",
+      "release_date": "2023-05-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3S5aXjH9pDeyD7BDMkLbiF",
+          "name": "daggz"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d9c78fa804fc75bbf29b4aa",
+      "uri": "spotify:album:5z42ngQYKTSuvILUvvw6hp",
+      "name": "cycle",
+      "album_type": "single",
+      "release_date": "2023-03-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e7d4370b4dee3c08c3edfe1",
+      "uri": "spotify:album:295imTGl6y0k7idGTb7nCO",
+      "name": "encounter",
+      "album_type": "single",
+      "release_date": "2023-03-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273487048764bc5b1587d7abff4",
+      "uri": "spotify:album:4ros4xFkZZcw0bvAwrGkKk",
+      "name": "serpent",
+      "album_type": "single",
+      "release_date": "2023-02-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aTmeAJQIHvOYEpc5KxJ8x",
+          "name": "um.."
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316262536fe45523799f561ce",
+      "uri": "spotify:album:78GC1IMygB3Dnm474OAvbM",
+      "name": "jawn",
+      "album_type": "single",
+      "release_date": "2022-11-15",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "2pIpcsa3bAXBKbbqrMHgta",
+          "name": "sagz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f87aed219d23251fd6d714f1",
+      "uri": "spotify:album:0yQWqILgm4ElbOcqHyh04v",
+      "name": "doctor",
+      "album_type": "single",
+      "release_date": "2022-11-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3EmMpBJXzap8jV6SkMPUsG",
+          "name": "drippy"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273269dbe510e368c79f1bcf420",
+      "uri": "spotify:album:1qiIhZwpFbQSYE3crGjIa1",
+      "name": "respect the drip",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4VkxUCarTjtPbHOBujBwlx",
+          "name": "tron3x"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7e04cf28dbe89ec5b708202",
+      "uri": "spotify:album:4uBjkeRNKijKLv0LqsKVyd",
+      "name": "sfd",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "4rzS5kVutpEGYPDMbfrSsJ",
+          "name": "brute"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324817a205c4a69df6485d5da",
+      "uri": "spotify:album:4lfMbYTKbgC63r56AKCHXq",
+      "name": "chromatose (vip edit)",
+      "album_type": "single",
+      "release_date": "2021-10-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "6Xri2X6xp5SDLr08hva6Bb",
+          "name": "super future"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad7a7ebcb60e62c67506162c",
+      "uri": "spotify:album:4c1zWWw84DJqLMKFA53r6Y",
+      "name": "bassx",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "0lmP3WmCVHEjRvoE9GyYAX",
+          "name": "tripzy leary"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273684b1907015bb972305ac246",
+      "uri": "spotify:album:27yoOweWso47ADMZXB9LoX",
+      "name": "intergalactical connection",
+      "album_type": "single",
+      "release_date": "2021-03-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e524644fc43b2271c506f75",
+      "uri": "spotify:album:4Us5as0E5Ru8POkdbqeKh4",
+      "name": "battleground",
+      "album_type": "single",
+      "release_date": "2021-01-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "7pv8rJv0A1hUUuxbnIUTOs",
+          "name": "diablo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbe1b33a5254877f8f7cf165",
+      "uri": "spotify:album:5x8DgDfNdUjPOa1DsJjxSo",
+      "name": "precision",
+      "album_type": "single",
+      "release_date": "2021-01-17",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "1Un7dSWqDulk2W0L0QD8vI",
+          "name": "blurrd vzn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a1a30ee34ea506e86fb1511",
+      "uri": "spotify:album:6gIOjEEY6SiiZqWS8m8SFQ",
+      "name": "who the (meso remix)",
+      "album_type": "single",
+      "release_date": "2020-08-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wcleSLRiSdM4P0ugXdg3H",
+          "name": "space wizard"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273315c21b19713b43a7f7e6feb",
+      "uri": "spotify:album:1HR75Z0hE7WHWiiN0VuCyH",
+      "name": "drip sauce",
+      "album_type": "single",
+      "release_date": "2020-08-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "5o9dfJmonwleJh7VcO5m3Z",
+          "name": "eater"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273473b10bdbf4d6609bd697f9f",
+      "uri": "spotify:album:5B1zjYa9JbXRd7tmc0PTzB",
+      "name": "squiggles",
+      "album_type": "single",
+      "release_date": "2020-03-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "22eFyjzI4OqJzqUrYlF46I",
+          "name": "secret recipe"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7424f4d48f58a39df8bb547",
+      "uri": "spotify:album:7f2rTwB2z9FNKiSuIx4JWX",
+      "name": "incoming transmission",
+      "album_type": "single",
+      "release_date": "2020-02-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "646z7cdFdyQGzytX2e2dgZ",
+          "name": "oddrac"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cff1aaf940e4a967bb6cef38",
+      "uri": "spotify:album:3oOhq7fIZG0dpy3uOjXYbA",
+      "name": "ramen",
+      "album_type": "single",
+      "release_date": "2020-02-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "3P6Rt79RfMm0ApE2jFVr8W",
+          "name": "old gregg"
+        },
+        {
+          "spotify_id": "25uknoqRCo3ywjmwXIQar8",
+          "name": "camnah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d859b544dc2c78bdf76cca8",
+      "uri": "spotify:album:13DxR3CwQ0HFFrUjYaJzlb",
+      "name": "sploosh",
+      "album_type": "single",
+      "release_date": "2020-02-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "1P5JiBMyykReCq5sU8PbJ8",
+          "name": "trigem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a18d98fc9099e9ba9316431",
+      "uri": "spotify:album:19rdGW04YFmraEVKhHsEd7",
+      "name": "space cruise",
+      "album_type": "single",
+      "release_date": "2020-02-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "1wcleSLRiSdM4P0ugXdg3H",
+          "name": "space wizard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f522dde6aba59e8ff3b143be",
+      "uri": "spotify:album:6DbYaKXqz7jznAQUGr5yK1",
+      "name": "spellcheck",
+      "album_type": "single",
+      "release_date": "2020-01-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2VYFboeFi8XZOLuEYLf1Z2",
+          "name": "bd hbt"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fee6879c1a3cb81e505db81",
+      "uri": "spotify:album:7w0yyt0uDWXwhFPEYhYjzC",
+      "name": "secret valley",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MpAe8If4MbY3bBLLJ3VzQ",
+          "name": "molokai"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307c567c683e40e095175bcfc",
+      "uri": "spotify:album:33Qe2giFmRDGI6aBDU97IN",
+      "name": "woosh",
+      "album_type": "single",
+      "release_date": "2019-10-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "069AIxyqMY2Skj93PyDUEA",
+          "name": "grundy."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a8f93dbd1a39966773c1423",
+      "uri": "spotify:album:59Qn3fwhy8lOCNQziEtdos",
+      "name": "eerie",
+      "album_type": "single",
+      "release_date": "2019-10-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "6FqAJlek0elllxy2CTncOa",
+          "name": "adiidas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396cd60a178314934ca639e10",
+      "uri": "spotify:album:5ZY8PUJvqYO9HzknqUdfbq",
+      "name": "drum in time (meso remix)",
+      "album_type": "single",
+      "release_date": "2019-10-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b391e53342a87897396d349",
+      "uri": "spotify:album:6CaLQ8p4tZ1iJyNsqTeELv",
+      "name": "kimetsu no yaiba",
+      "album_type": "single",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "185T0NR5Q8WC0KywN4dRYt",
+          "name": "cvptvgon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736568c681077424f07b26dbdd",
+      "uri": "spotify:album:3bO9j21OQmmrfrbiP9Nts5",
+      "name": "chromatose",
+      "album_type": "single",
+      "release_date": "2019-08-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "6Xri2X6xp5SDLr08hva6Bb",
+          "name": "super future"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae5b5b9c242af267bf58d9e",
+      "uri": "spotify:album:3HXla4NLXLJAUi94yp3so4",
+      "name": "sakura",
+      "album_type": "single",
+      "release_date": "2019-07-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4606e638a10e7237f4ec4e0",
+      "uri": "spotify:album:4fcq2uzW5V0zBk4lms52NA",
+      "name": "jroc",
+      "album_type": "single",
+      "release_date": "2019-07-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "25uknoqRCo3ywjmwXIQar8",
+          "name": "camnah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386ece8f9a53baf56a414ed65",
+      "uri": "spotify:album:0PGhhlJlaXW1mhYAwML253",
+      "name": "imagine",
+      "album_type": "single",
+      "release_date": "2019-05-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2j4QaTSkVN3YlRLfeOYHLC",
+          "name": "big city"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273831367a2b07681d754c54a30",
+      "uri": "spotify:album:1VcWGHYDR3tcp2UcpqcWT4",
+      "name": "blacklist",
+      "album_type": "single",
+      "release_date": "2019-04-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "2Z827Z6NgSoCjrVCKKyjan",
+          "name": "spades"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdf714cd452ab887ac39389f",
+      "uri": "spotify:album:1fMpY7KjralMTQT5qtaMhU",
+      "name": "like dis",
+      "album_type": "single",
+      "release_date": "2019-04-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Xri2X6xp5SDLr08hva6Bb",
+          "name": "super future"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f3c296df99104e19bc38db1",
+      "uri": "spotify:album:1JotfwsFHpUfQ6nBNf9ZGu",
+      "name": "tokyo",
+      "album_type": "single",
+      "release_date": "2019-02-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "5mwFlIeZdzDtk0RwO2YzHX",
+          "name": "towers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374be2447d482152691d9169e",
+      "uri": "spotify:album:00i4lO9ZpbvYjqe0f7NSoC",
+      "name": "that gas",
+      "album_type": "single",
+      "release_date": "2019-02-27",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1f1506d7c73508000217242",
+      "uri": "spotify:album:5RV07J70OyjSxxEzEGSxvx",
+      "name": "drop bomb",
+      "album_type": "single",
+      "release_date": "2019-02-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "0XVlB0nmglwXTTTV6CvEth",
+          "name": "bass-ill"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732eef2471318ada8f30029fd3",
+      "uri": "spotify:album:0xuy2I7p2FTJRyzQgYHWWJ",
+      "name": "mango pod",
+      "album_type": "single",
+      "release_date": "2019-02-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "55Ri2cwC4E2AfUoYThUH9Z",
+          "name": "humorme"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342e9f4004098b1bcacfd0651",
+      "uri": "spotify:album:5NytjrgL2UU7fzN9J8n8jo",
+      "name": "kodak chicken",
+      "album_type": "single",
+      "release_date": "2019-02-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328d3dfffadff6a0165743f8f",
+      "uri": "spotify:album:6ZOGOiwDEhLi0CiJZksy3y",
+      "name": "git down",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273412bbbe95fcf4b8ecd52eb59",
+      "uri": "spotify:album:3LWXg8RJNXS1axXHvN60tF",
+      "name": "my beat",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332c2c2eb02027eb29c3da5f4",
+      "uri": "spotify:album:4JOg2pa5QRnCXD6ch9D5Yn",
+      "name": "baja blast",
+      "album_type": "single",
+      "release_date": "2019-02-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        },
+        {
+          "spotify_id": "1JChGuirkwaGwD7oytIhPf",
+          "name": "ulk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc0487bb8161785f5003c287",
+      "uri": "spotify:album:367larWS0lz0fyrYKOmRbV",
+      "name": "fleeek",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "08la9DM1K0VMpSbQTb8gFQ",
+          "name": "cnopes"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732452c59fc7e1b44f29894b3d",
+      "uri": "spotify:album:5BuQ5PUoxS60O7FL6041W3",
+      "name": "moon flava",
+      "album_type": "single",
+      "release_date": "2018-09-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "08la9DM1K0VMpSbQTb8gFQ",
+          "name": "cnopes"
+        },
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b981e4d2c99c52a8b7f3a719",
+      "uri": "spotify:album:52XIcc2a9SEAxRWxNB5qcl",
+      "name": "moon waltz",
+      "album_type": "single",
+      "release_date": "2018-02-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JWiO1GpBwxybssaf6OUJe",
+          "name": "meso"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:16.000Z"
+}

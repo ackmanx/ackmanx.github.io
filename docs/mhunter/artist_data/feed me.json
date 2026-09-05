@@ -1,0 +1,1121 @@
+{
+  "name": "feed me",
+  "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+  "uri": "spotify:artist:5FWi1mowu6uiU2ZHwr1rby",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4c708d39acdc96b195dcd2d9",
+  "genres": [
+    "dubstep",
+    "electro house",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6a41b14c5142fd4690687b0",
+      "uri": "spotify:album:0Sm2yAul9Ih7CSac3ipoMo",
+      "name": "bad taste",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273095a3cd14c5dbc7a1ff60e21",
+      "uri": "spotify:album:3gMjHCCU0HrkzXwxQTi6Sc",
+      "name": "vice city",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "0c85biWSn583yWSpravRd6",
+          "name": "leo leone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e621665bed153bc4cb7debd",
+      "uri": "spotify:album:4luqHf5qHnCsWHtvTiUgv5",
+      "name": "another level",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337651cb3239d94d7b65444a2",
+      "uri": "spotify:album:0CqOIci9ByydHQtaZdWUmP",
+      "name": "felt sick",
+      "album_type": "album",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737966751d256bb59f030a7379",
+      "uri": "spotify:album:63QWCmuMkRcwMUtAth3pZU",
+      "name": "proud",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "1fYnA1IkOOJ3mtWl02xKk3",
+          "name": "lani daye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367fdfb05d0e8494ba9a5c778",
+      "uri": "spotify:album:342mmDGOIUhV5NQOIUTC3b",
+      "name": "pyro",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cfc1404c9daac5d7b0059bf",
+      "uri": "spotify:album:0CO9p1rRm8o8wYQCnQl6T0",
+      "name": "one click headshot",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2ed8ee97884a4f05a620e6d",
+      "uri": "spotify:album:15Km2BglhvTzxlmfdpx9Fl",
+      "name": "one click headshot (alienpark remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7xtEdHtZ1CdyPAY4px5N3R",
+          "name": "alienpark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273942ede5ba588c6db4452db37",
+      "uri": "spotify:album:6SD2ADSOzfDr1vTyf9jib4",
+      "name": "one click headshot (arya & alexis b remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "5O2s6fRMqbwIKGB9QrFrBQ",
+          "name": "arya"
+        },
+        {
+          "spotify_id": "6sdWdDAgkNeIIZNQ4xExec",
+          "name": "alexis b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a53becce38b1e2750085160",
+      "uri": "spotify:album:4C2c7zji1Fi3xPHwn7NJ7M",
+      "name": "one click headshot (eddie remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b190f7814f9c5e3e550a0ae5",
+      "uri": "spotify:album:5oI50Hmrdrvky4UR7dj0Lk",
+      "name": "one click headshot (eater remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "5o9dfJmonwleJh7VcO5m3Z",
+          "name": "eater"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273545f4ec3cad9aa17c2350ca0",
+      "uri": "spotify:album:7GdPME1AiCHgYvFD74sqCF",
+      "name": "one click headshot (flozone remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "3SoFUkULAf5goHkXVeppoh",
+          "name": "flozone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273113e59e36a220166b9b1a199",
+      "uri": "spotify:album:6iv7ht2shsghUvu0jFmwsq",
+      "name": "one click headshot (jacknife remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "28YvCT7aJv6DMie7ltTeqo",
+          "name": "jacknife"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd3f2751734dc8a9ed44cacc",
+      "uri": "spotify:album:5WQVhApGs5BN3VN1dEyZlH",
+      "name": "one click headshot (lost in orbit remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "2icM89oZYQqjkBlfuDjkNL",
+          "name": "lost in orbit"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ed503a3e9512285df466407",
+      "uri": "spotify:album:4W9mG9sSccyq5QEKBqFxU2",
+      "name": "one click headshot (nvadrz & alias remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "5HjquKoSRM51rXZNuq1y7q",
+          "name": "nvadrz & alias"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a919ab9d6b76f0a9f29ef120",
+      "uri": "spotify:album:5al1NZinpicaAzCpZSqxx5",
+      "name": "one click headshot (shadient remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "6ADRET3UXTOmGBjjO67fNd",
+          "name": "shadient"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c8e0fa451a4510d01f6155e",
+      "uri": "spotify:album:7IlC2ZiIWqC0XYmhLZq3fy",
+      "name": "one click headshot (grafix remix)",
+      "album_type": "single",
+      "release_date": "2024-12-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "27YdXZOMLqvxI2pB5GyqyY",
+          "name": "grafix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325eb21b97b9eb609df42e26e",
+      "uri": "spotify:album:699A5QW3mqOTBwa1LRaJAm",
+      "name": "happier by now (feed me remix)",
+      "album_type": "single",
+      "release_date": "2024-11-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2fNr4ldujwq97v1jWeqs8K",
+          "name": "kai wachi"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273247e251c536f9131765b4f12",
+      "uri": "spotify:album:3fKIRaXcvMBjalv1TD4Iav",
+      "name": "survive (bad computer remix)",
+      "album_type": "single",
+      "release_date": "2024-09-04",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7uGeDBa1LJ7T1X4fpl8mwk",
+          "name": "bad computer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736207e3b59eff706dc643d7b7",
+      "uri": "spotify:album:0aPuz4U1D8EFCOHIyaI0xU",
+      "name": "feed me's vintage rally championship",
+      "album_type": "album",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6f4e7680da8e0f0402fb0ac",
+      "uri": "spotify:album:4cUL3xUF0WnEM1L2KDLTPb",
+      "name": "hopeless",
+      "album_type": "single",
+      "release_date": "2024-05-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20yuGdfbRkW0HH3OfG1Nkg",
+          "name": "no mana"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "2m0xNVRx1tAHY3pfNXt7Ro",
+          "name": "bertie scott"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733643cc91098a0f9e423138f8",
+      "uri": "spotify:album:1K97RyYATExzKWXUcAYgBv",
+      "name": "giant creatures",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390515f682ee9e074f09029c1",
+      "uri": "spotify:album:72TVWYXcYfunh4HFLdKYt3",
+      "name": "i'll be good",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273303607e81f3b52afba56abf2",
+      "uri": "spotify:album:2ktsEf9GnWE0JPsx0a4xml",
+      "name": "roadtrip sleeper",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fde35dce642ba3be1781113",
+      "uri": "spotify:album:5tlN4BJSY1f8HCZDC9En6i",
+      "name": "hyper harmonic",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273508f80c8321db36c2f407a4d",
+      "uri": "spotify:album:07MWbXKidAzXrl5Ok23Fbw",
+      "name": "if only",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315d324b03d04d3ed5a9f7407",
+      "uri": "spotify:album:5wcpHhA76rJtAwJTnOlN7u",
+      "name": "calorific",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c19edb1651c5000ab4ca8a9b",
+      "uri": "spotify:album:03DXf85vhobPC1mKkJvtKE",
+      "name": "one real antler, one imagined",
+      "album_type": "single",
+      "release_date": "2023-12-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732539b9c7168108a14627f6f1",
+      "uri": "spotify:album:56NojZ0Q5CKfJs3LhR5Y0F",
+      "name": "feed me from the clouds ep",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374dc0a5f9f4f6a0c9d678f3b",
+      "uri": "spotify:album:5smqm3yRHrVpGYJBWwIujP",
+      "name": "say yes or say no",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa1b369f19d8ff85d9d7989b",
+      "uri": "spotify:album:2uwZLRe2sKP6j6foGDMY0P",
+      "name": "mirage",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7sLv4bED064cYa2XhF85og",
+          "name": "tasha baxter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c9b99a7d2233ba797d4b48c",
+      "uri": "spotify:album:5AzyIsvCyfYfepqzPMB1s9",
+      "name": "higher than the sky (feed me remix)",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19ZtT7naINTRZzjmdFO3Ri",
+          "name": "transient"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273771cf7c8e6af63290e1e9723",
+      "uri": "spotify:album:73pyeqeUjGcgql3GSJTBqN",
+      "name": "ghost synths",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b93155cac7758be9234b8cff",
+      "uri": "spotify:album:0OA3rqqIZQ9ccHWz8SLabQ",
+      "name": "feeling so free (vocal edit)",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe44028b14f4f88cb593bf5f",
+      "uri": "spotify:album:5u5AZ9X3TCsVQFiDhmJrn1",
+      "name": "feeling so free (vocal edit) [extended]",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cfabb19cc24f3d57af80e02",
+      "uri": "spotify:album:50pctUThqAZHckTdM9jZ2p",
+      "name": "feeling so free",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733309de26aa60f7fb51f89ba3",
+      "uri": "spotify:album:54tW9H8zISf4pJSWopmu7K",
+      "name": "feeling so free (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367503a91a7b370356caca454",
+      "uri": "spotify:album:1pA5c3K7ChQSaGDbpigHB0",
+      "name": "feed me",
+      "album_type": "album",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de8ffbb067552ae7afc32f90",
+      "uri": "spotify:album:0E5YLw8sFcxZXkS6seFd26",
+      "name": "reckless",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7sLv4bED064cYa2XhF85og",
+          "name": "tasha baxter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388234a1d4cb1be8865f27a00",
+      "uri": "spotify:album:42xn3Nl3RkLf1hQcKOrRG5",
+      "name": "silhouette (feed me remix)",
+      "album_type": "single",
+      "release_date": "2020-09-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7uGeDBa1LJ7T1X4fpl8mwk",
+          "name": "bad computer"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e8eb6b655e221b7704689dd",
+      "uri": "spotify:album:08zjtHsUwUHV6TIA9fJsAx",
+      "name": "survive",
+      "album_type": "single",
+      "release_date": "2020-06-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "6qEfyIMkz6rkRRhmuBTFWI",
+          "name": "meesh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344e0f99aa73be8a4beddf6ce",
+      "uri": "spotify:album:7jUUy1jJJDliVkEyKjuAOK",
+      "name": "new shoes",
+      "album_type": "single",
+      "release_date": "2020-05-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7deea9b808f771017819674",
+      "uri": "spotify:album:0QCHpNbFAGZvdItQeiZwqC",
+      "name": "coffee black",
+      "album_type": "single",
+      "release_date": "2020-04-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7599f18d92d66d4fca0295f",
+      "uri": "spotify:album:3jqDrXRiq8vNyTWVhFqDek",
+      "name": "money, destiny",
+      "album_type": "single",
+      "release_date": "2020-03-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bfb796eaa363455f8845ecd",
+      "uri": "spotify:album:1tiB4SQswZVBzCzzBYGr0T",
+      "name": "little space",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb41c35dfbf344bf9e50f137",
+      "uri": "spotify:album:3hWqbnxnitp4dyhCx8dqI5",
+      "name": "nothing hurts like you (feat. sam calver)",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "0DqwgwpV8HbLrBDW5zN8Ud",
+          "name": "sam calver"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcaa2fcba08460817b04f1b5",
+      "uri": "spotify:album:282jPBGV3lOH9lFvgJQu5b",
+      "name": "high street creeps",
+      "album_type": "album",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff809405bf499566296f03f8",
+      "uri": "spotify:album:4vPcgX853bugg663tkRnkF",
+      "name": "sleepless",
+      "album_type": "single",
+      "release_date": "2019-02-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abaaaf95df1a4d743c1b225f",
+      "uri": "spotify:album:5rbjRtFIC4e74fx2hvZHLD",
+      "name": "feel love",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375e22d1315724f8aaa47f006",
+      "uri": "spotify:album:4cXEBA3htwg6e3MbfjjhJ0",
+      "name": "crazy maybe no mana remix",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cd99009168f601ea224a2e4",
+      "uri": "spotify:album:0MDWele8zqXhM6yVpM1w9i",
+      "name": "feed me's existential crisis",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f011f334920e3866710f4819",
+      "uri": "spotify:album:3xuaHnDzS80eyWVlISH0ej",
+      "name": "feed me's family reunion",
+      "album_type": "single",
+      "release_date": "2016-07-08",
+      "release_year": "2016",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cba7c114fad22d0d37471047",
+      "uri": "spotify:album:5wEWgbGYgUxbg4WydzBayU",
+      "name": "a giant warrior descends on tokyo",
+      "album_type": "single",
+      "release_date": "2015-02-02",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384601f18a9318208b05151f2",
+      "uri": "spotify:album:1AatHcCzngEJQLjABCtqcG",
+      "name": "far away",
+      "album_type": "single",
+      "release_date": "2014-10-23",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336b7f45889893011e2653a13",
+      "uri": "spotify:album:1bIBY3nSANQovqHnQ12xPR",
+      "name": "far away",
+      "album_type": "single",
+      "release_date": "2014-10-23",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ebf315a8e6266af4c10fdfc",
+      "uri": "spotify:album:447AW7l5oA84PMydkntsMI",
+      "name": "feed me's psychedelic journey",
+      "album_type": "single",
+      "release_date": "2014-07-11",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d96c127e5d0666f9090d445",
+      "uri": "spotify:album:6eamRXvrKVz5VN1noerGMr",
+      "name": "calamari tuesday",
+      "album_type": "album",
+      "release_date": "2013-10-14",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3f5c51d53157828ad94d6ce",
+      "uri": "spotify:album:5ufw2K3sdYcXlUn3oMh6I2",
+      "name": "death by robot",
+      "album_type": "single",
+      "release_date": "2013-01-16",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9e2ee1e0d374cf369c2c2c3",
+      "uri": "spotify:album:1kYO5M4IByzemRbbdo7wFZ",
+      "name": "love is all i got",
+      "album_type": "single",
+      "release_date": "2012-10-26",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "75EZuo5MHV2572NRpMWotC",
+          "name": "crystal fighters"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273216b7e8f45f7fbdb49c870cd",
+      "uri": "spotify:album:6zXI9UhGccv7MrilN5HYVd",
+      "name": "little cat steps",
+      "album_type": "single",
+      "release_date": "2012-08-20",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce582d071639f550b5c88b27",
+      "uri": "spotify:album:5XUEfoLxc4kmyRJQLecXBa",
+      "name": "feed me's escape from electric mountain",
+      "album_type": "album",
+      "release_date": "2012-02-06",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391dfb03420353de0cf2d4580",
+      "uri": "spotify:album:6JzWUS2KghRBBLSL9HjuSq",
+      "name": "feed me's escape from electric mountain",
+      "album_type": "single",
+      "release_date": "2012-02-06",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273991f98cc0bcc5f22998bc1be",
+      "uri": "spotify:album:36NrIrELNEr4qSUxOZHOqH",
+      "name": "to the stars",
+      "album_type": "single",
+      "release_date": "2011-07-01",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273639656f95e5f1e71a2d16502",
+      "uri": "spotify:album:1MjaLL227npkALGkwfadl4",
+      "name": "feed me's big adventure",
+      "album_type": "album",
+      "release_date": "2011-01-21",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba85dd7960793f4f625d7ea6",
+      "uri": "spotify:album:0wbI1KnzXla4VwWflzV4G6",
+      "name": "mordez moi / b.r.u.l.",
+      "album_type": "single",
+      "release_date": "2008-10-13",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:24.000Z"
+}

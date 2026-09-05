@@ -1,0 +1,1589 @@
+{
+  "name": "vivid",
+  "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+  "uri": "spotify:artist:3VcAPpkjFtd3Sj5fmqPQd1",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc648a6dbe3d154792229c53f",
+  "genres": [
+    "future house",
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bc4fd4f12ef15aa95addc7c",
+      "uri": "spotify:album:2t1NFbAv1m3kCwjcxk5MU4",
+      "name": "the after party",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebcc39388d6b76420cebb5a0",
+      "uri": "spotify:album:1L1YCkAzIAlHUdZtOGsHRY",
+      "name": "gas",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273804508d43bc3ec86440da61e",
+      "uri": "spotify:album:537wPVVCTNrwuw4J7oZn3n",
+      "name": "like this",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c198f8249e7e8f2bfa6d7b2",
+      "uri": "spotify:album:1dbDfcW2EcJGnmZ9DCSzMX",
+      "name": "wtf",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734234d3dc11e4e1fd0f6b2731",
+      "uri": "spotify:album:3BC9NG2WazaS7Dcivjs9rF",
+      "name": "no sleep (vivid remix)",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d37bbca1d365e1e7a61a8e3",
+      "uri": "spotify:album:7bPpWmpaKTOp8QG6OSWAeE",
+      "name": "left / right",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335898acd02e82c33e4aff9cf",
+      "uri": "spotify:album:1ugn2kVWPWEH1Sh9yvYon5",
+      "name": "take me back",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2aa02a45ac07487be693b0b",
+      "uri": "spotify:album:1lkV689XSDRe5jsmqR7gQE",
+      "name": "ready for take off",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "4wQ45RryJ6QjKtVkgo2LVw",
+          "name": "h93"
+        },
+        {
+          "spotify_id": "554qDHSwsDfX0qOfyxQjWs",
+          "name": "kromi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db956c4aa6664db1b31037ea",
+      "uri": "spotify:album:23nHVSmmQXTFuA2ukpYCls",
+      "name": "hey dj!",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "0pP0ClsQK7FgtbwuUcVrQV",
+          "name": "sesco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e50e88d6e774fd7b88d03547",
+      "uri": "spotify:album:7AHHg0QvLsnob9kmKxuJ5s",
+      "name": "we came to rave",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cef09741a501e7144d809973",
+      "uri": "spotify:album:3poVp7oQSIUdym2nmOv9yF",
+      "name": "arcadia (vivid remix)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356dcfddd8a5ead2714ef12f1",
+      "uri": "spotify:album:2nEf8KkMp1TOfaQOYIm9yl",
+      "name": "cyanide",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7001b26ff3b86f1f3d4c887",
+      "uri": "spotify:album:23Z2iNI7nPD4z4pw4FhXEO",
+      "name": "the opera",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "5qAR1WK1Jc7vCodWCIfY9B",
+          "name": "sides"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273870e89936579356431024ed7",
+      "uri": "spotify:album:7hUjjK1SwkkhBowzIeg6q9",
+      "name": "familymart",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730934d8d48f8468717f574628",
+      "uri": "spotify:album:504Zii4m34k2XJLh8wkYWK",
+      "name": "therapy",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "546wUAx4h02JrN0KPXsIGq",
+          "name": "x.o.anne"
+        },
+        {
+          "spotify_id": "5SkFO3lmDnuFTMIOMK8Bxj",
+          "name": "tannergard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d671a2f39fd0e6d59dada2a0",
+      "uri": "spotify:album:3FZky9aMUYEfNPTVQ7FMYY",
+      "name": "live for it",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "4fCHA6Os4QKfn5UngdAf3i",
+          "name": ".exa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c7073470f5d54639e1a0cac",
+      "uri": "spotify:album:0usJPqPi4RUSx4j4fqjvDM",
+      "name": "sunseeker",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "6kK6lCbJfPgDH6plFWQQID",
+          "name": "maikki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315ee9809f607892812e9e34e",
+      "uri": "spotify:album:4MvWWSq43k1N9Hw9IssGsO",
+      "name": "remedy",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "63fa6wcoeQnDrOpGFkoeUB",
+          "name": "5sta"
+        },
+        {
+          "spotify_id": "6bi3UYlp3xOsZKR87BwR4j",
+          "name": "d-steal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378d4e7c5c9afaf56cce6379b",
+      "uri": "spotify:album:7lruKU4dqG2Hm92Mj8MoX5",
+      "name": "ai fantasy",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0pP0ClsQK7FgtbwuUcVrQV",
+          "name": "sesco"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc81b51b240cdb59c4fa8dd7",
+      "uri": "spotify:album:0vNihvJgC5gdrfYK1cZwm8",
+      "name": "rave generation",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3nAVFW9Ici1N82YmQMbV8J",
+          "name": "penelope"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352589ed4361fc566d5a616b2",
+      "uri": "spotify:album:4O5SB8XnQm6kXNlAJobBU0",
+      "name": "the neon city",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "1zy8SA3oy5HdFvPkckW5bW",
+          "name": "qwerty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4f72be3e009009a9a0a703f",
+      "uri": "spotify:album:5WAgSxWM5Ya0jclaHA7tgl",
+      "name": "paradise",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3nAVFW9Ici1N82YmQMbV8J",
+          "name": "penelope"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731347c71f61f3c9fbfa8b0ca3",
+      "uri": "spotify:album:7AKYzxhe1Ow2QtiQIS7XlU",
+      "name": "stay (thando1988 remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3mSWsKWD1sXEhsv9vb33sX",
+          "name": "thando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f340694013bf322cf70203f4",
+      "uri": "spotify:album:2wRR6tF4dg6aYrOvhW8Lhw",
+      "name": "let me know",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a980415f0ea5133fc191d321",
+      "uri": "spotify:album:7GBjJgA2a7EI1wII8efEDC",
+      "name": "renegades",
+      "album_type": "single",
+      "release_date": "2024-01-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b647787d81f504ecc0a00beb",
+      "uri": "spotify:album:5ppmVFFxW7KbmTOnOz1nPR",
+      "name": "stay (lo fi jack remix)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "0kPdLQ90PR3ewNTTRSfOch",
+          "name": "lo fi jack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a16beb2797d93a31b75348a",
+      "uri": "spotify:album:15cipHA7XyNUFzrqtVDCPc",
+      "name": "firewalk (vivid remix)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+          "name": "lissie"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ee31b27f1e9a1fe4f5653ef",
+      "uri": "spotify:album:53rsmbEF4FyrMfJI4E8NqX",
+      "name": "stay",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737203c53537955ff24bc721d6",
+      "uri": "spotify:album:27xL1gzRSsKQBmvz578uO8",
+      "name": "phonk me",
+      "album_type": "single",
+      "release_date": "2023-09-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273850ff878d0cd8b72cedc0a60",
+      "uri": "spotify:album:1flr6nyfMV6RA1E01vBUDt",
+      "name": "fly",
+      "album_type": "single",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273575760ea2d9b6235cad92992",
+      "uri": "spotify:album:0nYypyR95zK8VjucsAL6h7",
+      "name": "aftershock",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363dcf9ed1fa4ce5f61daa819",
+      "uri": "spotify:album:5IEKeUKHWvqPEYCTGbqjoC",
+      "name": "aftershock (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338790d815e16803abe32a285",
+      "uri": "spotify:album:547jHgg0Bf5pUPALlMaxTL",
+      "name": "ravetech",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c81bb150a7531f305e1b7328",
+      "uri": "spotify:album:4E2BN9XYY8Xb4OCSSJtmaV",
+      "name": "falling deep",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273907fc7d4cc38908a6467af4e",
+      "uri": "spotify:album:2fdAqzTBK0lH2164dfZCQG",
+      "name": "daydream",
+      "album_type": "single",
+      "release_date": "2023-01-06",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "1CzF2XvSpgqgAJWXg6dZQK",
+          "name": "xander jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce13bc0cefad3de78302f211",
+      "uri": "spotify:album:1zmib80tlFX8VmRi12GcYE",
+      "name": "rave tribe",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3u45rXhQ0o9pUL24xlnf6e",
+          "name": "chester young"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e236c9eb16c7c25befd878ba",
+      "uri": "spotify:album:5fygIv8Psxrqo16kMGy1jD",
+      "name": "secrets",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3juwo4sTF5okJNvCfQpArZ",
+          "name": "nazzereene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4a7fe8a49d7bc5fa9586a50",
+      "uri": "spotify:album:0m3BGCukeY2OhCmsunPE5r",
+      "name": "feel the rush",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "6hGu5Bjk4qHvlbwvxIkNFk",
+          "name": "bouncemakers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bd52eb807fa5f9d462146b9",
+      "uri": "spotify:album:5CTu8EkDwqLVvjb60JEmfb",
+      "name": "around the sun",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273297689cc380db4ae38285ec0",
+      "uri": "spotify:album:5WqSSdVO6BxUYUrsRxPvDe",
+      "name": "crazy world",
+      "album_type": "single",
+      "release_date": "2022-04-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3lAEEPnjKxzI5BTK4hZy7D",
+          "name": "yamatomaya"
+        },
+        {
+          "spotify_id": "5m9bQKYt5uwDbtBGB6x78P",
+          "name": "jorik burema"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdaca50fd7d65731a4869363",
+      "uri": "spotify:album:7K5fsEU7JVDcGkbmQXn4cQ",
+      "name": "the longest road (vivid remix)",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c63ef89c224f04435976f60",
+      "uri": "spotify:album:2Pdi9O0OJgJHN9ijbfN3Gf",
+      "name": "selfish",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "6Jt9U8bJ56jqNdEKdLZ7Yw",
+          "name": "aster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273516c516231a78be53be90ef1",
+      "uri": "spotify:album:2i52s4Nq2jFlf67AC4WmRk",
+      "name": "first time",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3Woqe3KegExVyrEK1I6ITJ",
+          "name": "damon sharpe"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6a8cad1b59261aa58f5be6b",
+      "uri": "spotify:album:0tG8miFNS1NNAZmsqlpDC1",
+      "name": "breathe me in",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "6DaSJnsDXVDcrHzru4MHrx",
+          "name": "jen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a32307fe1ebe86f2458a132c",
+      "uri": "spotify:album:3xm7c3v4BJVJwWa5YBzhUh",
+      "name": "you never know",
+      "album_type": "single",
+      "release_date": "2021-09-20",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733665b0e4555abbd6d46f389a",
+      "uri": "spotify:album:4j8rRnuyZDtPSrOoJ8c1I7",
+      "name": "olympia",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be58062746f1b8dfcf3d6155",
+      "uri": "spotify:album:2UZoKt1VkXoqftIfWOUyg3",
+      "name": "let me in",
+      "album_type": "single",
+      "release_date": "2021-07-05",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1XLjkBxFokuDTlHt0mQkRe",
+          "name": "thomas gold"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f63e3b6a4c6bf735b6479e43",
+      "uri": "spotify:album:2r8X7Rkw7J4o5N8Y0yQNYq",
+      "name": "astronaut",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "38ll04WO5aX23GmDvdneOr",
+          "name": "abstract vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380a68a2f8a2c3819ac189a43",
+      "uri": "spotify:album:0KEYE97YAdcRQK2tqFdofU",
+      "name": "fade away (low blow remix)",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd567100048888e0439a9253",
+      "uri": "spotify:album:57AKsf2TmEjUJ7higO7Hk3",
+      "name": "fade away (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e8f4c62a704549ca6e027c5",
+      "uri": "spotify:album:0B4B32Vou9gEEQzrRPwc0T",
+      "name": "give up on love",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0bTwqu2kHGHJyomMDAGpkK",
+          "name": "runaground"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "7G7KvDCLdVG0Ok511Iqc9U",
+          "name": "disco fries"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310b9dd3a6a6d72971239a48c",
+      "uri": "spotify:album:2YInCe4fcFq0cQFjSNS67t",
+      "name": "someone like you",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "6bi3UYlp3xOsZKR87BwR4j",
+          "name": "d-steal"
+        },
+        {
+          "spotify_id": "7n5vSYBZcqMfr8zHl6rdcx",
+          "name": "kdh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f81433bd6cbb98560ab58f32",
+      "uri": "spotify:album:4J5TFdb9JL0y6ySDdkBCAW",
+      "name": "1,000 degrees",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376830851485d910fa1736738",
+      "uri": "spotify:album:3FsKQgHC5mDjmQJlO9BxsD",
+      "name": "fade away",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e01b08b6f75e054ee5765df3",
+      "uri": "spotify:album:2a9psrGf5XYOCyrbAVzzMF",
+      "name": "interstellar",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273789e0ae5015e1fafcb3b57e7",
+      "uri": "spotify:album:71smRxfZpVAl8zclgnaaUt",
+      "name": "oldskool",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "0pP0ClsQK7FgtbwuUcVrQV",
+          "name": "sesco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af654d7db6fafc7f4a8e1b33",
+      "uri": "spotify:album:2u40FeCLgJ8yAeIyaX4xmf",
+      "name": "against it all",
+      "album_type": "single",
+      "release_date": "2020-06-08",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ahL1iXaWuxyNh5sp87H66",
+          "name": "myris"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3a8728722a18ffd04a5a042",
+      "uri": "spotify:album:4lJVyLs78aBa8VAq2ZJrHc",
+      "name": "against it all",
+      "album_type": "single",
+      "release_date": "2020-05-25",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ahL1iXaWuxyNh5sp87H66",
+          "name": "myris"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5360ea667fd63911ebf082c",
+      "uri": "spotify:album:1xhUfhrRdDYr3x7ZnA2AEt",
+      "name": "meet again (vivid remix)",
+      "album_type": "single",
+      "release_date": "2020-03-26",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273632e39dd136364cdde22e199",
+      "uri": "spotify:album:5a7R9UxGskWJ9fTz2P3Ji8",
+      "name": "meet again (vivid remix)",
+      "album_type": "single",
+      "release_date": "2020-03-26",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        },
+        {
+          "spotify_id": "1mgNVAgWBv1L9CvAocHTTD",
+          "name": "anvy"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fafcd1316ebfd1de25572e8",
+      "uri": "spotify:album:1DB51xvuL5ov2zlipgAMR6",
+      "name": "don't stop",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f44c7c0125605540bdef1eb",
+      "uri": "spotify:album:0BvLTzENzNKdkqurIMVIX0",
+      "name": "sayonee (sartek remix)",
+      "album_type": "single",
+      "release_date": "2020-01-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "7twKy3fK03wqUCnHDCL6Qc",
+          "name": "sartek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0ab04418aa0fc2744015911",
+      "uri": "spotify:album:0sbUkCGQ6mGNf2JNK8bUVg",
+      "name": "illusion",
+      "album_type": "single",
+      "release_date": "2019-12-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738224ab27b72471637f9709b6",
+      "uri": "spotify:album:5fGiABJ5KlK29ifRrx9HEm",
+      "name": "sayonee",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9afd60cd340c58f76f3a5ac",
+      "uri": "spotify:album:0wXAuUQnjGzD9B3xcuJIkZ",
+      "name": "easy (vivid remix)",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "521qvhdobR0GzhvU6TFw76",
+          "name": "tritonal"
+        },
+        {
+          "spotify_id": "6pbownHQeZG6xwDSUEjewe",
+          "name": "kapera"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aba01bcdd1ecab6c686096e",
+      "uri": "spotify:album:1z1tOaGPbmYTIAFrUH0q1A",
+      "name": "ocean",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab2dc000ce42c8bdbe674a58",
+      "uri": "spotify:album:5ljTOJFfxevytZR7Dnm52t",
+      "name": "fire & gold (ship wrek remix)",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3Woqe3KegExVyrEK1I6ITJ",
+          "name": "damon sharpe"
+        },
+        {
+          "spotify_id": "1ic0FHNGIjXZAWH6O6Reif",
+          "name": "ship wrek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738abf91a83ffcaf11009684a2",
+      "uri": "spotify:album:0QBsqASA7nSJQj0eAjEi1y",
+      "name": "raijin",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366cfb1140c2f1e69409be606",
+      "uri": "spotify:album:3SmpTd4wBNpZGF8aNCecDF",
+      "name": "fire & gold (fatum remix)",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3Woqe3KegExVyrEK1I6ITJ",
+          "name": "damon sharpe"
+        },
+        {
+          "spotify_id": "3pt2vTpH1eI776oDZT1G2C",
+          "name": "fatum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734669a048b337ce7db007e388",
+      "uri": "spotify:album:5EqXozacOCxmmnHGBP9VAB",
+      "name": "fire & gold",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "3g3rPlLZLmOPee8FBJ4oME",
+          "name": "allé"
+        },
+        {
+          "spotify_id": "3Woqe3KegExVyrEK1I6ITJ",
+          "name": "damon sharpe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b50142409a0bcf5a1494d8d8",
+      "uri": "spotify:album:3hGryL7s7hixHiw6OlqtqX",
+      "name": "back to me (vivid vip mix)",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/49238d08f0e8e0eb23143dbac10de790657d5f4c",
+      "uri": "spotify:album:7zlXwcKXjWjfa2TaQdWMX9",
+      "name": "back to me",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736623579e610bc9ddd5c854c8",
+      "uri": "spotify:album:4dd0vuTRmJVd9xK1TBLEld",
+      "name": "woh",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731af196354b01a84b3ad5d467",
+      "uri": "spotify:album:1vG2hAE0JrTZHBxNIW7Cu9",
+      "name": "black & blue",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273579aea4dd88d86ce4d037b1a",
+      "uri": "spotify:album:3mF2q57zoiH4nfuGjO8Sp8",
+      "name": "this love",
+      "album_type": "single",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de5b033cea21ae8d419eda16",
+      "uri": "spotify:album:5qqaVEDXYWZBlJQ858aG1v",
+      "name": "higher",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315b1630cde3133e0facc14f2",
+      "uri": "spotify:album:4EryY0UnKRaBblXENiIPNw",
+      "name": "annihilate (radio edit)",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RKp1uUvbwcheZKUrG462Q",
+          "name": "hirapark"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f58d78acfd1f55a73c4e8c69",
+      "uri": "spotify:album:35NbHHaxuKdDXTW97ieh8O",
+      "name": "shake it",
+      "album_type": "single",
+      "release_date": "2017-06-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e3539c37d645a4202d078a5",
+      "uri": "spotify:album:0S2Zp0CMgzIUXMRBTM4Hue",
+      "name": "savage",
+      "album_type": "single",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbd01fa30cba6b5d02ad8eba",
+      "uri": "spotify:album:17oWbeDYKQpoiXBeHytqkW",
+      "name": "circles",
+      "album_type": "single",
+      "release_date": "2017-01-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5vc233WRHPH0rB9CVZfHhW",
+          "name": "7ubo"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "5TJpa5oACRHcE2IW31yedT",
+          "name": "gino g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dbe2aca91975c2e7b4449d7",
+      "uri": "spotify:album:2OfwTKCxvUZsQuDKXMUAje",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2016-10-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b948ee95ecb00b290509955",
+      "uri": "spotify:album:6gpm46pQelu87mdGOu3W6U",
+      "name": "watsup",
+      "album_type": "single",
+      "release_date": "2016-09-26",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa7fb07541e824901a3444ce",
+      "uri": "spotify:album:1aNPZ3AEPsyBDt6HHJ6VJG",
+      "name": "zodiac",
+      "album_type": "single",
+      "release_date": "2016-04-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b3603dcb2e156eae33304ec",
+      "uri": "spotify:album:3VwMS8YJMbkxvSk4sHh8RN",
+      "name": "rush",
+      "album_type": "single",
+      "release_date": "2016-04-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322198c459d3660c8c19efc65",
+      "uri": "spotify:album:3ku2vQSytN4WSAQsCNuWdX",
+      "name": "the worth",
+      "album_type": "single",
+      "release_date": "2015-12-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d1f67b255ba4298dadcc3fa",
+      "uri": "spotify:album:6zUoGTwfJcgetsjW1HnueA",
+      "name": "ghetto bouncer",
+      "album_type": "single",
+      "release_date": "2015-10-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f6a6c86354d44652eeefc4a",
+      "uri": "spotify:album:56M2VbrdFQYZepLZAo0Pox",
+      "name": "fear",
+      "album_type": "single",
+      "release_date": "2015-09-30",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a12e3ce9fb4337d0f671fdf",
+      "uri": "spotify:album:0aqhuQLNZq8mt9qnJUjOml",
+      "name": "his inebriety",
+      "album_type": "single",
+      "release_date": "2010-11-23",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:44.000Z"
+}

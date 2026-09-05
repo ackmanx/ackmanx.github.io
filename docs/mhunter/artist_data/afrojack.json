@@ -1,0 +1,5053 @@
+{
+  "name": "afrojack",
+  "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+  "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb56591d5d8219e6e506096c41",
+  "genres": [
+    "edm",
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c942b4b8b6b429b0c483c5d0",
+      "uri": "spotify:album:7Kmepe8BIgqaega0xj2EVO",
+      "name": "monopoly man",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273030c180f9ea19810cff098ce",
+      "uri": "spotify:album:5UlWq5479iD0AFiygiNMrU",
+      "name": "allein",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6pNzdcgIaKQKsYNS5agP4V",
+          "name": "gil glaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf7308069ef7f2e352e76a33",
+      "uri": "spotify:album:64hTWY5vA3Z79w0EuDSBIQ",
+      "name": "the last time",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365e9f47e41b4de0bdc0f47dd",
+      "uri": "spotify:album:5V4cGa82yJyGTrZe4M9YXt",
+      "name": "turn the lights off (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LWUxoJXKsDsPenrHZ0key",
+          "name": "justė"
+        },
+        {
+          "spotify_id": "3G1KNyIiGISpRGVPWbst6P",
+          "name": "jaxstyle"
+        },
+        {
+          "spotify_id": "1WD5Hdopwbbx8OdDR6jRZI",
+          "name": "jon"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2fc120a68d66c9b81eab654",
+      "uri": "spotify:album:2JVYUljpOqknjBvxeSIFB0",
+      "name": "awake tonight",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "sia"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4fb2ca9a2457b49900ddd56",
+      "uri": "spotify:album:06qQT1E5uhlINmwovogW4P",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5wwneIFdawNgQ7GvKK29Z3",
+          "name": "lucas & steve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733de3b7cec4ab57b5227141dd",
+      "uri": "spotify:album:2XkcC4yp3t5xDmh9hdLzup",
+      "name": "rivers (acoustic version)",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6OHd6Z5k9ZmBJ91oqeSpDG",
+          "name": "amél"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396005cce9a89ca58ed905d83",
+      "uri": "spotify:album:20c5srbQdiZf4dnRefjW5j",
+      "name": "louder for the people (eli & dani x stylo remix)",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6wVwTnmkjVeWVAas91xIJw",
+          "name": "eli & dani"
+        },
+        {
+          "spotify_id": "0e8a2RTD02fJ5lmCBOR7DI",
+          "name": "stylo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ad3b00e296b4828cc27ce79",
+      "uri": "spotify:album:1RtBxchPVfar3NI1jY35O8",
+      "name": "rivers",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6OHd6Z5k9ZmBJ91oqeSpDG",
+          "name": "amél"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3a93ac56758b61b388d78a6",
+      "uri": "spotify:album:2dpzLiq8oeOXb4HkjZJnse",
+      "name": "out of the darkness",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d675fbc36e2225c64d3b77e",
+      "uri": "spotify:album:62HVrOiM7xK5hH87G6KRQ8",
+      "name": "louder for the people (with afrojack)",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273959d2871dc354408f5647704",
+      "uri": "spotify:album:4cf08XQ3LKfQcjBq6YSUj4",
+      "name": "hold on (feat. evie)",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6pNzdcgIaKQKsYNS5agP4V",
+          "name": "gil glaze"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2NLyAz11eTmhTyaj39KLGo",
+          "name": "evie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2030929c2a1925c224b145a",
+      "uri": "spotify:album:6VvBtEDQCR6sVK5hNXV1a4",
+      "name": "take over control (feat. eva simons) [the remixes 2025]",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2d6W4cnC5XsVOaxtgaj9hA",
+          "name": "eva simons"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2dc696fc02c5697d4a7000c",
+      "uri": "spotify:album:0RjevZ5UL21eqgEhNYbvjp",
+      "name": "in my world",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "aloe blacc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273719c366466397628237b914e",
+      "uri": "spotify:album:6pBa0aSKNjbMPOrd2joAfi",
+      "name": "kutmug (hardwell & afrojack edit)",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1TRFjpBEneFJJloCqSC4sG",
+          "name": "julian cross"
+        },
+        {
+          "spotify_id": "5IjHqOhczRkVSQlF2HvlUK",
+          "name": "fision"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fc9e6b9a43f9b7d6f703576",
+      "uri": "spotify:album:1R0CAZwCU6rRvMsmaerCjz",
+      "name": "our time",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "martin garrix"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "6OHd6Z5k9ZmBJ91oqeSpDG",
+          "name": "amél"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a17eea8c3252904f2f400d2",
+      "uri": "spotify:album:4ArPch2JPIbPM5Gs8raOM3",
+      "name": "our time (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "martin garrix"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "6OHd6Z5k9ZmBJ91oqeSpDG",
+          "name": "amél"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f4339014e1dd7095617c829",
+      "uri": "spotify:album:2fNbZ421Ylg5lSSmdGtLFr",
+      "name": "never forget you - amél remix",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6OHd6Z5k9ZmBJ91oqeSpDG",
+          "name": "amél"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374cb404157459fd1a1604711",
+      "uri": "spotify:album:23WSlArFU40xOWaRjUYVX6",
+      "name": "beautiful people (afrojack & amél remix)",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "sia"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bceecfe0ae7db37db88b68b",
+      "uri": "spotify:album:7jogH009r3SWIcCj1Wt4Oh",
+      "name": "never forget you",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351283250324ee719e6451c4d",
+      "uri": "spotify:album:2VNVxJujnV5BMlGNR4E3mZ",
+      "name": "don't go",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6pNzdcgIaKQKsYNS5agP4V",
+          "name": "gil glaze"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273140f8d5882f21a9e2f0a0151",
+      "uri": "spotify:album:0fy7A8phrUtjMWKGrWQiZ8",
+      "name": "don't go (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6pNzdcgIaKQKsYNS5agP4V",
+          "name": "gil glaze"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f113447d2b1a1b9db2534882",
+      "uri": "spotify:album:3zik1xooUEArhfZUhv6eLD",
+      "name": "dawsha (afrojack mdlbeast remix)",
+      "album_type": "single",
+      "release_date": "2024-10-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4CflzQprp6nZxKiv0t78tH",
+          "name": "mohamed ramadan"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c97e191da13e43091c283880",
+      "uri": "spotify:album:0kwED9Hwu9K0d9NLBBsAWd",
+      "name": "2 the moon (the remixes)",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "pitbull"
+        },
+        {
+          "spotify_id": "21E3waRsmPlU7jZsS13rcj",
+          "name": "ne-yo"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd5004cdbb35c0903e1fcf0a",
+      "uri": "spotify:album:3ZzkxHr39xEJvbl7UWKcPZ",
+      "name": "2 the moon (the remixes)",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "pitbull"
+        },
+        {
+          "spotify_id": "21E3waRsmPlU7jZsS13rcj",
+          "name": "ne-yo"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329ce1edbff33d80cf78aaddd",
+      "uri": "spotify:album:74NUkeMYJfWrYpzPhBEu8q",
+      "name": "wasa3 wasa3 (afrojack mdlbeast remix)",
+      "album_type": "single",
+      "release_date": "2024-09-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5D2ui1KD49TfyCDb35zf5V",
+          "name": "ahmed saad"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273851b92a3bf580e15aef1573d",
+      "uri": "spotify:album:6IDFsFFsCXzGp77ELU6zbP",
+      "name": "light it up (feat. mc ambush)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "18T0SpXY06tqdiyBTYTIgi",
+          "name": "mc ambush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733dbd6a6ef2c7b61cf7f5b675",
+      "uri": "spotify:album:7ILVMHef9eJsQi27KM56Hf",
+      "name": "raving",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379ce54c77286ca5a3b29c73a",
+      "uri": "spotify:album:7CBc8LI7B4RO1vCMl6wl2S",
+      "name": "fvck",
+      "album_type": "single",
+      "release_date": "2024-07-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "fuerza regida"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335387e1a34244138c0fb27d9",
+      "uri": "spotify:album:4jl6uAmBT25q5BtSxz2rRZ",
+      "name": "2 the moon",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "pitbull"
+        },
+        {
+          "spotify_id": "21E3waRsmPlU7jZsS13rcj",
+          "name": "ne-yo"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e3538a15abd3a680bc9111d",
+      "uri": "spotify:album:6bodARPsfzNApsTUOzKDmh",
+      "name": "save my soul (feat. jordan grace)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0oPgJ6vm1fLGFGahd3yDrP",
+          "name": "afroki"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b8a3f458c117e36fab1611d",
+      "uri": "spotify:album:7fWJ35T7zlPDpaORZVQtXK",
+      "name": "duck around",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4lWmv250WqWOnM0FKmHxiO",
+          "name": "nlw"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d584843f8ad974a4b8343b70",
+      "uri": "spotify:album:0whPoom67NEOiTHIIst4X4",
+      "name": "everything you do (feat. aviella)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0oPgJ6vm1fLGFGahd3yDrP",
+          "name": "afroki"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0ac626181ffeead0ca4b91b",
+      "uri": "spotify:album:2lHojU2mWFc5mVAkz3B9x2",
+      "name": "underwater",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273846343f19ac89b4d97616617",
+      "uri": "spotify:album:57H4lYr6qfawNjNZiBydnn",
+      "name": "underwater (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273567c92f98c7d65c012428c49",
+      "uri": "spotify:album:27LVMe5wMsHddairHoCux2",
+      "name": "we can't stop",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392a85ee6cf6a6f91ed5f0571",
+      "uri": "spotify:album:4LcWzWIwMTNxDz4Baxo7qL",
+      "name": "push it",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4pqY01dGuzojomnVCXYbXC",
+          "name": "meryll"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba3687f329adb03a009e472d",
+      "uri": "spotify:album:14lZHSJYzkLhMGlYVlGfqi",
+      "name": "off the wall (extended mix, tv noise remix)",
+      "album_type": "single",
+      "release_date": "2023-10-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1jUW4317e93dFevzUREf6R",
+          "name": "emad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733deb1ea11a684c69645743cd",
+      "uri": "spotify:album:7an4HV6nZzkX73ePm4UFiX",
+      "name": "off the wall (tv noise remix)",
+      "album_type": "single",
+      "release_date": "2023-10-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6Zs48LypDzoPWJdJhfAenh",
+          "name": "emad"
+        },
+        {
+          "spotify_id": "32Aw9aJJoXXC1Vn3zqzJbQ",
+          "name": "tv noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ef18aa636765b6f54b022ab",
+      "uri": "spotify:album:5QPKhPol4vmOWPk4K4XXHu",
+      "name": "lift me up (hard mix)",
+      "album_type": "single",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1x0ScxgiyFRQDKT4VwcLHa",
+          "name": "lny tnz"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317cdd99b0bae6320c0e5234c",
+      "uri": "spotify:album:1j7gep9a3d4zXgtRRefZvM",
+      "name": "el youm el helw dah (afrojack mdlbeast remix)",
+      "album_type": "single",
+      "release_date": "2023-08-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5D2ui1KD49TfyCDb35zf5V",
+          "name": "ahmed saad"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bf1a94e7ae4869b1b2c97d9",
+      "uri": "spotify:album:4DQOJ5txr1aWj1Fla6xGD7",
+      "name": "lift me up",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1x0ScxgiyFRQDKT4VwcLHa",
+          "name": "lny tnz"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa30eeaded108547a519c8c1",
+      "uri": "spotify:album:24hTmcsPboY8XnViWduUfz",
+      "name": "polkadots (space ducks remix)",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0KWooIVFqa6Gt0BtpdudK6",
+          "name": "space ducks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc597ed59f611b91e6e7d893",
+      "uri": "spotify:album:0tS6kuEWcyV4jEty6H4Rz0",
+      "name": "chain gang",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389792b428e0033dcbd116043",
+      "uri": "spotify:album:2WspulXhqZ7U6XQAInH2UU",
+      "name": "worlds on fire (with r3hab & au/ra) (acoustic)",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1eMmoIprPDWeFdB1FxU6ZV",
+          "name": "au/ra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a73d0b7069b6398182d79f7",
+      "uri": "spotify:album:21BVjMvnzHwz5MMSnXleji",
+      "name": "polkadots (truth x lies remix)",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3bh4M54m4LRs41WQs07Jy0",
+          "name": "truth x lies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303de613498b36bef585d0b29",
+      "uri": "spotify:album:4W6JgfyZpadxcjoPEXCyee",
+      "name": "let me go",
+      "album_type": "single",
+      "release_date": "2023-06-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6t9tbRO9Lv6Oq6xtVwfdrn",
+          "name": "theresa rex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fbe3cafc0244b78bac85344",
+      "uri": "spotify:album:6N2YOdLB0cTLbaIMBfD9rr",
+      "name": "off the wall",
+      "album_type": "single",
+      "release_date": "2023-05-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Zs48LypDzoPWJdJhfAenh",
+          "name": "emad"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a68b504ec2792e3fcd93d6d",
+      "uri": "spotify:album:5DgYnW9yRnHEtY7LabHPys",
+      "name": "all i need",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1TRFjpBEneFJJloCqSC4sG",
+          "name": "julian cross"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362fc3a9f28961b8233140044",
+      "uri": "spotify:album:1MUbnp0xeerxtl8TzEIvan",
+      "name": "alone again (feat. afrojack & mougleta) [vion konger remix]",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "30IONe5gqXy6MXSNHVCCYP",
+          "name": "vion konger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfbc0e4cfe76854be8e801e4",
+      "uri": "spotify:album:6JrhvOt31EYuWwWi2l6fhO",
+      "name": "alone again (feat. afrojack & mougleta) [vion konger remix] [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "30IONe5gqXy6MXSNHVCCYP",
+          "name": "vion konger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb41dad005197ca2a503446a",
+      "uri": "spotify:album:3z7h4c33zeC577R9EWwksj",
+      "name": "alone",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8cfe6bd99029ce167c23503",
+      "uri": "spotify:album:3CeJfeMicdcY8TkbAcIX22",
+      "name": "polkadots (sven fields & chasner remix)",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6fE47lKKAEbIrbim4FQGS2",
+          "name": "sven fields"
+        },
+        {
+          "spotify_id": "60bBAf1WFPnIwyBSfXj9xv",
+          "name": "chasner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329fe68823efd276f7b1728e5",
+      "uri": "spotify:album:24A8Ab1ztSnQihZgfKVoTG",
+      "name": "danger",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1EAFXic0Cfiwpe7nSuTrGL",
+          "name": "cesqeaux"
+        },
+        {
+          "spotify_id": "4lWmv250WqWOnM0FKmHxiO",
+          "name": "nlw"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e326ec88eebbf964a96a19b",
+      "uri": "spotify:album:7opy4llJFLXtwbqcPfpDZZ",
+      "name": "shockwave (with afrojack)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a575334a0c8c15b280fe8564",
+      "uri": "spotify:album:1C6MO6VGuS5geYqT2EPS4y",
+      "name": "worlds on fire (afrojack & r3hab vs vion konger vip remix)",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "30IONe5gqXy6MXSNHVCCYP",
+          "name": "vion konger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5cf64e9e4d54617bf88b5f8",
+      "uri": "spotify:album:73fglkrm4TDlCAcIepuB8p",
+      "name": "alone again (feat. afrojack & mougleta)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4gmndqcVVyxmzgOunTiuAD",
+          "name": "mougleta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5127abaffb46d53af0249d6",
+      "uri": "spotify:album:6m45t0OnZxRCVZX5Y5PEb3",
+      "name": "alone again (feat. afrojack & mougleta) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4gmndqcVVyxmzgOunTiuAD",
+          "name": "mougleta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd13806d169498ea52bf62df",
+      "uri": "spotify:album:3PD6HDEZFHnR81EJQJg7ap",
+      "name": "lose you (nicky romero remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4IWBUUAFIplrNtaOHcJPRM",
+          "name": "james arthur"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366dc5602d6e484b9597a5edd",
+      "uri": "spotify:album:39BNYNxtVj2e9M70mWi77R",
+      "name": "lose you",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4IWBUUAFIplrNtaOHcJPRM",
+          "name": "james arthur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384a0c2485fdf201be2fe9cca",
+      "uri": "spotify:album:4Oe7H10BsC7n7hiAFruhQa",
+      "name": "back to where we started",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737358a0e4cf3008d52ccc2599",
+      "uri": "spotify:album:16nkpBkz928wEufZWM3TwO",
+      "name": "get it",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4lWmv250WqWOnM0FKmHxiO",
+          "name": "nlw"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3g5Lhsq7cSJEK39BzKgIUe",
+          "name": "phlegmatic dogs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273871caa99023765a6cb80c45d",
+      "uri": "spotify:album:5s1TJf6zpI073x4X6mLdLR",
+      "name": "party girl",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4lWmv250WqWOnM0FKmHxiO",
+          "name": "nlw"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734dc425d7755b610c43af0827",
+      "uri": "spotify:album:1kmfNuvrAumVBroiRieQt3",
+      "name": "feels like home (official song f1 dutch grand prix)",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737132ebb3f109243262ca6abe",
+      "uri": "spotify:album:7qjzUP0zERhX2SCx1EnBQk",
+      "name": "day n night",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2l0xOjnrmYsxNoQ0QI3G5a",
+          "name": "black v neck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273934e793621ba3a124bf54dea",
+      "uri": "spotify:album:75RGowCIexodcFrLNjnYCv",
+      "name": "afrojack presents nlw",
+      "album_type": "album",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4lWmv250WqWOnM0FKmHxiO",
+          "name": "nlw"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c377ebb471cecdb7e018e067",
+      "uri": "spotify:album:6rf8izsIwMcZKfXcBMbcL5",
+      "name": "worlds on fire (with r3hab & au/ra)",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1eMmoIprPDWeFdB1FxU6ZV",
+          "name": "au/ra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a440ffe6105b0400aece5fb2",
+      "uri": "spotify:album:7kjDppxhtBA0gzrOBkNOnp",
+      "name": "starts right now",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "60bBAf1WFPnIwyBSfXj9xv",
+          "name": "chasner"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318638e40ac1aa510e5362029",
+      "uri": "spotify:album:0yqUnqdiW8rJx8XkBxvvFO",
+      "name": "trampoline (cedric gervais remix)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4Wjf8diP59VmPG7fi4y724",
+          "name": "cedric gervais"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273636c5853f525d6ab17204080",
+      "uri": "spotify:album:4z7l1cSAwCcaDoaxXwNZ9x",
+      "name": "nothing hurts (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5T0j6On1EthT2QVNXh8vqc",
+          "name": "minelli"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd6cfd85c03efd2c2f649d81",
+      "uri": "spotify:album:1ScumX06gfjdqhbHdjoYLX",
+      "name": "really love you (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7wGFrLo9v8FKS2iWyYx75t",
+          "name": "shiah maisel"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d95cdc60cee02b509a711c07",
+      "uri": "spotify:album:1bFphUB9uHCPapPwdAxCWI",
+      "name": "trampoline (feat. missy elliott, bia and doechii)",
+      "album_type": "single",
+      "release_date": "2022-03-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2wIVse2owClT7go1WT98tk",
+          "name": "missy elliott"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0ef167bc3fae80c47b4c776",
+      "uri": "spotify:album:6Hxjjk21IAZbJQfrT2JNZu",
+      "name": "no beef (remixes pt. 2)",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a97e1af256651e3d2392474",
+      "uri": "spotify:album:1OUwaRWWqgMvF3rURaUvO3",
+      "name": "no beef (feat. miss palmer) [remixes pt. 2]",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ad7394473931164854dde4e",
+      "uri": "spotify:album:3QHpjkGfqi20Qo5VemgnOJ",
+      "name": "no beef (remixes pt. 1)",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1c506b54630719872172826",
+      "uri": "spotify:album:1XM038g0f2eQs3GHshpGPu",
+      "name": "no beef (feat. miss palmer) [remixes pt. 1]",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732028367e5c1f2cd913170fa1",
+      "uri": "spotify:album:6kLYOTLTjIjADp2VfU9qGQ",
+      "name": "anywhere with you",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5wwneIFdawNgQ7GvKK29Z3",
+          "name": "lucas & steve"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd32c0af496b6d1e63a3d191",
+      "uri": "spotify:album:2kq2zdloBTtqgO3uRJ3CAV",
+      "name": "you got the love (chico rose remix)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7BUaQCq7sFUMJqkWPqApXE",
+          "name": "never sleeps"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cd90f30e67c0d519637733f",
+      "uri": "spotify:album:3HkT7P0xmJZmd1JVNPgZan",
+      "name": "you got the love (d.o.d remix)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7BUaQCq7sFUMJqkWPqApXE",
+          "name": "never sleeps"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "d.o.d"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dde5b12912a1afaf8eb6d217",
+      "uri": "spotify:album:6txKpMl9QOkdvd67iZ81Qz",
+      "name": "you got the love (twocolors remix)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7BUaQCq7sFUMJqkWPqApXE",
+          "name": "never sleeps"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "7ACEUD7UsmmXrnj4OLt8f9",
+          "name": "twocolors"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc9e2c938e6ce486dc3763c0",
+      "uri": "spotify:album:3OO4ozOo0h6G2roSR9TAzg",
+      "name": "to the floor",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2l0xOjnrmYsxNoQ0QI3G5a",
+          "name": "black v neck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e7cbd696399404721cf6077",
+      "uri": "spotify:album:4PzRtdlg2Nvbv7JCLG4UXu",
+      "name": "to the floor (extended version)",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2l0xOjnrmYsxNoQ0QI3G5a",
+          "name": "black v neck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff19f8b3d47423f298c5c085",
+      "uri": "spotify:album:6t8b5FAmdQe8nCA1VVwxg8",
+      "name": "my sound",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4nKvbonPefiFmshjpHENVU",
+          "name": "slvr"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dcaa5c94ee065dab2a65b33",
+      "uri": "spotify:album:0fFtYHSm0xrvY6WV4EQs4M",
+      "name": "all night (zero days remix)",
+      "album_type": "single",
+      "release_date": "2021-09-23",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c6649fac876d0f000662211",
+      "uri": "spotify:album:3Ck3AsSgzGs7iRRpYzrU9a",
+      "name": "okay (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "6y1eDna5tYFgcvKyGhLCy7",
+          "name": "marf"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a99d8cdebac62fa35b054931",
+      "uri": "spotify:album:73D0DGcWTI8M2T95dFjLZZ",
+      "name": "hero (feat. luxtides) [acoustic version]",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "22bKgyDEmDgPhvSBYklJBe",
+          "name": "luxtides"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd0a87f4545db26dbed22313",
+      "uri": "spotify:album:0HUGc302yKXxzJir7mmMKd",
+      "name": "please don't suck (afrojack x black v neck remix)",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1wak0ZG1LUrZPYx8RDTQoD",
+          "name": "noa kirel"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2l0xOjnrmYsxNoQ0QI3G5a",
+          "name": "black v neck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397d993b68fb693379819378a",
+      "uri": "spotify:album:2kNfpqN1fT9lRc1cYuAhWt",
+      "name": "you got the love",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7BUaQCq7sFUMJqkWPqApXE",
+          "name": "never sleeps"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273917840b761c207ffd060e49f",
+      "uri": "spotify:album:3ki9e5nnk14lEkTJg6CrBC",
+      "name": "all night long",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273682b03c9f492a7fe22d53022",
+      "uri": "spotify:album:5fPzGRxaenu27xF2H0rs8V",
+      "name": "stay mine (gabry ponte extended remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739832a6d368af26d8e2f4be05",
+      "uri": "spotify:album:78BMU9O8nupOdUxDa3CWTk",
+      "name": "stay mine (gabry ponte remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd3a7564c48926410f975c50",
+      "uri": "spotify:album:35sT9OK0TguT214N9u70rS",
+      "name": "hero (dubvision remix)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1707225038e95afd7063aff",
+      "uri": "spotify:album:53X9AG5IxqrkoAEEYOyavQ",
+      "name": "hero (remixes) [pt. 2]",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333317d29bb5f73dff203be9d",
+      "uri": "spotify:album:3OsPWV9AwmUL3e3zgSAkQi",
+      "name": "superman (feat. shibui) [afrojack & chico rose remix]",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4mrBetqy378Jf1y6NLszlx",
+          "name": "vinai"
+        },
+        {
+          "spotify_id": "3ewQZ4iDkC9CQzceitueXe",
+          "name": "paolo pellegrino"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735214d65f6a3c6985ff3cfc13",
+      "uri": "spotify:album:1ddufbXwUwO3l2uIB3qKe3",
+      "name": "hero (nicky romero remix)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b746a5d5e68f7e23ae5a8b3",
+      "uri": "spotify:album:1dVPdJNU11cwnO7Pfdhvpd",
+      "name": "hero (remixes)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368c13496a915eea4d4325681",
+      "uri": "spotify:album:6KV17NyVQwm5PJOVwAVlyV",
+      "name": "hero",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732653aadca64eb63808541a3c",
+      "uri": "spotify:album:4MxIdid0MY9pNIi7bGMzuc",
+      "name": "less (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Z4AA4VE6yS9vOZdEXabS8",
+          "name": "elise eriksen"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ba36962a0a6e92ff8d6399e",
+      "uri": "spotify:album:15v2LmWavzASn38XSzS0dO",
+      "name": "stay mine",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a86a57740ecb91ce6aef1c8",
+      "uri": "spotify:album:3T7XrtqmizJi1jynTqNo35",
+      "name": "stay mine (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d62c3638b4f75dc0da7460a",
+      "uri": "spotify:album:5tlZeIR0nmx1SCpzSFgLWW",
+      "name": "wish you were here (feat. brandyn burnette) [remixes]",
+      "album_type": "single",
+      "release_date": "2021-03-22",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5rG00A9pRANrMDzVI3DrmF",
+          "name": "dlmt"
+        },
+        {
+          "spotify_id": "14mErTJ0ubFVjx2zBAwjkE",
+          "name": "brandyn burnette"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d95a69b6ed77cb639d819064",
+      "uri": "spotify:album:3UTRfRr2s6XLj3It38Vw8d",
+      "name": "boom boom pow",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326d5ebe15e18d9f4acbadc7b",
+      "uri": "spotify:album:4diHNC5rT08L3YWmTSY5Wm",
+      "name": "return of the mack (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "60bBAf1WFPnIwyBSfXj9xv",
+          "name": "chasner"
+        },
+        {
+          "spotify_id": "17ofLR1AMLtSrxZO8Ew8Eu",
+          "name": "rob adans"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341401618992c1d52691b2d4e",
+      "uri": "spotify:album:7lKN76lLDz1lTvu26Mtz7s",
+      "name": "start over again (feat. vula)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "05KjvP5zdwtEIgEazqblZw",
+          "name": "marc benjamin"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6YqhcZlSE8ugUcmoHLw9gz",
+          "name": "vula"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c0a95076fd95daeee1cbff9",
+      "uri": "spotify:album:5HA86zT4f0XvQqyPCuIWgI",
+      "name": "back to life (scorz remix)",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7a095440dbed6b31ae44278",
+      "uri": "spotify:album:0AEFcJNs06MlE0vTLSQ1kc",
+      "name": "what are we waiting for?",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd24e904112ff13671a78fcf",
+      "uri": "spotify:album:4VaU66GBM1rn0YXsZIkHbJ",
+      "name": "up all night (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4mrBetqy378Jf1y6NLszlx",
+          "name": "vinai"
+        },
+        {
+          "spotify_id": "3tLvKk2N4IGhT3aZceW2Hy",
+          "name": "hard lights"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349ae32b9949b77d79ae57980",
+      "uri": "spotify:album:4BCQgEcv5GFFILDnj8lmpx",
+      "name": "wish you were here (feat. brandyn burnette)",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5rG00A9pRANrMDzVI3DrmF",
+          "name": "dlmt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e0698e14938cdc6d953d235",
+      "uri": "spotify:album:326xmr53xvzUp2smKgIO3i",
+      "name": "hey baby (feat. gia koka)",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5rGrDvrLOV2VV8SCFVGWlj",
+          "name": "imanbek"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eb9df3e159220cc5e1f05be",
+      "uri": "spotify:album:2U2EmdkHF4PzC9inxFKZQa",
+      "name": "speechless (feat. azteck)",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375aa6cd3b7736dfe38be9181",
+      "uri": "spotify:album:5CeNEHWuB0lz1T1LulIZoS",
+      "name": "hot",
+      "album_type": "single",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1PP0a3KRZiaqtahgtJ3bdv",
+          "name": "saymyname"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273995554c7260bde1ddd9e12c0",
+      "uri": "spotify:album:6wa6DUZ6qJClkjP8LensZW",
+      "name": "cloud 9 (feat. jeremih)",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "3KV3p5EY4AvKxOlhGHORLg",
+          "name": "jeremih"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735530b7078638098e199f5788",
+      "uri": "spotify:album:0MG4Pcsrc2jPqaDOoCv8Uj",
+      "name": "all night (feat. ally brooke) (the remixes)",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304914f24752972c11f34291b",
+      "uri": "spotify:album:6BlWR7J5gm8MzIUnvEpqh8",
+      "name": "1234 (feat. mc ambush)",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7dc6hUwyuIhrZdh80eaCEE",
+          "name": "fedde le grand"
+        },
+        {
+          "spotify_id": "18T0SpXY06tqdiyBTYTIgi",
+          "name": "mc ambush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346eb55f1c1f8494a5890d267",
+      "uri": "spotify:album:6GDYYYMQZt3JzHHkLweU62",
+      "name": "1234 (feat. mc ambush) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7dc6hUwyuIhrZdh80eaCEE",
+          "name": "fedde le grand"
+        },
+        {
+          "spotify_id": "18T0SpXY06tqdiyBTYTIgi",
+          "name": "mc ambush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398b34e2c0c48e4fcd3c6a06b",
+      "uri": "spotify:album:5ZuJvpCin3KXYaFwJWfbIO",
+      "name": "all night (feat. ally brooke)",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ec0466b449555a2c9b75963",
+      "uri": "spotify:album:5BiAfPEOWI9ZqwxXY3TQPt",
+      "name": "all night (feat. ally brooke) (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a52a1c1a2fc2802d6cad78ce",
+      "uri": "spotify:album:2sRZcLvDEVE3huVDXSyMUA",
+      "name": "all night (feat. ally brooke) (the extended remixes)",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6TXM1kV4L8DsDAkAfbOPYk",
+          "name": "ally brooke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273957674033fb1a9373d9526f0",
+      "uri": "spotify:album:1l8xWdGodtuJ5yKjuzAmco",
+      "name": "sad (feat. afrojack) [buzz low remix]",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0tytC9SBvhGJFUA0MPHucY",
+          "name": "buzz low"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b479c9aeabb6ae2e54ee5fdc",
+      "uri": "spotify:album:1TkfNquViJTOYlSEze0sLZ",
+      "name": "sad (feat. afrojack) [slay remix]",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "40XE71rUobaWT3q5L67GKc",
+          "name": "slay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d113401d38107553104ee0df",
+      "uri": "spotify:album:482fjPO0wpcNfRtrtho1h1",
+      "name": "switch (des3ett remix)",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "75y1eTkF9JFAO2MIR2EXtg",
+          "name": "emmalyn"
+        },
+        {
+          "spotify_id": "2tBbq6Y0ejbtc8tNWtaMyN",
+          "name": "des3ett"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a1a394ffd2794057bf7b633",
+      "uri": "spotify:album:4LfbtiIWjHaE1R5Xqp6VaD",
+      "name": "switch (lans remix)",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "75y1eTkF9JFAO2MIR2EXtg",
+          "name": "emmalyn"
+        },
+        {
+          "spotify_id": "5dmIqWOIfwIc7dT61acT97",
+          "name": "lans"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393595ec063967753a4767d3a",
+      "uri": "spotify:album:6QMOrS996LqskxLCFGXHGQ",
+      "name": "sad (feat. afrojack) [slvr remix]",
+      "album_type": "single",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4nKvbonPefiFmshjpHENVU",
+          "name": "slvr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273455004aacf57ebc25d784618",
+      "uri": "spotify:album:691HJFTVSCjz0MtIITDzzY",
+      "name": "sad (feat. afrojack) [vize remix]",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "09agIJMxCD2k87ys9Al0f0",
+          "name": "vize"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738002f30b66c51d5ab05aa3e1",
+      "uri": "spotify:album:7N0MWbBZIK9sjUzSVtsOmC",
+      "name": "sad (feat. afrojack) [joel corry remix]",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6DgP9otnZw5z6daOntINxp",
+          "name": "joel corry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735940c58d0a51b4bbfae31015",
+      "uri": "spotify:album:7b1pRbszIBthkkAPOweLJr",
+      "name": "we got that cool (feat. afrojack & icona pop) [chico rose remix]",
+      "album_type": "single",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1VBflYyxBhnDc9uVib98rw",
+          "name": "icona pop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef612c4dabf7d7153b515eb8",
+      "uri": "spotify:album:0hJvepm4Yu51QkErgBO0yF",
+      "name": "we got that cool (feat. afrojack & icona pop) [robert falcon & jordan jay remix]",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1VBflYyxBhnDc9uVib98rw",
+          "name": "icona pop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaa7b0dfaac84afba9461ba1",
+      "uri": "spotify:album:0b3cEOu6L3jjU8wN8oeFQN",
+      "name": "me vs. us (remixes)",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1LzWWI9v4UKdbBgz8fqi15",
+          "name": "tayla parx"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+          "name": "alan walker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ffc9b6d8f854d5feab907c1",
+      "uri": "spotify:album:6bnmrAVCeWrkrYlWtL5KOk",
+      "name": "we got that cool (feat. afrojack & icona pop) [anton powers remix]",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1VBflYyxBhnDc9uVib98rw",
+          "name": "icona pop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273383e3a4822a5fda0267d19c4",
+      "uri": "spotify:album:3iyLP2ce8hthgd4ygzLRJD",
+      "name": "sad (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8d3292963e4cf1fd499e6f1",
+      "uri": "spotify:album:2x4TPPLAYqxpwkUzUn5MYU",
+      "name": "back to life",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e8f137d6a19cc91380b339",
+      "uri": "spotify:album:0zKMnpJxQTW2PoquQU7Cu3",
+      "name": "scarlet (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2019-08-07",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1g51NlHKUXlgfvGP22m0uD",
+          "name": "j soul brothers iii"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317cdf12e65b6fde3b24421f4",
+      "uri": "spotify:album:1FyxWfr30UAghTPG4zoCh2",
+      "name": "bass is kicking",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fd65e99aa938f7612ca3209",
+      "uri": "spotify:album:7hQMeaxyLGkqAP9OHhls0R",
+      "name": "can't lose",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uodYnEBYYgZsExzoMeiGl",
+          "name": "disto"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "20U0ZkzluaLiHuPaG6eGRd",
+          "name": "titus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a56ac111ac33fbf599637680",
+      "uri": "spotify:album:1iUhwA9cXcH7PgLGjBvoas",
+      "name": "switch (remixes)",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a06f7b0480b0fbf71dd904f9",
+      "uri": "spotify:album:6XCha1GZefvJQINr1x35zc",
+      "name": "it goes like",
+      "album_type": "single",
+      "release_date": "2019-06-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f61cad61b8802038f068435f",
+      "uri": "spotify:album:0QbvXOVsZFQkJcSg6ydzmC",
+      "name": "switch",
+      "album_type": "single",
+      "release_date": "2019-04-26",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "75y1eTkF9JFAO2MIR2EXtg",
+          "name": "emmalyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a705c8e43a4cbd7980f0570",
+      "uri": "spotify:album:71nFlhyuJSgwZ542gzrljp",
+      "name": "bring it back (afrojack x sunnery james & ryan marciano edit)",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7kABWMhjA5GIl9PBEasBPt",
+          "name": "sunnery james & ryan marciano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273014237dcc34894d29e45add0",
+      "uri": "spotify:album:19j1o471cumkqkxqbUN3cu",
+      "name": "the bass",
+      "album_type": "single",
+      "release_date": "2019-04-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d59e8ebd387e4b369ea4f04c",
+      "uri": "spotify:album:3Fs9IkmuomVDMQ7ZejmEwM",
+      "name": "let it rip",
+      "album_type": "single",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3IHsD0sttucHrX8b32Vcab",
+          "name": "brohug"
+        },
+        {
+          "spotify_id": "20U0ZkzluaLiHuPaG6eGRd",
+          "name": "titus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386bc25803c58a055ca389516",
+      "uri": "spotify:album:3Z2uF0S092tKMZCph4ulva",
+      "name": "let it rip (global remix battle i)",
+      "album_type": "single",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3IHsD0sttucHrX8b32Vcab",
+          "name": "brohug"
+        },
+        {
+          "spotify_id": "20U0ZkzluaLiHuPaG6eGRd",
+          "name": "titus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b7f959110068c45180b5ba1",
+      "uri": "spotify:album:5BIcO32kx481jkjFRfBvN4",
+      "name": "sober",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d83f25558b275328c12e9d3",
+      "uri": "spotify:album:0u6X0ibUfdKF0yx3W7azz1",
+      "name": "ferrari (feat. afrojack)",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273140addbf73ef4de5da4a4948",
+      "uri": "spotify:album:5C9LFVpb8eDWqJseIKLfaR",
+      "name": "say my name (feat. bebe rexha & j balvin) [afrojack & chasner remix]",
+      "album_type": "single",
+      "release_date": "2019-02-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "60bBAf1WFPnIwyBSfXj9xv",
+          "name": "chasner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332e5b861d89965eeae5a87b9",
+      "uri": "spotify:album:40XcVqAp6GybBEh1Y0shjX",
+      "name": "keep it low (laidback luke remix)",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e6062b20ed0210ebcac5147",
+      "uri": "spotify:album:3CcCQry3A5il1AAFl5dgom",
+      "name": "when you're gone",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0v2Y5jwtcv8LiWNTRls1KM",
+          "name": "ester dean"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301cf4e4b5a14ac79c8137374",
+      "uri": "spotify:album:7k6uXynV5VgBsozFIEOzT7",
+      "name": "rise (ft. matluck) [afrojack remix]",
+      "album_type": "single",
+      "release_date": "2018-10-10",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394f5eca7743ad5fdadd6693c",
+      "uri": "spotify:album:0uFjuvvPvAogvwXnxp4HyS",
+      "name": "press play",
+      "album_type": "album",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb1ee8757b73a3079cc1cb54",
+      "uri": "spotify:album:2cbDgxF7H6QPaoZviancet",
+      "name": "bringin it back",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4442288abe49d87f55642a4",
+      "uri": "spotify:album:3BCgR8PBuMCHq9gttKVnJR",
+      "name": "bassride",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f409bba19b73143a8d282ac9",
+      "uri": "spotify:album:5XLHwjnywph8Z0eIWNnjtm",
+      "name": "step back",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "18T0SpXY06tqdiyBTYTIgi",
+          "name": "mc ambush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ddfe04081b2664cd8668704",
+      "uri": "spotify:album:5ezPvRKLXLTh4eUrxZL0m9",
+      "name": "where did the love go",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6yqadcG6z5djW3lDuP7Abh",
+          "name": "lyrica anderson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1b11e7da85e18ee4996d19b",
+      "uri": "spotify:album:6p0TaGPXapkZFHB0CokUMS",
+      "name": "one more day (nicky romero remix)",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738af93d31c4b98c5a25d4a38e",
+      "uri": "spotify:album:6ifJabSFs9iUQEDBdCmCz3",
+      "name": "one more day",
+      "album_type": "single",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310fa029c97da0a9fafdc461a",
+      "uri": "spotify:album:0bZqFFD15WWTDn5DpNCgfx",
+      "name": "bed of roses (disto remix)",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3zrUX1hQrUB9aXcOiyQLmN",
+          "name": "stanaj"
+        },
+        {
+          "spotify_id": "1uodYnEBYYgZsExzoMeiGl",
+          "name": "disto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730edc16d8bd0197845a722ffe",
+      "uri": "spotify:album:20eODrdg8Ikn6qTSsv4drz",
+      "name": "2012",
+      "album_type": "single",
+      "release_date": "2018-03-19",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cba64633a1f4d9fc509dd03",
+      "uri": "spotify:album:388fqM3ECLgNftOoOHxKlW",
+      "name": "bed of roses",
+      "album_type": "single",
+      "release_date": "2018-02-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3zrUX1hQrUB9aXcOiyQLmN",
+          "name": "stanaj"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273201def0bbf2617b8a8520ad5",
+      "uri": "spotify:album:1KlGO4LipomaTp5Xn5nPxc",
+      "name": "new memories (instrumental mix)",
+      "album_type": "single",
+      "release_date": "2018-02-13",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b286aa56fb38987add51f0a0",
+      "uri": "spotify:album:4TMfCrCKwhekZtP8IYOqMA",
+      "name": "lost (ampm remix)",
+      "album_type": "single",
+      "release_date": "2018-02-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7HqEmV7FeCi16bQyHMpIrF",
+          "name": "vassy"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7vagk7eVMUVivPLTnZelj9",
+          "name": "oliver rosa"
+        },
+        {
+          "spotify_id": "5Xcbv83o11Ez2XPHa1n8Pf",
+          "name": "ampm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ea06a1c957c5ef3473a16f8",
+      "uri": "spotify:album:0daLYYl9X1oTURdFNjRf1I",
+      "name": "helium (sia vs. david guetta & afrojack)",
+      "album_type": "single",
+      "release_date": "2018-01-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "sia"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378ea76610ce1ba06adbf7f68",
+      "uri": "spotify:album:5Czw9EK8P1QmG4HqcUPlVs",
+      "name": "dirty sexy money (feat. charli xcx & french montana) [blvk jvck revibe]",
+      "album_type": "single",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "32IXja3Y6CPvnAtTHD2bWg",
+          "name": "blvk jvck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b7ac95173d105f02f571c1d",
+      "uri": "spotify:album:2AeYwe9CWo7UL5Z610lT81",
+      "name": "dirty sexy money (feat. charli xcx & french montana) [glowinthedark remix]",
+      "album_type": "single",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "glowinthedark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273091a0171e0684f0c539ebb6f",
+      "uri": "spotify:album:4bbVwWqxS94m77tYViMTSs",
+      "name": "dirty sexy money (feat. charli xcx & french montana) [remixes]",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373a77378bffe939c8103d8ab",
+      "uri": "spotify:album:6Mrh73wmY9in7aBvS9OjnJ",
+      "name": "new memories",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273657bb3660936e0d47e785dcd",
+      "uri": "spotify:album:613u1KxcevDq5Kd8j0zD2U",
+      "name": "dirty sexy money (feat. charli xcx & french montana)",
+      "album_type": "single",
+      "release_date": "2017-11-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "25uiPmTg16RbhZWAqwLBy5",
+          "name": "charli xcx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec01c1dc46d7ae20c7c8a0e8",
+      "uri": "spotify:album:3iqBrwt1nPu9nKTk0yCJkQ",
+      "name": "lost",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7HqEmV7FeCi16bQyHMpIrF",
+          "name": "vassy"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "7vagk7eVMUVivPLTnZelj9",
+          "name": "oliver rosa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7e821536654cce66098768c",
+      "uri": "spotify:album:3lBDv0VV2IOC8Urw1RGnC9",
+      "name": "hands up",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ec817f19e5e74c5531855cc",
+      "uri": "spotify:album:0J2yDNgnZJFNHAkmnaKaPC",
+      "name": "keep it low",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5XJWi5Ev0zwaRiXnN8Oo5O",
+          "name": "mightyfools"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a407e12f043fa65086abdc57",
+      "uri": "spotify:album:6v9QiIpB13DtkG0PzxxcqP",
+      "name": "no tomorrow",
+      "album_type": "single",
+      "release_date": "2017-09-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734757b4cf008bffeda477ce7b",
+      "uri": "spotify:album:4xDqL0b2j2dkW49pap3RGh",
+      "name": "another life (the remixes)",
+      "album_type": "single",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b5e235d15f3b184abb59e83",
+      "uri": "spotify:album:2D6bdfoypRm3wufroOjHkH",
+      "name": "trio (afrojack edit)",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "d.o.d"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6b32dfb6f9e8ef9cff520ff",
+      "uri": "spotify:album:1HVUk9Gwtda5lIK3PsynPT",
+      "name": "all or nothing (afrojack & ravitez remix)",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "lost frequencies"
+        },
+        {
+          "spotify_id": "2sRQFLs62KkM8UTW3DjDFM",
+          "name": "axel ehnström"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd5cb5c3b87d1be0eb7331fa",
+      "uri": "spotify:album:0U4q7p1va4s5LC3zRO4Mw1",
+      "name": "another life",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273691e4deb94ee050f70d103a2",
+      "uri": "spotify:album:4WtbQ3ocl1KGK3iT4rHxtz",
+      "name": "wave your flag",
+      "album_type": "single",
+      "release_date": "2017-02-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c0916cb9ad4c30b1a428a8f",
+      "uri": "spotify:album:0u59sdYtAv0eHNQOY11LWK",
+      "name": "used to have it all (the remixes)",
+      "album_type": "single",
+      "release_date": "2017-02-24",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5w6mMj1qwSILG0pcylfchp",
+          "name": "fäis"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff259ec90c66bfd478d6ade6",
+      "uri": "spotify:album:5GLMkxu9VR9Du7jYu8QBPT",
+      "name": "diamonds",
+      "album_type": "single",
+      "release_date": "2017-01-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5SIWtJB0dlWtIF2hmChoTG",
+          "name": "jay karama"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b77f3e38843cf1bfd611a0d2",
+      "uri": "spotify:album:62tzkQeijTanN4Uuz4UgfJ",
+      "name": "used to have it all (acoustic version)",
+      "album_type": "single",
+      "release_date": "2016-12-02",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5w6mMj1qwSILG0pcylfchp",
+          "name": "fäis"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ed5819f235dd973537d5f6b",
+      "uri": "spotify:album:6lDn9oQGKPBDsXs2E92BdQ",
+      "name": "the great escape",
+      "album_type": "single",
+      "release_date": "2016-11-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0f65c672942ea1e099bcc1b",
+      "uri": "spotify:album:4FbyA2HWpHTuwZljqTL0G6",
+      "name": "gone (feat. ty dolla $ign) [extended mix]",
+      "album_type": "single",
+      "release_date": "2016-11-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739054c67a8efaca23a24a25c9",
+      "uri": "spotify:album:70Wiv0pLG9M5jxtZqO98jQ",
+      "name": "rock the house (sag & chasner remix)",
+      "album_type": "single",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3laRUVXNA2glQ95MJJ5qHi",
+          "name": "sag"
+        },
+        {
+          "spotify_id": "60bBAf1WFPnIwyBSfXj9xv",
+          "name": "chasner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738489c433303856404519272a",
+      "uri": "spotify:album:1lOhfhp8287CK09B11czxe",
+      "name": "used to have it all",
+      "album_type": "single",
+      "release_date": "2016-10-14",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5w6mMj1qwSILG0pcylfchp",
+          "name": "fäis"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b3e3aa64e81d03ff806dfda",
+      "uri": "spotify:album:29aCMpn3H7lPrcSCjaqVCM",
+      "name": "gone (feat. ty dolla $ign)",
+      "album_type": "single",
+      "release_date": "2016-08-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273616c4dd964084b14c30a5e71",
+      "uri": "spotify:album:33tRpo0fFBoEl6qnEtQDo4",
+      "name": "drop that",
+      "album_type": "single",
+      "release_date": "2016-07-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d558fae2c4fd73c375410d8",
+      "uri": "spotify:album:3wKmzEZOLjTeoxOVzR0K2n",
+      "name": "system (extended mix)",
+      "album_type": "single",
+      "release_date": "2016-06-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OdVywqKqyCWwfE2fZb7IX",
+          "name": "chico rose"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738646c4eb36075238837b81b0",
+      "uri": "spotify:album:6lQDbW6O7phC0hsqUuLbw6",
+      "name": "move to the sound",
+      "album_type": "single",
+      "release_date": "2016-05-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab2984dc76e05c6be8488cc8",
+      "uri": "spotify:album:4XcBhx3SwppGwbQDZlFB6p",
+      "name": "taking you back (afrojack edit) [radio edit]",
+      "album_type": "single",
+      "release_date": "2016-03-21",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "d.o.d"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308246f5899b4ba584f64d1ed",
+      "uri": "spotify:album:664uIN7thYUFcfNjKDvCEh",
+      "name": "sax (afrojack edit)",
+      "album_type": "single",
+      "release_date": "2016-02-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5YILFKSHhsy945mHTYFlQB",
+          "name": "karim mika"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366655ca8e76de1b93b06811c",
+      "uri": "spotify:album:3TYr5Xtn7A3GsptRiYjcax",
+      "name": "hollywood",
+      "album_type": "single",
+      "release_date": "2016-02-08",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738500a9457291e244a3c544ce",
+      "uri": "spotify:album:0NkuEl7jYk66m3G628Rdoe",
+      "name": "unstoppable (extended mix)",
+      "album_type": "single",
+      "release_date": "2015-12-07",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273567557bb1f767ab6aa1d9f3d",
+      "uri": "spotify:album:5j96S8Ew76ZdSXSGcy26ry",
+      "name": "the next generation ep",
+      "album_type": "single",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f0daa760b19c4d0da5b518c",
+      "uri": "spotify:album:7Doo4DbuzoJJLruB15WdON",
+      "name": "unstoppable",
+      "album_type": "single",
+      "release_date": "2015-11-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef3df6381cf5977c5c5cce62",
+      "uri": "spotify:album:6BZO3IA7He7dOQiKWNq3mi",
+      "name": "summerthing!",
+      "album_type": "single",
+      "release_date": "2015-08-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0e0dcb141d81529fa2a3e92",
+      "uri": "spotify:album:4idGGIBH8y7X0MDELRZqnO",
+      "name": "summerthing! (shapov vs. m.e.g. & n.e.r.a.k. remix)",
+      "album_type": "single",
+      "release_date": "2015-08-10",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273179f08b16d968517d1ead2aa",
+      "uri": "spotify:album:0MRRBtUQH6706AqLBYHkZI",
+      "name": "summerthing!",
+      "album_type": "single",
+      "release_date": "2015-06-21",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e48afb778361792c39e0ca24",
+      "uri": "spotify:album:3sMR5aEMRrKwonHEA2VYF5",
+      "name": "afroki (feat. bonnie mckee) [remixes]",
+      "album_type": "single",
+      "release_date": "2015-06-02",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c45d4aa9a7ba100021d1dd8",
+      "uri": "spotify:album:6poxiqNH6oqPKRuLkgNMLh",
+      "name": "what we live for",
+      "album_type": "single",
+      "release_date": "2015-04-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8bac53cde47786e515314c6",
+      "uri": "spotify:album:1UZYYRkjn11x2mKROMeAYG",
+      "name": "turn up the speakers",
+      "album_type": "single",
+      "release_date": "2014-09-08",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "martin garrix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355af97d46e267d5ed544e6fb",
+      "uri": "spotify:album:6hVv7eZZUFjk3Fu4Pb0Doo",
+      "name": "ten feet tall (remixes)",
+      "album_type": "single",
+      "release_date": "2014-05-12",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3478a52aeafd2e1b15e75da",
+      "uri": "spotify:album:5cY546VGL1Z5Ef1l99gvKG",
+      "name": "forget the world - ep",
+      "album_type": "single",
+      "release_date": "2014-05-09",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e59a3d6665ffdcc2c51e2ff",
+      "uri": "spotify:album:2lqmfENhUyY0OMYvrqkxpB",
+      "name": "forget the world",
+      "album_type": "album",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3d1511a14dbfb2ba74bdf18",
+      "uri": "spotify:album:7G1441qDQeERZDyMipQPE8",
+      "name": "forget the world (deluxe)",
+      "album_type": "album",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273285504630c08d4e168256f26",
+      "uri": "spotify:album:3eOG9wE7sokhBTpVNbc5Ga",
+      "name": "ten feet tall (david guetta remix)",
+      "album_type": "single",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310760c8aeae97b4ff40a9e4c",
+      "uri": "spotify:album:3DdFsywF569SBH1vhAJ4qZ",
+      "name": "esther 2k13",
+      "album_type": "single",
+      "release_date": "2013-10-25",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cf2843c7bad29db525bae99",
+      "uri": "spotify:album:462qP0ZxIaZYpXVu3zW9ye",
+      "name": "esther 2k13",
+      "album_type": "single",
+      "release_date": "2013-06-24",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321819f0872f161d180d1e7fc",
+      "uri": "spotify:album:17209MvK5TQChz7f4sOgzb",
+      "name": "a msterdamn remix",
+      "album_type": "single",
+      "release_date": "2013-04-08",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273740ef1dca48b72b91adaa9eb",
+      "uri": "spotify:album:2TnXOFVenl6l3uiaOSax4a",
+      "name": "air guitar (ultra music festival anthem)",
+      "album_type": "single",
+      "release_date": "2013-03-12",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cad6668b89f3294293fd5788",
+      "uri": "spotify:album:4jWXckcVrxXc8wyuGWlwtQ",
+      "name": "as your friend",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3737e063cc94c272f00904c",
+      "uri": "spotify:album:0yt4yluw2dmcbFHWwMKaza",
+      "name": "as your friend (the remixes)",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273950d8985df4e9949b56a7473",
+      "uri": "spotify:album:2QWucBsN3aJ2TdYe5JHcEM",
+      "name": "it's a matter of...",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273026711d4de0faa4c48fbf31b",
+      "uri": "spotify:album:01FOmguEfKmoMoKKTKC25S",
+      "name": "the spark (remixes)",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d7177cdfa6dfab92bc00500",
+      "uri": "spotify:album:2Aem3gMuSzHzHYFTlxqPnG",
+      "name": "sovereign light café (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2012-12-24",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53A0W3U0s8diEn9RhXQhVz",
+          "name": "keane"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ff8ac8e6e97a31f29ba5b93",
+      "uri": "spotify:album:3tQTaacJE0OruLBZ22dgyv",
+      "name": "annie's theme",
+      "album_type": "single",
+      "release_date": "2012-11-05",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733859143a05f1993769d64a55",
+      "uri": "spotify:album:3WP1d8q408WMwnGDLia982",
+      "name": "esther 2k12",
+      "album_type": "single",
+      "release_date": "2012-09-11",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731edb85972118d4fa2d6907f6",
+      "uri": "spotify:album:6m2GiCRMCo84MomFKlJX3y",
+      "name": "esther 2k12",
+      "album_type": "single",
+      "release_date": "2012-07-25",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e97d466df9acfc7048c15b",
+      "uri": "spotify:album:1fVLCIpkU2qt4ZTRrsPH6V",
+      "name": "rock the house",
+      "album_type": "single",
+      "release_date": "2012-07-16",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735160af5d850283e23d8d82f6",
+      "uri": "spotify:album:4yULgmfhSJFh1nYdyZsguT",
+      "name": "can't stop me",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4Siyzg8kWayQfPQsPSl6JI",
+          "name": "shermanology"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328c16b9d216b4d05dd2051c9",
+      "uri": "spotify:album:6r0nOygXKL7ylmEDsJCYKh",
+      "name": "can't stop me (kryder & tom staar remix)",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4Siyzg8kWayQfPQsPSl6JI",
+          "name": "shermanology"
+        },
+        {
+          "spotify_id": "1xfLBmx0n8DQri9HxJsq9O",
+          "name": "kryder"
+        },
+        {
+          "spotify_id": "0iSYvHKAdhWVdZkS1PYK3u",
+          "name": "tom staar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be73c117487933d8dcf5af35",
+      "uri": "spotify:album:3HmKkPs94EXTeBBYCLa12R",
+      "name": "can't stop me (the remixes)",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4Siyzg8kWayQfPQsPSl6JI",
+          "name": "shermanology"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecd266ea82b5bc93600f657f",
+      "uri": "spotify:album:7y9TAn5j1erBSWdYDBQBJq",
+      "name": "lost & found 2",
+      "album_type": "single",
+      "release_date": "2011-12-26",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bb932d6b2db53c2a97287d6",
+      "uri": "spotify:album:1UxKJCB901TaXsVTfDiUwi",
+      "name": "lionheart",
+      "album_type": "single",
+      "release_date": "2011-11-21",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c997ec2d6fd3cebb11ed46e8",
+      "uri": "spotify:album:0jgTzyBUoyJXq8j4t3MlKi",
+      "name": "gf masters vol 4",
+      "album_type": "single",
+      "release_date": "2011-10-25",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a073deef466d6cb9684175c",
+      "uri": "spotify:album:6j9YbcGF6kjZWyQXi5ROfJ",
+      "name": "the way we see the world",
+      "album_type": "single",
+      "release_date": "2011-08-01",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e37667da6a8308d8ae75148",
+      "uri": "spotify:album:5ZaB8Dmkw4QBY7jJRdOAHK",
+      "name": "bangduck (moguai remix)",
+      "album_type": "single",
+      "release_date": "2011-07-18",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273babfeb899fe69f51b9bf3eec",
+      "uri": "spotify:album:3kvel0yLsKpQ6sYq6vPICo",
+      "name": "esther vs. chords",
+      "album_type": "single",
+      "release_date": "2011-07-11",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273018c7dd2bd9721d8e08aed70",
+      "uri": "spotify:album:61vt24LTjzfH35Am84y1Bd",
+      "name": "grindin",
+      "album_type": "single",
+      "release_date": "2011-07-11",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "4Siyzg8kWayQfPQsPSl6JI",
+          "name": "shermanology"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b58bc27c77176e667e5ef5a3",
+      "uri": "spotify:album:3tR7idOrRQdvrvh6K141aM",
+      "name": "prutataaa",
+      "album_type": "single",
+      "release_date": "2011-06-06",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a88e662bbf3bd5f08a44d37",
+      "uri": "spotify:album:5o1zOQlq9IpbYnZlHH0xuS",
+      "name": "selecta",
+      "album_type": "single",
+      "release_date": "2011-05-16",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce5ae991d8152f02b8fa34f",
+      "uri": "spotify:album:4DFJWx8DZ5q4UO3PrAAm2H",
+      "name": "chords",
+      "album_type": "single",
+      "release_date": "2011-03-29",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380ad11f3cdda064c9e14a869",
+      "uri": "spotify:album:3LFz6PQpUqOFio7adcCw8Z",
+      "name": "doing it right",
+      "album_type": "single",
+      "release_date": "2011-03-29",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273398bc4595304bb6c7850dfb7",
+      "uri": "spotify:album:5aoQ8XJlo0dxVXcRa8XBdw",
+      "name": "no beef",
+      "album_type": "single",
+      "release_date": "2011-02-01",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed2d89036be98de35bfb46ea",
+      "uri": "spotify:album:1vvgoLulyElku1w9MHyo5g",
+      "name": "bridge",
+      "album_type": "single",
+      "release_date": "2011-01-18",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0FhsW40UydsdpNcKlkJEKC",
+          "name": "bobby burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737551ea5b228443c6bb4dd29d",
+      "uri": "spotify:album:2NHQGJRdT7Hzh62qShvyx5",
+      "name": "esther (remixed)",
+      "album_type": "single",
+      "release_date": "2011-01-18",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cd5aec7a97622102b7eee16",
+      "uri": "spotify:album:0AbpoTRP2tv3fLZtCvWz7h",
+      "name": "tequila sunrise",
+      "album_type": "single",
+      "release_date": "2011-01-17",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2iwhenp5euZtZLmtK6cgbe",
+          "name": "tocadisco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377fd96ba12b53b5bf2f7411c",
+      "uri": "spotify:album:3yItqF5ObIWqO3fhvmknP4",
+      "name": "lost & found",
+      "album_type": "album",
+      "release_date": "2010-12-21",
+      "release_year": "2010",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fb38de4d9299e476e7c5fa6",
+      "uri": "spotify:album:6epiLlN53S2kht4DNHAN5K",
+      "name": "esther",
+      "album_type": "single",
+      "release_date": "2010-12-07",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733578408a8824785ebac7bfee",
+      "uri": "spotify:album:1sJpSNUKh6LX2Ja4btbjzv",
+      "name": "replica",
+      "album_type": "single",
+      "release_date": "2010-12-07",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e43eb43c451ac4849e430683",
+      "uri": "spotify:album:0XdxAzc5GhZ4lzay4l8gbW",
+      "name": "ghettoblaster",
+      "album_type": "single",
+      "release_date": "2010-10-25",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0FhsW40UydsdpNcKlkJEKC",
+          "name": "bobby burns"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f1755c2dcb628b3c2dac96b",
+      "uri": "spotify:album:2qFdtV75Ja0K8epbDWc9vQ",
+      "name": "take over control (feat. eva simons) [us radio edit]",
+      "album_type": "single",
+      "release_date": "2010-09-12",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2d6W4cnC5XsVOaxtgaj9hA",
+          "name": "eva simons"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aabadeca63fa1050f0edc057",
+      "uri": "spotify:album:7trd8VnM5AvTMS8k3ShSXK",
+      "name": "take over control (feat. eva simons)",
+      "album_type": "single",
+      "release_date": "2010-08-12",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2d6W4cnC5XsVOaxtgaj9hA",
+          "name": "eva simons"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361cdcdb6493a5d286694d6e2",
+      "uri": "spotify:album:5tYArhNNgKzSvSvRcSG3QX",
+      "name": "take over control (feat. eva simons) [the remixes]",
+      "album_type": "single",
+      "release_date": "2010-08-12",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "2d6W4cnC5XsVOaxtgaj9hA",
+          "name": "eva simons"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739aedaf6616e7192af7345066",
+      "uri": "spotify:album:49L6Lgf0yaNG3RQXeB4fub",
+      "name": "i'll be there (feat. jimbolee)",
+      "album_type": "single",
+      "release_date": "2010-07-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0l59CBSPDfKBXlyHya0pew",
+          "name": "gregor salto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f37b12fdba70a40fb0171d32",
+      "uri": "spotify:album:4rgK9Mt7ThYbiDD4IVOH3Z",
+      "name": "polkadots 2010 (oliver twizt remix)",
+      "album_type": "single",
+      "release_date": "2010-07-06",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359c390e57aa7b3b038d659ae",
+      "uri": "spotify:album:5Ldw4MzzpRopOxx52LKPpi",
+      "name": "bungee",
+      "album_type": "single",
+      "release_date": "2010-06-08",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0FhsW40UydsdpNcKlkJEKC",
+          "name": "bobby burns"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a20560473bdd04fc4cd49be",
+      "uri": "spotify:album:4T4mLkufLNWjuCVnYZGx9r",
+      "name": "bangduck",
+      "album_type": "single",
+      "release_date": "2010-06-04",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315408040da0a996fc0c16548",
+      "uri": "spotify:album:1K5VzaCmYx93CLblkuLW32",
+      "name": "quacky",
+      "album_type": "single",
+      "release_date": "2010-05-31",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301409ec17fd4a39a35bad514",
+      "uri": "spotify:album:6sM9xq9cXgq6iQNV2prmST",
+      "name": "esther",
+      "album_type": "single",
+      "release_date": "2010-05-19",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300d492b3a6c02afb2476e817",
+      "uri": "spotify:album:73XBso0sjLCH7hoeQktyN0",
+      "name": "a msterdamn (extended edit)",
+      "album_type": "single",
+      "release_date": "2010-05-04",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "the partysquad"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f522d7a41919bc9c8405e47",
+      "uri": "spotify:album:3z9RcWbhk848AAltKUCxq8",
+      "name": "real high",
+      "album_type": "single",
+      "release_date": "2010-04-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0FhsW40UydsdpNcKlkJEKC",
+          "name": "bobby burns"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273673bb6223a1f1d4c9a1f8762",
+      "uri": "spotify:album:7dikYyUiCFR00h9SSBWhQ4",
+      "name": "esther",
+      "album_type": "single",
+      "release_date": "2010-02-24",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399d7a56a2098b04819a1690e",
+      "uri": "spotify:album:1DnA4U78UyJahhjsGgCZCv",
+      "name": "pacha on acid",
+      "album_type": "single",
+      "release_date": "2010-02-24",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e92125fcf49a9baf628acfdf",
+      "uri": "spotify:album:6Hqfg0w4Ke55KzZ8vjOJ8u",
+      "name": "polkadots / maybe",
+      "album_type": "single",
+      "release_date": "2009-05-11",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dedaff16d6101ca054111bcb",
+      "uri": "spotify:album:2yomqajfzFZqzxSEHqGeSv",
+      "name": "show me love (afrojack short remix)",
+      "album_type": "single",
+      "release_date": "2009-03-24",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "steve angello"
+        },
+        {
+          "spotify_id": "2WvLeseDGPX1slhmxI59G3",
+          "name": "robin s"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac769abd0771d3a960a5c069",
+      "uri": "spotify:album:3Z2EEBV3RflaOIAMRyBtOj",
+      "name": "radioman",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380fc2527f7f49cc192b27992",
+      "uri": "spotify:album:10cm5K0w06mDC9CwNskUye",
+      "name": "generation noise (afrojack remix)",
+      "album_type": "single",
+      "release_date": "2008-09-15",
+      "release_year": "2008",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4FUrFwnX2i83U8FJ6us7zS",
+          "name": "roman salzger"
+        },
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "0XugtaijoMOUdu6eVWPtX3",
+          "name": "boogshe"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273147ee34d923599fcb319db08",
+      "uri": "spotify:album:1jVt4MUlCrWrKDh0DOG9bZ",
+      "name": "space",
+      "album_type": "single",
+      "release_date": "2008-08-13",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739658ec308b6c4085d0889159",
+      "uri": "spotify:album:4uEbi3Gu2DpqOiGB2hD5M6",
+      "name": "colour ep",
+      "album_type": "single",
+      "release_date": "2008-06-12",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4zZ01lpQED8rJYHOdcMHdj",
+          "name": "red frame"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:01:56.000Z"
+}

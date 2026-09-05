@@ -1,0 +1,58 @@
+{
+  "name": "trümmerfrau",
+  "spotify_id": "1QXaGAtRJt0AWsWXvzxuc3",
+  "uri": "spotify:artist:1QXaGAtRJt0AWsWXvzxuc3",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273cd3977e93f49c790ec0a438d",
+  "genres": [
+    "ebm",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b28b23ad8eb386f0223f03a",
+      "uri": "spotify:album:2eqxj2cZn57Z2gpT7E46rM",
+      "name": "another song (ed flow remix)",
+      "album_type": "single",
+      "release_date": "2014-01-27",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1QXaGAtRJt0AWsWXvzxuc3",
+          "name": "trümmerfrau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd3977e93f49c790ec0a438d",
+      "uri": "spotify:album:3f6YQ7jltzJxb3NqQHdSAy",
+      "name": "geschmacksmusterverletzung",
+      "album_type": "album",
+      "release_date": "2011-06-17",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1QXaGAtRJt0AWsWXvzxuc3",
+          "name": "trümmerfrau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273765b0857316739cc8fccc8cb",
+      "uri": "spotify:album:31SZx7rw4UYzYMQLcbwoM0",
+      "name": "músika mottekki",
+      "album_type": "album",
+      "release_date": "2008-10-08",
+      "release_year": "2008",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "1QXaGAtRJt0AWsWXvzxuc3",
+          "name": "trümmerfrau"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:23.000Z"
+}

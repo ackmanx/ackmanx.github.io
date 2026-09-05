@@ -1,0 +1,130 @@
+{
+  "name": "algar",
+  "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+  "uri": "spotify:artist:6eW6zL3XCxzDljbDFGXklR",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebbd611059fbd303ff90147a5d",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab028294547647b583310b7",
+      "uri": "spotify:album:13lXGY3eUuPGyH3Igcg17e",
+      "name": "adventure 2.0",
+      "album_type": "album",
+      "release_date": "2018-10-23",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273214c19969cda78496f478b9b",
+      "uri": "spotify:album:1rccPE0Xwt1AQ58d5vR22n",
+      "name": "coffee bits",
+      "album_type": "album",
+      "release_date": "2018-08-27",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c0f4b92d16b4ea375650df5",
+      "uri": "spotify:album:76iBv3aD3DvaWk4zPiLed2",
+      "name": "chiptunes on steroids",
+      "album_type": "album",
+      "release_date": "2016-11-22",
+      "release_year": "2016",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739275b815138fd00736e74554",
+      "uri": "spotify:album:0Q2EyUn9ay1knRlH54aTwO",
+      "name": "i grew up with video games",
+      "album_type": "album",
+      "release_date": "2015-03-09",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273822e25723138c02d6f8b94f3",
+      "uri": "spotify:album:7jrnDHV8Cl06ZRWNoUuOd8",
+      "name": "chiptunes in stereo",
+      "album_type": "album",
+      "release_date": "2012-12-20",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273260f47d0091091bea9f0d38f",
+      "uri": "spotify:album:4l60bso5XNWBPhprbk5jXP",
+      "name": "följ mig ut på ängen",
+      "album_type": "single",
+      "release_date": "2012-06-11",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322c98c9935d712699ef68f0e",
+      "uri": "spotify:album:7IravcyqkzAYmy7u4g8aC8",
+      "name": "christer sjögrens favoriter 2003-2006",
+      "album_type": "album",
+      "release_date": "2011-11-19",
+      "release_year": "2011",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdc5b9081ae8a48fbe33161e",
+      "uri": "spotify:album:2RgCceTbMPLcIV7qiMJVph",
+      "name": "morgonstund",
+      "album_type": "album",
+      "release_date": "2011-06-30",
+      "release_year": "2011",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6eW6zL3XCxzDljbDFGXklR",
+          "name": "algar"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:14.000Z"
+}

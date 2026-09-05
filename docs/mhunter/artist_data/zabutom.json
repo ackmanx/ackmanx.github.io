@@ -1,0 +1,153 @@
+{
+  "name": "zabutom",
+  "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+  "uri": "spotify:artist:3z9XCKFZ4a6xxvMK9haQy5",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb03b189cd36bc7e2a8d6f7681",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273455981595c1ef48299a51800",
+      "uri": "spotify:album:48RQ9wsBjeJXvPJLD2nHlJ",
+      "name": "splendors of the past",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ef2a73d4607ef10bb0efba8",
+      "uri": "spotify:album:353igLx8pC5CHf45pogOGA",
+      "name": "track tracking",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        },
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f990abda63ec4283946f13a",
+      "uri": "spotify:album:7sz6R18y5lMon2ginefeVa",
+      "name": "resolution",
+      "album_type": "album",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b494a46a253c67c187b8f8e",
+      "uri": "spotify:album:3KBkbJxwUOarmUM4mev0Sf",
+      "name": "zeta force (digitone version)",
+      "album_type": "single",
+      "release_date": "2021-08-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e23399fb94922cba23c0eb8e",
+      "uri": "spotify:album:5UlvhrjweEYAHFvwyzuV6U",
+      "name": "bad television",
+      "album_type": "single",
+      "release_date": "2017-04-30",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        },
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273288f8bf3e3073252cc44d32c",
+      "uri": "spotify:album:6fa1FjnOjlzONdQ8FOG5mp",
+      "name": "redux34",
+      "album_type": "album",
+      "release_date": "2015-09-18",
+      "release_year": "2015",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c62dab6e54f2f8c3572816af",
+      "uri": "spotify:album:0tMHQ9czY0AgXhMBsxJ1nm",
+      "name": "lost tapes 1",
+      "album_type": "album",
+      "release_date": "2014-02-18",
+      "release_year": "2014",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3bf56f69396c1ffec8b4e4e",
+      "uri": "spotify:album:64mjQs6MsSDZe7jdwVlyN5",
+      "name": "new beginnings",
+      "album_type": "album",
+      "release_date": "2013-10-15",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d87524f0967a67fbf691a146",
+      "uri": "spotify:album:5XzGHzpZyEU1rPCcy7ERCM",
+      "name": "zeta force",
+      "album_type": "album",
+      "release_date": "2011-08-08",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:36:26.000Z"
+}

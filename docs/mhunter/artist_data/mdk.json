@@ -1,0 +1,972 @@
+{
+  "name": "mdk",
+  "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+  "uri": "spotify:artist:4AFmCAFHwoV2o3QR1Wgup4",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd001e6145e69f64f81063769",
+  "genres": [
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd19c8942b515474a27476e7",
+      "uri": "spotify:album:3FWfBj9gqkVzBG2C1HN8Iy",
+      "name": "password",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "4Y345wfGiorcB2NXcsJxOt",
+          "name": "t+pazolite"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733419186e7dd746b58903f593",
+      "uri": "spotify:album:6jLKuEKn2Tu4uUl3axVWz4",
+      "name": "wubtendo 64",
+      "album_type": "single",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d004042861d1655d6decc09",
+      "uri": "spotify:album:6zQCDOpofSKmHGQPW8IT1x",
+      "name": "flashback fever",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7a892b32e6bc40cdfb78972",
+      "uri": "spotify:album:37RWG6wwQ6Mo2rysE1b6WL",
+      "name": "snowdown (vip mix)",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8fc8e4cda47382b296a2153",
+      "uri": "spotify:album:34fB2zms6aQBdmo5RQzh0D",
+      "name": "killshot",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "3h4xRI8zK3aZygXhxNFjoR",
+          "name": "boom kitty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736af9de2bce61521ae65f8729",
+      "uri": "spotify:album:2YX53jPShjKdPoioG5z4ZK",
+      "name": "feliz navidad",
+      "album_type": "single",
+      "release_date": "2025-11-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ced523cb7d263991050944a3",
+      "uri": "spotify:album:76Rqt7YrYSv9wmVAlWvg9B",
+      "name": "cutlass",
+      "album_type": "single",
+      "release_date": "2025-11-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361ab732b1bf0e230f9685ebb",
+      "uri": "spotify:album:4LmYHS70hwHBGg9xxqd2Rn",
+      "name": "nocturne",
+      "album_type": "single",
+      "release_date": "2025-08-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1KkjjsBwGqU2YjS9OIucZV",
+          "name": "hyper potions"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338ad2c6db140921c62b68451",
+      "uri": "spotify:album:6MsOvqafLXn7j8PChTUGOh",
+      "name": "speed boost",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273864b02b8e436b946f27a07ac",
+      "uri": "spotify:album:2z43TX7uLlVd0hPX9DtALE",
+      "name": "splat",
+      "album_type": "single",
+      "release_date": "2025-02-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efa2e55460571b20ecfde384",
+      "uri": "spotify:album:4hdwL69irvZNwJDAgS97FT",
+      "name": "button masher",
+      "album_type": "single",
+      "release_date": "2025-01-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316db2f0c6a582ec54c803539",
+      "uri": "spotify:album:0egjTYoTuu4cGQMqTetB7u",
+      "name": "deck the halls",
+      "album_type": "single",
+      "release_date": "2024-11-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3bwENxqj9nhaAI3fsAwmv9",
+          "name": "tokyo machine"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381035bb8cfa19de830ccdc21",
+      "uri": "spotify:album:3i8TmJpi7BeON4IHuMjEAP",
+      "name": "comfort food",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ffe7ac321d41801cb1f220d",
+      "uri": "spotify:album:156RR2YJtpGUKM6IbX2Okf",
+      "name": "air force wub",
+      "album_type": "single",
+      "release_date": "2024-01-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e880821da3d1f5e0aa1d77fe",
+      "uri": "spotify:album:3MQgmjZwjBB8FsnokmSl9t",
+      "name": "geometry dash official theme song",
+      "album_type": "single",
+      "release_date": "2023-12-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739909aa7e3d60bf9cc8870eeb",
+      "uri": "spotify:album:6PbNJktfOWZbZGf2PPV6Eh",
+      "name": "cryptofunk",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387a849022cb032c2e084b05c",
+      "uri": "spotify:album:50NxdUFa1jfGxpk8a7Hrnu",
+      "name": "arcade dwellers",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273151c007f86cd3a0ccc3a9889",
+      "uri": "spotify:album:5tBdoArO1jAQ6WRYeGEDKd",
+      "name": "zombies ate my ravers",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fad6efc7646a0b43e506986f",
+      "uri": "spotify:album:5PzvZJe9VAAoAVFSyXSe8S",
+      "name": "colour cannon",
+      "album_type": "single",
+      "release_date": "2021-08-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "5OJlz66XOZAELd6rCol0sS",
+          "name": "treyx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335d1f674a5573e1bd37808c8",
+      "uri": "spotify:album:51G7bJPkBdimtWocJqLEGR",
+      "name": "supercharge",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "5tXUIbGjW1uqXoy8cPW8MB",
+          "name": "meganeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273946264874911fd035ede8d3e",
+      "uri": "spotify:album:6QZzxkrkNiAgF3hhm0aycy",
+      "name": "the only way i know",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2f9848d4fcad4cdf05a69ad",
+      "uri": "spotify:album:4aWmgy5WkSDn1fsYpBJGru",
+      "name": "anxiety",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e7e0a8de8e60a1d404b54a3",
+      "uri": "spotify:album:08GLSfnMQlWm3h1s7csj5R",
+      "name": "black water (inspired by ‘the outlaw ocean’ a book by ian urbina)",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "7miGJahGF5JYOunptmXsQz",
+          "name": "ian urbina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739615c239677ebea5af39ff42",
+      "uri": "spotify:album:3WJB8H8RMeMQYCGIal9u1t",
+      "name": "sharpshooter",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0ce6b005ac4b292aa416cec",
+      "uri": "spotify:album:6s4dvIGrCV6S1RTRtf7G8b",
+      "name": "super ultra (smooth jazz remix)",
+      "album_type": "single",
+      "release_date": "2020-04-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739395a8d871772be04db020bb",
+      "uri": "spotify:album:7vOV3gdohwWP9gBmh5pcyN",
+      "name": "space invaders (remixes)",
+      "album_type": "single",
+      "release_date": "2019-12-27",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5EEuae5uigQnwgYCl0s8EF",
+          "name": "teminite"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c468b48c29ae70756ba15a8",
+      "uri": "spotify:album:7dPlGCY5DfH1pO4lP7UG5Z",
+      "name": "wubsplosion",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391f679b1004cda8b6b4b48cf",
+      "uri": "spotify:album:5tp9PWpDDEjpBSmuMRwkIp",
+      "name": "super wubtendo",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e89af82d1131cf3f7acd68fa",
+      "uri": "spotify:album:7mcxfs0ltcd7f3hOsQPeO3",
+      "name": "space invaders",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5EEuae5uigQnwgYCl0s8EF",
+          "name": "teminite"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733486a0880b69b1d656d22c04",
+      "uri": "spotify:album:2MkXSMMxxgykDQhlZhLkSS",
+      "name": "press start (sterrezo remix)",
+      "album_type": "single",
+      "release_date": "2019-04-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "1QCf2VPfvtjDUsQ8pAGOEv",
+          "name": "sterrezo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cfe9a7f84b6d8b6b2435d7a",
+      "uri": "spotify:album:5KBqni9TFULMgkPh0q42LE",
+      "name": "press start (smooth jazz remix)",
+      "album_type": "single",
+      "release_date": "2019-04-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c8ba7a0caf188dc2a828944",
+      "uri": "spotify:album:1hRNs9aeiq6T6S58WAl70O",
+      "name": "critical hit",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edabfbc0c3adc5756277fca4",
+      "uri": "spotify:album:76JGbKhmJNrs3fjQst9MNY",
+      "name": "funk mountain",
+      "album_type": "single",
+      "release_date": "2018-12-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d23e56b7bd4941f26bfe1a47",
+      "uri": "spotify:album:1r0w19QwcB9mvCIAfuujuJ",
+      "name": "lightspeed",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "1QCf2VPfvtjDUsQ8pAGOEv",
+          "name": "sterrezo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d62723cd2088dad45a759e",
+      "uri": "spotify:album:2u7I0VtSjz54sUdONIuwrA",
+      "name": "hellfire",
+      "album_type": "single",
+      "release_date": "2018-10-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bc6a0efeba32b3c2d459620",
+      "uri": "spotify:album:4SbRYk4g2KXiNwPohKoM2E",
+      "name": "infinite",
+      "album_type": "single",
+      "release_date": "2018-09-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b0833097360d27a224a4193",
+      "uri": "spotify:album:3DvPfSulOygBAJIWzIJj1L",
+      "name": "the warrior of wubstep",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e0b36b6fcfbcbf68eb8739e",
+      "uri": "spotify:album:4NJoK5In7uetZRcKldcCim",
+      "name": "resolution",
+      "album_type": "single",
+      "release_date": "2018-07-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        },
+        {
+          "spotify_id": "7y2jKZBgvt5YV9jpKQUN5a",
+          "name": "dex arson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d01b37d0ded3c769b1d26f14",
+      "uri": "spotify:album:4g0l2H0jaEvjzF5pqKBgZ0",
+      "name": "press start (dex arson remix)",
+      "album_type": "single",
+      "release_date": "2018-06-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f79058643faf2ba05f78aa5d",
+      "uri": "spotify:album:2cpbWdCd0FpjJzB5cjNbhu",
+      "name": "x buster",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e686489b4ff233eff91e1f1e",
+      "uri": "spotify:album:766FRxTs83fHqHWs3StBmi",
+      "name": "astral badass",
+      "album_type": "album",
+      "release_date": "2017-12-02",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db1796b7bd0a2a64377c0105",
+      "uri": "spotify:album:1f4T6wUA2mHmda30wSIDgS",
+      "name": "firebird (feat. nick sadler)",
+      "album_type": "single",
+      "release_date": "2017-11-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273672799fd6c2039736afad063",
+      "uri": "spotify:album:7rzVIgI5dBpRwKOUOxqrWh",
+      "name": "press start (neowing remix)",
+      "album_type": "single",
+      "release_date": "2017-08-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736819de7a18a6c570cc382dd3",
+      "uri": "spotify:album:5kQ7rZCiSjrcwJ7ddAeGfS",
+      "name": "press start (vip mix)",
+      "album_type": "single",
+      "release_date": "2017-08-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fccede428b9c1d09f39cc59",
+      "uri": "spotify:album:00BHXMBbyx9QqlugfXs0ST",
+      "name": "shockwave",
+      "album_type": "single",
+      "release_date": "2017-06-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4f6350e9d41cc47e3ae85bd",
+      "uri": "spotify:album:4DMC4ngLN1AHBV4lXZaAfc",
+      "name": "fingerbang (vip mix)",
+      "album_type": "single",
+      "release_date": "2017-02-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735654892778450cd2ce5c79bc",
+      "uri": "spotify:album:1h25HQfDjSiJBMUEOCEmDP",
+      "name": "super ultra",
+      "album_type": "single",
+      "release_date": "2016-08-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c80506772a770f1f129ad8f8",
+      "uri": "spotify:album:2vJIiyBF2p81J4Pxx97Ny3",
+      "name": "hyper beam",
+      "album_type": "single",
+      "release_date": "2016-04-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef27cb8d2812aa883adac78f",
+      "uri": "spotify:album:4a0EXytDFigrKRSy4dDdpu",
+      "name": "basswagon (feat. dannona)",
+      "album_type": "single",
+      "release_date": "2015-10-31",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307abe59469823efebb088383",
+      "uri": "spotify:album:1PDGZPiAkllan9fM15NeKD",
+      "name": "press start",
+      "album_type": "single",
+      "release_date": "2015-08-24",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355f2ec9ffec71ccbf6097d32",
+      "uri": "spotify:album:4lwhpToxZYjAQPjwPAmQcv",
+      "name": "rise - the remixes",
+      "album_type": "album",
+      "release_date": "2015-02-16",
+      "release_year": "2015",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4819538047e8df7b932ab22",
+      "uri": "spotify:album:58bLxajMO1360y2uCBAy5y",
+      "name": "pandora",
+      "album_type": "single",
+      "release_date": "2015-01-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a00b427e0110c1196790a38",
+      "uri": "spotify:album:28ScklsINzlE4ZngmE0EVG",
+      "name": "absolute zero",
+      "album_type": "single",
+      "release_date": "2015-01-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c49933c1bf1076c8392d5e6",
+      "uri": "spotify:album:7LLhoDGkfpf36zLI15ECuY",
+      "name": "rise",
+      "album_type": "album",
+      "release_date": "2014-10-01",
+      "release_year": "2014",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386c94eaa202c1e49b54be0bc",
+      "uri": "spotify:album:4IjluEdDCVd12YDiiTNuJ8",
+      "name": "baelfire",
+      "album_type": "single",
+      "release_date": "2014-05-31",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4SBHc1WNBwrvxRmTvwfhL0",
+          "name": "neowing"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e767bfdc7b384c8445b90483",
+      "uri": "spotify:album:0GYz3V5kPDGggHprktAepa",
+      "name": "eclipse (extended mix)",
+      "album_type": "single",
+      "release_date": "2014-05-06",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4a8012fb80de9a14e3bb1d5",
+      "uri": "spotify:album:6ndaYwd1vO1BBqAj3gZ68s",
+      "name": "mega",
+      "album_type": "single",
+      "release_date": "2014-05-05",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273558940053c5c0248238fd905",
+      "uri": "spotify:album:2oqlvgZZzk1nYWeGC89KUl",
+      "name": "bang",
+      "album_type": "single",
+      "release_date": "2014-01-28",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fedd46f14669b5756526728",
+      "uri": "spotify:album:7eZmdutg93WnFxV8hlnVn8",
+      "name": "jelly castle",
+      "album_type": "album",
+      "release_date": "2013-11-15",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdaa6aa491b855018d1d8b60",
+      "uri": "spotify:album:4GGfXv1ArpbY5cD4eYuO8R",
+      "name": "azalea",
+      "album_type": "single",
+      "release_date": "2013-10-05",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:44.000Z"
+}

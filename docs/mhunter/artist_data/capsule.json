@@ -1,0 +1,554 @@
+{
+  "name": "capsule",
+  "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+  "uri": "spotify:artist:61KJdJU38zrAW4c3PI9C9N",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb71d6db8fc374338042436f2b",
+  "genres": [
+    "shibuya-kei",
+    "japanese indie",
+    "j-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343921b31048155acf83e8c55",
+      "uri": "spotify:album:180vwCyLRoHCw1IsusDz3s",
+      "name": "メトロパルス",
+      "album_type": "album",
+      "release_date": "2022-12-14",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273816c61a0b02635ac35509b18",
+      "uri": "spotify:album:17ODkxcwEwZ3pvCjeZViMA",
+      "name": "ギヴ・ミー・ア・ライド",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2486dace77c3310b3b89a59",
+      "uri": "spotify:album:3HKYFbn9BfZzyuU7gjaNlB",
+      "name": "バーチャル・フリーダム",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350a32ac180ccef59ea8b8a5a",
+      "uri": "spotify:album:1SbCWxrJvv37JaG9gFZbl0",
+      "name": "フューチャー・ウェイヴ",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368d56233164e37a1a07e8a2e",
+      "uri": "spotify:album:00ZIDT8hM1Axwizel353Ds",
+      "name": "うつせみ （映画「シドニアの騎士 あいつむぐほし」） (movie version)",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ec932074b39bffc3830f7ef",
+      "uri": "spotify:album:5HmYQLP0mkigw3lwisqirI",
+      "name": "ひかりのディスコ",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380ddb41edbb7555a2ee44b98",
+      "uri": "spotify:album:4Z65vZZR8Ec3RQv9qiyqdC",
+      "name": "wave runner",
+      "album_type": "album",
+      "release_date": "2015-02-16",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371426fb4528134187b832f04",
+      "uri": "spotify:album:1PDKMJ9o7RNYBj7XyzJMyX",
+      "name": "hero(extended mix)",
+      "album_type": "single",
+      "release_date": "2015-02-10",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732834a14ce4c72ecfa176e3a8",
+      "uri": "spotify:album:78VR0u1FOMSU1a4T6QJy4g",
+      "name": "white as snow(extended mix)",
+      "album_type": "single",
+      "release_date": "2015-02-10",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3705392070f21463d7537b2",
+      "uri": "spotify:album:5ZwvOKH4fiWWThIXDdSeJI",
+      "name": "another world",
+      "album_type": "single",
+      "release_date": "2015-01-28",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df855705b92f49ea69484027",
+      "uri": "spotify:album:4pbKR3L72VmfkZXz6zZU7U",
+      "name": "feel again",
+      "album_type": "single",
+      "release_date": "2014-12-29",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de1389f7d48c45fe5be45d6b",
+      "uri": "spotify:album:1JolBQSAC9AxXqRgVzZr35",
+      "name": "capsule rewind best-1 2012-2006",
+      "album_type": "album",
+      "release_date": "2013-03-06",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734423a0f7d9b6a9b794ad27ab",
+      "uri": "spotify:album:2kdBZFNeAh2yJKov9paEfb",
+      "name": "capsule rewind best-2 2005-2001",
+      "album_type": "album",
+      "release_date": "2013-03-06",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d97cdd774968049cca9a56e6",
+      "uri": "spotify:album:1zW0kOHEapGiBRJNvbygek",
+      "name": "stereo worxxx (2021 remaster)",
+      "album_type": "album",
+      "release_date": "2012-03-07",
+      "release_year": "2012",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394724b7ea36dcd27c8a0c108",
+      "uri": "spotify:album:34MCLe0NFSmsmUPiIyZjS7",
+      "name": "world of fantasy",
+      "album_type": "album",
+      "release_date": "2011-05-25",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341ba92c44ff67fa1fe894cad",
+      "uri": "spotify:album:033IL45wIJWTiiVzH74Ftw",
+      "name": "player",
+      "album_type": "album",
+      "release_date": "2010-03-03",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273617bcc8266af0a62f142dfde",
+      "uri": "spotify:album:6Q6aHKjk87vaImGeyZOP3F",
+      "name": "flash best",
+      "album_type": "album",
+      "release_date": "2009-08-26",
+      "release_year": "2009",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314415fbb2349f848fcce7ef7",
+      "uri": "spotify:album:4dsdrwq9oXEs2xfVgskNsI",
+      "name": "more! more! more! (2021 remaster)",
+      "album_type": "album",
+      "release_date": "2008-11-19",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303f3cb8c0d5d0bf36bf09a10",
+      "uri": "spotify:album:4hY04Gouy2cEMBE5H2g2ry",
+      "name": "flash back",
+      "album_type": "album",
+      "release_date": "2007-12-05",
+      "release_year": "2007",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24ddb8566164565e1ac7b50",
+      "uri": "spotify:album:1J6kFZzEq6cokXP58GCjJy",
+      "name": "capsule rmx (2021 remaster)",
+      "album_type": "album",
+      "release_date": "2007-10-10",
+      "release_year": "2007",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f63dc0736785f6bf2e13bad",
+      "uri": "spotify:album:1WEYYktdOGCPdAIIhxmrew",
+      "name": "sugarless girl (2021 remaster)",
+      "album_type": "album",
+      "release_date": "2007-02-21",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ddca444da2be72d2638b159",
+      "uri": "spotify:album:7MaTDwouwCNxDA6FeNjQ2t",
+      "name": "fruits clipper",
+      "album_type": "album",
+      "release_date": "2006-05-10",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c19bbc51a1e04278effeb17",
+      "uri": "spotify:album:5DUlBTnFlV4NwtriEbiEPh",
+      "name": "fruits clipper (2021 remaster)",
+      "album_type": "album",
+      "release_date": "2006-05-10",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eea4410b3d10662d41f42002",
+      "uri": "spotify:album:2QKJQBS7ElKCcq7GoE601a",
+      "name": "l.d.k. lounge designers killer",
+      "album_type": "album",
+      "release_date": "2005-09-21",
+      "release_year": "2005",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ac33085db9be29748147f62",
+      "uri": "spotify:album:49rCJQTOV5KasfdK6DQ6Bn",
+      "name": "nexus-2060",
+      "album_type": "album",
+      "release_date": "2005-02-09",
+      "release_year": "2005",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359839d08cedf435306c89bca",
+      "uri": "spotify:album:1hMvuKdC6dJ2GboRxeNNoA",
+      "name": "s.f. sound furniture",
+      "album_type": "album",
+      "release_date": "2004-06-09",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f61e4d6bfddb95e9e16d64f",
+      "uri": "spotify:album:5hfcklfr5LnpLNwd5bI7ag",
+      "name": "レトロメモリー",
+      "album_type": "single",
+      "release_date": "2004-02-04",
+      "release_year": "2004",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bf0284db2a02dace39b91ca",
+      "uri": "spotify:album:612lmOPY2SGZM060gl0bRo",
+      "name": "phony phonic",
+      "album_type": "album",
+      "release_date": "2003-11-09",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b6dce7bab624156d072bfe1",
+      "uri": "spotify:album:5pR7JxVuM1fKrPUIhIgue5",
+      "name": "candy cutie",
+      "album_type": "single",
+      "release_date": "2003-05-21",
+      "release_year": "2003",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf1caa943b7a6cac992e88bb",
+      "uri": "spotify:album:5LNwSiOjuFi24m1oUf8225",
+      "name": "cutie cinema replay",
+      "album_type": "album",
+      "release_date": "2003-03-19",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2247ad65d6d6571364b43dd",
+      "uri": "spotify:album:52xEIW1qMec1yCEjFDEgtZ",
+      "name": "プラスチックガール",
+      "album_type": "single",
+      "release_date": "2002-11-20",
+      "release_year": "2002",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b004aedc39f22ef41efe7b74",
+      "uri": "spotify:album:5M7f8VmeBEGtMx8aXG6y9Y",
+      "name": "music controller",
+      "album_type": "single",
+      "release_date": "2002-08-21",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328dc92446094a019e8479c0c",
+      "uri": "spotify:album:6TBgKy5y0ZYsXdmroxeS1h",
+      "name": "ハイカラガール",
+      "album_type": "album",
+      "release_date": "2001-09-17",
+      "release_year": "2001",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738db747066774f63506647552",
+      "uri": "spotify:album:0qqWjEDPS9s2lxTjpWZXVr",
+      "name": "花火",
+      "album_type": "single",
+      "release_date": "2001-07-04",
+      "release_year": "2001",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea33a481dc7c5431e4fea039",
+      "uri": "spotify:album:5ZS43Acv0YmiQELOVkcRTn",
+      "name": "さくら",
+      "album_type": "single",
+      "release_date": "2001-03-28",
+      "release_year": "2001",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736696d05bfa5a9d79684a2fdd",
+      "uri": "spotify:album:6oeMZIXqUzMYEkVMO9E4BP",
+      "name": "東京喫茶",
+      "album_type": "single",
+      "release_date": "2001-01-17",
+      "release_year": "2001",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "61KJdJU38zrAW4c3PI9C9N",
+          "name": "capsule"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:42.000Z"
+}

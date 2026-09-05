@@ -1,0 +1,933 @@
+{
+  "name": "laibach",
+  "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+  "uri": "spotify:artist:7l4LQfvN4yz8zbK4WY0AAg",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb62a8fbe225323928a14fe13",
+  "genres": [
+    "industrial",
+    "ebm",
+    "neofolk",
+    "industrial metal",
+    "industrial rock",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5e5073f922369d953e39fb1",
+      "uri": "spotify:album:3XWPBz4DwKQna79SSkPdDm",
+      "name": "musick",
+      "album_type": "album",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caf06536b812a0aaa003b792",
+      "uri": "spotify:album:5k17BJ9OMf3lCGaVKIgjy5",
+      "name": "love machine",
+      "album_type": "single",
+      "release_date": "2026-04-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        },
+        {
+          "spotify_id": "1C5jQlkf0TrFu6rmHZp2X5",
+          "name": "senidah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338ca9c50321c3931196dcca7",
+      "uri": "spotify:album:65fUnaCPzZSSkNHsKeDnyY",
+      "name": "musick (feat. wiyaala)",
+      "album_type": "single",
+      "release_date": "2026-03-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319cfe7259957ea74fe6598b2",
+      "uri": "spotify:album:20Whcr8IuwRSuPCqZSs8a7",
+      "name": "allgorhythm (feat. wiyaala)",
+      "album_type": "single",
+      "release_date": "2026-02-11",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323148c0634283e587f84f54e",
+      "uri": "spotify:album:60BVDhKP2mIrUr7cBVgKWO",
+      "name": "yom kippur",
+      "album_type": "single",
+      "release_date": "2025-10-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273720fbfaaebed93845c733d49",
+      "uri": "spotify:album:3csalMrsaNOH416ftRBUZi",
+      "name": "die kanone (feat. bijelo dugme)",
+      "album_type": "single",
+      "release_date": "2025-07-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c7726f839ca54ae8fdebc74",
+      "uri": "spotify:album:7pWTtRA801TLiHv35E54Oq",
+      "name": "alamut",
+      "album_type": "album",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5ec1bc56b0e1005eb31b02b",
+      "uri": "spotify:album:0UhR0q2ZvzbOpPKCthKaS1",
+      "name": "war",
+      "album_type": "single",
+      "release_date": "2025-04-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273286ae7a2b7f150cf4529d1ca",
+      "uri": "spotify:album:368XDQdRwWbSFLhIWr7qwC",
+      "name": "fedayeen (feat. rtv slovenia symphony orchestra, gallina vocal group & navid gohari)",
+      "album_type": "single",
+      "release_date": "2025-02-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273597681785e8d00f5fc78635c",
+      "uri": "spotify:album:14fAYwGvFl86SfEswXcTb1",
+      "name": "i want to know what love is",
+      "album_type": "single",
+      "release_date": "2025-01-07",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fafe37bff203614248de130a",
+      "uri": "spotify:album:1WzW3wxV6LbrRvivFD0tS9",
+      "name": "s topom te bom ciljal moja mala",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        },
+        {
+          "spotify_id": "6YrXP3uxNWpENU4zWRUSVx",
+          "name": "bijelo dugme"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c441f3aac4a9a54bf91835b",
+      "uri": "spotify:album:21hI85x47q58mSrT5skeuM",
+      "name": "opus dei revisited",
+      "album_type": "album",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8bc526ee936ddfca2b2d018",
+      "uri": "spotify:album:1wWhSe0QKeNNy4flr97A29",
+      "name": "white christmas",
+      "album_type": "single",
+      "release_date": "2024-11-21",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        },
+        {
+          "spotify_id": "55l5Zi2C6tfebnqqexVRrp",
+          "name": "silence"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322a99a6c4e411f61d82dd655",
+      "uri": "spotify:album:6NixUF4Pci3pfxdJfgdsq4",
+      "name": "strange fruit",
+      "album_type": "single",
+      "release_date": "2024-11-05",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d3c646dfe34ed153913311d",
+      "uri": "spotify:album:0McL6GOOBddNxA2XwxouqB",
+      "name": "leben heißt leben (opus dei revisited 2024)",
+      "album_type": "single",
+      "release_date": "2024-10-08",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273777e2afb7d7080f23c9a2ac9",
+      "uri": "spotify:album:3nkuxqB27cw5LaQCNMi8w5",
+      "name": "geburt einer nation (rico conning's inner ear rmx 2024)",
+      "album_type": "single",
+      "release_date": "2024-09-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        },
+        {
+          "spotify_id": "3ZTWcx4iQQXjY6hGJ5MTPu",
+          "name": "rico conning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d2750ef7ec4694f0a11d718",
+      "uri": "spotify:album:0h3oEycsdksEEr1cAxEthb",
+      "name": "opus dei (remastered deluxe edition)",
+      "album_type": "album",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361c688c37955ab35a852cc62",
+      "uri": "spotify:album:4pBVFbxKH416hIR5GN1cdm",
+      "name": "opus dei (live 1987 - 1989 pt.3)",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273947bd88e4cdad5e34e42ff03",
+      "uri": "spotify:album:6LoE4EzL0gedHGcIzwdtdt",
+      "name": "opus dei (live 1987 - 1989 pt.2)",
+      "album_type": "single",
+      "release_date": "2024-05-28",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353ee756d10d84ac8985ee4e0",
+      "uri": "spotify:album:1RB1Och2F4nRwye9dou22a",
+      "name": "opus dei (remastered)",
+      "album_type": "album",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d862484159f2d699e2bffd9",
+      "uri": "spotify:album:71aSKD6XL5LBEo0YsJC9n7",
+      "name": "opus dei (live 1987 - 1989 pt.1)",
+      "album_type": "single",
+      "release_date": "2024-04-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c50710f04d11043cea475545",
+      "uri": "spotify:album:1xXR2Y1mhyDi0rycekOfZe",
+      "name": "tanz mit laibach",
+      "album_type": "single",
+      "release_date": "2024-02-05",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736305cde4049048071a0047ae",
+      "uri": "spotify:album:34GZP3vANbBMha8cWjUItO",
+      "name": "jesus christ superstar / god is god",
+      "album_type": "album",
+      "release_date": "2023-12-25",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d7cd6b8c249137f07e9ce87",
+      "uri": "spotify:album:3tBdAXlLJrkMf628plsAgh",
+      "name": "in the army now / war",
+      "album_type": "single",
+      "release_date": "2023-12-04",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e76277ae3c923225cc9c56c7",
+      "uri": "spotify:album:4jfl8TFptLq50ZZPH7XLD5",
+      "name": "final countdown",
+      "album_type": "single",
+      "release_date": "2023-11-06",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737781fa6d8b0c0280bed62290",
+      "uri": "spotify:album:4eC2uO7tv1XUSSdLNIkhLz",
+      "name": "wirtschaft ist tot",
+      "album_type": "single",
+      "release_date": "2023-10-23",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0e1c677182f98e8ee6c745a",
+      "uri": "spotify:album:0dmp2XzEcgOd38YvS5vNaR",
+      "name": "the engine of survival (feat. donna marina mårtensson)",
+      "album_type": "single",
+      "release_date": "2023-09-07",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273408bbea00a97a5f85186be53",
+      "uri": "spotify:album:6v5iNdDYVlCYjPENuZ71Os",
+      "name": "amerika",
+      "album_type": "single",
+      "release_date": "2023-08-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e29a238fb526c6e97bfb0a58",
+      "uri": "spotify:album:2v4B6sN1RnOBZtIDNEWlOO",
+      "name": "iron sky : the coming race (the original soundtrack)",
+      "album_type": "album",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 43,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9d1929275d26e878ecea122",
+      "uri": "spotify:album:2zzOi7QjyFIdsu6vcZTUNJ",
+      "name": "o, triglav, moj dom",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c75aa183c437856c4ff84563",
+      "uri": "spotify:album:6SSA8NoY3qmcXdXbLK6BH6",
+      "name": "love is still alive",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dcd7e14e691a84d0b0294cf",
+      "uri": "spotify:album:3ZI2bB8NuA0TJasjieK7jE",
+      "name": "sketches of the red districts",
+      "album_type": "album",
+      "release_date": "2023-01-01",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739844a5cfe9debaf36c884584",
+      "uri": "spotify:album:3fli9ELRunD2nyU3liWwIy",
+      "name": "the future (feat. donna marina mårtensson)",
+      "album_type": "single",
+      "release_date": "2022-11-30",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b689d3a52e2f271928cd5806",
+      "uri": "spotify:album:0skCVQZDc53eLaIl5pnKug",
+      "name": "the future (feat. donna marina mårtensson)",
+      "album_type": "single",
+      "release_date": "2022-11-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d92ebfd1ebe55e63f9648808",
+      "uri": "spotify:album:0CRSxVAbBViFi70Pdnt6ZZ",
+      "name": "wir sind das volk: ein musical aus deutschland (nach texten von heiner müller)",
+      "album_type": "album",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b143811692eddcfc3595a9d4",
+      "uri": "spotify:album:5IXgbsAtnhLFE2BI2k2Vm9",
+      "name": "we forge the future (live at reina sofía)",
+      "album_type": "album",
+      "release_date": "2021-04-29",
+      "release_year": "2021",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273951e62b4ee205b87d28396bf",
+      "uri": "spotify:album:32SrohG7GGVEN4VYFxPgT0",
+      "name": "revisited",
+      "album_type": "album",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bcfec7c4d684cfd3294d09e",
+      "uri": "spotify:album:5PEkjeIsT02LPRBrYH5W77",
+      "name": "party songs",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273533c7acfd9283a4a12b9bb6f",
+      "uri": "spotify:album:6qys8UtzTlnp2sWDF15O4i",
+      "name": "so long, farewell",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d6f0359ee82be6b2906ad51",
+      "uri": "spotify:album:7vDdlEjVbKcYlJbZVxbpiT",
+      "name": "the sound of music",
+      "album_type": "album",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273311b87b11a0d63334c66f3fc",
+      "uri": "spotify:album:6JhHID0pLHgc9WYEYwQ3Xm",
+      "name": "also sprach zarathustra",
+      "album_type": "album",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d04bd3da29ad15f3706f4d5",
+      "uri": "spotify:album:2GfPCFFEeE73hr5DOG7Lsi",
+      "name": "spectremix",
+      "album_type": "album",
+      "release_date": "2015-03-31",
+      "release_year": "2015",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bb03e6f964659387dd72ccd",
+      "uri": "spotify:album:6FyNRrBt316TPfnzntJYtu",
+      "name": "occupied europe nato tour 1994-95",
+      "album_type": "album",
+      "release_date": "2014-05-27",
+      "release_year": "2014",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362b4ce03c9db955a57b34488",
+      "uri": "spotify:album:1LYkLeho4LnO6CU7RE5TXe",
+      "name": "spectre",
+      "album_type": "album",
+      "release_date": "2014-03-11",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d627578fcca14974bd4a405",
+      "uri": "spotify:album:7vnGwxpB7bmazOV4wxauCn",
+      "name": "iron sky (ost)",
+      "album_type": "album",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 40,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321826149573580dc4b6bcd69",
+      "uri": "spotify:album:3VfGJojpx5fC3XRaPtGrVx",
+      "name": "krst pod triglavom, baptism",
+      "album_type": "album",
+      "release_date": "2007-07-07",
+      "release_year": "2007",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385d9484e1db0a62e39b89ca3",
+      "uri": "spotify:album:2AsqaFO6igI1DEBNlLiLkh",
+      "name": "volk",
+      "album_type": "album",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7dedef5f9e45614a7cabbde",
+      "uri": "spotify:album:4eiSOSELoJd4zZtCXV8CBg",
+      "name": "anglia",
+      "album_type": "single",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733384e4e718e35935d3905b10",
+      "uri": "spotify:album:0ZHlBipnoqOQDbjVXtLnls",
+      "name": "neu konservatiw",
+      "album_type": "album",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9f8c23b0c4e55a792c37ef4",
+      "uri": "spotify:album:6JwPsXkrXYGHqBeIjE1hzL",
+      "name": "wat",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273070d3b44552f4b61890b9a9b",
+      "uri": "spotify:album:6UXpoW5RhUkGuRRVrfA7d5",
+      "name": "nato",
+      "album_type": "album",
+      "release_date": "1994-10-11",
+      "release_year": "1994",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f88036f4eaefae784b6dca35",
+      "uri": "spotify:album:14bJO65k53t7D0NMsesSAC",
+      "name": "ljubljana-zagreb-beograd",
+      "album_type": "album",
+      "release_date": "1993-06-07",
+      "release_year": "1993",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735558ddf51cb0793b3c12e198",
+      "uri": "spotify:album:1jiLNFbUgQBY1Syblum2Mz",
+      "name": "kapital",
+      "album_type": "album",
+      "release_date": "1992",
+      "release_year": "1992",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734061af6136bfae4d39ec84ae",
+      "uri": "spotify:album:62GCoW3CFBlcELIgIot8NC",
+      "name": "macbeth",
+      "album_type": "single",
+      "release_date": "1990-01-22",
+      "release_year": "1990",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6768377d76f3bb41d667a16",
+      "uri": "spotify:album:5qrpC6mdylZyr602gK3m9Q",
+      "name": "die liebe - grosste kraft - decree - panorama",
+      "album_type": "single",
+      "release_date": "1989-01-01",
+      "release_year": "1989",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7a048e6eaa63652f79eb3cb",
+      "uri": "spotify:album:6jeYpMKhkDkxApTNJgTipW",
+      "name": "nova akropola",
+      "album_type": "album",
+      "release_date": "1988",
+      "release_year": "1988",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c17caa54e04ec7c1414adca7",
+      "uri": "spotify:album:3LnUSk7OMYkbEWALBhffOw",
+      "name": "bremenmarsch (live,12.10.1987, schlachthof)",
+      "album_type": "album",
+      "release_date": "1987",
+      "release_year": "1987",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b17567b10185d9f13dec89db",
+      "uri": "spotify:album:4twcfWm6GbPoYTjTgW1qad",
+      "name": "nova akropola (expanded edition)",
+      "album_type": "album",
+      "release_date": "1986-01-01",
+      "release_year": "1986",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273945a9530c94b436d3ac96abe",
+      "uri": "spotify:album:43bE1myXO0DxO0VDANPcEz",
+      "name": "rekapitulacija 1980-84",
+      "album_type": "album",
+      "release_date": "1985-05-09",
+      "release_year": "1985",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d703809927e78fa9291b4fb7",
+      "uri": "spotify:album:7umBjKsbxH61yrvlLuc56B",
+      "name": "laibach",
+      "album_type": "album",
+      "release_date": "1985-04-27",
+      "release_year": "1985",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7l4LQfvN4yz8zbK4WY0AAg",
+          "name": "laibach"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:50.000Z"
+}

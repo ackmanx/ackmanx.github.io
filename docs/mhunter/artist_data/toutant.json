@@ -1,0 +1,345 @@
+{
+  "name": "toutant",
+  "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+  "uri": "spotify:artist:4jToJwWL1QJ6Tgs43MRuGn",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd60661de750c4a3565fd0ce7",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358d355d7adfa7122da1a978f",
+      "uri": "spotify:album:0ixgXjpmXAK1rJqtoWQuxs",
+      "name": "soul",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3bed0603e09a6f368c2a5cf",
+      "uri": "spotify:album:1u1UxPn2YaGGvFCZ4IsAVG",
+      "name": "shout",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273610a6935bb0859877834f623",
+      "uri": "spotify:album:5D53T6oGrlc1bymZNnr1l5",
+      "name": "memories",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375af170a195ba29a73081402",
+      "uri": "spotify:album:2AqhbRraVUNqikh2R9a1dk",
+      "name": "rope",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e03488015169d959cf6bd9",
+      "uri": "spotify:album:6noZjJsuHz8BwkiHfZXidE",
+      "name": "seditious (matteo tura remix)",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        },
+        {
+          "spotify_id": "1GzTHDdcXKLdKUXpild6sa",
+          "name": "noizinski"
+        },
+        {
+          "spotify_id": "4MDRNxNtr5Zwyhgk6TC0ur",
+          "name": "matteo tura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b30e4f9d6cda71522d6b78c",
+      "uri": "spotify:album:7rwZGilAf6bDHossEHOXiB",
+      "name": "drop",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312776c1891a1cc9c696e7f67",
+      "uri": "spotify:album:708tQQkekjZBXrXLwIraxZ",
+      "name": "rebirth ep",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327354cc10224dd67d540ad87",
+      "uri": "spotify:album:1mcW3O43YmA62cl3kiHB71",
+      "name": "harsh",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736666ad21ac5a28ecdfca8688",
+      "uri": "spotify:album:5TgVphJEyvQlPAFH3PNTbN",
+      "name": "by fire (toutant remix)",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7zx5Um40vqELG9joJelSPb",
+          "name": "sierra veins"
+        },
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736da82aef34a7a4fca4c8ce9d",
+      "uri": "spotify:album:7fnLDjJaDbSrxxGou9FmSr",
+      "name": "momentum",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d80fd7be57b30029d14a0eda",
+      "uri": "spotify:album:642zlBemAEPf6id9zZ2B1p",
+      "name": "rise",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5da9877cf673a82188cfe7f",
+      "uri": "spotify:album:0iS2qAz7GOkUaCxmRiPJt3",
+      "name": "is this bird dead",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        },
+        {
+          "spotify_id": "3aBFXrACm2RRorJd68BQwk",
+          "name": "synphic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733222c856d476073ad57ff1d2",
+      "uri": "spotify:album:25eR3zvwica3zMzgfMr4oe",
+      "name": "destination",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a1e5fa4403711cc2d799147",
+      "uri": "spotify:album:07ULIqsGr6ipfe4SQXMvGO",
+      "name": "crude",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d71c5cb963c6c9d7da5c2a0f",
+      "uri": "spotify:album:4caFt1d79E2yzYMDStBjUL",
+      "name": "seditious",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        },
+        {
+          "spotify_id": "1GzTHDdcXKLdKUXpild6sa",
+          "name": "noizinski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3951c8ae740994c885fc99a",
+      "uri": "spotify:album:4xNmZqyLPZf3tzOZcRbwDl",
+      "name": "erosion",
+      "album_type": "single",
+      "release_date": "2021-01-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735494d6a6f306664ef6d19782",
+      "uri": "spotify:album:7inOf7hTBnWBr43nyLb6Zk",
+      "name": "within",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6fda9eea2820a77ab1abb19",
+      "uri": "spotify:album:5cNRUHQ0wANJCGhUn13Upl",
+      "name": "rebirth",
+      "album_type": "single",
+      "release_date": "2018-09-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b206acd051071936af7fedf9",
+      "uri": "spotify:album:1SOyikgyjIspsEgRWv5S0A",
+      "name": "amnhb",
+      "album_type": "single",
+      "release_date": "2018-09-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738444456afa79e4867892cc3d",
+      "uri": "spotify:album:2HhR00AheiLzGquveL8nB8",
+      "name": "chaos",
+      "album_type": "single",
+      "release_date": "2018-03-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc7cedb6ff09d4acd2e65f58",
+      "uri": "spotify:album:4jiGTbVwBUowAw1PmxqkTH",
+      "name": "distor",
+      "album_type": "single",
+      "release_date": "2018-02-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4jToJwWL1QJ6Tgs43MRuGn",
+          "name": "toutant"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:01.000Z"
+}

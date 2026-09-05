@@ -1,0 +1,521 @@
+{
+  "name": "ty.",
+  "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+  "uri": "spotify:artist:2GFsWXpTIn6G1kRjW3RAQX",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc5c5d1bdf297dd7c50e79b99",
+  "genres": [
+    "chinese hip hop",
+    "chinese r&b",
+    "c-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e567edc2eeb0f24bba9e5f3",
+      "uri": "spotify:album:5WdpRNvcgrPNUcOfvb2zu0",
+      "name": "三十五六",
+      "album_type": "album",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376a622d2464ee6ccfff85b34",
+      "uri": "spotify:album:7p4QHxU4BsTNlnZggmrjAK",
+      "name": "這個歌手不太冷",
+      "album_type": "album",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "58f84PWleX9JoHUU4W6p7C",
+          "name": "kkecho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737777e1b862504e002ef50c6f",
+      "uri": "spotify:album:4Ayl1iiMoTnthVN3KkWrjU",
+      "name": "venus",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "58f84PWleX9JoHUU4W6p7C",
+          "name": "kkecho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a263fe98451af2730b59526",
+      "uri": "spotify:album:7ItWGX3ibN3Y6am5Xtc4aB",
+      "name": "发疯",
+      "album_type": "single",
+      "release_date": "2024-07-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "58f84PWleX9JoHUU4W6p7C",
+          "name": "kkecho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368b435de56d11bddcffcc36d",
+      "uri": "spotify:album:62M8eS76FAacRG5br9zUcL",
+      "name": "另一個我",
+      "album_type": "album",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0b150bdda882c86c8751ae1",
+      "uri": "spotify:album:7tzxOeEDGlHMMZ2cRguAOK",
+      "name": "煙火正傳",
+      "album_type": "album",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f13b63f34a8da9db46ad4353",
+      "uri": "spotify:album:3eVwD9esO7j4sHUa6LnvJL",
+      "name": "一天比一天",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348ea388f1588d33cac3b5b95",
+      "uri": "spotify:album:1F4SZAMz4g8YJhwz2bT0Tk",
+      "name": "說拜拜",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "5RDc1XN9Dj5KcNGPMEhtzN",
+          "name": "knowknow"
+        },
+        {
+          "spotify_id": "1m4PLF4txR3ykHKa3uVWcd",
+          "name": "石玺彤"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d15f132dc8562eba20c0a7e",
+      "uri": "spotify:album:3TskrOhkmjlKfBdo7Cofxo",
+      "name": "買嘛買",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273865d7a0bb32971c135a38247",
+      "uri": "spotify:album:0k0R7QZFoPVmTZmoOWGU0g",
+      "name": "2 phút hơn (kaiz remix)",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "47CxuOSQXSPpW6oAy4UZec",
+          "name": "pháo"
+        },
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "5Oy8zRNFImMUeoAxjbT7Bj",
+          "name": "kaiz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731eeda0b933466d43a21feba9",
+      "uri": "spotify:album:3GVEsQVQdOwnK99q8Y5kXb",
+      "name": "最新西部愛情",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "6n8yGGsqYQhvH412YUbBsd",
+          "name": "nathan hartono"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355773076648d3f63c61d980d",
+      "uri": "spotify:album:62FidUzMZdDp0yWTPRzRmv",
+      "name": "朝九晚五",
+      "album_type": "album",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f885b914c0618708abcbbc94",
+      "uri": "spotify:album:5s6j5lzVMbVmniRlqrjLWX",
+      "name": "該睡的睡 該醒的醒",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "3FpGegUfBRYiws8Ww49Y1j",
+          "name": "yitai wang"
+        },
+        {
+          "spotify_id": "4RNIsIsoiSbSAWapBf9q0w",
+          "name": "mengzi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328ccc5eacadb4c2010e0400b",
+      "uri": "spotify:album:2wRdqq54FOHYUspwnyL9AY",
+      "name": "冷空氣",
+      "album_type": "single",
+      "release_date": "2021-01-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273754b9d732c64fb499b7c2f2b",
+      "uri": "spotify:album:51Cmq7spsblUgC1WF9zdBm",
+      "name": "新西部愛情",
+      "album_type": "single",
+      "release_date": "2021-01-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "6LUarizJpinCjQ7VBpbpjd",
+          "name": "ansrj"
+        },
+        {
+          "spotify_id": "58otHHRTEW3gIukEqXs5Wz",
+          "name": "dj chronic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5c3e25af932f428d4796130",
+      "uri": "spotify:album:6L86fYNFnitxcoLdGoYFZC",
+      "name": "沒取名的歌",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e491439a533708f646484e0",
+      "uri": "spotify:album:5HdKr98sK6dninhtCBZi2m",
+      "name": "they can't",
+      "album_type": "single",
+      "release_date": "2020-05-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375f9e47b573ad940e778267d",
+      "uri": "spotify:album:3PvhNBMnsvXrcc40RLTZwn",
+      "name": "miss me",
+      "album_type": "single",
+      "release_date": "2019-12-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "175Ae8zwe9vchnzhL1FNxg",
+          "name": "王鹤棣"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2a8fc799bdaaed9d1aaa9f1",
+      "uri": "spotify:album:3gCKNcpMfrKjFHhyStgPEd",
+      "name": "勾肩搭背",
+      "album_type": "album",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369eec025f1b6eec881e0ce0f",
+      "uri": "spotify:album:2EfMP3RCLAupZmSLroX7gN",
+      "name": "高級愛情故事",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "6Tb7rIkmSTWzv0E10QesJQ",
+          "name": "邓典果ddg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dd3433df94ff8e1beb32664",
+      "uri": "spotify:album:1sEhYF51QJal4xN9gHm9EB",
+      "name": "爸爸媽媽",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "1DX1BTuOtTlnimA0pFtUao",
+          "name": "李爾新"
+        },
+        {
+          "spotify_id": "6Tb7rIkmSTWzv0E10QesJQ",
+          "name": "邓典果ddg"
+        },
+        {
+          "spotify_id": "2EGblO3Zjp1JonjHzAy7h5",
+          "name": "sachi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b98878fb48c8f7a18ecf383",
+      "uri": "spotify:album:2BKMXhr4tIPZrfT2dJIpCg",
+      "name": "安多芬",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6dda29addd14e3661beef66",
+      "uri": "spotify:album:6N6eFEt6TkmrF1K18E4a5Q",
+      "name": "功成名就",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347ae613914940b9cab1c890f",
+      "uri": "spotify:album:4T6uuZq6W9P4FeGyaR0VBN",
+      "name": "20 feat. 王心凌",
+      "album_type": "single",
+      "release_date": "2018-01-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343848b2c4247f17f51664dbd",
+      "uri": "spotify:album:6mm79fZllQRJgAt3hxrrwA",
+      "name": "瞎子，懦夫，xxx",
+      "album_type": "single",
+      "release_date": "2017-12-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb96546f19516ba672b10867",
+      "uri": "spotify:album:4OdUbSx7TmAie62sVEcXwF",
+      "name": "h",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe946af9087191b2f05d2aa6",
+      "uri": "spotify:album:1sRa1pE4XuTQvAK10LYs8t",
+      "name": "1989 dancing remix",
+      "album_type": "single",
+      "release_date": "2017-10-11",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273256b767724ca792d4cc80e2e",
+      "uri": "spotify:album:3NlBbZrdITwQbyi79jTGS2",
+      "name": "誰的錯",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a5b0bb749d4c918a9a2e239",
+      "uri": "spotify:album:5l3pbzCYIqgYR2NIm3OkT7",
+      "name": "1989",
+      "album_type": "album",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:46.000Z"
+}

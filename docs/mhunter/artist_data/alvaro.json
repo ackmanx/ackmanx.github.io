@@ -1,0 +1,816 @@
+{
+  "name": "alvaro",
+  "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+  "uri": "spotify:artist:20mCdWSz6PqFQof9gFFJ1r",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb02ab14bab6ea20d9108ee756",
+  "genres": [
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321521a1956a2d93360090b65",
+      "uri": "spotify:album:4aUXgBBG894805naP5K5rH",
+      "name": "ganja",
+      "album_type": "single",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0iDBD558yJl5IfRXg9Yfwt",
+          "name": "etc!etc!"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "4eubQnUM4b5sGZoi3fSRV3",
+          "name": "sanjin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee404b8cdee3c680a55cc2fa",
+      "uri": "spotify:album:5CE81WZnRwTrXYOcrUEhrR",
+      "name": "ganja",
+      "album_type": "single",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0iDBD558yJl5IfRXg9Yfwt",
+          "name": "etc!etc!"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "4eubQnUM4b5sGZoi3fSRV3",
+          "name": "sanjin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c1cfaa3be1d6fac21144e56",
+      "uri": "spotify:album:2ffKYaNSuJeGcf03QTfRFp",
+      "name": "beatback",
+      "album_type": "single",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ngc403KEvIhqq8rliTPgL",
+          "name": "dani l. mebius"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1eeb67806120ddbbbc81fb8",
+      "uri": "spotify:album:0rVekbhTDAxOjW3mLUDgHP",
+      "name": "no way",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273587e5a61023742551e385fc1",
+      "uri": "spotify:album:6fWigka6AgHG2KOiDhVE1G",
+      "name": "runaway",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732953baa04b06556f6f58de8e",
+      "uri": "spotify:album:1aSKyiNKys7SXwx199hd5q",
+      "name": "watching you",
+      "album_type": "single",
+      "release_date": "2017-03-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "6jPriOYMyUL9kNonBI1CNd",
+          "name": "faustix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273882ffc470dab5e0d993beed6",
+      "uri": "spotify:album:1XeOkx5H1e5MLjAEhSFlhp",
+      "name": "lights out",
+      "album_type": "single",
+      "release_date": "2016-11-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "the partysquad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b29977de081bf0c6ad0533b6",
+      "uri": "spotify:album:6n3IUvTgLkfNANi91TVide",
+      "name": "the wildlife",
+      "album_type": "single",
+      "release_date": "2016-09-23",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311733ea5465c4412300a6efc",
+      "uri": "spotify:album:1x7NwJZzxg21L2CAsnypTo",
+      "name": "vegas (jetfire metal trap remix)",
+      "album_type": "single",
+      "release_date": "2016-09-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bf3954ff9f825ec5fab445d",
+      "uri": "spotify:album:0CiD3zSq9oLnMmqxnzY4n5",
+      "name": "vegas",
+      "album_type": "single",
+      "release_date": "2016-08-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ca03c78506f4b7d6cffb2f7",
+      "uri": "spotify:album:5pZ1kBk9G6KZAMgZ3n8xCh",
+      "name": "mtts",
+      "album_type": "single",
+      "release_date": "2016-07-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "6707QL4RZ9dwtd1PtELnbz",
+          "name": "reid stefan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d92fddd4671ad6ca127f960",
+      "uri": "spotify:album:38Q9uacwnsc38gJ8FdtSbe",
+      "name": "in mijn systeem (feat. jebroer)",
+      "album_type": "single",
+      "release_date": "2016-05-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "5WuoHUDzojO8oto22ahnwN",
+          "name": "lady bee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b69d2eabea4356b5bad9fde",
+      "uri": "spotify:album:00ka4rb9ZmuqhsG3DI2SIW",
+      "name": "take u",
+      "album_type": "single",
+      "release_date": "2015-07-27",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "7s8qj3Bzbzoyw1t1y88GuX",
+          "name": "d-wayne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373a6eb6df8b17952d971aaee",
+      "uri": "spotify:album:2PtyUxVvBHPBfuSmrlfOlG",
+      "name": "brah",
+      "album_type": "single",
+      "release_date": "2015-06-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PC3QVYzOPekKLIppjFUoi",
+          "name": "dirtcaps"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1faabe2e99f8fdff4ed0543",
+      "uri": "spotify:album:7kREEGDWIlNCfV9XntIeIc",
+      "name": "brah",
+      "album_type": "single",
+      "release_date": "2015-06-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2PC3QVYzOPekKLIppjFUoi",
+          "name": "dirtcaps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a64f3c749889bcecd085aab3",
+      "uri": "spotify:album:1tSRrchFCl6gxXoWwwxEoj",
+      "name": "fire",
+      "album_type": "single",
+      "release_date": "2015-04-28",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "4b2v3PBjJJCF2BX14lIAsT",
+          "name": "wiwek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2dc6ff6f06173d8f1e2bb32",
+      "uri": "spotify:album:6Fb8LAgi13CPOnxrcZpVQX",
+      "name": "guest list",
+      "album_type": "single",
+      "release_date": "2015-04-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab198663011b4b1035a0ef25",
+      "uri": "spotify:album:62zXkaD8XDKUcpY06EbTcU",
+      "name": "guest list (extended mix)",
+      "album_type": "single",
+      "release_date": "2015-04-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273403074439c8a0645812d342a",
+      "uri": "spotify:album:3KlPgutRESVdhNxYmECgtA",
+      "name": "6th gear (remixes)",
+      "album_type": "single",
+      "release_date": "2015-02-03",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "diplo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb982af011db4b4238adcb67",
+      "uri": "spotify:album:6ijv8qglDg7kjQMsCdHFs5",
+      "name": "the underground (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-10-27",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273753126e4d44d9f66c36db75a",
+      "uri": "spotify:album:3x87TCQdPPko0vJnEpjOKi",
+      "name": "oldskool",
+      "album_type": "single",
+      "release_date": "2014-10-20",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "1i6FKazZ9bYMnWNh5xDuge",
+          "name": "van dalen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de22224398cc6ea6ec8647b7",
+      "uri": "spotify:album:2V53swjgn6Rt5dPUvPy82o",
+      "name": "dagga",
+      "album_type": "single",
+      "release_date": "2014-09-15",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2PC3QVYzOPekKLIppjFUoi",
+          "name": "dirtcaps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362aca30365fc28b330be2f87",
+      "uri": "spotify:album:7z9ISxF4HjBtCfa1opPYtm",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2014-07-07",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397903631b90ce73b358605c2",
+      "uri": "spotify:album:2y8VLD1KMVlOwu29BXfNPq",
+      "name": "shades",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e0b08cb20bf327d34df0e7e",
+      "uri": "spotify:album:1lXCpOLjFuM9MkvcS8jpdp",
+      "name": "charged",
+      "album_type": "single",
+      "release_date": "2014-02-28",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2gLZZdgHD8ZbSAB2qQkr3P",
+          "name": "glowinthedark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aeccdc435f692c3f22ad867b",
+      "uri": "spotify:album:4OG93VyV3g3VMKUjIpttnU",
+      "name": "ready for action",
+      "album_type": "single",
+      "release_date": "2014-01-31",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273100bcd5a39c122b320084bda",
+      "uri": "spotify:album:5YhlXU2CTgnt0S6DUQHjV0",
+      "name": "world in our hands (blasterjaxx remix)",
+      "album_type": "single",
+      "release_date": "2014-01-06",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e110bd203f87465677fbc71b",
+      "uri": "spotify:album:5ohPOxQsUe6HVWP5bcbCIt",
+      "name": "out of control",
+      "album_type": "single",
+      "release_date": "2013-12-09",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Q5wmgUdwSVAKa7VZsGckB",
+          "name": "tst"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335ba4e88dafec96bdb01e8cd",
+      "uri": "spotify:album:1nIqhnqSbVxnGkgBB7TL8f",
+      "name": "welcome to the jungle",
+      "album_type": "single",
+      "release_date": "2013-07-22",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "7aSsnDTH11xS2yIn6cNtsF",
+          "name": "mercer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314d15021aa35d50a0ffebfa4",
+      "uri": "spotify:album:5PtJtZN9TxE1vPjKc4J9m9",
+      "name": "nanana",
+      "album_type": "single",
+      "release_date": "2013-06-03",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd0e19020d191d7f26f45467",
+      "uri": "spotify:album:1EFkRNikrBi8qQaDTOoX5o",
+      "name": "world in our hands",
+      "album_type": "single",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e875e0d2eb14387c9b364d",
+      "uri": "spotify:album:4Pls43e02ChnFIzeDHPT0a",
+      "name": "rock music",
+      "album_type": "single",
+      "release_date": "2013-03-11",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d1d0a06d1f77967860ffc59",
+      "uri": "spotify:album:5E4PkrObuz05h8vWovb4k6",
+      "name": "make me jump",
+      "album_type": "single",
+      "release_date": "2012-12-03",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731af437832e44a0186d85ca42",
+      "uri": "spotify:album:4ljk5cvzBzw9Dc2ad1NdpI",
+      "name": "make the crowd go",
+      "album_type": "single",
+      "release_date": "2012-11-09",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fda8176bc958f90f1af8fe0",
+      "uri": "spotify:album:6eu8kYr9eeIkHimRpwGm25",
+      "name": "pay attention to the drums",
+      "album_type": "single",
+      "release_date": "2012-09-24",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc4d97497e9bdf5bd6428a68",
+      "uri": "spotify:album:7k7T0p0J1ufTJ8Y4uUu6SH",
+      "name": "voodoo people",
+      "album_type": "single",
+      "release_date": "2012-08-06",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ef90e1c66f66901b1cb33e1",
+      "uri": "spotify:album:6jp6pUwpvSnYQiivYzojqP",
+      "name": "wataah",
+      "album_type": "single",
+      "release_date": "2012-03-26",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "the partysquad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273517a72437aeb7753b38c3547",
+      "uri": "spotify:album:4vKUEy0yfbVPrYXqboQN7e",
+      "name": "ready 4 this",
+      "album_type": "single",
+      "release_date": "2011-07-25",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "2bPh6UXbS7wZ7tyN35kFEG",
+          "name": "artistic raw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e190280c0ed98ca44e5c577f",
+      "uri": "spotify:album:1eopeWAT9sxUlodtXVBh4f",
+      "name": "cubata (remixes)",
+      "album_type": "single",
+      "release_date": "2011-03-29",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "13KoZTYlvSSxxuWujqSE6d",
+          "name": "punish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359f6ad0682b97de0d43271bb",
+      "uri": "spotify:album:73Lpd6rUZWBsZ8ad2GeUpb",
+      "name": "dubbelfrisss (the remixes)",
+      "album_type": "single",
+      "release_date": "2010-12-14",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "3wtMPMvPtiFylbnNXF6CAj",
+          "name": "afro bros"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f6c7996ec69e9cbca79fd5f",
+      "uri": "spotify:album:3srR7hEI5CJwtIGAEIZDkO",
+      "name": "can you feel it",
+      "album_type": "single",
+      "release_date": "2010-07-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa531f8f709000219b75e22d",
+      "uri": "spotify:album:3qHm30eqwsMrjKxoEAP4uH",
+      "name": "dubbelfrisss",
+      "album_type": "single",
+      "release_date": "2010-05-18",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        },
+        {
+          "spotify_id": "3wtMPMvPtiFylbnNXF6CAj",
+          "name": "afro bros"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ac293b97dfa29c5ad8158c4",
+      "uri": "spotify:album:3QDP59yVLO6oUZjSILwOpq",
+      "name": "ultimate rise - ep",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354a71651a57fc12f963d8690",
+      "uri": "spotify:album:3gjorYOugjtFLrbLfXHnDd",
+      "name": "get busy",
+      "album_type": "single",
+      "release_date": "2003-05-17",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6psB1zJsm2iPGCXFUH03Hy",
+          "name": "gambas"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:27.000Z"
+}

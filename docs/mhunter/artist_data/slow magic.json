@@ -1,0 +1,1336 @@
+{
+  "name": "slow magic",
+  "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+  "uri": "spotify:artist:3htNAy3vYWWYV8RZFeyRMT",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8663012d3fe9d9da0eb43604",
+  "genres": [
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b5044a158c5b6ee29db48e0",
+      "uri": "spotify:album:50W8c8rHziKpXdvCSDFMek",
+      "name": "emotion engine",
+      "album_type": "album",
+      "release_date": "2026-08-05",
+      "release_year": "2026",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b59e015f9f2d66dd87116407",
+      "uri": "spotify:album:1D0jl9BsqqD962AhOaP1YG",
+      "name": "need u",
+      "album_type": "single",
+      "release_date": "2026-07-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "5Kbx8AkkM7259YdQh4rTdX",
+          "name": "a beacon school"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d63cca17a328d39ee59fcc08",
+      "uri": "spotify:album:4aeGgjU2eaxHUKmTvtDyWp",
+      "name": "half alive",
+      "album_type": "single",
+      "release_date": "2026-06-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "6xLeeQEqxKiq6mXCgvFKSg",
+          "name": "artemis orion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f79e2dbc6bb504ff7b873db",
+      "uri": "spotify:album:2ngmy6XvTL15OZySTzQfu7",
+      "name": "hanami",
+      "album_type": "single",
+      "release_date": "2026-05-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "0stmdx2IonUUUIlWQ9bLYZ",
+          "name": "yutaka hirasaka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351978db30dc2cd9424e1757e",
+      "uri": "spotify:album:0GnoMBEcxV3vToeNvEGGuY",
+      "name": "end credits",
+      "album_type": "single",
+      "release_date": "2026-04-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3Qy1IxDSU8SLpUUOfbOpxM",
+          "name": "the chain gang of 1974"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb395e2deaf5bd4a8a86df68",
+      "uri": "spotify:album:5P836uMUIRAEaLgeKNeFtz",
+      "name": "lost",
+      "album_type": "single",
+      "release_date": "2026-03-18",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fde53210ef37a9d7511cf37",
+      "uri": "spotify:album:2m9kwRnk3Ao8yEyiFG6h3N",
+      "name": "such great heights",
+      "album_type": "single",
+      "release_date": "2025-12-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3X2IBRuHkUlqC1mcMglSpa",
+          "name": "kenneth takanami"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cbfe89ed08131f4ff540442",
+      "uri": "spotify:album:6mmuDcZeQaGLl4LMtYFDbJ",
+      "name": "heart/scars",
+      "album_type": "single",
+      "release_date": "2025-09-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3X2IBRuHkUlqC1mcMglSpa",
+          "name": "kenneth takanami"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273652619d5a200dcb4730a2086",
+      "uri": "spotify:album:77I6SPJYTyBuuIkjs6Eetq",
+      "name": "how to run away - 10 year bonus disk",
+      "album_type": "album",
+      "release_date": "2024-09-12",
+      "release_year": "2024",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd627783789ebb7cb1263f5e",
+      "uri": "spotify:album:1DZeCYqDqswBGh6YGmRIB7",
+      "name": "let u go",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "1pzA9y3iQsvZK1hfVWTQRd",
+          "name": "nina de freitas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e039d2cc84d06b7efda4a0d4",
+      "uri": "spotify:album:1Wp3nivOj1034mx9oqBNo2",
+      "name": "waited 4 u (disco lines remix)",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "5Kmr0b3ip8g9P2i0dLTC3Z",
+          "name": "disco lines"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f69eccbe39aecf6c8e2fc877",
+      "uri": "spotify:album:5HJzssmcb9Vh4G12E1wROW",
+      "name": "pointillism (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6OgMBOUaAfkEfWkEFkXpbL",
+          "name": "geller"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733eb2e0575dcd3aedd2997830",
+      "uri": "spotify:album:3lGFpCPZI2aDRMl2uQypGi",
+      "name": "girls (live)",
+      "album_type": "single",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341ce605fa82605c58c51569c",
+      "uri": "spotify:album:2s0RcgrVDUmIvH74NkvnBl",
+      "name": "waited 4 u (phantoms remix)",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "1bJJlRHoc1UVeqzxcrPLIw",
+          "name": "phantoms"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733382d798de79f2ed9e3d3a71",
+      "uri": "spotify:album:4Tw8A51yCuX1Slnhs6BC75",
+      "name": "nightmare (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "68WwJXWrpo1yVOOIZjLSeT",
+          "name": "evalyn"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361ac8bdbea3d0b8b73e49aad",
+      "uri": "spotify:album:4vK9XRgN1Cp4zSCfujHvnn",
+      "name": "forgotten feels (deluxe)",
+      "album_type": "album",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dabc4331156e3bb09b88470",
+      "uri": "spotify:album:65Qp0I8uDysKMCUKrsVynv",
+      "name": "connection (olan remix)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "4YUBqnGDhH4JphZIhi9cdB",
+          "name": "laxcity"
+        },
+        {
+          "spotify_id": "1gMMbPTZtOb9W3IBYl6twO",
+          "name": "olan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308a4c312f45d0c6e84a2bdec",
+      "uri": "spotify:album:1eiJARfKYVFTdawmtsPWel",
+      "name": "solitude (qrtr remix)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "2THXZEfcOePL7bRFl2DUwj",
+          "name": "qrtr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327f1f2e1603a17bbe92ae82d",
+      "uri": "spotify:album:3f8hImasireKyslXwPlfrL",
+      "name": "avoiding pain (mayari. remix)",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3wPoE2gIk83VpDRlBs5bR9",
+          "name": "mayari."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d647c989f7c1c41a1d4df31",
+      "uri": "spotify:album:31So2NHtqStL4tTATq7NNk",
+      "name": "ocean view (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3OqimSn68hatcBU1Eq4Ujc",
+          "name": "millionyoung"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d7430fd92beac589c0b85c3",
+      "uri": "spotify:album:5zS3jRjbfKAlFEESscjMNK",
+      "name": "pour it out",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "7ecriBfYo3KBxbNspB0Tcc",
+          "name": "beacon bloom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273690ae1dcb1c6da0f605da95e",
+      "uri": "spotify:album:4UQ2Y3eAds34cCbtgruAma",
+      "name": "human nature (saint sinner remix)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "0DoWlk1NzQp1VWVFtZOb8Y",
+          "name": "saint sinner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399acc66a30c91a20ee501910",
+      "uri": "spotify:album:1XHSrFR9VV4Yc2llQdVMgA",
+      "name": "forgotten feels",
+      "album_type": "album",
+      "release_date": "2023-07-13",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342b669ca4661735b505d40b0",
+      "uri": "spotify:album:410jHKJ6q3i8V5dhJzDT8P",
+      "name": "emotions",
+      "album_type": "single",
+      "release_date": "2023-07-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "2ixBQngmF4ZFXYHi8sJTfl",
+          "name": "juuku"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343ce41e1ccf74f81049ff58f",
+      "uri": "spotify:album:6bi8u9QUWXCYW8w9IT88D3",
+      "name": "connection",
+      "album_type": "single",
+      "release_date": "2023-06-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "4YUBqnGDhH4JphZIhi9cdB",
+          "name": "laxcity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357dc662b73290adbb206ae8f",
+      "uri": "spotify:album:4H57gAzcBcaUAb4ua9H3zD",
+      "name": "avoiding pain",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e166eb444cb6b45894f4118a",
+      "uri": "spotify:album:2hht9wlfCGtRg5tulQbDYn",
+      "name": "eternal sunshine (deluxe)",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2416d41b8050dcec8d385f9",
+      "uri": "spotify:album:5LDtrTTKN8OXPejoAoYYRp",
+      "name": "don't look down (feat. lizzy land) [slow magic remix]",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0jNDKefhfSbLR9sFvcPLHo",
+          "name": "san holo"
+        },
+        {
+          "spotify_id": "1Cg7AdS9hOJBqmGUdbQ6Ux",
+          "name": "lizzy land"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d5dc4e8a71b6642257108f1",
+      "uri": "spotify:album:6VFLaB5DMyBpQSXM11hkJT",
+      "name": "eternal sunshine",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc1b5f58ed917cbddd390644",
+      "uri": "spotify:album:2WpBMTSYOS1A3c326ysiHS",
+      "name": "human nature",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e26013ff18d34404eeba1cdf",
+      "uri": "spotify:album:5cfCezyNgrtGrnc4duMjxf",
+      "name": "222",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d833669e8aa75b8824302d03",
+      "uri": "spotify:album:50AlvFldQdwo3unRnI74Wi",
+      "name": "▲ (10 year edition)",
+      "album_type": "album",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0fe79f09ace32de1deafb8b",
+      "uri": "spotify:album:66UlXFi55L7vG7K1tW2K0H",
+      "name": "corvette cassette (a.l.i.s.o.n remix)",
+      "album_type": "single",
+      "release_date": "2022-05-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3gi5McAv9c0qTjJ5jSmbL0",
+          "name": "a.l.i.s.o.n"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e1604889ba23a3f6ff81490",
+      "uri": "spotify:album:7rfoojq4ztmqSRJvhQTcFh",
+      "name": "feel flows (vindata remix)",
+      "album_type": "single",
+      "release_date": "2022-04-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "1Vxf1UfzcxqzqItoOA0DDT",
+          "name": "vindata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df66a0ddae6da84e1df14f68",
+      "uri": "spotify:album:2PIshbxgCmpan3Q36Q3DFd",
+      "name": "confidence (feat. jon waltz) [slow magic remix]",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5rXanKVc707nhQmW1Is2pB",
+          "name": "jimi somewhere"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273311d59d30893d27994b45844",
+      "uri": "spotify:album:0HgzxRbs60fJGk6ynToiOB",
+      "name": "jupiter (slow magic juno remix)",
+      "album_type": "single",
+      "release_date": "2021-11-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3rMDCvvekRMD0WON14PwqO",
+          "name": "kunzite"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fdc249a45b09e0a8273e9ad",
+      "uri": "spotify:album:5RwDOZtBt9OT5mf4t0UUR5",
+      "name": "open",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a77a75fbdae86ac887c9ab6e",
+      "uri": "spotify:album:25NhSoEdVpryu2JrwRvgxH",
+      "name": "true",
+      "album_type": "single",
+      "release_date": "2021-05-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "42fEWzNRUzIImFgC85AdgU",
+          "name": "foreign family collective"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342cb7fab0ca2b10bd9194bec",
+      "uri": "spotify:album:6PYr8mayMSjNS2L2D7Y3dU",
+      "name": "breathless (remixes)",
+      "album_type": "single",
+      "release_date": "2021-04-23",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732eb192415aff65a34c7d9d25",
+      "uri": "spotify:album:0ruPz4FzoJfEl55fZ1LiQx",
+      "name": "pick your battles (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273871613a1c0cc7a9758af21b2",
+      "uri": "spotify:album:3cbeFYimUIxDvG9XKbJL4H",
+      "name": "somewhere (acoustic)",
+      "album_type": "single",
+      "release_date": "2021-03-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "605gPp803tctd6QXg6pOR2",
+          "name": "woven in hiatus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d137463389908751c18b3459",
+      "uri": "spotify:album:3Mg2tQAPEC2ZU17lTaNweM",
+      "name": "home (covex remix)",
+      "album_type": "single",
+      "release_date": "2021-03-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "2BlB5MW4WdyyglpczlQ6Mm",
+          "name": "covex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa81b18ce4d040f45dc1c4c3",
+      "uri": "spotify:album:5dUavvblGhKnJG5sApdkSY",
+      "name": "closer 2 u (remixes)",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734edbf7cb5dfc974e6c6dfb1f",
+      "uri": "spotify:album:3PjgTGpKjeQU5qwfdnuSXe",
+      "name": "closer 2 u (ukiyo remix)",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "0Geqa2iYzhQA5oVKUWuu0x",
+          "name": "ukiyo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c906d925354586c7ee8ebc0",
+      "uri": "spotify:album:62PLeXBXAAo4eRR3a8lKIs",
+      "name": "it's the end of the world, but it's ok",
+      "album_type": "album",
+      "release_date": "2020-12-09",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7ce154a051fbca3e6887b0c",
+      "uri": "spotify:album:3xrvtxtPNeShv1CBEEtHGO",
+      "name": "breathless",
+      "album_type": "single",
+      "release_date": "2020-11-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b919d3fe902ab2e0afede447",
+      "uri": "spotify:album:4kPIEamKz1YJi9KedoT2DG",
+      "name": "carry on",
+      "album_type": "single",
+      "release_date": "2020-10-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "2JSBQeazRlk0kVp2gelwbZ",
+          "name": "paperwhite"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732411c1948282fde1daa40450",
+      "uri": "spotify:album:0RVsK3eIw5offkE4ZvuFrC",
+      "name": "bad to myself (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Qnx1MPnHYt3jJCYrRFVwX",
+          "name": "greyson chance"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9216c3559f6536b218e097f",
+      "uri": "spotify:album:3dyGiopnLG7kcOQHnEJrda",
+      "name": "bbaacckk && ffoorrtthh (slow magic edit)",
+      "album_type": "single",
+      "release_date": "2020-09-03",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4KEI2PqhlvbAdqlolRTTrp",
+          "name": "sun glitters"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d2c56d57ca4166ab6819cdd",
+      "uri": "spotify:album:1vhaDLeLxyd3aGzzxE9baX",
+      "name": "closer 2 u",
+      "album_type": "single",
+      "release_date": "2020-08-19",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b2f126335740840da90e91",
+      "uri": "spotify:album:0L1IUuCktfMTxsA0lAGy9T",
+      "name": "closer 2 u",
+      "album_type": "single",
+      "release_date": "2020-07-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "4EukMPjtYsdi87lkU1hIxN",
+          "name": "manila killa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d3993df2648525f74693c14",
+      "uri": "spotify:album:62Gq1bT19nuZndCGOnyJRn",
+      "name": "somewhere",
+      "album_type": "single",
+      "release_date": "2020-07-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed0ce76c0921ae1323650591",
+      "uri": "spotify:album:4fell0x3dC1Tktq3ml1fmS",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e52f2ce08d2c36af07b3790",
+      "uri": "spotify:album:7cZ63oKmWwCSFMybQrbZO3",
+      "name": "dreams",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe22191cca655bc3178e8bfd",
+      "uri": "spotify:album:41y5GNKzc6VdFgvsU2YdqW",
+      "name": "with you (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2019-12-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7aUSp5cOZlwEtd5zPC795k",
+          "name": "haywyre"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cea5325346f08cb5516da393",
+      "uri": "spotify:album:0BSJIzeqWm3VY2SUv7ICRL",
+      "name": "dreams, pt. ii",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273137ad9734c0acc53ac42342a",
+      "uri": "spotify:album:45MYsts0ayIEzzdv19pcmq",
+      "name": "girls (dj clap remix)",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "73bEE8Rei0WBIeCtv2AjrG",
+          "name": "dj clap"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303e72bab0cdbba41d0aa8517",
+      "uri": "spotify:album:7FdUs4wLeIKjQKsPeDZxu0",
+      "name": "drastic measures (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2019-09-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BbqU3r1G2mwkRIfIbkCek",
+          "name": "bayonne"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ed65450cd55cc061dd1515b",
+      "uri": "spotify:album:7lURujazYAgOLwhCr5N8gQ",
+      "name": "dreams, pt. i",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f57edae073ac0a37804fdad0",
+      "uri": "spotify:album:18yorzHt5KjF81WwAARdtD",
+      "name": "motives (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "14byx2nRysWNtgauCXscKT",
+          "name": "pls&ty"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273301b828ebc5302f237c8c86d",
+      "uri": "spotify:album:1CmP5QY8JrKJLzpMfDzOUX",
+      "name": "wake up call (slow magic remix)",
+      "album_type": "single",
+      "release_date": "2019-03-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4EukMPjtYsdi87lkU1hIxN",
+          "name": "manila killa"
+        },
+        {
+          "spotify_id": "4qOzMSukiZoiSjPQw8Zs7s",
+          "name": "mansionair"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273397ae816bf0893bc18204374",
+      "uri": "spotify:album:5RuAWJghCVpNS4PTc7HxWG",
+      "name": "live in the moment (hook n sling x slow magic remix)",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4kI8Ie27vjvonwaB2ePh8T",
+          "name": "portugal. the man"
+        },
+        {
+          "spotify_id": "3iN9k8uvm4WrgdlOigOH8D",
+          "name": "hook n sling"
+        },
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea68c6e0185e8e105bf36444",
+      "uri": "spotify:album:3JUPN38xFV8Ir6NfGa30Ff",
+      "name": "away",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391ab75df23ef697bb4edd65f",
+      "uri": "spotify:album:0LlMs55qrdIq92ezmR2SmV",
+      "name": "wildfire (remixes)",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be24d38d79169fbccc77efe1",
+      "uri": "spotify:album:7Hfp1Bm7802ScIcRptplpC",
+      "name": "drum (ian chang remix)",
+      "album_type": "single",
+      "release_date": "2017-12-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273118170193d49ce35f63ed53f",
+      "uri": "spotify:album:6Z6RYo6pi44anrrXjUWtfm",
+      "name": "shivers (feat. mndr) [carpainter remix]",
+      "album_type": "single",
+      "release_date": "2017-12-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf6c25e853a9c8b48a89634e",
+      "uri": "spotify:album:7IPfn0SXbmAXmOa4KT56ml",
+      "name": "drum (johnlukeirl remix)",
+      "album_type": "single",
+      "release_date": "2017-11-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca6d6121636fb657f89cd868",
+      "uri": "spotify:album:42aEMHk7C86z7CFojEx3kw",
+      "name": "mind (feat. kate boy) [academy garden remix]",
+      "album_type": "single",
+      "release_date": "2017-11-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c03580f8af51bcf929636c3",
+      "uri": "spotify:album:427gNvpRODf5iNudUcjHpR",
+      "name": "light (feat. tropics) [omniboi remix]",
+      "album_type": "single",
+      "release_date": "2017-11-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383963d0b04d1911805304207",
+      "uri": "spotify:album:0GG6YF7xy8vJMHE89ov6Jq",
+      "name": "light (feat. tropics) [qrion remix]",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0247dced275c1658bca6a69",
+      "uri": "spotify:album:1V3ptMc0B1mvw7gYNL2NOa",
+      "name": "belong 2 me (sunset edit)",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273834ccc7416183c37a9888625",
+      "uri": "spotify:album:26AeWttf0K5thhutWWJp6B",
+      "name": "float",
+      "album_type": "album",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351a6843f755fada70c22b426",
+      "uri": "spotify:album:69EDxyXMUrcN8yMx3Ti7k0",
+      "name": "mind (tomggg remix)",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736fbd1e3ee0a17ccc132feae5",
+      "uri": "spotify:album:75dr5wvmLD9RR8czjATNxs",
+      "name": "waited 4 u (odesza remix)",
+      "album_type": "single",
+      "release_date": "2014-11-12",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        },
+        {
+          "spotify_id": "21mKp7DqtSNHhCAU2ugvUw",
+          "name": "odesza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735df8579a6c24b8dbc49b4461",
+      "uri": "spotify:album:3gYLhlnKLZoi7y0krHHzQ2",
+      "name": "how to run away",
+      "album_type": "album",
+      "release_date": "2014-09-09",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d17b4a9a735ea18103b908d0",
+      "uri": "spotify:album:6B54ne5oOeIrQWunmlXrBs",
+      "name": "triangle",
+      "album_type": "album",
+      "release_date": "2012-05-14",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
+          "name": "slow magic"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:56.000Z"
+}

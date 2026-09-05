@@ -1,0 +1,397 @@
+{
+  "name": "kumachan",
+  "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+  "uri": "spotify:artist:5DdhWWd83hbrWLXIVx129X",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6302b690f4bc638dee9856ed",
+  "genres": [
+    "chinese hip hop",
+    "taiwanese pop",
+    "taiwanese indie",
+    "chinese r&b",
+    "chinese indie",
+    "mandopop",
+    "c-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320021ed14ed2b72896a42607",
+      "uri": "spotify:album:5F1p1eHsfI9xyzj3drYBuQ",
+      "name": "十字路口→0（live at 爵犬 joe trane all day, 2024）",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f691f7a696cf992a18d426d7",
+      "uri": "spotify:album:7mSaHo2mQjyksYk3UX0Go2",
+      "name": "520",
+      "album_type": "single",
+      "release_date": "2026-06-02",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b07c747c25b7087368ff7df7",
+      "uri": "spotify:album:1BAeoAsQlhtzHqW4Od9gQi",
+      "name": "∞→0",
+      "album_type": "album",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273044da91093a8f1f4518c386a",
+      "uri": "spotify:album:5X1KPH795xqPu55Oy2G3ZW",
+      "name": "遺書→0 (feat. 血肉果汁機)",
+      "album_type": "single",
+      "release_date": "2025-10-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "78ltY2tUrZpkWJ9CWYGZfl",
+          "name": "flesh juicer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273883e77fce586b15278a55313",
+      "uri": "spotify:album:0csLOutwvMh7KNP9bYNpYC",
+      "name": "十字路口→0 (feat. 阿蘭 ac)",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "4rmyrkHJMMD1i00eFs5jem",
+          "name": "阿蘭 ac"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dff0efed75413d47033b34e5",
+      "uri": "spotify:album:4ZkzaRk810QnJ1rIVJqfXh",
+      "name": "兇宅→0",
+      "album_type": "single",
+      "release_date": "2025-10-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306782677d964bd29a8dbb51f",
+      "uri": "spotify:album:4aHBOWUCtniTmMdeejc315",
+      "name": "《勇氣家族》電視劇原聲帶",
+      "album_type": "single",
+      "release_date": "2024-04-23",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "3XxVdSWDoDukvxYG9aSssX",
+          "name": "陳亞蘭"
+        },
+        {
+          "spotify_id": "2clYc3flufmjrUm1ZUNuJA",
+          "name": "shawn 尚融"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733989b6f19ee332cd3030695b",
+      "uri": "spotify:album:6RhIeIKvIO8zUsRbxj05Q5",
+      "name": "存活 (feat. sowut & br)",
+      "album_type": "single",
+      "release_date": "2023-10-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "7moEUZ6Zu2o5F8XQxQphRn",
+          "name": "sowut"
+        },
+        {
+          "spotify_id": "0joqe7twuxCbFs8VwBKs4K",
+          "name": "br"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4edfebbd81331646004cc02",
+      "uri": "spotify:album:3JEDmspsXFSxbjFC4xPBJB",
+      "name": "流水帳",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e416c48f3aa5adb53d8bbfd",
+      "uri": "spotify:album:1Q43EuhiYA85o0X0CiSyrX",
+      "name": "幾比幾 (feat. 熊仔) [bilibili & disney《正義的算法》片頭曲]",
+      "album_type": "single",
+      "release_date": "2022-06-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3tsoImRDSW4JEcL2CdIUmo",
+          "name": "同理 zunya"
+        },
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7a1ed84adc23266c291e57e",
+      "uri": "spotify:album:34T8LkJ3sKBl1cVXGM6W2k",
+      "name": "pro",
+      "album_type": "album",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8d7f5c474df75aa8b6588d9",
+      "uri": "spotify:album:6gzbEDD68uE4J08XIWm9WB",
+      "name": "自信 (feat. mark pelli & rohan mills)",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "0nhJMRcwWkTzBugKJicOc5",
+          "name": "mark pelli"
+        },
+        {
+          "spotify_id": "68FDtFW7F3cM7FCxTh8XKb",
+          "name": "rohan mills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321ac9cc9efd3c6cd06ae40fb",
+      "uri": "spotify:album:3StiOSCmsQMgouHu3fVuyS",
+      "name": "星座學家 (feat. 9m88)",
+      "album_type": "single",
+      "release_date": "2022-03-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "4PjY2961rc0MHE9zHYWEnH",
+          "name": "9m88"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394c9fee3a264627708d78c02",
+      "uri": "spotify:album:0TzqF9HslGU2B1Fn2WeIHQ",
+      "name": "哥 (feat. popo j & 王aden)",
+      "album_type": "single",
+      "release_date": "2022-02-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "3asn0DBHRjY3cHdlbm5kuu",
+          "name": "popo j"
+        },
+        {
+          "spotify_id": "4ecBfM4xa6ZLDr7P8lsyTV",
+          "name": "王aden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a81dcd0d3220bbe7fc68b4a",
+      "uri": "spotify:album:7lU0FKYIQ1DlA9a6qCnbDE",
+      "name": "憑什麼 (《大嘻哈時代》主題曲)",
+      "album_type": "single",
+      "release_date": "2021-06-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4SXx5pMoj7uGi1WPcZhvXA",
+          "name": "大支"
+        },
+        {
+          "spotify_id": "5Zn94mKQQYVZUvhiIXeXdP",
+          "name": "leo王"
+        },
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c81a28ecf1fec74cd4525e3",
+      "uri": "spotify:album:5kTlDJSCBwQRKla6loRuuH",
+      "name": "88bars",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d96b39d802585e7e5fa39497",
+      "uri": "spotify:album:74kecYYdkeLmaqmm713D4R",
+      "name": "羞羞臉",
+      "album_type": "single",
+      "release_date": "2020-06-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273385cc1b12cec6d71fa46e68c",
+      "uri": "spotify:album:7q5NaZqLwkvOIl9uCBOJ0v",
+      "name": "夢想成真",
+      "album_type": "album",
+      "release_date": "2019-03-21",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "2cS3MQ3NpOrzhn90Ki6zek",
+          "name": "bowz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3ac187fe19d3e276e69641",
+      "uri": "spotify:album:1GKlUfwUk6HzRcKlMaw8eI",
+      "name": "少了你的生活",
+      "album_type": "single",
+      "release_date": "2018-09-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c80976a47f8ab0a0de13b90e",
+      "uri": "spotify:album:7ALDHzc0s8TlCFxw06tS8R",
+      "name": "買榜",
+      "album_type": "single",
+      "release_date": "2017-12-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        },
+        {
+          "spotify_id": "7pSH4sO2lXAxFKF6MkwORv",
+          "name": "julia wu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731284b44bdbd32a3d513690e4",
+      "uri": "spotify:album:4A2Rda8ADnr1QVUeV74LYs",
+      "name": "∞無限",
+      "album_type": "album",
+      "release_date": "2015-07-08",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5DdhWWd83hbrWLXIVx129X",
+          "name": "kumachan"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:37.000Z"
+}

@@ -1,0 +1,4437 @@
+{
+  "name": "hardwell",
+  "spotify_id": "6BrvowZBreEkXzJQMpL174",
+  "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb950dafd5978fad2718f4aeb6",
+  "genres": [
+    "big room",
+    "edm",
+    "progressive house",
+    "electronica"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b035a6af452df083583dc498",
+      "uri": "spotify:album:7CJm3F9qU26oPl30iRx81L",
+      "name": "turn up the bass",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efa016d8783673ac3fe0628a",
+      "uri": "spotify:album:4HgdfeH2IwTfwnIhQrReXN",
+      "name": "bang on the drums",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d4058952999f529be506e66",
+      "uri": "spotify:album:4Qwe9nGJYibRQOIw1607Uf",
+      "name": "hardwell remix ep",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aad120c1ee026a63ce744874",
+      "uri": "spotify:album:2LMVWayQ7N1Z4TzpNxbQQ7",
+      "name": "low",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330c1fbbe2c59557e6832f2a9",
+      "uri": "spotify:album:1kv35nBdNjZ1MHQuK34NZV",
+      "name": "believe",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7mGCESDlw5ChfZQTQ3eUIS",
+          "name": "braev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b29a72a9f102b3e009e93492",
+      "uri": "spotify:album:1eqfKPzwzU8UpehmVx5AG4",
+      "name": "united we are (mark sixma rework)",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        },
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348a217f1fb0fce85c6263662",
+      "uri": "spotify:album:1B8Vuct1eCGz5UWP7FlLIW",
+      "name": "crazy people 2026",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "7tGP2lCt2Xkoc3BCN13NWU",
+          "name": "mr.black"
+        },
+        {
+          "spotify_id": "64nL3MP8zmuLqUq8DDaIKS",
+          "name": "liquid soul"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a36f04cbdf2559baeefceae8",
+      "uri": "spotify:album:6OVERok5uMuuQG0yckDokq",
+      "name": "zonder jou",
+      "album_type": "single",
+      "release_date": "2026-01-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YLlTW9rW7ZCy2cA2u3RYk",
+          "name": "flemming"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734234d3dc11e4e1fd0f6b2731",
+      "uri": "spotify:album:3BC9NG2WazaS7Dcivjs9rF",
+      "name": "no sleep (vivid remix)",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b87078796418814cc6162ca4",
+      "uri": "spotify:album:1atOybtiD07Wvu1nJmaXip",
+      "name": "hardwell & friends vol. 04",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a69b0b368251b0d00d10e88",
+      "uri": "spotify:album:6oYOLYAzpu7Ty5R9mSIVtZ",
+      "name": "lights out",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04Ze9i5w3NXno5DdMNpJZC",
+          "name": "olly james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c83400f5d9ae78cb3fe5e903",
+      "uri": "spotify:album:0vvJGpfaHyZyejMclE080B",
+      "name": "rise again",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8b10e86bc3c0c76cb732665",
+      "uri": "spotify:album:4rwbRBvVsKL96gZQcaHTCT",
+      "name": "the partycrasher",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4x7gxsrTH3gThvSKZPPwaQ",
+          "name": "chuckie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b986ae9e9ee7f6614e5f362",
+      "uri": "spotify:album:22ynWRwFarwFNpZR8mng6H",
+      "name": "not alone",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "dyro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273819825635198cddf3313561a",
+      "uri": "spotify:album:1WjNK142kvDIGBCZlWwbus",
+      "name": "echo (domeno remix)",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7yMAFCnx0clryFBMwaQI3Y",
+          "name": "domeno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730eb2fc9c3c761f2d6a0fd4a3",
+      "uri": "spotify:album:0057TNNKlKuFIE0QaP8OjW",
+      "name": "retrograde 2025",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c9dad5246180c7509213483",
+      "uri": "spotify:album:181ZDba8AtrqMPlB9UbcQi",
+      "name": "brace for impact",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273719c366466397628237b914e",
+      "uri": "spotify:album:6pBa0aSKNjbMPOrd2joAfi",
+      "name": "kutmug (hardwell & afrojack edit)",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1TRFjpBEneFJJloCqSC4sG",
+          "name": "julian cross"
+        },
+        {
+          "spotify_id": "5IjHqOhczRkVSQlF2HvlUK",
+          "name": "fision"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5aca1770d25c1f0e252c0c2",
+      "uri": "spotify:album:24pocT8fPZICPOt99SR5rO",
+      "name": "rave till my grave",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "7iajTuviby3038TmfrpvZ3",
+          "name": "villain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273270f3cf228d05c4d732a7270",
+      "uri": "spotify:album:1xyCu4NGVKLg5EEbZcNHv5",
+      "name": "hideaway",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0MBGxwmCdXdO26ojaNcT64",
+          "name": "atmozfears"
+        },
+        {
+          "spotify_id": "6EdfpkgBzauysFts2D0LSO",
+          "name": "jaimes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bad4360ad072cd97a0da8921",
+      "uri": "spotify:album:25n7x5b2AQ3coUAVcwafdt",
+      "name": "echo (giuseppe ottaviani remix)",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "5B9q1NRokzWYB7nSgnlHyv",
+          "name": "giuseppe ottaviani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d15aeaf66cf4e445573a1e0",
+      "uri": "spotify:album:1EhCRAKJelwZFa0Dk69ck7",
+      "name": "beat of the drum",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cef09741a501e7144d809973",
+      "uri": "spotify:album:3poVp7oQSIUdym2nmOv9yF",
+      "name": "arcadia (vivid remix)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1a3f1b7b59d70766c1137aa",
+      "uri": "spotify:album:3IslzywfEKTs1f2MyP3H6X",
+      "name": "lift off",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd15b754bc7990abb0984332",
+      "uri": "spotify:album:5bZP9C9zf3csmFFbbv5W9o",
+      "name": "sanctuary",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273254588a1b3f0c99bc0460c5f",
+      "uri": "spotify:album:5dIC95OG5SGS5rCtltilvH",
+      "name": "insane (hardwell remix)",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1jGhQG0DIu1ZSLDmxJ7IxY",
+          "name": "dark monks"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab79533722bcba58f59bee34",
+      "uri": "spotify:album:3GflBh1GlyZnJciPDsGwph",
+      "name": "body move (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3K0HRfLEyOW4FtCzUxltQH",
+          "name": "matrick"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b22d32ccb4bdcd6812f5d92c",
+      "uri": "spotify:album:61luiakkDLCHhVZPFq50CT",
+      "name": "cambodia",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0JiAaia66Exx0UcsxD4TiC",
+          "name": "vorwerk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb2b55ec2a525764bb71b96a",
+      "uri": "spotify:album:3x1nV1mAZLwDvIC3rlB0pe",
+      "name": "no sleep",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b136cc85e64c5e93218922f",
+      "uri": "spotify:album:20LlQ3uGXITjpfACXAKpdi",
+      "name": "falling in love",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0aKXalHKVzkLJ6aeUY3HMf",
+          "name": "outsiders"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d5da3cbb862e469771818a5",
+      "uri": "spotify:album:5HeWywNRKxv0LoORCtFHjJ",
+      "name": "follow the light",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8493cbe457730eb91cb6286",
+      "uri": "spotify:album:6AlsrLgmF5o7TiuX9w8Fgz",
+      "name": "i'm the devil",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6bdAgX0KYeVKzqNhnARYBw",
+          "name": "avao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deaa1818e907a44877b49a59",
+      "uri": "spotify:album:5hmgtCgjbaSRGHY9B2W1w2",
+      "name": "xtc",
+      "album_type": "single",
+      "release_date": "2024-07-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d5e0542b6ef2f573c23ecaf",
+      "uri": "spotify:album:07tfndkMlsS8WpEDU8oFDx",
+      "name": "move",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cd018650154cde27c9ce0b1",
+      "uri": "spotify:album:1b9ghhDdxSBNCFnb8f1ccf",
+      "name": "control your body (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ipm3lGKLqzhir25JU846A",
+          "name": "nifra"
+        },
+        {
+          "spotify_id": "18JD8DVlD1fakDAw7E9LFC",
+          "name": "2 unlimited"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ef89c51d1fecfb07f7c90d5",
+      "uri": "spotify:album:2Y4Tm0KdcUWNnPpphhhGZ4",
+      "name": "i don't wanna wait (hardwell & olly james remix)",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "5Pwc4xIPtQLFEnJriah9YJ",
+          "name": "onerepublic"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb59d18e4612bb5cdd75a88",
+      "uri": "spotify:album:6gmvmAQvthM3tyXqOaOyFX",
+      "name": "16",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f18614bf5cfd56651f34f915",
+      "uri": "spotify:album:59T65v0ZNe7z8dDd5kR2Kq",
+      "name": "energy",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399df83acf6da2840798b8e62",
+      "uri": "spotify:album:3KYWio1C7RF0lNDR1IRGdx",
+      "name": "oldskool sound",
+      "album_type": "single",
+      "release_date": "2024-01-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ad1c1c556b1564dabae4891",
+      "uri": "spotify:album:61G1ZfB0GEK0809oWXRiCk",
+      "name": "anybody out there (the remixes)",
+      "album_type": "single",
+      "release_date": "2023-12-22",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        },
+        {
+          "spotify_id": "1rQ2ssALv6BirzJJxwETXO",
+          "name": "alex hepburn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e05f184497eba839e048faf3",
+      "uri": "spotify:album:2V8yiW5TVx3u3tGwqlLwlX",
+      "name": "goes like this",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1ujyB2Dmn2EFyVmjDBjGGK",
+          "name": "shortround"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392a85ee6cf6a6f91ed5f0571",
+      "uri": "spotify:album:4LcWzWIwMTNxDz4Baxo7qL",
+      "name": "push it",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4pqY01dGuzojomnVCXYbXC",
+          "name": "meryll"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313402f36319985f3c013d7c1",
+      "uri": "spotify:album:5u1NYKRPYx8KkcAVXXryQS",
+      "name": "loneliness",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273607053cd9e9a56fb510d86e5",
+      "uri": "spotify:album:6CxgIkOgE7uIG4p70b8lyl",
+      "name": "i wanna dance",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "4pqY01dGuzojomnVCXYbXC",
+          "name": "meryll"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eda26bb476e8c4832e6d4ba",
+      "uri": "spotify:album:6TZ7ruGd9mOmsw1IvShUm5",
+      "name": "shotgun (it ain't over)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7526cad930263829f8e7f2b",
+      "uri": "spotify:album:7brW7G3kHHkhr3eu838HhH",
+      "name": "human",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "56J7OPV77W9hMJQIRtvaBB",
+          "name": "machine made"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bfb9730bf9495e676d7fc36",
+      "uri": "spotify:album:1jN7YRxKzPqfZhxjUGEcDT",
+      "name": "the abyss",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6TVdVlY6irsNPkMHT2HkfD",
+          "name": "space 92"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b4f3dc30628f8c637b61e76",
+      "uri": "spotify:album:5SRLMR7GftfOdciVf9DjKM",
+      "name": "anybody out there",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        },
+        {
+          "spotify_id": "1rQ2ssALv6BirzJJxwETXO",
+          "name": "alex hepburn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273893d4d85024c6152a12341db",
+      "uri": "spotify:album:79Q74XqZiaRXq39mBTOiRx",
+      "name": "acid",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739834e08228bc03a2ec00bb6b",
+      "uri": "spotify:album:0by4En9FMFKLpeDiq6DhCF",
+      "name": "judgement day",
+      "album_type": "single",
+      "release_date": "2023-04-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372ccc54b931c969087931953",
+      "uri": "spotify:album:3LswMGIQwIQpJztiYx37xs",
+      "name": "miracle (with ellie goulding) [hardwell remix]",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "calvin harris"
+        },
+        {
+          "spotify_id": "0X2BH1fck6amBIoJhDVmmJ",
+          "name": "ellie goulding"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a2606b0fbb0c8667302e51e",
+      "uri": "spotify:album:0o4acAEnhuhzFfOKfNk6vh",
+      "name": "the seduction ep",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04Ze9i5w3NXno5DdMNpJZC",
+          "name": "olly james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933f207b20e0dba80585705f",
+      "uri": "spotify:album:19EBg9uVXWeTh3T0MzAj7X",
+      "name": "revolution",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5d2c0c8823e9aa9e57ae0b1",
+      "uri": "spotify:album:3B33KBdNkcNBndG3T9Ir2K",
+      "name": "sloopkogel",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339548636c6c2b84cbe57070d",
+      "uri": "spotify:album:41n9tQvEH5vhv5ZcG7ckQp",
+      "name": "twisted",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b439e2b495b7672a5463266",
+      "uri": "spotify:album:0URvtoYBh6LaOqt72zPAjw",
+      "name": "balança",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1FGLT6mEhIrPhgqYiU57ro",
+          "name": "vinne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc19b0b556aad79a919505b6",
+      "uri": "spotify:album:3FOqjkgC6qqes6K3Ejly3B",
+      "name": "take me away again",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "2a0fbijQhcaj1hOFp5b3id",
+          "name": "4 strings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ea0dfe16837b6a3e954648f",
+      "uri": "spotify:album:7qq8YG9xN3dnJuKBt023Xq",
+      "name": "take me away again (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "2a0fbijQhcaj1hOFp5b3id",
+          "name": "4 strings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aeda38e0b14b3ec238c6545e",
+      "uri": "spotify:album:3PAjzJeHTZw0OeG9miBhc0",
+      "name": "satisfaction (hardwell & maddix remix)",
+      "album_type": "single",
+      "release_date": "2023-01-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "4Ws2otunReOa6BbwxxpCt6",
+          "name": "benny benassi"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324d03806413bb1e8230af7a5",
+      "uri": "spotify:album:6giiV9q6odKQWeR6tfBgyX",
+      "name": "rebels never die (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2022-12-23",
+      "release_year": "2022",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac41681eeca3657c38425b4f",
+      "uri": "spotify:album:2LJGzMSAnbMlLWR7MwnFJW",
+      "name": "i want you (hardwell remix)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vhJymgsCubfAfFjEGVsoD",
+          "name": "la fuente"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360ad5611345900c2179cdcd0",
+      "uri": "spotify:album:5OU4esREA0HLwNekPigYeZ",
+      "name": "rebels never die",
+      "album_type": "album",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337d3a0a97441488afd62f93a",
+      "uri": "spotify:album:3OavI82lANHClWoPPERADE",
+      "name": "self destruct",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c001d40f0ea487fd6809bdd",
+      "uri": "spotify:album:0qoQyU6bl0V7EeRaSscyZi",
+      "name": "i feel like dancing",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273120049194990d9d642074a67",
+      "uri": "spotify:album:6Aa5cax0wZODvPMaZd1Yfo",
+      "name": "laser",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac4a222adc6336ab7aacb0d2",
+      "uri": "spotify:album:0p1PEsKxOIeffRO4vrbUT2",
+      "name": "zero gravity",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738efe6270158631b628690e75",
+      "uri": "spotify:album:1Y4ABtKiNxOSu8WfBunKBP",
+      "name": "reminisce",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "19pSUWoyECeTrV165Seg5j",
+          "name": "lee grant"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313dae52e8e994dd75d2993e5",
+      "uri": "spotify:album:3BiMWVo79A0eBXjU3ftPrT",
+      "name": "mind control",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d6a022ceeabbc96fbf98671",
+      "uri": "spotify:album:78smiyLXB1YjwnTSZ2U6jB",
+      "name": "pacman",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e50ad35199b6a05a5c8d62a",
+      "uri": "spotify:album:01dSHt7ldTooyeM0KZ3Kb1",
+      "name": "godd",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397f7d46be11b4e564e946573",
+      "uri": "spotify:album:7GOvP9qZKz5N4q5doW9Idy",
+      "name": "dopamine",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f49cfc9caf27458965212efb",
+      "uri": "spotify:album:6ROB2tyKtYqao9nbX7XdtY",
+      "name": "black magic",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373aee2e4fe8510890fe87e51",
+      "uri": "spotify:album:69sf76fZrnrljrhpsJY4Jq",
+      "name": "f*cking society",
+      "album_type": "single",
+      "release_date": "2022-04-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fcc566eb938ec9383a91d92",
+      "uri": "spotify:album:6Ea5nyohudN8ZGmBj0yCML",
+      "name": "broken mirror",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378fa050d05998033f954fb48",
+      "uri": "spotify:album:3sRYWksIy88qpwLHJTItae",
+      "name": "into the unknown",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736434a721edbc1c11d6fc908e",
+      "uri": "spotify:album:2xvDXuIdsnq1iFT5YIFi1h",
+      "name": "revealed 10 year anniversary remixed",
+      "album_type": "album",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6aaMlV5Qz8DK66IWgwoUH8",
+          "name": "revealed recordings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac8440ce0af82a5786ddc2e6",
+      "uri": "spotify:album:3fiBwpvIKhmbfvg08tcTfP",
+      "name": "apollo (maddix remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730751bfd1cbe9fd6d4cd92a87",
+      "uri": "spotify:album:7xUECyl2xhfQbzYBDIyygh",
+      "name": "apollo (sick individuals remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        },
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bbecc2001f752b8d2d6984c",
+      "uri": "spotify:album:6DLu3frkb2uBpx2RyNYvzK",
+      "name": "being alive (ryos remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2EIrliVU8gaMt0miwu4ITc",
+          "name": "jguar"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339999a67ff659495d420e57a",
+      "uri": "spotify:album:7xIDH4AmdNbvY6JsCLtE7h",
+      "name": "chase the sun (jac & harri remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        },
+        {
+          "spotify_id": "3o2JkvV32a6n4Xwf585pmT",
+          "name": "jac & harri"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b3af0a8df47f31d1c26f304",
+      "uri": "spotify:album:501jnJu5hd2I84JoNMetyH",
+      "name": "spaceman (dr phunk remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362a92f0f592f643af063f309",
+      "uri": "spotify:album:52hPyZIFrQgP94MK57mQH9",
+      "name": "this is love (blk rse remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        },
+        {
+          "spotify_id": "2caQqGZcs7vbmAEE0uAWBz",
+          "name": "blk rse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd5c807d69b904cf23dc6370",
+      "uri": "spotify:album:5ji297wlgE3Z58wIFHSGh9",
+      "name": "retrograde (drumstone remix)",
+      "album_type": "single",
+      "release_date": "2021-05-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7tCFigbe2WuE8DzGoNrMvj",
+          "name": "drumstone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739274bb558e508d033d38165d",
+      "uri": "spotify:album:7jebTcPGDhgZOKTHX4tMXb",
+      "name": "badam (chocolate puma remix)",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3nALc9PyUfe6CO3EY9bNhH",
+          "name": "henry fong"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e4952458ec7ade93009551a",
+      "uri": "spotify:album:32MQr5G3W58b9rOpysHqSL",
+      "name": "break down the house (hardwell & r3hab remix)",
+      "album_type": "single",
+      "release_date": "2019-12-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d19ef02978d4abde5a9f0403",
+      "uri": "spotify:album:1Qq01PUYwrtbAh6vP1CHr8",
+      "name": "go to war",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6ydu7uQ1zZeWUA7FuKnTWG",
+          "name": "suyano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273689ce06282338cb28671b4a1",
+      "uri": "spotify:album:0UpQ5ZBlrQQ9Aa3GQCX2RY",
+      "name": "left right (feat. fatman scoop)",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        },
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739174d5b5fc24a6f4f9059ccf",
+      "uri": "spotify:album:1f4MiTy3hwJ1FjJI3rloeg",
+      "name": "summer air (feat. trevor guthrie) [the remixes]",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6NXk2pLFocS2OkNdT7ncBt",
+          "name": "trevor guthrie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737171764cf593662e0d5e0d7a",
+      "uri": "spotify:album:4WCv3Ux24H0Ca6VwZkvtth",
+      "name": "summer air (feat. trevor guthrie) [sunnery james & ryan marciano remix]",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6NXk2pLFocS2OkNdT7ncBt",
+          "name": "trevor guthrie"
+        },
+        {
+          "spotify_id": "7kABWMhjA5GIl9PBEasBPt",
+          "name": "sunnery james & ryan marciano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fc87c88b7e307177df818fd",
+      "uri": "spotify:album:5hIjJX3Cg1TA89ZA9nobas",
+      "name": "summer air (dr phunk remix)",
+      "album_type": "single",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300fc744d234ba00f38f74bd5",
+      "uri": "spotify:album:7vzTCm2P2XyMftnnmy910x",
+      "name": "summer air (feat. trevor guthrie) [dubvision remix]",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6NXk2pLFocS2OkNdT7ncBt",
+          "name": "trevor guthrie"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecf30a8064474685c6bc695f",
+      "uri": "spotify:album:1cVZdiZBMiSv4WtqqpiFRp",
+      "name": "retrograde",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d09ef7749e89f4fedf12df7e",
+      "uri": "spotify:album:6RtNDAbbah1pa4IFdlAiNE",
+      "name": "reckless",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734488b788eb12557a00291413",
+      "uri": "spotify:album:6cUpEnV1cSttnIT0WF2KEg",
+      "name": "summer air (feat. trevor guthrie)",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6NXk2pLFocS2OkNdT7ncBt",
+          "name": "trevor guthrie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fce5015bba7a031c24b201bf",
+      "uri": "spotify:album:2DguNgaDtUnOlStKGnGOoo",
+      "name": "i'm not sorry",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f1061b381f36ac2b0b53bac",
+      "uri": "spotify:album:32rTDDlSh1sInkUpiVRGPC",
+      "name": "how you love me (feat. conor maynard & snoop dogg) [the remixes]",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6mU8ucezzms5I2kNH6HNlu",
+          "name": "conor maynard"
+        },
+        {
+          "spotify_id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "snoop dogg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273062a5fd6f84c1d4a7d350793",
+      "uri": "spotify:album:7ecs1vLrDWsPgeqZF3WZS2",
+      "name": "how you love me (feat. conor maynard & snoop dogg) [the remixes]",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273184328f6fba66a69e5c803c4",
+      "uri": "spotify:album:3lmlgZBrwoWe7fTsqTAHnB",
+      "name": "chase the sun",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350f9f62cbe57cbdfa58d3118",
+      "uri": "spotify:album:1LmD7B2tpvuHwfTiGgSRNk",
+      "name": "being alive",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd365828dad21d720e87ee14",
+      "uri": "spotify:album:3kNqyGs0ClVvkU9RECw5xb",
+      "name": "how you love me (feat. conor maynard & snoop dogg)",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6mU8ucezzms5I2kNH6HNlu",
+          "name": "conor maynard"
+        },
+        {
+          "spotify_id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "snoop dogg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c58d7c8ce4b115e3f8fa1640",
+      "uri": "spotify:album:0szfMqik2TUwVTLLNdyhr5",
+      "name": "how you love me (feat. conor maynard & snoop dogg) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349e31af7160b2f6314abb1b8",
+      "uri": "spotify:album:5zdM1uaRcZJOqvNrY6pPav",
+      "name": "do it till your face hurts (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2018-10-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "00sAT5YX8W3xNd1EuqyHw9",
+          "name": "dada life"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bf3a4183a844b5ae54ea7d8",
+      "uri": "spotify:album:2irO2zG6qeqi11RYTW0htU",
+      "name": "kicking it hard",
+      "album_type": "single",
+      "release_date": "2018-10-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359029f1bc579b6d773665784",
+      "uri": "spotify:album:4ipryU1vegkYFdbJFvKUcC",
+      "name": "out of this town",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4mrBetqy378Jf1y6NLszlx",
+          "name": "vinai"
+        },
+        {
+          "spotify_id": "0wNuUG1alVKXEEiwEypprs",
+          "name": "cam meekins"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f738dd56c38ff1ba92a60189",
+      "uri": "spotify:album:4s7inHJsXxTd8WlVOIxBz3",
+      "name": "light it up",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6ydu7uQ1zZeWUA7FuKnTWG",
+          "name": "suyano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273007e04c2d13ada9b92037f0e",
+      "uri": "spotify:album:3N4wszmSn4fBdlkMRFouhT",
+      "name": "this is love",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b05ef41b5ab6622b9f331480",
+      "uri": "spotify:album:20nc4NOXp3VUhh1iUX1Xwi",
+      "name": "bella ciao",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d5ec2ccc73423147765b1f8",
+      "uri": "spotify:album:5mnKVK3cksHH5Lzm1OZpiN",
+      "name": "unity",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ddc87a8c7d4339bac88ef6e",
+      "uri": "spotify:album:4WiCeMODFI3uMXTTHribR5",
+      "name": "bigroom never dies",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aae83e8d07a73caa9755fa6b",
+      "uri": "spotify:album:4DwNkslJjIw0eFw2wzFlP5",
+      "name": "shine a light",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0wr85NuJuAYZsRzP1lJgiV",
+          "name": "wildstylez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a05f506549ee1301b117e9a",
+      "uri": "spotify:album:0K5KAPBW6OlYb6UM4Sbgss",
+      "name": "power (the remixes)",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739978c2f9edec1b600835fa1a",
+      "uri": "spotify:album:3GKbpVYjXfhG4TQz7yEx4l",
+      "name": "conquerors (part 1 & part 2)",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7JYdpWAsiqzrmMB3qxkEbI",
+          "name": "metropole orkest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef3b402d4cf9c2061a4c5973",
+      "uri": "spotify:album:6W4BnKnzdh2H0AuT1HSBFK",
+      "name": "earthquake",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d39139cedd4a8dc0180a826",
+      "uri": "spotify:album:1nnxFDhGYouMhAjJkQsaYN",
+      "name": "anthem (feat. kris kiss)",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "3Hzok9apHnCGDDkGltQcMg",
+          "name": "kris kiss"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec3de434caed2b0e969da43f",
+      "uri": "spotify:album:4co7IlC064DlTfPGatPM7B",
+      "name": "ze willen mee",
+      "album_type": "single",
+      "release_date": "2018-03-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "5GIcOzVFTNnzArytjmTkW8",
+          "name": "bizzey"
+        },
+        {
+          "spotify_id": "3AlRiyjMywTVNzTcHbf9QT",
+          "name": "lil kleine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312b25c4c0ad52835f095af83",
+      "uri": "spotify:album:2bt6d0bHefORM732b9cNSm",
+      "name": "hardwell & friends, vol. 03",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbb44836ba868b5c5bc15545",
+      "uri": "spotify:album:6GYXpQnqOIm6U6ad9o4NKr",
+      "name": "safari",
+      "album_type": "single",
+      "release_date": "2018-01-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "50kceDjknh0CjwOko7kx7V",
+          "name": "jewelz & sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f134f4f84684a79bfac8322",
+      "uri": "spotify:album:3ZldxFywJ4nUSOTawf7s9y",
+      "name": "take us down (feeding our hunger)",
+      "album_type": "single",
+      "release_date": "2018-01-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        },
+        {
+          "spotify_id": "3Hlhy5mpM8cT1Guv1GOhQG",
+          "name": "jantine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398b301bf13a8fe35b21bc214",
+      "uri": "spotify:album:0kCcF2LNvWnPGVZbGkwOcC",
+      "name": "get low",
+      "album_type": "single",
+      "release_date": "2018-01-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b088623571c2506e40cee32",
+      "uri": "spotify:album:7zNHfDb8XPJe14yrHCkGUl",
+      "name": "woest",
+      "album_type": "single",
+      "release_date": "2018-01-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732125850548393b7af2b4825e",
+      "uri": "spotify:album:0m9LNZzZ45c0mw8nf3zc6T",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2018-01-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323f5062469d9bd41606b49db",
+      "uri": "spotify:album:72B696gxStbFoT2C4yqfVF",
+      "name": "creatures of the night (kvr remix)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04abdnqPQe2N4fjztDea6z",
+          "name": "austin mahone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273629bc92333ef1c0799cb2bcb",
+      "uri": "spotify:album:3XfngpAGAIoldKT7NkFy9R",
+      "name": "power (lucas & steve extended remix)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f12827ce7b0122cf772932b",
+      "uri": "spotify:album:37LjSxPwIZowpzC1g2FY6V",
+      "name": "power (lucas & steve remix)",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e6e3463f333ae48823335c5",
+      "uri": "spotify:album:7L1SZkuLvOG2YrCnJuZFZI",
+      "name": "mi gente (hardwell & quintino remix)",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "j balvin"
+        },
+        {
+          "spotify_id": "4RSyJzf7ef6Iu2rnLdabNq",
+          "name": "willy william"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dad325ac9406962caa5c033a",
+      "uri": "spotify:album:2C5eYXBvopdMU7O8MLmJmA",
+      "name": "the universe",
+      "album_type": "single",
+      "release_date": "2017-10-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c334f9b803339dc589b121ac",
+      "uri": "spotify:album:39K3qilNLN8Xn8gdCLIFRl",
+      "name": "who's in the house (intro 2017)",
+      "album_type": "single",
+      "release_date": "2017-10-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7e821536654cce66098768c",
+      "uri": "spotify:album:3lBDv0VV2IOC8Urw1RGnC9",
+      "name": "hands up",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb82bbdbc232f1de5b7ba8e5",
+      "uri": "spotify:album:30smUX8lJJC4Wff19vimDD",
+      "name": "power (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cad863bad16e08a93a3fd5fb",
+      "uri": "spotify:album:4G19LdhYXHY60QJepiSVbE",
+      "name": "power",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef013dcc37d600e895e0442a",
+      "uri": "spotify:album:14bxXFMThplClGVAxak1bJ",
+      "name": "creatures of the night (acoustic version)",
+      "album_type": "single",
+      "release_date": "2017-09-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04abdnqPQe2N4fjztDea6z",
+          "name": "austin mahone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301ca2623e7d6ff718d5e9d82",
+      "uri": "spotify:album:1HuJCpTJcBDbOExhNWtS06",
+      "name": "hardwell & friends, vol. 02",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e750c511663e3e0c1595a55",
+      "uri": "spotify:album:4XhCJPYMrg0xYW98bHPpqi",
+      "name": "here once again",
+      "album_type": "single",
+      "release_date": "2017-08-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316ecdcda96192de59cfae751",
+      "uri": "spotify:album:6pt6pvyeC08zTPpDRuHFOW",
+      "name": "powermove",
+      "album_type": "single",
+      "release_date": "2017-08-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "5jm3x1qIibWdKSEMw2G011",
+          "name": "moksi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b5f6e31968a1bdc9a936bb",
+      "uri": "spotify:album:3uM0skTpU6NU9GkqYTzm7e",
+      "name": "what we need",
+      "album_type": "single",
+      "release_date": "2017-08-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738862034779a17f024040936b",
+      "uri": "spotify:album:6alnRads02pK9an4UimnZw",
+      "name": "still the one",
+      "album_type": "single",
+      "release_date": "2017-08-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0QZSzSj4BDYFARD2hZ7oNI",
+          "name": "kill the buzz"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317e9618310a36cbef8c64e15",
+      "uri": "spotify:album:7L05YnBkGkcUC8YQkQ22wu",
+      "name": "badam",
+      "album_type": "single",
+      "release_date": "2017-08-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3nALc9PyUfe6CO3EY9bNhH",
+          "name": "henry fong"
+        },
+        {
+          "spotify_id": "1pmixngtBJleMrGUG5o8DE",
+          "name": "mr. vegas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739622bb1bfe591e09222dc316",
+      "uri": "spotify:album:10TS7Qz3FpeeppuAPag8SI",
+      "name": "creatures of the night (the remixes)",
+      "album_type": "single",
+      "release_date": "2017-08-11",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04abdnqPQe2N4fjztDea6z",
+          "name": "austin mahone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9b874944c1cdb1ff009d50a",
+      "uri": "spotify:album:6hur69al1YxtLrRv235kmd",
+      "name": "hardwell & friends ep volume 01",
+      "album_type": "single",
+      "release_date": "2017-07-29",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e7bc51fdb9cb366ce417ef8",
+      "uri": "spotify:album:3yStS23uzIfdNzqqhI5HJU",
+      "name": "all that we are living for",
+      "album_type": "single",
+      "release_date": "2017-07-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0MBGxwmCdXdO26ojaNcT64",
+          "name": "atmozfears"
+        },
+        {
+          "spotify_id": "3jbqK4VihAncvAJWgcidZG",
+          "name": "m.bronx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b053e4390d4817df26b2980a",
+      "uri": "spotify:album:5YEBTZbVNwPv43P1AehQsc",
+      "name": "smash this beat",
+      "album_type": "single",
+      "release_date": "2017-07-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b02919fdd21d79ccf04354d4",
+      "uri": "spotify:album:0V03kDTJoeLdQYZejQsHl8",
+      "name": "police (you ain't ready)",
+      "album_type": "single",
+      "release_date": "2017-07-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3NwcP2GO2sZZS2BVvWcc9T",
+          "name": "kura"
+        },
+        {
+          "spotify_id": "7Lij2ZLJJQOfGojVR3Wmqa",
+          "name": "anthony b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db790206d1359421e3eb167e",
+      "uri": "spotify:album:6lq1C1L1ITYerIHpe3C6Y4",
+      "name": "we are one",
+      "album_type": "single",
+      "release_date": "2017-07-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c6025af6969903a3f1c29b8",
+      "uri": "spotify:album:5eBBu5hNYa7gtx82YLZLfE",
+      "name": "we are legends",
+      "album_type": "single",
+      "release_date": "2017-07-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273284f9b21b8a5c5c7afaa8af1",
+      "uri": "spotify:album:0uh4iEYkuTjon3d7SjYmIf",
+      "name": "creatures of the night (pbh & jack shizzle remix)",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04abdnqPQe2N4fjztDea6z",
+          "name": "austin mahone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273926f890e32789ebe08afd8c4",
+      "uri": "spotify:album:7HI8FV1jm7tpJRGcjrzOEE",
+      "name": "creatures of the night",
+      "album_type": "single",
+      "release_date": "2017-05-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "04abdnqPQe2N4fjztDea6z",
+          "name": "austin mahone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f481f060ab830336a9492b77",
+      "uri": "spotify:album:1GccBrYVo7SA853JqO7XRm",
+      "name": "young again (feat. chris jones) [dr phunk remix]",
+      "album_type": "single",
+      "release_date": "2017-04-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273537e5b25efad69f6af83c5c0",
+      "uri": "spotify:album:1VrnWnmHqwJKGOuVKc4bLa",
+      "name": "go down low",
+      "album_type": "single",
+      "release_date": "2017-02-10",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4ddhmWe0fgEqOyb2kihLWB",
+          "name": "badd dimes"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a57446c933b0283696b8992",
+      "uri": "spotify:album:4HyXEXVuJzIvecLKnSEjzK",
+      "name": "party till the daylight",
+      "album_type": "single",
+      "release_date": "2017-01-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b626a624615b16176ac351f",
+      "uri": "spotify:album:7C19eukNbwHxsRPBRReFPb",
+      "name": "party till the daylight (d3fai remix)",
+      "album_type": "single",
+      "release_date": "2017-01-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "23UzQGZ9FtrZWaKyOIcLOO",
+          "name": "d3fai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345277a71a40f30741f323860",
+      "uri": "spotify:album:0Ptry5PZXIHr1AES2rHdHx",
+      "name": "party till the daylight (tc remix)",
+      "album_type": "single",
+      "release_date": "2017-01-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6b1Reb7bhjdXtkR7wUYW61",
+          "name": "tc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391872f626ffb4439f6fcae9d",
+      "uri": "spotify:album:4V7OUCmvccoB1ks5eYRPmo",
+      "name": "break the house down (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2017-01-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0QZSzSj4BDYFARD2hZ7oNI",
+          "name": "kill the buzz"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3cb384cc8f39048aff7d86e",
+      "uri": "spotify:album:1JlIDe3M7n5EjikM4Ja1Sk",
+      "name": "baldadig",
+      "album_type": "single",
+      "release_date": "2016-12-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caa42be92f11dbf172047e67",
+      "uri": "spotify:album:3wD0Vr0x2UmZF33uGwkw0u",
+      "name": "nothing can hold us down (feat. haris) [dr phunk extended remix]",
+      "album_type": "single",
+      "release_date": "2016-12-12",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6C0KWmCdqrLU2LzzWBPbOy",
+          "name": "headhunterz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734471b341de6a49f718ab8019",
+      "uri": "spotify:album:4N1UlZxdar5Xs7XHz05ONi",
+      "name": "apollo (dr phunk remix)",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e589f1afedadd7c456810b1e",
+      "uri": "spotify:album:1PaNdft3N1HAEszlaA0bln",
+      "name": "run wild (dr phunk remix)",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd82beedde5981d12544c29b",
+      "uri": "spotify:album:4tpw0yK5ZrbskDB6YPtWuD",
+      "name": "get down",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345cd5de9cf41f9611d6d13e1",
+      "uri": "spotify:album:6L6kIO8sEhxQVPz2Xk26kf",
+      "name": "thinking about you",
+      "album_type": "single",
+      "release_date": "2016-10-14",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4pADjHPWyrlAF0FA7joK2H",
+          "name": "jay sean"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739235c8ef7f409890ca7d9e75",
+      "uri": "spotify:album:1WCR9GGarxJtmTvAW2h65Q",
+      "name": "going crazy",
+      "album_type": "single",
+      "release_date": "2016-08-29",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273112731d5596a4d154f2d8e19",
+      "uri": "spotify:album:1j79987A1kkaAxqdIc7Q3S",
+      "name": "no holding back (incl. henry fong remix)",
+      "album_type": "single",
+      "release_date": "2016-08-19",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bc51626d1432d6fbe4c1181",
+      "uri": "spotify:album:2Kv5YzXsVaZrCUbpYGEwRa",
+      "name": "wake up call",
+      "album_type": "single",
+      "release_date": "2016-08-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369a30ff05aec530c7c641dc0",
+      "uri": "spotify:album:2AA7tUy5d2IXPeqQHBtHF4",
+      "name": "live the night",
+      "album_type": "single",
+      "release_date": "2016-07-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273178700e001c60c2adbb6d5fe",
+      "uri": "spotify:album:3pO3EBGBbR16I1zruBjWi6",
+      "name": "8fifty",
+      "album_type": "single",
+      "release_date": "2016-06-27",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0tZlnuodIwYzEMCLP86mnt",
+          "name": "dj thomas newson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732232c0506282d86d4027957b",
+      "uri": "spotify:album:3sYzBCvc0ekjvKKz4nPMkj",
+      "name": "run wild (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-04-22",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739545c089b29c09f9a49421c6",
+      "uri": "spotify:album:6TcpeG5fBbXPzEBEb2HaKE",
+      "name": "run wild (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-04-22",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e99afa454c23d1a70e83395e",
+      "uri": "spotify:album:0yqgESep5KmYRDx0Wbpz7s",
+      "name": "calavera",
+      "album_type": "single",
+      "release_date": "2016-04-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3NwcP2GO2sZZS2BVvWcc9T",
+          "name": "kura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734403550fe54987f0a62209f0",
+      "uri": "spotify:album:1gLaKNTXhNWi7k6vArkWPY",
+      "name": "run wild",
+      "album_type": "single",
+      "release_date": "2016-03-14",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366655ca8e76de1b93b06811c",
+      "uri": "spotify:album:3TYr5Xtn7A3GsptRiYjcax",
+      "name": "hollywood",
+      "album_type": "single",
+      "release_date": "2016-02-08",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338a32a438d0a8b28e70f3dcf",
+      "uri": "spotify:album:07313F9B9puE1w2a5eqL4r",
+      "name": "mad world (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-01-18",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273928b45c0ecce39c2e354adb6",
+      "uri": "spotify:album:1AlTF6bN2NbtCnkjB4KuTQ",
+      "name": "blackout",
+      "album_type": "single",
+      "release_date": "2016-01-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dabd4e82352089fe069e3223",
+      "uri": "spotify:album:6lfH91X0FYvEb9QmrG3GhY",
+      "name": "hakuna matata (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2016-01-04",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738735486e84ce574a0443a85f",
+      "uri": "spotify:album:3MnBKsNCW5X5Qyi5GSVgPk",
+      "name": "united we are (remixed)",
+      "album_type": "album",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3ec470ee4fcc01897f6cbf8",
+      "uri": "spotify:album:6bsQrlOa0FxgJATI57myr1",
+      "name": "scorpion (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2015-11-16",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b548f8eab3e7072e5849902f",
+      "uri": "spotify:album:5H40krAJjmMfCfVCpUcjQl",
+      "name": "birds fly (feat. mr. probz) [esquire late night remix]",
+      "album_type": "single",
+      "release_date": "2015-11-04",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f6a593213705d6fa128f868",
+      "uri": "spotify:album:5YsvD7FOBDlarL215D5gMJ",
+      "name": "united we are (vredestein remix)",
+      "album_type": "single",
+      "release_date": "2015-11-04",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8fbee2d9efb97b21e8d6af4",
+      "uri": "spotify:album:4Eq4A8AIi4PvXOEqrK2Iaq",
+      "name": "mad world (acoustic version)",
+      "album_type": "single",
+      "release_date": "2015-10-30",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd1aa05e69e958175165ea09",
+      "uri": "spotify:album:50yfpXDSdtMrfL7C5guzUU",
+      "name": "mad world",
+      "album_type": "single",
+      "release_date": "2015-10-16",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329c3bc9dd67b0b4265359c8b",
+      "uri": "spotify:album:4xFL1dccvsB3Hc5OqB7LmW",
+      "name": "off the hook",
+      "album_type": "single",
+      "release_date": "2015-09-14",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364e1b6b27b1ed495124d92db",
+      "uri": "spotify:album:3QPNGDTsoFCp7iSY0VNJU0",
+      "name": "locked & loaded (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2015-08-31",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7yMAFCnx0clryFBMwaQI3Y",
+          "name": "domeno"
+        },
+        {
+          "spotify_id": "1zuQZzeqzzlwUKVMYHvA87",
+          "name": "michael sparks"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fffad106a081a98f563791e8",
+      "uri": "spotify:album:1xgxPKiGVXGnaBZg17rpbc",
+      "name": "survivors (feat. haris) [radio edit]",
+      "album_type": "single",
+      "release_date": "2015-07-31",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302970fb4d3ed446c29ab6c9b",
+      "uri": "spotify:album:5S5cSYAUsE1cJdkGNUSPbh",
+      "name": "chameleon",
+      "album_type": "single",
+      "release_date": "2015-07-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4b2v3PBjJJCF2BX14lIAsT",
+          "name": "wiwek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324385060d7dae4b2389fa7ef",
+      "uri": "spotify:album:2tBT9JwkGiRrGPv9wxeF3B",
+      "name": "baron 1898 (hardwell remix)",
+      "album_type": "single",
+      "release_date": "2015-07-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2y1TgaVWL39MJOI15PTKAN",
+          "name": "efteling"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273599a64d07e40223c12b9cdc8",
+      "uri": "spotify:album:3QTVsIyjtbHhXGxwh7H6j3",
+      "name": "united we are",
+      "album_type": "album",
+      "release_date": "2015-01-23",
+      "release_year": "2015",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e63c0cc8b2c444b99fd8f15",
+      "uri": "spotify:album:7r60bob6PntrVxl1iuIFmF",
+      "name": "united we are (commentary version)",
+      "album_type": "album",
+      "release_date": "2015-01-23",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f3f61a924512ed934e7df57",
+      "uri": "spotify:album:4Tj1VPYCIgP6TMuXwJO5vm",
+      "name": "don't stop the madness",
+      "album_type": "single",
+      "release_date": "2015-01-23",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aa0c6e339a6a7d3055297b2",
+      "uri": "spotify:album:78MNjxMgXfx37ijRb61ebM",
+      "name": "eclipse",
+      "album_type": "single",
+      "release_date": "2015-01-09",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307e9ea9dcaba2540d59460ed",
+      "uri": "spotify:album:309OFlVuIM4x62QjhWbyBV",
+      "name": "young again",
+      "album_type": "single",
+      "release_date": "2014-11-03",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367a269b3888fcbe53e75c311",
+      "uri": "spotify:album:4yrvOFQeX2pzcS34iJ0QQW",
+      "name": "arcadia (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-09-29",
+      "release_year": "2014",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374a4c1e5e575e68530ffc4bb",
+      "uri": "spotify:album:5ljum60AMMbvXH6aVhxP8s",
+      "name": "the dance floor is yours (merzo remix)",
+      "album_type": "single",
+      "release_date": "2014-09-13",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f8e7a8ddedbca0d16bb1165",
+      "uri": "spotify:album:2tJJ962tOCZHvX7N9rJKYa",
+      "name": "the dance floor is yours",
+      "album_type": "single",
+      "release_date": "2014-09-03",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319abf783c0ff6c3e332a79c6",
+      "uri": "spotify:album:3uua6jO0NuQ4ryXBBNd7Wo",
+      "name": "arcadia",
+      "album_type": "single",
+      "release_date": "2014-07-21",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317279287da49cb60583f95a3",
+      "uri": "spotify:album:2oUQuXGPvXgGLlbgavtHeN",
+      "name": "rambo (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2014-06-23",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        },
+        {
+          "spotify_id": "4oJsN9lEbwhoG4meg6GItn",
+          "name": "j-trick"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cdb24318a1418ee442ad85a",
+      "uri": "spotify:album:4845etWPwwCch9scbreXH5",
+      "name": "hardwell presents revealed vol. 5 sampler",
+      "album_type": "single",
+      "release_date": "2014-06-20",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d96013f08fb5dfb24664d5f",
+      "uri": "spotify:album:3HgB419kCAx0gM0MMq7Dk3",
+      "name": "dare you (remix ep) (feat. matthew koma)",
+      "album_type": "single",
+      "release_date": "2014-06-17",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d8e8b45ea45bc38f916258b",
+      "uri": "spotify:album:1q6lhAdN1gVXNEMHYUPkvi",
+      "name": "dare you (the remixes part 2)",
+      "album_type": "single",
+      "release_date": "2014-05-30",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5deeac6ae40dcd21f99fa0a",
+      "uri": "spotify:album:5MbMZMTM6BMefGRnCFtw7T",
+      "name": "ping pong (hardwell remix)",
+      "album_type": "single",
+      "release_date": "2014-04-28",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e87daf570a7aae50b10b34f",
+      "uri": "spotify:album:1iT8uICQF18ogL167V2iv9",
+      "name": "everybody is in the place",
+      "album_type": "single",
+      "release_date": "2014-04-21",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cc16134718515266fc7fcf8",
+      "uri": "spotify:album:3pf5L5lCvi9ZmLghbnDtN3",
+      "name": "dare you (remixes, part 1) (feat. matthew koma)",
+      "album_type": "single",
+      "release_date": "2014-02-25",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9b4628d8e0f3b4db2458340",
+      "uri": "spotify:album:1ZIilU1zLMU3fvhwEKvaAB",
+      "name": "dare you (radio edit) (feat. matthew koma)",
+      "album_type": "single",
+      "release_date": "2013-12-10",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c7be953d274066adb8d78aa",
+      "uri": "spotify:album:1c8VPF74qax6iaGsf74cQ8",
+      "name": "i am hardwell (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2013-11-15",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeabccbc3d845294ce036a72",
+      "uri": "spotify:album:4yMIGMXP3VzyF2p0B4z9rW",
+      "name": "countdown",
+      "album_type": "single",
+      "release_date": "2013-10-21",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d02361eb52b022727f6e624",
+      "uri": "spotify:album:3aVRyVzxpM3d1cXGuiFlOb",
+      "name": "fifteen (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2013-09-23",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314fb1d2f107ca2a47adda852",
+      "uri": "spotify:album:08JCFLxmGs94ILFOCgkxg3",
+      "name": "never say goodbye (wildstylez remix)",
+      "album_type": "single",
+      "release_date": "2013-09-09",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "dyro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396c373c4459f3c8c32bee11d",
+      "uri": "spotify:album:2SRUDeyL1MSTsgb0P2Ojq9",
+      "name": "jumper",
+      "album_type": "single",
+      "release_date": "2013-08-19",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e372be413f6cf3695f9576af",
+      "uri": "spotify:album:2j8K0047bnMu3hrWNUi9Vw",
+      "name": "never say goodbye",
+      "album_type": "single",
+      "release_date": "2013-06-21",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "dyro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c4b796232c3646a5d730760",
+      "uri": "spotify:album:7rmD5eOmxq5IWW6JRl8b7V",
+      "name": "never say goodbye",
+      "album_type": "single",
+      "release_date": "2013-06-21",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "dyro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273413f98b3a0b66220534684b1",
+      "uri": "spotify:album:6ZCOeGZYCDIrm0DsvmPoBO",
+      "name": "dynamo",
+      "album_type": "single",
+      "release_date": "2013-04-22",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6febf033eea7eda6391f8bc",
+      "uri": "spotify:album:2sxrtdVxRK5NJYaClT4scj",
+      "name": "apollo (the remixes)",
+      "album_type": "single",
+      "release_date": "2013-04-08",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323d40720ac88ac1d35e48655",
+      "uri": "spotify:album:1gWHyLxvjMARcVMUWMoF1D",
+      "name": "are you ready (hardwell rework)",
+      "album_type": "single",
+      "release_date": "2013-02-04",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2hsDR10j6idVS8ZNc3Lg4p",
+          "name": "joe ghost"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1feb2d5596eca1615b18236",
+      "uri": "spotify:album:6pB3RM9BzgIef01xmaHWQ2",
+      "name": "spaceman (carnage festival trap remix)",
+      "album_type": "single",
+      "release_date": "2012-12-29",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c965d3c2f608aba2812c9be6",
+      "uri": "spotify:album:201BKEHm2mL2aewBC7iuho",
+      "name": "apollo",
+      "album_type": "single",
+      "release_date": "2012-12-10",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736aad0d1b9af8c04c5dbb3418",
+      "uri": "spotify:album:37AZ9BSdoxC2FsQAXWpmHr",
+      "name": "call me a spaceman (unplugged version)",
+      "album_type": "single",
+      "release_date": "2012-10-24",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6oKeE1UH8FizqNPScqM1NE",
+          "name": "collin mcloughlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273180377200e9a9535ab0990dc",
+      "uri": "spotify:album:50olAdbUupJaFKVAdqu54m",
+      "name": "three triangles (club mix)",
+      "album_type": "single",
+      "release_date": "2012-09-03",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304e1bc2609b7642befde7242",
+      "uri": "spotify:album:7zHdSEwwbUjgKPDwjL5Z8d",
+      "name": "how we do",
+      "album_type": "single",
+      "release_date": "2012-08-13",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737368541cb3dffbb20dd08a4f",
+      "uri": "spotify:album:567FbP6YZghRjQZDLFvdoZ",
+      "name": "spaceman (outer space remixes)",
+      "album_type": "single",
+      "release_date": "2012-05-21",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273267c38ef1e645f32962803cf",
+      "uri": "spotify:album:5KW7V1ggQXY73CBBSh0uK4",
+      "name": "call me a spaceman",
+      "album_type": "single",
+      "release_date": "2012-05-18",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307b142f6d4d244e50dca1d87",
+      "uri": "spotify:album:6lvug2rjlvi2eHtpXTJnsg",
+      "name": "kontiki",
+      "album_type": "single",
+      "release_date": "2012-04-30",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b93264217481ae62439c676",
+      "uri": "spotify:album:1R4ANAFrHwOdYG1tmz3gla",
+      "name": "spaceman",
+      "album_type": "album",
+      "release_date": "2012-02-06",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d32f0c4bfcc74bec2e2579c8",
+      "uri": "spotify:album:12nXWj3DNVC6pEw2uE45fz",
+      "name": "cobra (radio edit)",
+      "album_type": "single",
+      "release_date": "2011-12-16",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb1bc1de2014918fd05699a7",
+      "uri": "spotify:album:0pXdXBZPjWEgn1Kz089f52",
+      "name": "munster",
+      "album_type": "single",
+      "release_date": "2011-12-05",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360b55dcf1e7553a14be3211b",
+      "uri": "spotify:album:6wj5nqF8fAOjrvY8qExGpd",
+      "name": "beta",
+      "album_type": "single",
+      "release_date": "2011-10-10",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f10420e0df1b8ab47789e73f",
+      "uri": "spotify:album:71cB7sIUjSa1yuwfVyrPSC",
+      "name": "the world",
+      "album_type": "single",
+      "release_date": "2011-07-25",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fac47299bc5bd71dc8488bb4",
+      "uri": "spotify:album:73CQfEJAWSN5OlqZDPle6J",
+      "name": "encoded",
+      "album_type": "single",
+      "release_date": "2011-05-02",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b45975dbd46df4e6f9e35b95",
+      "uri": "spotify:album:5Du6JpXg4WqEVj72ItVsfY",
+      "name": "zero 76",
+      "album_type": "single",
+      "release_date": "2011-02-07",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbb2df0a4d95e178867c23f9",
+      "uri": "spotify:album:73L117MZNb2O62MwRtq3sG",
+      "name": "asteroid",
+      "album_type": "single",
+      "release_date": "2010-11-29",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2UgphhGSlC9QWgaZWUOCkl",
+          "name": "franky rizardo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f070fa5c88baa3a91a837b96",
+      "uri": "spotify:album:6PqFwlZupNOzn8od3zWfiV",
+      "name": "molotov",
+      "album_type": "single",
+      "release_date": "2010-09-20",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339d4606a6d47a6e0c957d1b0",
+      "uri": "spotify:album:4hg8MCAx2J9m5Hchgwrk1f",
+      "name": "smoke / voyage",
+      "album_type": "single",
+      "release_date": "2010-06-28",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731880dc48554b249d20b845b7",
+      "uri": "spotify:album:2ULX800dLZ4NIGZY9FrDem",
+      "name": "get down girl",
+      "album_type": "single",
+      "release_date": "2010-04-12",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395643a006e2e3a9379f89385",
+      "uri": "spotify:album:4fi88h1kP0NibYgq8VYCS1",
+      "name": "broken tonight (remixes)",
+      "album_type": "single",
+      "release_date": "2009-12-14",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "3Lq6Tb3SbS4n6dVuCx0Zzi",
+          "name": "vanvelzen"
+        },
+        {
+          "spotify_id": "478tAnskSff0wa0XxnpwmW",
+          "name": "alex m.o.r.p.h."
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c437e4564b19ac96182398a",
+      "uri": "spotify:album:0kPMlFztSKJyTIiN0qDD25",
+      "name": "feel so high (feat. i-fan)",
+      "album_type": "single",
+      "release_date": "2009-10-06",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e067293967c4325903b47563",
+      "uri": "spotify:album:42ultPD0HOqbJY2DsMwnlJ",
+      "name": "twilight zone (dance valley anthem 2009)",
+      "album_type": "single",
+      "release_date": "2009-07-06",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bc52949b56c18eb72c13df6",
+      "uri": "spotify:album:7irE8Rog2Qt3n61nVHt45t",
+      "name": "display / storage",
+      "album_type": "single",
+      "release_date": "2009-06-29",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273816ac5e4b3ff50b6a0a4bfe1",
+      "uri": "spotify:album:3GVlZoc8XIcnV0LaRCf9vJ",
+      "name": "show me love (hardwell's sunrise remix)",
+      "album_type": "single",
+      "release_date": "2009-03-24",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "steve angello"
+        },
+        {
+          "spotify_id": "2WvLeseDGPX1slhmxI59G3",
+          "name": "robin s"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d41ff82ce351e3ac56bfccc9",
+      "uri": "spotify:album:3uZs8JsaCrEeVRVvFirVIw",
+      "name": "wake up",
+      "album_type": "single",
+      "release_date": "2009-03-23",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2D8r5CIny7Dzr01KMlu2l1",
+          "name": "dj jeroenski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f575a1cecc7847ba4ac012c",
+      "uri": "spotify:album:0qLTzllUkovGOZuW4Ati2s",
+      "name": "blue magic",
+      "album_type": "single",
+      "release_date": "2009-03-01",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395141ea574601dbc101ac9fd",
+      "uri": "spotify:album:7qXkeco3WfwWwqviKtTLCF",
+      "name": "enigma",
+      "album_type": "single",
+      "release_date": "2008-10-13",
+      "release_year": "2008",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735afbc163663b925c0d3c7f3e",
+      "uri": "spotify:album:6myHVSvb8wfcH8rbSJDD6O",
+      "name": "hardwell eclectic beatz sampler vol. 1",
+      "album_type": "single",
+      "release_date": "2008-07-15",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736531e4ff2efdf42a21e4b6e1",
+      "uri": "spotify:album:6ZEjAQm5Q5pzfuzHKfcjcS",
+      "name": "mrkrstft",
+      "album_type": "single",
+      "release_date": "2008-05-30",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:58.000Z"
+}

@@ -1,0 +1,130 @@
+{
+  "name": "purely grey",
+  "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+  "uri": "spotify:artist:0ymi2ZGaoT4vc49uZCQmn7",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4118dd65bee9c8abf4101a8c",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c135d13ebf22d28364535d78",
+      "uri": "spotify:album:06OMq6vC9JI0EsnSCAXNfb",
+      "name": "hyperflex ultra demo ost",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737de85c2839e95189bde5b119",
+      "uri": "spotify:album:6AhzU60Q2CNweDkKORl7kS",
+      "name": "min.",
+      "album_type": "single",
+      "release_date": "2023-02-11",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c2aac396f5acc34bcd5d885",
+      "uri": "spotify:album:3FL9IDFFNvGs9Wun7N7095",
+      "name": "singles & remixes, vol. 1",
+      "album_type": "album",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333ee1b9bb23044bb967d945e",
+      "uri": "spotify:album:22TLC4i3GyLymLLApIQHsh",
+      "name": "27",
+      "album_type": "album",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9db31beb210bcb7fce4e6a4",
+      "uri": "spotify:album:1kuDBFWlOnre97hgE4xZy7",
+      "name": "battlepoint",
+      "album_type": "single",
+      "release_date": "2018-09-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730148d467223a1d0089d37c0b",
+      "uri": "spotify:album:6plv8jozkdf4unryuA5mLK",
+      "name": "slumber party with ghosts",
+      "album_type": "single",
+      "release_date": "2018-08-06",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a8b56eafdd576cefa40c0f3",
+      "uri": "spotify:album:3Qr5PWyGw3YXhVjDMeSIIV",
+      "name": "searchlight",
+      "album_type": "album",
+      "release_date": "2017-10-03",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273559f48dfab15dcb12a9695c3",
+      "uri": "spotify:album:6uQOPgiABZQ1T19Q15R07T",
+      "name": "hyper flex (original soundtrack)",
+      "album_type": "single",
+      "release_date": "2017-09-30",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0ymi2ZGaoT4vc49uZCQmn7",
+          "name": "purely grey"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:00.000Z"
+}

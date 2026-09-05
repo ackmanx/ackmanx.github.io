@@ -1,0 +1,877 @@
+{
+  "name": "shapov",
+  "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+  "uri": "spotify:artist:36VSvhsPFTdsj1CtmatPiQ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb2c099da76429d52da983e938",
+  "genres": [
+    "trance",
+    "progressive house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ddc2d716ea8c0a2b6e19531",
+      "uri": "spotify:album:06WJZ6jHjEA0GDtZnzGP2l",
+      "name": "paca ep",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385b8574e4ec57f5b0a7578cb",
+      "uri": "spotify:album:5NwL4vC3FntqKRT5QsuyMq",
+      "name": "wild & free",
+      "album_type": "single",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328685c674c49b641233aaad7",
+      "uri": "spotify:album:2mdK1bMQsQmfWiNTtnjyyg",
+      "name": "trigger",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273545a729070e03bc88d9aba44",
+      "uri": "spotify:album:1bunTMHdZ3y4KJthh99hha",
+      "name": "tumba la casa",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3e65b51574a03c86a14ee3f",
+      "uri": "spotify:album:6NW40xbpp1JB1mKswOYaMb",
+      "name": "favela",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9763e18b9c50b41fbc03451",
+      "uri": "spotify:album:0Km92KuFMhy9BjzWTo7v8Z",
+      "name": "desejante",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731855a10f04f2c99c05a4d2c3",
+      "uri": "spotify:album:66sergixw6Q8egGA8S1lc1",
+      "name": "forte",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fede3d74578f03ec22bd9996",
+      "uri": "spotify:album:2lZfTcegonh5nlnULAJCms",
+      "name": "flipdat",
+      "album_type": "single",
+      "release_date": "2025-09-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e59d38f6c7f60b5f52b07088",
+      "uri": "spotify:album:2PhwDlPYnxHOTuNjWoKChO",
+      "name": "dreams control / rock 'n roll - ep",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bef2046d68ad8e84fdbcd734",
+      "uri": "spotify:album:4HJGn2HpoDB4rrloweriFF",
+      "name": "rock 'n roll",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e55d93a205971d89ef1b407",
+      "uri": "spotify:album:3WVEcj1a9hXD7uHPSmZgni",
+      "name": "feel me baby",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364a8fa007c375da4f66dd093",
+      "uri": "spotify:album:2t1ZD3vbQFHZ4YvVja2e66",
+      "name": "rolling deep",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327786d589c8d40b140c7ec54",
+      "uri": "spotify:album:3IIWqsqYLn04oX30fr46dA",
+      "name": "wannabe",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a7a760ad0bae078807fac2b",
+      "uri": "spotify:album:1yyxYyJQxrCVGR5nnUpYEF",
+      "name": "essa mi",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "3LaBw0YCv8D35w9AvePFtF",
+          "name": "aspyer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389558d27c28a763e56977e49",
+      "uri": "spotify:album:5EOOn20un4AO55pPU5gOjI",
+      "name": "i need this love",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4Ln3kMO5nKaJvF39jqThyR",
+          "name": "years"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b23040b06e595c9a0d9635f4",
+      "uri": "spotify:album:2fs5SwvfqPRlddnn9nQWXP",
+      "name": "valhalla",
+      "album_type": "single",
+      "release_date": "2023-01-06",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "1klrOHkzxWvTmUOpGySO0i",
+          "name": "nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316453cb6d22f9ad06997524b",
+      "uri": "spotify:album:3RJIbFZkZzJvHS6ocllJoc",
+      "name": "welcome home",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f72b9097d7fb59cbb6625b9e",
+      "uri": "spotify:album:3TDTbLfAfRg0JENuYZnd3Y",
+      "name": "new dimensions",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321a010b89a7bfaaeaca5e4f7",
+      "uri": "spotify:album:2NmANbbW10MfykuiI9WRzg",
+      "name": "dark in the light",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "1klrOHkzxWvTmUOpGySO0i",
+          "name": "nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da42970d410822dd86dc31d1",
+      "uri": "spotify:album:4xeayZA9Z9nrXu2l64pVP6",
+      "name": "cornerstone",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b1eb771af5fec8e125cb117",
+      "uri": "spotify:album:0fDa92xzWMhxw7SDjysnSF",
+      "name": "light up the world",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "6StTE02qIwbcJjGEDSZgg5",
+          "name": "avian grays"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340d7d2aacfe1c45efb532e41",
+      "uri": "spotify:album:0R3LDBOcadLy5JjTpzFbn3",
+      "name": "circles",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "1klrOHkzxWvTmUOpGySO0i",
+          "name": "nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334e6df487a087079d8418582",
+      "uri": "spotify:album:3KtIvXzcLADzKNJ13CfFQl",
+      "name": "illusion",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "1klrOHkzxWvTmUOpGySO0i",
+          "name": "nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e65717fdd01402bc4a912037",
+      "uri": "spotify:album:4BAk0OUnye7MzjhJdOJN8Q",
+      "name": "heaven",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "1klrOHkzxWvTmUOpGySO0i",
+          "name": "nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273014783933d2ed7dee3a9e1cb",
+      "uri": "spotify:album:4qwrlLfnVsXUsZ1ToXjmTl",
+      "name": "inside the rave",
+      "album_type": "single",
+      "release_date": "2021-05-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398bb640f03e1264e3eac80f4",
+      "uri": "spotify:album:6Ixo3dUZoc6P0GwxLCp5nx",
+      "name": "unboring the future (the remixes)",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5zfDGV6C2Xwns1g773GF3N",
+          "name": "magnificence"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfe2d16710d40e970efe18b5",
+      "uri": "spotify:album:7Cn3AC3QWIwuowGNQH0rFn",
+      "name": "chasing shadows",
+      "album_type": "single",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360ddea661c340c9b7bebdd93",
+      "uri": "spotify:album:5iLPLeCMv9UDE55ABPqcBn",
+      "name": "my world",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273059202feb01b9c6f7cfb1b1c",
+      "uri": "spotify:album:2fAbbySvBMW8BPndeDIVpc",
+      "name": "unboring the future",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5zfDGV6C2Xwns1g773GF3N",
+          "name": "magnificence"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375e13f32fc9443f0efba815e",
+      "uri": "spotify:album:4TXK5XcFWcvUIGy7kj6gZd",
+      "name": "trilogy",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b5ebf98f03d808022c5ead4",
+      "uri": "spotify:album:5ZSH3Y6ZY2joF1pKLMVRce",
+      "name": "our origin",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bbab30d599a6dcfca7aedd7",
+      "uri": "spotify:album:4BA836cRSgHeJzkImZwTVh",
+      "name": "the last dancer",
+      "album_type": "single",
+      "release_date": "2018-03-22",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae8f981eed5e31983c8cad4a",
+      "uri": "spotify:album:2kQ4L2F2gcSoBZ3pxdjH8i",
+      "name": "alternate",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4HGnSYqBdxV2eXZ3V2kqBW",
+          "name": "sam bagira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7414d93c823bd7ff7bb1795",
+      "uri": "spotify:album:6vgMDAlXr8QowpXlrqkJz4",
+      "name": "the way (remixes)",
+      "album_type": "single",
+      "release_date": "2018-01-05",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4SoF1XBWjLKLBGe6j1hhBo",
+          "name": "trouze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733299554e05ccffd8879a7cc5",
+      "uri": "spotify:album:05ZfwwpgqluriuzjtuDmEz",
+      "name": "the way",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4SoF1XBWjLKLBGe6j1hhBo",
+          "name": "trouze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318e0ba8c28165acdd4dc906c",
+      "uri": "spotify:album:6ZVrCuryUGrC9cX8te1DrJ",
+      "name": "four corners (remixes)",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "5avMgnZO8BSaIPKK60eD1y",
+          "name": "new_id"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e83c455b7f99e27214ac6a58",
+      "uri": "spotify:album:6fVyU8Tcp4n5KhoWebHN5H",
+      "name": "four corners",
+      "album_type": "single",
+      "release_date": "2017-02-10",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b35e497ebd944f0c08d165e9",
+      "uri": "spotify:album:6LwGAu2KtpcifOixWayv1U",
+      "name": "beats do work",
+      "album_type": "single",
+      "release_date": "2017-01-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a24b4e870b1d98d4df2d28c6",
+      "uri": "spotify:album:208ymvuTjvK93ggmV5cPfp",
+      "name": "four corners",
+      "album_type": "single",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a197bc364ce8d2db719c14b",
+      "uri": "spotify:album:3bDHgnS8Ns5gzyOx08l1YY",
+      "name": "four corners (remixes)",
+      "album_type": "single",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ccc936ba66d10b6a94f2d1e",
+      "uri": "spotify:album:1CW8xdW3P4u5I9B6h12amF",
+      "name": "the way (remixes)",
+      "album_type": "single",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "4SoF1XBWjLKLBGe6j1hhBo",
+          "name": "trouze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af532cd6f3b59cc54d7ecf45",
+      "uri": "spotify:album:4JD2Kd3rNBVbJgt20i8hsu",
+      "name": "belong (remixes)",
+      "album_type": "single",
+      "release_date": "2016-10-07",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xNmvlEiICkRlRGqlNFZ43",
+          "name": "axwell"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ceb1f9aae8f9aa4cc5dc491a",
+      "uri": "spotify:album:3GHdJhk6n0gPnpXYzlp4uJ",
+      "name": "belong",
+      "album_type": "single",
+      "release_date": "2016-08-05",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xNmvlEiICkRlRGqlNFZ43",
+          "name": "axwell"
+        },
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397fa9897cd3a80a49a8d24c4",
+      "uri": "spotify:album:5lsi3a2f3ketkYpBSk0r7T",
+      "name": "future rave",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ab01c7ee5ab5f6679d9e9b8",
+      "uri": "spotify:album:4ZB5eorQjdvflbCzYJm0UE",
+      "name": "everybody ep",
+      "album_type": "single",
+      "release_date": "2015-10-05",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "2nODqSPqCtMGwO712TqrSb",
+          "name": "meg \\ nerak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273778aa82c60363933941a54cc",
+      "uri": "spotify:album:6jwZuWthjCAXAuYDYi8JkT",
+      "name": "runic",
+      "album_type": "single",
+      "release_date": "2015-07-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4f4cd49a34a98c40df8aee7",
+      "uri": "spotify:album:7Ihn3EcBSa9TlUyvmyWbpM",
+      "name": "vavilon",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        },
+        {
+          "spotify_id": "57TR9rGvnqx5QDkRtWu6GV",
+          "name": "amersy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d5dc5d595fb4f33cf3cc7e6",
+      "uri": "spotify:album:3tZiyfvwHZaHjBP1ezDouh",
+      "name": "shapov ep",
+      "album_type": "single",
+      "release_date": "2015-02-23",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "36VSvhsPFTdsj1CtmatPiQ",
+          "name": "shapov"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:13.000Z"
+}

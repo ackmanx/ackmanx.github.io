@@ -1,0 +1,528 @@
+{
+  "name": "ubur",
+  "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+  "uri": "spotify:artist:2m8lZUuPm2BLQ2c8gtIAV6",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb96a6a73ecbdbedd52f02b0ab",
+  "genres": [
+    "riddim",
+    "deathstep",
+    "dubstep",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcc601b04af29faf007abbc6",
+      "uri": "spotify:album:56JNwcfWtoP2UKIJZF1jDX",
+      "name": "thats all folks",
+      "album_type": "single",
+      "release_date": "2025-09-24",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b968ca804ea323beb79c1f9",
+      "uri": "spotify:album:0nLXlrwkdXDjAa7975q2Tz",
+      "name": "computer time",
+      "album_type": "single",
+      "release_date": "2024-12-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d99e85939519f76fb1bde59e",
+      "uri": "spotify:album:1aN3w2TGFBXm88NevOuQnM",
+      "name": "hazardous",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f53beb5a07c662dafcc6b8d",
+      "uri": "spotify:album:6ArnuppkDAotP2RgJwHXIl",
+      "name": "snuff out",
+      "album_type": "single",
+      "release_date": "2024-04-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1aa27889efb35f0e1e8ad74",
+      "uri": "spotify:album:10VG5RizUBxlN2qun3xGaO",
+      "name": "moon vision",
+      "album_type": "single",
+      "release_date": "2024-03-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        },
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "3dvdjsMgKeEDUGiKxZDFME",
+          "name": "neonix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7d3772989614ff3b77bdf4b",
+      "uri": "spotify:album:5cBUFQk5zScVzxQSHwl2z4",
+      "name": "liar",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340a669eb4fc84360a0d4f8a0",
+      "uri": "spotify:album:7qdcACEkZbweWyARLBYtE5",
+      "name": "divergence",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "7csjnVvI7V4mm9e7fvqRdC",
+          "name": "phiso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f61c7e9404fb27f961a53afa",
+      "uri": "spotify:album:7LZt2qX5fbr4v2iJXIqmFE",
+      "name": "gamble",
+      "album_type": "single",
+      "release_date": "2023-01-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "29WUwugsDf2hQ5tAZMyR7T",
+          "name": "prosecute"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382f0bb4427aa80f1ebe3d009",
+      "uri": "spotify:album:6KJ2Z3hLNHY5QjD0Yd6j4y",
+      "name": "toonworld ep",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bf5b179e277731f69ef60f6",
+      "uri": "spotify:album:6Xf0olEtOY3CuLlXjaew5m",
+      "name": "party starter",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "3sS9RKjrDJMl7zpG3cWHk7",
+          "name": "aweminus"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321e8a9a049965bb26d9232fc",
+      "uri": "spotify:album:6VKMKCHQG1dbXQxBKAGmZB",
+      "name": "odium",
+      "album_type": "single",
+      "release_date": "2021-07-14",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7e8b5ca531a5e2d71fd5ef8",
+      "uri": "spotify:album:3Scp9GrDoeAKbNfvX8vVRM",
+      "name": "back to back",
+      "album_type": "single",
+      "release_date": "2021-05-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345ea935896f9a1f4220724bb",
+      "uri": "spotify:album:2mCdPEpSYPlJMk8uFbDw0K",
+      "name": "no photos",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730282f3296c393725863d839c",
+      "uri": "spotify:album:2G2fMODUQVu54eLVh79tky",
+      "name": "relinquish ep",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d17548feeeb553984dd6e6",
+      "uri": "spotify:album:19xPiwJjpS5lznOwCs0jZt",
+      "name": "run (ubur remix)",
+      "album_type": "single",
+      "release_date": "2020-10-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2fNr4ldujwq97v1jWeqs8K",
+          "name": "kai wachi"
+        },
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273015efbc43c4d144bec530d8f",
+      "uri": "spotify:album:2BtFxRE3JUFhJVqh4vsFrx",
+      "name": "zero",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b57bcfb4b25dc53ff073c639",
+      "uri": "spotify:album:1hapkSOEgNf6IAWg3tafFL",
+      "name": "wut",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dd554d979d6b1447f92d03b",
+      "uri": "spotify:album:2qmwoaMCTbhTj9YF0dwSEd",
+      "name": "bad ludes",
+      "album_type": "single",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b07aa6b3822de9ce0996d3c",
+      "uri": "spotify:album:7gvIa6ydQukId9OsolXQnE",
+      "name": "mind control",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386c8c8a7dbf0286117f3ba3a",
+      "uri": "spotify:album:5AUKSspfXqGHD5w65zvbqI",
+      "name": "downfall",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a52bbd2841ae2f154c2bfe13",
+      "uri": "spotify:album:4o8LqaI7xlQdVXP7iiH2w7",
+      "name": "painful choice",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c554a288d2f4fff4ff21cdb",
+      "uri": "spotify:album:5QRYPRtZydmcOqd8NVyqMS",
+      "name": "backdoor",
+      "album_type": "single",
+      "release_date": "2019-11-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735897da322f22ca8052924a4f",
+      "uri": "spotify:album:2UzQYGlc8tKM5a7rmvps31",
+      "name": "another dawn",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4650308b3366ef0a42aa2ba",
+      "uri": "spotify:album:1GMngQZtQ4kMcwCSAVLtDM",
+      "name": "runaway",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "7f7uTajAqbXruaAKcdaOZr",
+          "name": "somnium sound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377ab4404266ee7a162224130",
+      "uri": "spotify:album:3rcrWusWlA9aHji0jrJhNA",
+      "name": "rave roids",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273457b58b8fac38eb086cac03c",
+      "uri": "spotify:album:5ue4Fwk2B0bjeb6qJDVzHf",
+      "name": "savceboys",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2u01kCKA5wDvvztuH8lyT0",
+          "name": "svdden death"
+        },
+        {
+          "spotify_id": "3z8SEnYy9gIRNrSVNJieXx",
+          "name": "oolacile"
+        },
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345d6c76ad58c081feb450030",
+      "uri": "spotify:album:0HpWEt0PQxJH4jLMlk0xQh",
+      "name": "too spicy",
+      "album_type": "single",
+      "release_date": "2018-12-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e1120ed327e687a8882ec96",
+      "uri": "spotify:album:5RIVkIcsmjVaPzqCMPtsl5",
+      "name": "flex",
+      "album_type": "single",
+      "release_date": "2018-08-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "0Yn46o6eOv5pPjV8RxmDVF",
+          "name": "subject 31"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731365a0340daa9e8b20696547",
+      "uri": "spotify:album:5PSANGOr4ceKZLakJWBKiO",
+      "name": "double u ep",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce5a51673c85f4a2116ebb3a",
+      "uri": "spotify:album:444z6Rv6x3MwH0SyeLnbLq",
+      "name": "welcome to heck ep",
+      "album_type": "single",
+      "release_date": "2017-09-04",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273309050b2a0289fb44bd2df49",
+      "uri": "spotify:album:0D43LLZ7H7uOsB0VfwgH5A",
+      "name": "deathtrap",
+      "album_type": "single",
+      "release_date": "2017-06-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:49.000Z"
+}

@@ -1,0 +1,833 @@
+{
+  "name": "peekaboo",
+  "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+  "uri": "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6a00a94a60e66f14368fc957",
+  "genres": [
+    "dubstep",
+    "bass music",
+    "riddim"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731395aeeaa11cd3665c0588b0",
+      "uri": "spotify:album:5SLXmClA3IiEXxT9Nykfaq",
+      "name": "are we dreaming?",
+      "album_type": "album",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bd7d6d3123eab8b556861dc",
+      "uri": "spotify:album:5rkojuBYuhooxWINJM5gXZ",
+      "name": "answer all my prayers (feat. nick smith)",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "6iPbI11utXY9CVhX6SPXEg",
+          "name": "nitepunk"
+        },
+        {
+          "spotify_id": "7xqIp1044Z2vd9v9ZphjLa",
+          "name": "lyny"
+        },
+        {
+          "spotify_id": "03AJD6Gg6ZfEus17Dhhu1A",
+          "name": "sayak das"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e09daad245a59e917f07d065",
+      "uri": "spotify:album:3M44H9DeObJQXKK1UTOUHL",
+      "name": "6 million",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "07CimrZi5vs9iEao47TNQ4",
+          "name": "flowdan"
+        },
+        {
+          "spotify_id": "75VKfyoBlkmrJFDqo1o2VY",
+          "name": "fireboy dml"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312883be18fae01fdfbce7247",
+      "uri": "spotify:album:699M6LAUSZzByTkzsrUVqJ",
+      "name": "want it",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ea4e377abe2b43425dd2081",
+      "uri": "spotify:album:3lUmEiPqlKt0PdFNVfJcWV",
+      "name": "yeke yeke",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0c322a12cb05218d006817d",
+      "uri": "spotify:album:2ceqIvXa5nWgTq79Mzeq5t",
+      "name": "go!",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttBnysifryX99bjzeFPGr",
+          "name": "jon casey"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732498aa9e368e1caef4fe2b7c",
+      "uri": "spotify:album:6BS7TkvuOolY7ZTM6xMhTG",
+      "name": "one more time",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "3JmGsgVoGUN1Ro1jLfi7k1",
+          "name": "scrufizzer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb7921259f6ded55803f4245",
+      "uri": "spotify:album:4ZKQ06azImLQ904PPtM8eT",
+      "name": "no room",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "6WjX4pepHwXa85B9KMk0PY",
+          "name": "p money"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abe0d9f881785d1e1072297c",
+      "uri": "spotify:album:37yNxRu1pDMAnXDI15RbKE",
+      "name": "leaving (dont tell me)",
+      "album_type": "single",
+      "release_date": "2025-02-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tmvLj5Sa3njrifpuruKBu",
+          "name": "wink"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273967cf1bd9f2036f631066fe2",
+      "uri": "spotify:album:1yhUxyUJ6YV6etU9UfFow1",
+      "name": "ear candy",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273079d72ce0d5fc44c5f83afb3",
+      "uri": "spotify:album:0qaOzYRvV4T8wYLbUfB6bX",
+      "name": "taka (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3SvsaUFZZNgVZYKrcFgzWW",
+          "name": "ahadadream"
+        },
+        {
+          "spotify_id": "6iZTyHbQWGzpiWoyI0zz9F",
+          "name": "priya ragu"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b86d25b3966524c9e9bfd690",
+      "uri": "spotify:album:5sioyJWHhBFyk8xY0RYPo2",
+      "name": "eyes wide open (remixes)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0c9cdd22f03e704ed487c97",
+      "uri": "spotify:album:3zgSMDDYMuWQJihpF9SFQX",
+      "name": "eyes wide open",
+      "album_type": "album",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b52665d2d50d0b94601738f",
+      "uri": "spotify:album:0WHJCUT9x9kd3FyjAPZS3b",
+      "name": "like that",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "7xqIp1044Z2vd9v9ZphjLa",
+          "name": "lyny"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da4e8682d4c9cae68438503c",
+      "uri": "spotify:album:2fnNChnTcxYGDOBLM2JnF2",
+      "name": "sleepwalk",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273992b6daca54daea6b0b41c63",
+      "uri": "spotify:album:6wtDx4QNiMVpSzpQgrX5N0",
+      "name": "scared",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd1a42e12354d877352185f0",
+      "uri": "spotify:album:0K5ljicneNOkdgx2rNxYBv",
+      "name": "badders",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "07CimrZi5vs9iEao47TNQ4",
+          "name": "flowdan"
+        },
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349ca0ffa2c016a5abf4f8c08",
+      "uri": "spotify:album:0gA9u5SRqAw9LksYz0pnJQ",
+      "name": "when i'm gone (remixes)",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731321a5c41e137348e38995b0",
+      "uri": "spotify:album:4EtKUgNlhDyILgIsPqYm01",
+      "name": "quickness",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6hBrJJrcYoNhvLC6KaFR4b",
+          "name": "eliminate"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2f8cc1d7d1aaa1ee8c91ea2",
+      "uri": "spotify:album:6ReKRCK3U245eOleU8fqlD",
+      "name": "o.p.u.s. (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273565e7fef4f796be3c1f1bebe",
+      "uri": "spotify:album:3ATE1QVGkAwClC83f3YeBG",
+      "name": "when i'm gone",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db747756da589af0c5db7bb1",
+      "uri": "spotify:album:6nDX5W0XTS1KBbpVLtOpA8",
+      "name": "secrecy ep",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a713284a10f0b1b2c0d578ca",
+      "uri": "spotify:album:7cVTw8bzXnTza4JxBtI5ak",
+      "name": "bumpy road",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381e84904807be544ed74edac",
+      "uri": "spotify:album:1nN052r0onvNcxjxFrZKdw",
+      "name": "mitosis",
+      "album_type": "single",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f37dd371583dfafa9dfb1334",
+      "uri": "spotify:album:2SktoDv6LhxQABh838hDQC",
+      "name": "reload",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "4nMuaJ4kBLDJCRBizNESI6",
+          "name": "caspa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370c4c86a68b125654627a793",
+      "uri": "spotify:album:61xOtAdVCQIj6Ipt4MzgXd",
+      "name": "street (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1855712e8cc19728c2f6bb1",
+      "uri": "spotify:album:0Q0mqU937illf7v7rMI8wz",
+      "name": "nosebleed",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c911e75ee235f7d900023e9",
+      "uri": "spotify:album:6nBu8fxRCTK3L8SEiKzKnp",
+      "name": "black hole",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310e907d102a5a473aa85c0a9",
+      "uri": "spotify:album:3M6bUu9PriOE1B8ImJjVs6",
+      "name": "powa",
+      "album_type": "single",
+      "release_date": "2020-12-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387a33b530269a5414cdc0d97",
+      "uri": "spotify:album:0MrSLoHEtnWYFmg38SSnjN",
+      "name": "here with me",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c6c7f2879dc13a5372ec7ff",
+      "uri": "spotify:album:1CxrLWDUvfOaKHNsKGfUQ1",
+      "name": "someone else (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adcc3ff3e974e7b0dcca2919",
+      "uri": "spotify:album:3nXDBmzyGd2fiw5ycqC6xh",
+      "name": "powermove",
+      "album_type": "single",
+      "release_date": "2020-03-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "4zVCMnjw54nkhGHU4e1Pav",
+          "name": "isoxo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7064a9a7fe73e070301f493",
+      "uri": "spotify:album:5CiyYl43Ak4glfvFCvDO02",
+      "name": "impossible - ep",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ddd8911ecb45ea0fdae951b",
+      "uri": "spotify:album:0PBPfqW1Xj6bk3DK7eRAgu",
+      "name": "hands up",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "1s6bMklFjSRcrMy2FtobWM",
+          "name": "calcium"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363fac5a1caabddbf368b02ab",
+      "uri": "spotify:album:6LjQB95aoHpWeOxF4a9Q75",
+      "name": "colossal",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360565936d980f1facc0158fe",
+      "uri": "spotify:album:6g8sMuY9wbpfNfSMVkoJ2T",
+      "name": "wrecking ball",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd42905eb9f0bbc0123507fa",
+      "uri": "spotify:album:5dqobhABvWXbytvUKbPpnB",
+      "name": "lights go down (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2019-02-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273549b0880243ff747ea9d1c06",
+      "uri": "spotify:album:5iJtlxjXoYZYFx7BDr0ltX",
+      "name": "babatunde remix ep",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fedb46a8b5aabfe0e08cdeaa",
+      "uri": "spotify:album:3mZCbWoNNgLjegfmEkvTm2",
+      "name": "babatunde",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330e526cb7e018585a7700edc",
+      "uri": "spotify:album:6LqFIy5FGhKiUht9iR9aLL",
+      "name": "maniac ep",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b9555329dfa5730a0592e10",
+      "uri": "spotify:album:6oQZpRyC53nt9P4RR90abX",
+      "name": "hotbox (remix)",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YJsSCuag8W1TFTgSeEc2k",
+          "name": "liquid stranger"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738438ff9b2c68fe513bce59da",
+      "uri": "spotify:album:4djw1mekY9tWzuIOaUKadk",
+      "name": "imposters ep",
+      "album_type": "single",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afe3adbd0d3709a2393597b5",
+      "uri": "spotify:album:6z8W4tv29x0oMgCdoWMsrC",
+      "name": "u don't know me",
+      "album_type": "single",
+      "release_date": "2018-04-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "4dAyW9qk7sWr9lCmM6LYtG",
+          "name": "wevor trill"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4df88dea888ab553e92f7b1",
+      "uri": "spotify:album:1f2DTnXSMBjPk1IJ2xJf4C",
+      "name": "revenge",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c0ca1b5a883c47a3a57920",
+      "uri": "spotify:album:3nHdTCJmWjpWZvDRDFbsOR",
+      "name": "make 'em bounce",
+      "album_type": "single",
+      "release_date": "2017-06-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NIAQf0fknzfhaeVkRu94x",
+          "name": "5 & a dime"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:39.000Z"
+}

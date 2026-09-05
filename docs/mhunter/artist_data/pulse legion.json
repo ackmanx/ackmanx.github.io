@@ -1,0 +1,45 @@
+{
+  "name": "pulse legion",
+  "spotify_id": "2PvRNk3KhVARsGCqvQi1eU",
+  "uri": "spotify:artist:2PvRNk3KhVARsGCqvQi1eU",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27355b0f1fc746c83125042d611",
+  "genres": [
+    "ebm",
+    "industrial",
+    "industrial rock",
+    "industrial metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355b0f1fc746c83125042d611",
+      "uri": "spotify:album:7ds0kergwKRiJCZaYREVAs",
+      "name": "one thing",
+      "album_type": "album",
+      "release_date": "1999-10-12",
+      "release_year": "1999",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2PvRNk3KhVARsGCqvQi1eU",
+          "name": "pulse legion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb159ae1ce52f266665fafff",
+      "uri": "spotify:album:4PfRUUV7G20hITcVTvknpk",
+      "name": "evolve",
+      "album_type": "album",
+      "release_date": "1997-10-28",
+      "release_year": "1997",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2PvRNk3KhVARsGCqvQi1eU",
+          "name": "pulse legion"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:53.000Z"
+}

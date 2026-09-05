@@ -1,0 +1,829 @@
+{
+  "name": "z.tao",
+  "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+  "uri": "spotify:artist:7brWAbUcLVhV9o1w1dLcsx",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebef2e23d074da57ed38eb521c",
+  "genres": [
+    "c-pop",
+    "chinese r&b",
+    "chinese hip hop",
+    "mandopop",
+    "malay pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273282b673fb69132361236a289",
+      "uri": "spotify:album:0aTdsGIConWm04qDMJSaHZ",
+      "name": "super villain",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "175Ae8zwe9vchnzhL1FNxg",
+          "name": "王鹤棣"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a27ef028f12f52cc4a30ce8",
+      "uri": "spotify:album:2QGEwwb2ZMPoEsGLFh18Iw",
+      "name": "想你的雨",
+      "album_type": "single",
+      "release_date": "2026-05-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf19aa6dba78564d5e46f9f0",
+      "uri": "spotify:album:7lZNTK39AqadBOPJ23YxRL",
+      "name": "爱错",
+      "album_type": "single",
+      "release_date": "2025-04-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348492753d228433e7065ef80",
+      "uri": "spotify:album:6KESkX2KImV7wS9wOxbH5f",
+      "name": "2025diss freestyle",
+      "album_type": "single",
+      "release_date": "2025-01-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7851f275e1e8cf025eaa939",
+      "uri": "spotify:album:5V4KThJL7KhK1xG7oIWPDe",
+      "name": "\"30's club\" pt.3",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273991f9b26a2a5dd237ff91ac2",
+      "uri": "spotify:album:3ECfOMfJRZH5ZGhjpWYNj8",
+      "name": "《30's club》第二篇章",
+      "album_type": "single",
+      "release_date": "2024-04-13",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313baed4f10a9d9cf0e7fa676",
+      "uri": "spotify:album:5Qbow9riWy2JENiFx2VoOt",
+      "name": "《30's club》第一篇章",
+      "album_type": "single",
+      "release_date": "2023-11-01",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e1bdc428816156555c7decd",
+      "uri": "spotify:album:7dP1RlyQJqLsZJa2V2WLeP",
+      "name": "做我的唯一 (電視劇《春日暖陽》片頭曲)",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fd4e0ccf3598062529a23ab",
+      "uri": "spotify:album:1EVPe8Eorf73kDGmgQpWjG",
+      "name": "白色情人",
+      "album_type": "single",
+      "release_date": "2023-03-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1406d0c70dfc5fd96677b58",
+      "uri": "spotify:album:3cexjRAL3qZu9uRq2O43Y7",
+      "name": "yellow",
+      "album_type": "single",
+      "release_date": "2022-12-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c7cd84c2bb4cd0ef0ccfa8b",
+      "uri": "spotify:album:3wZ1GYTu9QkY9u34k9ZAGp",
+      "name": "我忘记多长一段时间没有看到彩虹",
+      "album_type": "single",
+      "release_date": "2022-12-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7epJPq9BfBezifoC5oQ0ch",
+          "name": "doggie"
+        },
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc8a4bedcc628567e3d0c16d",
+      "uri": "spotify:album:1cJI0ZlOphEh6GUhJnDehZ",
+      "name": "失眠",
+      "album_type": "album",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273673a8145234d7199f3f56153",
+      "uri": "spotify:album:6uHnxl9AcYwRGk2eLrpAMC",
+      "name": "young king young boss",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732aa719f70b34641432407e1b",
+      "uri": "spotify:album:6JVksKcYZUxYC9udQZ0m1h",
+      "name": "中國ceo",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddc7ba0c32b91076a005313e",
+      "uri": "spotify:album:4tMnYiESRVEoeTBekWZt2t",
+      "name": "啓程",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e7c06acc959609687eef059",
+      "uri": "spotify:album:4Y6za3KRT1q2Gy7eUHMRzl",
+      "name": "四季三餐",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733208b3ec8224e4b9dddb1061",
+      "uri": "spotify:album:2MOPanpRZZu0L8OnvLuaxb",
+      "name": "她與你(she and you)",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f473f10451eb076a57702fd",
+      "uri": "spotify:album:3yI5f8IIidfZQwjbpgoy9k",
+      "name": "带风的少年（《热血少年》电视剧主题曲）",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "5k5iMDK1nWLbb0eqMnpuKl",
+          "name": "刘宇宁"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eec7decffee8b9f734251027",
+      "uri": "spotify:album:1tJAoOhYc8Jl02WFYRT6LF",
+      "name": "我放棄 (feat. yungk2)",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "1B4tUk3gQtRe6d9KM1dZKb",
+          "name": "yungk2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731407bcc634746dade837b528",
+      "uri": "spotify:album:2JTfbpG5NzRkif00KiIwLm",
+      "name": "越界",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3a542d19350ed622512b1b5",
+      "uri": "spotify:album:29oAqIrnduw3NMtbRfSzSB",
+      "name": "餘生都是你",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eff44a55402b1bc0ce1fd74a",
+      "uri": "spotify:album:0EwZvZMjoae24BYd44Qds9",
+      "name": "黎明破曉",
+      "album_type": "single",
+      "release_date": "2022-08-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abc104cfe2d64a663b112511",
+      "uri": "spotify:album:4WNUZ52Qd9l3AWO3I9TkXh",
+      "name": "爸媽可以不走嗎",
+      "album_type": "single",
+      "release_date": "2022-08-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "1esIiIxiqDsKb34sn0CiVf",
+          "name": "bridge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bc3b294d65a0f907c80daaa",
+      "uri": "spotify:album:5GDVb7mokPhJKGBvncbhJU",
+      "name": "koc",
+      "album_type": "single",
+      "release_date": "2022-08-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731941e4fe50942e98daeb53a0",
+      "uri": "spotify:album:44CUXBPnZA4IRdh8vcwpFc",
+      "name": "分手不分離",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731484664415839febe3e73b11",
+      "uri": "spotify:album:2VOQRXGnivS8nIJIQcKMe2",
+      "name": "單身",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f25d517428907d6257b0b611",
+      "uri": "spotify:album:6h5NRmtHD4XJERESnSLO7q",
+      "name": "好不好",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d42cbe7349bb3123c3de5b48",
+      "uri": "spotify:album:0HT8oXbdICDHWxwqV17cAa",
+      "name": "art is blue",
+      "album_type": "single",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f65906106efaa2e7ded95c0",
+      "uri": "spotify:album:3atEpYj70CfDTeFQT5UDKb",
+      "name": "music is blue",
+      "album_type": "single",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739010ee8e0fc100b9dd1339c6",
+      "uri": "spotify:album:3CnRlDU5M09Lc2o0hNfL8i",
+      "name": "哎",
+      "album_type": "single",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "01mrk3Its3retUncav465w",
+          "name": "黃子韜/韜斯曼"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336a2984ab5e25dfb051cd97a",
+      "uri": "spotify:album:4p4fpPqlOJYfSbxneoHl5x",
+      "name": "young king young boss",
+      "album_type": "single",
+      "release_date": "2022-07-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "7epJPq9BfBezifoC5oQ0ch",
+          "name": "doggie"
+        },
+        {
+          "spotify_id": "1B4tUk3gQtRe6d9KM1dZKb",
+          "name": "yungk2"
+        },
+        {
+          "spotify_id": "4Te1IvpIYb5qSE2caeETE8",
+          "name": "钟骏一"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b095697bd620190e2f462aba",
+      "uri": "spotify:album:22GpcEMAG41GGVD6oMmrdv",
+      "name": "划破天际 (open this sky)",
+      "album_type": "single",
+      "release_date": "2022-01-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c2644605461148cceb04152",
+      "uri": "spotify:album:6jGy7gwLVMShWMcAoPGjnK",
+      "name": "w.t.f(way too fast)",
+      "album_type": "single",
+      "release_date": "2021-02-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JeG2s3c6lfmx7S0ifZAO6",
+          "name": "馬伯騫"
+        },
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "6efeSb0AuG4Z1lFgRddVYI",
+          "name": "young13dbaby"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f409d8845d22e42aa7dc42a",
+      "uri": "spotify:album:1kHunotiEffNrmCbq8Lf4W",
+      "name": "敏感(lh x z.tao)",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        },
+        {
+          "spotify_id": "3fS78kAWd9dVFyaPQ363YO",
+          "name": "lu han"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373ba0f73538865d367064206",
+      "uri": "spotify:album:4R9hg7Nr7gNUVHSK6IWnpO",
+      "name": "最好的我们",
+      "album_type": "single",
+      "release_date": "2019-12-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba420faa0def4fa832a7ee0a",
+      "uri": "spotify:album:0WjTNBm1SswRtKD2IyGy4v",
+      "name": "beggar (daryl k remix)",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735601013ea58100c2c2044078",
+      "uri": "spotify:album:7vFYjfaHXAEPPiNtxV0Ox4",
+      "name": "誤會",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2e4036c27513c39ef3ab0b8",
+      "uri": "spotify:album:7lNWCrbwbTnxPxMGekYqIq",
+      "name": "hater",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731880e752a05be840ce913bc8",
+      "uri": "spotify:album:35exF1I0fgYRIeaTsSDusF",
+      "name": "beggar",
+      "album_type": "single",
+      "release_date": "2018-01-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739beb303413b3ccc88922eb70",
+      "uri": "spotify:album:5RvkFyFCqjQyOkSGNb2iXY",
+      "name": "還來得及remines",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fba74e73687784c167c6613e",
+      "uri": "spotify:album:5KvPIydgvkKCOWKoQhitde",
+      "name": "想成为你（电影《英伦对决》推广曲）",
+      "album_type": "single",
+      "release_date": "2017-09-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc10eddd9f43d54a9d916efc",
+      "uri": "spotify:album:5Lnq4AwgUqqqtvgch2AjAW",
+      "name": "還來得及",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310b2ae89fe38ed4bdb307135",
+      "uri": "spotify:album:0Q7bEjwWS6eCCGJDOOrjvT",
+      "name": "揭穿",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273739daa81f672af523efa27bd",
+      "uri": "spotify:album:6C1k4hDVrFYGLRWe0qYg2V",
+      "name": "collateral love",
+      "album_type": "single",
+      "release_date": "2017-05-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731aef279f676024a367ad9a42",
+      "uri": "spotify:album:0JjH3yy8yswnIXqrhQGdIB",
+      "name": "promise",
+      "album_type": "single",
+      "release_date": "2017-04-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f34fee5e0a638066af6dc74",
+      "uri": "spotify:album:3p2N8neRe9bYn7DdR1Ayyf",
+      "name": "黃子韜2016南京站演唱會live",
+      "album_type": "album",
+      "release_date": "2016-10-09",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de98ea50a439a06c37e48e1d",
+      "uri": "spotify:album:7ojqIRPGVz4rcFzjV7YZc3",
+      "name": "the road",
+      "album_type": "album",
+      "release_date": "2016-08-26",
+      "release_year": "2016",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd484aeed6756ea952bd3988",
+      "uri": "spotify:album:6rcQCCdxCUBeZ3GbOqu6qi",
+      "name": "我是大主宰",
+      "album_type": "single",
+      "release_date": "2015-11-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732369b4edf4dfdaab0bcf4ff2",
+      "uri": "spotify:album:71VFgpVfHdeOI98vW7vQei",
+      "name": "第一課(《開學第一課》主題曲)",
+      "album_type": "single",
+      "release_date": "2015-08-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab27ff421fa7463cca44174b",
+      "uri": "spotify:album:5Vs3x3J0a6xxRQVr68momE",
+      "name": "z.tao",
+      "album_type": "single",
+      "release_date": "2015-08-19",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8fa1819df2a25bcfff2bb3c",
+      "uri": "spotify:album:0JDDMviEzaWZJiIolUweE2",
+      "name": "t.a.o",
+      "album_type": "single",
+      "release_date": "2015-07-23",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7brWAbUcLVhV9o1w1dLcsx",
+          "name": "z.tao"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:36:22.000Z"
+}

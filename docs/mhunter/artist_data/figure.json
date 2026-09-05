@@ -1,0 +1,2198 @@
+{
+  "name": "figure",
+  "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+  "uri": "spotify:artist:5mADpqv2E8KIHDmEhH7wmr",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1a9f588fc1be4c68da08899f",
+  "genres": [
+    "deathstep",
+    "dubstep",
+    "drumstep",
+    "riddim",
+    "dub",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b67e940f73b6d07190ed6133",
+      "uri": "spotify:album:5GvyzvQ4t20qGOl2yDqsud",
+      "name": "the thing expanded (original documentary soundtrack)",
+      "album_type": "album",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff78384c58bf8425288f9d24",
+      "uri": "spotify:album:72BglEUuWxgxm1QEIKUBVH",
+      "name": "been about this",
+      "album_type": "single",
+      "release_date": "2026-07-18",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3rNP0CUzTxxuNpc3ze8rXV",
+          "name": "prolix"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733da34ec06e28a90cb31e3ed9",
+      "uri": "spotify:album:5Bd0LrifTIXfroq6d9vlXN",
+      "name": "computer room",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aef201406f71fe95c01d46ed",
+      "uri": "spotify:album:0Jec8VHJiVvHvKjcDbiSr5",
+      "name": "terminal",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fc32156924bf28eff0f1658",
+      "uri": "spotify:album:1j82vzDiF6X3umiiNtBINC",
+      "name": "purge (remix ep)",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D5VLxuFvZ058Z5S8YmE47",
+          "name": "dc breaks"
+        },
+        {
+          "spotify_id": "3rNP0CUzTxxuNpc3ze8rXV",
+          "name": "prolix"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c853a4dbab2f75b1a1cdacc4",
+      "uri": "spotify:album:09DUHz6TPulO4lm1ri39iU",
+      "name": "baragon",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273677f4db8ad6ef1b61c219233",
+      "uri": "spotify:album:7qFUea10rKJV0AijoR99oI",
+      "name": "rodan",
+      "album_type": "single",
+      "release_date": "2025-09-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f74452506d99ff090c5ee05c",
+      "uri": "spotify:album:5Q3f84rpnDHHmQAvVlE8aF",
+      "name": "kaiju warning",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b315bcac40b468d973fcdec",
+      "uri": "spotify:album:7lTZbEQA8SsTXvY8l4MKn7",
+      "name": "blood level (from \"terrorbytes original documentary soundtrack\")",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cae4614e589509e084ee4a6d",
+      "uri": "spotify:album:2mOvzpryMG5AKkqawAGceh",
+      "name": "save room (from \"terrorbytes original documentary soundtrack\")",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730010cf30d95800a1e1e85252",
+      "uri": "spotify:album:7yO7asz86Y6HqIllcTzjKL",
+      "name": "monsters, vol.1 (15th anniversary)",
+      "album_type": "album",
+      "release_date": "2025-06-16",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ae96d22f3ec02db92c0ee74",
+      "uri": "spotify:album:1J1RUbpxDmYKRCTKgSI13W",
+      "name": "kingston to amsterdam",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc799b52802908e443af36fd",
+      "uri": "spotify:album:4MqkWm42HY7Ynt6W53IJj7",
+      "name": "polaris",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3koHmmPvpgZWHcVmK8AKDq",
+          "name": "hvdes"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273392546a03037d3cb393e7625",
+      "uri": "spotify:album:5GifpfFcbLtA7BJOxcXrnE",
+      "name": "pandora's box (figure remix)",
+      "album_type": "single",
+      "release_date": "2025-01-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2backhV14qzZYlQq4HM8i9",
+          "name": "izzy reign"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bef0bab523b4cc6a852d5f2",
+      "uri": "spotify:album:49W7Y7EOa1dZO3FOyprCIF",
+      "name": "boogeyman (i forgive u but i still hate u) (figure remix)",
+      "album_type": "single",
+      "release_date": "2024-11-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3koHmmPvpgZWHcVmK8AKDq",
+          "name": "hvdes"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374867761fd1ba1efc4cb25a8",
+      "uri": "spotify:album:57lcSRVknDFegfiqrPnVED",
+      "name": "frightmare",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319b1c8544e7bcd9781e2d1fc",
+      "uri": "spotify:album:5g8fspYclKSyC5clDakqf8",
+      "name": "the exorcist",
+      "album_type": "single",
+      "release_date": "2024-10-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba678ded51242811b4df15dc",
+      "uri": "spotify:album:5qhEbtt9sTaqZmYYxNZxc5",
+      "name": "revenge of the cannibal girls",
+      "album_type": "single",
+      "release_date": "2024-10-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4LoJzV2veCWijTidRRCQ8b",
+          "name": "destryur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730faf7f8ff1d96c88eb07c713",
+      "uri": "spotify:album:1eo0uoRfpOeIZbw1cAY54H",
+      "name": "monsters undead",
+      "album_type": "album",
+      "release_date": "2024-10-01",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355122260ffe399c1dec13296",
+      "uri": "spotify:album:2LbS3VWrOXnKMIElwwKc2Y",
+      "name": "house of 1000 corpses",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4F8JGeO6bJO7Z309mxHlP0",
+          "name": "dack janiels"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5b4c190a77a76894bc1045e",
+      "uri": "spotify:album:22aywztjIYIK6oUGI39D1k",
+      "name": "the amityville horror",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "54tpzjVQEi23L7SA78I9HU",
+          "name": "splntr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b375500cd95634047980c1a7",
+      "uri": "spotify:album:65LbjqzZPqdMQ8XMFODcN2",
+      "name": "freddy vs jason",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04CG6b4ulpS991meOU1Hmq",
+          "name": "contakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f006f16bc7036bf73e13e43a",
+      "uri": "spotify:album:5wUzWkhxAmXVXIH2uvWp1e",
+      "name": "the grudge",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7bbdZqxMAZPzcVZIXJ3Eer",
+          "name": "dizzyinblack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739080486b076a5b1d9c29a2a4",
+      "uri": "spotify:album:6OCQPXeuhXau7ApxKcdcf1",
+      "name": "the thing",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7ic8O8BIiVbLVsC8YF0nAE",
+          "name": "cynzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1ffcd76e4fba8fc2938e724",
+      "uri": "spotify:album:6CNMGlYB1ulYlOAaODisqH",
+      "name": "terrifier",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b128a455d6eb976573d659ff",
+      "uri": "spotify:album:08ejtaQycrNsPgFrm6bjeA",
+      "name": "the hills have eyes",
+      "album_type": "single",
+      "release_date": "2024-07-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d0064109c438669215ea639",
+      "uri": "spotify:album:5HSlFY8bnz9560igqUpUrv",
+      "name": "dead to rights",
+      "album_type": "single",
+      "release_date": "2024-07-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "071KeoRJhoGdiaZXSxCEnJ",
+          "name": "cyberoptics"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e70e67ecd39bdd19fa51aafd",
+      "uri": "spotify:album:7Ixn2PzoFPcXmE5c129HLH",
+      "name": "raining blood",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "75CbMZiCqqja44m5d47xg1",
+          "name": "planet blood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4cbfdcc847f7bf20f8ef02d",
+      "uri": "spotify:album:7myaPe6FgH7DvJRwstp0MY",
+      "name": "head crusher",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7ic8O8BIiVbLVsC8YF0nAE",
+          "name": "cynzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ad6d86c9e0af0f7af72f34d",
+      "uri": "spotify:album:4WfbdS2em6jabpbWopEXwp",
+      "name": "future retro",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374977ff12b050cc7f3a2d2ef",
+      "uri": "spotify:album:5iZARIvIrSXUXfKeV3SOfH",
+      "name": "doomsday",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecb318ab727411fedda306c5",
+      "uri": "spotify:album:6fHlGxUiKgF7ZYDzoSIJA3",
+      "name": "dungeon of doom",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e773737352d53fc0c76009d",
+      "uri": "spotify:album:4krxVVR3y5FmU9UUVsbPun",
+      "name": "death toll",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "5y4xjNwy9GEFC4hic2epwe",
+          "name": "jeanie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300bbaa4aa625b2945bc34ace",
+      "uri": "spotify:album:22gEqO2XvNoNuuw0wOlFBZ",
+      "name": "torture chamber",
+      "album_type": "single",
+      "release_date": "2023-09-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c39708137487f9f76ff2ce8",
+      "uri": "spotify:album:2UoGveDWABzOy9IvRUMg5X",
+      "name": "be afraid",
+      "album_type": "single",
+      "release_date": "2023-09-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "3NbWSN2du9Fa62BLZwMsHW",
+          "name": "phantasm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d51c922e3bb2d70477743fa1",
+      "uri": "spotify:album:3TwoNWtp39Do4O3ANCLTQV",
+      "name": "splash damage",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343023fdd056e3d02114a5e7e",
+      "uri": "spotify:album:1gzuuqVkDWxXIYlBCYtkcM",
+      "name": "biopunk",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cd38976682c07a6f6988eab",
+      "uri": "spotify:album:1ZuLnXntgF7mNd6UKIYUYz",
+      "name": "biopunk",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734077fab74d1f6244b94d4880",
+      "uri": "spotify:album:0GupVqMJYtPL9ygWfipkie",
+      "name": "power move",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fd96d4c1182d9267faeecb0",
+      "uri": "spotify:album:2gjz7E8uDuGZIpDwBm6CZ2",
+      "name": "dubstep fight club",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d35cefcfe991b522faed871d",
+      "uri": "spotify:album:6sKqVtba2yfVlVEjWqU4Pn",
+      "name": "flesh rot",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733de9ddedd5c47c115ad5036d",
+      "uri": "spotify:album:0eVbTl3Fzxgz43xZEStm7q",
+      "name": "monsters 13",
+      "album_type": "album",
+      "release_date": "2022-10-13",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6f44f332dae423b3b677748",
+      "uri": "spotify:album:3l6DpMg71tQ15zQYfxbRF1",
+      "name": "frankenstein's fury",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354907f9f1912aa09129b9dce",
+      "uri": "spotify:album:1MGMHPqXqxPCwUZiDzQsMc",
+      "name": "night terrors",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273946dca2cb1b17785f013ccac",
+      "uri": "spotify:album:35EbjYa4eF7tzxmhad22VD",
+      "name": "raver decapitation",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273874eef4de431ec1a86c59c9a",
+      "uri": "spotify:album:53idXX91LxbhsvxgW9EFcF",
+      "name": "camp terror",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04CG6b4ulpS991meOU1Hmq",
+          "name": "contakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273789a9008adfd3ff3188c8535",
+      "uri": "spotify:album:0Blog8yAZDpiJujVg4nhXT",
+      "name": "creepshow",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b1bcb34820546736e38ad7f",
+      "uri": "spotify:album:5Ul62wdyV4D9fnd2bASvtA",
+      "name": "jasons revenge",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a783febf13a5662806cdd063",
+      "uri": "spotify:album:3hmge9iKLSBVCr6Lmll2ld",
+      "name": "take control (remixes)",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1LpxuJ9gD3eHAPjGGvr9Zy",
+          "name": "lizzy jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea7885bceb201d3d9f83b5ac",
+      "uri": "spotify:album:1ksV952XOwsu4EKz65y7Z5",
+      "name": "take control",
+      "album_type": "single",
+      "release_date": "2022-05-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1LpxuJ9gD3eHAPjGGvr9Zy",
+          "name": "lizzy jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312773596616de751a9c20868",
+      "uri": "spotify:album:2SzshUaHvFP9fbTj7xSGQd",
+      "name": "boogeyman (audigy remix)",
+      "album_type": "single",
+      "release_date": "2021-11-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "02DyjGF6XTaN0H43T1kZzW",
+          "name": "audigy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739933d3b3ab1525f8b7ed4b9c",
+      "uri": "spotify:album:1bZp8e17Ewn3hyKtYiB9vr",
+      "name": "silver bullet",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "34krK3AW06onvB0x7mfkkN",
+          "name": "terravita"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273044fa00bca4f6efbc8e34856",
+      "uri": "spotify:album:2kCCfR09DhNQyIBhrcqprq",
+      "name": "monsters 12",
+      "album_type": "album",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd9816eb56e3d98b80eca2cd",
+      "uri": "spotify:album:3rpddmoWiayZyZUQomNeiH",
+      "name": "babadook",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04CG6b4ulpS991meOU1Hmq",
+          "name": "contakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d04d573e520e65484ac056a",
+      "uri": "spotify:album:5gbtqeB7X0qwZ9o57ALzgM",
+      "name": "flesh ripper",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04CG6b4ulpS991meOU1Hmq",
+          "name": "contakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd7ee4cb7649289beef36bc2",
+      "uri": "spotify:album:0VHM9Df6z8oWzSDmsyl6cd",
+      "name": "something evil",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7ygSJBM6sZ0vXGJvjnL1V5",
+          "name": "enigma dubz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273151c007f86cd3a0ccc3a9889",
+      "uri": "spotify:album:5tBdoArO1jAQ6WRYeGEDKd",
+      "name": "zombies ate my ravers",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4AFmCAFHwoV2o3QR1Wgup4",
+          "name": "mdk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738412157963788fb4b1b280a8",
+      "uri": "spotify:album:5iTi94mFWlov61gFrrXoQz",
+      "name": "karma restored",
+      "album_type": "single",
+      "release_date": "2021-09-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733082c3eea61be6f2e51f6f39",
+      "uri": "spotify:album:42Cx3aTBgiipm65NJCTfH9",
+      "name": "slenderman",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4X9AwmgVXdmoOWzDjyFgCm",
+          "name": "2fac3d"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b9668f7d9a75bf0e7bfbb4",
+      "uri": "spotify:album:2ES9Vx3aJ4keMGo0SlM0vH",
+      "name": "the new system",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7a3c8c5a641301d81e04dff",
+      "uri": "spotify:album:3Pqp4xtZnJczQ3VapSzH4b",
+      "name": "pixel riddim",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273132f9a5bad31073c295a017d",
+      "uri": "spotify:album:6bjsybIWQkkntOTdI75Y7u",
+      "name": "terrorvision",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca98801a1b4d2f026e0c4455",
+      "uri": "spotify:album:231dZRPKe9yWaTvJ4JdVHZ",
+      "name": "zombie (the cranberries cover)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273604b9ccb96989ca2bc3bc0fd",
+      "uri": "spotify:album:5Cyuf2D7NUdh8Y8gzHq2G9",
+      "name": "vortex engine",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b3099e2ee8ab5de551dcbd4",
+      "uri": "spotify:album:2gw3u7tLJUGAh2DDuxfGx7",
+      "name": "this is halloween (drumstep remix)",
+      "album_type": "single",
+      "release_date": "2020-10-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e20d1017b9422075cde3e2",
+      "uri": "spotify:album:1myE5Ic85bANSuCCekjEU4",
+      "name": "xi monstrum",
+      "album_type": "album",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273518f9ecdbaf816e3e93fc89a",
+      "uri": "spotify:album:1I5RoXDUtlZ4KA8vaVtMG8",
+      "name": "ancient evil",
+      "album_type": "single",
+      "release_date": "2020-09-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "2Flg7a3KTusVWltE4Omrgg",
+          "name": "ryan browne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312604fc23d675a3057169ac9",
+      "uri": "spotify:album:52s1YgtS7umseLG8UjVRvA",
+      "name": "ravenous flesh",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04CG6b4ulpS991meOU1Hmq",
+          "name": "contakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b61aebda22d5b06ffd14847",
+      "uri": "spotify:album:0Hww5PjYhc7wtWFgaH33qA",
+      "name": "if it bleeds",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "6VaCJv2KP3kU8uZiezGkgM",
+          "name": "born i"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273336b239f3ba36a51fb742faf",
+      "uri": "spotify:album:7mqUMcWbM8CG24YeMd9TJC",
+      "name": "haunted hits",
+      "album_type": "album",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e4aad0de9ae0388d3daf4e4",
+      "uri": "spotify:album:58QA2vIFNTvpmNV4NxUdKW",
+      "name": "aliens [reprise]",
+      "album_type": "single",
+      "release_date": "2020-07-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d35e18143c6b5ea9dc55a382",
+      "uri": "spotify:album:41QLXDEhDWTDueSqFyakE9",
+      "name": "does not compute",
+      "album_type": "single",
+      "release_date": "2020-04-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273777049277fbc8b4fa90d857c",
+      "uri": "spotify:album:1D6IVwbfsm64Cz9g38opnM",
+      "name": "space swamp",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394a145f903f06315db1738bf",
+      "uri": "spotify:album:5K4T6pbbPwoboLbJTsozSI",
+      "name": "the afraid session (live mpc recording)",
+      "album_type": "single",
+      "release_date": "2020-01-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f55068f914f11bad102d0720",
+      "uri": "spotify:album:0e6bctdVv8NRxuGxdKWWW9",
+      "name": "monsters 10",
+      "album_type": "album",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a11f19e137cbafa4a0ce1fe5",
+      "uri": "spotify:album:2eGh3RtNz8V6FIPkd7SIxk",
+      "name": "spirits of the dead",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7fDOwYn3gMkegC9nGL0NNK",
+          "name": "graphyt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d164dc6d7ce8979330cb0a80",
+      "uri": "spotify:album:6sx9ZY6P28uxhLHArvXhpg",
+      "name": "poltergeist",
+      "album_type": "single",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d51d21e243499fb3a369afb7",
+      "uri": "spotify:album:0X32NKUlFcqdYZPhcv7mLp",
+      "name": "vampire hunter",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fca7b1dc93ced035d3338f1",
+      "uri": "spotify:album:1itihTncIR6GThcEazeZnJ",
+      "name": "riddim of the living dead",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "0kceiKJrP7AsW2rUPeAw3v",
+          "name": "point.blank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3d466147ead89bde5a911a0",
+      "uri": "spotify:album:6DrIpsO00BjOlPoSy6gaCy",
+      "name": "the hearse song",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "2pJ0IokMGR9Y3xsEuz2UPS",
+          "name": "big n slim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cd677ffcb7a50e0ff51b6a6",
+      "uri": "spotify:album:4ZdZdD69gENEKO7TVcycVY",
+      "name": "monster squad",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1hJYxIAOkKsn7Za14MGLIe",
+          "name": "hehvy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736400a0de88f537aa82f9ab99",
+      "uri": "spotify:album:6S8xZHC0pjFSktfTa1glBu",
+      "name": "turnbuckle ep",
+      "album_type": "single",
+      "release_date": "2019-05-29",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d9303f9a074a5c5a7d10958",
+      "uri": "spotify:album:4BHjpdMGwW5PiSUQTcChIg",
+      "name": "the destroyer",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa462b9ead4de70b54c2be47",
+      "uri": "spotify:album:3vlhPusoOW7IGTxOxGDTgJ",
+      "name": "exterminate",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397e8e3eba31d4ff9e78a9fa8",
+      "uri": "spotify:album:1VSNFTAA57h5tnBq6w7pIc",
+      "name": "emp charge",
+      "album_type": "single",
+      "release_date": "2019-03-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732155c86a340a1606d03d1dcf",
+      "uri": "spotify:album:3aZJM3bdo2Fp2XptKJI7xQ",
+      "name": "i don't give a fok - the remixes",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8d904047564186ed2645751",
+      "uri": "spotify:album:52lDD39rVYK5NQAPsYzWqw",
+      "name": "lacrimosa (figure x don't kill it remix)",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "3fsFbiymalBmqmOQxhIh1H",
+          "name": "don't kill it"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7265bc7df4550555dc65b9f",
+      "uri": "spotify:album:0DrYEdXuqnvcAlUgupwJo0",
+      "name": "the asylum",
+      "album_type": "album",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dc92a72d6f8fcc8e24b982a",
+      "uri": "spotify:album:6MHr4c1pXh6CwpFAWE5FCn",
+      "name": "the escape",
+      "album_type": "single",
+      "release_date": "2018-10-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1VXwffHmbZazop9b8d4lWF",
+          "name": "don't kill it"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273533b0503871e830963e14cff",
+      "uri": "spotify:album:49YckjoB3NcajV37KODdYJ",
+      "name": "shock therapy",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383f43e3249f8ae5fd2373a48",
+      "uri": "spotify:album:3KunJoQsREwJxPzfXM3t5x",
+      "name": "dr. death",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4F8JGeO6bJO7Z309mxHlP0",
+          "name": "dack janiels"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd187538e7c3bcd198a13528",
+      "uri": "spotify:album:5fHRWZsjGQV0WRLL7wN1wr",
+      "name": "i don't give a fok",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbbb86d91dca9c6540c2ffa5",
+      "uri": "spotify:album:2nBj64UxM6QzPUC61FwwR6",
+      "name": "heartbeat of hell ep",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273700efdabe6186b28586301d7",
+      "uri": "spotify:album:79DW4rgM6L2sfvEB5wv9sL",
+      "name": "let's go",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "5z0cXmY4mdKeUt2X2Wn48i",
+          "name": "bare"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731382c94a79baf85788f6ef7f",
+      "uri": "spotify:album:59ZQxuePtsMp75b7JVVzjy",
+      "name": "incident 86",
+      "album_type": "single",
+      "release_date": "2018-04-25",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0fed5acf22b6a94f9492d04",
+      "uri": "spotify:album:2Muk5mvGyDQRwTk6N1PHMZ",
+      "name": "riot",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1063860e46feab8a3cf7e18",
+      "uri": "spotify:album:2wMkxXlcN20EkgQi3neauj",
+      "name": "monsters: the remixes, vol. 8",
+      "album_type": "album",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5be4c75eff0bf99046a0966",
+      "uri": "spotify:album:6HEQbRjPuXDVhSbej4EDz9",
+      "name": "ultra combo",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4F8JGeO6bJO7Z309mxHlP0",
+          "name": "dack janiels"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273064074cf2ac1f34d70a07500",
+      "uri": "spotify:album:6z20Sr7Suw4PV1xGRTuUnb",
+      "name": "halloween triple feature",
+      "album_type": "single",
+      "release_date": "2017-10-31",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f413f8defd88b60392d5c70",
+      "uri": "spotify:album:1tQ2uapBzwuNvu4rHSieJR",
+      "name": "the werewolf (dmise remix)",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273452bc3484facb159ddc5c476",
+      "uri": "spotify:album:1meoeDK3eTx1pyZVCKPydy",
+      "name": "monsters 8",
+      "album_type": "album",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feb99a09da84f8896e03dfc0",
+      "uri": "spotify:album:7iFd8AJziWcmpBcK0Zk8Pz",
+      "name": "reverse bear trap",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b87cb6facf0778b28b6e11ce",
+      "uri": "spotify:album:35np0pyjXrDMu7dFNpHv8Y",
+      "name": "the werewolf returns",
+      "album_type": "single",
+      "release_date": "2017-09-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734235882a7748facd3713c40f",
+      "uri": "spotify:album:2bFeh9pLd35cSno64Nk1H7",
+      "name": "the spider",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1enXqMjKilghZfED8jf7Qd",
+          "name": "tengraphs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8f5aa63ec685bf3d52b3ca7",
+      "uri": "spotify:album:500L6hxnDNytLqJiDktStv",
+      "name": "phantasm",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dca768782f402d92c8095f90",
+      "uri": "spotify:album:6V6FjSlflFEOMDQEtpI6vw",
+      "name": "entering the future",
+      "album_type": "single",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273496f7e21e6545359fef809eb",
+      "uri": "spotify:album:6cSz4fVlT7iXSagvvtMLbF",
+      "name": "the game",
+      "album_type": "single",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "04vdWVjgi45nrMAxeCEVQe",
+          "name": "bear grillz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5bd796110c13d57575b6180",
+      "uri": "spotify:album:0eT4csThUhEEGVXrd5ub0e",
+      "name": "monsters 7 remixes",
+      "album_type": "album",
+      "release_date": "2017-02-03",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b7f2e17b6fa562acbf04693",
+      "uri": "spotify:album:7LVMhegH8rYlAHT0leAmqC",
+      "name": "monsters 7",
+      "album_type": "album",
+      "release_date": "2016-10-07",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2d9896d040c8340ca904e0d",
+      "uri": "spotify:album:7CmwQhbBLAa5EQYANySUnI",
+      "name": "hellraiser",
+      "album_type": "single",
+      "release_date": "2016-10-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "5z0cXmY4mdKeUt2X2Wn48i",
+          "name": "bare"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738504661f4bddd850a4c07a65",
+      "uri": "spotify:album:7kNWje2FcBnUwIXWm35fqU",
+      "name": "the exorcist",
+      "album_type": "single",
+      "release_date": "2016-09-21",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0b3c8ca1bfd7fc075537307",
+      "uri": "spotify:album:0hTlemO5moeh59L0pvUPmM",
+      "name": "the ritual",
+      "album_type": "single",
+      "release_date": "2016-09-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4F8JGeO6bJO7Z309mxHlP0",
+          "name": "dack janiels"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7ea455c5621740f3a458f76",
+      "uri": "spotify:album:0TYXwoCVYUAqeWDwXiC1c6",
+      "name": "death",
+      "album_type": "single",
+      "release_date": "2016-07-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7gu1f50cueckCany2Ejrmk",
+          "name": "figure, 2fac3d"
+        },
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "4X9AwmgVXdmoOWzDjyFgCm",
+          "name": "2fac3d"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273070a299eb0febf0ab22a50ee",
+      "uri": "spotify:album:4mmSqSu8fxGrY5fMoOSFXE",
+      "name": "chew you to pieces",
+      "album_type": "single",
+      "release_date": "2016-05-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "7GVHuKPEL3P4layti5oVnh",
+          "name": "kill rex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734de6542dc4001c1177b193b7",
+      "uri": "spotify:album:7kUe9KCLpAxIN1ivW6CS7B",
+      "name": "gravity remixes",
+      "album_type": "album",
+      "release_date": "2016-01-18",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732635b78348d10b0bfa25ff24",
+      "uri": "spotify:album:5gZEEPnLMKNN8LOd7Q29rU",
+      "name": "figure: monsters 6.66",
+      "album_type": "album",
+      "release_date": "2015-10-06",
+      "release_year": "2015",
+      "total_tracks": 66,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fe2b5f4daaca84a8d0ba227",
+      "uri": "spotify:album:2RWyvosAgsiD3G30Nu8jjV",
+      "name": "gravity",
+      "album_type": "album",
+      "release_date": "2015-08-31",
+      "release_year": "2015",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c65926fee4cfa43906cdaa6",
+      "uri": "spotify:album:2JLrcCO5i59cXl1waCBKmM",
+      "name": "destiny awaits",
+      "album_type": "single",
+      "release_date": "2015-02-16",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a880b6b9d65204bea52b0209",
+      "uri": "spotify:album:0QTelNSkgCwvTfmGHCsZRJ",
+      "name": "we are ready",
+      "album_type": "single",
+      "release_date": "2015-01-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273161a9593e37aa135cc1b888b",
+      "uri": "spotify:album:0lv66Xvv0d1vmXv5o3aSSh",
+      "name": "selected remixes vol. 2",
+      "album_type": "single",
+      "release_date": "2015-01-15",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd47084585187415e3c1e658",
+      "uri": "spotify:album:6xC5l2Te0tbYWd9YfhNFVU",
+      "name": "traptor",
+      "album_type": "single",
+      "release_date": "2014-11-14",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        },
+        {
+          "spotify_id": "1asbfF9hEww6bbo0mr2pye",
+          "name": "twofold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aacbe33570d8925d13845e7a",
+      "uri": "spotify:album:5JrHcvnPYv3gYYKPSMQ1Ly",
+      "name": "monsters, vol. 5",
+      "album_type": "album",
+      "release_date": "2014-10-14",
+      "release_year": "2014",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff66fbf56ccbc9198bd0d857",
+      "uri": "spotify:album:1mHaSllOhzxzgAmjASAC41",
+      "name": "cowabunga",
+      "album_type": "single",
+      "release_date": "2014-07-07",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a36cedc5124526804d43dc4",
+      "uri": "spotify:album:21yC1DbBchU8p11GNYrYUx",
+      "name": "monsters selected remixes",
+      "album_type": "single",
+      "release_date": "2013-12-13",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8f44f8e45d30df1eca69046",
+      "uri": "spotify:album:7raxGJzj4moLdSVKuKOsMP",
+      "name": "monsters vol. 4",
+      "album_type": "album",
+      "release_date": "2013-10-15",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c9189fd7e1506746ef12406",
+      "uri": "spotify:album:5DM6vCj8lK5ElRiIkbkC3y",
+      "name": "monsters vol. 3",
+      "album_type": "album",
+      "release_date": "2012-10-16",
+      "release_year": "2012",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bee25af0b309171382c2b43c",
+      "uri": "spotify:album:0PrOMqf4LfJqsCaAp7iuOh",
+      "name": "the destruction series vol 1",
+      "album_type": "album",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7a4ac3e54f132b9ca8343be",
+      "uri": "spotify:album:29crYfrSNv0iWFtkwNasAQ",
+      "name": "monsters of drumstep vol 2",
+      "album_type": "album",
+      "release_date": "2011-10-18",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731943dc9af3eb3834f6518021",
+      "uri": "spotify:album:4Fr5bVYG9DrVRNkicoDVnV",
+      "name": "monsters of drumstep vol. 1",
+      "album_type": "album",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe1f111acbddcd87288b7426",
+      "uri": "spotify:album:4nwzSef63fhhBk9Q6g0gdO",
+      "name": "swarm",
+      "album_type": "single",
+      "release_date": "2010-03-24",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9cc434c2cc59028018d51a5",
+      "uri": "spotify:album:2DGrnBaKduB3v6W9GmTSDm",
+      "name": "the doses / war fair",
+      "album_type": "single",
+      "release_date": "2010-01-12",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mADpqv2E8KIHDmEhH7wmr",
+          "name": "figure"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:32.000Z"
+}

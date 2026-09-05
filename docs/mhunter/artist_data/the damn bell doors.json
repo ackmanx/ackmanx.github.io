@@ -1,0 +1,58 @@
+{
+  "name": "the damn bell doors",
+  "spotify_id": "2I8HSS15K0nQOJAKYkQDvJ",
+  "uri": "spotify:artist:2I8HSS15K0nQOJAKYkQDvJ",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273bc4435fc2e7a66a8e2ace975",
+  "genres": [
+    "dubstep",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f626bf9b77b0440ec120abf",
+      "uri": "spotify:album:334ay5hBK9vL12j3JFQogm",
+      "name": "epical ep",
+      "album_type": "single",
+      "release_date": "2013-02-18",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2I8HSS15K0nQOJAKYkQDvJ",
+          "name": "the damn bell doors"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc4435fc2e7a66a8e2ace975",
+      "uri": "spotify:album:27e2uctGCz22a65lYiQ5b2",
+      "name": "alien technologies",
+      "album_type": "single",
+      "release_date": "2012-01-02",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2I8HSS15K0nQOJAKYkQDvJ",
+          "name": "the damn bell doors"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273428d821e1e1b8b764495af75",
+      "uri": "spotify:album:71rhyBI1fZva6XvbHZfiqI",
+      "name": "calcutta",
+      "album_type": "single",
+      "release_date": "2011-05-28",
+      "release_year": "2011",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "2I8HSS15K0nQOJAKYkQDvJ",
+          "name": "the damn bell doors"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:07.000Z"
+}

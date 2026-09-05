@@ -1,0 +1,43 @@
+{
+  "name": "robot science",
+  "spotify_id": "6HGjSunetwiJw8nzm6iyME",
+  "uri": "spotify:artist:6HGjSunetwiJw8nzm6iyME",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27349f1df7c173edb3e2d84f9b4",
+  "genres": [
+    "vaporwave",
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349f1df7c173edb3e2d84f9b4",
+      "uri": "spotify:album:4sgNwlj2W0970HynDJdr0A",
+      "name": "good luck",
+      "album_type": "album",
+      "release_date": "2011-01-22",
+      "release_year": "2011",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6HGjSunetwiJw8nzm6iyME",
+          "name": "robot science"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea36afcdf204de79ac0a7d3a",
+      "uri": "spotify:album:5a9CGEUveIC8ViubBmvcSq",
+      "name": "square",
+      "album_type": "album",
+      "release_date": "2009-10-11",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6HGjSunetwiJw8nzm6iyME",
+          "name": "robot science"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:50.000Z"
+}

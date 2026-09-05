@@ -1,0 +1,432 @@
+{
+  "name": "vnv nation",
+  "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+  "uri": "spotify:artist:4KlYg0F5KG9QNDFKaeTNAy",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb345be110699a051c0c41815e",
+  "genres": [
+    "ebm",
+    "industrial",
+    "synthpop",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cee2c2a360e7967face8e390",
+      "uri": "spotify:album:70xmRZ58ruRIEIqhg6lyQ8",
+      "name": "construct",
+      "album_type": "album",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f10089ce1d5bce46c81ee1d",
+      "uri": "spotify:album:4XXMV39WPTBmkcsd5rqzfU",
+      "name": "by your side",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8a6e4da2ac4797dd6efdfcc",
+      "uri": "spotify:album:65tQiGHwYo69wQ8GWEOiwF",
+      "name": "station 21",
+      "album_type": "single",
+      "release_date": "2025-04-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce22be16d6cade9fa613474",
+      "uri": "spotify:album:0CirmB6mTLGDRrm3Rv2qwd",
+      "name": "silence speaks",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318b478b9eebd5acd7bd45cd2",
+      "uri": "spotify:album:3yV1Urh4gV6FYiCnCpnqJK",
+      "name": "electric sun",
+      "album_type": "album",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a24e048a0b6e1e614f4729b",
+      "uri": "spotify:album:0175yVcXWMMhViNnQEgYZl",
+      "name": "wait",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273462fb935d4d6fdb63f86efb6",
+      "uri": "spotify:album:4fudlQU6S8yI1F61ABHDrh",
+      "name": "before the rain",
+      "album_type": "single",
+      "release_date": "2023-02-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bc7e2536e913de788747871",
+      "uri": "spotify:album:3MDQtJKPbTxvbM6HhCkDrY",
+      "name": "noire",
+      "album_type": "album",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af0bc060d0ca9bc1e475cbdd",
+      "uri": "spotify:album:7rkpBV5guGULhOhIEyng2G",
+      "name": "boatman",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1189BemPY7h2lgaH1pkzGX",
+          "name": "mono inc."
+        },
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737787da3c4190ca7557c78e8f",
+      "uri": "spotify:album:2ku9cPfd7yPDLxpCRsIQo4",
+      "name": "nova",
+      "album_type": "single",
+      "release_date": "2015-05-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1H3PPcRmzZZwrCb6tbC5x6",
+          "name": "ronan harris"
+        },
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        },
+        {
+          "spotify_id": "11B2MmrhSj2b3OHBm4PL72",
+          "name": "the babelsberg film orchestra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735acab493bbb3aac142ff0fd3",
+      "uri": "spotify:album:3EEc0oH4n7btHVTu4gkdEY",
+      "name": "transnational",
+      "album_type": "album",
+      "release_date": "2013-10-15",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5de67d0875a322a6083a529",
+      "uri": "spotify:album:0BUIbWXO0NgStZNiy7Bodc",
+      "name": "automatic",
+      "album_type": "album",
+      "release_date": "2011-09-16",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a343f713d3746d4ea3d55db",
+      "uri": "spotify:album:4a5xLnigSF17X8PvlL8mf5",
+      "name": "reformation 01",
+      "album_type": "album",
+      "release_date": "2009-05-12",
+      "release_year": "2009",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273897d054a282dbf0140c2d51a",
+      "uri": "spotify:album:3VkgWB8MQ4JfUMWaKh7hxs",
+      "name": "of faith, power and glory",
+      "album_type": "album",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eba3820bd5fc7b3b8141737f",
+      "uri": "spotify:album:45PWXKtlGjqOPXurzjthfC",
+      "name": "judgement",
+      "album_type": "album",
+      "release_date": "2007-04-10",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737077ca220003e0520cb9dd33",
+      "uri": "spotify:album:1nPvQDYUb5KmpRVPTlYRVs",
+      "name": "matter + form",
+      "album_type": "album",
+      "release_date": "2005-04-11",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273067d3513ca69bebb9f004238",
+      "uri": "spotify:album:29aPKO6DddhmKsYCgYV5ES",
+      "name": "honour 2003",
+      "album_type": "single",
+      "release_date": "2003-06-10",
+      "release_year": "2003",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273214ca880d31027447c2231ff",
+      "uri": "spotify:album:2iHcZXujJGbhgg7MRyKbJg",
+      "name": "beloved.1",
+      "album_type": "single",
+      "release_date": "2002-03-25",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e165e7fceee59b0709df8b79",
+      "uri": "spotify:album:4Gv2dRn7R2XDBiqf5WaHeS",
+      "name": "beloved.2",
+      "album_type": "single",
+      "release_date": "2002-03-25",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2eb6be730e1f8adae2704dc",
+      "uri": "spotify:album:13mkstWihJrV8cUeg1vg1e",
+      "name": "futureperfect",
+      "album_type": "album",
+      "release_date": "2002-01-28",
+      "release_year": "2002",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cdd938e3a380861eaa2377a",
+      "uri": "spotify:album:3fYfnzi7jcIab09IS8kjaj",
+      "name": "genesis 1 + 2",
+      "album_type": "single",
+      "release_date": "2001-09-03",
+      "release_year": "2001",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc8dd117c879e89a3d502cdf",
+      "uri": "spotify:album:3nn4MHNL3BSo5WRbKRdw8K",
+      "name": "standing / burning empires",
+      "album_type": "album",
+      "release_date": "2000-04-03",
+      "release_year": "2000",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c841b53a869c415dfce2193",
+      "uri": "spotify:album:5ITqNHNj3499da0fe5FE32",
+      "name": "empires",
+      "album_type": "album",
+      "release_date": "1999-10-25",
+      "release_year": "1999",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a8aab0931c5a2185d20ab37",
+      "uri": "spotify:album:0bBXSYlp9zNfh9kdbJ7t3b",
+      "name": "darkangel",
+      "album_type": "single",
+      "release_date": "1999-06-28",
+      "release_year": "1999",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cccd93113d16b3dda0b3cf5",
+      "uri": "spotify:album:06PilZ4Xgbknde7kO6RFc3",
+      "name": "the solitary ep",
+      "album_type": "single",
+      "release_date": "1998-09-14",
+      "release_year": "1998",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396eac49b8feb722e81cf5fea",
+      "uri": "spotify:album:5ydiaKlEXj1qnlVQIpEqKV",
+      "name": "praise the fallen",
+      "album_type": "album",
+      "release_date": "1997-06-02",
+      "release_year": "1997",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbad22410fb1a6f482e50b93",
+      "uri": "spotify:album:217vlgRUtyKk7ntkNMRZKA",
+      "name": "advance and follow v2",
+      "album_type": "album",
+      "release_date": "1995-12-01",
+      "release_year": "1995",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4KlYg0F5KG9QNDFKaeTNAy",
+          "name": "vnv nation"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:48.000Z"
+}

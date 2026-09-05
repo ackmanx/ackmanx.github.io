@@ -1,0 +1,288 @@
+{
+  "name": "twiig",
+  "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+  "uri": "spotify:artist:3CShHu0KxcIhKMmg6IaXN0",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1e455ea832e98f9bcac8a40a",
+  "genres": [
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732df3adac3bbd6d13836bed38",
+      "uri": "spotify:album:3y9TeJMPQbZXfP7hMk0Kqg",
+      "name": "the bells",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        },
+        {
+          "spotify_id": "2kcD7cVLNL083jM1gk3g58",
+          "name": "lyndo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef8b3337903c796e0dcbe162",
+      "uri": "spotify:album:6p3Szf8xMWUB9zHInaqT4N",
+      "name": "the symphony is alive",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        },
+        {
+          "spotify_id": "2kcD7cVLNL083jM1gk3g58",
+          "name": "lyndo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c567aa631597baf7e11bba3",
+      "uri": "spotify:album:7Cx14zE0debvpYRtkWGqNq",
+      "name": "o pai tá on",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        },
+        {
+          "spotify_id": "4WcJRxmR6wNm0L1acKLKVo",
+          "name": "angelplaya"
+        },
+        {
+          "spotify_id": "2kcD7cVLNL083jM1gk3g58",
+          "name": "lyndo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d3f6dac4b03297bc844027d",
+      "uri": "spotify:album:2U3nXLjumLkOqzXRV7WcS3",
+      "name": "maye",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339fd146d296204b1fc8d35e8",
+      "uri": "spotify:album:4QGc2xvWYs0m0qKf8Irh8f",
+      "name": "the prayer",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        },
+        {
+          "spotify_id": "2kcD7cVLNL083jM1gk3g58",
+          "name": "lyndo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730245f11861059ef936c45391",
+      "uri": "spotify:album:6jpyJVL6OrzTrZvfWWjecP",
+      "name": "broken love",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        },
+        {
+          "spotify_id": "0Le735jx9ovswbNnEB7zDz",
+          "name": "tyler mann"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e538dedf1151284127731c3a",
+      "uri": "spotify:album:3Qx1uNTFdUHsI84J57YKEG",
+      "name": "times we are living in",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349d55d85aec272eb1db5fbfc",
+      "uri": "spotify:album:23WjKopVXINjcAreZqeWtw",
+      "name": "pieces (twiig remix)",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "44re77WwNG34C182Jq3WIK",
+          "name": "vavo"
+        },
+        {
+          "spotify_id": "0Le735jx9ovswbNnEB7zDz",
+          "name": "tyler mann"
+        },
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730483d784b8e15e59f54b7e38",
+      "uri": "spotify:album:2OsXtEwtdzvnX4c1D399B2",
+      "name": "thought of losing her",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb84b588e7e4904fc50912b4",
+      "uri": "spotify:album:3TF6IKr7mmlWMzJ8boyCjV",
+      "name": "memento",
+      "album_type": "single",
+      "release_date": "2019-05-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1ff67ae05eddbb07fb40643",
+      "uri": "spotify:album:0bQRIIInaiBJPVR7qChazP",
+      "name": "tarantella",
+      "album_type": "single",
+      "release_date": "2017-06-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0f4f080dd252dfc597cebb8",
+      "uri": "spotify:album:2QiFsLV9Z1s317dycBy6Ls",
+      "name": "jumpstarter",
+      "album_type": "single",
+      "release_date": "2017-03-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343874b6da3d4219964b0d171",
+      "uri": "spotify:album:1fQQPKsz8iJZdKDUhcMGxz",
+      "name": "how we feelin",
+      "album_type": "single",
+      "release_date": "2016-12-12",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273025a52bad4dcb11093807c24",
+      "uri": "spotify:album:35eZClR2TAWlPU6q9vTQu5",
+      "name": "about u",
+      "album_type": "single",
+      "release_date": "2016-08-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331402bc54e44c2e7cacce16b",
+      "uri": "spotify:album:2IOTBnXaTF8fi06GqRDqON",
+      "name": "we are",
+      "album_type": "single",
+      "release_date": "2016-07-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390b8d93c75794cc264c778ce",
+      "uri": "spotify:album:3VGdByBjcg6PIzBBepvhPK",
+      "name": "hero",
+      "album_type": "single",
+      "release_date": "2016-05-02",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CShHu0KxcIhKMmg6IaXN0",
+          "name": "twiig"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:38.000Z"
+}

@@ -1,0 +1,665 @@
+{
+  "name": "chibs",
+  "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+  "uri": "spotify:artist:7EtR2SuyYKtyAxPP8zpgcg",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7a826f5c2bb7fb1269e27a5d",
+  "genres": [
+    "riddim",
+    "dubstep",
+    "deathstep",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343ac26dfa63aa111706cf992",
+      "uri": "spotify:album:2vxOil1fWtsPuieSk11O87",
+      "name": "game over",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbfdf18c1df3d25c19050dc4",
+      "uri": "spotify:album:7eP9qEOesyVLctQjJVCe1Q",
+      "name": "random inspection",
+      "album_type": "single",
+      "release_date": "2026-07-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0urK6bxgFau5dMsaHjQh6W",
+          "name": "ramsay"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738960c6ffaea1aee57185b275",
+      "uri": "spotify:album:1QQHBoAGLkeCF4t1GGQhKj",
+      "name": "mischief",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eafc100353b7e1fdb556b043",
+      "uri": "spotify:album:66WUvA2j03p6e0W8GNq8gB",
+      "name": "dismantle",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "2M1fROBYTycpAcvsi2zkPJ",
+          "name": "sisto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393d9c6dc0fa866b7864bbd9d",
+      "uri": "spotify:album:17xhiAMOxgaSIOfDhMKTsd",
+      "name": "yoi abuse",
+      "album_type": "single",
+      "release_date": "2025-09-24",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7lm6PfYsdEvxXIqA5LaCA3",
+          "name": "versa"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307dfc6de1c3b07229df58049",
+      "uri": "spotify:album:3wW3uZA2aiTxC4JJBFQl41",
+      "name": "skoolin",
+      "album_type": "single",
+      "release_date": "2025-09-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "1UnA09CtdmT16mvmzbXnON",
+          "name": "hostage situation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396427858cc4a1c297c56be3d",
+      "uri": "spotify:album:2GCoqIPQH5cWoiPOy4at9v",
+      "name": "toad tango",
+      "album_type": "single",
+      "release_date": "2025-09-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "6JvIjkaONqopTk15bnpLjz",
+          "name": "decimate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd22e49c9b5455c6089f280",
+      "uri": "spotify:album:0C0OWD0sVGzu09YeZ8DSar",
+      "name": "lez dutty",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "1BYLe3Z51TuNwaWWxyJrNH",
+          "name": "duffeey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734de80cce4639965e4156de29",
+      "uri": "spotify:album:2zj3axsIiT33swNH6rj32N",
+      "name": "merk 2025",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "1BYLe3Z51TuNwaWWxyJrNH",
+          "name": "duffeey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c31a10f0fe5d902d4bd21ab",
+      "uri": "spotify:album:0V0sbRfjRnjp6FFs4CAqmu",
+      "name": "static ep",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "4xQmnt9Hb7O21o31jkS8Sg",
+          "name": "dassim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d074d42b8e0a94ec5a19b138",
+      "uri": "spotify:album:1etMUwC5PDjwG1098uQa0Y",
+      "name": "same situation",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lSKfC2Dyt2onFXe2pg4om",
+          "name": "dveight"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f85862e4dfd29e1908dbaccb",
+      "uri": "spotify:album:1EX5uPoXi9q2Gj8eMDwdK3",
+      "name": "wrong house (vip) / menticide (chibs remix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e80924f8ce8603a5bc74a654",
+      "uri": "spotify:album:07gz0qIREipm4n1rCM9YjW",
+      "name": "the swamp ep",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373a0a5e3cfbfac1c29f85fbd",
+      "uri": "spotify:album:3mv2BPm1SzvCFGKzzcWBvv",
+      "name": "spud",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "1BYLe3Z51TuNwaWWxyJrNH",
+          "name": "duffeey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273def5166739e0dd194f8937f7",
+      "uri": "spotify:album:0AlInN9PWuqTQGQ6dUBqTL",
+      "name": "bread",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfbd38788da669e78a78179b",
+      "uri": "spotify:album:3BKfEktydXYNipx0aTHj8I",
+      "name": "slime (chibs remix)",
+      "album_type": "single",
+      "release_date": "2024-01-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Kf9ZowsOBySwBkaUNh2ut",
+          "name": "jiqui"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae27b36c68e71d53ef5fc15",
+      "uri": "spotify:album:2ko5lLVU5kbtinMmDyWyCp",
+      "name": "nang gang",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da343d5c845c39505bde250f",
+      "uri": "spotify:album:0BYJM9ScOJXpXDDqoQ82vP",
+      "name": "wrong house",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307794832143cd280fc88891f",
+      "uri": "spotify:album:4o48IKatuQiWHJmz6dEkZZ",
+      "name": "space dust",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "6JvIjkaONqopTk15bnpLjz",
+          "name": "decimate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0eca5adb96dc954e57170c8",
+      "uri": "spotify:album:1HQ4QXUXKk35p15NX6cZIH",
+      "name": "victim",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "4xQmnt9Hb7O21o31jkS8Sg",
+          "name": "dassim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735954eb7587772085ac8ad12d",
+      "uri": "spotify:album:1IT3baYcs2UPFZQ62BrkVZ",
+      "name": "check this (with kuhlosul) [chibs remix]",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737846d30f0791e70f4ac7843f",
+      "uri": "spotify:album:6OFvlvdI8266KFAO2CUi1N",
+      "name": "computer user",
+      "album_type": "single",
+      "release_date": "2023-06-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wcleSLRiSdM4P0ugXdg3H",
+          "name": "space wizard"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273939de01d1d8b6c85bd215d49",
+      "uri": "spotify:album:58h2nZymcSlpAYKB1ZxLq5",
+      "name": "from the archive",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273051ca8f2a802b3870952cc77",
+      "uri": "spotify:album:1wNoPH99VxgnTgawdlTVKc",
+      "name": "55555",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736889bcc4c0f29d980ef5c61f",
+      "uri": "spotify:album:1ifxZ5N1T7qdZKfSTebvRs",
+      "name": "bussin",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1BYLe3Z51TuNwaWWxyJrNH",
+          "name": "duffeey"
+        },
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732838d37998eeb7d4c50ef075",
+      "uri": "spotify:album:6fLWvppxJqnnqvJbIjkIKP",
+      "name": "fool",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "3SsxYsQwnhws0qW0fsO1s5",
+          "name": "codd dubz"
+        },
+        {
+          "spotify_id": "60k0lqQqUyCvDVrVymdgdj",
+          "name": "bueg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273022ce2202e6b03cdbb28f2d6",
+      "uri": "spotify:album:5KnPPFoMQTLhWSJ89DIf4n",
+      "name": "pentagon ep",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f706065e7402d6c57bd88cd",
+      "uri": "spotify:album:3WDMrbGDWUHhmzTm40C7D7",
+      "name": "you bad",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "7rGhKsxlC6oLrCZmvh9rX6",
+          "name": "hurtbox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7338d0963b15d1778257c98",
+      "uri": "spotify:album:2EcY6ZeQYoXMk417boWNWS",
+      "name": "full power",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c359ed6778b7d614260c496c",
+      "uri": "spotify:album:1bxP8GHpTyZWzLQXFurJfz",
+      "name": "knock knock",
+      "album_type": "single",
+      "release_date": "2021-01-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f783a64fd606f1d954d2334",
+      "uri": "spotify:album:09XjTMYUTAMZBkV7s0XjQF",
+      "name": "karate",
+      "album_type": "single",
+      "release_date": "2020-11-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea50988ac44871755fc6dd19",
+      "uri": "spotify:album:1yUrYUR8JIKTk3Zj189fdm",
+      "name": "pacmeng",
+      "album_type": "single",
+      "release_date": "2019-11-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd166e7024e9a67ca05ced7c",
+      "uri": "spotify:album:6bl2CoodCtjXJgU8TgJlxE",
+      "name": "crust & jelly ep",
+      "album_type": "single",
+      "release_date": "2019-10-16",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273507094ae7f5dbe45b58f8192",
+      "uri": "spotify:album:4VZRC6SULkBVW4hF5r37FN",
+      "name": "problem",
+      "album_type": "single",
+      "release_date": "2019-09-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "0NV5eY4Jzg4ldg2ikGnV4n",
+          "name": "virus syndicate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d16afbd461400ba67ac24cf",
+      "uri": "spotify:album:2tlWWRubBj1C11rKnNUKaK",
+      "name": "50 shotz ep",
+      "album_type": "single",
+      "release_date": "2019-05-08",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f159d8bdd5731a7527a6bf4",
+      "uri": "spotify:album:2csCB6jfoRnnLHcFbycXDN",
+      "name": "flow like ep",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273905b1f4182625984b6872174",
+      "uri": "spotify:album:76s8shNVR8YQD8Pf4r8EeX",
+      "name": "earthworm slim",
+      "album_type": "single",
+      "release_date": "2017-10-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e339ae450e8ecd96f96c295c",
+      "uri": "spotify:album:4UwPMl8ehRuMzvXLVHBhYF",
+      "name": "creamo",
+      "album_type": "single",
+      "release_date": "2017-09-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7EtR2SuyYKtyAxPP8zpgcg",
+          "name": "chibs"
+        },
+        {
+          "spotify_id": "2FJC1Wce3SiCCbIoYwVWq0",
+          "name": "monxx"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:07.000Z"
+}

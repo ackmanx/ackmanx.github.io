@@ -1,0 +1,29 @@
+{
+  "name": "hängergäng",
+  "spotify_id": "08PIVUXwnTV32NlbhA8YHX",
+  "uri": "spotify:artist:08PIVUXwnTV32NlbhA8YHX",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2730b62782f0919a774d72d6918",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d7cfecc5f4e3735a74c53e3",
+      "uri": "spotify:album:3oAmzN8n4AZO7TMJwkE6gn",
+      "name": "fumbananana",
+      "album_type": "album",
+      "release_date": "2013-11-08",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "08PIVUXwnTV32NlbhA8YHX",
+          "name": "hängergäng"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:41.000Z"
+}

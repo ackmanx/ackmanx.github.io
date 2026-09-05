@@ -1,0 +1,230 @@
+{
+  "name": "es23",
+  "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+  "uri": "spotify:artist:61nRkVt5Cyude8rp8MXJM5",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb463f3bbba028b060b9a86520",
+  "genres": [
+    "ebm",
+    "industrial",
+    "synthpop",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273817bec1a7e23dfe3877c6c2c",
+      "uri": "spotify:album:1xkhi9P5e83scgZaDSevKN",
+      "name": "fairytales",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354d1d64f3386318615ecd98d",
+      "uri": "spotify:album:6GAHk8FHCw8fn3RKHQVFSd",
+      "name": "dancing with clouds",
+      "album_type": "album",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736adc9cb03c9c3aea9af36b79",
+      "uri": "spotify:album:2pItnI3iIee3ogIdKm5rAF",
+      "name": "the road (star-road remix)",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2QzxBZb43cSo7ifPXE4UjO",
+          "name": "omnimar"
+        },
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356645272cb80988e40d472b0",
+      "uri": "spotify:album:6MXge9AWfYwNVk6nejThqv",
+      "name": "the rising phoenix (es23 remix)",
+      "album_type": "single",
+      "release_date": "2022-11-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ullA26EsVWUOB7Y9Cq1l3",
+          "name": "stars crusaders"
+        },
+        {
+          "spotify_id": "6DlnAC6VfNZ7jdUMFwwxFi",
+          "name": "cryo"
+        },
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273516e4d5d0d2b1e28656b54df",
+      "uri": "spotify:album:5rgoBaPQpH1W8I3WBMbMVA",
+      "name": "never",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a4a4cc1679e3fffc75d29a3",
+      "uri": "spotify:album:3iLSTyGLXinp6dCmcprCtf",
+      "name": "now",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349a957f4a982eddd2ab9495a",
+      "uri": "spotify:album:4KU5eJW6w4NgH2gtk2MbbH",
+      "name": "only melodies remain",
+      "album_type": "album",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b47690219d4e360d65db158",
+      "uri": "spotify:album:3Ovt9eFRg58PS6BLnXtiQi",
+      "name": "blue moonlight drive (es23 remix)",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AK5FOk3Q4pkQV83DvYHJa",
+          "name": "kid moxie"
+        },
+        {
+          "spotify_id": "6TiQgbYCxWZd4xirYvS7zY",
+          "name": "jalex"
+        },
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad80a266b0cbea646387cae4",
+      "uri": "spotify:album:1LRKVfhPi8DGcZ0r4RAFdp",
+      "name": "when i'm gone",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e919d17fba98d07c512dedb1",
+      "uri": "spotify:album:60Tp2KpO6m8DcpiEsMoZoZ",
+      "name": "taking me down",
+      "album_type": "album",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1b25ad7aa761231f0eb60b7",
+      "uri": "spotify:album:2bU6KRJC8WjgcmI1cNwX79",
+      "name": "erase my heart",
+      "album_type": "album",
+      "release_date": "2017-03-31",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb3f274fca914d3ea1f1a22a",
+      "uri": "spotify:album:4GUg5bQ114v642sjUO1xcq",
+      "name": "mutatio ex machina",
+      "album_type": "album",
+      "release_date": "2014-12-12",
+      "release_year": "2014",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3be656ea76041f0e9a77127",
+      "uri": "spotify:album:4Gi9QT6jiULT0Es3B0pqia",
+      "name": "heaven or hell",
+      "album_type": "album",
+      "release_date": "2012-06-22",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "61nRkVt5Cyude8rp8MXJM5",
+          "name": "es23"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:56.000Z"
+}

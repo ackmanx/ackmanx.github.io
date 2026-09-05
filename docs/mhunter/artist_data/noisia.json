@@ -1,0 +1,1645 @@
+{
+  "name": "noisia",
+  "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+  "uri": "spotify:artist:4YWj8sohRDjL9deiuRvEEY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6e3cff08d0a866602ad51f63",
+  "genres": [
+    "drum and bass",
+    "drumstep",
+    "dubstep",
+    "breakbeat",
+    "bass music",
+    "jungle"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730df7dc8e6b5aa4b109eddee7",
+      "uri": "spotify:album:17BvnU9OwkJbKYjnk0wAlY",
+      "name": "pleasure model (ring noord 172 mix)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8c0d5f1947fb45301de609e",
+      "uri": "spotify:album:3kXPBobSaocNzupl62kwD5",
+      "name": "tentacles (thys remix)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6x8tZ30aFwdl50YjETAppR",
+          "name": "thys"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366148aee69d6810e50d384a0",
+      "uri": "spotify:album:2ZY7fEeKxnAPkYnr4JrGdl",
+      "name": "pleasure model (ring noord 150 mix)",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cfa22ec1ab2447007cc4d1c",
+      "uri": "spotify:album:4IUVYA2rhHZwP4XWzoGK8Y",
+      "name": "dustup (mefjus remix)",
+      "album_type": "single",
+      "release_date": "2025-08-07",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5fbq6W6HAncSYaFtlQi7fF",
+          "name": "the upbeats"
+        },
+        {
+          "spotify_id": "54qqaSH6byJIb8eFWxe3Pj",
+          "name": "mefjus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f8c5c79f7e172e085ea3fe7",
+      "uri": "spotify:album:5SjR0EUzWxrlNFLgfwbUJq",
+      "name": "the resonance vii",
+      "album_type": "album",
+      "release_date": "2024-04-25",
+      "release_year": "2024",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c167115d121959e53e7d93d6",
+      "uri": "spotify:album:3Is4r8XBx21xiueH23N8Vj",
+      "name": "ii",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eddfa5ca99e4f7e0ce50818f",
+      "uri": "spotify:album:7HcZT4FVS2BdGJIr7FfWPB",
+      "name": "lapse",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc3e07a91f56761df8743895",
+      "uri": "spotify:album:4uMH7mASCdwTSSMhol9jgh",
+      "name": "finality",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "1JM1n7fWKg7BYuZjhV9FWR",
+          "name": "lumen"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273489778921e6f0aa31e3dc76a",
+      "uri": "spotify:album:6XxGOlzx8GHAY7wxq5JJKe",
+      "name": "hideous",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "29o7QKNTsg0WZqOGOgvrV3",
+          "name": "lestr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376eea2fb3d5ab3348256420c",
+      "uri": "spotify:album:3djq2KP2N3vOct3fYLgGYn",
+      "name": "the resonance vi",
+      "album_type": "album",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273751f4c7096b27e85b9aaf32a",
+      "uri": "spotify:album:1vqbno1uvn9oBuE6nPD5MR",
+      "name": "the resonance v",
+      "album_type": "album",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5c57654a02232a6b1576d8b",
+      "uri": "spotify:album:4VdfzUeCyXd3z6CDGNRbmP",
+      "name": "the resonance iv",
+      "album_type": "album",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba7f6af407eda086f9728af8",
+      "uri": "spotify:album:02itKFcqJywPGLEIlaHRoO",
+      "name": "the resonance iii",
+      "album_type": "album",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273223815890e641cc98d911229",
+      "uri": "spotify:album:4OoqrSbmdPHjdr3GAKGZaQ",
+      "name": "closer",
+      "album_type": "album",
+      "release_date": "2022-05-12",
+      "release_year": "2022",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2063ffd2ae9afd8de71d52c",
+      "uri": "spotify:album:4fx0Myut7QZYJYjfDWcY5k",
+      "name": "the resonance ii",
+      "album_type": "album",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374e1f110a721085adc64ef6d",
+      "uri": "spotify:album:4sHhgA2VkNByHjNX1ssCzC",
+      "name": "the resonance i",
+      "album_type": "album",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f19470dde5e7fadeaf9cf45",
+      "uri": "spotify:album:3KpWkFQMXb7sph4xWuHQ5m",
+      "name": "supersonic (my existence) [with noisia, josh pan & dylan brady]",
+      "album_type": "single",
+      "release_date": "2021-06-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "2sfSQ1BOzaFQa3LZj6OGwD",
+          "name": "josh pan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b567c7fca9840ac84884ab8",
+      "uri": "spotify:album:3bNBUPpEM4KrC7LuOUUalb",
+      "name": "outer edges ∴ live",
+      "album_type": "album",
+      "release_date": "2020-10-21",
+      "release_year": "2020",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c7e70cd94d2025ffb22228b",
+      "uri": "spotify:album:6R1qaQGDroLlxxtY3VZtnw",
+      "name": "foundations",
+      "album_type": "single",
+      "release_date": "2020-05-13",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "54qqaSH6byJIb8eFWxe3Pj",
+          "name": "mefjus"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273584a6c90c6bd67e8126d5625",
+      "uri": "spotify:album:3NYvKfTZdi5ReGWyZ3lbg0",
+      "name": "armajet (original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-01-24",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388bc7e2bd65005d70b8a6a53",
+      "uri": "spotify:album:3toegC9AE6JjGU2UPRuUAz",
+      "name": "halcyon",
+      "album_type": "single",
+      "release_date": "2019-12-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5fbq6W6HAncSYaFtlQi7fF",
+          "name": "the upbeats"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fd42c1068bab8b8b16dc246",
+      "uri": "spotify:album:0Um1gOdZ3naHqkpfqPNvDX",
+      "name": "non-responsive",
+      "album_type": "single",
+      "release_date": "2019-07-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a09851cabb3082098c1fe547",
+      "uri": "spotify:album:0JxlMVEQNXd3PsetVMwExE",
+      "name": "the hole pt. 1",
+      "album_type": "single",
+      "release_date": "2019-07-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7b4954eb1c4eb22a3fbc43d",
+      "uri": "spotify:album:7LI8i8WoQsL0guyc13etHq",
+      "name": "deep down",
+      "album_type": "single",
+      "release_date": "2018-12-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de28588554492c2b9056f68a",
+      "uri": "spotify:album:2jZBnxel7rvCdvzBUzk2ov",
+      "name": "long shadows",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5fbq6W6HAncSYaFtlQi7fF",
+          "name": "the upbeats"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0bc088c36f5c913c8ff3a30",
+      "uri": "spotify:album:5H2scY2bWBgzkUZM2bUbRQ",
+      "name": "shibuya pet store",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5fbq6W6HAncSYaFtlQi7fF",
+          "name": "the upbeats"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bcb108dd64c339ececd85c3",
+      "uri": "spotify:album:3NwRvYgi1568cT5ueEUi6P",
+      "name": "dzjengis",
+      "album_type": "single",
+      "release_date": "2018-08-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "2AminfyJLRagEeHO6H6bCS",
+          "name": "two fingers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fa90610374e4839cd1a798d",
+      "uri": "spotify:album:4TVonJf8x4dusJED6zpRLX",
+      "name": "asteroids (noisia remix)",
+      "album_type": "single",
+      "release_date": "2018-07-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "3rNP0CUzTxxuNpc3ze8rXV",
+          "name": "prolix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1603aa333952275d19e08fb",
+      "uri": "spotify:album:3VEpa2POz2ehL6iQIFl3jU",
+      "name": "cleansing",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347f92e9b0b346d4ac5b25b25",
+      "uri": "spotify:album:7CdAe3ZVVP08Td8zQOibNe",
+      "name": "hold your colour (noisia remix)",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da8b449fa8c888fc9378c152",
+      "uri": "spotify:album:3gol5mXaXY1onccI6Sao6X",
+      "name": "pleasure model",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a9278cb23c4d7b3fa66f036",
+      "uri": "spotify:album:0DMUUpYJMG94Ix3ZAHV5Nj",
+      "name": "outer edges (noisia remixes)",
+      "album_type": "single",
+      "release_date": "2017-06-09",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d001bf0ae0e5c9c5d107567",
+      "uri": "spotify:album:47DiM7xqFvwplamrB1GQJo",
+      "name": "outer edges remixes",
+      "album_type": "album",
+      "release_date": "2017-04-07",
+      "release_year": "2017",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2d550c8b1ca8120d1a36d46",
+      "uri": "spotify:album:5gXQtNPYDsIu9CgY0gO1cN",
+      "name": "anomaly (dyro remix)",
+      "album_type": "single",
+      "release_date": "2017-04-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "dyro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc1b48761409dc0c24265236",
+      "uri": "spotify:album:6Ye57WLxOHuJbpa3JoNDuW",
+      "name": "get deaded (bassnectar remix)",
+      "album_type": "single",
+      "release_date": "2017-04-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "1JPy5PsJtkhftfdr6saN2i",
+          "name": "bassnectar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e50317cd6017f925af6451a0",
+      "uri": "spotify:album:6tCgZuMrjYjHYvlrru8mUh",
+      "name": "mantra (mat zo remix)",
+      "album_type": "single",
+      "release_date": "2017-04-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "2n7USVO8fO8FF8zq4kG2N1",
+          "name": "mat zo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737db2dfc37f21ef63fdc63d6d",
+      "uri": "spotify:album:45nWCv2iB9vo3sm4yUkCv8",
+      "name": "vigilantes (amon tobin remix)",
+      "album_type": "single",
+      "release_date": "2017-04-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "3mvkWMe6swnknwscwvGCHO",
+          "name": "amon tobin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394a8d75ef5da184b89536464",
+      "uri": "spotify:album:1qWDLEAs3vnmmdN7tCDny5",
+      "name": "get deaded (machinedrum remix)",
+      "album_type": "single",
+      "release_date": "2017-03-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "06xa1OLBsMQJFXcl2tQkH4",
+          "name": "machinedrum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbc315c8aa9f80ee1316cabf",
+      "uri": "spotify:album:6axpw9u3HNaQOZIL3hnfWd",
+      "name": "the entangled (camo & krooked remix)",
+      "album_type": "single",
+      "release_date": "2017-02-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "2N8IPNZTiNo3nj4mreOlHU",
+          "name": "camo & krooked"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cea65f811c7744a24f3a540",
+      "uri": "spotify:album:73TmwDD6mBOZh6sF9sKXZo",
+      "name": "outer edges",
+      "album_type": "album",
+      "release_date": "2016-08-05",
+      "release_year": "2016",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd01d821c3c1a9c6200b5ff4",
+      "uri": "spotify:album:1h1DgUzAwTUNU0YaSffmJl",
+      "name": "anomaly",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d2b17620118399e0134f17e",
+      "uri": "spotify:album:67RahkVaNI1yaCSYBKL5Ij",
+      "name": "dead limit",
+      "album_type": "single",
+      "release_date": "2015-08-31",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5fbq6W6HAncSYaFtlQi7fF",
+          "name": "the upbeats"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345389a06d1fbb57b49051703",
+      "uri": "spotify:album:7EWbWjcQ63e7iHIzw57XbQ",
+      "name": "incessant ep",
+      "album_type": "single",
+      "release_date": "2015-04-20",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "54qqaSH6byJIb8eFWxe3Pj",
+          "name": "mefjus"
+        },
+        {
+          "spotify_id": "6dvHFhruyFyf26otoWOXKR",
+          "name": "hybris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c445bb2c7e51a1813136d102",
+      "uri": "spotify:album:1nl7XHG5QCOJNTp9yp5kXK",
+      "name": "purpose",
+      "album_type": "single",
+      "release_date": "2014-07-14",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec2f5555bff0880b2b45a05f",
+      "uri": "spotify:album:3AJIQD5vsfidXE0ytWQ1PD",
+      "name": "hyenas / the liquid",
+      "album_type": "single",
+      "release_date": "2013-10-21",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9130f91f8eb0ad52e3e77f9",
+      "uri": "spotify:album:71wJPSn2uyqFahzwZvo4oO",
+      "name": "i am legion",
+      "album_type": "album",
+      "release_date": "2013-09-02",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "2wNMk7BiCiuO7hjGZPZYuJ",
+          "name": "i am legion"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "0sQ1wgSdRpoysgsa1VnI4G",
+          "name": "foreign beggars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737adeacb01bbcdcc60b2aafc4",
+      "uri": "spotify:album:2Y1C7b4lW7CahgYpbHVcmC",
+      "name": "choosing for you",
+      "album_type": "single",
+      "release_date": "2013-08-19",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wNMk7BiCiuO7hjGZPZYuJ",
+          "name": "i am legion"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "0sQ1wgSdRpoysgsa1VnI4G",
+          "name": "foreign beggars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6e6a929c0cdafda7de46dc5",
+      "uri": "spotify:album:3fMftIrON7K1jSDkLGtkPO",
+      "name": "make those move",
+      "album_type": "single",
+      "release_date": "2013-07-15",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wNMk7BiCiuO7hjGZPZYuJ",
+          "name": "i am legion"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "0sQ1wgSdRpoysgsa1VnI4G",
+          "name": "foreign beggars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f65bcd5def30931cc3c8604",
+      "uri": "spotify:album:1FKr0dY4TzPeJ0m3V5u76k",
+      "name": "devil may cry (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2013-01-08",
+      "release_year": "2013",
+      "total_tracks": 36,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6c516464a5e622ea863aa37",
+      "uri": "spotify:album:6DlwvQaWd9QuPGO2LkXBCa",
+      "name": "imperial ep",
+      "album_type": "single",
+      "release_date": "2012-06-25",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273839c987db1303ceafb117ae4",
+      "uri": "spotify:album:0UGDLn4DDbawdIoA3FU8pj",
+      "name": "split the atom (special edition)",
+      "album_type": "album",
+      "release_date": "2012-04-09",
+      "release_year": "2012",
+      "total_tracks": 32,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731587222e6018c0b90cd0e373",
+      "uri": "spotify:album:1JhzOIPyubrLyqOGPBGi14",
+      "name": "energie / micro organism",
+      "album_type": "single",
+      "release_date": "2011-11-11",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        },
+        {
+          "spotify_id": "1ZScOzf2oq1jmPpY2Veuyu",
+          "name": "misanthrop"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a58cd8f93f06b25034170af",
+      "uri": "spotify:album:48nFuTUUgpbyWBwI1DKdgx",
+      "name": "program / regurgitate",
+      "album_type": "single",
+      "release_date": "2011-06-06",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b4685140f4106f8862a0a6b",
+      "uri": "spotify:album:1pZHjossWcPe8g7UbToHuv",
+      "name": "friendly intentions / displaced",
+      "album_type": "single",
+      "release_date": "2011-02-28",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733375ced27bb5cc41c5b4a76b",
+      "uri": "spotify:album:07yOmL9StLI4njlcK412rF",
+      "name": "under 5's remix skint",
+      "album_type": "single",
+      "release_date": "2011-02-21",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "553m0wCi0Z68oCoLkh7biI",
+          "name": "hardknox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273229fe2bd3fb903fd22e09ec7",
+      "uri": "spotify:album:5NClKnBasQ4CcLDdqpk6NF",
+      "name": "desert orgy / stagger",
+      "album_type": "single",
+      "release_date": "2010-12-31",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        },
+        {
+          "spotify_id": "1ZScOzf2oq1jmPpY2Veuyu",
+          "name": "misanthrop"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371a747178a25c7791d8eb730",
+      "uri": "spotify:album:6Rl3Iavs4MHP0w6hKmpiNe",
+      "name": "invisible 002 ep",
+      "album_type": "single",
+      "release_date": "2010-10-18",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cb660b49d8eacb9ff39e388",
+      "uri": "spotify:album:4kEOXWp7EcS2jWlscN6Tcv",
+      "name": "brain bucket / falling through",
+      "album_type": "single",
+      "release_date": "2010-10-04",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340817045256bc4d693640a49",
+      "uri": "spotify:album:6nZ6ocAbkbFScqR0uYllmZ",
+      "name": "split the atom",
+      "album_type": "album",
+      "release_date": "2010-09-08",
+      "release_year": "2010",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a816e4279fb9e1f5cf0cd75",
+      "uri": "spotify:album:6UXwMug8NiAQLWw4qgdaqU",
+      "name": "split the atom / division ep",
+      "album_type": "single",
+      "release_date": "2010-05-26",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273712bbfb5013a86580e05c74c",
+      "uri": "spotify:album:1rCM2QZVHfNJdUhDry16CT",
+      "name": "machine gun",
+      "album_type": "single",
+      "release_date": "2010-05-24",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b402aa9edf9e8f66c9d5178",
+      "uri": "spotify:album:4Obew6YRJyVKeyDf0Rk7a9",
+      "name": "floating zero",
+      "album_type": "single",
+      "release_date": "2010-03-31",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730008bbf5a2c0bb37e34a887d",
+      "uri": "spotify:album:2wiYaJpPQl1b4qbflbOlBk",
+      "name": "cctv / factory 5",
+      "album_type": "single",
+      "release_date": "2009-11-02",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "1ZScOzf2oq1jmPpY2Veuyu",
+          "name": "misanthrop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273805ab37597b6d411ffe7bde3",
+      "uri": "spotify:album:2ECHmcGU9xAKsceTKXJV8b",
+      "name": "bells of/last look",
+      "album_type": "single",
+      "release_date": "2009-08-10",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c038ba1ea3380fe332084ff",
+      "uri": "spotify:album:4JoXlYCiuZ1Gr5nu44WfXi",
+      "name": "bells of/last look",
+      "album_type": "single",
+      "release_date": "2009-08-10",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315dcb40fa87db78256290d49",
+      "uri": "spotify:album:7cgxrkfB4JfFTTRxkj6nV5",
+      "name": "mammoth / sore point",
+      "album_type": "single",
+      "release_date": "2009-05-18",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3o46xaXZd75wUeb2Zfc4o5",
+          "name": "phace"
+        },
+        {
+          "spotify_id": "1ZScOzf2oq1jmPpY2Veuyu",
+          "name": "misanthrop"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba85dd7960793f4f625d7ea6",
+      "uri": "spotify:album:0wbI1KnzXla4VwWflzV4G6",
+      "name": "mordez moi / b.r.u.l.",
+      "album_type": "single",
+      "release_date": "2008-10-13",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df7b683039095e7631fd3912",
+      "uri": "spotify:album:6NzZfckLS26bXKR3DKI1R0",
+      "name": "splash step / diplodocus",
+      "album_type": "single",
+      "release_date": "2008-08-11",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7FtCGMC0pcHPlrZWmYe9XM",
+          "name": "break"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325260d61bcfff661fb396171",
+      "uri": "spotify:album:336nqSLJYNfGBbezE3F1cj",
+      "name": "seven stitches / groundhog",
+      "album_type": "single",
+      "release_date": "2008-07-14",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4858590460b9423c2cf9765",
+      "uri": "spotify:album:2nodyuBft9awvprI6my5DF",
+      "name": "gutterpunk",
+      "album_type": "single",
+      "release_date": "2008-05-05",
+      "release_year": "2008",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359bc342c17401263eedd9924",
+      "uri": "spotify:album:4n4fv9O2wYd1CtjQ8Sv3Up",
+      "name": "brainstitch (aquasky remix) / back to your roots (quest remix)",
+      "album_type": "single",
+      "release_date": "2008-02-18",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "1mNcpWcrGRZUvSPgJDVCpS",
+          "name": "jonny l"
+        },
+        {
+          "spotify_id": "30EiTMUI2mCBX7CAxL3l8G",
+          "name": "superfly 7"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feab7b13e20a5964fcb9c76c",
+      "uri": "spotify:album:7pL1YFbp8v1VzYBNRYRnqw",
+      "name": "collision ep",
+      "album_type": "single",
+      "release_date": "2008-01-21",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355947bae38f858908d8261f9",
+      "uri": "spotify:album:0nAvSoJEVFTL3z9YMJ5nf0",
+      "name": "stigma / crank",
+      "album_type": "single",
+      "release_date": "2008",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336775f836bb9933e3428fa35",
+      "uri": "spotify:album:4NCljus0jYbxNdHesmCvzN",
+      "name": "facade vip / skanka",
+      "album_type": "single",
+      "release_date": "2007-09-03",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "4KO4We001yFoZBa9plWM5V",
+          "name": "gridlok"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301db38a21235f7ef570826ac",
+      "uri": "spotify:album:2rRJEaKnAAGGChYJYOZoQO",
+      "name": "exodus",
+      "album_type": "single",
+      "release_date": "2007-06-04",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e708e472c357686e2164c6f6",
+      "uri": "spotify:album:5Q5vWt5dXwtYTWuqugQU0t",
+      "name": "yellow brick / raar",
+      "album_type": "single",
+      "release_date": "2007-05-21",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f12219558a0fe024209a965",
+      "uri": "spotify:album:1Xkc0quY1c81Gz1ABXArfp",
+      "name": "outsource remix / new deal",
+      "album_type": "single",
+      "release_date": "2007-02-19",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e51692f69644f42497b4130",
+      "uri": "spotify:album:2ELkDuUy5Oi4FTIfCyCRnR",
+      "name": "shower for an hour",
+      "album_type": "single",
+      "release_date": "2006-12-15",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7Cl1dU4G44kfQAg0f69J9v",
+          "name": "teebee"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a53cfe50ee45d100ae0e9fa7",
+      "uri": "spotify:album:1Z3qn86xZXrzLknSVzegpZ",
+      "name": "subtitles fifty5 ep",
+      "album_type": "single",
+      "release_date": "2006-10-16",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "42EZt9LfgsaF0WHlDC3FoM",
+          "name": "spor"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "7Cl1dU4G44kfQAg0f69J9v",
+          "name": "teebee"
+        },
+        {
+          "spotify_id": "6J3tvjal4Ch6VJcHQaBfoI",
+          "name": "skitty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735efa3c26c96bce5695b7f436",
+      "uri": "spotify:album:1ImxGtLj3YY5zrOPevlLC2",
+      "name": "lost cause / choke",
+      "album_type": "single",
+      "release_date": "2006-05-29",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dbff6f0d9342ffe28f95805",
+      "uri": "spotify:album:5fo8KVt5Ar3nulO9oJudhr",
+      "name": "facade / moonway renegade",
+      "album_type": "single",
+      "release_date": "2006-03-13",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "3tVdiFbxN0n1EqcX69CpV6",
+          "name": "mayhem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731771f4d6a23614b18c8bb2c6",
+      "uri": "spotify:album:21dcT7sKoO5CtO4O8ztgeX",
+      "name": "homeworld / outsource",
+      "album_type": "single",
+      "release_date": "2006-01-23",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273141c04db8d48a2a5ce36a0db",
+      "uri": "spotify:album:6NLPIQ7SzWTOA7bd5TZhpn",
+      "name": "gutterpump",
+      "album_type": "single",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273435f0dfd2bdc818b1bafe1e4",
+      "uri": "spotify:album:4VOJRVjMycIuhg0IGwmuv7",
+      "name": "gutterpump (pixel fist remix)",
+      "album_type": "single",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebc1ad60aaa2af0c8380fde2",
+      "uri": "spotify:album:4mlxqwMdR30efeX3LVCjso",
+      "name": "bad dreams / omissions",
+      "album_type": "single",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730284b566df8667e4174bce62",
+      "uri": "spotify:album:0CY79pmjcOTUKQ9TlbVWBv",
+      "name": "brainstitch / deeper love",
+      "album_type": "single",
+      "release_date": "2005-11-21",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5IxFYcJM65satPz1oCg32B",
+          "name": "drifter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a850ab5b817e1ed245662127",
+      "uri": "spotify:album:1xq7DkoMBlQY3cKRizz2fl",
+      "name": "the tide / concussion",
+      "album_type": "single",
+      "release_date": "2005-11-14",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe20b850b6568bdb588c50cf",
+      "uri": "spotify:album:5YjsCyIJarsVE9EEps9S6f",
+      "name": "monster",
+      "album_type": "single",
+      "release_date": "2005-06-03",
+      "release_year": "2005",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b9adad1f623c2a9235f4c09",
+      "uri": "spotify:album:0qbSIR18xoIlbdum0aaTab",
+      "name": "block control ep",
+      "album_type": "single",
+      "release_date": "2005-04-11",
+      "release_year": "2005",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a61449e284119cd6d2c7c3c6",
+      "uri": "spotify:album:74SK6n4uhbqOKes5lFiWnE",
+      "name": "lockjaw / absolom",
+      "album_type": "single",
+      "release_date": "2005-04-04",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343cb4f94264f0d120cc49e06",
+      "uri": "spotify:album:09peWYFNpfV10ZbQKzF0aw",
+      "name": "massada / lifeless",
+      "album_type": "single",
+      "release_date": "2004-11-15",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3f0ad6804a03f1e684ba0f9",
+      "uri": "spotify:album:0pQxpBdZKWSMYAONbQhwLe",
+      "name": "hub cap / backdraft",
+      "album_type": "single",
+      "release_date": "2004-10-12",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:39.000Z"
+}

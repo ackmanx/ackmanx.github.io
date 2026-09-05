@@ -1,0 +1,102 @@
+{
+  "name": "mmoths",
+  "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+  "uri": "spotify:artist:0MLOZd8nYoXxHpOzDH0vXJ",
+  "image_url": "https://i.scdn.co/image/b906053f9707cd88a64bb165f19244ed3bbd6b0a",
+  "genres": [
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732360b6bdc2247bfa0d592004",
+      "uri": "spotify:album:7spJRhD7BmdSAsKJBCrq7M",
+      "name": "0034",
+      "album_type": "single",
+      "release_date": "2016-12-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735464c275b4590da4cf08b2a7",
+      "uri": "spotify:album:2TpPgMokVnUNHWdIFIRtuH",
+      "name": "luneworks",
+      "album_type": "album",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6290bbef8c1fb33bb6c6c3f",
+      "uri": "spotify:album:0SoZBPZhZNg94m0L4hSQJM",
+      "name": "eva (ivvvo sensimilla cut)",
+      "album_type": "single",
+      "release_date": "2016-02-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e95d808c8e791f7f858c0f47",
+      "uri": "spotify:album:3Hn8vhNqvv3U85H8XTgHSQ",
+      "name": "deu (lee bannon remix)",
+      "album_type": "single",
+      "release_date": "2015-12-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5f7a4af34106f8e770924f4",
+      "uri": "spotify:album:4M0Ekd0b4xDXIS6c37A1VX",
+      "name": "diaries",
+      "album_type": "single",
+      "release_date": "2013-03-05",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f58ca9b05513a3a58624e751",
+      "uri": "spotify:album:7hhDFM9G537DLI8PBTwlaO",
+      "name": "ep1",
+      "album_type": "single",
+      "release_date": "2012-03-13",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0MLOZd8nYoXxHpOzDH0vXJ",
+          "name": "mmoths"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:55.000Z"
+}

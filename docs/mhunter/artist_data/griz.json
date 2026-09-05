@@ -1,0 +1,1178 @@
+{
+  "name": "griz",
+  "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+  "uri": "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb12e878cd579ea7ea99f7028c",
+  "genres": [
+    "dubstep",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca53c0f1cbeed068d7342ab5",
+      "uri": "spotify:album:6NTFxRVK79OAv97i44C6Aa",
+      "name": "it's called: freefall (griz remix)",
+      "album_type": "single",
+      "release_date": "2026-06-24",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4hz8tIajF2INpgM0qzPJz2",
+          "name": "rainbow kitten surprise"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273197b4235f98cf5bff2fb4940",
+      "uri": "spotify:album:2rQ5O2LTWYvzFJTOnYNPyZ",
+      "name": "future funk volume 1",
+      "album_type": "album",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5c520d32010f9f5a4d1347f",
+      "uri": "spotify:album:1RNjzO5hda4UZQhNHqgGxv",
+      "name": "rainbow machine",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350253ad1f4959b6b2c747cb7",
+      "uri": "spotify:album:4OLF28aUBjV2LHIhV3B8br",
+      "name": "rump shaker",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331d32c4eae151d2126e2194b",
+      "uri": "spotify:album:16CL4VtHh8rX18W7jJBqE6",
+      "name": "when i'm hot",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "6l0u1oM2imxw0isrGcXpmH",
+          "name": "effin"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273219d746ef86e19e9dd74e1bf",
+      "uri": "spotify:album:1ylvzMU51rsB6sD0LRGj75",
+      "name": "illest in the game",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ff744b84a7fff9b7a539fa3",
+      "uri": "spotify:album:0CodZZC4AQt9FtcZTdM4EB",
+      "name": "bbfl",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373d5db4c619a19f764ee896b",
+      "uri": "spotify:album:6ORndvIKBEyjyYkvauXtMq",
+      "name": "all i need",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732580c5facff58bb75f2eed74",
+      "uri": "spotify:album:0q9oRJGUbgTD2H9Bvz9zbk",
+      "name": "pop off",
+      "album_type": "single",
+      "release_date": "2026-02-11",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1PbO7aQiVeKbGp8GYWDL9C",
+          "name": "levity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d07757e7ca1a5612f3e98d7",
+      "uri": "spotify:album:5XpCrHqbZPPBWSGOmct0A0",
+      "name": "nobody else (with kaleena zanders)",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "0Sz2jslaxjcw2VM5zYh2jK",
+          "name": "kaleena zanders"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348c508d9915d334da63cb4f6",
+      "uri": "spotify:album:3HrdBuP0BdSDTEoxdKKSHG",
+      "name": "light you up ft. creg",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "59tlsKpLWoLTxjNNS2wdPi",
+          "name": "tape b"
+        },
+        {
+          "spotify_id": "3BoSgaNGMiAiEyRxECZgc9",
+          "name": "creg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2f51139858591777196eeb2",
+      "uri": "spotify:album:0tSAbEmzEXoWrKBoUEai7W",
+      "name": "funk you up!",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351c8ec139e38c0f7a0d0ccfd",
+      "uri": "spotify:album:6WIt8IVo6ayTiQQ9zihsSM",
+      "name": "deep clear water",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "gryffin"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb8bf236132722e906351884",
+      "uri": "spotify:album:2WCcmD70ox8MIQwh7k5Qgu",
+      "name": "coast 2 coast ft. flowdan",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "07CimrZi5vs9iEao47TNQ4",
+          "name": "flowdan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a422a6a98d752068f4530259",
+      "uri": "spotify:album:6XCOMsUfSGmRnQZBYIL48z",
+      "name": "chaos theory",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5119a9a4d03a1974dd63138",
+      "uri": "spotify:album:53tRdQvugZaP27FUzwEEOW",
+      "name": "gemini ep",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351a49b17bfd29273aa84ad51",
+      "uri": "spotify:album:1AHDacSgAfN6xpQhEsY2yH",
+      "name": "take me home",
+      "album_type": "single",
+      "release_date": "2025-03-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdf8f6e808131c4f509133b0",
+      "uri": "spotify:album:6wH1YicnwoM5dfmIqw4hIQ",
+      "name": "ouroboros",
+      "album_type": "album",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273816c11f2ee4ee22df8ea8a43",
+      "uri": "spotify:album:1NVk0OW5roxRnETReFFAPt",
+      "name": "saxoriddim",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f129c7bb705bf1fff34e068",
+      "uri": "spotify:album:6kULCT45GzgLQp2DbCA0oS",
+      "name": "where you are (griz remix)",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "john summit"
+        },
+        {
+          "spotify_id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "hayla"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee0d31f11a98a8913e505df3",
+      "uri": "spotify:album:3Z9gZ7C37E95mJkJrWIpJ8",
+      "name": "ecstasy of soul",
+      "album_type": "single",
+      "release_date": "2022-12-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f517e401e68cbf773ca64c10",
+      "uri": "spotify:album:5F7CBRu4mx3ySfv7RDxtxM",
+      "name": "bangers[7].zip",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa2d98b8ff8f70acd59c4c9b",
+      "uri": "spotify:album:3hsR7TxqmZxluDfDyHGOgs",
+      "name": "skydive",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        },
+        {
+          "spotify_id": "0A7SwEIXcHDINnTgiHq5M2",
+          "name": "chrishira perrier"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e85c8b905a3c14c8ddf6e9c8",
+      "uri": "spotify:album:1cmeXJH0Xl2co36spMWE2p",
+      "name": "chasing the golden hour, pt. 4",
+      "album_type": "album",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273136ad6bb2937b9b3de506f59",
+      "uri": "spotify:album:4NiYNcofm2eNfnOTm8cSrs",
+      "name": "on a high",
+      "album_type": "single",
+      "release_date": "2022-09-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273899f1a6949699ba87b95ef12",
+      "uri": "spotify:album:2npUd5PMJZVJUF8M6M6Zhd",
+      "name": "your light",
+      "album_type": "single",
+      "release_date": "2022-09-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa2d8061a5a3780fb6286489",
+      "uri": "spotify:album:7GPxZ1PG1pd2CfEwAQB2nk",
+      "name": "funkonaut",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "3Hrqjumb6WHg2aAUHJHLND",
+          "name": "lsdream"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8b91a8b0184efd7d239ba09",
+      "uri": "spotify:album:6sECSGfeYIxUkPGXXaxglt",
+      "name": "bass music",
+      "album_type": "single",
+      "release_date": "2022-08-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "3T0BepBNnd3kw2m10rh8yW",
+          "name": "tvboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c16095fcdbaa862b91a0e2bb",
+      "uri": "spotify:album:4h2rqT4mLFgWV7Ye2Z9LgE",
+      "name": "feel no pain",
+      "album_type": "single",
+      "release_date": "2022-07-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd7cccc8662c6d963d7c15f9",
+      "uri": "spotify:album:4coZdNTSApgHapvBDXY1U4",
+      "name": "open your mind",
+      "album_type": "single",
+      "release_date": "2022-03-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273686a2e8a58a2f70b28ed3651",
+      "uri": "spotify:album:6o6palGHy3IqwNGXPQDYXn",
+      "name": "color of your soul",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1496XxkytEk26FUJLfpVZr",
+          "name": "clozee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb233a7662608bb22e24a07f",
+      "uri": "spotify:album:5X4WpuocAItWP0dtDT5BCw",
+      "name": "griztronics ii (another level)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730af8bf7a9e002e79a18e530f",
+      "uri": "spotify:album:0Xu5Mku7ANVNxKx6K5hAsc",
+      "name": "rainbow brain",
+      "album_type": "album",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fddc6550cc068d981fc9e4a",
+      "uri": "spotify:album:41eAScgWKvxjvlVpWdW7gT",
+      "name": "daily routine",
+      "album_type": "single",
+      "release_date": "2021-07-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273006694c2c91f93fab6484ec8",
+      "uri": "spotify:album:4gDI6iacM830BC0dGZGhH2",
+      "name": "gold",
+      "album_type": "single",
+      "release_date": "2021-07-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "00dwwnz3V4kRfu3UFYpJLz",
+          "name": "cherub"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a5c78d65a9112ab47e9e9ff",
+      "uri": "spotify:album:6b5o1TZhTBIAkGE6iYEbHm",
+      "name": "rainbow brain",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        },
+        {
+          "spotify_id": "0A7SwEIXcHDINnTgiHq5M2",
+          "name": "chrishira perrier"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733422c2d497cb03c13699289b",
+      "uri": "spotify:album:0wKLCrKalMa9CbeSlyYG3N",
+      "name": "bring me back",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ebe38f95ca71bed3db888f4",
+      "uri": "spotify:album:7B5n3tOUAIyahj8TwwPLcN",
+      "name": "ease your mind",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326376263beebf47bc557f590",
+      "uri": "spotify:album:50UhsEctBn2kzou4up6rYX",
+      "name": "medusa (remixes)",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "6j78LtFLqDG65Ju57NUM5N",
+          "name": "wreckno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee0bb9709f6aeeb6a5bf2fcb",
+      "uri": "spotify:album:226zXU2cgbymzQVkIePzIA",
+      "name": "bangers[6].zip",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7757f45906152c03f4a66fd",
+      "uri": "spotify:album:1LvrXC3yq8gjXjFz2pULMN",
+      "name": "no doubt",
+      "album_type": "single",
+      "release_date": "2020-10-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d69ab50cb32255a7b27142fe",
+      "uri": "spotify:album:6MuRVRR0bVXKOPkD5Uuknc",
+      "name": "chasing the golden hour, pt. 3",
+      "album_type": "album",
+      "release_date": "2020-09-17",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e212684885a51e121e18377",
+      "uri": "spotify:album:0wb5jSuURmywFswSNAEBWG",
+      "name": "medusa",
+      "album_type": "single",
+      "release_date": "2020-06-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "6j78LtFLqDG65Ju57NUM5N",
+          "name": "wreckno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df45ac131c5cd265128d9238",
+      "uri": "spotify:album:55mc4C6WXlbbvvldJbtKY8",
+      "name": "bangers[5].zip",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f840add57ad28e72811d933",
+      "uri": "spotify:album:0Zqlu06iuSTYur0PqA5UsZ",
+      "name": "could u",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733324b0d502567cf87b0e3af4",
+      "uri": "spotify:album:4wRLXNwGDJN5sAtunQlD5X",
+      "name": "bangers[4].zip",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300431c111feb72228ab1b821",
+      "uri": "spotify:album:1gMd5UdIL7k7QPo4FQZcH9",
+      "name": "bangers[3].zip",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383046e046407ae9b6e629956",
+      "uri": "spotify:album:3p52GP73vQ2BlG9rzzyBXe",
+      "name": "bangers[2].zip",
+      "album_type": "single",
+      "release_date": "2019-08-14",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379160f64431ee646406833da",
+      "uri": "spotify:album:5yg00EtYSggW30vdYZMtFe",
+      "name": "supa fly",
+      "album_type": "single",
+      "release_date": "2019-07-04",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732805a1ad949e1d16b102af7b",
+      "uri": "spotify:album:4nDd4MKIBiyEBZajd88EsD",
+      "name": "bangers[1].zip",
+      "album_type": "single",
+      "release_date": "2019-06-24",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273172feb79746f3dad91f97981",
+      "uri": "spotify:album:4PACKvfcYH0qpBV5pEpqoo",
+      "name": "ride waves",
+      "album_type": "album",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9551b182809afe80e04d2eb",
+      "uri": "spotify:album:484FGP5e2UdGOVIAhC3L1v",
+      "name": "audible edibles (griz remix)",
+      "album_type": "single",
+      "release_date": "2017-11-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BwM43tn51Mq0Dn8NMB5zk",
+          "name": "freddy todd"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731284676bb1ca274fe7ffdd66",
+      "uri": "spotify:album:0gVzayTayhmjdtvrg7qHFM",
+      "name": "ctgh ii selects",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731973557f79e5f30a4bf53468",
+      "uri": "spotify:album:6mA5UNacR8ust1TK3aOchO",
+      "name": "good will continue (remixes)",
+      "album_type": "album",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736924dd7ab4ad6afb89d27fb5",
+      "uri": "spotify:album:52nfvYH3rhUopO70egunPf",
+      "name": "as we proceed",
+      "album_type": "single",
+      "release_date": "2017-01-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVA4YnUI0DgAkfNvuDtav",
+          "name": "grizmatik"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "179BpmLkQCRIoU68Co80f5",
+          "name": "gramatik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a9dc527a6bfb688e0e86d13",
+      "uri": "spotify:album:3Og6W7C4OsfGjf2GlDp5u6",
+      "name": "good will prevail",
+      "album_type": "album",
+      "release_date": "2016-09-23",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5b04a3c9875f28b74af450b",
+      "uri": "spotify:album:7hj4q5bhiPY3yADKDiq4k1",
+      "name": "stop trippin' (nghtmre remix)",
+      "album_type": "single",
+      "release_date": "2015-10-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739aeb1ac1c9e4353c89a3fe54",
+      "uri": "spotify:album:3ghkFUnQS5DBgqAkIpf5FE",
+      "name": "for the love (remixes)",
+      "album_type": "single",
+      "release_date": "2015-08-25",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f421243f5da85f2d7c92c7c",
+      "uri": "spotify:album:4lyR4kg3P4TujwkVghXQPi",
+      "name": "say it loud",
+      "album_type": "album",
+      "release_date": "2015-03-31",
+      "release_year": "2015",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b8f6481e4e5ff6168f6120c",
+      "uri": "spotify:album:0IWsnx3nZ7YWaqMeH3f8vA",
+      "name": "funk party",
+      "album_type": "single",
+      "release_date": "2015-03-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383e2ce2d9c3941b3f4f29a0d",
+      "uri": "spotify:album:1Pl2VkfyrXtnJQNVcrPtgM",
+      "name": "the anthem (feat. mike avery)",
+      "album_type": "single",
+      "release_date": "2015-02-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273260bd6a046991b3ea6a552d3",
+      "uri": "spotify:album:2AzssGvLH2peNETOZGwtOm",
+      "name": "stop trippin' (feat. ida hawk)",
+      "album_type": "single",
+      "release_date": "2015-01-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7167b2f20e5017235ba956c",
+      "uri": "spotify:album:4SiwwyQvq13C0c3ecPNic1",
+      "name": "a fine way to die (feat. leo napier)",
+      "album_type": "single",
+      "release_date": "2014-12-11",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e44dbb08f65d773ac2331bea",
+      "uri": "spotify:album:4iUHCP5juyQMAOKjeQAi1I",
+      "name": "rebel era",
+      "album_type": "album",
+      "release_date": "2013-10-22",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b17ff297af5d61cda138ee5",
+      "uri": "spotify:album:5R6sEAxKGjQ7mzM7f16JB6",
+      "name": "mad liberation",
+      "album_type": "album",
+      "release_date": "2013-09-05",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737db76b611a3d6192afcc2b23",
+      "uri": "spotify:album:7LLIPHg6pbXcVsZ8lCBJBX",
+      "name": "power",
+      "album_type": "single",
+      "release_date": "2012-12-12",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341ebd8477e161bf41024bed9",
+      "uri": "spotify:album:3L1r7olyRs2uBppEj1g5Gs",
+      "name": "end of the world party",
+      "album_type": "album",
+      "release_date": "2011-06-28",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:32.000Z"
+}

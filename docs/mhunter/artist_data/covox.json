@@ -1,0 +1,42 @@
+{
+  "name": "covox",
+  "spotify_id": "2aYQ5jggFTNykHeemiVDFP",
+  "uri": "spotify:artist:2aYQ5jggFTNykHeemiVDFP",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273d909518ae5e4ab670999882a",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273269abe0653c7a91ec7ff8849",
+      "uri": "spotify:album:0h6RTXtRR3jur2CeEeH5IM",
+      "name": "rewind",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2aYQ5jggFTNykHeemiVDFP",
+          "name": "covox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d909518ae5e4ab670999882a",
+      "uri": "spotify:album:2MjRdj9FReAnBRW3qNP5IG",
+      "name": "strike ep",
+      "album_type": "single",
+      "release_date": "2012-10-12",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2aYQ5jggFTNykHeemiVDFP",
+          "name": "covox"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:05.000Z"
+}

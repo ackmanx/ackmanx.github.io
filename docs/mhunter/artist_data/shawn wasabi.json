@@ -1,0 +1,331 @@
+{
+  "name": "shawn wasabi",
+  "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+  "uri": "spotify:artist:1DLKitfb8fshL0DtCecRpY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eba53152706859d3164c90e30f",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387484b15380b9720e260deea",
+      "uri": "spotify:album:1QEfltV45Jts1kiJFZPl1v",
+      "name": "trigger warning",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "7qd6KGoABHifvXKeFNe2Yb",
+          "name": "wolftyla"
+        },
+        {
+          "spotify_id": "04mGcrL09AEKdlGVrjpf1P",
+          "name": "miyachi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c6ff421cf3ef5b4b4fa6c17",
+      "uri": "spotify:album:0ebBomPeoac2JXqwUgXkxW",
+      "name": "i dip",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2733a3c8ca7842d12ddce7f",
+      "uri": "spotify:album:2xjm5JmtEVOk12HzYWXnWE",
+      "name": "too soon",
+      "album_type": "single",
+      "release_date": "2021-02-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5QatamYwvUTOmMHW6WA0AG",
+          "name": "terror jr"
+        },
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5a2c3b3159a3e78720f0bca",
+      "uri": "spotify:album:2Dv7jAb4Jj6YVmbcNHwnZU",
+      "name": "halo halo [remix (feat. guapdad 4000 and chevy)]",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "0NcPKaSNIHAM2RfioH9vMT",
+          "name": "guapdad 4000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfa4d0c9d82a71fc005926fe",
+      "uri": "spotify:album:6T9Bxol60BDUu77uKGTd5e",
+      "name": "medicine (feat. tia scola) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-09-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273051ce4235eb6ea6ce662e118",
+      "uri": "spotify:album:2Xk4f4SBqao4quex0MFLy3",
+      "name": "mangotale",
+      "album_type": "album",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273578e54b219bd20d44bc0f327",
+      "uri": "spotify:album:2dniA8jKgFf5uUT8Td9RgV",
+      "name": "lemons (feat. kennedi)",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "5eWCWtbcFDjLGPisPgqcy8",
+          "name": "kennedi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730264dadc4740f17c4af58195",
+      "uri": "spotify:album:6BhnhamQEcM09ECrsncvnV",
+      "name": "animal crossing",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "3wdXgSpjbbU3tX9KasdxMh",
+          "name": "sophia black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312648d89ba6f2161957ee73c",
+      "uri": "spotify:album:154UgTO2ScnaTXKBlXiG30",
+      "name": "home run (feat. raychel jay)",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d1de7aa9ca2e4969a193448",
+      "uri": "spotify:album:2ff3JtCunMvS8THyWkvXia",
+      "name": "fever dream (shawn wasabi remix)",
+      "album_type": "single",
+      "release_date": "2020-03-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0HthCchcL0kVLHTr113Vk1",
+          "name": "mxmtoon"
+        },
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5d1f465ece6b97e83f1b405",
+      "uri": "spotify:album:3kkdV9io6LZwZ5dxG9ZX8Q",
+      "name": "the snack that smiles back (feat. raychel jay)",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379c3fb6678b9fbf2991f9528",
+      "uri": "spotify:album:6C9vVMpelnKoprWIFit4Z3",
+      "name": "marble tea",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e10a4cdc599abed6c777e4a",
+      "uri": "spotify:album:04DLFiQAJPaxpliqVsq5VK",
+      "name": "mango love (feat. satica)",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfd3fc40c93589a4579a35c2",
+      "uri": "spotify:album:2KKpx08JMUKDNl7it8AkF1",
+      "name": "squeez®",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733da1cc94a7da6daf74d9d813",
+      "uri": "spotify:album:2gb6MF9tpFyybmyLNaOa3k",
+      "name": "otter pop (feat. hollis)",
+      "album_type": "single",
+      "release_date": "2017-07-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aaa05f847a9aa0a0b609d5e7",
+      "uri": "spotify:album:0G3cadEun2B0YKMAA0FdHb",
+      "name": "spicy boyfriend",
+      "album_type": "single",
+      "release_date": "2017-02-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8a739669a71dd16d43fb096",
+      "uri": "spotify:album:5jmwlvtL0fGHx3NrN15Aig",
+      "name": "burnt rice remixes",
+      "album_type": "single",
+      "release_date": "2016-04-08",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "286Ranmy5NZOVyIwNwAUE4",
+          "name": "ydg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b4fe17a8a9edcefca0061a3",
+      "uri": "spotify:album:2QIAWsoHz28fOoMDnDwRXc",
+      "name": "burnt rice (feat. yung gemmy)",
+      "album_type": "single",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        },
+        {
+          "spotify_id": "286Ranmy5NZOVyIwNwAUE4",
+          "name": "ydg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c3795fca6f0771051597454",
+      "uri": "spotify:album:2XLIKXQfmDbBz2Un7ApHGc",
+      "name": "hotto dogu",
+      "album_type": "single",
+      "release_date": "2015-06-22",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DLKitfb8fshL0DtCecRpY",
+          "name": "shawn wasabi"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:20.000Z"
+}

@@ -1,0 +1,111 @@
+{
+  "name": "supermode",
+  "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+  "uri": "spotify:artist:7urnl0uH1w3NCoErxw7AUK",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb5576566c73b0f2bb4e3d84f",
+  "genres": [
+    "hypertechno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737545cc0114439f58cf947233",
+      "uri": "spotify:album:1TUiyMi8aRZvTqzNTCUSxx",
+      "name": "tell me why (james carter remix)",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "5344K3N7rx7kw1HjO8psuq",
+          "name": "james carter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273533582f390fe2e866bacd30f",
+      "uri": "spotify:album:0mDiTurOmLzCHPSX0qHalL",
+      "name": "tell me why (1991 remix)",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "2IP71LH7CbwddhsEXBI0fy",
+          "name": "1991"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333f6afe6415e2a392f6b1247",
+      "uri": "spotify:album:30GbdnnaB9AfEGBw3sVWBe",
+      "name": "tell me why (maddix remix)",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273010a5f4abb5bc82685e30137",
+      "uri": "spotify:album:6CTjQWx50yUs4wNu95cnlM",
+      "name": "tell me why (meduza remix)",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "0xRXCcSX89eobfrshSVdyu",
+          "name": "meduza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273158ec65f217e08f014bd2ff0",
+      "uri": "spotify:album:7lmGSzQRrvXvvvghZoYZkn",
+      "name": "tell me why",
+      "album_type": "single",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "1xNmvlEiICkRlRGqlNFZ43",
+          "name": "axwell"
+        },
+        {
+          "spotify_id": "4FqPRilb0Ja0TKG3RS3y4s",
+          "name": "steve angello"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:29.000Z"
+}

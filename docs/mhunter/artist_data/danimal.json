@@ -1,0 +1,1070 @@
+{
+  "name": "danimal",
+  "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+  "uri": "spotify:artist:6SQ1RYZmxJGxii56ou9RQj",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb75e9627f9e384c820e11cdb",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731aff28bb59d1e968aead922b",
+      "uri": "spotify:album:11RPj1CU7C1zxidsVJznTS",
+      "name": "a million stars (danimal remix)",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5cIF2o2BMvKjbFg1AOWWwG",
+          "name": "michelle langone"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368223e921270829414ce69af",
+      "uri": "spotify:album:0YMSPXMfYi0mAiEt8Y4k43",
+      "name": "sunshine",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "4XgL05GiIZGJev3EwBnbsE",
+          "name": "madison rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730557e0ec91d6283e1835aa8f",
+      "uri": "spotify:album:7fQC1BpHh91PMe2FPBAAQF",
+      "name": "the frequency",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3piaDExRTHqj7YooN6X9q5",
+          "name": "gary dillon"
+        },
+        {
+          "spotify_id": "34MSwSLRID464bAqEzGrFj",
+          "name": "okafuwa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f4e673fde44378a99f7f0e6",
+      "uri": "spotify:album:0xfMi4nG5BfKKr5KVhbjlz",
+      "name": "out of line (feat. clarees)",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b981316b6d4c09af48de26c3",
+      "uri": "spotify:album:4gO62w2ftR9Sq4wHeufB0j",
+      "name": "true faith",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "1m91WjQ6nEC5k3F1HC51sP",
+          "name": "triiipl3 inc."
+        },
+        {
+          "spotify_id": "4zboeZtcUwsTEhl2YDCLr4",
+          "name": "discotronic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328258763807b2eb52a04b671",
+      "uri": "spotify:album:5EHGEKpEiwAcRh0SQuZXTQ",
+      "name": "drive",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "7z1D2CiuB9P0F51HLjo8h1",
+          "name": "klepto"
+        },
+        {
+          "spotify_id": "0MDfMKBf1cV65pnQ1ZRm9O",
+          "name": "iggy"
+        },
+        {
+          "spotify_id": "4aXojyC6guVNQ11bP4ez1f",
+          "name": "lonelybrothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2e861f0fefb1cd2e096ea7f",
+      "uri": "spotify:album:2RlsMoPdr5ibterhxpfS1Q",
+      "name": "sweet dreams (cada ritmo) [feat. daddy yankee] [bertus.. remix]",
+      "album_type": "single",
+      "release_date": "2026-01-02",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "47Ly4DhMvBZFudv2Cuwxrt",
+          "name": "bertus.."
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a98062b159d03502beb8ac2",
+      "uri": "spotify:album:2FkT3RcwqglFilfYTydGjH",
+      "name": "what a feeling",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "1m91WjQ6nEC5k3F1HC51sP",
+          "name": "triiipl3 inc."
+        },
+        {
+          "spotify_id": "4zboeZtcUwsTEhl2YDCLr4",
+          "name": "discotronic"
+        },
+        {
+          "spotify_id": "3SkyUhCLUnBimUPEW73HzF",
+          "name": "liah barrett"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d51bb028a8a13167724a86f3",
+      "uri": "spotify:album:1W2lnlOSIIAn2LMBS88bnD",
+      "name": "s.o.s.",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc8fc78da45a7c91b9c6faaf",
+      "uri": "spotify:album:59j7lbpperfbRmyGEG01AL",
+      "name": "party 4 u",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca5c01b5c1e2ce0ecaf1cad6",
+      "uri": "spotify:album:7IIJz4Xe3TmLnbpwr0Btmo",
+      "name": "echo",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e6d23d88f205e8f1ae6e814",
+      "uri": "spotify:album:0tovIArLIyXTygzYTBmrrX",
+      "name": "my boots",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3xwLNvmLpu3mDKzCoht2lp",
+          "name": "treetalk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d421702acc1c5d6b4c5ca8a",
+      "uri": "spotify:album:5DDikFiMBnPF0HuyADSyTo",
+      "name": "goodbye",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3B6pf3aw8UNJLwjgei3Vnr",
+          "name": "austin christopher"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ceba585b322527e17f760835",
+      "uri": "spotify:album:4eYiWnhX9BujtuPl0yna2S",
+      "name": "into you",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5gdYdbKxGw2Mq25TfsmH6q",
+          "name": "diandra faye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c0beb0d6c48c5bf6b18e48f",
+      "uri": "spotify:album:0vE4KMesSn5JGXntf6uvU2",
+      "name": "sweet dreams (cada ritmo) [feat. daddy yankee] [influencerz remix]",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "163A7vg111FgP21NQSD6dN",
+          "name": "influencerz"
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c28ef47afa27a5dd6d735cc0",
+      "uri": "spotify:album:2TkBVqF2XpzZlpS8KGDbEh",
+      "name": "million miles away",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5jHaFN0GbVSasZRCfzeZ7f",
+          "name": "neens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b1fa980fff03d6b66dd4919",
+      "uri": "spotify:album:4NtHv2QjYDXmG2HticILU6",
+      "name": "ameno",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f243671f6d9176b34d97ef7",
+      "uri": "spotify:album:7IzMEhsHIbv5wHQsI2c0Uy",
+      "name": "sweet dreams (cada ritmo) [feat. daddy yankee]",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337165c7d456904fc9ca8814d",
+      "uri": "spotify:album:5FXt0DXIFKECrgwDkqHYzC",
+      "name": "gasoline",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347e4dc86481aafb1c8a99319",
+      "uri": "spotify:album:6RH6jN1ofBtyo0bPCkqYrD",
+      "name": "shake that",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8ROV7jEwm66LBxUNhUMt",
+          "name": "sonny wern"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "34MSwSLRID464bAqEzGrFj",
+          "name": "okafuwa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731928a6e18274f2d44b4e8c1b",
+      "uri": "spotify:album:6bn7HuBNz0LYzWgh7dqiFt",
+      "name": "pieces of my heart",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5jHaFN0GbVSasZRCfzeZ7f",
+          "name": "neens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a6f5db59d95873efc01f296",
+      "uri": "spotify:album:7K5H9S5ne8IuFxQ2bJuhs0",
+      "name": "dancing in the rain",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8afe6d89212a508ba3c55f4",
+      "uri": "spotify:album:7ipq3XDWYWW8FOsFmQqzP5",
+      "name": "good luck, babe!",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cce48f993605ac6132905ff",
+      "uri": "spotify:album:1O1pP6ZWVdnScMXiasSB19",
+      "name": "overdrive (alive)",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6d4AePmkVnbu2qIbT6vsem",
+          "name": "huts"
+        },
+        {
+          "spotify_id": "3vGgjydudbzEp2r9PmqHc0",
+          "name": "lyente"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734900938b6e2bbdf34cd2244a",
+      "uri": "spotify:album:55Cz6ZZIBySRu9M7cKq5E7",
+      "name": "angels",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344d1736f5e8fbf9dda10fcef",
+      "uri": "spotify:album:53yyOSZRYNcQsg6MHJ8K68",
+      "name": "boots",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3xwLNvmLpu3mDKzCoht2lp",
+          "name": "treetalk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbd1cec110686499f084c8e6",
+      "uri": "spotify:album:63ucrIn0eBtOLelnA8DFiI",
+      "name": "where did you go",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5piMnm6faQpIVYaFfaZSKf",
+          "name": "teddy cream"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fab77b404b9622c5414e3e8e",
+      "uri": "spotify:album:6fihvZvg2TN5kwdorNOQYX",
+      "name": "chasing love",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3I2MZtUFxIWTtNgeJfGbO5",
+          "name": "ian biggs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea03498d0092fb32e29ca9cd",
+      "uri": "spotify:album:6dS16IX6bDNICTMbvcTaNz",
+      "name": "breathe again (bertus.. remix)",
+      "album_type": "single",
+      "release_date": "2024-08-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "47Ly4DhMvBZFudv2Cuwxrt",
+          "name": "bertus.."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365190d4780ac2dd92a2f0f91",
+      "uri": "spotify:album:4fgouyR9djMz9Y93yhykJq",
+      "name": "breathe again",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738df9feb6634ed612c79e33e9",
+      "uri": "spotify:album:422sWr4XhFoV8SSzvZpW4i",
+      "name": "double life",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5jHaFN0GbVSasZRCfzeZ7f",
+          "name": "neens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a5e5c12e15ecbc9eb81f2f4",
+      "uri": "spotify:album:5R4iyKrTgVslqttB6XXBR9",
+      "name": "freedom (official song bevrijdingsfestival den haag)",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3I2MZtUFxIWTtNgeJfGbO5",
+          "name": "ian biggs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738adc5240f76735f7ee1a79ce",
+      "uri": "spotify:album:2mM7gO7S0E4AoWIDTDocLF",
+      "name": "alive (official 7th sunday festival 2024 anthem)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Dg0ugfKw0WGNrDToka4pd",
+          "name": "studio seven"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "71GRU9wS94BTdNwQWRMJV6",
+          "name": "heleen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388da0470b18a49bc58ffb8fe",
+      "uri": "spotify:album:3II2t3enZITQF0BHDdKDLt",
+      "name": "high",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "163A7vg111FgP21NQSD6dN",
+          "name": "influencerz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305ffad5690588490f8642308",
+      "uri": "spotify:album:2Ptd8C7BNgrg6KjyOlSCTx",
+      "name": "all over again",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3I2MZtUFxIWTtNgeJfGbO5",
+          "name": "ian biggs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362e4e4392e388773a20e302c",
+      "uri": "spotify:album:3gWFJyKaWHh1EmI2aSkJ3y",
+      "name": "anyplace anywhere anytime",
+      "album_type": "single",
+      "release_date": "2023-04-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "0lFLwxM5lPGtJVmCkjYTQ3",
+          "name": "stephanie schulte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305a412c2b67008f5fb00b8dc",
+      "uri": "spotify:album:4dELNwD24rlRmER0HCR12S",
+      "name": "gangsta's paradise",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa78485a215846a000b476d9",
+      "uri": "spotify:album:3tbVqvBMMVgfSnGHBas6hS",
+      "name": "lion",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "3i6lDxP4ilTXmh6Was015A",
+          "name": "claudia svitlana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d81291dfeaa46651eb3c59e0",
+      "uri": "spotify:album:12bvljHCxsz1AOFybCpIkn",
+      "name": "human error",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6t0ofV5WMAz84Iqu0YkmTV",
+          "name": "zombic"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "163A7vg111FgP21NQSD6dN",
+          "name": "influencerz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d2e67ba5ee48338e02adcb9",
+      "uri": "spotify:album:3N0qvku1usIjLrV9ctl6i0",
+      "name": "pray for me",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273befc75d78582110ccd6ccb7e",
+      "uri": "spotify:album:7zKiJxIN5zqiSJzXKFIGBJ",
+      "name": "be my lover",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6t0ofV5WMAz84Iqu0YkmTV",
+          "name": "zombic"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "163A7vg111FgP21NQSD6dN",
+          "name": "influencerz"
+        },
+        {
+          "spotify_id": "5SxjKJ2HIg3dVQ427HYVHS",
+          "name": "bass chaserz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369c5386d87c3be3f6be43a63",
+      "uri": "spotify:album:5VAZLqBDhreVkvF5I4Bl1B",
+      "name": "be my lover",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6t0ofV5WMAz84Iqu0YkmTV",
+          "name": "zombic"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "163A7vg111FgP21NQSD6dN",
+          "name": "influencerz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e611bab07fe81d26d4d291cc",
+      "uri": "spotify:album:6ppX1X4bAEL4uHk1iSyJq3",
+      "name": "antidote",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed044639a8c79383bf4edd83",
+      "uri": "spotify:album:14qTsXSi2nw4nPyPcdacRV",
+      "name": "antidote (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b08fa347ee8b3ad8a4aabba3",
+      "uri": "spotify:album:3EXxScFFZw0gtkRKoPLCT4",
+      "name": "where do you go",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3htJBdRyfwyCTKgpZAj6pY",
+          "name": "jordan jay"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b985153cf4893e408f66ac18",
+      "uri": "spotify:album:5i7DsBVuo3Bg7vTQrbWBev",
+      "name": "let me down",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "2IE8iMYAitEU7JXmcjSL2y",
+          "name": "whatever we are"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b30ac8d36823c4a22944fb5a",
+      "uri": "spotify:album:0RdQc9oe2fDbuJC9JrOHyD",
+      "name": "stay connected",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DzFcEcSVtNBrQzemT1mWv",
+          "name": "gang speed"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5Yw8a4EYuA31E9paXwA50w",
+          "name": "cancun?"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bae96b2ae001d59ef1d863ed",
+      "uri": "spotify:album:1ZXHpQOCqaz9OfSV4KpUge",
+      "name": "the storm (feat. yasmin jane)",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "7vyJodZNJWzk9YzTzxo4I4",
+          "name": "yasmin jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c6c9a98f7b952bbd7de9c0a",
+      "uri": "spotify:album:2W2eF4BuofyFta4p4ISb0g",
+      "name": "the storm (feat. yasmin jane) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eec5af8fd606a2c66f226c89",
+      "uri": "spotify:album:6LsvYytS96zDcd3aFiDJ1H",
+      "name": "unshakable",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "6SJkCVFP8LetYmTN52N3Lz",
+          "name": "max moore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397fedca8d09b8efc36fc02a1",
+      "uri": "spotify:album:3XKJH1sFvXIzaev8uEmQtd",
+      "name": "unshakable (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "6SJkCVFP8LetYmTN52N3Lz",
+          "name": "max moore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8b84b386b8f4e551437a56b",
+      "uri": "spotify:album:6cszKD61z7ss7Uubh34pzC",
+      "name": "no pain",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "2IE8iMYAitEU7JXmcjSL2y",
+          "name": "whatever we are"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f2db648cdbf396ae1739a8e",
+      "uri": "spotify:album:16vF1fzRkxL8ZnZS68pFLm",
+      "name": "wolves",
+      "album_type": "single",
+      "release_date": "2021-03-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738133e5587515ca380fef1c24",
+      "uri": "spotify:album:2udVDNrCVS5wFxcFqq5ynd",
+      "name": "lionheart",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a375ac44da3dae327a228e8",
+      "uri": "spotify:album:74Qhwxlgk8zjaLmtKnQAtn",
+      "name": "wait for you",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        },
+        {
+          "spotify_id": "5pJqcxo3Ac1rD1Ux9rTkVd",
+          "name": "robinz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737118303008dfbc77d8611e18",
+      "uri": "spotify:album:5qznmllWNLHubISnmdUj36",
+      "name": "the lights",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "17esEoE9uEHFKuzkar2UL0",
+          "name": "tony junior"
+        },
+        {
+          "spotify_id": "6SQ1RYZmxJGxii56ou9RQj",
+          "name": "danimal"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:59.000Z"
+}

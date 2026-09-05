@@ -1,0 +1,728 @@
+{
+  "name": "kodomo",
+  "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+  "uri": "spotify:artist:57BliIwnAIqKeI4dbAWwaU",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1d0858eb1bee57d0ebfc4390",
+  "genres": [
+    "idm",
+    "downtempo",
+    "space music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5e978774a11f359809371d1",
+      "uri": "spotify:album:0rWF26wucraXYnZqjYGIH6",
+      "name": "sisu (remixes)",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273524876592acb2d4ab5426c4f",
+      "uri": "spotify:album:3PeWnka5cjHPPvrsFBbCPh",
+      "name": "sisu (remixes)",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335343dbfe28ade255f876508",
+      "uri": "spotify:album:2VWQbz5vZ2lJTfHqsosq5X",
+      "name": "sisu",
+      "album_type": "album",
+      "release_date": "2026-02-10",
+      "release_year": "2026",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f0e0ec7bf5b6be3247204c7",
+      "uri": "spotify:album:1Xf7Xxx7sal9H1RcD0j9sP",
+      "name": "sisu",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a90a146073aa6fa747d63c0",
+      "uri": "spotify:album:7Io5ek59aXx7Zg9fzjMazj",
+      "name": "light rain",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a05087e0c73a82dd2155c030",
+      "uri": "spotify:album:6j4NMbovbNDkBmUbrJKA4A",
+      "name": "vondisy 2",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6PzSFSoty0xkcdMjkpKXya",
+          "name": "vondisy"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273181a404a3b8b62e842380ea0",
+      "uri": "spotify:album:4ix0a59Xk1YoeNe2uqGBm1",
+      "name": "vondisy 1",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "6PzSFSoty0xkcdMjkpKXya",
+          "name": "vondisy"
+        },
+        {
+          "spotify_id": "0xwjDmVXsk3gPtRqOTEBjg",
+          "name": "micah frank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391959b3f5182fc201324c6a5",
+      "uri": "spotify:album:21RaMBxdaDmvaI3J9Qy5AB",
+      "name": "epocha",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273764067ab5bef56b2519d32ea",
+      "uri": "spotify:album:5EXMZRfDMFGixYRIn5jvAu",
+      "name": "pieces for piano vol.2 (f-031)",
+      "album_type": "album",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3z53SN9e3XbDJ60FJXCbJS",
+          "name": "christopher child"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "1Sx12FF9W0pdnY856wYWxa",
+          "name": "chris child"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f260836d897c79d1292d154b",
+      "uri": "spotify:album:0bgFxKjeOICE9D89sHGCXr",
+      "name": "trenta trenta",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327d16bbc11e376ebafebb325",
+      "uri": "spotify:album:3AIKl1NdINxtfxs3RwXV65",
+      "name": "unrosive",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273782bec1165baf6118cc6b255",
+      "uri": "spotify:album:0t6bzzqu4vqVg7r06PLc75",
+      "name": "haze / regret",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf2728c0ceee14ca357b8c57",
+      "uri": "spotify:album:3DRjXBafQn2ppZsBFQPY4t",
+      "name": "seer ep",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333fb49d93d6cc28d397dfe31",
+      "uri": "spotify:album:1v2g5LeTRKB5rvkgp4AVnQ",
+      "name": "tape pieces, vol. 3",
+      "album_type": "single",
+      "release_date": "2022-05-03",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "1Sx12FF9W0pdnY856wYWxa",
+          "name": "chris child"
+        },
+        {
+          "spotify_id": "0xwjDmVXsk3gPtRqOTEBjg",
+          "name": "micah frank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273008d3583d77c43411c44eb42",
+      "uri": "spotify:album:2cD54K3bu7FY8tD3sJQWPe",
+      "name": "three spheres (remixes)",
+      "album_type": "album",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abda8603e7660ea403b8a6ce",
+      "uri": "spotify:album:3HdSQqQJrSyMZkhAD77UWZ",
+      "name": "reflecting magic",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c81a50d598e739225d5da84",
+      "uri": "spotify:album:1DjDCnFElKtu1WgAbxjmyc",
+      "name": "pink clouds",
+      "album_type": "single",
+      "release_date": "2021-08-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3213a371711ac453a14fe98",
+      "uri": "spotify:album:6WVPQmO5BrG4LJ7y2Qpq1V",
+      "name": "three spheres",
+      "album_type": "album",
+      "release_date": "2021-07-21",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273840323da9465c9ac1f570569",
+      "uri": "spotify:album:5F1g5HukZ9QdFZQKotSRUw",
+      "name": "koshkina [(m)orph remix]",
+      "album_type": "single",
+      "release_date": "2020-12-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03VSk6CUqfOc6gViP61xtn",
+          "name": "dispak"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "0qWdr3mxtmV6cf4YtlHcMI",
+          "name": "symbion project"
+        },
+        {
+          "spotify_id": "3SgNFN7L6v6wLfJxMc0jkO",
+          "name": "(m)orph"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5fb3004a1858c7e57996da2",
+      "uri": "spotify:album:4FhBrSsQ0u1ammPgubko4K",
+      "name": "a world rarely seen (inspired by ‘the outlaw ocean’ a book by ian urbina)",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "7miGJahGF5JYOunptmXsQz",
+          "name": "ian urbina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273488ab88731222c6841466169",
+      "uri": "spotify:album:3jMSR15l2t4u97G5YiULUo",
+      "name": "tape pieces, vol. 2",
+      "album_type": "single",
+      "release_date": "2020-05-05",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1Sx12FF9W0pdnY856wYWxa",
+          "name": "chris child"
+        },
+        {
+          "spotify_id": "0xwjDmVXsk3gPtRqOTEBjg",
+          "name": "micah frank"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b2242388e34366f5b5d23be",
+      "uri": "spotify:album:1O4CIcfUvNrkqD9odc2uzk",
+      "name": "dispak 2",
+      "album_type": "single",
+      "release_date": "2020-02-20",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "03VSk6CUqfOc6gViP61xtn",
+          "name": "dispak"
+        },
+        {
+          "spotify_id": "0qWdr3mxtmV6cf4YtlHcMI",
+          "name": "symbion project"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed7d5f5ec8cd7ac61a18bdc2",
+      "uri": "spotify:album:2RzhCrzQKIWBBzc8ygOjHr",
+      "name": "tape pieces, vol. 1",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "0xwjDmVXsk3gPtRqOTEBjg",
+          "name": "micah frank"
+        },
+        {
+          "spotify_id": "1Sx12FF9W0pdnY856wYWxa",
+          "name": "chris child"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367eae2486d99569bbc9378fc",
+      "uri": "spotify:album:3OUtdEM385XpITKZmZnbON",
+      "name": "in november",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b14a39d8359440e274e2011",
+      "uri": "spotify:album:16XxahMYgZlKwsHjBUHcoM",
+      "name": "pieces for piano, vol​.​1",
+      "album_type": "album",
+      "release_date": "2019-01-07",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3z53SN9e3XbDJ60FJXCbJS",
+          "name": "christopher child"
+        },
+        {
+          "spotify_id": "1Sx12FF9W0pdnY856wYWxa",
+          "name": "chris child"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730efd04b55b1e1d40e96acde3",
+      "uri": "spotify:album:2WsmdraDxHufmQKv4G7Q9w",
+      "name": "dispak 1",
+      "album_type": "single",
+      "release_date": "2018-10-16",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "03VSk6CUqfOc6gViP61xtn",
+          "name": "dispak"
+        },
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        },
+        {
+          "spotify_id": "0qWdr3mxtmV6cf4YtlHcMI",
+          "name": "symbion project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb4c30baab07cd594d948207",
+      "uri": "spotify:album:0RZPpJfBosafR3k5RYC09S",
+      "name": "divider (remixes)",
+      "album_type": "album",
+      "release_date": "2017-10-18",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e07326f6c100d513a7f7d17",
+      "uri": "spotify:album:1e9Xdg4g4E9SIwlScKmXQh",
+      "name": "divider",
+      "album_type": "album",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c52dbb8d70d917e54986e4ca",
+      "uri": "spotify:album:79mBnU93MFTQiOWLQ2qrZ1",
+      "name": "storm king",
+      "album_type": "single",
+      "release_date": "2017-01-01",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273383b211a812cc865a05ed5e7",
+      "uri": "spotify:album:1ywn8NtmY9e6dkSO5DNNyp",
+      "name": "endless waves (remixes)",
+      "album_type": "single",
+      "release_date": "2016-02-26",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b97f20b2345e5deecf1594e8",
+      "uri": "spotify:album:4fYNxwX2gglSHN277ODdFn",
+      "name": "orange ocean",
+      "album_type": "single",
+      "release_date": "2014-08-05",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733564d9334faac9ad10089447",
+      "uri": "spotify:album:77W2sLDuzAH07zhYpx0AQ5",
+      "name": "patterns & light",
+      "album_type": "album",
+      "release_date": "2014-07-22",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273671221480e109750bb65a8b6",
+      "uri": "spotify:album:20qo5kkjVSRYlVbom3LlXk",
+      "name": "orange ocean",
+      "album_type": "single",
+      "release_date": "2014-06-24",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301e8c08ecf1ca7e6b3113fed",
+      "uri": "spotify:album:6kLgOAUKZ0cHJGjBDZJQUi",
+      "name": "mind like a diamond",
+      "album_type": "single",
+      "release_date": "2014-04-22",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd889c5ebaca430ec9839d47",
+      "uri": "spotify:album:5rgkNkpDlniexm7KUsMUoo",
+      "name": "red giant / impromptu",
+      "album_type": "single",
+      "release_date": "2013-12-17",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b162e7aa8357ebf4416183e7",
+      "uri": "spotify:album:2GaqCXfoVu7A3eoZr79Z6I",
+      "name": "september sun",
+      "album_type": "single",
+      "release_date": "2011-10-04",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273720b02c29e1f3d234da7d0f1",
+      "uri": "spotify:album:2yDR55CUhcF59GCXEIbemy",
+      "name": "frozen in motion",
+      "album_type": "album",
+      "release_date": "2011-06-07",
+      "release_year": "2011",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5189c16c2b7cee422671793",
+      "uri": "spotify:album:7LjlegphGocd3QiRZRH8zD",
+      "name": "decoder",
+      "album_type": "single",
+      "release_date": "2011-04-25",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338ffca5735f916c90e46a21c",
+      "uri": "spotify:album:7dL49CGzDu6UykcZBKlPdq",
+      "name": "concept 11",
+      "album_type": "single",
+      "release_date": "2008-11-17",
+      "release_year": "2008",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273588cd4fdf6157018e21cd4c2",
+      "uri": "spotify:album:3Rt8yRyA9wyhWXvZf1wPhq",
+      "name": "concept 11",
+      "album_type": "single",
+      "release_date": "2008-09-30",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359006e45a8e2820f7dba123f",
+      "uri": "spotify:album:7wwHgF0T6VcyxF4JkVU3eM",
+      "name": "still life",
+      "album_type": "album",
+      "release_date": "2008-07-10",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331ee9473a59c234e37f0a18e",
+      "uri": "spotify:album:6eMTqe4IuJnH8xCS0UYz4T",
+      "name": "spira mirablis",
+      "album_type": "single",
+      "release_date": "2007-12-25",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57BliIwnAIqKeI4dbAWwaU",
+          "name": "kodomo"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:11.000Z"
+}

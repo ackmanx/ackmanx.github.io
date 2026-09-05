@@ -1,0 +1,436 @@
+{
+  "name": "pyramid",
+  "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+  "uri": "spotify:artist:3aSTe6gzR3XChH1wcLfhmD",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb32ded001322e85218ca29a3b",
+  "genres": [
+    "electronica"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319d7861ec7ba15290d714b61",
+      "uri": "spotify:album:04hARE2eQzuJpg2UZBipni",
+      "name": "archives",
+      "album_type": "album",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273787ef205c718d57830cfbf98",
+      "uri": "spotify:album:70y2dOuB63Omhh7vXV1i2Y",
+      "name": "model 6",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c8dca2fed4f609713deadcf",
+      "uri": "spotify:album:3Vi2z08fQfQ3YE1TyFa5Oc",
+      "name": "bright future",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c23607d4cca73dbf039258e",
+      "uri": "spotify:album:73E6nzMDCXnebCQpp06uVa",
+      "name": "sugar girl 2.1",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273122fb548ab5c2fe9f27f6044",
+      "uri": "spotify:album:4FlMWWnwg1vVlOALTmuLvr",
+      "name": "in circles 2",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8cf0f78e633ae34d670a8dd",
+      "uri": "spotify:album:5MzJnow108tEAGgom9tOav",
+      "name": "memories",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c72ddba90b94c4e447d36369",
+      "uri": "spotify:album:4T5PrCSyalHX5lsggAMOCI",
+      "name": "lost driver",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b43c31a75e2f55a6f7dffa4",
+      "uri": "spotify:album:4Maeos8mtCgBs6ePZrvZbi",
+      "name": "basic shore",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273694997ba851fd5264741610a",
+      "uri": "spotify:album:0sa0xF02SXeLmaO4FgJJUg",
+      "name": "honey",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3f8373db2431fb1e54d87f5",
+      "uri": "spotify:album:1HotWAiJ5LLvUMyQKF0CEw",
+      "name": "signals",
+      "album_type": "album",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738915d4073a63e0d7cc852bdb",
+      "uri": "spotify:album:4XS2VrHNn45gZPIKoXvIZ2",
+      "name": "gold feather",
+      "album_type": "single",
+      "release_date": "2021-10-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bc5f5fa6cd384d8f50c1058",
+      "uri": "spotify:album:35lbGK6E31GRdFAzn82NAr",
+      "name": "the light song",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bff1b1f0ef6e3a128043966",
+      "uri": "spotify:album:00dM7C4tN5Hgi09FjLqbcK",
+      "name": "space rocket",
+      "album_type": "single",
+      "release_date": "2021-03-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3fbc098d8a528da09d37fe2",
+      "uri": "spotify:album:6vBMRFKOtJVo8MNyZTayGC",
+      "name": "love on the edge (the remixes)",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a4595966645a98addf46ca0",
+      "uri": "spotify:album:0JM3wR6C8VLsMZObPeEKKk",
+      "name": "the blind sailor",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273138b74bbbeab582299453ab7",
+      "uri": "spotify:album:1Qefhd4hwDiSjtooxAjdhM",
+      "name": "atmosphere",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a4cde23c4907c3875a9792a",
+      "uri": "spotify:album:1U4pS4IjMoitycpvuVCP8v",
+      "name": "obey",
+      "album_type": "single",
+      "release_date": "2019-06-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0c55ea5b27dd7f487c3c8a5",
+      "uri": "spotify:album:1cT5wVLj0UAgCknhrxMe9Y",
+      "name": "in the valley",
+      "album_type": "single",
+      "release_date": "2019-05-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331f089bebf62a7fef30aadf3",
+      "uri": "spotify:album:7dav5xZh7upiVS11C4iyon",
+      "name": "contact",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341fea279a32aa11247c4e170",
+      "uri": "spotify:album:71qlHFC6d9L90REJFMIDZn",
+      "name": "horizon",
+      "album_type": "single",
+      "release_date": "2017-08-01",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330fade2ef3998f636e7f281e",
+      "uri": "spotify:album:1UETZlgS46iTnGFGL9ao71",
+      "name": "send & return",
+      "album_type": "single",
+      "release_date": "2017-08-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e340c532754ce5d5a886f17",
+      "uri": "spotify:album:32naBqEmhXJc5Mz0ZINXBc",
+      "name": "ghos7",
+      "album_type": "single",
+      "release_date": "2017-04-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f10f961024c87c92d1fb223",
+      "uri": "spotify:album:4u65oD4UFR7Lfk9AVfwMzw",
+      "name": "utopia (pyramid remix)",
+      "album_type": "single",
+      "release_date": "2016-12-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GVtgxcx7jg5xVCZsIHSGN",
+          "name": "dombresky"
+        },
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273744db3740fbfa370b3cd90d4",
+      "uri": "spotify:album:7x2oT8Jp1aa5gWl6uCv2LQ",
+      "name": "kitsuné: night tales",
+      "album_type": "single",
+      "release_date": "2015-06-08",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8a7ae6f55e72d3f77857d15",
+      "uri": "spotify:album:57BFaTW1AvGFH3zqaMExOL",
+      "name": "kitsuné: the phoenix",
+      "album_type": "single",
+      "release_date": "2014-01-27",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da466e6fd3e73fb9cab2aed4",
+      "uri": "spotify:album:755hMNFuWnx3XXvSY0igWw",
+      "name": "rising day (remixes)",
+      "album_type": "single",
+      "release_date": "2012-06-17",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341facc39448722addc00c45e",
+      "uri": "spotify:album:7vqawCiS6RE15gO70FswB7",
+      "name": "rising day",
+      "album_type": "single",
+      "release_date": "2011-11-07",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396f71c58238f1d68cc2ebc23",
+      "uri": "spotify:album:3boa49qxqEZ54k1P5u3G6V",
+      "name": "the hall",
+      "album_type": "single",
+      "release_date": "2011-03-28",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3aSTe6gzR3XChH1wcLfhmD",
+          "name": "pyramid"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:10.000Z"
+}

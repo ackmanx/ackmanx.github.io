@@ -1,0 +1,540 @@
+{
+  "name": "health",
+  "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+  "uri": "spotify:artist:6FfjnGXMhxSsJTuGLWBDth",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5b2bf033db0073228084edb4",
+  "genres": [
+    "noise rock",
+    "industrial",
+    "industrial rock",
+    "witch house",
+    "industrial metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5c294d666dcea1a4bf4070c",
+      "uri": "spotify:album:1UaramdOq4gCYt4PW3mQgB",
+      "name": "addendum",
+      "album_type": "single",
+      "release_date": "2026-04-30",
+      "release_year": "2026",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273606334293dca1126eaffd931",
+      "uri": "spotify:album:3phiNfUQixHjmG4S6NvL1h",
+      "name": "r-type v",
+      "album_type": "single",
+      "release_date": "2026-04-23",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737672afe0be96ad00d06a4c26",
+      "uri": "spotify:album:3ncVG5YIZd7fyKUCYe8YCk",
+      "name": "r-type iv",
+      "album_type": "single",
+      "release_date": "2026-04-09",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735096fce6238fdcfac943ff13",
+      "uri": "spotify:album:57WsDBLFHHc0Mu1Va8frcV",
+      "name": "r-type iii",
+      "album_type": "single",
+      "release_date": "2026-03-26",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7c6ee5057070d6de0a79c0a",
+      "uri": "spotify:album:4pGTuGc0EqYrTBK25Lyf29",
+      "name": "r-type ii",
+      "album_type": "single",
+      "release_date": "2026-03-12",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f840d3d41d9011beb265d955",
+      "uri": "spotify:album:3MO0IfyJ4j0S7MRrpLwSIa",
+      "name": "r-type i",
+      "album_type": "single",
+      "release_date": "2026-02-26",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311bf17a1a1140110dd971068",
+      "uri": "spotify:album:6EGb8amMvahCm3BAva1oCN",
+      "name": "conflict dlc",
+      "album_type": "album",
+      "release_date": "2025-12-11",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273993046047b7c2d2c0000b8fb",
+      "uri": "spotify:album:6FyEcmNdYkFR6bXMODJIHV",
+      "name": "the lights (health remix)",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4yDPb3OZn2mlzSFvlvyefl",
+          "name": "sacred skin"
+        },
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3237769cf7b22d3d4ceaf4f",
+      "uri": "spotify:album:1YgdGBECp0uqqLvYSlflsS",
+      "name": "rat wars ultra edition",
+      "album_type": "album",
+      "release_date": "2024-10-17",
+      "release_year": "2024",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273298e0292769168ff38f6307a",
+      "uri": "spotify:album:3QXNYtqbjdTIl4MWUHBxLA",
+      "name": "blood for the blood god (feat. health) (lor remix)",
+      "album_type": "single",
+      "release_date": "2024-08-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PALZKWkpwjRvBsRmhlVSS",
+          "name": "gunship"
+        },
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        },
+        {
+          "spotify_id": "489VqAGm1TZQww4pmFMKa4",
+          "name": "lor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273380277ae4a98f333b8625a2a",
+      "uri": "spotify:album:02WfHTF44SXcDtRBi1Rw3W",
+      "name": "the drain",
+      "album_type": "single",
+      "release_date": "2024-04-17",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3Ri4H12KFyu98LMjSoij5V",
+          "name": "bad omens"
+        },
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        },
+        {
+          "spotify_id": "07OF36h5y4S6s9ckQliaj3",
+          "name": "swarm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391beef4d6886bd0f6701cba6",
+      "uri": "spotify:album:6jAdEVjL2cnwhhywkdmIzr",
+      "name": "be quiet and drive (far away) – spotify singles",
+      "album_type": "single",
+      "release_date": "2024-02-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bef783d554e7e1c4b1486ac3",
+      "uri": "spotify:album:6tkuHFo0hTGGkWEGjdKOjz",
+      "name": "rat wars",
+      "album_type": "album",
+      "release_date": "2023-12-07",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273903afa37924445bd8f97e50c",
+      "uri": "spotify:album:7d5mOgDZ2kKE9x2hJR2Qcv",
+      "name": "worst is on its way (health remix)",
+      "album_type": "single",
+      "release_date": "2022-11-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3RNrq3jvMZxD9ZyoOZbQOD",
+          "name": "korn"
+        },
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        },
+        {
+          "spotify_id": "7aA592KWirLsnfb5ulGWvU",
+          "name": "danny brown"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731efbfc95ca21bffcde24d34f",
+      "uri": "spotify:album:4pk3IXbfaU0cK7oHuEdbEJ",
+      "name": "disco4 :: part ii",
+      "album_type": "album",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ca22b80c65e71e395a790ca",
+      "uri": "spotify:album:5aKIeOyW5CkmMTnmjleDO4",
+      "name": "anti-life [feat. chino moreno]",
+      "album_type": "single",
+      "release_date": "2021-06-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        },
+        {
+          "spotify_id": "75fIuwXxhZ1atNzWLMrgF0",
+          "name": "tyler bates"
+        },
+        {
+          "spotify_id": "19o87fs8xFdHVrqoTqoxbw",
+          "name": "chino moreno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d753eb247895381fad1124e",
+      "uri": "spotify:album:2GRKPOODkTeMODkt5kwLEO",
+      "name": "isn’t everyone",
+      "album_type": "single",
+      "release_date": "2021-05-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        },
+        {
+          "spotify_id": "0X380XXQSNBYuleKzav5UO",
+          "name": "nine inch nails"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aad730647e5a249a0792bc72",
+      "uri": "spotify:album:6HodZ9bCtPbrWSqMlIEuvK",
+      "name": "disco4 :: part i",
+      "album_type": "album",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b88e5010d3358c4aa65cb88c",
+      "uri": "spotify:album:2cJ7BZBJgemAaZDClzacU8",
+      "name": "disco4+",
+      "album_type": "single",
+      "release_date": "2020-04-02",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea08469ec5cdcd1659e23cdf",
+      "uri": "spotify:album:4RaofW1px1YntmsFTtQ9tF",
+      "name": "grand theft auto online: arena war (official soundtrack)",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8da493a15e363b6c5e9dc30",
+      "uri": "spotify:album:1wIuFndiINuEZLFg3OIWGf",
+      "name": "vol. 4 :: slaves of fear",
+      "album_type": "album",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735937931148999c8b329699a4",
+      "uri": "spotify:album:0R52J2JymGBP2lmvQrjgz0",
+      "name": "don't cry those tears (health remixes)",
+      "album_type": "single",
+      "release_date": "2018-09-06",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5E0WZKr9e1ISN70V674dMS",
+          "name": "jack colwell"
+        },
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bdfe8d9332b932d98507082",
+      "uri": "spotify:album:5mEQOJd9BRCUBITSUpq67w",
+      "name": "disco3+",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad6d708bfdd16af8f5e73e87",
+      "uri": "spotify:album:3K10ND4pwiQr2qAMAzfr7l",
+      "name": "disco3",
+      "album_type": "album",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273499959959c343367a0e1383b",
+      "uri": "spotify:album:2a5KZ4rwrXIm28LvcyjYz5",
+      "name": "death magic",
+      "album_type": "album",
+      "release_date": "2015-08-07",
+      "release_year": "2015",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a8de7e6cef29bb4b1de099d",
+      "uri": "spotify:album:5WWosyWLObT7BowuLqcnar",
+      "name": "max payne 3 official soundtrack",
+      "album_type": "album",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4b171cf3015b69b5cd549d9",
+      "uri": "spotify:album:1jFOMqiblEz4n3O39yPo1X",
+      "name": "tears",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345056e510eee7c39d6c4a5d3",
+      "uri": "spotify:album:3fQUxNtuYrJYggYtL6cC72",
+      "name": "goth star",
+      "album_type": "single",
+      "release_date": "2011-09-01",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d54ee169e6a0b6c6d229bba0",
+      "uri": "spotify:album:2DfD61UdmwzozMzPgELXn4",
+      "name": "disco2",
+      "album_type": "album",
+      "release_date": "2010-06-22",
+      "release_year": "2010",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc22a98e097a44639440b8f3",
+      "uri": "spotify:album:0SYK8xhA0pEIPNQ4G0ofhK",
+      "name": "get color",
+      "album_type": "album",
+      "release_date": "2009-08-09",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734038359b0a56ceadb846e87c",
+      "uri": "spotify:album:2FUvq1etuSQLKdp18NOA29",
+      "name": "health//disco",
+      "album_type": "album",
+      "release_date": "2008-10-14",
+      "release_year": "2008",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273049c7a418667ff7d1e43abbd",
+      "uri": "spotify:album:4ISeN1IopymQKEzsFr2GwI",
+      "name": "health",
+      "album_type": "album",
+      "release_date": "2007-09-18",
+      "release_year": "2007",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+          "name": "health"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:01.000Z"
+}

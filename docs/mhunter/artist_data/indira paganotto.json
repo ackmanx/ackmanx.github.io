@@ -1,0 +1,566 @@
+{
+  "name": "indira paganotto",
+  "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+  "uri": "spotify:artist:0JXc5G7ZImFTwPg3y8MTfR",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe496d94a1adc856c8a4b9114",
+  "genres": [
+    "psytrance",
+    "techno",
+    "hard techno",
+    "acid techno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273393b4f0252e7e319f599acbf",
+      "uri": "spotify:album:6Xxi84DMqqWqqRw74GIIAt",
+      "name": "dream (feat. el karima)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        },
+        {
+          "spotify_id": "61L0mD1C0rDMPjB2mcnGLY",
+          "name": "el karima"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390c2c087542dfad43576eb1f",
+      "uri": "spotify:album:4VpsnIeMBYHSu3mtKABhRW",
+      "name": "algo tú (indira paganotto remix)",
+      "album_type": "single",
+      "release_date": "2026-04-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "shakira"
+        },
+        {
+          "spotify_id": "7a0XAaPaK2aDSqa8p3QnC7",
+          "name": "beéle"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdef71b78a5656231db357d1",
+      "uri": "spotify:album:3zKMfngkrcTSXIt1ITOhjM",
+      "name": "arte como amante",
+      "album_type": "album",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367cfaa80b10a342f26240b5c",
+      "uri": "spotify:album:2wB5a5h3lAINVxvCne1L8i",
+      "name": "la patrona",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e44f4805a465fb05da13be95",
+      "uri": "spotify:album:4j4H7QNo56CiAfK0GaLXoe",
+      "name": "black magic",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324453ac858be772ce9cc5b58",
+      "uri": "spotify:album:7heviZNUOz7vASgxtVl7ai",
+      "name": "crush",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc8f6c843a91019c0edf7f56",
+      "uri": "spotify:album:2Yr7RV0myc2RAjJ9ruNGRG",
+      "name": "arte como amante",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        },
+        {
+          "spotify_id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "nile rodgers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273717d69ef28347faf8aaf6b64",
+      "uri": "spotify:album:2QpfFwlOS8R2Ovz1vRFDb3",
+      "name": "dragon",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        },
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e78025623a68d1ac200d7f12",
+      "uri": "spotify:album:7iwImfT0osebTPEAp8yzrX",
+      "name": "nonostante tutto (indira paganotto remix)",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "396Jr76018oUMR6QBnqT8T",
+          "name": "cesare cremonini"
+        },
+        {
+          "spotify_id": "2ARH58Hit3yC6ziGdhma23",
+          "name": "elisa"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735465e3394de463dce1f0310f",
+      "uri": "spotify:album:7bbuWt0xlR3hG7oK9MXQWf",
+      "name": "pressure (indira paganotto remix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7eILArMiTFTQf8SEh5fFHK",
+          "name": "sara landry"
+        },
+        {
+          "spotify_id": "16pj4sabH3akPo4s0IUx9N",
+          "name": "legzdina"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db7b624151d9cd7198dc207e",
+      "uri": "spotify:album:3EnmgngDjZK5zDt36WI51Q",
+      "name": "kalima ep",
+      "album_type": "single",
+      "release_date": "2025-03-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4e11fc3ae06d6010e929a81",
+      "uri": "spotify:album:1ciTAED3gTIYBfhA3MpGNT",
+      "name": "mantra ep",
+      "album_type": "single",
+      "release_date": "2024-06-13",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7onsqSWPufMm5ZnUCECDpf",
+          "name": "joseph capriati"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abceb0472a4f09ec558480c9",
+      "uri": "spotify:album:1dTo4zYnfJdcMHL8o72XsH",
+      "name": "blackbird sr-71",
+      "album_type": "single",
+      "release_date": "2024-06-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ebda2502a6debf2b5c991fd",
+      "uri": "spotify:album:4p8kZszfLI7pLJjTEfrErx",
+      "name": "gipsy queen ep",
+      "album_type": "single",
+      "release_date": "2024-04-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388cde3030995336dac129fd2",
+      "uri": "spotify:album:5jT6RwE57YBjm5ipbhyBQh",
+      "name": "heaven is for warriors ep",
+      "album_type": "single",
+      "release_date": "2023-12-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a4d3ebad881811f8dcb105c",
+      "uri": "spotify:album:2PAYWvEEFuzWT2yhhC830f",
+      "name": "space tube 25 (indira paganotto remix)",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5xnZNDl118VvPTvthujxpx",
+          "name": "captain hook"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f70cd1cbcc5663ae340562c2",
+      "uri": "spotify:album:7fdAdlq3AmkfRKcRPd9KrB",
+      "name": "white horse",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        },
+        {
+          "spotify_id": "1oZmFNkGAT93yD1xX4vTRE",
+          "name": "nina kraviz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273117e74dda26d728c9d3badc8",
+      "uri": "spotify:album:3Ur3UIwmYPwY8GMHSmFjvw",
+      "name": "constant rising",
+      "album_type": "single",
+      "release_date": "2022-12-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JGLndnzrQrIFkd8NFha3C",
+          "name": "dusty kid"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368d3d99c15c03b7c93a4a792",
+      "uri": "spotify:album:1v5wnpM3luPZ0KtvsokQhs",
+      "name": "lions of god ep",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5fa9bed38d18858e149695e",
+      "uri": "spotify:album:5iBNyoORaeooBjSXzroLhV",
+      "name": "guns & horses ep",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0730e4282d70a48870494a9",
+      "uri": "spotify:album:1Si85xtmAui2WFKLcljHCa",
+      "name": "jambo",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f3336731f36cb4229927b53",
+      "uri": "spotify:album:1hMcj58nfxMRslx8c25qmG",
+      "name": "himalaya ep",
+      "album_type": "single",
+      "release_date": "2021-11-26",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334d23fd1074dd3dc934b35da",
+      "uri": "spotify:album:7810h2wAR1RBva5slpwEis",
+      "name": "red ninja",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9078d31ad2a5e41437cbe14",
+      "uri": "spotify:album:6WhVBL90cJzsiB1aHdvVp9",
+      "name": "katsumi",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365e29a95c7e31b0924b97c05",
+      "uri": "spotify:album:4QwuXF0OOjlX4PTxW1rpVF",
+      "name": "invisible connections",
+      "album_type": "album",
+      "release_date": "2021-02-22",
+      "release_year": "2021",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1cfa826de19b50bfc61e037",
+      "uri": "spotify:album:40HdUZEeladVAm6tWuSzmD",
+      "name": "jungle",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ffa0b5754562ddb1d5579e7",
+      "uri": "spotify:album:1PjPpeo1ZXyGYPi7mCDW6c",
+      "name": "death valley",
+      "album_type": "single",
+      "release_date": "2020-11-09",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbb95aca48367fc1c341e59c",
+      "uri": "spotify:album:6GvWvsbBVPR1Ki8uhp8L2b",
+      "name": "anaconda",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e718c7944fcbaf178dcb11",
+      "uri": "spotify:album:06a8tcdGEbFEtRNH3YZSnu",
+      "name": "santa fe",
+      "album_type": "single",
+      "release_date": "2019-07-08",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e4e2401aac946c52667564b",
+      "uri": "spotify:album:3VeficwAWRfaiyRvA65CJv",
+      "name": "garage",
+      "album_type": "single",
+      "release_date": "2018-10-16",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318fd46226fa8b51b61219420",
+      "uri": "spotify:album:7vTvcAJvCJKmYm5VOl4dnw",
+      "name": "the imaginarium",
+      "album_type": "album",
+      "release_date": "2018-08-27",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6eqJOXiuNEaPoKYaUlLks9",
+          "name": "diaz & parree"
+        },
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300133255f5822d436b4f21c1",
+      "uri": "spotify:album:2X0vvLAYkheTL7F5Jnz1es",
+      "name": "kashmir ep",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273842acd4aedce9c5e6c8e4725",
+      "uri": "spotify:album:6ddCSbnoG1XP1LU2HjGAy1",
+      "name": "time out man",
+      "album_type": "single",
+      "release_date": "2014-03-12",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0JXc5G7ZImFTwPg3y8MTfR",
+          "name": "indira paganotto"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:09.000Z"
+}

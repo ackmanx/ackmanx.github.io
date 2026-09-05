@@ -1,0 +1,98 @@
+{
+  "name": "starr chen",
+  "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+  "uri": "spotify:artist:1r0vOsQYMTyq1qkDv7p9QD",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1758013916d5fb85014a0fb3",
+  "genres": [
+    "taiwanese pop",
+    "chinese hip hop",
+    "mandopop",
+    "c-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273869649558bfa706fe081c6fa",
+      "uri": "spotify:album:6yxUc6DnOJSWTDs5KOP92L",
+      "name": "after roll",
+      "album_type": "single",
+      "release_date": "2026-07-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+          "name": "starr chen"
+        },
+        {
+          "spotify_id": "7Jn73bwfAI0hs38t0g6NLd",
+          "name": "aha0"
+        },
+        {
+          "spotify_id": "20NcKbSzKviaFoSuRPtPnQ",
+          "name": "呂諾 ray soul"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336bbb67d9acfe180558a1822",
+      "uri": "spotify:album:1Bh4HMu5pBEB3sMH3LeWVA",
+      "name": "the demo vol.1",
+      "album_type": "album",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+          "name": "starr chen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c05a286eea2002d08150472",
+      "uri": "spotify:album:61FyAVe6ly5GyL7qtwNQpI",
+      "name": "ego-holic戀我癖",
+      "album_type": "single",
+      "release_date": "2016-10-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+          "name": "starr chen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eec8dccea8addac21f606c8d",
+      "uri": "spotify:album:1tQsD59E53w9OCRWWdxvoF",
+      "name": "welcome to the next level",
+      "album_type": "album",
+      "release_date": "2016",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+          "name": "starr chen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afcd29c5ddf51b3d88c250c1",
+      "uri": "spotify:album:45SYH5BobVGYP88LgeLv0I",
+      "name": "宇宙至尊",
+      "album_type": "single",
+      "release_date": "2014",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r0vOsQYMTyq1qkDv7p9QD",
+          "name": "starr chen"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:31.000Z"
+}

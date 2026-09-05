@@ -1,0 +1,322 @@
+{
+  "name": "arcade high",
+  "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+  "uri": "spotify:artist:7fVPo8qWQK1quywHw9kMdI",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7d85e07d22ed365be63696db",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a30f6583fb5d25e629441c12",
+      "uri": "spotify:album:1JyQI9Oqs6YN8TZnmoTF52",
+      "name": "splatter",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c29555eb8766afe409a4f44",
+      "uri": "spotify:album:5sYmpRRW6YxXyxqRFvHiEa",
+      "name": "burning rubber",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f89454185d3848d4aa45dc7",
+      "uri": "spotify:album:4OlVDUOTa5LWu3nloBVyBN",
+      "name": "part of you (arcade high remix)",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1s5qarNhu9YkU9fFVSFcnk",
+          "name": "betablock3r"
+        },
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1065e5792b93788322e447a",
+      "uri": "spotify:album:0tY7Ywps8dwGM29Qi4L1V6",
+      "name": "campfire curse",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b474524df08506bc8f2ec60",
+      "uri": "spotify:album:2OSzN48Y5ZoNoJEBBLXlri",
+      "name": "worlds (arcade high remix)",
+      "album_type": "single",
+      "release_date": "2022-10-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7o6eNB8kc6HQbWbtOqrCfO",
+          "name": "primo the alien"
+        },
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734db22149873886752c9674f0",
+      "uri": "spotify:album:6VBeQaUX2VFeObdaS1jN7N",
+      "name": "the art of youth (deluxe reissue)",
+      "album_type": "album",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f087ef2faeeff3d8659635c",
+      "uri": "spotify:album:26Tng1aHqxHkbmhiRf11yT",
+      "name": "flashbacks (arcade high remix)",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dCDYKtFTMnKCI9PvEwMQX",
+          "name": "w o l f c l u b"
+        },
+        {
+          "spotify_id": "4bExAkknCNKbPxTFkSe7uC",
+          "name": "dora pereli"
+        },
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8897264560fe18fc4e5452e",
+      "uri": "spotify:album:4JEMbtpmjrDDCDwdWjlbgL",
+      "name": "kingdom ii",
+      "album_type": "album",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfd2d83f807a339be9ddeed8",
+      "uri": "spotify:album:2J4H6YMGawzUni9lJLZoir",
+      "name": "slay",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fdbca7fada4f3b2b8f3429c",
+      "uri": "spotify:album:5tdAZwJJWFGVun9oLOV9HB",
+      "name": "dgyk",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f641d621b326cd2493fb7544",
+      "uri": "spotify:album:7gm0ksjKKkJy4EqImSwrYJ",
+      "name": "the path",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342ca349e18edc31db6c2e087",
+      "uri": "spotify:album:77xC2Yo57ejVdu9vESQUN9",
+      "name": "the last picture show (lost outrider remix)",
+      "album_type": "single",
+      "release_date": "2021-01-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        },
+        {
+          "spotify_id": "1WNoh55Z5C39nQ6UIHyf5G",
+          "name": "lost outrider"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739795b43395c51a68c01580dd",
+      "uri": "spotify:album:3JlfqQNFOJBSCTa5eyu50a",
+      "name": "doppelgänger",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee7978419715b328fe0b292e",
+      "uri": "spotify:album:0lk0qEZiHGhE9cIVrvzUFG",
+      "name": "in my head (feat. king protea) [arcade high remix]",
+      "album_type": "single",
+      "release_date": "2020-08-19",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1RpI3AwYuQhWSrgJPEsLDL",
+          "name": "moonrunner83"
+        },
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313b51132c8bd57c486582f1b",
+      "uri": "spotify:album:2IkZ5IsPzggdDe4c2mLSjp",
+      "name": "sportsball",
+      "album_type": "single",
+      "release_date": "2020-02-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367c7b756797118125ce4a45b",
+      "uri": "spotify:album:6HhfYiODptXPTXRu7Vemo8",
+      "name": "new impressions",
+      "album_type": "album",
+      "release_date": "2019-07-02",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb3f351bd8ec9110193f9f06",
+      "uri": "spotify:album:2OcaIituaj1xyfi9ZLRpYB",
+      "name": "kingdom",
+      "album_type": "album",
+      "release_date": "2016-04-14",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735544071acb9d27edaa99216b",
+      "uri": "spotify:album:5JS0twFEyCsGPbUXBm35kf",
+      "name": "heat wave ep",
+      "album_type": "single",
+      "release_date": "2014-06-26",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a732c6e88e7f42d867f0ec61",
+      "uri": "spotify:album:3uDYSThuKWpeqb61ozIU3G",
+      "name": "pixel passion",
+      "album_type": "album",
+      "release_date": "2013-06-24",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7fVPo8qWQK1quywHw9kMdI",
+          "name": "arcade high"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:57.000Z"
+}

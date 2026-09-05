@@ -1,0 +1,385 @@
+{
+  "name": "powerman 5000",
+  "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+  "uri": "spotify:artist:5imUS9dQyCbAjUEJJ9QyWC",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb0f957682f8d10f3cc8c81b69",
+  "genres": [
+    "industrial metal",
+    "nu metal",
+    "industrial rock",
+    "alternative metal",
+    "rap metal",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273283077968f704b7559b34b80",
+      "uri": "spotify:album:59u4n6FgANOu3mq5WwGQ93",
+      "name": "when worlds collide (re-recorded - die krupps remix)",
+      "album_type": "single",
+      "release_date": "2026-04-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        },
+        {
+          "spotify_id": "0iDagYU2nu7gTWMdtCxzxW",
+          "name": "die krupps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e6c8c2fcea900c99181e1a7",
+      "uri": "spotify:album:4tCoOMWktdkaR19XDozu0m",
+      "name": "black lipstick (die krupps remix)",
+      "album_type": "single",
+      "release_date": "2026-03-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        },
+        {
+          "spotify_id": "0iDagYU2nu7gTWMdtCxzxW",
+          "name": "die krupps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee694f97f84d055f1dbf0011",
+      "uri": "spotify:album:3DS11AE1hqW8aAHHm5K38u",
+      "name": "bombshell (re-recorded)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273658c23d13dd933df7dc8d874",
+      "uri": "spotify:album:6Uh1C7Y6OVlUpLTKEfL5zO",
+      "name": "abandon ship",
+      "album_type": "album",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dee4b7280d9ac79434921138",
+      "uri": "spotify:album:6DbTcYu5z5aDBxg8s1RcuU",
+      "name": "dancing like we're dead",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a86a54abde00eb7d7824e20",
+      "uri": "spotify:album:3j5MBBYuBsothTNmNaQIeX",
+      "name": "1999",
+      "album_type": "single",
+      "release_date": "2024-04-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6812c20fed4b45c2543734b",
+      "uri": "spotify:album:05W6A2WP4vz4Vj8N8pRuTW",
+      "name": "when worlds collide (re-recorded)",
+      "album_type": "single",
+      "release_date": "2020-10-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd33d5c3fb5b990521bdec8c",
+      "uri": "spotify:album:641CWWOnzqy4wtkqigq0MR",
+      "name": "the noble rot",
+      "album_type": "album",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735219561f46aa26e88c125abd",
+      "uri": "spotify:album:7k1791Rxdww97bXfoxt5I5",
+      "name": "brave new world",
+      "album_type": "single",
+      "release_date": "2020-08-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273756ab234c37b7bb20bd984bf",
+      "uri": "spotify:album:4sZ7rJiz0mmGjVFK8cC7ql",
+      "name": "black lipstick",
+      "album_type": "single",
+      "release_date": "2020-06-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1197573f461d6ac309ee500",
+      "uri": "spotify:album:5f4yxDLe8BJRn1QTTSN5ol",
+      "name": "new wave",
+      "album_type": "album",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c932424aec719b9c4efe15da",
+      "uri": "spotify:album:1XaviAyQqc7DoVymOKd3jQ",
+      "name": "sid vicious in a dress",
+      "album_type": "single",
+      "release_date": "2017-08-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c80818f445985af62800251",
+      "uri": "spotify:album:0LOjcctjNoDOzTtoMy8O7c",
+      "name": "builders of the future",
+      "album_type": "album",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f67ff753761bb64bb1366cfa",
+      "uri": "spotify:album:1tiMZcCYFdY47DVEaBayhc",
+      "name": "copies, clones & replicants",
+      "album_type": "album",
+      "release_date": "2011-08-30",
+      "release_year": "2011",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e3c56cd09971cb340543810",
+      "uri": "spotify:album:4cP7KunbRBEaaRyst52J0l",
+      "name": "time bomb",
+      "album_type": "single",
+      "release_date": "2010-12-21",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a9b1e1293928f750dd6083d",
+      "uri": "spotify:album:4UhebKR0pIf4qTefsqTh5v",
+      "name": "show me what you've got",
+      "album_type": "single",
+      "release_date": "2010-03-23",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b7afde22e39f2341302605b",
+      "uri": "spotify:album:3sHUnrTHcNRTQurrUEoDbz",
+      "name": "somewhere on the other side of nowhere",
+      "album_type": "album",
+      "release_date": "2009-10-06",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2a11c508ba8d8cf59f5d618",
+      "uri": "spotify:album:1u8yaJQwAAx2ncsLRAJxnI",
+      "name": "v is for vampire",
+      "album_type": "single",
+      "release_date": "2009-04-21",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ab2fe7c7993940db306f735",
+      "uri": "spotify:album:7nGsWVTSfhihxXaKIridbZ",
+      "name": "super villain",
+      "album_type": "single",
+      "release_date": "2009-02-10",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273502a8f4307884b4a39d3daba",
+      "uri": "spotify:album:5S6govIAIJn7JyDxDYg85H",
+      "name": "transform",
+      "album_type": "album",
+      "release_date": "2003-01-01",
+      "release_year": "2003",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de572d6a716421a2a4a83c69",
+      "uri": "spotify:album:5H2p4hpkLk7JgZrjj79Q4Y",
+      "name": "anyone for doomsday?",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e8fa1ec0e1d0cf4f8e1d26",
+      "uri": "spotify:album:3Z3yndLeHs01iYPSNzTBBk",
+      "name": "tonight the stars revolt",
+      "album_type": "album",
+      "release_date": "1999-01-01",
+      "release_year": "1999",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ebe40848da2b33d6c5521c5",
+      "uri": "spotify:album:76C4iEJADNmCqtK4Uu6o9N",
+      "name": "mega!! kung fu radio",
+      "album_type": "album",
+      "release_date": "1997-01-01",
+      "release_year": "1997",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398832980400f0ad7e23e3bbb",
+      "uri": "spotify:album:2RliETqE20sf7S9l3uqGj6",
+      "name": "true force",
+      "album_type": "album",
+      "release_date": "1994",
+      "release_year": "1994",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5imUS9dQyCbAjUEJJ9QyWC",
+          "name": "powerman 5000"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:18.000Z"
+}

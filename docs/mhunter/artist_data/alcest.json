@@ -1,0 +1,267 @@
+{
+  "name": "alcest",
+  "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+  "uri": "spotify:artist:0d5ZwMtCer8dQdOPAgWhe7",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf93fcb88bd2805b3cbb4490f",
+  "genres": [
+    "shoegaze",
+    "post-rock",
+    "black metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273178a12f2d64c302aefbee6f2",
+      "uri": "spotify:album:24nGcIMJdnThRbgxpovlpy",
+      "name": "les chants de l'aurore",
+      "album_type": "album",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eaceedeb8cdc662cf843056",
+      "uri": "spotify:album:14UmlMLhjmNR9ZTcfMBGka",
+      "name": "protection (acoustic instrumental version)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d4959a134fc642faf4039b",
+      "uri": "spotify:album:2ReUNPc0bHIXNm89oKqjf9",
+      "name": "sapphire (perturbator version)",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        },
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a79c4391627e10c128f05f9",
+      "uri": "spotify:album:4WRgvptKi39XnQ4MZiyN6D",
+      "name": "protection (ben chisholm version)",
+      "album_type": "single",
+      "release_date": "2020-01-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        },
+        {
+          "spotify_id": "2Fya3rlim44kLahEUGns3G",
+          "name": "ben chisholm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312775bb3da15efa0c7019c82",
+      "uri": "spotify:album:6o13o3tlmwPYFnlIrVoRhh",
+      "name": "spiritual instinct",
+      "album_type": "album",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cdb7bb93e82aacf4d2ba26a",
+      "uri": "spotify:album:7cf5MM7qQ6V0Petqr4aeZ2",
+      "name": "kodama",
+      "album_type": "album",
+      "release_date": "2016-09-30",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d96c79ec14b84f79cd48ec1",
+      "uri": "spotify:album:3qIcbxymPhXoA1wOR98cLP",
+      "name": "shelter (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2014-01-17",
+      "release_year": "2014",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4b0b252d534459aebaf45b2",
+      "uri": "spotify:album:216GrFyJ7Qod7Lsh1pOuaU",
+      "name": "bbc live session",
+      "album_type": "single",
+      "release_date": "2012-12-19",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fa82cf8515e7539291a7d8e",
+      "uri": "spotify:album:1yENAh14y99tcC6No2mXWl",
+      "name": "les voyages de l'âme",
+      "album_type": "album",
+      "release_date": "2012-01-06",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abf9a834b64cd12009982eee",
+      "uri": "spotify:album:72HqfK252AGyqDVIa7DhIS",
+      "name": "autre temps",
+      "album_type": "single",
+      "release_date": "2011-12-02",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7c1ef79b5063e99e23bb07a",
+      "uri": "spotify:album:7DDma1QX5gVIpjsytUCm4u",
+      "name": "le secret",
+      "album_type": "album",
+      "release_date": "2011-05-20",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a7ef9a5365fadc8831990b2",
+      "uri": "spotify:album:6b9NZDM5QhD2FViyXKwBRT",
+      "name": "écailles de lune",
+      "album_type": "album",
+      "release_date": "2010-03-26",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd518de5f6f4a72106398567",
+      "uri": "spotify:album:0fjV9Nl6pmDXSwnyb2fiZc",
+      "name": "split ep",
+      "album_type": "single",
+      "release_date": "2009-11-20",
+      "release_year": "2009",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7ohVBobb7C0MY60qEgKNy8",
+          "name": "alcest, les discrets"
+        },
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        },
+        {
+          "spotify_id": "2VYbuGDGM7ipeu54IbKzyw",
+          "name": "les discrets"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370e7e9ea258c3f28658e8209",
+      "uri": "spotify:album:3rauCYitC4KP68e4Dd8cry",
+      "name": "souvenirs d'un autre monde",
+      "album_type": "single",
+      "release_date": "2007-08-08",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Bqlc5VoXGcW9Cb0Coau7x",
+          "name": "gnegnoli"
+        },
+        {
+          "spotify_id": "6tWir4ZWs8bMkWcWR0zPpM",
+          "name": "stéphane paut"
+        },
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        },
+        {
+          "spotify_id": "5DsusdHxwf65pEYd2RYnje",
+          "name": "neige"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351a9eaff2b77dd2e05c46dbf",
+      "uri": "spotify:album:1zQQoViMwTIXwmidyqTXdF",
+      "name": "souvenirs d'un autre monde",
+      "album_type": "album",
+      "release_date": "2007-08-03",
+      "release_year": "2007",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:07.000Z"
+}

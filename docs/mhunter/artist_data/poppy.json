@@ -1,0 +1,815 @@
+{
+  "name": "poppy",
+  "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+  "uri": "spotify:artist:5mlbvTfWUOfDrUIK6dkNzv",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9602d4f4d6faad23dcdf1b99",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea7c49a61452e7b089565ec0",
+      "uri": "spotify:album:3PPkFmOFAcQuvW1EXX41Ef",
+      "name": "hand in my pocket ('mile end kicks' - music inspired by the motion picture)",
+      "album_type": "single",
+      "release_date": "2026-05-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        },
+        {
+          "spotify_id": "1RfDFXf0bswV2Ck1gVzNHW",
+          "name": "sumerian pictures"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273423a6720587a664a2b5b223c",
+      "uri": "spotify:album:6lQSombsKLtAaoJzlkU9xf",
+      "name": "in death we've just begun (from \"marathon\" soundtrack)",
+      "album_type": "single",
+      "release_date": "2026-03-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0rLLyTr5rx0qYKb63MdVW9",
+          "name": "ryan lott"
+        },
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        },
+        {
+          "spotify_id": "3kZdsaTYgaaolNxpnJ4iDe",
+          "name": "son lux"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df42c89902247229db56daaf",
+      "uri": "spotify:album:5lBm36eO5Us3NpTXaA9t9C",
+      "name": "empty hands",
+      "album_type": "album",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd88a0034c3924550f66b9d3",
+      "uri": "spotify:album:0Wm5jDuL2Ph5ce9WqjXNM8",
+      "name": "guardian",
+      "album_type": "single",
+      "release_date": "2025-12-04",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bba7ce6a0050a1834a934270",
+      "uri": "spotify:album:7qSK2ETB3f6sPy39dNbUr4",
+      "name": "bruised sky",
+      "album_type": "single",
+      "release_date": "2025-11-12",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b00842b58b744b8a9c189ea",
+      "uri": "spotify:album:0selBZxUKunwDGF6MOmVvn",
+      "name": "unravel",
+      "album_type": "single",
+      "release_date": "2025-10-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b921e399029cbe8d1fa34c5d",
+      "uri": "spotify:album:1WQWzqG7uf68jQohlrsaR1",
+      "name": "last christmas (spotify singles holiday)",
+      "album_type": "single",
+      "release_date": "2025-10-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273460c53e36b10048efc49e76c",
+      "uri": "spotify:album:7heJiiZpgQXmqVIoz2Fra1",
+      "name": "end of you",
+      "album_type": "single",
+      "release_date": "2025-09-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        },
+        {
+          "spotify_id": "0fGVuq5ed21pM7iWwTcMyk",
+          "name": "amy lee"
+        },
+        {
+          "spotify_id": "1g9j6GF1jyjrhixt3Vurzs",
+          "name": "courtney laplante"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea8bf6010a9433696872465e",
+      "uri": "spotify:album:2oxRRkR4Rj2aPCB63NsjZn",
+      "name": "from me to u (feat. poppy)",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "630wzNP2OL7fl4Xl0GnMWq",
+          "name": "babymetal"
+        },
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273861d5b1470e2d95fe9aeba7c",
+      "uri": "spotify:album:0YIOpXQvcbiDNPusSqi5Ew",
+      "name": "negative spaces",
+      "album_type": "album",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d85b3a3d906f3be1fbc6441",
+      "uri": "spotify:album:1nGNBt5EC1E7WKVYjXZS33",
+      "name": "taste (triple j like a version)",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        },
+        {
+          "spotify_id": "2ztWo9ZI0S6mzpQVmmMcE1",
+          "name": "triple j"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9e2d37f0060d74e5524f359",
+      "uri": "spotify:album:6gMiln92by2lYuGM8lggNj",
+      "name": "they’re all around us",
+      "album_type": "single",
+      "release_date": "2024-09-17",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b84c1bed4d691c895720c13a",
+      "uri": "spotify:album:1ywjru2dNFangkxck73vXP",
+      "name": "new way out",
+      "album_type": "single",
+      "release_date": "2024-06-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c13cbc89909f4151aac28e8",
+      "uri": "spotify:album:5Ef8o0dCF7pg6HColTdUlW",
+      "name": "v.a.n",
+      "album_type": "single",
+      "release_date": "2024-01-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3Ri4H12KFyu98LMjSoij5V",
+          "name": "bad omens"
+        },
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356e01491172f4a7152042cd2",
+      "uri": "spotify:album:6mnZ7WPdQs2bbTGwYc9eVC",
+      "name": "moonage daydream (inspired by the motion picture \"divinity\")",
+      "album_type": "single",
+      "release_date": "2023-12-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8d88ecb277ea6cbe79654da",
+      "uri": "spotify:album:6A2IQLnp76gVz8OJLWWVxF",
+      "name": "zig",
+      "album_type": "album",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e401174db65c38b2d23ad492",
+      "uri": "spotify:album:4oM9JjSjCxMwu7VO7B3WvB",
+      "name": "hard",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f9b112a684cb2b6dec54378",
+      "uri": "spotify:album:0eXWhqLWztRUWYW0iAJcIr",
+      "name": "motorbike",
+      "album_type": "single",
+      "release_date": "2023-09-12",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273822e21520e06a1a1518f99fa",
+      "uri": "spotify:album:0HF69TY6QEgMKMQtQJRpVF",
+      "name": "knockoff",
+      "album_type": "single",
+      "release_date": "2023-07-19",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cc44c965adc6f35110b8e48",
+      "uri": "spotify:album:5zryXm1YMVVqalObTXXQI1",
+      "name": "they'll just love you (feat. poppy & danny elfman)",
+      "album_type": "single",
+      "release_date": "2023-06-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7lRFeVa0GvTB0hm28TKT9M",
+          "name": "stu brooks"
+        },
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        },
+        {
+          "spotify_id": "5qBZETtyzfYnXOobDXbmcD",
+          "name": "danny elfman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a217f5a24bcc8f0a44907cfc",
+      "uri": "spotify:album:6RikkGx4dJoF6pehwb2uw7",
+      "name": "spit",
+      "album_type": "single",
+      "release_date": "2023-05-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a046042a3f0d017949c4a22c",
+      "uri": "spotify:album:4IKERkmnfqGAsYkBUG8Fhw",
+      "name": "church outfit",
+      "album_type": "single",
+      "release_date": "2023-04-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3481ccd48f8d362d6ae96f2",
+      "uri": "spotify:album:0HyWdwMiLsXHgXp9qVyrPJ",
+      "name": "stagger",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfdd96dba56140d523986221",
+      "uri": "spotify:album:0elEacBFrTn1uMQTd2pBLG",
+      "name": "fyb",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bccd7875ab03ed91b9decd4",
+      "uri": "spotify:album:6lLs01gVBXmcjXrAk3ZzAq",
+      "name": "flux",
+      "album_type": "album",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fca45ffbfd050b9aa3c18b8",
+      "uri": "spotify:album:4gDrlZ90isxYgVRQKjQMzS",
+      "name": "so mean",
+      "album_type": "single",
+      "release_date": "2021-08-25",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273781d0ac7bcb0a6c605f3b0a1",
+      "uri": "spotify:album:3zIy8F0D5bf7cBaIVqxn8I",
+      "name": "flux",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273259ba7327c3c93837d8a24e5",
+      "uri": "spotify:album:63zcQZ12rZRxPjw8wTQGmy",
+      "name": "her",
+      "album_type": "single",
+      "release_date": "2021-06-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0f34533f3a5493649d7d669",
+      "uri": "spotify:album:7oXX9Nkfj9sVURZMHbkJWe",
+      "name": "eat (nxt original soundtrack)",
+      "album_type": "single",
+      "release_date": "2021-06-08",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c2d5e9cc68ddf0c1c065f45",
+      "uri": "spotify:album:1DK2NQAjlvOpDjCkYCGbhW",
+      "name": "fear of dying",
+      "album_type": "single",
+      "release_date": "2021-05-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a936a0166b6cba9dc83cf6b",
+      "uri": "spotify:album:0vWLZwctj744SP1iifwjDz",
+      "name": "a very poppy christmas",
+      "album_type": "single",
+      "release_date": "2020-12-01",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273783577826f84c48323f62bcb",
+      "uri": "spotify:album:16yAEEsjvAlyV2BDuqCR9K",
+      "name": "i won't be home for christmas",
+      "album_type": "single",
+      "release_date": "2020-11-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abbb7ef1d693df5e31e997fb",
+      "uri": "spotify:album:5Y2TvJbtC6VdebHBsNShAo",
+      "name": "i disagree (more)",
+      "album_type": "album",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335dcf11ff8756903e5e47e60",
+      "uri": "spotify:album:2udq0t3Lixu1u5Gkmqjzz9",
+      "name": "music to scream to",
+      "album_type": "album",
+      "release_date": "2020-08-13",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3bcc05ac6f6034d71724bf0",
+      "uri": "spotify:album:0mLE1HCCfRQBGEhUNgVUo1",
+      "name": "all the things she said",
+      "album_type": "single",
+      "release_date": "2020-06-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273281254a268a229556d982056",
+      "uri": "spotify:album:6kfpsglFWonoOZlJ8XnMuG",
+      "name": "i disagree",
+      "album_type": "album",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c458ea720f1cbab7610ed88",
+      "uri": "spotify:album:6JweFHSJ58P9oc5m0TVLMj",
+      "name": "bloodmoney",
+      "album_type": "single",
+      "release_date": "2019-11-06",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d95d117c5e0a0012eedbfa9",
+      "uri": "spotify:album:7xV0ny0w8sbbTcpI3atYnO",
+      "name": "i disagree",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c947e75955f98a909a805a10",
+      "uri": "spotify:album:7E0JlVNer50j7sNhw4XCAC",
+      "name": "i c u (music to read to)",
+      "album_type": "album",
+      "release_date": "2019-07-20",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d55d16b88de3a7d743afcb0",
+      "uri": "spotify:album:5butUAMQEYVZAeQEFuhG3J",
+      "name": "choke",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345226dac6e9c1feb3c8ee548",
+      "uri": "spotify:album:64WpQrKnZoSjiMVNfEx8TP",
+      "name": "voicemail",
+      "album_type": "single",
+      "release_date": "2019-02-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314c6fc46de5ec109e77720ef",
+      "uri": "spotify:album:3lVqv6juyrIr2yBI5pWyGi",
+      "name": "x (acoustic)",
+      "album_type": "single",
+      "release_date": "2019-01-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273148e78020adb43391ac529e9",
+      "uri": "spotify:album:5QCXxPUwoOtxeZQmve6w2u",
+      "name": "am i a girl?",
+      "album_type": "album",
+      "release_date": "2018-10-31",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d1e678ebddf4e0a86574733",
+      "uri": "spotify:album:6q7emjsWbK5mQRg9MEbIBs",
+      "name": "immature couture",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c6b653f1081a0ccbf1833c2",
+      "uri": "spotify:album:67yxdibjjr0iWXL3rIv5dH",
+      "name": "metal",
+      "album_type": "single",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348a043c74714a60bb09f7636",
+      "uri": "spotify:album:2wOecpvjFDWnvmxRfOv9TS",
+      "name": "poppy.remixes",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b9bad644af856e4a675f5c7",
+      "uri": "spotify:album:2X8hslZKWgIy753r4fFOxr",
+      "name": "poppy.computer",
+      "album_type": "album",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4378328ea5692d1fcdc3819",
+      "uri": "spotify:album:6NNz8U3SNjAYqlbAq2jQBh",
+      "name": "i'm poppy",
+      "album_type": "single",
+      "release_date": "2017-01-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735991e8f858171fb8ac3bf53e",
+      "uri": "spotify:album:4Vu8W7Grff29l10J6Ivsom",
+      "name": "3:36 (music to sleep to)",
+      "album_type": "album",
+      "release_date": "2016-10-17",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e648f95f0e0495694309569",
+      "uri": "spotify:album:1LXJcgThDI0rAJRBkRk07s",
+      "name": "bubblebath",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731eaf3f1737b7c111c42ba683",
+      "uri": "spotify:album:6d5zGb4LZItPkfegiWZfNJ",
+      "name": "lowlife (slushii remix)",
+      "album_type": "single",
+      "release_date": "2016-04-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mlbvTfWUOfDrUIK6dkNzv",
+          "name": "poppy"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:07.000Z"
+}

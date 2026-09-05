@@ -1,0 +1,845 @@
+{
+  "name": "ministry",
+  "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+  "uri": "spotify:artist:1DXylZlWbVvlckNqwvjTEt",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eba6c17a36dc51a24feec25a48",
+  "genres": [
+    "industrial",
+    "industrial metal",
+    "industrial rock",
+    "ebm",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdb7da43160871999f926b3a",
+      "uri": "spotify:album:0csg8QC568vCI89xwWwTbC",
+      "name": "burned out",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b22e4d65e264a82368963eea",
+      "uri": "spotify:album:18R7sFkx1b2alsr1U3OxET",
+      "name": "dancing alone",
+      "album_type": "single",
+      "release_date": "2026-03-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a9a09fd21cb864fc04217bc",
+      "uri": "spotify:album:6Wkf21TuFg0tEVFkCyMQp7",
+      "name": "the squirrely years revisited",
+      "album_type": "album",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3605f5dfd3dd22fafa18961",
+      "uri": "spotify:album:009u51Pmgicebl8veyAnCH",
+      "name": "every day is halloween (squirrely version)",
+      "album_type": "single",
+      "release_date": "2025-03-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24f698a26ec436b337fca9a",
+      "uri": "spotify:album:04Z322o7T5mwSnFVtUGAaV",
+      "name": "hopiumforthemasses",
+      "album_type": "album",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273984925504fb6263f2c14435f",
+      "uri": "spotify:album:7mtLsk2DxoOGQYRb3dRR1h",
+      "name": "ultimate rarest trax! 1981-1983",
+      "album_type": "album",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739be5e8fc7000434be4f61c5c",
+      "uri": "spotify:album:2GV4nMhDaSu4BUshdfQUK5",
+      "name": "moral hygiene",
+      "album_type": "album",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273460e61908e07e3ac80ee7af3",
+      "uri": "spotify:album:0D6mpoSyKZ9GTXXUKnRsOY",
+      "name": "everyday (is halloween) - the lost mixes",
+      "album_type": "album",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cd578c38832a56d11b94cf2",
+      "uri": "spotify:album:05hx91BgMBOcBKxR0QdwmZ",
+      "name": "alert level (quarantined mix)",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273001cc9e86067d8f91d7ad8e4",
+      "uri": "spotify:album:2JB3NnDLd5KroVQ0hxZ1SV",
+      "name": "chicago/detroit 1982 deluxe edition",
+      "album_type": "album",
+      "release_date": "2020",
+      "release_year": "2020",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f04f10d4756d5a167fcfbe1",
+      "uri": "spotify:album:0LpVeS4VlctnN7afd1YgSm",
+      "name": "ich weiß es nicht (ministry remix)",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "65A714FqhSPjoFZeffQbTv",
+          "name": "lindemann"
+        },
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273331c17916a1d9648874c15da",
+      "uri": "spotify:album:3Rqa0jCmgPU9KfOODGOBon",
+      "name": "chicago/detroit 1982 (live)",
+      "album_type": "album",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f08e2b9d250cd55aff8ef70",
+      "uri": "spotify:album:1JvHnCGrIU19iDDvXLWtlM",
+      "name": "jesus built my hotrod",
+      "album_type": "album",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368ccebb15757ede5bb7b642b",
+      "uri": "spotify:album:0lm22aqBIMALKkzoxvMzoQ",
+      "name": "amerikkkant",
+      "album_type": "album",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391206ec64211b2ee1a73bb1a",
+      "uri": "spotify:album:3zrVq89B44Nm50F1T67m0Y",
+      "name": "live necronomicon",
+      "album_type": "album",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bde7e1aa5b1aa849f325dd4a",
+      "uri": "spotify:album:2QZ51Fs9ie12CZwjpcB5BB",
+      "name": "dancing madly backwards - single",
+      "album_type": "single",
+      "release_date": "2017-08-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f968f2da7cbe6b345d2e24c5",
+      "uri": "spotify:album:5ygw5hC9rLtTy77Yplqv0j",
+      "name": "toronto 1986 (live)",
+      "album_type": "album",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a439df37d575053091e8ed08",
+      "uri": "spotify:album:2hfFKjFfTDgL0Iv41keqBO",
+      "name": "trax! box",
+      "album_type": "album",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 95,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738641ddbef1f565fe40673a44",
+      "uri": "spotify:album:6FBkrja9G5kI7fTHembARv",
+      "name": "twelve inch singles (expanded edition)",
+      "album_type": "album",
+      "release_date": "2014-08-21",
+      "release_year": "2014",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310989f89ea02387667db51f3",
+      "uri": "spotify:album:0wVISzXuoRK9ML2olMRAFb",
+      "name": "last tangle in paris (live 2012)",
+      "album_type": "album",
+      "release_date": "2014-07-07",
+      "release_year": "2014",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273579bcaa5f371da7f957e6cdb",
+      "uri": "spotify:album:4oCOBXrAJjJ23XVJ3xrZBl",
+      "name": "last tangle in paris (live 2012)",
+      "album_type": "album",
+      "release_date": "2014-07-07",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273896a6dc787aecb51dc8a1f4e",
+      "uri": "spotify:album:6Lj7wlLC3PffHemnGk1zeT",
+      "name": "early trax",
+      "album_type": "album",
+      "release_date": "2014-01-20",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736df6e25aca7ee21e04594b5a",
+      "uri": "spotify:album:5H3cH7r2e1QFfh8ul2ui7j",
+      "name": "side trax",
+      "album_type": "album",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d424b38a25c6f13095788ddc",
+      "uri": "spotify:album:05H5LxaaeJUTleiXUU2dHp",
+      "name": "from beer to eternity",
+      "album_type": "album",
+      "release_date": "2013-09-06",
+      "release_year": "2013",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e53695bc33eb49984802d84",
+      "uri": "spotify:album:7GqwlTowkSnCIzEU0oMEW0",
+      "name": "enjoy the quiet - live at wacken 2012",
+      "album_type": "album",
+      "release_date": "2013-08-02",
+      "release_year": "2013",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366ec4d514e6d0c3a96c04bd3",
+      "uri": "spotify:album:1kh5sySF5yQE9Tt1NMzGPl",
+      "name": "permawar",
+      "album_type": "single",
+      "release_date": "2013-08-02",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344e4c2022a51a0edd5acb5a6",
+      "uri": "spotify:album:4iXQPvKToQ3krCirQoW6I9",
+      "name": "relapse",
+      "album_type": "album",
+      "release_date": "2012-03-23",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ccb138bdba2c47c41fe6e97",
+      "uri": "spotify:album:74tDizDdHe1BigYdpEGW6S",
+      "name": "double tap",
+      "album_type": "single",
+      "release_date": "2012-02-24",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273221ed9ac99ee38e5a22a62c1",
+      "uri": "spotify:album:0c2vbjUCK5EMdH1trrKgzO",
+      "name": "99%",
+      "album_type": "single",
+      "release_date": "2011-12-23",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733542aab7ee08d1d647b7c68e",
+      "uri": "spotify:album:4hB30gjvM35mZfe9DL2CVk",
+      "name": "stigmata (remixes)",
+      "album_type": "single",
+      "release_date": "2011-02-01",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368137848470bb6fe23aef414",
+      "uri": "spotify:album:1U8sDaAJgB9n8OgctFa0lT",
+      "name": "psalm 69 (feat. alberto nirel) - single",
+      "album_type": "single",
+      "release_date": "2010-12-11",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d21fe9e99eaf10870999cc4",
+      "uri": "spotify:album:1FuBRLZPaPQ90SbtcLxOLz",
+      "name": "every day is halloween - greatest tricks",
+      "album_type": "album",
+      "release_date": "2010-09-10",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b1ba2abf1a4e7f5de0ab000",
+      "uri": "spotify:album:0S113aWUWpV7DSfZb9sl1f",
+      "name": "every day is halloween - the remixes",
+      "album_type": "album",
+      "release_date": "2010-09-01",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273065d1899bf662193497336dd",
+      "uri": "spotify:album:7k9I081UZQ52AxclQ6ZjQE",
+      "name": "every day is halloween",
+      "album_type": "single",
+      "release_date": "2010-08-02",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0e6d05b6b84e9dafe0044fb",
+      "uri": "spotify:album:419mlSdAupoj3RYgEkCwuy",
+      "name": "thunderstruck",
+      "album_type": "single",
+      "release_date": "2010-05-24",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b9921c4c338f022b0540804",
+      "uri": "spotify:album:4ZVqYOB02l66dN7kSsKVnh",
+      "name": "the last dubber",
+      "album_type": "album",
+      "release_date": "2009-09-15",
+      "release_year": "2009",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273876321fe8f5a7f6b2437e01e",
+      "uri": "spotify:album:5blb3cCDdoPdHuLobVZ0Ex",
+      "name": "adios… puta madres",
+      "album_type": "album",
+      "release_date": "2009-03-31",
+      "release_year": "2009",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d82a5133ad7c48aef5802aa",
+      "uri": "spotify:album:10y6K35kri22i6fZXvPwyO",
+      "name": "the last sucker",
+      "album_type": "album",
+      "release_date": "2007-09-18",
+      "release_year": "2007",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273550c0e4027238eb223a568e6",
+      "uri": "spotify:album:4q8Bic29FwkdONg7VwUVEu",
+      "name": "rio grande dub(ya)",
+      "album_type": "album",
+      "release_date": "2007-07-10",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d48abb196f47569ddfb8735d",
+      "uri": "spotify:album:5TaRM5AMl9QCAGgQQKi6Ra",
+      "name": "rio grande blood",
+      "album_type": "album",
+      "release_date": "2006-05-02",
+      "release_year": "2006",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c726c95285f5eef4cc0df58",
+      "uri": "spotify:album:36XbcZxxkGf7RmJpYh5JsO",
+      "name": "rantology",
+      "album_type": "album",
+      "release_date": "2005-09-27",
+      "release_year": "2005",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273814b7c4c4df6d7076ab14844",
+      "uri": "spotify:album:4XLHVQAwI7dJWUtj22YbJ7",
+      "name": "houses of the molé",
+      "album_type": "album",
+      "release_date": "2004-06-21",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273912a1cc4d5d97ef7cd4c9bfe",
+      "uri": "spotify:album:3z5spbkajXXJwMx85T2ody",
+      "name": "animositisomina",
+      "album_type": "album",
+      "release_date": "2003-02-01",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a63ee3e35af616cdbfa4012a",
+      "uri": "spotify:album:5hTk6MhkhSR0CKCf0A8i4c",
+      "name": "sphinctour (live)",
+      "album_type": "album",
+      "release_date": "2002-03-18",
+      "release_year": "2002",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dca417b140f9f3144c57179d",
+      "uri": "spotify:album:2Kd83Ovv7vGXXxWmy1Dylm",
+      "name": "bad blood",
+      "album_type": "single",
+      "release_date": "1999-07-23",
+      "release_year": "1999",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e262703f29231eed632049c",
+      "uri": "spotify:album:31hXN7zwsDlM6ojO8JseH7",
+      "name": "dark side of the spoon",
+      "album_type": "album",
+      "release_date": "1999-01-01",
+      "release_year": "1999",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273263df2384b69ea17ba6236bd",
+      "uri": "spotify:album:6pK142b1OANbpbyJ6XIuvo",
+      "name": "filth pig",
+      "album_type": "album",
+      "release_date": "1996-01-26",
+      "release_year": "1996",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324fb4eb8f1e328955baef75a",
+      "uri": "spotify:album:2wz3P1w89gQd3iXdmF1IA5",
+      "name": "ke*a*h** (psalm 69)",
+      "album_type": "album",
+      "release_date": "1992-07-10",
+      "release_year": "1992",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d697301981eb7931871d75b",
+      "uri": "spotify:album:5V5XnKlWb8sBJBGvkWJScN",
+      "name": "box",
+      "album_type": "album",
+      "release_date": "1992",
+      "release_year": "1992",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273491e5a9e145c70d1a09d1388",
+      "uri": "spotify:album:2Pe9U4mePtlFAJOa2R9PlB",
+      "name": "jesus built my hotrod",
+      "album_type": "single",
+      "release_date": "1991",
+      "release_year": "1991",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273023ce7b6b130a845c899c171",
+      "uri": "spotify:album:7HapY6MjG5Wet5Dp65V4YZ",
+      "name": "in case you didn't feel like showing up (live)",
+      "album_type": "album",
+      "release_date": "1990-08-31",
+      "release_year": "1990",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24dc2f125c785d242029041",
+      "uri": "spotify:album:2Z73HeYQNCf5T8dzzHaoz5",
+      "name": "the mind is a terrible thing to taste",
+      "album_type": "album",
+      "release_date": "1989-11-10",
+      "release_year": "1989",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce61f3f0fc2339e7a083375f",
+      "uri": "spotify:album:6TyCJQqyB8OZLhUEPCNgNT",
+      "name": "land of rape and honey",
+      "album_type": "album",
+      "release_date": "1988",
+      "release_year": "1988",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273805db60d2d9fb40c004a9cff",
+      "uri": "spotify:album:3vYbkwSCobAUG21PSjyuih",
+      "name": "twelve inch singles",
+      "album_type": "album",
+      "release_date": "1987-01-16",
+      "release_year": "1987",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c64c294773e467012e7c203",
+      "uri": "spotify:album:1CEBvP4PPZatx4SH3vTbm6",
+      "name": "twitch",
+      "album_type": "album",
+      "release_date": "1986-03-12",
+      "release_year": "1986",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1DXylZlWbVvlckNqwvjTEt",
+          "name": "ministry"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:37.000Z"
+}

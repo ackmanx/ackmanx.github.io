@@ -1,0 +1,564 @@
+{
+  "name": "blunts & blondes",
+  "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+  "uri": "spotify:artist:4XxIRZXk8xgrBmt0SNq7E3",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb806ee416c020b5957fa01478",
+  "genres": [
+    "dubstep",
+    "riddim"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732695f4a626c1586a98f3685d",
+      "uri": "spotify:album:1AtUecGoqYL97mKb8Wt6GC",
+      "name": "chrome keyblade",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362e32b8127697342a205a10b",
+      "uri": "spotify:album:6ZZE2HUz38SawNcnWf9tZ6",
+      "name": "want a piece",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e52faf16e7e4ce9e82a0034",
+      "uri": "spotify:album:0CUqv0LY8wGDYVpJv9QiqM",
+      "name": "they shot to kill",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c1cdc2c83dfe2e481d9967c",
+      "uri": "spotify:album:6Eg7CkPsb4McYVkIQ1qeLf",
+      "name": "they shot to kill",
+      "album_type": "single",
+      "release_date": "2025-03-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fffe10834283807804d74cf9",
+      "uri": "spotify:album:7htdzbUBFJA2u0nw3CB2vV",
+      "name": "run it back",
+      "album_type": "single",
+      "release_date": "2024-12-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382a9d72b7c9ca1fc1aa85610",
+      "uri": "spotify:album:6UHjJ1z8Z4CCcsuS9SJPJe",
+      "name": "to the beat (radio)",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7f84c8b5dc482aecf0ba92d",
+      "uri": "spotify:album:7z2Ii6gz7lG99YFJXeA7Wu",
+      "name": "big man (dnb vip)",
+      "album_type": "single",
+      "release_date": "2024-06-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4j6LCgKSC3VB5n3hEpDUsk",
+          "name": "erbes"
+        },
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734805014550b2f58de14bbb9c",
+      "uri": "spotify:album:49jhqkeGEVAT14rA3sVelp",
+      "name": "big man",
+      "album_type": "single",
+      "release_date": "2024-03-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4j6LCgKSC3VB5n3hEpDUsk",
+          "name": "erbes"
+        },
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f4afbd22a15b45422148c95",
+      "uri": "spotify:album:645cxe4AcIaIxUiz6tdraC",
+      "name": "story of a stoner",
+      "album_type": "album",
+      "release_date": "2022-04-20",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ee0129c1c49f336da62d5f5",
+      "uri": "spotify:album:3FJfc6IceAg806JTl2Q7oE",
+      "name": "think of you",
+      "album_type": "single",
+      "release_date": "2022-04-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e21d6ad82edea5e7788fc9",
+      "uri": "spotify:album:7vJPv2AA2X4e91tutUx4iQ",
+      "name": "story of a stoner",
+      "album_type": "single",
+      "release_date": "2022-03-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364e97b7eb878a498709f194f",
+      "uri": "spotify:album:1YTNccVQ4780ESvFm5mL2D",
+      "name": "4:30",
+      "album_type": "single",
+      "release_date": "2022-02-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "63CZNEytugjFnZBdjBmWc8",
+          "name": "cotis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340da4ff5dc0abd7bffe4d977",
+      "uri": "spotify:album:1Tz6rZSvBsOzFQa7EtmQQQ",
+      "name": "put down the liquor",
+      "album_type": "single",
+      "release_date": "2021-07-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "51EaBfyIFowtvIXfWelwce",
+          "name": "bàwldy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307e44bf14b250ce448a29589",
+      "uri": "spotify:album:2mt1IX4WofBVkmuptuPJmX",
+      "name": "smoke & ones",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c79d485864a18d9c7c20512",
+      "uri": "spotify:album:2ObKAtseS82uSdYRXVj7t0",
+      "name": "bring it back",
+      "album_type": "single",
+      "release_date": "2021-02-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "1Bl3QCicq2EeV9mY4GLtBP",
+          "name": "badrapper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b257112c620d43c666f051ff",
+      "uri": "spotify:album:07G7dkKqz4po7K2APy0OBj",
+      "name": "bring the smoke",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273285c1856291ddda223627dde",
+      "uri": "spotify:album:6C0Crvv6cSyJnnj8g4ZF76",
+      "name": "safe and sound (rebelution) [remix]",
+      "album_type": "single",
+      "release_date": "2020-09-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389d813125760db2dc27b65c8",
+      "uri": "spotify:album:3t6LfSJvaYd9n95ZO3YeBO",
+      "name": "mcqueen dreams",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "46yoMIbiLf1tIH3CRZiSGX",
+          "name": "dj afterthought"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273551eadd2eef37e4ba3e0d160",
+      "uri": "spotify:album:2VrFXdjYOUBkDCpCjqWjB1",
+      "name": "hot box",
+      "album_type": "single",
+      "release_date": "2020-02-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371ad848c380c8cc3d79bb081",
+      "uri": "spotify:album:2GgP482ILN0m7KJgQVmxe9",
+      "name": "smoking with friends",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336c0484a720b38b002203aa4",
+      "uri": "spotify:album:2ceNpgjnxesxD3vaptUw2R",
+      "name": "lift you up (blunts & blondes remix)",
+      "album_type": "single",
+      "release_date": "2019-07-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "7GvVTb8yFV0ZrdI30Qce6T",
+          "name": "delta heavy"
+        },
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aca79462b20a538a4308fd3c",
+      "uri": "spotify:album:5ICn6fRe6Gw0Y0m7HNF2km",
+      "name": "let u know",
+      "album_type": "single",
+      "release_date": "2018-12-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "51EaBfyIFowtvIXfWelwce",
+          "name": "bàwldy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d53b84c1416bb82b63cad3f3",
+      "uri": "spotify:album:2GjebrnStwFUdEbYbmYYiV",
+      "name": "queen bee",
+      "album_type": "single",
+      "release_date": "2018-09-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7kIxfmjYGQui2LCqXGLfWA",
+          "name": "bandlez"
+        },
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349e628950522f7eb7321e62e",
+      "uri": "spotify:album:6mS9zah9z6zjpJs2qZzJPm",
+      "name": "how to cast spells",
+      "album_type": "single",
+      "release_date": "2018-06-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "42iYg5Gw8y7soHP8TBJ85i",
+          "name": "nowave"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273871d344339f9055982e03c2e",
+      "uri": "spotify:album:2cSUXHKViN5Zhl1lUjYEuE",
+      "name": "beautiful",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad5fc0f2bc5774b61efcf2e5",
+      "uri": "spotify:album:69ttDu2xaoLH9mFvquDDIW",
+      "name": "mile high",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "3SsxYsQwnhws0qW0fsO1s5",
+          "name": "codd dubz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fc7a0b0cdbd121936db0b9d",
+      "uri": "spotify:album:3IGjQrLygOnrotbE6yC4qw",
+      "name": "routine",
+      "album_type": "single",
+      "release_date": "2018-01-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        },
+        {
+          "spotify_id": "51EaBfyIFowtvIXfWelwce",
+          "name": "bàwldy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af15ad1abe31b611a0af8c07",
+      "uri": "spotify:album:3jTtgygsvhLAdQ7Mh1LRmt",
+      "name": "revali",
+      "album_type": "single",
+      "release_date": "2017-11-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273268c307374025672b8309794",
+      "uri": "spotify:album:4NZ5Jr6DSF3sx0mgYMZoJA",
+      "name": "robotech",
+      "album_type": "single",
+      "release_date": "2017-09-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273948c641b2f0515a322198886",
+      "uri": "spotify:album:2tQT6A5FlXx48tSD8acYsn",
+      "name": "rasta wubs",
+      "album_type": "single",
+      "release_date": "2017-08-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734700dd65ecc72e9820da2c11",
+      "uri": "spotify:album:1XAQryTMq627AMxCQDbjpn",
+      "name": "rewind",
+      "album_type": "single",
+      "release_date": "2017-06-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273212e51f040514e60fc304fa8",
+      "uri": "spotify:album:6cvfYC7nTKLQNMHeAjQmWf",
+      "name": "match up",
+      "album_type": "single",
+      "release_date": "2017-02-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b918ef528658429c2bbd4785",
+      "uri": "spotify:album:7oHXj0rKLdxViCVs3GKazo",
+      "name": "reaper",
+      "album_type": "single",
+      "release_date": "2017-02-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XxIRZXk8xgrBmt0SNq7E3",
+          "name": "blunts & blondes"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:51.000Z"
+}

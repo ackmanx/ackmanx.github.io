@@ -1,0 +1,491 @@
+{
+  "name": "tohji",
+  "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+  "uri": "spotify:artist:7j7kL8K4GE1z5Cdxl7ucBF",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebdbb5b40fb469551fbb65465f",
+  "genres": [
+    "j-rap"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c05d9fa39dfeac98a7a0ecf7",
+      "uri": "spotify:album:3EOeWxn7TAKIEx7ebTCDYb",
+      "name": "amelie",
+      "album_type": "single",
+      "release_date": "2026-08-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273643e4f75bc9d15e41cc70ad4",
+      "uri": "spotify:album:5XJT2HvNyfniwak4W7fMTe",
+      "name": "200",
+      "album_type": "single",
+      "release_date": "2025-07-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4poYOxVqlpDTelhhiJcSrW",
+          "name": "mechatok"
+        },
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6a9539a71bba9a07aea3fd4",
+      "uri": "spotify:album:0WFZqcGxnpzTZbzxmcEk82",
+      "name": "zero-two",
+      "album_type": "album",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380345583261c1d5ed468f12d",
+      "uri": "spotify:album:42m5bd3PNVWnM0VlHXNXnp",
+      "name": "jungle-jin",
+      "album_type": "single",
+      "release_date": "2025-04-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c5e4ab15ded93d6a213489f",
+      "uri": "spotify:album:6mj5Cq5VB75f9PQG2xNI5w",
+      "name": "zero-one",
+      "album_type": "album",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f0d9c387a29ce69cf7e0ca9",
+      "uri": "spotify:album:15VgPLx3ITBKN2t7mSo8Og",
+      "name": "tenkasu",
+      "album_type": "single",
+      "release_date": "2024-12-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8c1bc9cafc2b8281272de6e",
+      "uri": "spotify:album:6mPaobM1PIwQYevlXv895h",
+      "name": "medium rare (sim0ne remix)",
+      "album_type": "single",
+      "release_date": "2024-10-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "68sBUNLfzCGR5n2nImhFCV",
+          "name": "sim0ne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f62dfed336c0908aa5a1204d",
+      "uri": "spotify:album:2kI4mHlDIN5qnYUtcd825W",
+      "name": "medium rare",
+      "album_type": "single",
+      "release_date": "2024-07-31",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f80b9c6cb67818d76c5839d",
+      "uri": "spotify:album:3cliiOgEC9urvI4855n5Zw",
+      "name": "frozen rain",
+      "album_type": "single",
+      "release_date": "2024-05-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1acd663f28fe00c58debc52",
+      "uri": "spotify:album:4Z8iqDa6wdIb4GTREZ1n1l",
+      "name": "phenomeno",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a39bf5eb4beebe6805f2f2ed",
+      "uri": "spotify:album:3jZbozt8tNcg27gMEjPpCT",
+      "name": "aglio e olio",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed4fba4e9035edf891cdf437",
+      "uri": "spotify:album:4IHM3NRzz1b6g9qsO5M583",
+      "name": "t-mix",
+      "album_type": "album",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec6943059647aa945ff00980",
+      "uri": "spotify:album:1onkzMWL0XAmSY3egGWHiO",
+      "name": "twilight zone",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fd6bde0cecb6c518ce66a01",
+      "uri": "spotify:album:61iUtEV7F4JcoVLn0zKxD6",
+      "name": "ultra rare",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e5a6e1a64dfa1e380fdd2d1",
+      "uri": "spotify:album:7MCP5s6AU7Rf0ptiqkdwfk",
+      "name": "one",
+      "album_type": "single",
+      "release_date": "2022-02-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d05e55923134f4790da1f7e9",
+      "uri": "spotify:album:0BoU9G5Qekkxlhmnd2lirn",
+      "name": "broken ep",
+      "album_type": "single",
+      "release_date": "2022-01-26",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e34daca7590cd68b40afdf92",
+      "uri": "spotify:album:5nNrqoDIc3duQqw7UeLFjR",
+      "name": "my swag",
+      "album_type": "single",
+      "release_date": "2021-12-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273219d15cdedf45b93cc928d05",
+      "uri": "spotify:album:5cleAlOZLdYqJ3L2dNGZVb",
+      "name": "echo",
+      "album_type": "single",
+      "release_date": "2021-08-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "2i98we4ZId0tp9xtg2Vte7",
+          "name": "loota"
+        },
+        {
+          "spotify_id": "4poYOxVqlpDTelhhiJcSrW",
+          "name": "mechatok"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356e40468d1a656ce2ab85618",
+      "uri": "spotify:album:7Cl7hi6SBhUJTiM0mxEXkI",
+      "name": "kuuga",
+      "album_type": "album",
+      "release_date": "2021-03-31",
+      "release_year": "2021",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "2i98we4ZId0tp9xtg2Vte7",
+          "name": "loota"
+        },
+        {
+          "spotify_id": "0ZurilbRp6KwW6dpaw4pEK",
+          "name": "brodinski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f8bf17cce78ff8981276ef0",
+      "uri": "spotify:album:5VmwD8JKjrJDpLOaFGQkcO",
+      "name": "oreo (mura masa eternal mix)",
+      "album_type": "single",
+      "release_date": "2020-12-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "5Q81rlcTFh3k6DQJXPdsot",
+          "name": "mura masa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a417f08996316f44881db4dc",
+      "uri": "spotify:album:1Wjz1vKj7uIHoy9tOop5sQ",
+      "name": "oreo (malibu seven seas mix)",
+      "album_type": "single",
+      "release_date": "2020-11-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "3gfV2LBMvIE9gjpvowt11B",
+          "name": "malibu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e06711de595b0e7d3a3247fe",
+      "uri": "spotify:album:074wDDg81jXLs4JjmAf9Ay",
+      "name": "oreo",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e613576ad89a73afedb1bb3",
+      "uri": "spotify:album:5IJXMi92iBOVimdPdWG8sj",
+      "name": "goku vibes (feat. uneducated kid & futuristic swaver)",
+      "album_type": "single",
+      "release_date": "2020-08-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5vEZZrTMbKhrd5Mgs37m8p",
+          "name": "dj chari"
+        },
+        {
+          "spotify_id": "22CyfYzF7NMyITy8gKIYT5",
+          "name": "dj tatsuki"
+        },
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        },
+        {
+          "spotify_id": "3eP3EbQEnina3kh1UTNvbj",
+          "name": "elle teresa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0549a9a2656efb6c18a388f",
+      "uri": "spotify:album:1FR5JBhjDtLmvYzDnXGm6J",
+      "name": "propella *i feel ima propella \"she\" she wanna hit",
+      "album_type": "single",
+      "release_date": "2020-08-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e00d2ad7a60dc28be3a4e273",
+      "uri": "spotify:album:4iQrQAlYVMZvyzvUeSmOrG",
+      "name": "rodeo",
+      "album_type": "single",
+      "release_date": "2019-08-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd246468a2c98a90e2bbd87b",
+      "uri": "spotify:album:2dElXil0QI9XrarQcnnZBw",
+      "name": "on my own way",
+      "album_type": "single",
+      "release_date": "2019-08-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332674c71362d9d9d8c0d6b0a",
+      "uri": "spotify:album:0j0Klx9EVClb05wecVcBRu",
+      "name": "9.97",
+      "album_type": "single",
+      "release_date": "2018-07-21",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ef9fff4096a6f151447eeae",
+      "uri": "spotify:album:1B2xQjAj3ZLqBKaze94wLd",
+      "name": "1996",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d486f8f46ba571d20226c2f8",
+      "uri": "spotify:album:0jxsJk7HMKDhaPE7nrdwtk",
+      "name": "i'm a godzilla duh",
+      "album_type": "single",
+      "release_date": "2017-03-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7j7kL8K4GE1z5Cdxl7ucBF",
+          "name": "tohji"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:57.000Z"
+}

@@ -1,0 +1,100 @@
+{
+  "name": "the notorious msg",
+  "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+  "uri": "spotify:artist:3kRF3ZSmh8B8BoACxKi47q",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebae70febed54a14565c202b11",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381711c54cddb5a15599c7d3c",
+      "uri": "spotify:album:3B8A471qDptH1HHTBebtnB",
+      "name": "wonton violence",
+      "album_type": "single",
+      "release_date": "2016-11-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e98107038063df0d51bed4d",
+      "uri": "spotify:album:2p0YIorNIPVMrLAQYzwpgc",
+      "name": "double happy christmas",
+      "album_type": "single",
+      "release_date": "2013-12-04",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff79d9add574271d96ea8e81",
+      "uri": "spotify:album:768mW9zwC5oeOoS6uaABWl",
+      "name": "heavy ghetto",
+      "album_type": "album",
+      "release_date": "2011-05-23",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ee0fb437113837774224b33",
+      "uri": "spotify:album:6Q5bUowT23DbBjp6gDsUAi",
+      "name": "dim sum girl (instrumental/karaoke mix) - single",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273798ac55d88525370ff36a306",
+      "uri": "spotify:album:68IQRvx5m6TNuuxhSlYdtE",
+      "name": "lunch money - ep",
+      "album_type": "single",
+      "release_date": "2007-04-03",
+      "release_year": "2007",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273756d636ae13f524c3e331d11",
+      "uri": "spotify:album:5OWWVgchGNBgD3DqhvYz3Y",
+      "name": "die hungry",
+      "album_type": "album",
+      "release_date": "2004-01-01",
+      "release_year": "2004",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3kRF3ZSmh8B8BoACxKi47q",
+          "name": "the notorious msg"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:31.000Z"
+}

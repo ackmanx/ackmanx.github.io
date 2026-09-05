@@ -1,0 +1,788 @@
+{
+  "name": "arctic moon",
+  "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+  "uri": "spotify:artist:1uAQR5uku7pQGEiaG7VqiE",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9be43c7f2c8c496dbe755f36",
+  "genres": [
+    "trance",
+    "progressive trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e6b149de32710f7f73fe1f3",
+      "uri": "spotify:album:0WHOMogNiEGuh4vybXkTKt",
+      "name": "what i'm meant to be",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b7ef9ddfffec4eda202b842",
+      "uri": "spotify:album:6PHHA7Yp3nDdOeKPCHmOyA",
+      "name": "a billion stars above (darren porter remix)",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "51GkQKgac6wqdicVA2DvPu",
+          "name": "stine grove"
+        },
+        {
+          "spotify_id": "04b2pmUXaBL8wHacSaOplA",
+          "name": "darren porter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273671ffb9814f80d1cf5097bfc",
+      "uri": "spotify:album:4x6JhvOpZvZo5ABFK3uRpV",
+      "name": "nightscape frequencies",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273357dee2afd10f5f0389aedb8",
+      "uri": "spotify:album:44s1PzZZWjSGU0OEK2rg7H",
+      "name": "wasteland synthesis",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5efbd3c801b2ff23c595428",
+      "uri": "spotify:album:5eESEP7mrbNSYaEcjvTWvv",
+      "name": "start again",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321d48f61be0c36b63bbec742",
+      "uri": "spotify:album:54hcdLvquuNZbPJ1nWrpUq",
+      "name": "total simulation",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae0175f211d8fb38239bf6b2",
+      "uri": "spotify:album:2jFoZ9hzPAqMCVGaY6rgO7",
+      "name": "like the sun (xijaro & pitch remix)",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "39RiGfEJOKzgRoWYcZil5F",
+          "name": "jessica lawrence"
+        },
+        {
+          "spotify_id": "0CcmU1Eun8Nwb3VlOAeJUK",
+          "name": "xijaro & pitch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f2af0471157ac9a2978be1a",
+      "uri": "spotify:album:4RQZXnCU6uArxrgcuWoqb8",
+      "name": "become human",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "4uT4ff186hBfVYvjCrFldB",
+          "name": "parnassvs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d64d831152609584d7dd86c",
+      "uri": "spotify:album:097rnvicuyy4tNMywQdjU6",
+      "name": "the great unknown",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cecd278f7a9f6c395ce27f6",
+      "uri": "spotify:album:0etr9XWq2qX9ZR5FDxCk6C",
+      "name": "endless shadows",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "4Mi79LPweZNhYc21q1Ge1l",
+          "name": "shortwave"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e94d70f5dc1e51062bc6448",
+      "uri": "spotify:album:03Tfcxq7RR3UYNoR7EbYvI",
+      "name": "galactica",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "1JLm7d4tLJiFzxCwgngt2i",
+          "name": "bruno oloviani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366e39d27a4d19025ce938749",
+      "uri": "spotify:album:72ogN4RqhAhpujx1S90Zhq",
+      "name": "fractal waves",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "1JLm7d4tLJiFzxCwgngt2i",
+          "name": "bruno oloviani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4c97ca40af5ce756eaaa90",
+      "uri": "spotify:album:58qyECNbkfEUtlrgGF4VxE",
+      "name": "like the sun",
+      "album_type": "single",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342daaa809f349266366d3977",
+      "uri": "spotify:album:2mmvlyGc3JynVY78lD0R0r",
+      "name": "punkstars",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aec3a994bf4baa5be1a3d6b4",
+      "uri": "spotify:album:5kb5ZggzNiJm2nIzuqRfgP",
+      "name": "faded atoms",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1f1f539d2e46619542f456b",
+      "uri": "spotify:album:3OtezBifslCHPnFaE3ihCY",
+      "name": "quantum realm",
+      "album_type": "single",
+      "release_date": "2019-09-23",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fc94619b0ba3526430e8253",
+      "uri": "spotify:album:76OiHeljzhzcteFU42BQjt",
+      "name": "cool in my disaster",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e8ef749000bb5cbe6c4a9f",
+      "uri": "spotify:album:3f7alXRaH4ropP97oosuX1",
+      "name": "runaways",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "39YXQGcflynecg2L3APfqf",
+          "name": "lostly"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dd4f1adbac4d7aa4ebd00c0",
+      "uri": "spotify:album:4If2IJj5GhRfI7n6gWWusc",
+      "name": "no soy yo",
+      "album_type": "single",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "0sGdLU2mH2tIIzCngJn2rS",
+          "name": "denise rivera"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1619062355ee28fdcb48ef6",
+      "uri": "spotify:album:3Uv9DytGdzPmREyYAjbxB1",
+      "name": "about you",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e06f7f7f38c78801a329ec3",
+      "uri": "spotify:album:1I9P7uxYXwTqnySHyj3bbS",
+      "name": "serengeti (arctic moon remix)",
+      "album_type": "single",
+      "release_date": "2018-10-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "4tTgD3KLaNlHg2nxAgGaRi",
+          "name": "ciaran mcauley"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0a555fa99dcb7d11327ff76",
+      "uri": "spotify:album:1xJDKy5fFK4VRAnugQloxH",
+      "name": "annihilation",
+      "album_type": "single",
+      "release_date": "2018-07-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c761573c27fd0a0e2b168f84",
+      "uri": "spotify:album:5OYHna7lw7AR1riRtyEO85",
+      "name": "digital voices",
+      "album_type": "single",
+      "release_date": "2018-06-04",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273686c66b7c1eb6515c154d205",
+      "uri": "spotify:album:7zSa4pcSlNuBHtiDhnUkRm",
+      "name": "dragonborn",
+      "album_type": "single",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea517759e009807be74f737c",
+      "uri": "spotify:album:2t5w9h4O541bBERKizVVz1",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2lYqW6goFxy80hB83z69nT",
+          "name": "eddie bitar"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3f279b249e035f6ecfc4b4c",
+      "uri": "spotify:album:79CLvbX5nfZqNki2FWv38D",
+      "name": "try again (arctic moon remix)",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5cjY8Bs6QyXBhbd8qNxNdz",
+          "name": "phynn"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730214f1b70b6b131ae6be3711",
+      "uri": "spotify:album:4zAJZnPFV0KD2iAQzoDgYW",
+      "name": "shadow particles",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "3uQT1HlLPRSoTKCx5o6lRU",
+          "name": "purple stories"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cfeb5ab2c86a7010c486036",
+      "uri": "spotify:album:56enRLA0u6zAhrLFy3RGxh",
+      "name": "a billion stars above",
+      "album_type": "single",
+      "release_date": "2017-09-18",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "51GkQKgac6wqdicVA2DvPu",
+          "name": "stine grove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ec78c344956f20b1d56007e",
+      "uri": "spotify:album:2SulNWWe7tdZ2ygelrEC8E",
+      "name": "nocturnal horizons",
+      "album_type": "single",
+      "release_date": "2017-06-05",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e3957f2fb645c8625e02586",
+      "uri": "spotify:album:54zPvofqF0SkekdSSlS1ql",
+      "name": "cyberpunk",
+      "album_type": "single",
+      "release_date": "2017-02-20",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302abb854c9a9875f7eb23cfd",
+      "uri": "spotify:album:0Dc6sR10Tm26M2XpipLAis",
+      "name": "neon nights",
+      "album_type": "single",
+      "release_date": "2017-01-02",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1a6f89b8d6a5e16ec7f3ccb",
+      "uri": "spotify:album:4AtuteovUlcDR54MHUlYvq",
+      "name": "sky dancer (arctic moon remix)",
+      "album_type": "single",
+      "release_date": "2016-06-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "54R9281ROJvarm2b6MdhoL",
+          "name": "hans seo"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c2728433e342641cefa2005",
+      "uri": "spotify:album:4NK8PzvRIjiyWAw6o48kEG",
+      "name": "we burn like stars",
+      "album_type": "single",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd3d73d75a63fde1c1a00c0f",
+      "uri": "spotify:album:0iB2ykmAqXc0sAwmQvqcst",
+      "name": "serein",
+      "album_type": "single",
+      "release_date": "2016-05-06",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e9546edb724369d10f17d5f",
+      "uri": "spotify:album:5xQhmGsbNYDj9SKVUGiig6",
+      "name": "data ghost",
+      "album_type": "single",
+      "release_date": "2016-01-29",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320b000fc54f918703607d9a6",
+      "uri": "spotify:album:63agT5pduix3Wp6AE6ocNG",
+      "name": "who we are",
+      "album_type": "single",
+      "release_date": "2015-08-28",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "3UuM6ly33LMDXoLPWjiCNd",
+          "name": "apple one"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a831ff2e3f76b0505909f2f",
+      "uri": "spotify:album:2XituUNMlIwJtMp4bupE7e",
+      "name": "into the dusk",
+      "album_type": "single",
+      "release_date": "2015-03-06",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb4db09b86806c9303f3e377",
+      "uri": "spotify:album:5sDKikdFIYosTwwsn6SO8m",
+      "name": "revolution",
+      "album_type": "single",
+      "release_date": "2014-10-03",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374ca628c3c15f19f8e8914b8",
+      "uri": "spotify:album:6c78EE13S0j4oMD8W9KoRN",
+      "name": "mirakuru",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4f0a5IgkYFHFts5Z9N9SDX",
+          "name": "ram"
+        },
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d54116e0c3f5c8a45babdc6",
+      "uri": "spotify:album:7wEXcVACL6JastfnQERLGQ",
+      "name": "dreamers & dreams",
+      "album_type": "single",
+      "release_date": "2013-10-28",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "5fBbVsFxoa0jDCqocaEdBx",
+          "name": "bryan kearney"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273000d21ef0d126dfabfa313bc",
+      "uri": "spotify:album:1rPW9lFoxp1gc6zWIsBbZt",
+      "name": "valhalla",
+      "album_type": "single",
+      "release_date": "2013-09-02",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        },
+        {
+          "spotify_id": "2xxQ1Dy2fyyhVqJodKB4OC",
+          "name": "paul webster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9df0863873fa47fdbe859b0",
+      "uri": "spotify:album:4z14eKAJjx2Hkr7rxXee7R",
+      "name": "starships over alice",
+      "album_type": "single",
+      "release_date": "2012-08-13",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d83972914a1d7e9192302f7",
+      "uri": "spotify:album:0sVSc9YNjt5H8KBZh8YWbR",
+      "name": "adelaide",
+      "album_type": "single",
+      "release_date": "2011-03-21",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733321bc2bb064ef5520e25abc",
+      "uri": "spotify:album:145ZxN04eh6aqtuWzJ7MMk",
+      "name": "true romance",
+      "album_type": "single",
+      "release_date": "2010-05-10",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734628923d8c97ae39d7b3dacd",
+      "uri": "spotify:album:675oz04XjZa5jpA1DSYbov",
+      "name": "overnight",
+      "album_type": "single",
+      "release_date": "2008-07-03",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1uAQR5uku7pQGEiaG7VqiE",
+          "name": "arctic moon"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:00.000Z"
+}

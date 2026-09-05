@@ -1,0 +1,383 @@
+{
+  "name": "shadow of intent",
+  "spotify_id": "76xrrejizyQpKukBIhnf3D",
+  "uri": "spotify:artist:76xrrejizyQpKukBIhnf3D",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9b4d4e9ceec5f58b5469ea9a",
+  "genres": [
+    "deathcore",
+    "death metal",
+    "metal",
+    "metalcore"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273228f2504ad386535f913d638",
+      "uri": "spotify:album:73dNfnRABJZt3zIhEifUgv",
+      "name": "imperium delirium",
+      "album_type": "album",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfdfd6762d287e2646f8e653",
+      "uri": "spotify:album:1c1o969p0fOBkTcea31737",
+      "name": "mechanical chaos",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273676976e880904904bbd33fa1",
+      "uri": "spotify:album:1EDNRl5Rzrs0W5telXtzQB",
+      "name": "infinity of horrors",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ec94d92cf206d90bb0cbf52",
+      "uri": "spotify:album:2pgLyZfepSCQjfLcO8D2Y2",
+      "name": "feeding the meatgrinder",
+      "album_type": "single",
+      "release_date": "2025-04-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        },
+        {
+          "spotify_id": "2W2H6mzoE0HqDLM7ux6FbO",
+          "name": "corpsegrinder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732408ffb53fe651e9295e8592",
+      "uri": "spotify:album:4AggZ8AOoJJHMxOHjYYeKf",
+      "name": "flying the black flag",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf4ff12ff6200e85352e2d9d",
+      "uri": "spotify:album:6dhrmeSGcnGTiEOODozxtq",
+      "name": "elegy: the soundtrack",
+      "album_type": "album",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377e532e66f3e10ef378e0a21",
+      "uri": "spotify:album:0jSVZMYKV2kaI2mePVHF1v",
+      "name": "dreadbringer",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1XRhUgCyzIdeT8d9KMfeDR",
+          "name": "aborted"
+        },
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731115350eb3e2f4eacffe2999",
+      "uri": "spotify:album:5pkKdqw83QB8q5LXxWRoyO",
+      "name": "the migrant",
+      "album_type": "single",
+      "release_date": "2023-03-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb4e7022b1301caeebc8ad00",
+      "uri": "spotify:album:69rKBfSZ6M0RYvqbYbbj4P",
+      "name": "elegy (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f7b1ae88d6ee042908eacb3",
+      "uri": "spotify:album:1YwAkYsGTgNMWaayCgxjsb",
+      "name": "elegy",
+      "album_type": "album",
+      "release_date": "2022-01-18",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383739a6a45d840e73efafb03",
+      "uri": "spotify:album:5NcU0oTUBbLjgBGI5aVYKP",
+      "name": "of fury",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390122099fc29ed050a0cb3a1",
+      "uri": "spotify:album:2SFjNwy4MZ5eiuP40TQ4RC",
+      "name": "where millions have come to die",
+      "album_type": "single",
+      "release_date": "2021-11-03",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273755d5416f59d4356e9dcc713",
+      "uri": "spotify:album:0tmEnen3nC6Oofdjsbr5jW",
+      "name": "from ruin... we rise",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b668f0199a4ec8413cf2e8ad",
+      "uri": "spotify:album:45JQUUWAQDOiK4npJsGg3c",
+      "name": "laid to rest",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733952eafbe0470a071f1601fc",
+      "uri": "spotify:album:0uJ71KB66jDKOlmYKoP2Sx",
+      "name": "intensified genocide",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731990d2b7ed2ff7255df14050",
+      "uri": "spotify:album:4DQ6L38DeRK18FsKVVAnYy",
+      "name": "melancholy (instrumentals)",
+      "album_type": "album",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8a77ba4aed962b28920a181",
+      "uri": "spotify:album:5IgHVlikizQFBPieV1uk8v",
+      "name": "melancholy",
+      "album_type": "album",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392113d29eea01384c091674c",
+      "uri": "spotify:album:5ebvrBFdm6sSF9YPs4vfvy",
+      "name": "malediction",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273345c4fdfacd9f5e7a7e2e4ac",
+      "uri": "spotify:album:5yOlm4DL4IfxA1EJotKHZz",
+      "name": "barren and breathless macrocosm",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dcdb091620d3d26a0275a5f",
+      "uri": "spotify:album:5sQB0jFOkbnnQsXF2Ldox3",
+      "name": "underneath a sullen moon",
+      "album_type": "single",
+      "release_date": "2018-04-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273355c94f58aeaf0bd715d28f2",
+      "uri": "spotify:album:3E13XWEBDe4il8vgrWbfbX",
+      "name": "the instrumentals",
+      "album_type": "album",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f912a76ad7e42c3b2bf1fb8",
+      "uri": "spotify:album:1SQ1pjev8lF0h7byFLlEvX",
+      "name": "reclaimer",
+      "album_type": "album",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347d4e429ab118806a95c3595",
+      "uri": "spotify:album:1WUMBHoxiaVlYPkZm0fJyj",
+      "name": "primordial",
+      "album_type": "album",
+      "release_date": "2016-01-10",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273762c1d46029e1e7f59dade7f",
+      "uri": "spotify:album:5PZwOlEpwZVrmWb1QRdJLA",
+      "name": "inferi sententia",
+      "album_type": "single",
+      "release_date": "2014-07-18",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "76xrrejizyQpKukBIhnf3D",
+          "name": "shadow of intent"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:06.000Z"
+}

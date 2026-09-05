@@ -1,0 +1,294 @@
+{
+  "name": "gojira",
+  "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+  "uri": "spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb96c4949ee078fbef5d5adb68",
+  "genres": [
+    "groove metal",
+    "progressive metal",
+    "metal",
+    "death metal",
+    "djent"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273265c2400da77ba964192d05c",
+      "uri": "spotify:album:4k6UKb3mWQcQ5yEiyi43DT",
+      "name": "mea culpa (ah! ça ira!)",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        },
+        {
+          "spotify_id": "79i3gkVE8U1ff8X4TRX7y4",
+          "name": "marina viotti"
+        },
+        {
+          "spotify_id": "73HYvBYbBoXKmDEzsM27RI",
+          "name": "victor le masne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4f912e2be00487b4c1eef10",
+      "uri": "spotify:album:4tHLRx3g4JwIHlzlz4D7wA",
+      "name": "our time is now",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e65b8b839208a5e2504e4c21",
+      "uri": "spotify:album:3bmdzJRZ4DLRTiA6yBBQcI",
+      "name": "fortitude",
+      "album_type": "album",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331c60a3b4ab6c37a42ad6992",
+      "uri": "spotify:album:02MWwNo6quuNn1FVWR2mvg",
+      "name": "the chant",
+      "album_type": "single",
+      "release_date": "2021-04-25",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341ce6e1db371ee5afb3cf178",
+      "uri": "spotify:album:7GcDYQFIVJ6W3IkzIfFiia",
+      "name": "into the storm",
+      "album_type": "single",
+      "release_date": "2021-04-12",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e84e266b83ebc648f5fc4c05",
+      "uri": "spotify:album:6yHT4E93booPLfO3qYqEO4",
+      "name": "amazonia",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343018468b17b1fff982cd57a",
+      "uri": "spotify:album:7jfuAetoPfNCY70BaQVwMd",
+      "name": "born for one thing",
+      "album_type": "single",
+      "release_date": "2021-02-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a74e871c26a2c29abfa6adc",
+      "uri": "spotify:album:4tyLNMywFElpCHVQUZVWVa",
+      "name": "another world",
+      "album_type": "single",
+      "release_date": "2020-08-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1fb9cc9f1dca0d1f0da5321",
+      "uri": "spotify:album:4Eylq3E1dTyHWfsp9ZYlSQ",
+      "name": "live at hellfest 2016",
+      "album_type": "album",
+      "release_date": "2016-11-04",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273422c622517ea0bd7eda33e08",
+      "uri": "spotify:album:7D7V6M05UIOTjLdqbwRX0w",
+      "name": "magma",
+      "album_type": "album",
+      "release_date": "2016-06-17",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398fd12235fab9949beaf8496",
+      "uri": "spotify:album:2WrU1VLLBaZy4k5s0p5jzt",
+      "name": "l'enfant sauvage",
+      "album_type": "album",
+      "release_date": "2012-06-26",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac9158414ee0e4042ffc56d",
+      "uri": "spotify:album:5dxqD5Kc6cRRi3rErmDfXG",
+      "name": "l'enfant sauvage (special edition)",
+      "album_type": "album",
+      "release_date": "2012-06-26",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f04b8d97d51e09e0cf5d688",
+      "uri": "spotify:album:5aGo0ZXmsCooA4b3J0n0iQ",
+      "name": "les enfants sauvages",
+      "album_type": "album",
+      "release_date": "2012-06-26",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273633e47ec647995bd469d8a0d",
+      "uri": "spotify:album:4J79cxsmRqZbI0BKmNFDy2",
+      "name": "the way of all flesh",
+      "album_type": "album",
+      "release_date": "2008-10-13",
+      "release_year": "2008",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377f30d6531bfdeb33c1fccbf",
+      "uri": "spotify:album:0AvFF0HlQYvYKHaRURGZBs",
+      "name": "from mars to sirius",
+      "album_type": "album",
+      "release_date": "2005-09-27",
+      "release_year": "2005",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e115e99757d7d1176a006e72",
+      "uri": "spotify:album:26e3IXitLWGcH0UrcAbW08",
+      "name": "the link alive",
+      "album_type": "album",
+      "release_date": "2004-04-16",
+      "release_year": "2004",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273626934ecb19f71866df1ef48",
+      "uri": "spotify:album:5Iu8zwiAb0aKznGs0P1Rrz",
+      "name": "the link",
+      "album_type": "album",
+      "release_date": "2003-04-18",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730306782ef083d588bd1438c7",
+      "uri": "spotify:album:0OB9EsykpiyNnAWSuahzW4",
+      "name": "terra incognita",
+      "album_type": "album",
+      "release_date": "2001-03-19",
+      "release_year": "2001",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt",
+          "name": "gojira"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:07.000Z"
+}

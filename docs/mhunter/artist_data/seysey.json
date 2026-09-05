@@ -1,0 +1,341 @@
+{
+  "name": "seysey",
+  "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+  "uri": "spotify:artist:1vMCydfeqfc5BdxolssKxU",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb57aada995418015d1c0707e",
+  "genres": [
+    "gnawa"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388ea76d2428aec7f8bfb1355",
+      "uri": "spotify:album:3Wgu7x2uNyo3FhxiJyo4Wh",
+      "name": "fanzone",
+      "album_type": "album",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f25112b502973872395ba50",
+      "uri": "spotify:album:06lgYEQ3tDMlEOi5kidurZ",
+      "name": "la guerre des titans",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "2FwWGogJ04HZdALWeMxZA4",
+          "name": "didi b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273465d93ba660e386224da47c7",
+      "uri": "spotify:album:7vBfFiwiQiGu8UluLFua26",
+      "name": "nous 2 (feat. sensey')",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "23u2dvae3e0f3caJSqdlN5",
+          "name": "sensey'"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347fa56dcc4fe61d6cb02627c",
+      "uri": "spotify:album:0FypKBYPqPO59hA4unLmGc",
+      "name": "llanto de secano",
+      "album_type": "single",
+      "release_date": "2024-10-30",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2LLoV50BjWiUio4K2t4fGN",
+          "name": "lapili"
+        },
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273362f2983f6a0d2ebc6fceb82",
+      "uri": "spotify:album:5SnchOsRMKfWRtB7tkrZF7",
+      "name": "yalla yé",
+      "album_type": "single",
+      "release_date": "2024-10-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "4VfCms8XPx6e5diHuVrRaH",
+          "name": "tariq hmitti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273453f8923b5ceb36e16626c86",
+      "uri": "spotify:album:5pjwENIKs1xLXLWXPQINCq",
+      "name": "king of gnawa",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bfbe0f65aea384773b25328",
+      "uri": "spotify:album:39c3gCxqkOgin51oC7bngd",
+      "name": "lágrimas de sequía",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2LLoV50BjWiUio4K2t4fGN",
+          "name": "lapili"
+        },
+        {
+          "spotify_id": "3Lk9AWrpD4bminO5LwmBOw",
+          "name": "yeиdry"
+        },
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc764f33e7156e36093510c7",
+      "uri": "spotify:album:4yS15wmc5YufHYWyEylLcP",
+      "name": "neoclassique, vol. 2",
+      "album_type": "single",
+      "release_date": "2023-11-29",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383280b1ea27e4390157aedad",
+      "uri": "spotify:album:1cppaIDmMfB1sEntPIzQMr",
+      "name": "symphology",
+      "album_type": "single",
+      "release_date": "2023-11-29",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273954aafb03c929151ed6390d8",
+      "uri": "spotify:album:5CeUd30cuCdyO6ARDKbtnY",
+      "name": "gé la vision",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "0PcU18DNfkn3pmbjy5yMFz",
+          "name": "genezio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362f77e48ebcd5842754be3c0",
+      "uri": "spotify:album:21HsFCRng3U2j9N3gqWUcE",
+      "name": "sama khol",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "5dDL6ReckbbD5JBnZdobv6",
+          "name": "youka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734446752b9463e659055ccb96",
+      "uri": "spotify:album:2F90J1QAOpPJPyhXoTULeB",
+      "name": "mia",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "0gGcw3tA1fZoF23qa8KFb7",
+          "name": "bolémvn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d83491800ae75a289500e6ad",
+      "uri": "spotify:album:3epS7yWfkst6wNAZhpopFK",
+      "name": "lodawa / atlas",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1doNmBGMoB2AvFsp7DHQyp",
+          "name": "irenee s"
+        },
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        },
+        {
+          "spotify_id": "4VfCms8XPx6e5diHuVrRaH",
+          "name": "tariq hmitti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730dfc0622ea1f1a1d2c14a1f0",
+      "uri": "spotify:album:1ojVnTZVPOoXcHZloPCHGl",
+      "name": "king gnawa",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff283bf9d97e7bc7fd959d50",
+      "uri": "spotify:album:45qjXIc2LjVZTXQu9GjRmH",
+      "name": "néoclassique - ep i",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9e7fa32212a9deff436b4ce",
+      "uri": "spotify:album:2rLqEjIAvzzbZhATDQeUqM",
+      "name": "apero beat",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6ad9303314f8f7bebec4584",
+      "uri": "spotify:album:1W8KmMda5SM1ORO9zPetQK",
+      "name": "back and forth",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b37ad9a123df67a8c006700",
+      "uri": "spotify:album:5YaieHZiDz1YY2KfHHlth5",
+      "name": "nosphere",
+      "album_type": "single",
+      "release_date": "2018-03-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345eabd0fe586fa27afda5d47",
+      "uri": "spotify:album:2ozIyQ888Sr0UJOjLoGrtr",
+      "name": "dust of time",
+      "album_type": "album",
+      "release_date": "2018-03-15",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1vMCydfeqfc5BdxolssKxU",
+          "name": "seysey"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:02.000Z"
+}

@@ -1,0 +1,161 @@
+{
+  "name": "dj ground",
+  "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+  "uri": "spotify:artist:6cvYne2H5V1po0Inu9NQzh",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb2fc0a5152a5093e031104c4d",
+  "genres": [
+    "chinese hip hop",
+    "chinese indie",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301b4482d34cf2f3811967c21",
+      "uri": "spotify:album:3EEmTQjlTbFdcF6eKKpOcT",
+      "name": "make it",
+      "album_type": "single",
+      "release_date": "2022-12-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        },
+        {
+          "spotify_id": "0N2Etp17FYH9FbazNBmyWW",
+          "name": "ash13c"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734806e00b5e6bd0afa76d4f00",
+      "uri": "spotify:album:7pLWSINRmiSHWf73MX9FBm",
+      "name": "take me home (feat. flesh juicer gigo)",
+      "album_type": "single",
+      "release_date": "2022-10-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f00964deb9234c40bd6b214",
+      "uri": "spotify:album:6bUgxxy467FSGkM0iI8Xkl",
+      "name": "我要女朋友remix",
+      "album_type": "single",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7HnmJNqxXx8INft6NFAEfY",
+          "name": "六艾司 lilice"
+        },
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2b72c380d7ebe64025f3004",
+      "uri": "spotify:album:6qN3Mn6yiZkYgFX8QPT6dq",
+      "name": "無病識感病人 (horzeman remix)",
+      "album_type": "single",
+      "release_date": "2021-01-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        },
+        {
+          "spotify_id": "7k7XlKhPBZ7m8bh9wxd4UA",
+          "name": "horzeman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273712cc39788c07491846ac6eb",
+      "uri": "spotify:album:2kv9Yrna1bIRYpBvNNGLBL",
+      "name": "insight",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3a1e34b473fba5265f28a13",
+      "uri": "spotify:album:4WuoHpRKlo7z5ida3wL1Oh",
+      "name": "嘻哈是窮人在聽的 (feat. 屁孩 ryan & 賴皮 mr.skin)",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c87306312a9f4f8d4d04756d",
+      "uri": "spotify:album:76iHzokanVvhsQpH8W8Atu",
+      "name": "高度控制",
+      "album_type": "single",
+      "release_date": "2018-08-15",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739da65d5a91bdd651a250c83c",
+      "uri": "spotify:album:2WN99e1hL0FE5ZQIZUiwhr",
+      "name": "blow up this city (feat. marz23)",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f85f0bae232a5eba540ba3e3",
+      "uri": "spotify:album:0xGPPm1EQMiCMeqQd0Lrq7",
+      "name": "hold me down feat. ash",
+      "album_type": "single",
+      "release_date": "2016-09-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cvYne2H5V1po0Inu9NQzh",
+          "name": "dj ground"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:23.000Z"
+}

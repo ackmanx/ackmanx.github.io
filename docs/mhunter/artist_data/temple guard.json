@@ -1,0 +1,88 @@
+{
+  "name": "temple guard",
+  "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+  "uri": "spotify:artist:5Hv4Y36jKvB9mbn0CPivrR",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc9fc56c02685b028ccd2ab0c",
+  "genres": [
+    "metalcore",
+    "hardcore"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273857df7188dd938b14905812e",
+      "uri": "spotify:album:7yKi3yOAPI9Mna3WTPlhFI",
+      "name": "citadel in flames",
+      "album_type": "album",
+      "release_date": "2026-06-11",
+      "release_year": "2026",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+          "name": "temple guard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc70fb6ea062df904055d2db",
+      "uri": "spotify:album:3GleURTIKzImp008FezyZA",
+      "name": "blood makes the rain fall",
+      "album_type": "single",
+      "release_date": "2026-05-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+          "name": "temple guard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328814db1be8bb39602975f7b",
+      "uri": "spotify:album:2jbqvj0KapBV7aVgLY9BxF",
+      "name": "morbid sacrament",
+      "album_type": "single",
+      "release_date": "2024-09-03",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+          "name": "temple guard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f97104df47445c35c6a080f7",
+      "uri": "spotify:album:4tKiBqIcMmNlUVFHDNBNlE",
+      "name": "istvaan iii (exterminatus)",
+      "album_type": "single",
+      "release_date": "2024-05-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+          "name": "temple guard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ace9358fe2cd45bdd7fe6bc",
+      "uri": "spotify:album:1i4bbnArqkkiANJ4Xc7heB",
+      "name": "spear of the revenant",
+      "album_type": "album",
+      "release_date": "2022-09-01",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5Hv4Y36jKvB9mbn0CPivrR",
+          "name": "temple guard"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:57.000Z"
+}

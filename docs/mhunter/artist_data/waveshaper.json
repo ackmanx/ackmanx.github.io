@@ -1,0 +1,1295 @@
+{
+  "name": "waveshaper",
+  "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+  "uri": "spotify:artist:4N55TE3vFODMR4BX5B9fnM",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd0abe0f3d4c27678542460c1",
+  "genres": [
+    "synthwave",
+    "vaporwave",
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a08300946a7f54e409ba39e",
+      "uri": "spotify:album:32rJlrEr3KW0Movak74Ykw",
+      "name": "alternate reality",
+      "album_type": "album",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397c44065e5f7f653946ee605",
+      "uri": "spotify:album:3qw6iUsk2ODXUrJmwVD9Tq",
+      "name": "between time",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d4d5531666fbb21957ba9e5",
+      "uri": "spotify:album:2QS405ItSJUXws2NoGOgQp",
+      "name": "final heist",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361c0f138a5dbc0854e12746d",
+      "uri": "spotify:album:1f3oA12lcyViztUdPGQVh1",
+      "name": "swedish tv drama",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a214e48d1104f0dc6e6b0e33",
+      "uri": "spotify:album:4Awtb9O4MQajUxpwa3UuHc",
+      "name": "zettabot",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d54df2a17bfc736b2148058",
+      "uri": "spotify:album:5Wm3LJ3y0JyGqnskzr3jH0",
+      "name": "distant end credits",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273566165019e8425f8073a555d",
+      "uri": "spotify:album:7a3Qt557p4olqokJzFzI5X",
+      "name": "aurora machina",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "6bNpZ2lr2qhlpEtDrimoI7",
+          "name": "oscillian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734386acf84b4d4e349d0f973e",
+      "uri": "spotify:album:4e5dxIGtajnaLdMDSqxTrD",
+      "name": "nightbreed ii (the new breed)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbb2cf48dfb9603f0815df97",
+      "uri": "spotify:album:26KsTxLUFymzExZuDlzoCJ",
+      "name": "sounds that kill (2025 remastered)",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7a58e397ccf126e800d39d6",
+      "uri": "spotify:album:22MwXOaH4nX0q6eBF3Dr0E",
+      "name": "the spirit of worlds",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c88aaad00afc7dfa0cbe49de",
+      "uri": "spotify:album:1Vb599Q4YTujzniAXHRMh1",
+      "name": "monument",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273575443d9280b9891f71aff7e",
+      "uri": "spotify:album:7v9iAQJF8bJTYu9Cn9GISl",
+      "name": "blaster",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe9b1a3d1c64d9208842cf61",
+      "uri": "spotify:album:5qErVkpL6AvB3z7gumDuHj",
+      "name": "nightbreed (slowed + reverb)",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273080617fe298a1d5c13d41f06",
+      "uri": "spotify:album:0F3E8sriNHPv9oUHZcSxIv",
+      "name": "nightbreed",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c10c0c9ae2eb0ce0525014a6",
+      "uri": "spotify:album:6ap0UfoVvsoFN7tnrx8fcd",
+      "name": "trance shapes 2001-2004",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bc714ec886d6f71046b07ac",
+      "uri": "spotify:album:3Qt0vZSajq1PYOcCUBgqfS",
+      "name": "infinite",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5ecfe244a705a4a1fda0b6f",
+      "uri": "spotify:album:2cpopIt3ApHDA3C1K71Fra",
+      "name": "rave eternal (waveshaper remix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "65sChHf6etCvSFdXn8NPUO",
+          "name": "alex"
+        },
+        {
+          "spotify_id": "3kwoPkICT4iPkNjr6mL13N",
+          "name": "tokyo rose"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383094a7f426021eb99dd21e3",
+      "uri": "spotify:album:6U1fM8GbUF2f0CyYhIXZqv",
+      "name": "bios",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "6bNpZ2lr2qhlpEtDrimoI7",
+          "name": "oscillian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b569d013ecf78af6864491f5",
+      "uri": "spotify:album:5A0GynmG9QolBB0TSL3VAQ",
+      "name": "masters of light (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "0zx3vNHbAja1wl3I2kwBF6",
+          "name": "paul zimmermann"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737458e1371f504800686e890d",
+      "uri": "spotify:album:5AZlSv4iXxd8VIHvqayZVW",
+      "name": "beyond the event horizon (from masters of light)",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c75080b6e5f98f1c3a406ef",
+      "uri": "spotify:album:06FORzLf536AT99gvykfJl",
+      "name": "peak",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b7cc94675786edc56812171",
+      "uri": "spotify:album:5Hd94Wct1NB9gxlF1CLm83",
+      "name": "a void hope",
+      "album_type": "album",
+      "release_date": "2024-02-29",
+      "release_year": "2024",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5748a1d39e06f1fda8aada8",
+      "uri": "spotify:album:6gcEdAwUuEQ2Dd4mglzsPv",
+      "name": "perspective",
+      "album_type": "single",
+      "release_date": "2024-02-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e0e783d9db56e0cf58ff0a2",
+      "uri": "spotify:album:3QHIIPGo2XuZCqya19NhCf",
+      "name": "alive",
+      "album_type": "single",
+      "release_date": "2024-01-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "3hvgLXeDFNiqDOVXl0xTge",
+          "name": "lukhash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273530358425ba7cee790550280",
+      "uri": "spotify:album:0dyhwMOB5CpkUmL2kOGYob",
+      "name": "winds of nubia",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b6e1df2aff4d380e73acd6e",
+      "uri": "spotify:album:44ZoRM8rc8McvRwNmdCXWQ",
+      "name": "the crew 2 - season 9 episode 2: flashback (original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2023-10-25",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734aa4d1b98ec96a63779eaa10",
+      "uri": "spotify:album:516dGlaFpQqRojjtHPhgEn",
+      "name": "comeback",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xFCRE0T1SELBAaxtlG5X3",
+          "name": "lazerpunk"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273494b7062030b47863bb01745",
+      "uri": "spotify:album:257jBmJSZWVkr2p0XB5kli",
+      "name": "encounter",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ldNdtZX38LAsOk0ciLvb2",
+          "name": "f.o.o.l"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324015e98afdf9d43346eb936",
+      "uri": "spotify:album:1NsCnu0IBfmaHtOCL6MiEA",
+      "name": "hold shift to run (from “first person shooter”)",
+      "album_type": "single",
+      "release_date": "2023-09-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9539b688e5770b892deca59",
+      "uri": "spotify:album:4G3p4sT5Zz56TA9O8FFXrl",
+      "name": "determination",
+      "album_type": "single",
+      "release_date": "2023-06-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a201666940b9ec0e9071055",
+      "uri": "spotify:album:5CsyuXjweTcnGYYHh55zsB",
+      "name": "hearts",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734dc5973ee4c151a391eaf169",
+      "uri": "spotify:album:1ywDgMIhzDtismhvaEivBn",
+      "name": "exabot",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300a70bfc63a32fac512be79f",
+      "uri": "spotify:album:5k9mzWQZtggTslJF79gZak",
+      "name": "megabot",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7993da90d44c63c371ddb5b",
+      "uri": "spotify:album:4YNX9cW7p7yeLVSglZooBQ",
+      "name": "desolation",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "55DhV9I8VahoWvpa3QMPP5",
+          "name": "rogue vhs"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c1ec8d852cea354679f8c6e",
+      "uri": "spotify:album:4EiiygcWETw9cQktdzQnUQ",
+      "name": "nocturnal",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bff2c2e9ab416e8d9ccc7b6",
+      "uri": "spotify:album:2Y9MznVKYgRN2UBE3bqP6R",
+      "name": "e.p.r.o.m.",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "6bNpZ2lr2qhlpEtDrimoI7",
+          "name": "oscillian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9d0f2f803bb491387a5cbc9",
+      "uri": "spotify:album:51thC9CgBDRlILDlHYowtP",
+      "name": "forgotten shapes",
+      "album_type": "album",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb2f3c56079b4541bbaea7b9",
+      "uri": "spotify:album:51WWCL3SXwBnOhOWeuyrGg",
+      "name": "artificial elements",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c32e6a003832a8853be244a2",
+      "uri": "spotify:album:70biA2hxQXUPDGN1J4fqWK",
+      "name": "commute",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eddbe409e8316de354718881",
+      "uri": "spotify:album:4YOKQauVH2eGtW7vqzVbRQ",
+      "name": "disco on the baltic sea",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b89c1e62500138bdc0212193",
+      "uri": "spotify:album:0TJYw0LC0tvIgndjGD6toS",
+      "name": "keep on running (from “in search of tomorrow”)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4b8165d8936e56e62d0d756",
+      "uri": "spotify:album:6vqvkQWU8rQWSznNvHA4t6",
+      "name": "pixel force",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "3hvgLXeDFNiqDOVXl0xTge",
+          "name": "lukhash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e51e130b9165eebba5bc5ba",
+      "uri": "spotify:album:4zJbLizw6AMZdGx9VT9LIM",
+      "name": "terrabot",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd642b08f687eecb0ca6804a",
+      "uri": "spotify:album:4InqTiEXpgNRpnm126iofJ",
+      "name": "gigabot",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362e5e60c83356daf572b902d",
+      "uri": "spotify:album:7BQFBtwjqsfJM04EJbDL5W",
+      "name": "a sense of something (canape lee remix)",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "76y14k92bNATjGuNOiykTT",
+          "name": "canape lee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730742e408762b6bb6cf81177f",
+      "uri": "spotify:album:3WbJdebZ8aXc4ZrCnIS4mI",
+      "name": "the phantom machine (movie edit)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730529c68687150261c0bde9db",
+      "uri": "spotify:album:0HtX82BpTWeBkueTLDvDZ0",
+      "name": "the phantom machine (powernerd remix)",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "2vio6wIiVR3XOM1zlgMxXK",
+          "name": "powernerd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735436de1f7a60a3a8ef47b174",
+      "uri": "spotify:album:4yY5TzJyexHiGFkmtN2gKy",
+      "name": "mainframe",
+      "album_type": "album",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273729c9ea1b9f40639af63519e",
+      "uri": "spotify:album:3UDQ7vkYtP19Sh6CAT7Cdo",
+      "name": "lost in the cloud",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e354adc4570d5b16fa9add8",
+      "uri": "spotify:album:1CXdjNdh8Jk9NxqB5WrY7W",
+      "name": "friends again",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f257909d27285712b4e3986",
+      "uri": "spotify:album:3tj16WU98VoZVlKqbWL54T",
+      "name": "eternal journey (station nova bonus)",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2881624c4e6965397c4190c",
+      "uri": "spotify:album:2mUV8Pj9eTb5tnh6g9u9iX",
+      "name": "33 mhz",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b82c86c2c8a0d0d1af18e37",
+      "uri": "spotify:album:2wmdMCsvAE0MeaQNApnT2S",
+      "name": "the disk hunter (remixed)",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c592bbbb91c8da814ed28b6",
+      "uri": "spotify:album:1hFPQ93vRLuhAF2Vk8G4Wj",
+      "name": "the disk hunter (daniel deluxe remix)",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "0OTY72l7CC7ynKzp6N2o5b",
+          "name": "daniel deluxe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b192b9a235880f1419ddf57a",
+      "uri": "spotify:album:55HsBxfDUCHOZDnFjOZ4M2",
+      "name": "client (magic sword remix)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273161324673add9d1f421c284d",
+      "uri": "spotify:album:6o8XBtabGrQ43M808gm3wF",
+      "name": "victory (f.o.o.l remix)",
+      "album_type": "single",
+      "release_date": "2020-12-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "1ldNdtZX38LAsOk0ciLvb2",
+          "name": "f.o.o.l"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ad2b821d2ad914fe3575281",
+      "uri": "spotify:album:7hmatDdABsg0WrEmsy3Og8",
+      "name": "walking in the air",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351973f49f84a480e304feadb",
+      "uri": "spotify:album:1CDFWWdlW84M8iV3igeSa7",
+      "name": "i drive (waveshaper remix) [the rise of the synths presents]",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OVqg3lxC8ZIf0vHcEqaCf",
+          "name": "cliff martinez"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b53f7187f687f83b2e4d94d2",
+      "uri": "spotify:album:57XKStpmGfWjmgH2yAud9B",
+      "name": "invincible (remix)",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273818456cd087101e90cb9b9ac",
+      "uri": "spotify:album:1DuC53yKxCbdnaXZVv6EKF",
+      "name": "crt days (droid bishop remix)",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "0HPVHsbV2yIYPp2Pk4kdHe",
+          "name": "droid bishop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5ca7c7b352a82a7eb27b88a",
+      "uri": "spotify:album:3LXIXV8GL6lheDy3M66ofg",
+      "name": "vivid stars",
+      "album_type": "single",
+      "release_date": "2020-07-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352d30b0eff9a6f1170c1c0d9",
+      "uri": "spotify:album:5jKmvDjlpRTbXgSu6PT7hC",
+      "name": "the disk hunter",
+      "album_type": "single",
+      "release_date": "2020-06-01",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd772e9f56dcff5a3ee1bd8",
+      "uri": "spotify:album:1xuV8224ogHO2u9MJPTxz7",
+      "name": "crt days",
+      "album_type": "single",
+      "release_date": "2020-03-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8560398e391d9980535703f",
+      "uri": "spotify:album:6YCrIJGIRTTrXasyYxkYqA",
+      "name": "data source",
+      "album_type": "single",
+      "release_date": "2019-12-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273290056540716ae7e5b3d41dc",
+      "uri": "spotify:album:2USBY8hyp0hIxJhzlf4G8t",
+      "name": "artifact",
+      "album_type": "album",
+      "release_date": "2019-05-06",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef5538f1267cc3ce1ac5d902",
+      "uri": "spotify:album:1q2MWEOKONHBDwAjq6Fgd8",
+      "name": "100 mhz",
+      "album_type": "single",
+      "release_date": "2019-04-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b734924ef1e9deb3effdce4",
+      "uri": "spotify:album:4AFJ6dqHwPBwjBRsm0hhjt",
+      "name": "the guardian",
+      "album_type": "single",
+      "release_date": "2019-03-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad7b9cde7697db723e2d643c",
+      "uri": "spotify:album:6Q8XNv0SONdbUDI9WwSh9v",
+      "name": "lost shapes (reinvented)",
+      "album_type": "album",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352938a7a3aa34814a6b589e4",
+      "uri": "spotify:album:1ykn24x0m48s63MDEZDGCC",
+      "name": "modern technology",
+      "album_type": "single",
+      "release_date": "2018-10-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0eEcbHGsAvOTCZzF5pg8GD",
+          "name": "robert parker"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273834284f7eba186c5ede61b5a",
+      "uri": "spotify:album:1J6ABXo6bpID61GsPERhMp",
+      "name": "lost shapes",
+      "album_type": "album",
+      "release_date": "2018-04-16",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e57f394b161a0a472a740357",
+      "uri": "spotify:album:0lE1WSg6xHenslQnEFhhTc",
+      "name": "66 mhz",
+      "album_type": "single",
+      "release_date": "2017-11-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac13b16a2090b3dce7dac205",
+      "uri": "spotify:album:7fyFkxeENCyyJIfSf2rlt1",
+      "name": "velocity",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3c53c7fe808645b2dcf5be1",
+      "uri": "spotify:album:2VMXdLM06dyIfWSbTH2GqM",
+      "name": "station nova",
+      "album_type": "album",
+      "release_date": "2016-05-13",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e258460f0023d68262ce78a",
+      "uri": "spotify:album:3b9Lw6wG6dJY5ONlucdGzp",
+      "name": "hardware passion",
+      "album_type": "single",
+      "release_date": "2015-12-14",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389fa01a0a1e7ac4824ef713b",
+      "uri": "spotify:album:4osuMAl688Fni311BxfOCd",
+      "name": "exploration 84",
+      "album_type": "album",
+      "release_date": "2015-06-23",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ca5a37352e62c2d51400d4f",
+      "uri": "spotify:album:5OJdOUQY4xVAvN8C5P5ghp",
+      "name": "solar drifter",
+      "album_type": "single",
+      "release_date": "2015-02-02",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c6fa1c0b892abc23689e866",
+      "uri": "spotify:album:5ORAtb81A2urpin7mHxQ5w",
+      "name": "radio signal",
+      "album_type": "single",
+      "release_date": "2014-07-03",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739641a33baebacc1e8c4ef3b2",
+      "uri": "spotify:album:11OBBEJL6dG50XGrEExEgM",
+      "name": "retro future",
+      "album_type": "album",
+      "release_date": "2014-03-24",
+      "release_year": "2014",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e86449f446eebb387a9b2f69",
+      "uri": "spotify:album:0VkfavqBtC6rNi1nxTazcp",
+      "name": "tracks to the future",
+      "album_type": "album",
+      "release_date": "2013-08-08",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:10.000Z"
+}

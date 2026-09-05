@@ -1,0 +1,90 @@
+{
+  "name": "xiao ren",
+  "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+  "uri": "spotify:artist:6Mp1qMoH5cSd8Xw3R1Njpm",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd2f6e46be8623ef382b6bd44",
+  "genres": [
+    "chinese hip hop",
+    "taiwanese indie",
+    "taiwanese pop",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efd7fa9700bc0b39e078ed3e",
+      "uri": "spotify:album:2gz41tgsDvoaXK2rC8XKGI",
+      "name": "小人國",
+      "album_type": "album",
+      "release_date": "2024-01-01",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+          "name": "xiao ren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8233e9cbc4e2a25a1a94fa3",
+      "uri": "spotify:album:0WKO0ZjpnH5kNt63DYi5Vh",
+      "name": "歌佈靈的奇妙電台",
+      "album_type": "album",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+          "name": "xiao ren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d52d597c8087aa6a1038b085",
+      "uri": "spotify:album:0v542hHeApOOKLRDSjYT1P",
+      "name": "我們不結婚 feat. 伍悅",
+      "album_type": "single",
+      "release_date": "2023-02-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+          "name": "xiao ren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346287e9cfc0dad68d9bf93ec",
+      "uri": "spotify:album:3lQT3alsMs5aNLCT0Vw0iU",
+      "name": "出來玩",
+      "album_type": "single",
+      "release_date": "2023-01-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+          "name": "xiao ren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346a2df8e92ecff7fd8aac575",
+      "uri": "spotify:album:4pKlhcjKO1ukp0bIkduUvS",
+      "name": "龍虎門 rap n' roll - vol.06",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6Mp1qMoH5cSd8Xw3R1Njpm",
+          "name": "xiao ren"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:38.000Z"
+}

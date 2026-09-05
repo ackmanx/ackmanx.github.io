@@ -1,0 +1,770 @@
+{
+  "name": "borne",
+  "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+  "uri": "spotify:artist:3NaqR0cf5IwAY1b1AaPAtB",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe82ee083e3a95d28160a3b6b",
+  "genres": [
+    "uk garage",
+    "bass music",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d82547262196790c0d10b6ec",
+      "uri": "spotify:album:0nunwhEtlMDamlIztoNm7w",
+      "name": "drown",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tmvLj5Sa3njrifpuruKBu",
+          "name": "wink"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739411792b6ae4e0a0214ce234",
+      "uri": "spotify:album:5IE1VPEhI3R17XvTdw1XLn",
+      "name": "original style",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "3JmGsgVoGUN1Ro1jLfi7k1",
+          "name": "scrufizzer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fb206502258c4d48888cd59",
+      "uri": "spotify:album:35JD05BJsVNF0aRd71Qlwo",
+      "name": "can i",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8f76d2f856f6bf4902bcf74",
+      "uri": "spotify:album:2G2R8laDahmTeuV4Dk2CFH",
+      "name": "for a minute",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273818b11fcec6009e055d75a86",
+      "uri": "spotify:album:3NQAohLVL3a4QG3Gp01tVc",
+      "name": "disguise",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4QWmN97HRZya55JvxN3I5a",
+          "name": "taiki nulight"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312883be18fae01fdfbce7247",
+      "uri": "spotify:album:699M6LAUSZzByTkzsrUVqJ",
+      "name": "want it",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306f1f9f3541372e494ef8467",
+      "uri": "spotify:album:1stf6s1Nxxgy6WLPpxIOC9",
+      "name": "want to go",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308ee659c1bf34caffb0021d5",
+      "uri": "spotify:album:2BbmwrqeukXMa0zbRGSu2o",
+      "name": "hold me down",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a8c12e002a7bb74fd37044a",
+      "uri": "spotify:album:4hXIrgyYASAus2Ms0GQx0E",
+      "name": "go again",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d2265a2954e9cedf9b7786d",
+      "uri": "spotify:album:0GzWA2pdhCEj2xvymykNOZ",
+      "name": "shake it off",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2fb06daf4f5991b69ea7670",
+      "uri": "spotify:album:5Fzg5JxyGtVdt10KoyHwYc",
+      "name": "out of control",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4QWmN97HRZya55JvxN3I5a",
+          "name": "taiki nulight"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308b5c6bee4cd84a2f0ae3b74",
+      "uri": "spotify:album:5zMh7cULaOC4aovstHJc2K",
+      "name": "as i do",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c41fb645a77d148aa915001e",
+      "uri": "spotify:album:7EE8YvysQ7SzedaQ3Izw5i",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f5e3cf806cda29a1cc7b5df",
+      "uri": "spotify:album:1wt3bPnbLUGulqDbCocnQk",
+      "name": "give it to me",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc57e305d35843b782d4448a",
+      "uri": "spotify:album:44izydeupjKkWEGoytnwWH",
+      "name": "hush",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "6sdWdDAgkNeIIZNQ4xExec",
+          "name": "alexis b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecd9e58d42e5f1a2b20f1f9f",
+      "uri": "spotify:album:1W8BbPOaOieutIhh5uAF0V",
+      "name": "i've been thinkin (borne remix)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273727c9c1ac715c707c29667ef",
+      "uri": "spotify:album:7ItctvDW7uwa0Zegbd8rq2",
+      "name": "silence",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273223132f417cf731b06b831c4",
+      "uri": "spotify:album:7HblcAvpakUan6Dv7hz2j3",
+      "name": "my mind",
+      "album_type": "single",
+      "release_date": "2024-01-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273351ab624ec6a8270dff12087",
+      "uri": "spotify:album:09S12dQk0VXRMqC2L036ZR",
+      "name": "deep end ep",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d02c0a3075c1cbb74a061ce",
+      "uri": "spotify:album:12xlRBmhi9gZpyY7UYr5Ie",
+      "name": "deep end",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f93d77f8f38964a77a0cab4f",
+      "uri": "spotify:album:3Xug1RZvXgaLQf7yPVlu7n",
+      "name": "voices",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5O2s6fRMqbwIKGB9QrFrBQ",
+          "name": "arya"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fa20f48a7727cc5e9c62a21",
+      "uri": "spotify:album:3GzIa94MEUJPfLj5j3zPPK",
+      "name": "straight through ep",
+      "album_type": "single",
+      "release_date": "2023-09-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273798cdebc2d43740106fe47b1",
+      "uri": "spotify:album:70dzWO44MeHL1WE8VrqU1m",
+      "name": "power",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374e5db8a8ad8b3e4aa7b691d",
+      "uri": "spotify:album:6rlBrC6dO7eZTYW9hqAjyj",
+      "name": "take away",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363b81f14a17664f1a60d4071",
+      "uri": "spotify:album:3y0LTEaEynYzBILaaHtLco",
+      "name": "let you go",
+      "album_type": "single",
+      "release_date": "2023-06-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "6sdWdDAgkNeIIZNQ4xExec",
+          "name": "alexis b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273496eeecd70096c6a06ecaa41",
+      "uri": "spotify:album:5THyuPMFnI6BtVVFuDj5FZ",
+      "name": "can u feel it",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aefb01dfdd8d432921e41005",
+      "uri": "spotify:album:4BrXQMqTV3k5VKuas2JJi8",
+      "name": "trying too hard (borne remix)",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3T9HpHdBgLU9wcB1LUT0U9",
+          "name": "over easy"
+        },
+        {
+          "spotify_id": "0wxqz8uaPaewwCEqsYQHn8",
+          "name": "leondis"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341a3c645dbb95a2b3bceedcd",
+      "uri": "spotify:album:10Hq5g2TDdMDsFzaGRq2kI",
+      "name": "pressure",
+      "album_type": "single",
+      "release_date": "2023-02-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25waW5SfUCXqYCUeV8gvvU",
+          "name": "wiguez"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732653e511cf0027f4a3fea3a8",
+      "uri": "spotify:album:0x39qbQc9MGZS0M1iKiDiZ",
+      "name": "bonfire",
+      "album_type": "single",
+      "release_date": "2022-12-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933ba55592b4308bd1dab911",
+      "uri": "spotify:album:2kptge8iPqk09hwooHfxHY",
+      "name": "pray tonight (borne remix)",
+      "album_type": "single",
+      "release_date": "2022-11-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25waW5SfUCXqYCUeV8gvvU",
+          "name": "wiguez"
+        },
+        {
+          "spotify_id": "07rQW5tiQ8KWfhvtNckUpX",
+          "name": "p-one"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307242be954deaffe3ac6d243",
+      "uri": "spotify:album:02CjddOTLUbhk4iFNoEcSg",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "5WXjAq5jNEHfrvZDhEYDDD",
+          "name": "imallryt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273969b00f2df0f65d9b462f8e7",
+      "uri": "spotify:album:5vhAJTsU1rJl2SBdC4jTpb",
+      "name": "let go",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf6e43ba4f691e546360b3df",
+      "uri": "spotify:album:1reTanthrWlUwQSYwRLxKp",
+      "name": "out of here",
+      "album_type": "single",
+      "release_date": "2022-08-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5649d77c8773cefe17aa920",
+      "uri": "spotify:album:2B7KyF9EjyzjDLPqHPtbaB",
+      "name": "calling out",
+      "album_type": "single",
+      "release_date": "2022-08-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355c96e375f22616d9c62b941",
+      "uri": "spotify:album:4RKQa73OWsssOtAKBmhdKv",
+      "name": "need u",
+      "album_type": "single",
+      "release_date": "2022-07-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5O2s6fRMqbwIKGB9QrFrBQ",
+          "name": "arya"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "7BNmWFren7JBhowtx1SgdH",
+          "name": "lynzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308f819646404004cefd7b7c2",
+      "uri": "spotify:album:13wqOaHAXw1Oe2hsHC2SCj",
+      "name": "tied to you (borne remix)",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XmmX4fE4SiRMu3ICsP5sA",
+          "name": "lipless"
+        },
+        {
+          "spotify_id": "2RDXcxQgmEyomb2g9SERuf",
+          "name": "lökii"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732242963a8585ac072a557dec",
+      "uri": "spotify:album:0zxu3IxHI8TB0ZYKi3F48U",
+      "name": "one more try",
+      "album_type": "single",
+      "release_date": "2022-06-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "5O2s6fRMqbwIKGB9QrFrBQ",
+          "name": "arya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a838a9410b46a66f2fda8510",
+      "uri": "spotify:album:5kNrQnRf1kW81rtuGgBE4r",
+      "name": "can't see",
+      "album_type": "single",
+      "release_date": "2022-03-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "1fMQutD7EmZamY65WftFWm",
+          "name": "rico 56"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d921e0109c9bc51f28f71e35",
+      "uri": "spotify:album:6AZ0NINOkJ1RMWQYFjETVG",
+      "name": "holding on",
+      "album_type": "single",
+      "release_date": "2022-01-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae7c4278426d08e9dc6891ba",
+      "uri": "spotify:album:5eUMXqZQBgl58jfdQbUvXQ",
+      "name": "your love",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "5WXjAq5jNEHfrvZDhEYDDD",
+          "name": "imallryt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378415b0aff10bc876db21eb7",
+      "uri": "spotify:album:0jrIKVJGDGrsvlSGrwC6Pq",
+      "name": "this high",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc271ee1134b04bdc24927f9",
+      "uri": "spotify:album:7ruoHcCbwzWeduNdrsem19",
+      "name": "needed you",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3iAbOn3r0bXmmxyQYBxVHJ",
+          "name": "dallien"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b02902cdea15e31d12752290",
+      "uri": "spotify:album:7pithE7iwCd8srZAbuXcSq",
+      "name": "on your own",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3RmwJpW3ISPqgDcSN6hIyr",
+          "name": "julian bates"
+        },
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        },
+        {
+          "spotify_id": "1fMQutD7EmZamY65WftFWm",
+          "name": "rico 56"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f08da191e2b9acac126f8467",
+      "uri": "spotify:album:1TjjID2AlTqE6cgQ38zpp3",
+      "name": "talk to me",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NaqR0cf5IwAY1b1AaPAtB",
+          "name": "borne"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:12.000Z"
+}

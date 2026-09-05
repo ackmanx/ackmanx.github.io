@@ -1,0 +1,5029 @@
+{
+  "name": "timmy trumpet",
+  "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+  "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb82ac9eee4c8a5f57412b4821",
+  "genres": [
+    "melbourne bounce",
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300bf6d807d303e257c058f63",
+      "uri": "spotify:album:0jBiIpjj0iQhMDFRa80xNh",
+      "name": "wanna be loved (feat. moa lisa)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0oUXA3boTncBMYFD5o6G2E",
+          "name": "moa lisa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735676b4268058435bff209faf",
+      "uri": "spotify:album:3mgLrsA1pHfVWzvD2jc3bR",
+      "name": "roses (feat. richard judge)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1dESZUZevzhd5dzq9ZsMLI",
+          "name": "bradeazy"
+        },
+        {
+          "spotify_id": "5z275L9haKWG328mm7UFd3",
+          "name": "richard judge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273891e597930488c3594092a0d",
+      "uri": "spotify:album:47tfbM8Z9hEHC3YtMSEcrD",
+      "name": "all my life (feat. john martin)",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6rcE30MaP92XafelMNZ2Sq",
+          "name": "frank walker"
+        },
+        {
+          "spotify_id": "2auikkNYqigWStoHWK1Grq",
+          "name": "john martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd688a0644513935ecb2ef20",
+      "uri": "spotify:album:55sBLTngKmRxlB4giUYxw1",
+      "name": "not a place (feat. oaks)",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1X2sRzO3K7Uvry9JWbG2iO",
+          "name": "oaks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273636bbc9c8ce0652c0f68a89b",
+      "uri": "spotify:album:6ayesMxqMVeKOO5wzDmFoM",
+      "name": "ole!",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ede1e0c11031174ab24a26a",
+      "uri": "spotify:album:2TwDCrPMCCjFyRj58GFCzM",
+      "name": "safe and sound",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "30IONe5gqXy6MXSNHVCCYP",
+          "name": "vion konger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397cb885f3b270472d826890a",
+      "uri": "spotify:album:0ZDPSB368S8GqUq6mMjv0N",
+      "name": "madhouse (feat. rani)",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "0wOXK4GjUAFUDhd7mvKBbW",
+          "name": "da hool"
+        },
+        {
+          "spotify_id": "3SYnDj7btg9gFY7ps8m5d5",
+          "name": "rani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323bffe26086a7bd64c41d99f",
+      "uri": "spotify:album:2swhqbQntrFZ5EOWExzXYd",
+      "name": "brazil",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7IFPeV5Ew63S7Hid0AjNgK",
+          "name": "sound rush"
+        },
+        {
+          "spotify_id": "4FDj6mh458K7m9Txwyj2rt",
+          "name": "harris & ford"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738846af6f82dca25171546077",
+      "uri": "spotify:album:69JrGNnFGdbfFdOeqwEt8h",
+      "name": "afterglow",
+      "album_type": "single",
+      "release_date": "2025-07-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5HirplYzqe2d6nvqIskR82",
+          "name": "zen/it"
+        },
+        {
+          "spotify_id": "5vmyToEQFm8oFq7IurCMNX",
+          "name": "anylia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b26aa9222f4c8c206722d940",
+      "uri": "spotify:album:2bo04wJjiFwDR4g7n1tBr3",
+      "name": "born to be lonely",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "67ghKnycRX6VM1xfqJSMlH",
+          "name": "younotus"
+        },
+        {
+          "spotify_id": "4qQYqpUCGQvPIHkHmnbC7p",
+          "name": "shy bandit"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fabf7879cd6e8d7b319ef4cc",
+      "uri": "spotify:album:1m2EoGXSA9QtXdRawROTEZ",
+      "name": "move your body",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b55055e33914e928eb83da",
+      "uri": "spotify:album:4POTNdsb2vY5tvsWkXtsKK",
+      "name": "ziga",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        },
+        {
+          "spotify_id": "2NTtIgPZyELENThAeqfvR6",
+          "name": "henrique camacho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a720ce14cc3d8bf5b638d8ff",
+      "uri": "spotify:album:5sK3HgYCoqsTENWpG32hZV",
+      "name": "country roads",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6w0JXd2nT27GXVTbsuQ2II",
+          "name": "3 are legend"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273364ee660bad855c45d28372f",
+      "uri": "spotify:album:3o0d7R3rlAlDCU2djq8tkq",
+      "name": "mr. saxobeat",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1kVBxbzTGmSjLrr3dPioHK",
+          "name": "andre schnura"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0BmLNz4nSLfoWYW1cYsElL",
+          "name": "alexandra stan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c63015825c1a469d13fb08c7",
+      "uri": "spotify:album:5QAqZusJWVUs4EVadWu1Oc",
+      "name": "we own the night (feat. chandan shetty)",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "2b4BOEtTbGchL0K53fvpgk",
+          "name": "chandan shetty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b98cf8828ac5e7a0fffe254",
+      "uri": "spotify:album:5nHZegXHDO2Fw7fLMwFfqa",
+      "name": "party so hard",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1ZPGzmbFTn8GRjqTqnLiFE",
+          "name": "niklas dee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273896e34984272ccef202f3865",
+      "uri": "spotify:album:2L5EXh101zt0yB67o2SYWy",
+      "name": "it must have been love (feat. charla k)",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "2gZzTzeACSwFqkMroVxmnm",
+          "name": "darren styles"
+        },
+        {
+          "spotify_id": "1nKYzgyVrpiCrKdlUiNR8E",
+          "name": "charla k"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c4db5fbab178d08e4bf3c5e",
+      "uri": "spotify:album:1P6nFrFtdvzyBQsOnrbrDP",
+      "name": "techno pieps",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4OoHneMX97SjUXKWgsyrP4",
+          "name": "gpf"
+        },
+        {
+          "spotify_id": "1vYoGQIgamBW4S335Q0EHb",
+          "name": "dikke baap"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fef5e8f7456efd974937283",
+      "uri": "spotify:album:7LVAGDKVp4Qkz0GxEJTUqx",
+      "name": "my way",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273089afe3589c9df9eea97d078",
+      "uri": "spotify:album:1KLI9C1c6EHMs2dJXDXK3W",
+      "name": "diamond heart",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r43wW70tnGUauQYvY5w48",
+          "name": "bennett"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273841dba114926bf2ce1ca345d",
+      "uri": "spotify:album:7kZtUDcUxaXy8oDoprzzFK",
+      "name": "addiction (feat. kel)",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5HirplYzqe2d6nvqIskR82",
+          "name": "zen/it"
+        },
+        {
+          "spotify_id": "7tYjk2vuV96DmlpEHLlw05",
+          "name": "kel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaef6560708d1335a0bd21b1",
+      "uri": "spotify:album:6vpocQEtVoMkffazXMxWX7",
+      "name": "all the small things",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3yycPRFMwYENrpe3nw7L4k",
+          "name": "stvw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736210a71a4dbb3158804a92f8",
+      "uri": "spotify:album:2TzphxYpyPBilfWRJClNPk",
+      "name": "mf mosh pit",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1CXuuw8HJhyN80HlNzvL1e",
+          "name": "sullivan king"
+        },
+        {
+          "spotify_id": "6Mu4CynRtQyYX8al5IJO47",
+          "name": "und3rsound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379d01241ed11a227ede6edfe",
+      "uri": "spotify:album:2kP4uee3KmX0Zzkad7mj8s",
+      "name": "timmy trumpet's sinphony no. 3",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731586d812499007fab24bf3ca",
+      "uri": "spotify:album:7qTS6AfFdQhox4UDSBvVF3",
+      "name": "freaks (dimitri vegas & like mike remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1GbrJTB56Xs4XQGlmVbaCf",
+          "name": "savage"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397180d27cf972420f67656cc",
+      "uri": "spotify:album:0pIu9VSrK7eCf4vAIXk84E",
+      "name": "all i want for christmas is you",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2HkAI0YrEcgoR8QdaURqhO",
+          "name": "dimitri vegas"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348c2abe805bdcea5a1d1126d",
+      "uri": "spotify:album:23cx1JMOhR0pHRZ0uQT8od",
+      "name": "here we go again",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7ahE8B8ZhWe3fgVxLaVAXR",
+          "name": "geses"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e70320b31b97bab8628d5e5",
+      "uri": "spotify:album:0phsWfE0jsPYtAkQHp6eAE",
+      "name": "imagine (feat. carbonne) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273268fccd86060e537ec33b87c",
+      "uri": "spotify:album:19tOFbOwSqZkQONwDtxss9",
+      "name": "sound of da police (with des3ett)",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "2MdFJmUQf3ckA99IhFF9my",
+          "name": "ely oaks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bc2e30931469b70e465e418",
+      "uri": "spotify:album:0xQzA4AYTp21tB2mOdSg0t",
+      "name": "nessun dorma (feat. luciano pavarotti)",
+      "album_type": "single",
+      "release_date": "2024-10-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273393e856fe2bd1be561b9142d",
+      "uri": "spotify:album:6XOKg6JYaa1qnxE9hEpgYM",
+      "name": "nessun dorma (feat. luciano pavarotti) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-10-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273144d3084ac115a7366204191",
+      "uri": "spotify:album:6KxYxYpOZA4xtBEZsaLORx",
+      "name": "chasing ghosts",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9adeba80c15021f5ad3999f",
+      "uri": "spotify:album:4w2Y16HozGexc27JPnfGOe",
+      "name": "chasing ghosts (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321b076e87063391b33025633",
+      "uri": "spotify:album:7o6ZM1Yh51VBCjx0M6uo2X",
+      "name": "time to say goodbye",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce40e0238dbeac6694f5dfb7",
+      "uri": "spotify:album:4l7OptP4yIil0hbZ79XdMB",
+      "name": "now we are free",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5QySqc6yAFDx9m7fedFZmC",
+          "name": "brennan heart"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "10Sg7743IiFPQQIEDSU2sv",
+          "name": "blademasterz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6f0e6ad8a7c592cb531f57b",
+      "uri": "spotify:album:66e6AMviKvA0RHh8aOEU92",
+      "name": "ritmo fatal (alarma!)",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4ehtJnVumNf6xzSCDk8aLB",
+          "name": "martin jensen"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "76TM3QXivQvlLmZxdYxMZr",
+          "name": "666"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be005af9c82abe41a0e646d7",
+      "uri": "spotify:album:3ZZzYMQiFBrAq1rgtjfBKP",
+      "name": "iris",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734894ca17e4fb29df97ed782b",
+      "uri": "spotify:album:5yZyujbKOonqPGbz67MgGR",
+      "name": "iris (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363e4e848161b236eaeaffe50",
+      "uri": "spotify:album:2yAk2MMYwNiQnI9iBGHsTB",
+      "name": "weekend",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6aBoKzSTjuIi0sY69XHLk3",
+          "name": "karol sevilla"
+        },
+        {
+          "spotify_id": "49T8i1paijMAK9rYtjO4lu",
+          "name": "faulhaber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300db8c8950657e89c26b5e5f",
+      "uri": "spotify:album:2qoUIOVBI5xG8NqBziLCYd",
+      "name": "drumroll please",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1kiZfWU37oS0pCOV7Os1Pj",
+          "name": "gravedgr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c050707115aed120943740e3",
+      "uri": "spotify:album:2dLTiUywDWpHrfrD5aRjuQ",
+      "name": "drumroll please (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1kiZfWU37oS0pCOV7Os1Pj",
+          "name": "gravedgr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b5c9e9a06ecced63a6dfe2b",
+      "uri": "spotify:album:1pOkzp7ZgdxckdOKpAqEMr",
+      "name": "my home",
+      "album_type": "single",
+      "release_date": "2024-07-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372d5799a18058338dc882b71",
+      "uri": "spotify:album:61kxtwoBSwj15YzF0LZr3G",
+      "name": "boom boom boom",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6UOk7DmvqlzWmo6gjhZvn6",
+          "name": "da tweekaz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1572d2acfc9eae11e32f1a6",
+      "uri": "spotify:album:2jZAF8LdNlXAOb1IG1BfeP",
+      "name": "boom boom boom (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6UOk7DmvqlzWmo6gjhZvn6",
+          "name": "da tweekaz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f8ecd75b959c55c799559f6",
+      "uri": "spotify:album:1SKAksw9ZJqIoLAOS5MKQF",
+      "name": "hey ya",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "2tOS3f6iaWspDI0WUowsZI",
+          "name": "tiscore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c66c5d45317cf5790696713d",
+      "uri": "spotify:album:3pPKqAo24C6P9KeXZrXvB2",
+      "name": "sun comes up",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "20gsENnposVs2I4rQ5kvrf",
+          "name": "sam feldt"
+        },
+        {
+          "spotify_id": "4QKGlPUIuL7IzE4vsVwIu6",
+          "name": "ekko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f204874482f7067e7844694",
+      "uri": "spotify:album:392CtK5ImBhTN40VMPry3Y",
+      "name": "like a g6 (with naeleck)",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0QlnfOIWscqfuWTcci7IwM",
+          "name": "poltergst"
+        },
+        {
+          "spotify_id": "2DYDFBqoaBP2i9XrTGpOgF",
+          "name": "naeleck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cae6fa516729c7adacdd2d8e",
+      "uri": "spotify:album:6QtiZH2jSHOla5YIhYWu5y",
+      "name": "like a g6 (with naeleck) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0QlnfOIWscqfuWTcci7IwM",
+          "name": "poltergst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1504b01ce7424957f38dbea",
+      "uri": "spotify:album:2SBIYlYYL5S9VBd2NsbzFm",
+      "name": "timmy trumpet's sinphony no. 2",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370a0dde92a1f8a7d7c68a7e4",
+      "uri": "spotify:album:1xNHwrUKOFIAYX2skNJUYk",
+      "name": "timmy trumpet's sinphony no. 2 (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8d3794464d57d2e78324db4",
+      "uri": "spotify:album:7fAun9nkoWQ3pGC9ltQise",
+      "name": "all the things she said (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "robin schulz"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5SfqIMwBJ7wD419vvb33mO",
+          "name": "koppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b1e9c50f728b9a2d3e85f9f",
+      "uri": "spotify:album:6GxNLOlFGgl6J3cvLGN81l",
+      "name": "all the things she said",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "robin schulz"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5SfqIMwBJ7wD419vvb33mO",
+          "name": "koppy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aca51631cc13d45fa3a1917b",
+      "uri": "spotify:album:4dxaPGViPXY0eAYiraYq57",
+      "name": "classical music",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5a4151fb5fe037cf6fea22d",
+      "uri": "spotify:album:2opphly3r07PFASpEKxXam",
+      "name": "best thing (ookay remix)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1HQGhla3VNj1dBmKTtVT2t",
+          "name": "ookay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c74a7bf321b8a1ea39dc292",
+      "uri": "spotify:album:3w6NV2z1DPwHkK81Jjvr3L",
+      "name": "best thing (ookay remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1HQGhla3VNj1dBmKTtVT2t",
+          "name": "ookay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d99384db2335badf6627c8b3",
+      "uri": "spotify:album:1le9RxUAB0Pwv8e1wJNadG",
+      "name": "best thing (sonny wern remix)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2m8ROV7jEwm66LBxUNhUMt",
+          "name": "sonny wern"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273375ab48b0a04851a1ad49d36",
+      "uri": "spotify:album:5E26uybOJfMngNfG2lw9si",
+      "name": "best thing (sonny wern remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2m8ROV7jEwm66LBxUNhUMt",
+          "name": "sonny wern"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312f428fea7688dc9f01d72d9",
+      "uri": "spotify:album:2o9ywXvHdB5s6WMIZPAcvF",
+      "name": "best thing (thnderz remix)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4rCSOIelSj4xsI1Zo5WM23",
+          "name": "thnderz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382b8b3e957d8c5e1aea67e22",
+      "uri": "spotify:album:4ESvcl8gGrafsdLSmdR5QI",
+      "name": "best thing (thnderz remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4rCSOIelSj4xsI1Zo5WM23",
+          "name": "thnderz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319ec04df2af5a1ec45d98f48",
+      "uri": "spotify:album:71hoJtICb8oJUOclgYjRWh",
+      "name": "just a kid",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3uGJkMEEZ1kGFieLT5KytR",
+          "name": "captain curtis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e2c06fa4702acef1c26d729",
+      "uri": "spotify:album:0CiwTR8y6XPS9ABj5KvIeP",
+      "name": "just a kid (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3uGJkMEEZ1kGFieLT5KytR",
+          "name": "captain curtis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330146964cac97cfab642e2fc",
+      "uri": "spotify:album:4Xm1CbxbmVdw9EkWzq7nRi",
+      "name": "best thing (mollie collins remix)",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5MGgLwsKBivm7H5lJn5xRu",
+          "name": "mollie collins"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335e5991a0b4911ef132850aa",
+      "uri": "spotify:album:0JnxC4UOOkvgebmhUaSAyC",
+      "name": "best thing (mollie collins remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5MGgLwsKBivm7H5lJn5xRu",
+          "name": "mollie collins"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273567c92f98c7d65c012428c49",
+      "uri": "spotify:album:27LVMe5wMsHddairHoCux2",
+      "name": "we can't stop",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0a35bc8a6b7a759fffcfc47",
+      "uri": "spotify:album:2QryHAeKDPpFc5gww7Of3o",
+      "name": "explode",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1w67D3PakcxjYGt6xPnnke",
+          "name": "darius & finlay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326de54fe9e28c3a2b3391c4a",
+      "uri": "spotify:album:2iM4du2HvU2hmHzdn7s0Ys",
+      "name": "best thing",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c12e358e8b48653eb690cec",
+      "uri": "spotify:album:7MzL3rwrvwk8PSMg5W6V8g",
+      "name": "best thing (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f136b8276b66f3f72121de4",
+      "uri": "spotify:album:69rtLq7JppAFO3by5g1mNJ",
+      "name": "blazin (feat. enisa)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0Tob4H0FLtEONHU1MjpUEp",
+          "name": "tinie tempah"
+        },
+        {
+          "spotify_id": "19mMHUyLK5uYyg9D14yJP6",
+          "name": "enisa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c5e4f92103ed6244c5d8cb1",
+      "uri": "spotify:album:61nZLCrS6I62DDimxeiMix",
+      "name": "blazin (feat. enisa) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0Tob4H0FLtEONHU1MjpUEp",
+          "name": "tinie tempah"
+        },
+        {
+          "spotify_id": "19mMHUyLK5uYyg9D14yJP6",
+          "name": "enisa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dabf8ce0ab14c485f85cb21",
+      "uri": "spotify:album:4nRym2kzawfVrO1bHcw5zK",
+      "name": "timmy trumpet's sinphony no. 1",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb99e7ebb062a6f22c210b46",
+      "uri": "spotify:album:71wgYcKU8PHtIJoP7RNlwN",
+      "name": "timmy trumpet's sinphony no. 1 (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9307841e58244f9049477c5",
+      "uri": "spotify:album:40E6dR5x46LZzciWdJvde8",
+      "name": "justin's song (timmy trumpet remix)",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6oW4zCSDSA4RTCwFpatN3k",
+          "name": "riotron"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334607a141f241483c308b109",
+      "uri": "spotify:album:5YWOlO1sHAk84Oh4W9NhzX",
+      "name": "fuego",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c26190d91a21b521e257cf4e",
+      "uri": "spotify:album:4GGOMUOLSbkCGaFluAcsQe",
+      "name": "fuego (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389330625655f7ac131aef16f",
+      "uri": "spotify:album:5N10HsZvBZFjzMMJvNp5Gv",
+      "name": "jumpin (timmy trumpet remix)",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "pitbull"
+        },
+        {
+          "spotify_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "lil jon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374af813981485832ddb1b0ac",
+      "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY",
+      "name": "eternity",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734dc8d6eb289f0f4331416b57",
+      "uri": "spotify:album:4sIj4kb8FYCvImEYrzJc0h",
+      "name": "the race",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ef7bcb24f4d279d5d4e7ce0",
+      "uri": "spotify:album:7HqJplDPreZYAxTV77FBwY",
+      "name": "for those about to rave",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0HlxL5hisLf59ETEPM3cUA",
+          "name": "scooter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273629e0ad3e85b9e18ef5185d8",
+      "uri": "spotify:album:1t4MBrJVFvOEPYt6fXf6r0",
+      "name": "good morning (feat. you)",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "61ipISvUVa5LkJlKZnm3Oo",
+          "name": "alle farben"
+        },
+        {
+          "spotify_id": "266PvBAoJzPdxt3dgkEsBW",
+          "name": "you"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310d8131a2c8de98bea7ee37c",
+      "uri": "spotify:album:0y8l24exvEixoSRfdN5M3B",
+      "name": "good morning (feat. you) [extended]",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "61ipISvUVa5LkJlKZnm3Oo",
+          "name": "alle farben"
+        },
+        {
+          "spotify_id": "266PvBAoJzPdxt3dgkEsBW",
+          "name": "you"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273beda71cde5686c38368ff36f",
+      "uri": "spotify:album:65JHmOAmfng9D1jKIcwza0",
+      "name": "oh fortuna",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "05TBQxRfomIdi2xJWLgQoM",
+          "name": "smvgglers"
+        },
+        {
+          "spotify_id": "2NTtIgPZyELENThAeqfvR6",
+          "name": "henrique camacho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c9e078cb4a7f2f5c9f3e1a2",
+      "uri": "spotify:album:1VfAbxMuBV7L54UYLLsnFm",
+      "name": "dream",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f840f4bd044eb44df4324733",
+      "uri": "spotify:album:6xwskSPUVCEla6oAbJoWiA",
+      "name": "blow ya mind",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4h8hm6TjKsvgmLajBgaI9w",
+          "name": "lee cabrera"
+        },
+        {
+          "spotify_id": "0az6y7AjCCOAZzAF3i1Jaq",
+          "name": "bleech"
+        },
+        {
+          "spotify_id": "36WpsQfa32ou67lhwl8RQ9",
+          "name": "lock 'n load"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350a1faeb4dca2e0357279dfd",
+      "uri": "spotify:album:10FiVORbZ6sRGYLWkP3PQ4",
+      "name": "synergy",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5X4LWwbUFNzPkEas04uU82",
+          "name": "dvbbs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c5ea13951dbaf2608ddbc27",
+      "uri": "spotify:album:6JiAUZP13hJvBaVKaiqr4n",
+      "name": "synergy (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5X4LWwbUFNzPkEas04uU82",
+          "name": "dvbbs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378410b3af97f80d5967093a2",
+      "uri": "spotify:album:77CSf0lFDefenZLkriL17m",
+      "name": "dom dom yes yes",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2DYDFBqoaBP2i9XrTGpOgF",
+          "name": "naeleck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933f207b20e0dba80585705f",
+      "uri": "spotify:album:19EBg9uVXWeTh3T0MzAj7X",
+      "name": "revolution",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273569392fce85138560981cae6",
+      "uri": "spotify:album:4I2Z3W2Pfhk267OoVFs9EE",
+      "name": "tonight",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0QlnfOIWscqfuWTcci7IwM",
+          "name": "poltergst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d280ecf018acc847d0f10cfe",
+      "uri": "spotify:album:4xdmvhWM122sz1hgfzumbZ",
+      "name": "tonight (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0QlnfOIWscqfuWTcci7IwM",
+          "name": "poltergst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8259f5165dab698d34a821c",
+      "uri": "spotify:album:5gKN61lYICITMIKdstelN4",
+      "name": "we come 1 (darren styles remix)",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3Bd1phrOZJuCev9U0bzdtA",
+          "name": "ben nicky"
+        },
+        {
+          "spotify_id": "2gZzTzeACSwFqkMroVxmnm",
+          "name": "darren styles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca87998ee4ba8e91b71c000a",
+      "uri": "spotify:album:3gAd6B5avXHX8IrOvXEKDO",
+      "name": "mas que nada (with marnik)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3t66HrWji19Ey3uJE2DSyC",
+          "name": "moonshine"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273249b19f6d10f6fb2e2e5b2c2",
+      "uri": "spotify:album:6Q0rMs4HnMc6Ly2uQ28EyK",
+      "name": "the money",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        },
+        {
+          "spotify_id": "3yycPRFMwYENrpe3nw7L4k",
+          "name": "stvw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733978d1022fa90f7f42637fef",
+      "uri": "spotify:album:4ASCYUg9JGj29BkFdLFdji",
+      "name": "the money (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        },
+        {
+          "spotify_id": "3yycPRFMwYENrpe3nw7L4k",
+          "name": "stvw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dc9d0abc635cc5c0878be76",
+      "uri": "spotify:album:7A6UFmhuy01DsjNIMckhPl",
+      "name": "la danse",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273585a7b7c005d650434f9ce4a",
+      "uri": "spotify:album:53ooheZI3SGp9shCdCWE1j",
+      "name": "la danse (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331ccee011a922e9552f85b6b",
+      "uri": "spotify:album:0i36q6Jj9rtyiaonm15vZe",
+      "name": "poison (with timmy trumpet x w&w)",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378af5dab45e2aebd05647de0",
+      "uri": "spotify:album:3P5F6AdFTFBhBbPKwFUhbT",
+      "name": "sweet caroline",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5QySqc6yAFDx9m7fedFZmC",
+          "name": "brennan heart"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f0667525140eba0b6f9068c",
+      "uri": "spotify:album:6nHzBvtQQsdGWXrLvZyMU9",
+      "name": "blow it up",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "inna"
+        },
+        {
+          "spotify_id": "09JJrjk6Mr5ZYwk1mk7aEb",
+          "name": "love harder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7e36c4f55d3923f5b144d69",
+      "uri": "spotify:album:4RnYmvLt3wAc5ifPhiivjV",
+      "name": "ole ole",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1CzWsbK2Rdn0RlWYZGgnAm",
+          "name": "arrow"
+        },
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731788010f69715bc98bd71a7a",
+      "uri": "spotify:album:0oglJBSSaMlKM95QLXQGx5",
+      "name": "party ppl",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2zBsLiCiCXB9EmLfHSplIs",
+          "name": "89ers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8283965823a9e63d13cacbe",
+      "uri": "spotify:album:4kqJ8jySCq7G59Au1kFQxy",
+      "name": "party ppl (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2zBsLiCiCXB9EmLfHSplIs",
+          "name": "89ers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8b797fb83294a32f73aa228",
+      "uri": "spotify:album:7AulSlkspgPvEqJmjsUqXD",
+      "name": "three little birds",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3iMzbvXlgNUpoFccD60bvr",
+          "name": "prezioso"
+        },
+        {
+          "spotify_id": "7rYojRyXBLPrX6UWfnAkaC",
+          "name": "71 digits"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273926ce5fca6412901653b8f4d",
+      "uri": "spotify:album:67LYYmD6zI6dYgSwsUhNDt",
+      "name": "three little birds (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3iMzbvXlgNUpoFccD60bvr",
+          "name": "prezioso"
+        },
+        {
+          "spotify_id": "7rYojRyXBLPrX6UWfnAkaC",
+          "name": "71 digits"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273401f5a5f93420b359f589b0f",
+      "uri": "spotify:album:0r3zdpjexv97wGqnVyLASV",
+      "name": "soft ass shit",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c35592a93706e4c83b02a18f",
+      "uri": "spotify:album:3VJgyYRAdyD9X4I0RGPo3F",
+      "name": "the whistle",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "76JqkTKxRVKBFabbPiB8g6",
+          "name": "dj aligator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345df08ae71933f936eb67df1",
+      "uri": "spotify:album:6RybNqYFHu5cxoOsGlo4yj",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed219e445823a35828a997f5",
+      "uri": "spotify:album:1KYfqy5DwIHrZ58kIFPWJv",
+      "name": "burn (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332b62d22787c9129699b6beb",
+      "uri": "spotify:album:02b5lsNmnx7Di1UmAH4yh2",
+      "name": "we come 1",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3Bd1phrOZJuCev9U0bzdtA",
+          "name": "ben nicky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c92aae98c68a8f5147607387",
+      "uri": "spotify:album:3awL1PVJHVHzC3IK2pMQzM",
+      "name": "life like this",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df8b9a799b39d47b4b69f199",
+      "uri": "spotify:album:2zxUdPkSCXGmLIzsSGrx2h",
+      "name": "life like this (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eed99eb5cb4a18be2b3769f1",
+      "uri": "spotify:album:24n3EoncsbDrqv4GI5UdDH",
+      "name": "feel your love (tomorrowland mix)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6XwwFnewNgWp81MYMK8zLq",
+          "name": "edward maya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273767b007576832d0c52fb2355",
+      "uri": "spotify:album:7p7R08krAPtYCVlafaAur1",
+      "name": "adiemus",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5NgQo5enpKJsf6ohQedD6b",
+          "name": "lotus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314dc72cf357724479bd9835b",
+      "uri": "spotify:album:0CmhSunf9lT96UU5Y8hu4Q",
+      "name": "adiemus (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5NgQo5enpKJsf6ohQedD6b",
+          "name": "lotus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f0f91d631849c9c7bf01efc",
+      "uri": "spotify:album:74HajfQB9Z9WuMzadVqDOb",
+      "name": "turn the lights down low (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302d6e64c6941834ebfad4142",
+      "uri": "spotify:album:5sopnWhaExvSVkaJR5PWuU",
+      "name": "turn the lights down low (with r3hab & nineone#) [chinese version]",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0id1kre1ASgHByPQgivxUk",
+          "name": "nineone赵馨玥"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5f97f345f6edead61dce458",
+      "uri": "spotify:album:1usPxiJgVaGlHimpLVMgox",
+      "name": "turn the lights down low (with r3hab)",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273566592293f67e21d92c57d9f",
+      "uri": "spotify:album:4xiUAuEg25QIRiPrS2A0Bi",
+      "name": "just in case",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273109e899c5f48f35bada5a03c",
+      "uri": "spotify:album:60GMDqZuk6C0TcGbdk472j",
+      "name": "just in case (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0b631d83d222fcc4c6b1265",
+      "uri": "spotify:album:62oEG3Jyw8Pgp9HfUnzY0G",
+      "name": "ininna tora",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cbc79aa2055d701b2a63306",
+      "uri": "spotify:album:6tBOKZaXQDcpsktPMAwtFp",
+      "name": "ininna tora (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738abca0cd53e73267c48e8f30",
+      "uri": "spotify:album:0BWrMuYT4cUK7plryyGn33",
+      "name": "lights go down",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9aeaaf4ccb003502dc6d2d5",
+      "uri": "spotify:album:3DcVDBNSnAzVl69g5PvDtz",
+      "name": "lights go down (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf21b44adcfdd9fe09fd76f2",
+      "uri": "spotify:album:2tvcV4vvhuH05kIX8L1AgG",
+      "name": "vivaldi",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2cFzYhiHqYS7o8ZIM9WD22",
+          "name": "mariana bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737573ff0cbb4755bb225dd740",
+      "uri": "spotify:album:6rTE2T4HR9Gu5z021VUFqo",
+      "name": "call me (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273395a33e613d8e42d8b541e86",
+      "uri": "spotify:album:3FPgLHoo4FzTPtY8j2HNeQ",
+      "name": "call me (with r3hab, timmy trumpet & charla k)",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c104d5ce5c1c1e0c53cd23b",
+      "uri": "spotify:album:18gPaM10W8ih7qQp4mhdxV",
+      "name": "dance tonight",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        },
+        {
+          "spotify_id": "2gZzTzeACSwFqkMroVxmnm",
+          "name": "darren styles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300368a960ccc34399d764df8",
+      "uri": "spotify:album:7uuHadEOX65HwVIpnPdaUF",
+      "name": "how to save a life (feat. loafers & the high)",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4O8EiXZbelscSDs7TgOXHc",
+          "name": "loafers"
+        },
+        {
+          "spotify_id": "5mKNjpx3SmjNqtxQTmuo9Z",
+          "name": "the high"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737818a48c1603b1e50c516010",
+      "uri": "spotify:album:4ZW6WBOX3bmgCZUwXAtTLB",
+      "name": "friday",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0nJcDqY6ox4kHB92AuRA8j",
+          "name": "blinkie"
+        },
+        {
+          "spotify_id": "1Dn88PoQjnQgLTOaokePFz",
+          "name": "bright sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9e2b2ab4dc9edc549ae51d3",
+      "uri": "spotify:album:4ftWvf6rrlY2Nq6kymXsgC",
+      "name": "never let me go",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0N0d3kjwdY2h7UVuTdJGfp",
+          "name": "cascada"
+        },
+        {
+          "spotify_id": "4FDj6mh458K7m9Txwyj2rt",
+          "name": "harris & ford"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a78945941cef8c9221c7fec5",
+      "uri": "spotify:album:5FXznfnPJjUiUQa1YywbjU",
+      "name": "never let me go (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0N0d3kjwdY2h7UVuTdJGfp",
+          "name": "cascada"
+        },
+        {
+          "spotify_id": "4FDj6mh458K7m9Txwyj2rt",
+          "name": "harris & ford"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc87653a4972303b42a5ef02",
+      "uri": "spotify:album:5U8vM3Yx7szrvefbiTHxX5",
+      "name": "mosh pit",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2Zvo5BEkHyaHD1zk180kMz",
+          "name": "dimatik"
+        },
+        {
+          "spotify_id": "4WGGHN3xUu9mhDObu3Oqhp",
+          "name": "overdrive"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ad02ab70e3ebaa5baa8c712",
+      "uri": "spotify:album:3Tb8sBjaY5Ah5Efpc8Z7xo",
+      "name": "cardio",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337eeb6ba974621cb76098012",
+      "uri": "spotify:album:6g8mEpBmK9fhiPauUjoWl8",
+      "name": "cardio (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-09-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e0334c0f7d9c24423785b80",
+      "uri": "spotify:album:2RuSNCJY0wH6eXegyAz0wa",
+      "name": "anita",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1896bf3a524341e53fdc67",
+      "uri": "spotify:album:57YOijzcUtmTsqIDoKuT2J",
+      "name": "changes (timmy trumpet remix)",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6HUm6AHJE0oisACMN6NNJ5",
+          "name": "faul & wad"
+        },
+        {
+          "spotify_id": "6n28c9qs9hNGriNa72b26u",
+          "name": "pnau"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7fbad3c805931c14a5a58a2",
+      "uri": "spotify:album:2KyQLmtmDxAgsrM6XKtuIg",
+      "name": "far from home",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "7pHwBqsYULdAdHgSwf1q9f",
+          "name": "omiki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273682b03c9f492a7fe22d53022",
+      "uri": "spotify:album:5fPzGRxaenu27xF2H0rs8V",
+      "name": "stay mine (gabry ponte extended remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739832a6d368af26d8e2f4be05",
+      "uri": "spotify:album:78BMU9O8nupOdUxDa3CWTk",
+      "name": "stay mine (gabry ponte remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7c3d17c63e18987ed531a90",
+      "uri": "spotify:album:4JxJOkbdAx4uhofQrYIIOZ",
+      "name": "cold (parkah & durzo x met remix)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5kkk1OecFn6B4S7hzjLJMM",
+          "name": "durzo"
+        },
+        {
+          "spotify_id": "6PfDuFWr3116oTXUfd9qkJ",
+          "name": "met"
+        },
+        {
+          "spotify_id": "2J5EuQi5oD4o95eKdTTI1H",
+          "name": "parkah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae5d1e6b8a8d7a2c70dedd59",
+      "uri": "spotify:album:6NarQFpErQAqgw7Lzv9SXp",
+      "name": "feel your love",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6XwwFnewNgWp81MYMK8zLq",
+          "name": "edward maya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344d305f100fae25ef85c9f18",
+      "uri": "spotify:album:1Atp5xEdWbrG0OneBpwsw4",
+      "name": "don't you want me",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6iRRErKYy1iojOaJoq6Ltk",
+          "name": "felix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273565fc16b8de9af15f2f05976",
+      "uri": "spotify:album:5jkQzh571W8YXJ7phsjg8X",
+      "name": "summer's not ready (feat. inna and timmy trumpet)",
+      "album_type": "single",
+      "release_date": "2021-06-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0jnsk9HBra6NMjO2oANoPY",
+          "name": "flo rida"
+        },
+        {
+          "spotify_id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "inna"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336c61b0d9fcdd390107a8ae4",
+      "uri": "spotify:album:2xeEcUG4blN1kzZYfid0Wd",
+      "name": "another level (ft. lovespeake)",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0svmVqwlzmbBfwofH6uGbk",
+          "name": "lovespeake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737463bfcc9553be0d5235461e",
+      "uri": "spotify:album:0f7d3XicEPVXRRiwIUIkI4",
+      "name": "camelot (feat. smash mouth)",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2iEvnFsWxR0Syqu2JNopAd",
+          "name": "smash mouth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fff2df86ada0e0bbb20ee3e",
+      "uri": "spotify:album:3z5e439exKdHTK7WdYYP68",
+      "name": "camelot (feat. smash mouth) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cde5ebadab413d0647ea58b9",
+      "uri": "spotify:album:1dKe10FI39wbKiaLNxuJce",
+      "name": "hey motherfucker",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "21AUdblPrTRzkvJn8FGrlk",
+          "name": "nitti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ba36962a0a6e92ff8d6399e",
+      "uri": "spotify:album:15v2LmWavzASn38XSzS0dO",
+      "name": "stay mine",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a86a57740ecb91ce6aef1c8",
+      "uri": "spotify:album:3T7XrtqmizJi1jynTqNo35",
+      "name": "stay mine (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393aeb8c3f841330ff22a3246",
+      "uri": "spotify:album:0mKV2R5PZgSAxgbDmn1C7s",
+      "name": "send it! (timmy trumpet remix)",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1VXE1xqGNlT9HG6TcjpQ9I",
+          "name": "hooligan hefs"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273226b7cfbcc5ae2edf0dcb9f7",
+      "uri": "spotify:album:3Bexu98Go65u6vFPRP7PYt",
+      "name": "send it! (timmy trumpet remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1VXE1xqGNlT9HG6TcjpQ9I",
+          "name": "hooligan hefs"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec24cb7199544fb99a6baeed",
+      "uri": "spotify:album:5Met6atEZY2C3S3DBVVGbC",
+      "name": "distant memory",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad6197da6d9794d9860c9e8c",
+      "uri": "spotify:album:0xbEBePxxmPlg3Iid3Gn0P",
+      "name": "mambo (feat. sean paul, el alfa, sfera ebbasta & play-n-skillz) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "4RSyJzf7ef6Iu2rnLdabNq",
+          "name": "willy william"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e792fc69d92c8b9b137a194c",
+      "uri": "spotify:album:4e4pBkcRCWIglczNdKYr8k",
+      "name": "underwater love (la vision remix)",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "02qlwM8fpqep7vX8KKEFmK",
+          "name": "la vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f99df94fc620af7072f3726c",
+      "uri": "spotify:album:3Wx7YFIseIAZPGXgFIX6l8",
+      "name": "get in trouble (so what) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273846e71fd3645ed9a1a8e7e8e",
+      "uri": "spotify:album:1hg6v0yILMEOH3SgbY29yY",
+      "name": "mad world",
+      "album_type": "album",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379f86f908d70926a0537d806",
+      "uri": "spotify:album:35LVfE1wsiXr4tdKnYliJ8",
+      "name": "mad world",
+      "album_type": "album",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324d5858e2552b726bfff2df7",
+      "uri": "spotify:album:0shMGgVCZUBC3IGDhjjCU8",
+      "name": "paul is dead",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0HlxL5hisLf59ETEPM3cUA",
+          "name": "scooter"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab3b588794798125fb3262b",
+      "uri": "spotify:album:3tzSuNX4QxHro8RHtiSV0x",
+      "name": "paul is dead (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0HlxL5hisLf59ETEPM3cUA",
+          "name": "scooter"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d740e84f6ce1d0335840e553",
+      "uri": "spotify:album:12qv1aPM9tCeCXk56qIqYv",
+      "name": "mad world",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309513f6ced115038c85d5f46",
+      "uri": "spotify:album:21YQzB6c6BhcmNF3jAoBhK",
+      "name": "child of the devil",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7jp5R1aY7kmwBYX3jIu9yk",
+          "name": "jebroer"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cbfd75619235472f8ccb90f",
+      "uri": "spotify:album:2LToejslNWTB34pLVMQm3z",
+      "name": "child of the devil (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7jp5R1aY7kmwBYX3jIu9yk",
+          "name": "jebroer"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcefea8d98e9b3732983efcd",
+      "uri": "spotify:album:3HIE8gQu2wAsFpJJKS62DV",
+      "name": "thunder",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323151c25d79e11ab2a98b9f7",
+      "uri": "spotify:album:4kGVaI79w040VjmEWupFkb",
+      "name": "tarantino (feat. starx)",
+      "album_type": "single",
+      "release_date": "2020-09-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4UOilbWidQsH04ErH1yrmp",
+          "name": "starx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba00a05d352b98720a0951cc",
+      "uri": "spotify:album:3tDF74RCFMmoNcvFptOXxW",
+      "name": "project x",
+      "album_type": "single",
+      "release_date": "2020-09-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e98547a71268f53fe094408e",
+      "uri": "spotify:album:6f2fx828aBgnlOOSgUUHM0",
+      "name": "project x (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-09-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350ca2a8eb652ffa506bb7833",
+      "uri": "spotify:album:1MyV0ls3oEHCKxg4DojUim",
+      "name": "up & down",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0cwmNvclzPd8mQnoHuIksj",
+          "name": "vengaboys"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d86532bbc52ce7fc285c45a1",
+      "uri": "spotify:album:3sqKMB0lqXus3FTjV3fdF7",
+      "name": "up & down (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0cwmNvclzPd8mQnoHuIksj",
+          "name": "vengaboys"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738935daa84980193d54a06e9a",
+      "uri": "spotify:album:06rKDURmOYwv2pBEpNTOsE",
+      "name": "mars",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbde12b74a02fcd1ffc197d8",
+      "uri": "spotify:album:0RWbpj9axSM9HxGoY2EPdF",
+      "name": "mars (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfe09c566c4ad19c55a50df0",
+      "uri": "spotify:album:5RA8tDxiTrFgH07gs12OHO",
+      "name": "diamonds (remixes)",
+      "album_type": "single",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3e14892f72ca825025d7188",
+      "uri": "spotify:album:4ustFzUMzry1ELswWT456N",
+      "name": "the king",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0UK6JkgUMa28b4t8eCtg6P",
+          "name": "vitas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf408c883bb25f3368efa32",
+      "uri": "spotify:album:27WvVZ4FA1H04DGwLK5LVT",
+      "name": "the king (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0UK6JkgUMa28b4t8eCtg6P",
+          "name": "vitas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed26f08714b62e0577413c95",
+      "uri": "spotify:album:4yyZ2YClfFV6ZyttcxYXwa",
+      "name": "the prayer (feat. zafrir)",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb3990e0f630062622c5bc2c",
+      "uri": "spotify:album:4z0DP79dcDskSSILw1YKEl",
+      "name": "kalinka (dimitri vegas & like mike edit)",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "74ycentHh1YZrW5x4PLnox",
+          "name": "wolfpack"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b84d96c5aed7a2103a3a59a1",
+      "uri": "spotify:album:76DXpcODCgsIaKRLtAK4dq",
+      "name": "armageddon",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4GWqzTTt2uA9Ms6HfUhWUn",
+          "name": "florian picasso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ce2618f44473cdf0b787db9",
+      "uri": "spotify:album:560MwAFy1orHz3jcgmbGGr",
+      "name": "dumb (jerome remix)",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4xcDVatLFh6qlcm41er3LV",
+          "name": "jerome"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355834f3a445f7b904bb789a3",
+      "uri": "spotify:album:0pvZKLr2CRVwqURWUlWqBZ",
+      "name": "911",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae7cd1a0949b4a3435353134",
+      "uri": "spotify:album:0iKUhmbVKo1VUaDXazBcWK",
+      "name": "diamonds",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273934c3fe92958229511fa217e",
+      "uri": "spotify:album:5LAZNXFljUyR8J2MQqu6yN",
+      "name": "diamonds (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379d3d808e3d4cb971eaab37d",
+      "uri": "spotify:album:0vOjLBKxMo2ZecGHzjQAWm",
+      "name": "everybody in the party (feat. ghost)",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "18006kpQI473m1ICcpimQ9",
+          "name": "22bullets"
+        },
+        {
+          "spotify_id": "53b5NwFZLCZySuNmbRvR0l",
+          "name": "gishin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3d225808dfa5174decbaefa",
+      "uri": "spotify:album:4v7JL58Bqi3UM4rTtqwpdZ",
+      "name": "fuck yeah (feat. toneshifterz)",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        },
+        {
+          "spotify_id": "0I5is4tdxHhT3Ft2EzPjlB",
+          "name": "code black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273886d2b71939fdc5c82dc7df5",
+      "uri": "spotify:album:47GioC4VT1UQwHx7bNZF9F",
+      "name": "fuck yeah (feat. toneshifterz) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        },
+        {
+          "spotify_id": "0I5is4tdxHhT3Ft2EzPjlB",
+          "name": "code black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8e21d9d8ab8f3e6bf346afc",
+      "uri": "spotify:album:5NqGASv5yESq6lk0qkE2iI",
+      "name": "falling",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf0a7faf23929733f4939914",
+      "uri": "spotify:album:0kr4qEdNyn6G7NaSVdWFuE",
+      "name": "dumb",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2912d6e8e812cf53bf5c401",
+      "uri": "spotify:album:2VyQt3zhV6a8cEbgbi9Vfi",
+      "name": "the anthem (der alte)",
+      "album_type": "single",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273836e40ed3e5a6e8f5a94810a",
+      "uri": "spotify:album:0xm0CMCsVCnAi5RwFSH1Hm",
+      "name": "carnival (dimitri vegas & like mike edit)",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "74ycentHh1YZrW5x4PLnox",
+          "name": "wolfpack"
+        },
+        {
+          "spotify_id": "04XgEt5RkgdF4EM9lZyKCE",
+          "name": "x-tof"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f7c50fa5cc420ee7355e376",
+      "uri": "spotify:album:0Tvfsa4WH95rNK3zcxUMdA",
+      "name": "the people (dimatik remix)",
+      "album_type": "single",
+      "release_date": "2019-11-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2Zvo5BEkHyaHD1zk180kMz",
+          "name": "dimatik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d09b3a976d0cfe1c9f7511c0",
+      "uri": "spotify:album:0VLEsm3b938rmAaY5ixCxD",
+      "name": "tricky tricky",
+      "album_type": "single",
+      "release_date": "2019-11-11",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        },
+        {
+          "spotify_id": "5aS5b54NtRuGHbNol5aSCX",
+          "name": "dj sequenza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372d3b1b33462a3bec17933e6",
+      "uri": "spotify:album:45YyQQtJvmARUDFuN1ZS47",
+      "name": "therapy",
+      "album_type": "single",
+      "release_date": "2019-10-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2acf771a901581dd944408e",
+      "uri": "spotify:album:2zVxIQgaHF9Kn3D0FCdRNN",
+      "name": "world at our feet (vize remix)",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "09agIJMxCD2k87ys9Al0f0",
+          "name": "vize"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732643540827a9cf81fbcb1c31",
+      "uri": "spotify:album:1rozBMRbFhgixbo8jhslP1",
+      "name": "nah nah",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7CCjtD0hCK005Bvg2WG1a7",
+          "name": "carnage"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346ed31cb3d8389f92f9ddab2",
+      "uri": "spotify:album:093ZtFewc3h0tKh1N8hZ8j",
+      "name": "hava (feat. dr phunk)",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eafc819f7e148d760056902",
+      "uri": "spotify:album:12bs8u5Eh7PzMoq499zSkH",
+      "name": "rubber bands",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4ehtJnVumNf6xzSCDk8aLB",
+          "name": "martin jensen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b420de4e4d139940ab8f9da6",
+      "uri": "spotify:album:06C82FHrC22aBYBtpvYg9x",
+      "name": "world at our feet (remixes pt. 2)",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735010f5e665ee1fe45eff0f69",
+      "uri": "spotify:album:24t5ry4a7MS8FjexmLjVzF",
+      "name": "world at our feet (deorro remix)",
+      "album_type": "single",
+      "release_date": "2019-07-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdca1d004914fac5aba51bd2",
+      "uri": "spotify:album:37Q4t2DiFYX5Zz1pkj7cEH",
+      "name": "raveille",
+      "album_type": "single",
+      "release_date": "2019-07-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bf6344a2e839ac8a40c6016",
+      "uri": "spotify:album:39tnRnxuGzV4d9r8HzDy6K",
+      "name": "the people",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e3366f257a8cecfded48e73",
+      "uri": "spotify:album:2EhdK1vgHWtLvH3AJwlMmr",
+      "name": "the people (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f007b0a8a657a017d3a30f8d",
+      "uri": "spotify:album:4zLWUbyVcTJtaWtSNoxQO1",
+      "name": "world at our feet (remixes)",
+      "album_type": "single",
+      "release_date": "2019-06-26",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc51e3bfb54d52a340dcdc36",
+      "uri": "spotify:album:5l7Mg7EXYopKx6BoWEyjsB",
+      "name": "world at our feet",
+      "album_type": "single",
+      "release_date": "2019-05-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739592ddec9014f2ff15e100bb",
+      "uri": "spotify:album:3MKw5dFZ1fOoBI01NLgjAz",
+      "name": "drop that low (when i dip) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "tujamo"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313d0973f6cb9829caec129ec",
+      "uri": "spotify:album:7tFBgVPkLGLBf2WvGUjfYn",
+      "name": "oracle (tnt remix)",
+      "album_type": "single",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1CqOLQmjzVWXQTiIN5Wucs",
+          "name": "tnt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736376083c5220575700cb7c7e",
+      "uri": "spotify:album:0DOcc9P35ZMVilpSzgGygu",
+      "name": "high",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e9b174ce85e4f10f431419e",
+      "uri": "spotify:album:2ds371eeP7JXPUhBCk26eH",
+      "name": "metaphor",
+      "album_type": "single",
+      "release_date": "2019-02-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc52a4efba31902697158703",
+      "uri": "spotify:album:3WXpgF7eMrb9zk7w2dTAHg",
+      "name": "wassup (listen to the horns)",
+      "album_type": "single",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6sQYSV8XvcA9CQZb6OBHHC",
+          "name": "kastra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305dc06453b1eb114e3784198",
+      "uri": "spotify:album:27P026RLXVHUUrZHiFpGBD",
+      "name": "the prophecy (kaaze remode)",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273879f561506f1363ac37178be",
+      "uri": "spotify:album:0Y14UgLNLTciavxITaoKtO",
+      "name": "mufasa",
+      "album_type": "single",
+      "release_date": "2018-11-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0WirkzcH4M2ciZUIrsbjzE",
+          "name": "the golden army"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf69211d0d4e356a90f377ba",
+      "uri": "spotify:album:20iJTThAVEJYkQN76yB8lc",
+      "name": "trumpets (remixes, pt. 2)",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5WuoHUDzojO8oto22ahnwN",
+          "name": "lady bee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317907e5a7f98c73ffb6731bc",
+      "uri": "spotify:album:1mKh4TiG0FhP2uepiPFGEe",
+      "name": "rockstar (feat. dv8)",
+      "album_type": "single",
+      "release_date": "2018-10-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "4f0OXMMSxr0r8Ztx6CdpAl",
+          "name": "sub zero project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358ab80a9493ee78f13e3edb7",
+      "uri": "spotify:album:42e3gUr21A07oxFkYfgkG2",
+      "name": "trumpets (remixes, pt. 1)",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5WuoHUDzojO8oto22ahnwN",
+          "name": "lady bee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273400606bf61860dc958096eac",
+      "uri": "spotify:album:3ZCt6pnEE7ZMNquAZN7Put",
+      "name": "the prophecy",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337a8c7be1129d2cbfc314bbb",
+      "uri": "spotify:album:2STmsvIYexF5W7selAJ489",
+      "name": "attention",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2vUCVkeZjzDcaoX4gagHdV",
+          "name": "julian jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3b3a6ec3e1218e241b6ca49",
+      "uri": "spotify:album:0HTxtI2fTp1eVjQ6BA3swg",
+      "name": "trumpets",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5WuoHUDzojO8oto22ahnwN",
+          "name": "lady bee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273113a99b0f0995919f5d394fb",
+      "uri": "spotify:album:7aaj7o2skEv237VbizWnhX",
+      "name": "scarborough fair",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1CqOLQmjzVWXQTiIN5Wucs",
+          "name": "tnt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273789eb298764de061966b9b29",
+      "uri": "spotify:album:05EU3wGHPpNsDiJH9jh6ba",
+      "name": "booty shake",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6Tu9KiWKN5ENQ2VjGCVN18",
+          "name": "max vangeli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ff6aa08acd0a235344fe239",
+      "uri": "spotify:album:4MncqghqizuZMGN71WuAyO",
+      "name": "toro",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3CjPghA9sowRwFGSrU038J",
+          "name": "junkie kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398c2002718fc46fd63918c25",
+      "uri": "spotify:album:63Y13v9ryHbZPwtKgErEXT",
+      "name": "flamenco (feat. rage)",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e91aea3325e949560dddddb2",
+      "uri": "spotify:album:2m6Uyn8H0MYTag8srMKDht",
+      "name": "flamenco (feat. rage) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1flYnVP7znbiEcL0ELwwTt",
+          "name": "jetfire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a80c85fce55acd0cf89310a",
+      "uri": "spotify:album:4X9wOFpLteiHf4M1Fk8szY",
+      "name": "100 (feat. symphonic)",
+      "album_type": "single",
+      "release_date": "2018-03-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfe13357c764c38d88a7971f",
+      "uri": "spotify:album:0WsLFOenruTGFVk0btIFV9",
+      "name": "100 (feat. symphonic) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-03-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db2e3252d4a6f8f4bf590362",
+      "uri": "spotify:album:2oQSlpJEhVo3U6aKmdRMH6",
+      "name": "déjà-vu (remixes)",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1GbrJTB56Xs4XQGlmVbaCf",
+          "name": "savage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321853210982e45c897bd3685",
+      "uri": "spotify:album:5isl0govIbbsuXs8kEyRiy",
+      "name": "déjà-vu (filatov & karas remix)",
+      "album_type": "single",
+      "release_date": "2018-02-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1GbrJTB56Xs4XQGlmVbaCf",
+          "name": "savage"
+        },
+        {
+          "spotify_id": "5NW2uPFatEKjZQ5gpWD8HO",
+          "name": "filatov & karas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732125850548393b7af2b4825e",
+      "uri": "spotify:album:0m9LNZzZ45c0mw8nf3zc6T",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2018-01-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375f78615f6263f3b7f1a23c7",
+      "uri": "spotify:album:4ghuy8REsAkfRdj0rRpzGS",
+      "name": "party till we die (feat. andrew w.k.) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e4b549404002e1351ad06ba",
+      "uri": "spotify:album:1h3FmisT9lzzWQIjigOYxv",
+      "name": "déjà-vu",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "1GbrJTB56Xs4XQGlmVbaCf",
+          "name": "savage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e84fbb29ea637c12cca5cb4",
+      "uri": "spotify:album:1lINYBzMLR4DYFverdCmPK",
+      "name": "narco",
+      "album_type": "single",
+      "release_date": "2017-11-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e46c911c5015fd179be1f4e7",
+      "uri": "spotify:album:2qcWpdZ2yIHXA1J7AJnm3R",
+      "name": "punjabi",
+      "album_type": "single",
+      "release_date": "2017-09-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2Zvo5BEkHyaHD1zk180kMz",
+          "name": "dimatik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732117ed0910c56dc66865a9f6",
+      "uri": "spotify:album:3cBJfNnMzjhouE34TeG4NV",
+      "name": "al pacino",
+      "album_type": "single",
+      "release_date": "2017-06-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5mUIGLs77O6M6cYFU5IMYa",
+          "name": "krunk!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a417a6792e2bd063d369a5e",
+      "uri": "spotify:album:6SE3yGkzgK7SOc2DM1bItA",
+      "name": "take your call",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273740c65106ae1ffda04ce09e1",
+      "uri": "spotify:album:5PsrE0TEDkfChe8zl7q9gA",
+      "name": "satellites",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6d7AYr4nvqHPhfPaDLLeRU",
+          "name": "qulinez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273893d5a858eee456f9e4ffc7b",
+      "uri": "spotify:album:59F94pGUdvph0Lv1bAn87s",
+      "name": "satellites",
+      "album_type": "single",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "6d7AYr4nvqHPhfPaDLLeRU",
+          "name": "qulinez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f138fd3585fe2a2a26f2d147",
+      "uri": "spotify:album:4rTJMHQ3m6dfWi0NNGlxDZ",
+      "name": "oracle",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f0e0f532f1f682928797a9b",
+      "uri": "spotify:album:1qE2TBCw74GZJoyQWHdhau",
+      "name": "party till we die (feat. andrew w.k.)",
+      "album_type": "single",
+      "release_date": "2016-09-26",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735146bc0ed3b1cca8ae90dfe0",
+      "uri": "spotify:album:1fACh2D9xxlOaWK9ZKJwgp",
+      "name": "collab bro",
+      "album_type": "single",
+      "release_date": "2016-09-02",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3q5DAsSH8efMqNxjxbdpGx",
+          "name": "angemi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae9dcedf3b7ff480ca5472be",
+      "uri": "spotify:album:094d79gvyxqFF0aEAuxXK4",
+      "name": "psy or die",
+      "album_type": "single",
+      "release_date": "2016-07-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ZIv2mby0Ml5YqY45pzcR6",
+          "name": "carnage"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c34e93693a20b2ba000d1476",
+      "uri": "spotify:album:7HrQistZBdY1TnZZJ5b7pV",
+      "name": "mantra",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f077c40fa443e271f64cd903",
+      "uri": "spotify:album:0d5gwNRRJJ2sXXyr82IiMp",
+      "name": "mantra",
+      "album_type": "single",
+      "release_date": "2015-12-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736027001571b0a5c91af81b5a",
+      "uri": "spotify:album:7Ehrvk6iS7JcouxIIwxhrK",
+      "name": "hipsta",
+      "album_type": "single",
+      "release_date": "2015-09-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "36eGsOtVbLp1qUeQKOI1hO",
+          "name": "chardy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731345c414ad0d5a863243b911",
+      "uri": "spotify:album:0POQ5QicGnBdG2GqsIddfm",
+      "name": "hipsta",
+      "album_type": "single",
+      "release_date": "2015-02-20",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "36eGsOtVbLp1qUeQKOI1hO",
+          "name": "chardy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c49a04d79368d76729eb26f5",
+      "uri": "spotify:album:0S1i2bD3tUDcB2RrUSIiYM",
+      "name": "nightmare",
+      "album_type": "single",
+      "release_date": "2014-10-17",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731901580ca89c0ed7b661f940",
+      "uri": "spotify:album:4rxHLUsuDumNFCqEX2VUdI",
+      "name": "the buzz",
+      "album_type": "single",
+      "release_date": "2014-05-16",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4RQQEu24E1oQAQXvkxsLxE",
+          "name": "new world sound"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcde0b77177fecc14995c62d",
+      "uri": "spotify:album:0uNwjGo1hQHhDQDizseeom",
+      "name": "freaks",
+      "album_type": "single",
+      "release_date": "2014-04-11",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd8c3b875990e889cf6753c9",
+      "uri": "spotify:album:5Mz1jVj3iNG0BveZ1R9jnw",
+      "name": "bleed",
+      "album_type": "single",
+      "release_date": "2013-11-15",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3Y7sK4nACC8R7WwAUUumCL",
+          "name": "scndl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348f794b60cd3065c3984120f",
+      "uri": "spotify:album:0V7WqUcaTvkpjZmhgYDOGp",
+      "name": "melbournia",
+      "album_type": "single",
+      "release_date": "2013-06-28",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "54ClucHaj0whgtp28G8ktb",
+          "name": "timmy trumpet & chardy"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "3Rr1Vx3lro8cxDD6OFnYkJ",
+          "name": "chardy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734715919ffb5df3223572f66c",
+      "uri": "spotify:album:1Gsy3A0noXthXH0pZjUnAV",
+      "name": "snapback (remixes)",
+      "album_type": "single",
+      "release_date": "2013-03-08",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc64e0263b5ce3c41f9bd131",
+      "uri": "spotify:album:5pfECPwmBZP5yTRDCD9wCZ",
+      "name": "hornpipe fever",
+      "album_type": "single",
+      "release_date": "2012-09-27",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5AJKw9RqjolVu1dBO1UR2z",
+          "name": "juan kidd"
+        },
+        {
+          "spotify_id": "1tKk9YTcRmvHaooMMHn9bP",
+          "name": "jonathan ulysses"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fde5eaec4cd17e2bc9445c9f",
+      "uri": "spotify:album:1QapM03XToH6SMRrQ8sV8y",
+      "name": "infinity",
+      "album_type": "single",
+      "release_date": "2012-08-24",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a30500ffca3b505e134e0f33",
+      "uri": "spotify:album:6Px98KNItJET69krYsJe3T",
+      "name": "sassafras",
+      "album_type": "single",
+      "release_date": "2012-04-04",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "36eGsOtVbLp1qUeQKOI1hO",
+          "name": "chardy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273345c81521c561cfe6a3b7037",
+      "uri": "spotify:album:3vpTof46g84O6W0AemfFj4",
+      "name": "horny",
+      "album_type": "single",
+      "release_date": "2011-09-10",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "5OvZQRQGvAbYZ0Y0JwNIAa",
+          "name": "tenzin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e71f22027061ed5cac01a0a0",
+      "uri": "spotify:album:5yaS48Oua54pwuUoZoqPFC",
+      "name": "trrrumpet",
+      "album_type": "single",
+      "release_date": "2011-04-14",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310de0bc2b83f6b793fa9fb43",
+      "uri": "spotify:album:4hmtSYPjZwGXaQA5YGqmD1",
+      "name": "tromba ye ye ye",
+      "album_type": "single",
+      "release_date": "2010-08-21",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5RSTvtzYhTIr0ARC1PRaDD",
+          "name": "kcb"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b33cb916ffc42e753eb3e367",
+      "uri": "spotify:album:5o6iN66kIsXCvNISRosMyC",
+      "name": "sunrise",
+      "album_type": "single",
+      "release_date": "2009-12-05",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:50.000Z"
+}

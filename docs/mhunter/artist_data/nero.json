@@ -1,0 +1,458 @@
+{
+  "name": "nero",
+  "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+  "uri": "spotify:artist:4uRYpUQZrNrY5t8tAv3XrD",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb810b04852e42d0f7932fb89c",
+  "genres": [
+    "dubstep",
+    "dub"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a67e885147067e5e54cb37d7",
+      "uri": "spotify:album:6yY0gkq57sT6MlNmATkCRM",
+      "name": "we're not alone",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "4QWmN97HRZya55JvxN3I5a",
+          "name": "taiki nulight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e9f2bf77023d5d9ffe585c2",
+      "uri": "spotify:album:2E5C1AI1CjB47vcZ487wV1",
+      "name": "destruction",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ab429ae6fe2b3e691850c3a",
+      "uri": "spotify:album:5zumT6xPCZUHJnKR2ng3pY",
+      "name": "innocence 2025",
+      "album_type": "single",
+      "release_date": "2025-03-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "4QWmN97HRZya55JvxN3I5a",
+          "name": "taiki nulight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318b0fb1a1b5d05455bcc99e6",
+      "uri": "spotify:album:7fHVPJcY7r7FpaWg05aV8e",
+      "name": "talking to god (elliot vast remix)",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "2hJtwaX9JEp7l8EjigYkaA",
+          "name": "elliot vast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e24bd6fa0ce86897753fa39",
+      "uri": "spotify:album:2spge3mzNdBzEl4wxniTa9",
+      "name": "into the unknown",
+      "album_type": "album",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273536a0fd0d79c6e14a32a20cc",
+      "uri": "spotify:album:0iLc7PUs0lw2pQiDATYlN8",
+      "name": "solar",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c40a1a49214d616327327fad",
+      "uri": "spotify:album:5jsJKDav4rpuCCuB6xfn30",
+      "name": "too many questions",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf0dc302f5d85982e7cee8d5",
+      "uri": "spotify:album:2LBnmzCPyp1ZFFSLXzb3EY",
+      "name": "draw energy",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c958d0bdfdeecb79b201651f",
+      "uri": "spotify:album:072afgsXKX0MGMjmoEcF4T",
+      "name": "blame you",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305061206e01f1aa0a5f03e98",
+      "uri": "spotify:album:3LYjcYlSEPoYYKVjGOajLa",
+      "name": "quanto male mi fai",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "5dFsc5Xa04k5yGgkr9Uzfm",
+          "name": "paranoic"
+        },
+        {
+          "spotify_id": "4FwW9IVgBYqr2xRBImgKs0",
+          "name": "defurias"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e77f69ed595bce4d8afdf29",
+      "uri": "spotify:album:5mp8MGXOzeRcxKW5QnPRv1",
+      "name": "truth",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c27e7e1a5b08a54569f10fe2",
+      "uri": "spotify:album:1QXFEHH8wWGzKFAOcuWsbd",
+      "name": "renegade",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5eIbEEQnDM8yuDVB0bimSP",
+          "name": "rl grime"
+        },
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa2a6d93505e74bf536e12da",
+      "uri": "spotify:album:5zx3PvrA6sV5o7DXzA0lR5",
+      "name": "no rival! (nero remix)",
+      "album_type": "single",
+      "release_date": "2021-11-09",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2AzO6D2TXB9qEqL6UfUU8r",
+          "name": "lakou mizik"
+        },
+        {
+          "spotify_id": "4O2IFXgH0FqMSHU4pzpqQX",
+          "name": "joseph ray"
+        },
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319519960c748b10d936c9888",
+      "uri": "spotify:album:5TT9Lllp2T05GhHwjzxESr",
+      "name": "lullaby",
+      "album_type": "single",
+      "release_date": "2018-12-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d764c8619dd02438df16951b",
+      "uri": "spotify:album:4WTmxg2eetdGH5K26QMQ2a",
+      "name": "end of the world / night thunder",
+      "album_type": "single",
+      "release_date": "2018-11-07",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739285857f6acb1ea9ff2b1988",
+      "uri": "spotify:album:2t7uaVT2n0EONBsA3Z7nE8",
+      "name": "dreams",
+      "album_type": "single",
+      "release_date": "2017-08-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "28j8lBWDdDSHSSt5oPlsX2",
+          "name": "zhu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378462fe27fe0b46618c435bd",
+      "uri": "spotify:album:0UrFZ93iRqEnJwIuhzhlEy",
+      "name": "between ii worlds",
+      "album_type": "album",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382781d4396664cbc7fddad7e",
+      "uri": "spotify:album:4IDJtbi6n3YRW31qZKxair",
+      "name": "the thrill (porter robinson remix)",
+      "album_type": "single",
+      "release_date": "2015-04-20",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273053e69ab9a4a73ef72f47d8a",
+      "uri": "spotify:album:2vsJ3w5Y2VA067T5fVmCkB",
+      "name": "into the night (remixes)",
+      "album_type": "single",
+      "release_date": "2015-01-08",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d5e0ef686f292836633bbd9",
+      "uri": "spotify:album:2UBu7ee7s243kGYEVyDQwh",
+      "name": "must be the feeling",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b597866f3eab47b0ff1cea6",
+      "uri": "spotify:album:7AhxNWQ18DrNGjjzlBGKKh",
+      "name": "promises",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbd4b1d7f31b83e52abc6333",
+      "uri": "spotify:album:1K4PSmpwOATE2krcZiBXfD",
+      "name": "me and you",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a00dec9ce1677ff4fbfeb91",
+      "uri": "spotify:album:1hMXqmEdtxYenRDVm4hEgu",
+      "name": "welcome reality +",
+      "album_type": "album",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345f129df3153f3af76899b49",
+      "uri": "spotify:album:1CMVjwTvpUlQe80STJwzXQ",
+      "name": "something else",
+      "album_type": "single",
+      "release_date": "2010-04-26",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6eaac50868e92a5f6945fbc",
+      "uri": "spotify:album:1ZjDuH6p9dJJaCBlsREhEC",
+      "name": "acts of mad men (part 2)",
+      "album_type": "single",
+      "release_date": "2009-09-28",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        },
+        {
+          "spotify_id": "2Vqj1e2oloOKNqAT2gpoa5",
+          "name": "futurebound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d06f1b4be72802e6b248d6b7",
+      "uri": "spotify:album:1xZWX4uufU3ikEvKyndPF6",
+      "name": "bad trip remix",
+      "album_type": "single",
+      "release_date": "2009-07-01",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313beeca447a217034637ec73",
+      "uri": "spotify:album:4XQYZZo3En3QVO1pdcHWiA",
+      "name": "audio phreaks, vol. 6",
+      "album_type": "single",
+      "release_date": "2008-09-01",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4uRYpUQZrNrY5t8tAv3XrD",
+          "name": "nero"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:48.000Z"
+}

@@ -1,0 +1,333 @@
+{
+  "name": "cee",
+  "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+  "uri": "spotify:artist:1iOseqnIL6WEQc5EX0zopX",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb30838378a6a7b9fe8fa40e83",
+  "genres": [
+    "chinese hip hop",
+    "chinese indie",
+    "jazz rap",
+    "chinese r&b"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c387bffc0c7851d869cfb122",
+      "uri": "spotify:album:1uZAzEvJL5pe0EHip3tMWZ",
+      "name": "斯德哥爾摩綜合症",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        },
+        {
+          "spotify_id": "7iRNJalUDTBbb0Kkl0R0cx",
+          "name": "yohu"
+        },
+        {
+          "spotify_id": "2eVJP6vbXFKAIMAGQyjgw4",
+          "name": "栾赫 lydia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f2610133c9706df6cc4b8ea",
+      "uri": "spotify:album:6NWO6RlqIYzH2a29ugGNzY",
+      "name": "尊严",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lg6MmF7UvcqvF4u8QDVAA",
+          "name": "儿几"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738426dd7de25d91a44bf5b38d",
+      "uri": "spotify:album:3rKwnytsDUKtdj8yMNiie1",
+      "name": "abandoned neon signs(廢墟霓虹) remix",
+      "album_type": "single",
+      "release_date": "2026-06-25",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        },
+        {
+          "spotify_id": "5hzXPEu0WeYHg3zQts4BGX",
+          "name": "dough-boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ebcbc7a352d50727f4d6131",
+      "uri": "spotify:album:4lc8lEJmuEgqJfIwl7ORbH",
+      "name": "abandoned neon signs(廢墟霓虹) beat tape",
+      "album_type": "single",
+      "release_date": "2026-06-17",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        },
+        {
+          "spotify_id": "5hzXPEu0WeYHg3zQts4BGX",
+          "name": "dough-boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf72ded835d85bb2d0714a50",
+      "uri": "spotify:album:7geOPLX6fqS2ziMj2ZZr7n",
+      "name": "abandoned neon signs(廢墟霓虹)",
+      "album_type": "single",
+      "release_date": "2026-06-10",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        },
+        {
+          "spotify_id": "5hzXPEu0WeYHg3zQts4BGX",
+          "name": "dough-boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730474ef4889b16bab83e7e78f",
+      "uri": "spotify:album:5dvRPsvbgQ037xtrs9vR8D",
+      "name": "第二调频",
+      "album_type": "single",
+      "release_date": "2025-09-06",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6pNDhyLnHYbDvJ2cRbNoDe",
+          "name": "赤垚"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cbf11204be99648621e7306",
+      "uri": "spotify:album:7w5OBL1R1F1QXuWqtUYHe4",
+      "name": "realer",
+      "album_type": "single",
+      "release_date": "2023-06-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0xBdUjy7BZ2pWvpUqV6fkq",
+          "name": "igmi b"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc494f2429398d9420520974",
+      "uri": "spotify:album:5DYS3K9q6OdbjvyV4rezlj",
+      "name": "adios",
+      "album_type": "single",
+      "release_date": "2021-01-02",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1t741fUiSCGyoWPoknIi4U",
+          "name": "阿克江akin"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5a5542c55010535ed73de65",
+      "uri": "spotify:album:6DHwxqCiC5p6TTbPijkWj1",
+      "name": "just a little bit",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "471tNBo7jhuN4a2ytWqRdq",
+          "name": "po8"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f93eb41aec71e77c091cc39f",
+      "uri": "spotify:album:1KCA969L31Zb7OFGsgTgUf",
+      "name": "hold it tight",
+      "album_type": "single",
+      "release_date": "2020-09-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        },
+        {
+          "spotify_id": "4D7p9lfzPO5MydS79xCVRx",
+          "name": "dizkar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329b534dfd9a5eb3e2d91483c",
+      "uri": "spotify:album:2v2bOl6rGAFxNJqNAhIFsC",
+      "name": "誠燃 overthrow",
+      "album_type": "album",
+      "release_date": "2019-07-03",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b0d1ed887670019e6db2d87",
+      "uri": "spotify:album:4WWHwJf5agDYnjltdzdUqb",
+      "name": "对号入座",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a369e6388a540338961d789",
+      "uri": "spotify:album:0SOs9s0LJaWHLXzdzW3osb",
+      "name": "now & laters",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355a0b8179d02f5cf20011294",
+      "uri": "spotify:album:7hmGmzoGgA5FIYN0MyXWfZ",
+      "name": "soul plane",
+      "album_type": "single",
+      "release_date": "2017-11-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346d1fa5d1d8bf8a2219397a1",
+      "uri": "spotify:album:58v2LNUYphGAuevozUF1r2",
+      "name": "king of underground",
+      "album_type": "single",
+      "release_date": "2017-10-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcaef53eab96f4c6c9460b16",
+      "uri": "spotify:album:19ac3APNg7sCWfieYYCGJq",
+      "name": "know my style (remixes)",
+      "album_type": "single",
+      "release_date": "2017-10-17",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361ddf53a5d51e085eb1dceb0",
+      "uri": "spotify:album:4onmoHLo8o3ozq9PXR1ldy",
+      "name": "know my style",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393ea02d46674e01a99162690",
+      "uri": "spotify:album:3W4vJhoqrncOAARuNYrR0S",
+      "name": "午夜列车上的告别",
+      "album_type": "album",
+      "release_date": "2016-06-29",
+      "release_year": "2016",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2GfjyOogkWae1MCVpasSfJ",
+          "name": "lu1"
+        },
+        {
+          "spotify_id": "1iOseqnIL6WEQc5EX0zopX",
+          "name": "cee"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:00.000Z"
+}

@@ -1,0 +1,2116 @@
+{
+  "name": "justin prime",
+  "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+  "uri": "spotify:artist:0TFdkHvlyUVl9zrb4seHxJ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc687460b472fde32c38bbc18",
+  "genres": [
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e22c47f4d4d9fdc266410641",
+      "uri": "spotify:album:1h1sqAHHHul1JMmsF0meon",
+      "name": "early days",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5b9mQI0YDMVf7zDrlxES5H",
+          "name": "honey gee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e09d3b8a4fc597ce4d6929f2",
+      "uri": "spotify:album:0yAytHjsnfU690mWbMepWO",
+      "name": "love comes again (feat. jawny sparklez)",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7bdZVVcdyFjxVRj6vCVk9w",
+          "name": "jaxx & vega"
+        },
+        {
+          "spotify_id": "7wVdHjM4odGF5lGsqVSHJT",
+          "name": "saberz"
+        },
+        {
+          "spotify_id": "3HE0SOvitff8FZZm15jLvi",
+          "name": "jawny sparklez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733034b5f446b0937f7d02a83f",
+      "uri": "spotify:album:2VIle6GvNBwToC8zX2aDZL",
+      "name": "thunderbolt (outsiders remix)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        },
+        {
+          "spotify_id": "0aKXalHKVzkLJ6aeUY3HMf",
+          "name": "outsiders"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360bbc186df6645289edc9203",
+      "uri": "spotify:album:6fqoT4Q2PdoSSI2keGnag4",
+      "name": "thunderbolt (remixes)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c007e6e27dfd5f7875de3ce",
+      "uri": "spotify:album:0SuwKDcSi3nPICq0oQuERo",
+      "name": "thunderbolt (header remix)",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        },
+        {
+          "spotify_id": "7odWcvukhtSCQY2pBN7YT0",
+          "name": "header"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735204477b4ae32adf3ce54d29",
+      "uri": "spotify:album:2kq1YBSGM9haczY97Erx1I",
+      "name": "thunderbolt (alex o'clock remix)",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        },
+        {
+          "spotify_id": "2K91we4sYTdu2m0nRdO940",
+          "name": "alex o'clock"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2844cc46b2574b003730519",
+      "uri": "spotify:album:0KmqBPBuassPSQciUOWwAp",
+      "name": "thunderbolt (jaxx & vega remix)",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        },
+        {
+          "spotify_id": "7bdZVVcdyFjxVRj6vCVk9w",
+          "name": "jaxx & vega"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9ae32e5ca3fff9066145d60",
+      "uri": "spotify:album:6tS1JRMSj8xs95J8QO6bn1",
+      "name": "need u",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7mcspfHUIJxtahHxzd1PYf",
+          "name": "kian sales"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9e956a8b174b7f0d4db8eae",
+      "uri": "spotify:album:12qRV13aHeY24r7bwcbbMx",
+      "name": "just a bit more",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5qpNUMXSRYc7FOLIjcYWzv",
+          "name": "tbr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca9bec614cc8667a065747b5",
+      "uri": "spotify:album:1B2VqJyuz43GMbEtgjrSMr",
+      "name": "esd",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "03Uxnv0S5yon8NjFeBF3Bu",
+          "name": "kane scott"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361b678d1ecbdd406b9269acc",
+      "uri": "spotify:album:3fDTN7pmhdXaLmmA3TCavM",
+      "name": "lullaby",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5guBrcv1BxjlJdKlW8MNyh",
+          "name": "dj junior (tw)"
+        },
+        {
+          "spotify_id": "1Ii4I4a8WGgYqMxEOLoMAl",
+          "name": "elyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de771aa20f3ca275e8d4513d",
+      "uri": "spotify:album:4eEWY996b3n33KapiHioUI",
+      "name": "take you back",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "11ESC6KI0jpdML0CijeROt",
+          "name": "lockdown"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bed1922a6b13d49bcd3b0ce8",
+      "uri": "spotify:album:19moXFwae3dWcUFxC9bqj8",
+      "name": "more life",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7mcspfHUIJxtahHxzd1PYf",
+          "name": "kian sales"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323b7879c32b714e85b98c381",
+      "uri": "spotify:album:3n38WYHBc1bbxI3sadT9sn",
+      "name": "game over (ozgun remix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2O0GPxVfZuYNQP0V6mJ3FL",
+          "name": "blackcode"
+        },
+        {
+          "spotify_id": "1KlBo98Vn0xHQZuLUhyrwe",
+          "name": "david allen"
+        },
+        {
+          "spotify_id": "0cKY4wsPOI6B3ILdDWnwmx",
+          "name": "ozgun"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f173278c24c9c52c3c860f95",
+      "uri": "spotify:album:4mazpP6lDBqHazc8nNnVuO",
+      "name": "back 2 the oldschool",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "74FoBhis1hShJt1oBnmXkC",
+          "name": "mykris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a204e918ac6960b4abcb888",
+      "uri": "spotify:album:06XlhIt2Ee02zToldcXdFp",
+      "name": "starscream",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7bdZVVcdyFjxVRj6vCVk9w",
+          "name": "jaxx & vega"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5TC0uyyYFSzWL67pxKeOeR",
+          "name": "skarleth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb069337d37ded4d900a367a",
+      "uri": "spotify:album:4NxyghAgg5XbNyWfxnjmWc",
+      "name": "cannonball (la fuente remix)",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "0vhJymgsCubfAfFjEGVsoD",
+          "name": "la fuente"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e848dd11c950f299b356343",
+      "uri": "spotify:album:59wcWtwt3fDL6MAHcYKLYP",
+      "name": "cannonball (lost identity & teknoclash remix)",
+      "album_type": "single",
+      "release_date": "2023-12-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "0Q900eSnku7mrRFfi1Eoyb",
+          "name": "teknoclash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363a647e77da7801aba397eaf",
+      "uri": "spotify:album:5rskvHFIHUcmRhqKOC0MwG",
+      "name": "cannonball (marlo remix)",
+      "album_type": "single",
+      "release_date": "2023-12-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2kd1zg9ZyGG6WjZO2dAsFd",
+          "name": "marlo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329a8a283e625d58a6be9f84a",
+      "uri": "spotify:album:510uX9t757mT6FXS0MEpzF",
+      "name": "nexchapter",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1MISHmlS06R8ba7RVsn0A3",
+          "name": "nick havsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7a4bc26d63565c4b7f562e2",
+      "uri": "spotify:album:39ciXKmC9TKRiLoslPJDqR",
+      "name": "lost (feat. lune)",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7wVdHjM4odGF5lGsqVSHJT",
+          "name": "saberz"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7EmxBsAP8nkSn6gxRZt9gN",
+          "name": "lune"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733286a1e4bc282acca22525da",
+      "uri": "spotify:album:108AcWEbOHPYIc4MDIMJtg",
+      "name": "cannonball (the prophet remix)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2iRqqPkOyIvvb7qFZN1Onz",
+          "name": "the prophet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0aca84f0b1ccebc024b7763",
+      "uri": "spotify:album:5zaayiAD6wljfJTYmS33A8",
+      "name": "cannonball (will sparks remix)",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0a5aff1491fcccd21a1d904",
+      "uri": "spotify:album:38LaWhtOR6J1rvuVIX0sx0",
+      "name": "game over",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2O0GPxVfZuYNQP0V6mJ3FL",
+          "name": "blackcode"
+        },
+        {
+          "spotify_id": "1KlBo98Vn0xHQZuLUhyrwe",
+          "name": "david allen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b11e1fd5e13e99418db867f8",
+      "uri": "spotify:album:4lbu0I3sJzbgJIGPVCGUc3",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        },
+        {
+          "spotify_id": "136IMKXG5a8xUSYuTkCBMI",
+          "name": "kevin krissen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273439cee79d3d7a4dbde4c94a8",
+      "uri": "spotify:album:2P9pgKyqa2tuLhV25uyTTm",
+      "name": "born again (feat. kody ternes)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2wZaQyJOZ7y68O1cayCN16",
+          "name": "g.u.o.l."
+        },
+        {
+          "spotify_id": "3kcZRvJW10HzHleumOMgTc",
+          "name": "kody ternes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5ce2d0f7d3e85129d5e8f80",
+      "uri": "spotify:album:7evc6VId81RP1CaoKB7Dkq",
+      "name": "city of starlight (feat. heleen) [emkr remix]",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2M9nsWRUhhvYvfZmOYgTwZ",
+          "name": "renato s"
+        },
+        {
+          "spotify_id": "16YZPLaST1ER7EtQizXEPA",
+          "name": "emkr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab09f44bd1454902f136dfc",
+      "uri": "spotify:album:7s12Fafjo0EJzu6VfIAWEN",
+      "name": "run",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5qpNUMXSRYc7FOLIjcYWzv",
+          "name": "tbr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cfcb087aed302d912391e34",
+      "uri": "spotify:album:1IQBmKlgXiiU5TcbnAGA5r",
+      "name": "lost & found",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6an7Tt4XKUfDucWZUXflvl",
+          "name": "voster & gallardo"
+        },
+        {
+          "spotify_id": "0dTHP0Q3bnRc6Lip9ttSbS",
+          "name": "joe mann"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efbf164d18a9ce7bc4a69601",
+      "uri": "spotify:album:1npKPXhV7KAQDp6AlwuUEK",
+      "name": "take me higher",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2M9nsWRUhhvYvfZmOYgTwZ",
+          "name": "renato s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fecb09e12359eab8815365be",
+      "uri": "spotify:album:4xzUJb7UngLWWve2N1LXHS",
+      "name": "big room revolution",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "136IMKXG5a8xUSYuTkCBMI",
+          "name": "kevin krissen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c3a1d720e37754a47f3910b",
+      "uri": "spotify:album:1SbBn6fznTBlig6oFoFn6T",
+      "name": "annihilation",
+      "album_type": "single",
+      "release_date": "2022-07-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7bdZVVcdyFjxVRj6vCVk9w",
+          "name": "jaxx & vega"
+        },
+        {
+          "spotify_id": "0P1bac5UntZYCx7ywKqwxh",
+          "name": "tal iluz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273412e72fb2ab3ab6369c74463",
+      "uri": "spotify:album:73kBhQxq0aheDZjj4xOUkl",
+      "name": "turn up the bass",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5oTgiVsk5wT8LOZqdBDlk8",
+          "name": "driiift"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cffb67a65826e6ab6cf31631",
+      "uri": "spotify:album:0O37L4UjXeO5aSG8paSNXv",
+      "name": "turn up the bass (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5oTgiVsk5wT8LOZqdBDlk8",
+          "name": "driiift"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308fed5986d6c4039e84b93b4",
+      "uri": "spotify:album:379pdLHKjtUzzsffVcy0zi",
+      "name": "it never mattered anyway (feat. george gleeson)",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "4TEOItM1eSa55pK44NiEhp",
+          "name": "axity"
+        },
+        {
+          "spotify_id": "1QXPCz4ERtbszXTPji4sjl",
+          "name": "walter alan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317caa9ef2fe0efd9a7487f6b",
+      "uri": "spotify:album:7k6GSoJGrGyF5JeksX4Hd7",
+      "name": "missing you",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "16YZPLaST1ER7EtQizXEPA",
+          "name": "emkr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd753be102a10016c8a04850",
+      "uri": "spotify:album:3hIuxTyTAbF2yETvJKi3tg",
+      "name": "kiss the night",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "47v4vGA1qCl7hyevSkpRM7",
+          "name": "futuristic polar bears"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7c3CDjLPLotUtT0U4nSv0Z",
+          "name": "k1lo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273223402b39eae4fa6d77b532f",
+      "uri": "spotify:album:5awBjpif5ZRLBqBNiOfZUO",
+      "name": "the light",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "04Ze9i5w3NXno5DdMNpJZC",
+          "name": "olly james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361f00d08bc6028433aed5f4f",
+      "uri": "spotify:album:0SFysJO5PXiCPk87ztyoS9",
+      "name": "city of starlight (feat. heleen)",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2M9nsWRUhhvYvfZmOYgTwZ",
+          "name": "renato s"
+        },
+        {
+          "spotify_id": "0zLQTEKS6D3No5avvrBCGd",
+          "name": "drek's"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb6c028daec4b17f4aa358a",
+      "uri": "spotify:album:5jN81pw130GN8CKyT7QG7o",
+      "name": "dark sky",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5qpNUMXSRYc7FOLIjcYWzv",
+          "name": "tbr"
+        },
+        {
+          "spotify_id": "16YZPLaST1ER7EtQizXEPA",
+          "name": "emkr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273502a17217922edb5a3fac462",
+      "uri": "spotify:album:4Ce0abdgk79C6cH8frg7Eq",
+      "name": "this is our legacy",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ba6ecc78473221398fa40e9",
+      "uri": "spotify:album:5gyx3UGguV9QG76rS1CNmJ",
+      "name": "knockout",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3yycPRFMwYENrpe3nw7L4k",
+          "name": "stvw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c693528cca123cc65a6f3a7a",
+      "uri": "spotify:album:1rCQYnXoCLnhWHzEEow9wI",
+      "name": "revealed selected 016",
+      "album_type": "album",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6ZW993YptuBv90KlnaIhTx",
+          "name": "caneschi"
+        },
+        {
+          "spotify_id": "4yEgE26MnYiOjRkJKFU9CX",
+          "name": "vy•da"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5af6548848a60ff2c2daff2",
+      "uri": "spotify:album:0C0ZDZF8Jny1vGvSvITs1y",
+      "name": "wtf?",
+      "album_type": "single",
+      "release_date": "2021-05-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2748f0b7cc9265c76cab07f",
+      "uri": "spotify:album:4xhjGSHRFBVPkEr6xVMY5n",
+      "name": "neutron",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7wVdHjM4odGF5lGsqVSHJT",
+          "name": "saberz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273248f3debe6868131ac47527c",
+      "uri": "spotify:album:6TdvRug8JWJBbgKVc4yqPf",
+      "name": "rebirth of sound",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7vlGNvHKynxt7R5t8OpwG7",
+          "name": "vito mendez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273306a615e6d9b0916e7e2fb76",
+      "uri": "spotify:album:2KPtAfovw9KR978fSaL9Eu",
+      "name": "ninja",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "38IfmizrHTCxFjd8UKhWnp",
+          "name": "husman"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326ec6a5ac458215d63537514",
+      "uri": "spotify:album:5E4rUD7X7daB5izvopeLcN",
+      "name": "united we stand",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "47v4vGA1qCl7hyevSkpRM7",
+          "name": "futuristic polar bears"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358daabd6beb25ca74e6f9988",
+      "uri": "spotify:album:22OyDFx5V9dH1ILxdC1dRY",
+      "name": "old school",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        },
+        {
+          "spotify_id": "5QCtrEvIJdRTN1XCZVKeOQ",
+          "name": "steven vegas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3235331253032dec30c32c9",
+      "uri": "spotify:album:035HxXUNu18tU5IV1uMbRo",
+      "name": "buena vida",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3RHLm0zZscBiIeAabUQOLi",
+          "name": "subliminals"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6d2014ce48654a777407070",
+      "uri": "spotify:album:0dPLrdBvyit6LIzDdy6oTV",
+      "name": "ocean",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "036waz4w9csK4GHayAXNmR",
+          "name": "lasada"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3f2749511d18d09cc31e525",
+      "uri": "spotify:album:5bUjCDMSiuhZDEYZdjJOSa",
+      "name": "lionheart",
+      "album_type": "single",
+      "release_date": "2020-06-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356d1a7645d3808639709e26b",
+      "uri": "spotify:album:5AGc8Tvu6uZu2QG2B1Wjqk",
+      "name": "speaker test (pherato remix)",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        },
+        {
+          "spotify_id": "4N5dAfqsjUgmluwrFoeuOb",
+          "name": "pherato"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba5e4d659918c647619712ac",
+      "uri": "spotify:album:5n0dRnkKRXrJj6aBjMy1u6",
+      "name": "guilty (the remixes)",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e078cd18d3b6dfb57fd0199",
+      "uri": "spotify:album:0wEZoGAKWYUx7Jk02gDTmN",
+      "name": "speaker test",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382afc49ecd0572b0e5f4d649",
+      "uri": "spotify:album:3aRZg3XcfGqTrk1jeHP6YH",
+      "name": "klap (lange frans remix)",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4muTG0t1zTFCv3WoxqTIQJ",
+          "name": "devarsity"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fafcd1316ebfd1de25572e8",
+      "uri": "spotify:album:1DB51xvuL5ov2zlipgAMR6",
+      "name": "don't stop",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730abeadfef5503b5c200f3e22",
+      "uri": "spotify:album:3lgqrdgfEWNhwdkZhajatb",
+      "name": "not alone (chrns remix)",
+      "album_type": "single",
+      "release_date": "2020-01-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "0UO2eme5GrM4O3neniq7Ql",
+          "name": "chrns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306126d9ad9e03873ba3250e3",
+      "uri": "spotify:album:6FMgij1xvyprHSYsKiPaWp",
+      "name": "not alone (the remixes)",
+      "album_type": "single",
+      "release_date": "2020-01-15",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1dc872ec8ea488cc8009579",
+      "uri": "spotify:album:5siM1yAUVdjtrNX6bKrmFU",
+      "name": "not alone (reggio remix)",
+      "album_type": "single",
+      "release_date": "2020-01-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737025133b1b89461618974bfc",
+      "uri": "spotify:album:3Dt2f5telbcxPFrGAZKNAM",
+      "name": "guilty",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357e90e73208544c734409134",
+      "uri": "spotify:album:2AWHmovJCYNDEQ9OasRNQy",
+      "name": "ladrón",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5TgsVTRJP1xh3seNwd5kk7",
+          "name": "alejandro reyes"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd41c494ea13d2fb95aef663",
+      "uri": "spotify:album:7cHjF8wvyeHx1wlto0Gfw6",
+      "name": "tear dem down",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "7vlGNvHKynxt7R5t8OpwG7",
+          "name": "vito mendez"
+        },
+        {
+          "spotify_id": "3axN1OCF5k0nXwe8MOePPa",
+          "name": "sensei milla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b138f7597604c4ee3bc616db",
+      "uri": "spotify:album:3jOqPlDisKyPIoOcQ2TUFy",
+      "name": "holding on",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2INDI0xc49oGYTZC7fBZjX",
+          "name": "we are loud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf7545ee32f2593e7b1a1a87",
+      "uri": "spotify:album:0LbNZmcWVCv9U4HTbkj9uE",
+      "name": "boom!",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3RHLm0zZscBiIeAabUQOLi",
+          "name": "subliminals"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273867de4333444af635c59762b",
+      "uri": "spotify:album:3zzoMLOL0aNxoBs8cDgdMy",
+      "name": "reloaded",
+      "album_type": "single",
+      "release_date": "2019-08-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2nsCjA4fEasmnlOK0wXU7T",
+          "name": "niviro"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273398853b2c3e0671d25fb6cad",
+      "uri": "spotify:album:3DE8hpOqvgx6SSMXoATXt5",
+      "name": "klap",
+      "album_type": "single",
+      "release_date": "2019-07-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4muTG0t1zTFCv3WoxqTIQJ",
+          "name": "devarsity"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb60230e512eed8a9f593c3",
+      "uri": "spotify:album:7adAowHTEVY4cQXLqJeN4z",
+      "name": "not alone",
+      "album_type": "single",
+      "release_date": "2019-07-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XqFDQJjqW5PfhfBCb53LR",
+          "name": "sick individuals"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377693d76c051e422d7355618",
+      "uri": "spotify:album:2qEMrhRno3MOLOTOmTFmWa",
+      "name": "fever",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DybOZPNgO2arGSx2tR35q",
+          "name": "da candy"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        },
+        {
+          "spotify_id": "5CY0QKsbUBpQJIE2yycsYi",
+          "name": "lil eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5a6a42972c5e94b666793c7",
+      "uri": "spotify:album:14aFxMu3jCNzQNZpA4ZIWK",
+      "name": "old school",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d42bf2c39025bb3ff511f1b1",
+      "uri": "spotify:album:0naeiGyqjBIfXTxlJt2n9X",
+      "name": "earthquake (the remixes)",
+      "album_type": "single",
+      "release_date": "2019-05-20",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "23UzQGZ9FtrZWaKyOIcLOO",
+          "name": "d3fai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2226083d18fea3e4cc0d0a7",
+      "uri": "spotify:album:4tM0O0P5ZVxZr4ZvWwNPRi",
+      "name": "dominate",
+      "album_type": "single",
+      "release_date": "2019-05-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739710a54775b5065a2c2ac9b6",
+      "uri": "spotify:album:254U13JvjCjl5F9STz09oh",
+      "name": "can't stop it",
+      "album_type": "single",
+      "release_date": "2019-03-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5LWQLBPNcQrzUtg5imjz67",
+          "name": "dyson"
+        },
+        {
+          "spotify_id": "5C6lPaG7wWdGG7alTgjH9A",
+          "name": "taylor jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337f536d260774c54fa5ef613",
+      "uri": "spotify:album:1FEynJrjtA7VcIEor80vYr",
+      "name": "earthquake",
+      "album_type": "single",
+      "release_date": "2019-02-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "23UzQGZ9FtrZWaKyOIcLOO",
+          "name": "d3fai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dd532d6f4599c169a0d8b30",
+      "uri": "spotify:album:09uMhcMRbFqJzuskE2JM5u",
+      "name": "smash",
+      "album_type": "single",
+      "release_date": "2018-12-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "5QCtrEvIJdRTN1XCZVKeOQ",
+          "name": "steven vegas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d63cc9d2b2a3c781306fb8",
+      "uri": "spotify:album:2aXWVhK49e80EK42UdcfQR",
+      "name": "in your face",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3005764dab78d47205c4d41",
+      "uri": "spotify:album:2zXlpi8bSGU2L6ZES234iE",
+      "name": "unstoppable (unplugged)",
+      "album_type": "single",
+      "release_date": "2018-05-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2nsCjA4fEasmnlOK0wXU7T",
+          "name": "niviro"
+        },
+        {
+          "spotify_id": "4YvTZPiLAVdVA5VkCwyBWk",
+          "name": "kimberly fransens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734aff766ac6a473712ec78042",
+      "uri": "spotify:album:58KR8f28jaLejpZDnpCcZ3",
+      "name": "forever",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378898804fc027cb90718f22f",
+      "uri": "spotify:album:357Pl8zVVWch1t2umCpwQV",
+      "name": "unstoppable",
+      "album_type": "single",
+      "release_date": "2018-02-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2nsCjA4fEasmnlOK0wXU7T",
+          "name": "niviro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0c929f7f0201b75d6fd195c",
+      "uri": "spotify:album:6MZ0wOHTmlVNr6kL34ZFn9",
+      "name": "mirror on the wall (blr remix)",
+      "album_type": "single",
+      "release_date": "2018-01-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6eZxwKfQWK4d5sLOlauR1Y",
+          "name": "blr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a1eacd32884a643aa64394a",
+      "uri": "spotify:album:18UvCD2uhaP2xpWXY6yGtu",
+      "name": "mirror on the wall",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ccda0fb7dd01498b0c42e01",
+      "uri": "spotify:album:5klA55fHSLRscIYbBhsI8n",
+      "name": "lights off (feat. taylor jones)",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        },
+        {
+          "spotify_id": "5C6lPaG7wWdGG7alTgjH9A",
+          "name": "taylor jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273726e8b2157d95735dc0888d7",
+      "uri": "spotify:album:5R2W2rspYCxShTRDSE4FtK",
+      "name": "lights off (feat. taylor jones) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "6gce3osfgmB2RCMqoKfwFe",
+          "name": "onderkoffer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360b07d3a67eeec098f172d68",
+      "uri": "spotify:album:4nPzdshwfDPVpGtsD4r6nt",
+      "name": "light it up",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336ddbaba926debe015976062",
+      "uri": "spotify:album:7b7sS8KvbjWIQYRipPW3dY",
+      "name": "wasteland",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d12a542f5d182b8a5ca9ca59",
+      "uri": "spotify:album:1AsZ9NsSI0o3RirzIqR8xt",
+      "name": "seoul",
+      "album_type": "single",
+      "release_date": "2017-04-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "617vuhWsxSqFhyaM6bLgxv",
+          "name": "liam turner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331532c4ef6cba83cb7c5f4f5",
+      "uri": "spotify:album:48MAxVA72PIuHqFfWE4xzp",
+      "name": "tomorrow sounds",
+      "album_type": "single",
+      "release_date": "2017-02-10",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2INDI0xc49oGYTZC7fBZjX",
+          "name": "we are loud"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a59cfe57c6a32398815cd434",
+      "uri": "spotify:album:2BkQaxuVhUG3SxzDeoMNMl",
+      "name": "drowning (remixes)",
+      "album_type": "single",
+      "release_date": "2016-11-07",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2INDI0xc49oGYTZC7fBZjX",
+          "name": "we are loud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273576e4507bec6d42a6e9a5939",
+      "uri": "spotify:album:0lgZMfDxZtWC0oCpPyfn4U",
+      "name": "drowning",
+      "album_type": "single",
+      "release_date": "2016-07-25",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "2INDI0xc49oGYTZC7fBZjX",
+          "name": "we are loud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273164b50d3ca975bcedd8235e2",
+      "uri": "spotify:album:5N1IWwt2tqAVCIXrLP5pog",
+      "name": "insane",
+      "album_type": "single",
+      "release_date": "2016-04-18",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e0c6e3800c5de3a08357446",
+      "uri": "spotify:album:1zvqdUoa0rnWyw1PqEJyqY",
+      "name": "beatfever ep",
+      "album_type": "single",
+      "release_date": "2015-09-02",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0TBPu7XWADaljLidrkGvEs",
+          "name": "white zoo"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "4sTVWLbKdO4TmRzANMbOSn",
+          "name": "jonathan pitch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273641fdbce0e6002a29c571e00",
+      "uri": "spotify:album:5dwbWdHBBhgdhxMxioAIkE",
+      "name": "crank it up!",
+      "album_type": "single",
+      "release_date": "2015-02-26",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "37wHq5PzUSczR9mo2PLUVx",
+          "name": "neple"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9a77e7782c954714a850625",
+      "uri": "spotify:album:2HnARwuicKndjca6V1BXrb",
+      "name": "fairchild & striker",
+      "album_type": "single",
+      "release_date": "2014-09-30",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273589d462ff5adb3c3ff46302d",
+      "uri": "spotify:album:6FQSAwXjXkCucyciGSSg4D",
+      "name": "cannonball (earthquake)",
+      "album_type": "single",
+      "release_date": "2014-04-13",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351af7a0296bf415968dea1a7",
+      "uri": "spotify:album:6WAw5sEY9SKFrPij1tPNp2",
+      "name": "cannonball (earthquake) [the remixes]",
+      "album_type": "single",
+      "release_date": "2014-02-24",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734432c11e8fc02fa33f5bdd36",
+      "uri": "spotify:album:41IW6S3SElRbUXJ2LdqMNf",
+      "name": "thunderbolt",
+      "album_type": "single",
+      "release_date": "2014-01-24",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3XonXgjEAAXVl0WKLF1Z4g",
+          "name": "sidney samson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb82907cd2ab5225ea5522cf",
+      "uri": "spotify:album:5uAIF48dgDmvPnzwcjKeFM",
+      "name": "poing!",
+      "album_type": "single",
+      "release_date": "2013-12-10",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273564349e96eb85816e4c50fc9",
+      "uri": "spotify:album:0i4EspcJfJCaNBPOPli43M",
+      "name": "bring the bass (extended mix)",
+      "album_type": "single",
+      "release_date": "2013-03-08",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5334b5b7354c525e6651efe",
+      "uri": "spotify:album:4fabnyoFuUtoGFCtCqSKcb",
+      "name": "cannonball",
+      "album_type": "single",
+      "release_date": "2012-11-29",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3gk0OYeLFWYupGFRHqLSR7",
+          "name": "showtek"
+        },
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739882ba69cb9991f4b5de388f",
+      "uri": "spotify:album:03eVphwjL8kNwu1cBImKTe",
+      "name": "revolt / r!se",
+      "album_type": "single",
+      "release_date": "2012-06-26",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afe1da57cb1ed3036d44643c",
+      "uri": "spotify:album:37sJBPx67orEqbxjwX6BFY",
+      "name": "feel it",
+      "album_type": "single",
+      "release_date": "2012-05-07",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342530d791eea400ce83ef5bf",
+      "uri": "spotify:album:1Xrv6qQipjNBnc79R17w1n",
+      "name": "brisk",
+      "album_type": "single",
+      "release_date": "2012-03-12",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273227e1a2d6d206552a4bd5d24",
+      "uri": "spotify:album:4zotoE7fqLzmp7UV86sjqu",
+      "name": "freedom",
+      "album_type": "single",
+      "release_date": "2012-01-09",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b04dc3736feda48798d07de1",
+      "uri": "spotify:album:71jvCg77UMegdVpqTKuKDK",
+      "name": "secrets",
+      "album_type": "single",
+      "release_date": "2011-12-12",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TFdkHvlyUVl9zrb4seHxJ",
+          "name": "justin prime"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:54.000Z"
+}

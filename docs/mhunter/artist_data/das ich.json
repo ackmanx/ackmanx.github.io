@@ -1,0 +1,305 @@
+{
+  "name": "das ich",
+  "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+  "uri": "spotify:artist:7LhCMNjTNM9R2a0fajH9l8",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb090fae6ef67ffe4dfff5f060",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "industrial rock",
+    "industrial metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1b78d290c2b5023f79ffb1c",
+      "uri": "spotify:album:5TLtPbwux1dbTn28wvSLvG",
+      "name": "fanal",
+      "album_type": "album",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349c454343454dc2c7b71f43d",
+      "uri": "spotify:album:3r8yT09JaDzzjp8Qje4YDS",
+      "name": "all i want (das ich remix)",
+      "album_type": "single",
+      "release_date": "2025-12-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0sihUgNjtwDbiNP1GPU0nO",
+          "name": "diva destruction"
+        },
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df0b389930d91bf303979bf9",
+      "uri": "spotify:album:6gzEF5ZEVWyyTX9MOIeIhF",
+      "name": "ad vitam aeternam",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5da041eff218769d5d6fb61",
+      "uri": "spotify:album:0H26ebJocNafWkLMVvdnry",
+      "name": "brutus",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a968d54b7a4fcab22a576af3",
+      "uri": "spotify:album:5dJkSliE8XtS2RY4UTj7lS",
+      "name": "lazarus",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baaa0760664044c1ff5e73d6",
+      "uri": "spotify:album:6jcXBXxvAtF7jpoH8PlXve",
+      "name": "gottes tod",
+      "album_type": "single",
+      "release_date": "2024-03-18",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc84f7c28d04d61ff298d2b7",
+      "uri": "spotify:album:2ptAnaSZtdXQBaz3Tk177V",
+      "name": "koma (demos 2012)",
+      "album_type": "album",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd2fdcdbec7e4c6d77402261",
+      "uri": "spotify:album:5DvZeZUnH8QlZXS2xe3cUp",
+      "name": "feuer",
+      "album_type": "album",
+      "release_date": "2010-03-12",
+      "release_year": "2010",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f80664a833f5df37cd20a8b1",
+      "uri": "spotify:album:1CN8hDApxMtHseGxibjbFl",
+      "name": "re laborat",
+      "album_type": "album",
+      "release_date": "2010-03-05",
+      "release_year": "2010",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b221fb1af5b2ddb744efc63a",
+      "uri": "spotify:album:5vjQ4ctzP4VdLYeMt3J410",
+      "name": "das innere ich",
+      "album_type": "album",
+      "release_date": "2010-03-04",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c666fd9836a9f0dd2a42c20b",
+      "uri": "spotify:album:052MakJyE8qMgxPUZGfNB7",
+      "name": "staub",
+      "album_type": "album",
+      "release_date": "2010-03-04",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ab288f862c1d53a460179a8",
+      "uri": "spotify:album:3zvMcUZhWcuejkY5BdD15x",
+      "name": "kannibale",
+      "album_type": "album",
+      "release_date": "2008",
+      "release_year": "2008",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e5ebabd2ba835cf2cfac833",
+      "uri": "spotify:album:4MsVCrfWSoGtPIpwf0Fuf3",
+      "name": "alter ego",
+      "album_type": "album",
+      "release_date": "2007-07-10",
+      "release_year": "2007",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b8f78eaebb776fa8f0331d1",
+      "uri": "spotify:album:1ocQWf467VMFqEcnpChdhw",
+      "name": "cabaret",
+      "album_type": "album",
+      "release_date": "2006-04-25",
+      "release_year": "2006",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d52dacde942a021a6ce1153",
+      "uri": "spotify:album:69p5RIuTDjfCdXdKXdKgNT",
+      "name": "anti'christ",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370fbb1cdb02c4ff051d7ce63",
+      "uri": "spotify:album:6I43e6gyZOXUmhF6YMmzxt",
+      "name": "egodram",
+      "album_type": "album",
+      "release_date": "1998-01-30",
+      "release_year": "1998",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273561726e81466f8ee43f98dc4",
+      "uri": "spotify:album:7sOvDzAWwLCZggs52TEMfI",
+      "name": "egodram",
+      "album_type": "album",
+      "release_date": "1998",
+      "release_year": "1998",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0ae846b30152ee661946a0e",
+      "uri": "spotify:album:5wVVWbTONrvjlvyWVnF5wb",
+      "name": "morgue",
+      "album_type": "album",
+      "release_date": "1998",
+      "release_year": "1998",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323d22af39e49af030d92a590",
+      "uri": "spotify:album:7tM76HiY5rbN8ODI4tE1x1",
+      "name": "die propheten",
+      "album_type": "album",
+      "release_date": "1991",
+      "release_year": "1991",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7LhCMNjTNM9R2a0fajH9l8",
+          "name": "das ich"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:06.000Z"
+}

@@ -1,0 +1,115 @@
+{
+  "name": "imphenzia",
+  "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+  "uri": "spotify:artist:5hpmgV0q54hRfPIdBZZcn8",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273dfcbea0d31bd8ff241b2e408",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273107176b71535a3ce5dfdf39c",
+      "uri": "spotify:album:4y52vfhhn7xufKfH5Cuh7w",
+      "name": "state of confusion",
+      "album_type": "single",
+      "release_date": "2025-04-10",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273251c1e475c990c2f7f1934db",
+      "uri": "spotify:album:7eD9uSKPU2z7vQlA1Gb3zO",
+      "name": "bit batch (imphenzia games soundtrack)",
+      "album_type": "album",
+      "release_date": "2019-12-08",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b6f8e52848481bf69ba4385",
+      "uri": "spotify:album:4wHlDQSHIuRiNuGIwDFQKA",
+      "name": "restitution",
+      "album_type": "single",
+      "release_date": "2019-12-08",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273756a2cba740fde19e900fd10",
+      "uri": "spotify:album:1OfP46jlSRcsRDlkIgSw3R",
+      "name": "chillout",
+      "album_type": "album",
+      "release_date": "2016-05-19",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfcbea0d31bd8ff241b2e408",
+      "uri": "spotify:album:0uZBwhjK04S9YW1U7EEKv0",
+      "name": "game music vol 1",
+      "album_type": "album",
+      "release_date": "2016-05-19",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327f0e4b1cd5d231850e2dd89",
+      "uri": "spotify:album:2NhHhCl5pBYJstr2Hb68Pm",
+      "name": "i am imphenzia",
+      "album_type": "album",
+      "release_date": "2016-05-19",
+      "release_year": "2016",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f2b53e808ab1d2dd5f59b47",
+      "uri": "spotify:album:04JHjlDDR6ExHATB58pg5r",
+      "name": "piano",
+      "album_type": "album",
+      "release_date": "2014-12-08",
+      "release_year": "2014",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5hpmgV0q54hRfPIdBZZcn8",
+          "name": "imphenzia"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:02.000Z"
+}

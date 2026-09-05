@@ -1,0 +1,42 @@
+{
+  "name": "camping im keller",
+  "spotify_id": "1EqjMnUkwH4HCsyysONZ6F",
+  "uri": "spotify:artist:1EqjMnUkwH4HCsyysONZ6F",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2730d001faa300c9fe01312376f",
+  "genres": [
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de6e660518f8b119621ef414",
+      "uri": "spotify:album:7h8PkHbuRrzHcCmUUdFgZz",
+      "name": "suende",
+      "album_type": "single",
+      "release_date": "2011-07-29",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1EqjMnUkwH4HCsyysONZ6F",
+          "name": "camping im keller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d001faa300c9fe01312376f",
+      "uri": "spotify:album:6ipw5gxaUcXFMy7gT9sIxG",
+      "name": "am puls der zeit",
+      "album_type": "album",
+      "release_date": "2009-07-24",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1EqjMnUkwH4HCsyysONZ6F",
+          "name": "camping im keller"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:39.000Z"
+}

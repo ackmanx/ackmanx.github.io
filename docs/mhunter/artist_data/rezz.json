@@ -1,0 +1,1450 @@
+{
+  "name": "rezz",
+  "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+  "uri": "spotify:artist:4aKdmOXdUKX07HVd3sGgzw",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb31e4af683fea450c23fba5b0",
+  "genres": [
+    "dubstep",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a4285dfe5b50e9fdb613868",
+      "uri": "spotify:album:4pP4LpGODBkVbsCUWDCfMa",
+      "name": "in the mirror",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "1QURUQjhi5b4mntALhEhoQ",
+          "name": "colleen d'agostino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abf0f27df96c96b7b66d659c",
+      "uri": "spotify:album:1p0swVFMZ8dgXLHfydcF8Q",
+      "name": "a shift in perspective",
+      "album_type": "single",
+      "release_date": "2026-04-08",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a4239816bc0c07a5b78716a",
+      "uri": "spotify:album:6lAZHBlWEvprlhgX4pMKWN",
+      "name": "sick fuck",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273823d45bce0667815a7f5479c",
+      "uri": "spotify:album:0LqvCQ7bp65mVsHYUGakWE",
+      "name": "circuit",
+      "album_type": "single",
+      "release_date": "2026-02-18",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "5flDeddXEgK6WWsI6PZk3d",
+          "name": "limbo slice"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273477215d62384a7b666d947d5",
+      "uri": "spotify:album:2fYgTUiCfxSlMaFfZrHE1u",
+      "name": "selector (2025 remake)",
+      "album_type": "single",
+      "release_date": "2025-11-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8d1600e02398bab17397331",
+      "uri": "spotify:album:6lWtjIwHMyJdZlRaiGwVnd",
+      "name": "as the pendulum swings",
+      "album_type": "album",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a845649a2773d814f8ec596e",
+      "uri": "spotify:album:56GYEM8JHJ3wJUgdXN7Hnt",
+      "name": "delirium",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "51uDrZyIi2uBfF9k4PjnSy",
+          "name": "isqa"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355523fbce62825b370780ed2",
+      "uri": "spotify:album:2Bgptkn7p0baaxAnZeb9CG",
+      "name": "how i do it",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "5R3Hr2cnCCjt220Jmt2xLf",
+          "name": "dillon francis"
+        },
+        {
+          "spotify_id": "13OXgp0fFDhWRPSXnN8yLT",
+          "name": "brvmes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326012a8cad3fc8147bf5dda7",
+      "uri": "spotify:album:6byRgq13txjv0K5y8zdeTE",
+      "name": "incantation",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24d62a25d9b2561ce7dc1af",
+      "uri": "spotify:album:0AeQ5orrEu7mA1KRy3ztoU",
+      "name": "substance",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "714O3xvBNiclo82vxBn8Bf",
+          "name": "k?d"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5cb589118cf8d4b74652515",
+      "uri": "spotify:album:3KctfGyHYmkrDctBXWf3yR",
+      "name": "zone",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b790e5c51a74a48cd9ef163",
+      "uri": "spotify:album:5Ab6nQ9lH6UsBy3IenRuly",
+      "name": "downward",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273117f076d1a653d486571f350",
+      "uri": "spotify:album:5ZZaeoU9S11FSKSYYxn0US",
+      "name": "glass veins",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "2spFq4vwnf6DXIl5iJOkaJ",
+          "name": "cable"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348e678eafff6fbf0be4097c1",
+      "uri": "spotify:album:1lYOAexnj4ZwKHofhvWBAn",
+      "name": "prophecy",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273160074a574b37a9b81f0e4d8",
+      "uri": "spotify:album:6BVtOKSegIgu4IweeVv5Np",
+      "name": "telepathy",
+      "album_type": "single",
+      "release_date": "2025-05-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4gJ3UKYnmB63uNuqlcAhTA",
+          "name": "chuurch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731294e10c3797e99d5ac39b6d",
+      "uri": "spotify:album:4F1kwA5jCOMjf4ew9IOOzv",
+      "name": "contorted",
+      "album_type": "single",
+      "release_date": "2025-04-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c221bfaa0e54ce6ca012706",
+      "uri": "spotify:album:4gBJjFkaRK6RRatiynUqUf",
+      "name": "love you 'til i'm dead (feat. rezz)",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346ee8bbd9ad4fbe75e264578",
+      "uri": "spotify:album:0QlP7kHVx4TNJtz2a4mm83",
+      "name": "novus",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "6AxbrEv8tfYDYlm82VXe0R",
+          "name": "x1-y2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273351fc2ad7f680e31353da880",
+      "uri": "spotify:album:5waNDGxDsidfGG5PzJlji0",
+      "name": "give in to you",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4FXGRMSHh2JjHxVwS8dhH1",
+          "name": "virtual riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bc84a8c1b85a389c2f07acd",
+      "uri": "spotify:album:78QT9gPnYCCMWyuaHKU9gP",
+      "name": "edge",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739157ba91f890018ad690a2db",
+      "uri": "spotify:album:2bwviFnNwTJJ49tkxEf0fQ",
+      "name": "edge (2024 version)",
+      "album_type": "single",
+      "release_date": "2024-05-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376b30fcf6eb72b6cbe8569c1",
+      "uri": "spotify:album:2gnr6cs8MEKscvCwZGpRJG",
+      "name": "black ice (feat. phantogram)",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "phantogram"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e6e86bf9f564c31dcb7e89c",
+      "uri": "spotify:album:6tQ1vjB7ZXy8sKkGEtHs1X",
+      "name": "can you see me?",
+      "album_type": "album",
+      "release_date": "2024-03-14",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a64b685b49c2509f8f47fca",
+      "uri": "spotify:album:6HPW31iSmKi1VT7uEsGO6l",
+      "name": "cut me out",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "1uzNrmjOsClb1k7DYwUlIX",
+          "name": "digital ethos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353c66b9b4324af0880276cc3",
+      "uri": "spotify:album:20AxOcGBobezLF0ATYVjjb",
+      "name": "exorcism",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "2pvfGvbL4mouaDY9ZSwUmv",
+          "name": "kavari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2b58337b129fb270ec87bb4",
+      "uri": "spotify:album:44Eaag0CZ6opP7S8ykhpys",
+      "name": "maleficent",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b3023d045648c52b95530a3",
+      "uri": "spotify:album:4s8kdjDBcYjWH2gpiCUeHd",
+      "name": "open ur eye",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "1vOTVnnyLvVTeuwrZLghCN",
+          "name": "cyclops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273262013f6c7882b75e540b3bc",
+      "uri": "spotify:album:16Ujvam6Ml9Sl8yHB548bZ",
+      "name": "the descent",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebfd6c28ea0eb3ad6cb9ac27",
+      "uri": "spotify:album:7CDvBUVzkXMUFJN69ZasQ7",
+      "name": "everywhere, nowhere",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273473033dd42dc171495b613c1",
+      "uri": "spotify:album:1tiNJggspDrowgtBP4w25O",
+      "name": "can you see me?",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383359692891041d1f5eaf633",
+      "uri": "spotify:album:3Kb1pVUl5FlOTf55LkBZRe",
+      "name": "dysphoria",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "65stAzefvkwLeulY8215Zo",
+          "name": "holly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336c202616949f841fdbf6d7f",
+      "uri": "spotify:album:24bVVflh1w44yZSCZBtMME",
+      "name": "black ice",
+      "album_type": "single",
+      "release_date": "2024-01-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d579313d0b8cb47df6f3c45",
+      "uri": "spotify:album:5crYO6MbmHmFPHW9G6hr3p",
+      "name": "all night",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "7aWpPjjgItUnXljFxYYKZI",
+          "name": "deathbyromy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4a6a304e1961b2e82274c0c",
+      "uri": "spotify:album:65zLfexyEDltFoQBsi0e7V",
+      "name": "blue in the face (kavari remix)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "6ADRET3UXTOmGBjjO67fNd",
+          "name": "shadient"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731633e5bcf08fba0f7e14dbef",
+      "uri": "spotify:album:1bMhIERmN1cgRjxfVGKV59",
+      "name": "infraliminal",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7m5U1YbhADGvZc2mIhfe1j",
+          "name": "rezzmau5"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "2CIMQHirSU0MQqyYHq0eOx",
+          "name": "deadmau5"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273050099cfcc101df653bef366",
+      "uri": "spotify:album:31u7eGvQ2ynpSTBG4FvteE",
+      "name": "haunted eyes",
+      "album_type": "single",
+      "release_date": "2023-07-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "57Vnemieu10x71jR2UWc4o",
+          "name": "mkla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b99e76de9b33ae09212f49fe",
+      "uri": "spotify:album:5etGhl198ycQOkK4mt8B1w",
+      "name": "it's not a phase",
+      "album_type": "single",
+      "release_date": "2023-07-20",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347246a090d12af6b19bd5add",
+      "uri": "spotify:album:1Hnn5WMNMYM7DBE1U9fdIR",
+      "name": "not enough",
+      "album_type": "single",
+      "release_date": "2023-07-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4ukk0IyB7vL97QirpOcNr3",
+          "name": "alice glass"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a25884348cc12151a7513e25",
+      "uri": "spotify:album:4hhmTA5VDMXfEyjDudkMBn",
+      "name": "embers",
+      "album_type": "single",
+      "release_date": "2023-06-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "3xnaiXk5TG9y2fchyrceAr",
+          "name": "raven gray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b171080c2fedb5af3d0ea431",
+      "uri": "spotify:album:6cEiwSWxau10hGkDHsYbhj",
+      "name": "signal",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cad4513c098dbf3fa5cbed8b",
+      "uri": "spotify:album:6UqdnruIxTdntsqhL9bSfW",
+      "name": "blue in the face",
+      "album_type": "single",
+      "release_date": "2023-04-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "6ADRET3UXTOmGBjjO67fNd",
+          "name": "shadient"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273298ad00ea53f99af9583c3c0",
+      "uri": "spotify:album:7HS540iPPvyiOIwDbPGQGc",
+      "name": "suffer in silence",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733237962cb3554a102edeec27",
+      "uri": "spotify:album:2QYJoHbkmHuWUiRxxcOeEd",
+      "name": "gyrate (ft. wreckno)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "1srU7GzSGHwG1ewjSv6ztq",
+          "name": "quackson"
+        },
+        {
+          "spotify_id": "6j78LtFLqDG65Ju57NUM5N",
+          "name": "wreckno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367a449405a0d3e30a262962e",
+      "uri": "spotify:album:5aRRt9zSKDEQdWghFvkiEi",
+      "name": "nightmare on rezz street 2 mix",
+      "album_type": "album",
+      "release_date": "2022-10-25",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9055e73536eb37eba83365f",
+      "uri": "spotify:album:6TCJvwsIvDhoSlJQEhWWKI",
+      "name": "sweet dreams (are made of this)",
+      "album_type": "single",
+      "release_date": "2022-05-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273743479ac66260626a234fe8c",
+      "uri": "spotify:album:3z3dPd3xRiO8cGESr2aF6M",
+      "name": "puzzle box",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7879474496711f094ae2d34",
+      "uri": "spotify:album:4UgTdPzJTP0HZYlsEjZ1Co",
+      "name": "spiral",
+      "album_type": "album",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa475b930ecccbb7b1ed2c0f",
+      "uri": "spotify:album:45mSRVs0LHBWnFWlKnCbW7",
+      "name": "let me in",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fHFFvChjfjG7sAseTwiXd",
+          "name": "fknsyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736969b01d61c470d8083b0913",
+      "uri": "spotify:album:4HAEHinatEsoXSDd4rBQy6",
+      "name": "chemical bond",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "09C3CKFxKEw1n1Z7kvT3jb",
+          "name": "deathpact"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b01fb6524b69d3c1044fa82f",
+      "uri": "spotify:album:6OcfV7fsmHKyV8wXMzXvei",
+      "name": "taste of you",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "2W8yFh0Ga6Yf3jiayVxwkE",
+          "name": "dove cameron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbb1cfb4a7f2c824e411ad68",
+      "uri": "spotify:album:5WGXClFl1fEN2QOOZ8pp8N",
+      "name": "hypnocurrency",
+      "album_type": "single",
+      "release_date": "2021-04-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "2CIMQHirSU0MQqyYHq0eOx",
+          "name": "deadmau5"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f914631a5e7d69e4a2938e24",
+      "uri": "spotify:album:66jlZyvN4g2VBo9RNDYrOS",
+      "name": "sacrificial",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "6oFs3qk4VepIVFdoD4jmsy",
+          "name": "pvris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273100d9703f27084a5e64fa67a",
+      "uri": "spotify:album:6xX6akGxJYuKvjVRvhp63b",
+      "name": "orbit",
+      "album_type": "single",
+      "release_date": "2020-10-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c6c7f2879dc13a5372ec7ff",
+      "uri": "spotify:album:1CxrLWDUvfOaKHNsKGfUQ1",
+      "name": "someone else (peekaboo remix)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734417de54e46197d2643dfd61",
+      "uri": "spotify:album:3eXsyG5eK0VMeBMSfAVZPI",
+      "name": "someone else (underoath remix)",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        },
+        {
+          "spotify_id": "3GzWhE2xadJiW8MqRKIVSK",
+          "name": "underoath"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273962e102e5fc6a9676bb65022",
+      "uri": "spotify:album:1wF4qlinlRexwPDuWgNIlD",
+      "name": "someone else (malaa remix)",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        },
+        {
+          "spotify_id": "7w1eTNePApzDk8XtgykCPS",
+          "name": "malaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f6da0bbb86a97c0870822ea",
+      "uri": "spotify:album:43PrBCExe9DKwdI9TJKAtc",
+      "name": "someone else",
+      "album_type": "single",
+      "release_date": "2020-04-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394b3455536e099d6eb1a785f",
+      "uri": "spotify:album:0iPD7Qr7nagkhzLUN9JQek",
+      "name": "into the abyss",
+      "album_type": "single",
+      "release_date": "2020-02-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb953e9b39bd08b2efa53ad0",
+      "uri": "spotify:album:3DDkiGXNa5PGzKIQCeRUta",
+      "name": "kiss of death",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "09C3CKFxKEw1n1Z7kvT3jb",
+          "name": "deathpact"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730696e4cd9934c22558c13916",
+      "uri": "spotify:album:6s01oJfNMzklI98wT7YgDU",
+      "name": "falling",
+      "album_type": "single",
+      "release_date": "2019-06-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "3GzWhE2xadJiW8MqRKIVSK",
+          "name": "underoath"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cc969541bac63c21762985f",
+      "uri": "spotify:album:3KjyZJLO5lljzF37UEoznT",
+      "name": "dark age",
+      "album_type": "single",
+      "release_date": "2019-05-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cdbb22b0e8c15f2218c4919",
+      "uri": "spotify:album:3pYfGgnd7jxga8VzEMOniD",
+      "name": "beyond the senses",
+      "album_type": "single",
+      "release_date": "2019",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a94be950d8f23c6e3d28350",
+      "uri": "spotify:album:0co5pY2CuxxRCWeSJRGn7x",
+      "name": "criminals",
+      "album_type": "single",
+      "release_date": "2019",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "7w1eTNePApzDk8XtgykCPS",
+          "name": "malaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3e5c2d064b7d74d0a0a94d",
+      "uri": "spotify:album:2BRkDmh59BD4RJuoHopbuE",
+      "name": "hell on earth",
+      "album_type": "single",
+      "release_date": "2019",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "3n2H1XlCyS1WQ0vyVUFEma",
+          "name": "yultron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6459eb0d690f397df4abb8",
+      "uri": "spotify:album:5lAdTf0etESLkx0MZPZ4e6",
+      "name": "nightmare on rezz street",
+      "album_type": "album",
+      "release_date": "2018-10-22",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf161e96009eaea3a23775a5",
+      "uri": "spotify:album:1RZgsR021Z01suDqAzQ12K",
+      "name": "certain kind of magic",
+      "album_type": "album",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334147840e0a71c119e8c4dea",
+      "uri": "spotify:album:5rR00DGlq72jET07qch0Ii",
+      "name": "flying octopus",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6a9ca1c49c8c821d26d4c39",
+      "uri": "spotify:album:1MY4vIevXLPC4Lw49rZ87d",
+      "name": "h e x",
+      "album_type": "single",
+      "release_date": "2018-06-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731913a92c108fcd7a1602aa1a",
+      "uri": "spotify:album:2QFEoJwFUBtDNUEpZDU9dr",
+      "name": "witching hour",
+      "album_type": "single",
+      "release_date": "2018-06-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9d2504e37a695dfd19457e",
+      "uri": "spotify:album:71yu5Ae9xvnle3s0Bz38eX",
+      "name": "mixed signals",
+      "album_type": "single",
+      "release_date": "2018",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af76c756f360cfdd01600a85",
+      "uri": "spotify:album:7xIPezmXsrbeMHdP7Aybfg",
+      "name": "mass manipulation",
+      "album_type": "album",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ad5217ca3c34392ab537986",
+      "uri": "spotify:album:4imS7KhzsClepoJSbRkjis",
+      "name": "clear (rezz remix)",
+      "album_type": "single",
+      "release_date": "2017-05-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20yuGdfbRkW0HH3OfG1Nkg",
+          "name": "no mana"
+        },
+        {
+          "spotify_id": "3fPtlnrodxfDcyb4XaEdfa",
+          "name": "zashanell"
+        },
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317189ee8a608846e983232f6",
+      "uri": "spotify:album:5tg9MQgNTkyhMVXsIYuC5R",
+      "name": "i",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0ae817956c8b6314d18e3aa",
+      "uri": "spotify:album:6naQ9F5OVV01g4mkmc7TnF",
+      "name": "fourth impact",
+      "album_type": "single",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "714O3xvBNiclo82vxBn8Bf",
+          "name": "k?d"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f2de3116627adc7b64c00d2",
+      "uri": "spotify:album:0whyWtalB6vG6Jd1l8pV9R",
+      "name": "something wrong here",
+      "album_type": "single",
+      "release_date": "2016-10-07",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ae01c157235836ac0cfb9ab",
+      "uri": "spotify:album:58ljz1FEzZCbL6NXEOeOpM",
+      "name": "purple gusher",
+      "album_type": "single",
+      "release_date": "2016-09-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273706011be5f2970d41fbccc9d",
+      "uri": "spotify:album:23SyOM5sa8rCcUiNsE2qCv",
+      "name": "the silence is deafening",
+      "album_type": "single",
+      "release_date": "2016-01-22",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c489eccded7b216a1f0f5804",
+      "uri": "spotify:album:7sgLXjAtfIsK5ZF71FEevm",
+      "name": "alien",
+      "album_type": "single",
+      "release_date": "2016",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "5RXdPHNmsB6OQn8rUyRQtl",
+          "name": "raito"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738934e461242ddf01d7d67d0f",
+      "uri": "spotify:album:2bKLRbbXsiZbTWMDHa6AkB",
+      "name": "insurrection",
+      "album_type": "single",
+      "release_date": "2015-07-20",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:36.000Z"
+}

@@ -1,0 +1,862 @@
+{
+  "name": "sully",
+  "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+  "uri": "spotify:artist:1bFUHThVEOIixkg7pKJ6VK",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb0a9458f51195c943330cb948",
+  "genres": [
+    "dubstep",
+    "bass music",
+    "riddim"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cc8586d913893b6190b8146",
+      "uri": "spotify:album:43RbSseg8UTZ9Ypy8NwHxp",
+      "name": "sweat",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "4Kf9ZowsOBySwBkaUNh2ut",
+          "name": "jiqui"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ededf8377b16640bc43e22fe",
+      "uri": "spotify:album:1Xua1uf9DhUlYfNjh9rztu",
+      "name": "disconnect",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273210ce8310721fd3bedd1a6ce",
+      "uri": "spotify:album:1iyCLMBGBwng9whR68b5j0",
+      "name": "run",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "6OabPCZQ3SpVBtpqiK2lyu",
+          "name": "gunpoint"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e19d23048fdd0e2ac9f0c6d5",
+      "uri": "spotify:album:0Ec9FZABcz2dQUmlLv6QQB",
+      "name": "temperature",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "0T8PFaa4SnSE2VyKYN5E4N",
+          "name": "chozen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d37a03c08037bda2c7927eac",
+      "uri": "spotify:album:7JdbsYo6DFOfMTrBZS0wUL",
+      "name": "shake",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d63726a79b23e1d5b60645a6",
+      "uri": "spotify:album:1k7yZdnuKtsURDAIcCNH09",
+      "name": "no signal",
+      "album_type": "single",
+      "release_date": "2026-03-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e922c6f17456e9b0e28ee950",
+      "uri": "spotify:album:0yJRqtnWLAhi6mp01tK2aG",
+      "name": "on the go",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mVwDyQRNVMy3ZNuTabf6f",
+          "name": "champagne drip"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5d55b1461bf93658b5d38a2",
+      "uri": "spotify:album:17ySQranWlQK63Eyd7KXw8",
+      "name": "kung fu",
+      "album_type": "single",
+      "release_date": "2025-09-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730860f2e8c8f97f747abd0191",
+      "uri": "spotify:album:4DfaakAFpcpkgq3YSNwj0O",
+      "name": "liar",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d47db7fc1c71dc77ea8ac2d8",
+      "uri": "spotify:album:1Cnd7bE7fVlqAqXjf2cvUC",
+      "name": "head rock",
+      "album_type": "single",
+      "release_date": "2025-07-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6JU4RsXcN7rLafs39HwFxf",
+          "name": "mersiv"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "3OyUmeS7InBZFjCduVVhGa",
+          "name": "nat james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caf00bd2e026eb2abc0d910b",
+      "uri": "spotify:album:2ywIYHD4q5fKekm4v1ESZd",
+      "name": "dynamite",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YJsSCuag8W1TFTgSeEc2k",
+          "name": "liquid stranger"
+        },
+        {
+          "spotify_id": "0HTe090uRvK2wjx8rdIOl3",
+          "name": "sukuward"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f84852a0d72a3e0eb790623",
+      "uri": "spotify:album:02dhPSTWLTNeVjyplTQBiG",
+      "name": "up top",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "07CimrZi5vs9iEao47TNQ4",
+          "name": "flowdan"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273967cf1bd9f2036f631066fe2",
+      "uri": "spotify:album:1yhUxyUJ6YV6etU9UfFow1",
+      "name": "ear candy",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "4Ok1Cm5YX5StCQZgH0r2xF",
+          "name": "peekaboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273804a2ae0776bc936142043e9",
+      "uri": "spotify:album:1Zym2qfQtJb2Ega5D2JS1h",
+      "name": "walk to the sun",
+      "album_type": "single",
+      "release_date": "2024-08-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YJsSCuag8W1TFTgSeEc2k",
+          "name": "liquid stranger"
+        },
+        {
+          "spotify_id": "4gkZO2kbnE03K8xGmZ2DJu",
+          "name": "crooked bangs"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f6befb0e9751d87c23f88a5",
+      "uri": "spotify:album:4gDA7I6jeu6hVkDek6fHwE",
+      "name": "wild (shanghai doom remix)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vfvYuEyJbh1Tf3QlOTAmZ",
+          "name": "ravenscoon"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "0663ucUX5KdVY18dEYe0KC",
+          "name": "shanghai doom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ea3dafe2d65c32ef9630a74",
+      "uri": "spotify:album:01ip3bMMo5fhWPGkXAZthN",
+      "name": "entropy",
+      "album_type": "single",
+      "release_date": "2024-04-30",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a655b13a465eed3feb655f69",
+      "uri": "spotify:album:2nVMlgjXKgeUUGgEAdLlcy",
+      "name": "altered underground (remixes)",
+      "album_type": "album",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736481b20e01aa3a6aead1ca67",
+      "uri": "spotify:album:4A5jtQe5lrqxCiTYou3fR0",
+      "name": "altered underground (vip)",
+      "album_type": "album",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd9c76e550457eb7ecaeb03d",
+      "uri": "spotify:album:56FFaTKemwqcopyh4bXub2",
+      "name": "digital underground",
+      "album_type": "album",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273848e2550cbd3c8d0e87df355",
+      "uri": "spotify:album:5H3ae61qiVQGKWGHZMHogt",
+      "name": "seasons",
+      "album_type": "single",
+      "release_date": "2023-06-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "1DbEQeF7ssOqCMwr6B9jPt",
+          "name": "misdom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300cccebf4c762da83f196589",
+      "uri": "spotify:album:4o9ni7tc40sBDwaGqX110S",
+      "name": "shades of black",
+      "album_type": "single",
+      "release_date": "2023-06-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "0YnzCeDmamnbE9835jFuDu",
+          "name": "iora"
+        },
+        {
+          "spotify_id": "0e35qB87R4rgIfDysLHzAV",
+          "name": "jessy covets"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebcc8441259a42221992ccfd",
+      "uri": "spotify:album:5hw19HT7KFI09OljJJonYh",
+      "name": "shot callin",
+      "album_type": "single",
+      "release_date": "2023-06-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "6409kgOB4tZEkNZci6BiUs",
+          "name": "smoakland"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bdb0163687a019e71f22058",
+      "uri": "spotify:album:3d245HhV3wplKY0jJ7qj61",
+      "name": "submersed",
+      "album_type": "single",
+      "release_date": "2023-06-13",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396710967c39f7c34d83db9ec",
+      "uri": "spotify:album:0mj6225AS4upzb25L95BpA",
+      "name": "scuba",
+      "album_type": "single",
+      "release_date": "2023-05-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273942b3792f79612e7d73a08a8",
+      "uri": "spotify:album:1Y7XTqyNmMflkVxWlLOBmz",
+      "name": "buckle up",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "6Cqy862jSCV7qdNrCDqvNK",
+          "name": "hairitage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc4fbabf17edf2074309406a",
+      "uri": "spotify:album:2rI2B6XcMV4S8LhwuKmp10",
+      "name": "hardwire",
+      "album_type": "single",
+      "release_date": "2022-10-11",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123a74005f46d983e3775129",
+      "uri": "spotify:album:6KFacL6rC3tHeLG8ROwBP0",
+      "name": "more more more (sully remix)",
+      "album_type": "single",
+      "release_date": "2022-07-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a09c95acf740a541fa68c4e8",
+      "uri": "spotify:album:1t4ddEt8bpPX5Vs9TaLHFi",
+      "name": "encrypted",
+      "album_type": "single",
+      "release_date": "2022-06-28",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cf35fed3748a05c5b9db04d",
+      "uri": "spotify:album:6fwDUzR5zJADU2FasFgU67",
+      "name": "deeper",
+      "album_type": "single",
+      "release_date": "2022-05-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370968356d4283a41893f59f8",
+      "uri": "spotify:album:5I2dhWxwsVoz8uG7ZzRL0F",
+      "name": "king kong",
+      "album_type": "single",
+      "release_date": "2022-03-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273525b3beb954e60bca50340d1",
+      "uri": "spotify:album:4SxAZOgXlnsW5apfzHHTWy",
+      "name": "interflow",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        },
+        {
+          "spotify_id": "1jZuVcvrLxmzjg9K0TU53g",
+          "name": "superave."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4e82e20ce208c6095314534",
+      "uri": "spotify:album:1qiqc8oILKWptPPt4qtiFH",
+      "name": "fusion",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273976ece8d4176654c1e64a4fd",
+      "uri": "spotify:album:3N5cxIN3o3uZtJiHTnDuEB",
+      "name": "how much further",
+      "album_type": "single",
+      "release_date": "2021-09-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8445a97a3310d82d31398a0",
+      "uri": "spotify:album:3LE1rE0VHuKqwvC3Pb0eHn",
+      "name": "back it up",
+      "album_type": "single",
+      "release_date": "2021-08-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c938719778d7c0975c879187",
+      "uri": "spotify:album:5sLKxgHWgsf7PTrMQwfSgB",
+      "name": "till gone day (sully remix)",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5czcqWtwZb5btfWWvWTmgZ",
+          "name": "the floozies"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f724d98e2f52768d4d82258f",
+      "uri": "spotify:album:2xgtbRR9YYue9zO1x9Ak8R",
+      "name": "malfunction",
+      "album_type": "single",
+      "release_date": "2021-06-29",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c868f7a5b0ba7f55b504584",
+      "uri": "spotify:album:6891OXqeRyWWJuNBAeg5Bm",
+      "name": "right about now",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302d05c36840b491f36924b57",
+      "uri": "spotify:album:0LG17MxtMhqLf1Lp2DOnfZ",
+      "name": "duck hummus",
+      "album_type": "single",
+      "release_date": "2020-07-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f08a5f801bfb38f8abb7811f",
+      "uri": "spotify:album:5K4eHonxARbfTIncduE6Ag",
+      "name": "double vision - sully remix",
+      "album_type": "single",
+      "release_date": "2020-05-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Ny7ldBgUotuALx5hSFi4e",
+          "name": "luzcid"
+        },
+        {
+          "spotify_id": "3mVwDyQRNVMy3ZNuTabf6f",
+          "name": "champagne drip"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273593f93eb81db66ed06ae3e75",
+      "uri": "spotify:album:1nHF6orwtuWk8D9fBVVDw6",
+      "name": "brainstorm ep",
+      "album_type": "single",
+      "release_date": "2020-04-03",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1c32bb9afca7a6bf6f332db",
+      "uri": "spotify:album:1zQywlXkIJB9nrOl9SxPsD",
+      "name": "frequency shift (vip)",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374b425d85dfa0f70a5a7e82a",
+      "uri": "spotify:album:1Lbx6loAoOAr1BlkfO5IhS",
+      "name": "clique",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ZpPLGn0OkRMl2Y9Twn16K",
+          "name": "g-rex"
+        },
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c7d97ea68283c9bf2fbec7d",
+      "uri": "spotify:album:0OuoimZpsHsWaKovoxqX4b",
+      "name": "break the floor",
+      "album_type": "album",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732717e8bfc457dedb30683cf6",
+      "uri": "spotify:album:7tUy1d6phVPIyqfR89evQg",
+      "name": "break the floor ep",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303fb4fe5b180b5ef54fc7728",
+      "uri": "spotify:album:2ErDI6SWM8EHzM6AgrgKCU",
+      "name": "quake",
+      "album_type": "single",
+      "release_date": "2019-08-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfaa7367862a4d0499a31a9c",
+      "uri": "spotify:album:1p064bpfKcBL1K8RRCWFLu",
+      "name": "coast to coast",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef71ce317420c0ead0a523b5",
+      "uri": "spotify:album:1WgRoPtwbzP9cAMXDCFr0x",
+      "name": "break the floor",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300403caa8a6fd87d389f125f",
+      "uri": "spotify:album:4m8MZq28qV0mxnNOqClZnV",
+      "name": "frequency shift",
+      "album_type": "single",
+      "release_date": "2019-03-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bFUHThVEOIixkg7pKJ6VK",
+          "name": "sully"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:15.000Z"
+}

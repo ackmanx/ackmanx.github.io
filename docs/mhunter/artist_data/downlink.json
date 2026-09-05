@@ -1,0 +1,721 @@
+{
+  "name": "downlink",
+  "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+  "uri": "spotify:artist:6ynSq3csnauyqZeQgfuWWt",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebea332bab6c50eed9b49f8889",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "deathstep",
+    "dub",
+    "riddim",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f212cc58fc13772233bdd99",
+      "uri": "spotify:album:7ykNfGVAQCUy4493L6XXxT",
+      "name": "robo kitty (dubscribe remix)",
+      "album_type": "single",
+      "release_date": "2020-12-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "2jQWqQ0Z06KiQnysJHn5Mq",
+          "name": "dubscribe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8d3b1693d40d774bdc9c188",
+      "uri": "spotify:album:0w3uuHQhNqWXtK3IXR173B",
+      "name": "resistance",
+      "album_type": "single",
+      "release_date": "2020-06-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6c3447feda83934cbbc8b8e",
+      "uri": "spotify:album:31AE8xdrxmi6ThMwjHVwVQ",
+      "name": "threat / louder remixes",
+      "album_type": "single",
+      "release_date": "2019-03-11",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273872725a719206b97493367a6",
+      "uri": "spotify:album:2nNCH7Rv3Ws50SIcxzMo7T",
+      "name": "threat ep",
+      "album_type": "single",
+      "release_date": "2018-09-10",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732041ca19d7047902b93fa3be",
+      "uri": "spotify:album:2HRmsRUZVuWsRoZ3Hw65iM",
+      "name": "absolute fire",
+      "album_type": "single",
+      "release_date": "2018-03-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9f4dce8d9b6b7ef5787b0f7",
+      "uri": "spotify:album:2ygBzuLl7xzjYB36QWxcjJ",
+      "name": "bass war",
+      "album_type": "single",
+      "release_date": "2017-07-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbd3d4ed898da76ad0197a0a",
+      "uri": "spotify:album:5QHBlRnnXh7MyfDF40r9be",
+      "name": "mosh pit remixes",
+      "album_type": "single",
+      "release_date": "2017-06-15",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273157953c45377dcd03aeea028",
+      "uri": "spotify:album:40VPGjntFPB0j0jkUpHovn",
+      "name": "mosh pit",
+      "album_type": "single",
+      "release_date": "2016-10-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356dc8d68a9b93b358969cc4a",
+      "uri": "spotify:album:0XgKwQlCSscQzbGPOKMvHc",
+      "name": "misty vip",
+      "album_type": "single",
+      "release_date": "2016-02-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "57gGqESEggWfCpE3KOzdVa",
+          "name": "samplifire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319e08e5f1d8e79ff4cd6bea4",
+      "uri": "spotify:album:33ygWobwUt71UcB6YyzsR0",
+      "name": "militant ep",
+      "album_type": "single",
+      "release_date": "2015-05-28",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afee82e03953d532cfc4efef",
+      "uri": "spotify:album:4an4MfyA202wugU4mSZzYp",
+      "name": "carcosa",
+      "album_type": "single",
+      "release_date": "2015-05-12",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3eqpqMxtBGLjalyirPxJe3",
+          "name": "dieselboy"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "61AmoJuVONSxfF22Sh9gXU",
+          "name": "mark the beast"
+        },
+        {
+          "spotify_id": "3ZZaJkLIwohJNIBrAOxjB5",
+          "name": "mayhem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/6eb3d50c77c9408a1de983919b4a842ff368cc5a",
+      "uri": "spotify:album:6gLh2gEJwjPZcgXYgklVv8",
+      "name": "hotel trap (mark the beast remix)",
+      "album_type": "single",
+      "release_date": "2015-04-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8f169e60cd6982bf637ec00",
+      "uri": "spotify:album:0nFHKb4GhNW8YcXFbWm0TT",
+      "name": "eliminator ep",
+      "album_type": "single",
+      "release_date": "2015-04-09",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2ssNiQ5EWRHl1otPL1RSW7",
+          "name": "davip"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731132573b019823589a75dc5e",
+      "uri": "spotify:album:0M7b0vFxM1PKh7RtmfSE6Z",
+      "name": "darkside",
+      "album_type": "single",
+      "release_date": "2015-03-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "1asbfF9hEww6bbo0mr2pye",
+          "name": "twofold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e68fc90468f4551e1dd9ea69",
+      "uri": "spotify:album:2c3tvyFQvMVO5FsUTHnazQ",
+      "name": "robo kitty",
+      "album_type": "single",
+      "release_date": "2015-02-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b543c87711a9dab14075e5b3",
+      "uri": "spotify:album:33SZp47wlcf6Q4jpayWxAa",
+      "name": "deep space",
+      "album_type": "single",
+      "release_date": "2014-08-12",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0940098ce32a5c40c293a98",
+      "uri": "spotify:album:0si3bGCvplgb6l4R7EP2ZP",
+      "name": "destroid - the invasion remixes",
+      "album_type": "album",
+      "release_date": "2014-05-26",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd20f77e3f0da0ccfe9421ff",
+      "uri": "spotify:album:1k7Tkbu2kwf4FOXaO0tjcC",
+      "name": "the launch remixed",
+      "album_type": "single",
+      "release_date": "2014-03-04",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c5ebf16615b872edc2ff1d0",
+      "uri": "spotify:album:0xm1lfLe8sd6zwJGqGwE6F",
+      "name": "the launch",
+      "album_type": "single",
+      "release_date": "2013-10-01",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318fb65875fda52596c6fa64c",
+      "uri": "spotify:album:2iWcNvZ1gxWWBzw9JeZ2hD",
+      "name": "destroid - the invasion",
+      "album_type": "album",
+      "release_date": "2013-05-07",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bada6aa292488bda35a58734",
+      "uri": "spotify:album:1VnVEGYYTKM96qHOUkzJEe",
+      "name": "station seven (subshock remix)",
+      "album_type": "single",
+      "release_date": "2013-02-25",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae92e41cd03c791fa184f217",
+      "uri": "spotify:album:5xxUNCsue3JIXpUcQBrtVg",
+      "name": "raise your fist",
+      "album_type": "single",
+      "release_date": "2012-11-26",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "37PZXblQTqpEWGdjctNcGP",
+          "name": "space laces"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273954c27f46c556b130d932af0",
+      "uri": "spotify:album:3EKWwYkrCK6OviQ7T8GuFm",
+      "name": "in the zone",
+      "album_type": "single",
+      "release_date": "2012-09-17",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb0e837ffc55105c48a32a5d",
+      "uri": "spotify:album:656E6R7EnmDuwHlbegxKsT",
+      "name": "antimatter remix",
+      "album_type": "single",
+      "release_date": "2012-08-27",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f3491eb5d2fe903e36db5d8",
+      "uri": "spotify:album:6q3jd7n6jFfNvm2xJCUtQV",
+      "name": "crowd control remixes",
+      "album_type": "single",
+      "release_date": "2012-08-13",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730dfaa67900c558868873674a",
+      "uri": "spotify:album:2UYMlRXrKh2NilxjFJei8N",
+      "name": "headbanga",
+      "album_type": "single",
+      "release_date": "2012-04-16",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cb7ae354ad6b420bbe99ba4",
+      "uri": "spotify:album:3shdFK0zsqYmzT8eH1rw3Y",
+      "name": "triphekta ep",
+      "album_type": "single",
+      "release_date": "2012-03-26",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384fa69ea9039a36b265a43fc",
+      "uri": "spotify:album:0qV2OG7Yf9CwP0c5MZWhf9",
+      "name": "downlink remixed ep",
+      "album_type": "single",
+      "release_date": "2012-02-27",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7e4c6c7267b5a3f6457454e",
+      "uri": "spotify:album:44RT1iFLzD4vTN8NNNQSIz",
+      "name": "before the sun",
+      "album_type": "single",
+      "release_date": "2011-12-19",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "0NFGsd1qpvYHXtkOvFSKd9",
+          "name": "ajapai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388878891d56a2f805c8c83bf",
+      "uri": "spotify:album:0Ys2RUPseOZMxzDwFa90zE",
+      "name": "the grid ep",
+      "album_type": "single",
+      "release_date": "2011-12-05",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7d1hTfjA4sLAhWjIo4W6nM",
+          "name": "calvertron"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        },
+        {
+          "spotify_id": "79Np0PnytUJmeG5VRhop9u",
+          "name": "messinian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323b8de5573aaf789527af46f",
+      "uri": "spotify:album:4PNfSmCCwcwr7mAx2Muw53",
+      "name": "crowd control",
+      "album_type": "single",
+      "release_date": "2011-11-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cef35fbacca88908064b4fe",
+      "uri": "spotify:album:5O1XFFq1es0l3V7N9g7qOV",
+      "name": "factory vip",
+      "album_type": "single",
+      "release_date": "2011-11-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3be813635c6b636f778278d",
+      "uri": "spotify:album:2XJkHiqrUzQNW5Qyf2jlIm",
+      "name": "existence ep",
+      "album_type": "single",
+      "release_date": "2011-07-25",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7951c3e00082908fdfe0207",
+      "uri": "spotify:album:4RQlcxx4uhNBcwwrSdnxXJ",
+      "name": "heavy artillery (skism remix) / reploid (document one remix)",
+      "album_type": "single",
+      "release_date": "2011-07-04",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8843737caf39f131d704515",
+      "uri": "spotify:album:00SSJrHNU8QeIBtOcT5Fc8",
+      "name": "factory / yeah",
+      "album_type": "single",
+      "release_date": "2011-06-27",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313de8253fd5102af8733a283",
+      "uri": "spotify:album:4mjmQtOjz78tutPsloYNiL",
+      "name": "biohazard",
+      "album_type": "single",
+      "release_date": "2011-03-21",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a4cdb2c9d68ea5fddcb1298",
+      "uri": "spotify:album:3WlMV68UddKoibmMmwQWkD",
+      "name": "subsonic / emergency remixes",
+      "album_type": "single",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734998c13fbc344dd38d846c1b",
+      "uri": "spotify:album:6QgLCH8SlE1S8JtYRc3qgQ",
+      "name": "emergency ep",
+      "album_type": "single",
+      "release_date": "2010-11-29",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366e384c19ebbfa56124812ea",
+      "uri": "spotify:album:3NknlergUviiwHAF47A1q1",
+      "name": "heavy artillery / reploid",
+      "album_type": "single",
+      "release_date": "2010-11-29",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730896dbd41e23f6bf62df747f",
+      "uri": "spotify:album:0ozpYJTdvl5Wu0c7NOoz2g",
+      "name": "ignition ep",
+      "album_type": "single",
+      "release_date": "2009-11-18",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:42.000Z"
+}

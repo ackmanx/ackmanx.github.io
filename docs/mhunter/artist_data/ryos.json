@@ -1,0 +1,1200 @@
+{
+  "name": "ryos",
+  "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+  "uri": "spotify:artist:7us9kFadl2fztbHSvlNk6M",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8ae12bd4db05f6839662045",
+  "genres": [
+    "progressive house",
+    "big room",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6f0b4067994be06d0b4e7f2",
+      "uri": "spotify:album:7aiVOw626yHX9o9hNkrqp6",
+      "name": "ultra love (ryos remix)",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        },
+        {
+          "spotify_id": "5tpQ8DM8YGZRtBI0zyxTwg",
+          "name": "brieanna grace"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c83400f5d9ae78cb3fe5e903",
+      "uri": "spotify:album:0vvJGpfaHyZyejMclE080B",
+      "name": "rise again",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cc1efbacee77247bb9a6ffe",
+      "uri": "spotify:album:7bmr6QizD4iH56pepOhrcE",
+      "name": "fourth dimension",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "7vpO8c2Ver8gJHCcRskbjF",
+          "name": "jarred"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c34ddbec8d1a22a3acae33",
+      "uri": "spotify:album:0qhB3pwU5CkZJ9LT7wBHRg",
+      "name": "radiate (feat. hayley may)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "00S0dnexJEwjUFTEMTUC9I",
+          "name": "nilsix"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1WcwbtAnG5HWNbPPK84ued",
+          "name": "hayley may"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735865536addffe4bd23cadb31",
+      "uri": "spotify:album:1RJOptnhicG5FsZRzpT5YF",
+      "name": "wild ride (ryos remix)",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273287c5ffa7ca4c9631d962258",
+      "uri": "spotify:album:14cDD5QjVN1LxYtiS5bzHI",
+      "name": "the chant",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273643f36afd94ea547256e9994",
+      "uri": "spotify:album:6T9qtE0RP4nPe6eZsGMMu7",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d1929afd542a0e8cc944457",
+      "uri": "spotify:album:2y6W3dB0w3iJBum5ZRLUPf",
+      "name": "out of time",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MFJyevu6jq0shwDuVLymu",
+          "name": "justin mylo"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3znJOYi3CDM5ZQkbo6kmjd",
+          "name": "alessia labate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302d98a01574b1778c2d95608",
+      "uri": "spotify:album:60XzAefdXTkmpko4IQTKE5",
+      "name": "out of time (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MFJyevu6jq0shwDuVLymu",
+          "name": "justin mylo"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3znJOYi3CDM5ZQkbo6kmjd",
+          "name": "alessia labate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732626fabc54f8863b02bce500",
+      "uri": "spotify:album:6HFfeFsht09gQzRAErn79d",
+      "name": "fading away",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "5jRgxHYG8ayHyuBTSQjiGg",
+          "name": "riley james"
+        },
+        {
+          "spotify_id": "0RuDUIQCXhrbLcsegLwp2Q",
+          "name": "denny white"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273868b21a259aa9bd0999f763e",
+      "uri": "spotify:album:1XlVtx5YHGwjNXg5FOVUtr",
+      "name": "disguise",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273347dfba1da205b38fda30f22",
+      "uri": "spotify:album:5qBfyHhwOtGtilj4UCA2Rt",
+      "name": "novocaine (extended remixes)",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "4Gr5otnLxK9f0fLpm9jK74",
+          "name": "sgnls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6efed26c7e150d07f0b7be4",
+      "uri": "spotify:album:4ZdcjXj76bHkcf8oP9sCW2",
+      "name": "novocaine (remixes)",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "4Gr5otnLxK9f0fLpm9jK74",
+          "name": "sgnls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305c5c01c7664fcf239687736",
+      "uri": "spotify:album:0MbZtjKTw7xjIFhyEWnW3l",
+      "name": "in my bones",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MFJyevu6jq0shwDuVLymu",
+          "name": "justin mylo"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273814777a159ef8595e4836d89",
+      "uri": "spotify:album:3oOrqQECphEMsA95fcAw1p",
+      "name": "in my bones (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MFJyevu6jq0shwDuVLymu",
+          "name": "justin mylo"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730916537266ad419efe8fc2e4",
+      "uri": "spotify:album:2DkoAOXvnmtl3pTYaWsJqr",
+      "name": "no control",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3dQYmisHQjYNHQSr3rFg5m",
+          "name": "capes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ede18734bdf6d3c0e523278",
+      "uri": "spotify:album:4K98ue8KyqkVHiY1tefD2g",
+      "name": "holding on",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3fg2lGUSz1TZ0kYI18fIKU",
+          "name": "diegx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738772cffa7094112e4cd60a16",
+      "uri": "spotify:album:5iuBVACmobAL1yhELHTPo6",
+      "name": "novocaine",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "4Gr5otnLxK9f0fLpm9jK74",
+          "name": "sgnls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c69193a99a917743a3d93f3",
+      "uri": "spotify:album:4VKTi4W2qxbcKXV1ksAeJY",
+      "name": "novocaine (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "4Gr5otnLxK9f0fLpm9jK74",
+          "name": "sgnls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a32a79f7a71a70c5108010ac",
+      "uri": "spotify:album:6DmgalKM4vf21H6UnBwRVw",
+      "name": "i told you",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe6df35c3a9821e7892ca139",
+      "uri": "spotify:album:7qHu33EsFyI11LxAQvbsH7",
+      "name": "sacred times",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3CXu2xqQnt5Ey4vyWuiuFk",
+          "name": "ali schwartz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335b52109960afb9a9ab62e43",
+      "uri": "spotify:album:0w0AI9EuHnCwrCtCxWzQ4c",
+      "name": "that i know (dr phunk remix)",
+      "album_type": "single",
+      "release_date": "2022-08-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wdU1J2NHzcDYarT7jEU2A",
+          "name": "dastic"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1naX4fxuRaDFlj9tGfIUZk",
+          "name": "dr phunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739006575c49dbb6e1814a4b54",
+      "uri": "spotify:album:0dbXMK3ZxCxiaXvyqvG3eD",
+      "name": "way back home (ryos remix)",
+      "album_type": "single",
+      "release_date": "2022-08-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wdU1J2NHzcDYarT7jEU2A",
+          "name": "dastic"
+        },
+        {
+          "spotify_id": "2WIFU5KpTGyYWZs039dQPn",
+          "name": "aeden"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0bd3b2337d19a4b9b80af72",
+      "uri": "spotify:album:3sPTtfzWOVRxaIUCgTtgy5",
+      "name": "that i know",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wdU1J2NHzcDYarT7jEU2A",
+          "name": "dastic"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378dc88df3a50c28c052fe86f",
+      "uri": "spotify:album:0Sgfmh9uAjLovpGRuOAm26",
+      "name": "revealed selected 056",
+      "album_type": "album",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "6aaMlV5Qz8DK66IWgwoUH8",
+          "name": "revealed recordings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c93a8343e8d86d72f878dc40",
+      "uri": "spotify:album:3DrWylvXPZiD7vy7mq8m4P",
+      "name": "memory",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a983465dffd61948ecff6d1",
+      "uri": "spotify:album:68Rvn40TVsqgEk7hA4UPgN",
+      "name": "unbreakable",
+      "album_type": "single",
+      "release_date": "2021-12-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "5guBrcv1BxjlJdKlW8MNyh",
+          "name": "dj junior (tw)"
+        },
+        {
+          "spotify_id": "1569hvm0IW3DHOfruYP2lM",
+          "name": "robbie rosen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2974d08b1828fa7b3c43c94",
+      "uri": "spotify:album:2BVRBB8tVpIdT2bozeqJet",
+      "name": "monster",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bcd26e8e40eb22eab37e1a8",
+      "uri": "spotify:album:2g6BG4QYqjvgKh3LiZzSbV",
+      "name": "revealed selected 031",
+      "album_type": "album",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "2kz8aW0w3kWweM2iCeDdSP",
+          "name": "colin crooks"
+        },
+        {
+          "spotify_id": "37czgDRfGMvgRiUKHvnnhj",
+          "name": "öwnboss"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d771eef2c18d04cbf616a73e",
+      "uri": "spotify:album:3lxyMjsVcDWkpuLuiYdnH2",
+      "name": "battlefield",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1Q6CDBTFFKnanZ20DS2QnQ",
+          "name": "reggio"
+        },
+        {
+          "spotify_id": "0vomb9Zaob10lPzxBcIiNb",
+          "name": "linney"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273596e73cd6e4cbe3f5aa5e0b2",
+      "uri": "spotify:album:2DodZGT6mfFECYWaBaNTa0",
+      "name": "midsummer nights ep",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1V5IVmwHG2veT0CUw3kb48",
+          "name": "maggie szabo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bbecc2001f752b8d2d6984c",
+      "uri": "spotify:album:6DLu3frkb2uBpx2RyNYvzK",
+      "name": "being alive (ryos remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2EIrliVU8gaMt0miwu4ITc",
+          "name": "jguar"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f887793bed37517d0bec872",
+      "uri": "spotify:album:0p3nYZkjXUsy6Xqg6fGamK",
+      "name": "revealed selected 009",
+      "album_type": "album",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "71ujKAKr4j1X7n4Hio2u7C",
+          "name": "havoq"
+        },
+        {
+          "spotify_id": "5oS267l8pGKqJmh9ZhCYGS",
+          "name": "kriss reeve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736370ce317bf85baecfa3b789",
+      "uri": "spotify:album:00bUZGcMhEVFxRqp2nPBoc",
+      "name": "fool's gold",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "71ujKAKr4j1X7n4Hio2u7C",
+          "name": "havoq"
+        },
+        {
+          "spotify_id": "2Z6k8JBzhJPPRIAyKaUEJZ",
+          "name": "nino lucarelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dc1db703f591a4bf277c483",
+      "uri": "spotify:album:2DWvCW7btR0842a7MDxd8t",
+      "name": "hey child",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df6171178229d521d37c1d99",
+      "uri": "spotify:album:4vnYZRR9qgZnJQxHWixV92",
+      "name": "heat",
+      "album_type": "single",
+      "release_date": "2020-06-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7c6ab9d8a0a6746d6a37569",
+      "uri": "spotify:album:07dmga5aQ8dNskTBvAfzuN",
+      "name": "two of us (ryos vip mix)",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddedd8f4aabf112f530ffc31",
+      "uri": "spotify:album:66htvJd9y5pgRKy8f2g8bN",
+      "name": "two of us",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e57f70ed33059934bcd3ffdf",
+      "uri": "spotify:album:098esiT15bSboIiMiBnvNQ",
+      "name": "catching fire",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "58gN4UiSL2DMDUtkbKJKr0",
+          "name": "arjay dang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273057ad4c6a0bfed670b9cc760",
+      "uri": "spotify:album:2shynnu8r3LLUvWg1GOmpR",
+      "name": "emotions",
+      "album_type": "single",
+      "release_date": "2019-12-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cbc43748a13a9a377683ee1",
+      "uri": "spotify:album:6TqyjXpthGhm4Db3Lr1Nic",
+      "name": "alone",
+      "album_type": "single",
+      "release_date": "2019-10-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273612abac564685ddda4d22940",
+      "uri": "spotify:album:3yC91YDqDHhsRfKoGoeXn0",
+      "name": "boundaries",
+      "album_type": "single",
+      "release_date": "2019-07-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "7b1FMiWXZwOBsxi0uWw6wH",
+          "name": "elle vee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359303b1ae3dab87041ae0658",
+      "uri": "spotify:album:3bHia3mAOHTNTMkLKB1MBx",
+      "name": "feel your love",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pa5WXZ2Oo40bb7Kc4i6tq",
+          "name": "allisa rose"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2513efca61544608ef1b0fc",
+      "uri": "spotify:album:2vSNy7WpzPxpqko1xLS7x0",
+      "name": "crazy",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273988ac424aa858266acf0d1e2",
+      "uri": "spotify:album:6V4U6YrFtBBYQrDO38pf5p",
+      "name": "crazy (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbd8f2441e451193f4b91c60",
+      "uri": "spotify:album:5dA3NzQQfY9yzuu9Dl5SjE",
+      "name": "only you",
+      "album_type": "single",
+      "release_date": "2019-05-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "sara skinner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273789096e22c9f11158301064a",
+      "uri": "spotify:album:2lfNpeiJu4UGEUFELXfe89",
+      "name": "identity (ryos vip mix)",
+      "album_type": "single",
+      "release_date": "2019-02-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc4903ff1f84b5fb728e243f",
+      "uri": "spotify:album:6McCB0fBENyofjDd9Kraoq",
+      "name": "identity",
+      "album_type": "single",
+      "release_date": "2019-01-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "7b1FMiWXZwOBsxi0uWw6wH",
+          "name": "elle vee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e255443655fdb8c3706861a",
+      "uri": "spotify:album:22X9r4XCVUFTysWzyZ56BI",
+      "name": "living again",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b81889a57668076f9e0f0ce1",
+      "uri": "spotify:album:74AVNqzAnTW6s0L6vpTTTp",
+      "name": "discover love (remixes)",
+      "album_type": "single",
+      "release_date": "2017-10-09",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273523a35fa0e34ea01e7c2f1fc",
+      "uri": "spotify:album:553sNF2jcF42afPVI6uedS",
+      "name": "discover love",
+      "album_type": "single",
+      "release_date": "2017-04-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732173210e88371657cc314627",
+      "uri": "spotify:album:1OjExPQZOPcapBmvhZefok",
+      "name": "i'll be gone",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3rmYE7edorDWoKVPGk9iLZ",
+          "name": "wasback"
+        },
+        {
+          "spotify_id": "0vGMKwgScudOwC0IPupfmg",
+          "name": "teseo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/f495dace79beec4d7e1ee7cb4847877946f20c87",
+      "uri": "spotify:album:1ATLgg5CNo5yS2OdjP284W",
+      "name": "where we are (remixes)",
+      "album_type": "single",
+      "release_date": "2016-10-21",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f08daa8b3a3a1ff4730027c5",
+      "uri": "spotify:album:5lHNhMc9QNJcz6Qc9jWRBI",
+      "name": "wanna lose you (remixes)",
+      "album_type": "single",
+      "release_date": "2016-08-30",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4uiMn2g0pgTrhN096QJhbp",
+          "name": "borgeous"
+        },
+        {
+          "spotify_id": "7tOUuyCplrFWLXCZuhE3C4",
+          "name": "tydi"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc7f531e53af9d5071eaa25d",
+      "uri": "spotify:album:7wGc5CiAiys3Clx1qxyVsp",
+      "name": "armageddon",
+      "album_type": "single",
+      "release_date": "2016-08-01",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397020471cce935ba121b222e",
+      "uri": "spotify:album:52BjAQ45yiGyP1x92Zgf5u",
+      "name": "where we are",
+      "album_type": "single",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c4b095ca997cdc4017f11a8",
+      "uri": "spotify:album:1DjnDhwGGL2QxUNhvG0Kwp",
+      "name": "more than ever (club mix)",
+      "album_type": "single",
+      "release_date": "2015-12-25",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738069aff6c7a362143a9d9b20",
+      "uri": "spotify:album:28Umz5JnOit8nx1VHdRSxl",
+      "name": "machi",
+      "album_type": "single",
+      "release_date": "2015-10-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uiMn2g0pgTrhN096QJhbp",
+          "name": "borgeous"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304ec22e7a1122cfc2c88f759",
+      "uri": "spotify:album:4tXX4HTIlvqqvin4F0Rn1R",
+      "name": "machi (extended mix)",
+      "album_type": "single",
+      "release_date": "2015-10-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uiMn2g0pgTrhN096QJhbp",
+          "name": "borgeous"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/c5b399def95f22ad7f5eed9915e6720673de4a50",
+      "uri": "spotify:album:0HIGsSDaV7HwKJnWPV7Z95",
+      "name": "eclipse (remixes)",
+      "album_type": "single",
+      "release_date": "2015-09-07",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/d74a98de1d218ab877665012781244ebac4f6f45",
+      "uri": "spotify:album:46PbprWCi6NBklpgwcpi5I",
+      "name": "eclipse",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "3pa5WXZ2Oo40bb7Kc4i6tq",
+          "name": "allisa rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e030164d7caf379e2c5039ff",
+      "uri": "spotify:album:2d3tGKck1sQTu7H4rMiJI2",
+      "name": "more than ever",
+      "album_type": "single",
+      "release_date": "2015",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:15.000Z"
+}

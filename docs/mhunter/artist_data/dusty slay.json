@@ -1,0 +1,72 @@
+{
+  "name": "dusty slay",
+  "spotify_id": "2TKmTiS99CwktgV2lwllpl",
+  "uri": "spotify:artist:2TKmTiS99CwktgV2lwllpl",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5d59a8bc660ff2863ebdbeea",
+  "genres": [
+    "comedy"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e128d1e2dfa73318a64f7cda",
+      "uri": "spotify:album:1MQeqao8lZF0Yp1zQ5MM2q",
+      "name": "workin' man",
+      "album_type": "album",
+      "release_date": "2026-05-31",
+      "release_year": "2026",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2TKmTiS99CwktgV2lwllpl",
+          "name": "dusty slay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388db77fa8f2d2c02db8375c8",
+      "uri": "spotify:album:4lQHmbmxkgjPOBjwPvDo33",
+      "name": "crock pot comedy",
+      "album_type": "album",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2TKmTiS99CwktgV2lwllpl",
+          "name": "dusty slay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8ac8bd60ae7e6b47d3470ef",
+      "uri": "spotify:album:13ICZO8wukcgCneFm2yIna",
+      "name": "son of a ditch",
+      "album_type": "album",
+      "release_date": "2017-02-02",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2TKmTiS99CwktgV2lwllpl",
+          "name": "dusty slay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c37cb39aee32191c928ec6c",
+      "uri": "spotify:album:52cbIgH9U58FFIvqu2mBWv",
+      "name": "makin' that fudge",
+      "album_type": "album",
+      "release_date": "2014-08-24",
+      "release_year": "2014",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2TKmTiS99CwktgV2lwllpl",
+          "name": "dusty slay"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:03.000Z"
+}

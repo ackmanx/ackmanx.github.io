@@ -1,0 +1,3740 @@
+{
+  "name": "braaheim",
+  "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+  "uri": "spotify:artist:5yczwlOmRZG3wUEtvLiGBg",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8f58774f4dd5f1881c80849f",
+  "genres": [
+    "slap house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b97403cbe0a437008a61ff83",
+      "uri": "spotify:album:6lj2diwlGidUGJA49MxApv",
+      "name": "hey baby",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b824f9c63ca667aa2ff3c23",
+      "uri": "spotify:album:4jmXwqCOtvBlSFRD2QfDgJ",
+      "name": "when you say nothing at all",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a237f7976e8b9fbf631ba50",
+      "uri": "spotify:album:6lehTNWGgJZQeQAI6DrDJT",
+      "name": "just the two of us",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6fca67a424d06611a7ec5f3",
+      "uri": "spotify:album:5WGE13YNmuF5w8r95oUMeL",
+      "name": "frozen",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734784410cb3eeebcdbcfdee5a",
+      "uri": "spotify:album:7mJSGkPzsyw6bz7FnOcWKg",
+      "name": "yeke yeke",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a44112e1ab602583ce9d6017",
+      "uri": "spotify:album:1IQXdh4c58i5lqJRS6W4Xh",
+      "name": "show me heaven",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7c3de760eb1cf344a7cccd0",
+      "uri": "spotify:album:4jIj6gPYunXmNpfVxNWk2t",
+      "name": "could you be loved",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382d113f3fa643b029bed55de",
+      "uri": "spotify:album:3pJPwjfSFiAAsGP5fMSowm",
+      "name": "stand by me",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd7e0a669af9a7e28dcb4d9a",
+      "uri": "spotify:album:7BhJJEx7zQZvPjnlkJySTc",
+      "name": "it must have been love",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9b0d1c08c03d9ade275a6ed",
+      "uri": "spotify:album:77sPQbjNsArWPRhc8lDCTU",
+      "name": "the cup of life",
+      "album_type": "single",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317f5c566728c5d24f689d36c",
+      "uri": "spotify:album:22PrnrB67O5Xu3JWXImwgb",
+      "name": "what's up?",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ab9be408f79c41478cc972b",
+      "uri": "spotify:album:61JQIWwPENIusxhPjYY5k1",
+      "name": "take me home, country roads",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357e41fd7d59b8e292aac23a6",
+      "uri": "spotify:album:24C2HCOycTS1BvaFrm4wv3",
+      "name": "forever young",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e435cea3bdd6f66fa1f177d1",
+      "uri": "spotify:album:6l31yl63ojp9NR8ZxxEpT0",
+      "name": "hooked on a feeling",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4e21f33a42e466417e66c24",
+      "uri": "spotify:album:4FEK3jKvQHRYh9XGU8WplJ",
+      "name": "living next door to alice",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af42e4d84e6c85c205267abc",
+      "uri": "spotify:album:396RwoiKLP5P96bTGlNrCf",
+      "name": "pata pata",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371e7ce5550f76f23da4f0b0f",
+      "uri": "spotify:album:5egHyhll8niX1tOO3lafUn",
+      "name": "i'm gonna be (500 miles)",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273175bce87436646f7fd3b2937",
+      "uri": "spotify:album:4XfiApqTnyQ3dEzcRpgVJ5",
+      "name": "rockin' all over the world",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f19405d6b64c7e051f903360",
+      "uri": "spotify:album:5OcvImhEh2nNVWSu41upw2",
+      "name": "another day in paradise",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733efd4adf2d4db84b19e11ba8",
+      "uri": "spotify:album:2qRXepWucqckmtf73Xobto",
+      "name": "who the f**k is jerry?",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734aff5e33d79084da6ccfeb27",
+      "uri": "spotify:album:6esSnrPeEQeP5HgTRPGhHm",
+      "name": "she's so high",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318e6066e31da3aafb7238a8f",
+      "uri": "spotify:album:5fIerVMwdtzVymhggWYSo6",
+      "name": "johnny b. goode",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e45ebe0bc5934798d26451d1",
+      "uri": "spotify:album:0wntZLvprjxU7ZbUdAlflp",
+      "name": "bacardi love",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1Z0DRUany5l8E7J6XNRlmC",
+          "name": "pet3rpunx"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f4999cb908aa9ddbe235893",
+      "uri": "spotify:album:5tOJIBW7BM2gtIygLJPcwp",
+      "name": "i've been thinking about you",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273016c0a3a4efc5757724d6b26",
+      "uri": "spotify:album:07VEkfKUu9rcI2FD1aXk1j",
+      "name": "every breath you take",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcd7e830693420c9867b5b57",
+      "uri": "spotify:album:0YAdQf17eCsipg5HrAdEll",
+      "name": "lambada",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d48c6a69db83d893f75d56ef",
+      "uri": "spotify:album:4c1a6V0aUjM2NlNtrAulOE",
+      "name": "dream on",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c68875d77d725bd8f78b70b",
+      "uri": "spotify:album:2Xqk5ZHLnPad6bFiXjWf7r",
+      "name": "otherside",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330f2a06784fc6bc44de4e1fd",
+      "uri": "spotify:album:2jXdVFdyVPWSlDMQ5caRlx",
+      "name": "love don't let me go",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c06810770460202cff6fd747",
+      "uri": "spotify:album:2QhkwL7iELzL6KYMgyFOH8",
+      "name": "the hills",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "3U63MdWLJTxpCIJv9Sv3FB",
+          "name": "scarlet joan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b79613b9ae5a76ca3d61f73",
+      "uri": "spotify:album:3tvKn4pi81hYAIY2qbz97H",
+      "name": "till i collapse",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef01ccd84a04e2aab912c0af",
+      "uri": "spotify:album:0nr8363W6ClqkABN85of20",
+      "name": "turn the lights off",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d1ec9ede760c46d1a1a5718",
+      "uri": "spotify:album:5vIhjUJyZujthO3ZrdVFew",
+      "name": "we own the night",
+      "album_type": "single",
+      "release_date": "2026-01-02",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734dffaeff85885fdbc696bd59",
+      "uri": "spotify:album:0X0FqwzF1p0vWOyiFOTFEq",
+      "name": "mood",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7bzKgx8PQw6TCVDSD43pc1",
+          "name": "valexus"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "07Lnw1KXCwVMNUTGciJImE",
+          "name": "kickbait"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f9f97fcdd9de8c0ebc2ac28",
+      "uri": "spotify:album:67Nff7xEyi5ZRh0vFtr3Nn",
+      "name": "talking body",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "6eiaPy1PcWNzcbJrROzWoz",
+          "name": "beau james"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f13a4541106868973e281845",
+      "uri": "spotify:album:6JJz8xTpWgGQrqlqe64Z8K",
+      "name": "waiting alone",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324a889e1920c29dfcd2daf13",
+      "uri": "spotify:album:6NFMBvs63A4xGRkoowo4jW",
+      "name": "turn around (5,4,3,2,1)",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273004692fb54b205d209095e04",
+      "uri": "spotify:album:5wTlkYW1YgGTjIOpmcucC5",
+      "name": "ko pa te (ning ning ning)",
+      "album_type": "single",
+      "release_date": "2025-10-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7zAwChuMSEdc8gHbzoJPph",
+          "name": "shaman durek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da332a00a8392ad960f3a3a1",
+      "uri": "spotify:album:2JFVXlYzFkT5n9bHCnRAP0",
+      "name": "open your eyes (i'm right here)",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273777089c6a99c080e329a7eb1",
+      "uri": "spotify:album:045LcURyjSg4sCAMBUqmXq",
+      "name": "same old story",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737779dc1224c54ef1cc09c8a4",
+      "uri": "spotify:album:1LSF3OqthwW8i6xEc75QeQ",
+      "name": "habits (stay high)",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7GHpLKwhlOEzggNhtgQaYv",
+          "name": "level 8"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7d8bc78cde1276e8bf29929",
+      "uri": "spotify:album:25fjzAKgfOeMAaed01OSiG",
+      "name": "party all the time",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "5Ukdziss6tmNzMRrJ60UKJ",
+          "name": "milan gavris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae02a277295e272eaf302166",
+      "uri": "spotify:album:7EEwMH0qFgz2ayoxQsldzq",
+      "name": "dark horse",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7GHpLKwhlOEzggNhtgQaYv",
+          "name": "level 8"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b029ea3d085037e0bc8831a7",
+      "uri": "spotify:album:0lSaZIFwERCzqfmbsXaN4l",
+      "name": "go slow",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b471c9e7ade4e4a4bc03fe74",
+      "uri": "spotify:album:0fnPKAErgD2RWK2zO60oxm",
+      "name": "clint eastwood",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6fMSq8NSVe1QWRSTiBCxwL",
+          "name": "mitch db"
+        },
+        {
+          "spotify_id": "2FMdAViOScZVhMjAunoYNK",
+          "name": "felix samuel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d499058665f873c3721284d",
+      "uri": "spotify:album:5sq3pYe4geR9UybicHvPNw",
+      "name": "what you've done",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0XC9No7W96qmxh2AweFsjQ",
+          "name": "felixx"
+        },
+        {
+          "spotify_id": "5PZS7XY3NZHDnI6g3wGyAB",
+          "name": "marco nobel"
+        },
+        {
+          "spotify_id": "1yeRfHskcp7ujLZNmabEpp",
+          "name": "bankr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273012b0bf34ca0c3d9a87f2937",
+      "uri": "spotify:album:2KkK1zmrEYX2WSzsR4snhr",
+      "name": "hangover",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "2WRQwi9gI05hpyKroFHnYL",
+          "name": "eric altair"
+        },
+        {
+          "spotify_id": "5Ukdziss6tmNzMRrJ60UKJ",
+          "name": "milan gavris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fc4a5e99b5db631d82cec28",
+      "uri": "spotify:album:6M7BMm3EzQ4dIM0GchqqHI",
+      "name": "dance on my own",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1aQwKFn00nswXRDUDipm0K",
+          "name": "gaullin"
+        },
+        {
+          "spotify_id": "7vMDKdgSZ2Scn4uzFdTDyZ",
+          "name": "emie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397f6d2c356f7252e30cee842",
+      "uri": "spotify:album:14T2ghgNozCALKP4toAHNk",
+      "name": "all night long",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "2FMdAViOScZVhMjAunoYNK",
+          "name": "felix samuel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b323a256c35463acda7567d",
+      "uri": "spotify:album:20wQk1nhKKPBYKjHGC86Yg",
+      "name": "we are your friends",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb3e2738e5ade07b89c8db0c",
+      "uri": "spotify:album:5FMcLzodgXOCkgsoxzIxhD",
+      "name": "elysium",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6pWcSL9wSJZQ9ne0TnhdWr",
+          "name": "k-391"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "2FMdAViOScZVhMjAunoYNK",
+          "name": "felix samuel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e7c70af2c03fb3c930525de",
+      "uri": "spotify:album:3seW8va8Jga7JxzUk2sNkq",
+      "name": "like it like (yee-haw)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1ngKYk9gnZpMAoaayD6BGY",
+          "name": "danny ores"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353e1d56442826c94b5d33c78",
+      "uri": "spotify:album:2bUTBoXAILzepPah6vaQYA",
+      "name": "turn me on",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "6jFa0fLeBTANOdmD9171kE",
+          "name": "kuokka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7900fd786ab3a48ce3f859f",
+      "uri": "spotify:album:5rQZxo4lLBFrChkHKqZPR4",
+      "name": "lights",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "3CNPVYQ9QnNxlrEBdHS4hx",
+          "name": "maud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b44b4947e34151ae9f251a9c",
+      "uri": "spotify:album:5jGH7yBXGVvYONL0X6xQfz",
+      "name": "dream",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "2FMdAViOScZVhMjAunoYNK",
+          "name": "felix samuel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303cb641349be93b7bd7fd602",
+      "uri": "spotify:album:00iIueqtEB8kAeX4AWmlMu",
+      "name": "clubbing on a tuesday",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332ea8ad3d906c738f3bb4cba",
+      "uri": "spotify:album:4ELGfDMkFAI0rScVci7SH9",
+      "name": "dare me",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1Z0DRUany5l8E7J6XNRlmC",
+          "name": "pet3rpunx"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273616b8e8be3f1797fd3780061",
+      "uri": "spotify:album:6pwp9ba7kXSmNA7t9SyKi2",
+      "name": "heartless feat. foncé",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3iMzbvXlgNUpoFccD60bvr",
+          "name": "prezioso"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1oB55C2OgosjV7fLfhNoMS",
+          "name": "widemode"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367141ab1d2e7d323b7aed884",
+      "uri": "spotify:album:0RXu3sA71VL8jGAKnsONON",
+      "name": "fly away",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374d5409b0724fc8ce98e873c",
+      "uri": "spotify:album:6pcUFkYv5xtyV6t3APaXHX",
+      "name": "play it loud",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "5uJw4WCX5nYj4FHky9r1Ug",
+          "name": "smack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273763ff67de2feafd94d01b71a",
+      "uri": "spotify:album:1UlF9d6KbumzpQYMDzU2tQ",
+      "name": "touch me (i want your body)",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7mXiVh1xuK89jd1QX0JuHS",
+          "name": "now o later"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c7b958d5c188193587c3768",
+      "uri": "spotify:album:5opat5db8O1eZjpbNifZLE",
+      "name": "good good life",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0XC9No7W96qmxh2AweFsjQ",
+          "name": "felixx"
+        },
+        {
+          "spotify_id": "11lfQgLbVZRnR7tbtAnzhk",
+          "name": "barcode brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a56b5b31ddd9a6b2c51be6e3",
+      "uri": "spotify:album:1XmQjlnxyQO9KdeuZvbike",
+      "name": "nitauimba wimbo",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1QMWPzIxcd1bLmuOyM6XM1",
+          "name": "moise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c22a1d5f7cae91815a8d18b1",
+      "uri": "spotify:album:6S5DWajnJOfUw8rWwGwHHB",
+      "name": "girl gone wild",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c0ac20463d89a8c8260b135",
+      "uri": "spotify:album:6k1ziHK3dolarAehyFBg3c",
+      "name": "life is a highway",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7mXiVh1xuK89jd1QX0JuHS",
+          "name": "now o later"
+        },
+        {
+          "spotify_id": "03vCD6RsLnSkEpMFQigNAp",
+          "name": "mozix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f2c7f78d79eecba9edec849",
+      "uri": "spotify:album:2efZWJtkWNhx224KzTTAaq",
+      "name": "black betty",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f383a2861970b8a8006bcf6",
+      "uri": "spotify:album:7gwCfv6dkX1jtBhvL6Irxk",
+      "name": "mountain king (rave it up)",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "606pgyT2WjwGspOn3SIExW",
+          "name": "angelo basham"
+        },
+        {
+          "spotify_id": "5vAVNHQJI2uD7IVsoADd9V",
+          "name": "felix averian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de2b32f91263dc823693af04",
+      "uri": "spotify:album:6dMXahtSlYPd0wpyvcHUDu",
+      "name": "more",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361d170504042f56e692b05bc",
+      "uri": "spotify:album:6G8tsoNeDzPXfMlYTyEimA",
+      "name": "tell me (turn off the lights)",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1ukr6qbMqjWlYp8qElLiyS",
+          "name": "ailisha kaiya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735afdf6980c5e5f8ba2e63109",
+      "uri": "spotify:album:0GZsv8iYqVqDIDK4Zr8qyg",
+      "name": "i was made for lovin' you",
+      "album_type": "single",
+      "release_date": "2025-01-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304be7ee5a35ddf09335660b1",
+      "uri": "spotify:album:7DA9MWPLqpQfeAT9lXfwxp",
+      "name": "take it off",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bffd962675750af041d7387b",
+      "uri": "spotify:album:02Gjjm13HGzoYeduqQB8ej",
+      "name": "salma ya salama",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "73NJzy1M0iOKvQkIL1qSW4",
+          "name": "angie robba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ede42ac111373cbe1f4cdb84",
+      "uri": "spotify:album:7zWBlsgALeudv3jY4Po7o8",
+      "name": "paradise (techno version)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "5PZS7XY3NZHDnI6g3wGyAB",
+          "name": "marco nobel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf36d745e1f5e59616226b25",
+      "uri": "spotify:album:1iVFM29MhsLdNN1erDJWpH",
+      "name": "say you love me (remixes)",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4ziXL8IhPh3fw3pif9gOhD",
+          "name": "dj yasmin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fca616cfca868498defc5c75",
+      "uri": "spotify:album:4iFrVkIM5lCql5QlrJ0YzK",
+      "name": "another way",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "1ngKYk9gnZpMAoaayD6BGY",
+          "name": "danny ores"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4ea63e05cd07133d5272c89",
+      "uri": "spotify:album:1LyLZmFnUAybiO2zr0c7jw",
+      "name": "just dance (techno)",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df171025293cd3e4ad4fa205",
+      "uri": "spotify:album:1iFVc1vmkXOLLVhCG687wK",
+      "name": "left outside alone",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b1db797437f9b4d2b113d2b",
+      "uri": "spotify:album:4mPdlFySicrgf3URiCPZjn",
+      "name": "giovanni toccami",
+      "album_type": "single",
+      "release_date": "2024-11-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7LiVklVR1325BIOqD9kykr",
+          "name": "clmd"
+        },
+        {
+          "spotify_id": "4Q8IIlsZsXY1BgPzaz4DYq",
+          "name": "skinny days"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6bc8d54289c3c709c0a93eb",
+      "uri": "spotify:album:1C8PpAyiR4A5TdsPl2sUTh",
+      "name": "i wanna know",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1kcyeJ6CdwVqRsKEmkb9Ul",
+          "name": "mspuiyi"
+        },
+        {
+          "spotify_id": "7yOR1XnoSsiUU4wf6xMnNI",
+          "name": "ken"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273076e81b58306d96c73061b0d",
+      "uri": "spotify:album:6vnrN6essb8HZBiI8iske4",
+      "name": "enjoy the silence",
+      "album_type": "single",
+      "release_date": "2024-10-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8540ca909356970ce63fe5e",
+      "uri": "spotify:album:6iya5l03X99mWbQHT0cWAV",
+      "name": "say you love me",
+      "album_type": "single",
+      "release_date": "2024-10-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cff3d0c0798176e562e381d",
+      "uri": "spotify:album:3xN9Eof4FaZ7X05hICFtZr",
+      "name": "what is love (techno version)",
+      "album_type": "single",
+      "release_date": "2024-10-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7IuCvuIcTx2Rp05kwHuvSv",
+          "name": "maoam"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382618f3fa1e574a09ab09472",
+      "uri": "spotify:album:1t7OSsUJktUGU8tNcwMdhY",
+      "name": "behind blue eyes",
+      "album_type": "single",
+      "release_date": "2024-10-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370a905c9380b4d0631ebef42",
+      "uri": "spotify:album:3Mv8PVjxkoW4McGh5FgXhb",
+      "name": "from paris to berlin (techno)",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1LS3fYVvDevXaoCXGeQIUt",
+          "name": "lefwee"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b18816defe910bd9482a1d6",
+      "uri": "spotify:album:3YbiInRvYkmmWq6DHrYsn9",
+      "name": "i wanna go",
+      "album_type": "single",
+      "release_date": "2024-09-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "619CzMJPPWrCeZwx5qw6ko",
+          "name": "besomorph"
+        },
+        {
+          "spotify_id": "3YP7MBWoSfkTwq0pOMj651",
+          "name": "den bb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324c223369edc12171ada5a47",
+      "uri": "spotify:album:2pXVc3TNN2OZc8ECDgOdDL",
+      "name": "samba de janeiro",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "13wroZC00C9ix8fUR0JvaY",
+          "name": "the stickmen project"
+        },
+        {
+          "spotify_id": "2CzPCLry0VHxB4JNva2du6",
+          "name": "bellini"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3ed45eef5a5c766680dd864",
+      "uri": "spotify:album:6LkCDo093ojmj9N7j3JCqr",
+      "name": "the hanging tree",
+      "album_type": "single",
+      "release_date": "2024-09-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea84ff1123c4516b6b514604",
+      "uri": "spotify:album:0iUmAp8y84Q5CRF0aJmwpQ",
+      "name": "stand by you",
+      "album_type": "single",
+      "release_date": "2024-08-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "4YepO0c4kXzTyaRgzvhhTb",
+          "name": "bastize"
+        },
+        {
+          "spotify_id": "5rU1E0lbqZTJiUiPTMbv30",
+          "name": "lena sue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336f8fdd4aedac624a205bc15",
+      "uri": "spotify:album:6GURQO4lDY5wcp8t4ajixf",
+      "name": "fast car",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "5dGsIOepO9ufQlXjW8KrPL",
+          "name": "neptunica"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "4rrI3dKjmTOzRZvOwOWOlu",
+          "name": "emmy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273559b371ee8dc1836940f26ff",
+      "uri": "spotify:album:3TmOhvAIoSQ4QzPEcwoVIH",
+      "name": "i wanna feel",
+      "album_type": "single",
+      "release_date": "2024-08-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1LFGVkNRmXz8jIkyPjaGNL",
+          "name": "de hofnar"
+        },
+        {
+          "spotify_id": "5umWPuWy08G1yEugAzTxvh",
+          "name": "oscar duke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8d35df83a722a8957ecbb7e",
+      "uri": "spotify:album:0jFw5gcodzcLJtrY9NLvcb",
+      "name": "when the beat drops out",
+      "album_type": "single",
+      "release_date": "2024-08-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "619CzMJPPWrCeZwx5qw6ko",
+          "name": "besomorph"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b310881351795dc142c0a17",
+      "uri": "spotify:album:6nsYkEPNI9MGs4Xh56Aiwy",
+      "name": "ultra love (flute)",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "11lfQgLbVZRnR7tbtAnzhk",
+          "name": "barcode brothers"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1ee127fa37297b36d9b55f1",
+      "uri": "spotify:album:4TEHBbi7RLAy0Oind8qcRq",
+      "name": "telephone",
+      "album_type": "single",
+      "release_date": "2024-07-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "58imfUscPVwuhuHt1MpBDA",
+          "name": "robbe"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a18267f23a670a8290bc5f3a",
+      "uri": "spotify:album:18l72grXDXbonq08CF7Yif",
+      "name": "uncover (techno version)",
+      "album_type": "single",
+      "release_date": "2024-07-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9798bc89c2f6fe371ae1d39",
+      "uri": "spotify:album:3kghDBHMdJ6JJiryeKyI4n",
+      "name": "umbrella",
+      "album_type": "single",
+      "release_date": "2024-07-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7yOR1XnoSsiUU4wf6xMnNI",
+          "name": "ken"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273113e3af4fe9f8a292a21ea9c",
+      "uri": "spotify:album:26k4RlTOwRoDNsKk5IbOdA",
+      "name": "all this time (pick-me-up song)",
+      "album_type": "single",
+      "release_date": "2024-07-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0IOiHLj2Tkym3BoVk1p5AT",
+          "name": "dimmalou"
+        },
+        {
+          "spotify_id": "0XC9No7W96qmxh2AweFsjQ",
+          "name": "felixx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300fdd7e502ec70411429e728",
+      "uri": "spotify:album:3J07bVAVB325OAea7G2nbZ",
+      "name": "can't get over you",
+      "album_type": "single",
+      "release_date": "2024-06-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6pWcSL9wSJZQ9ne0TnhdWr",
+          "name": "k-391"
+        },
+        {
+          "spotify_id": "5nFFSwxKDNlZyHEYl48YTd",
+          "name": "nick strand"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dac8771be4aa6354bc46bce8",
+      "uri": "spotify:album:4pZh7b1pQtHtzaagebQhCx",
+      "name": "désenchantée",
+      "album_type": "single",
+      "release_date": "2024-06-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "2E2I4XqkMhd2eoJv7ExGlO",
+          "name": "westerlund"
+        },
+        {
+          "spotify_id": "3zNUFQRdfC7BaVWzR9gJ99",
+          "name": "emily fox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c8a09f8d1b769b0791b620d",
+      "uri": "spotify:album:5gIqGIkaoYVVqKIvopUQQd",
+      "name": "levan polkka",
+      "album_type": "single",
+      "release_date": "2024-06-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "3YP7MBWoSfkTwq0pOMj651",
+          "name": "den bb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d6dfc935c2ae392656ff2ed",
+      "uri": "spotify:album:1dwgtdRdPwQmSQUP6ZQmNy",
+      "name": "speed of sound",
+      "album_type": "single",
+      "release_date": "2024-06-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7mXiVh1xuK89jd1QX0JuHS",
+          "name": "now o later"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e25188c55c44e71cc7cdab4",
+      "uri": "spotify:album:5uaoV4hgnpIGkY41vHTBtP",
+      "name": "fix you",
+      "album_type": "single",
+      "release_date": "2024-05-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732619063ffdb497974e0b3258",
+      "uri": "spotify:album:7zOQOlVWAjR4ZW1TBrxJK0",
+      "name": "voulez-vous",
+      "album_type": "single",
+      "release_date": "2024-05-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed2852c3a9e76518db382959",
+      "uri": "spotify:album:5xErdPry6vf9CfcCuUzPVI",
+      "name": "it just won't do",
+      "album_type": "single",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "3TjFefusAoJFMiB3hrsRDE",
+          "name": "brendan mills"
+        },
+        {
+          "spotify_id": "3QPKvs3fg48SjSF3Kglpwy",
+          "name": "tess burrstone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6099256c4d1b6b5b4ae975c",
+      "uri": "spotify:album:01l3MqPR4stUH4tikkt6yu",
+      "name": "riptide",
+      "album_type": "single",
+      "release_date": "2024-05-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b779acdf4b5ac0b8a45963c",
+      "uri": "spotify:album:3MinilcY84XUpX8nSxMeG0",
+      "name": "one (your name)",
+      "album_type": "single",
+      "release_date": "2024-05-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7IuCvuIcTx2Rp05kwHuvSv",
+          "name": "maoam"
+        },
+        {
+          "spotify_id": "7GHpLKwhlOEzggNhtgQaYv",
+          "name": "level 8"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1494e40f404560fb6ec94b2",
+      "uri": "spotify:album:4dhN7griDaNXVA6V11wq4j",
+      "name": "give it to me",
+      "album_type": "single",
+      "release_date": "2024-04-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "5umWPuWy08G1yEugAzTxvh",
+          "name": "oscar duke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0e0ce9294236a3d55c0bce6",
+      "uri": "spotify:album:3IO9r6WxHD1igDGU96Gqiv",
+      "name": "don't leave me (dam di da)",
+      "album_type": "single",
+      "release_date": "2024-04-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "34lIancN28qj7jD4JxYOdE",
+          "name": "zana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f22765ab202bcd228735526",
+      "uri": "spotify:album:3SpHHuYNB1OqkupIrmWuMi",
+      "name": "think about the way",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7463509e1d2bfb0b28585f4",
+      "uri": "spotify:album:7F8t51dGpDj5QaGoqWXMRU",
+      "name": "would i lie to you",
+      "album_type": "single",
+      "release_date": "2024-03-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730844949fda3fba3f14b596e4",
+      "uri": "spotify:album:4YMUbErLQvjDsLmrjOqNtR",
+      "name": "in it for the kill",
+      "album_type": "single",
+      "release_date": "2024-03-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7dda295f2aa594e9b9b7261",
+      "uri": "spotify:album:3MvMOehdL4d28MaEvbo48Q",
+      "name": "stereo love",
+      "album_type": "single",
+      "release_date": "2024-03-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0QRElUVqKorMjCNg6yPQfw",
+          "name": "jeannette"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305f7b4a6c6a1516820ee34b8",
+      "uri": "spotify:album:5bmh7v9uDW1dovriyJtt9j",
+      "name": "i turn to you",
+      "album_type": "single",
+      "release_date": "2024-03-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273655fc8ffde7fbaad236cd38d",
+      "uri": "spotify:album:10EjfXFHAoZ2KtVwjslBtW",
+      "name": "living on my own",
+      "album_type": "single",
+      "release_date": "2024-02-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebed7c12b444e16825c0b793",
+      "uri": "spotify:album:1WH2h4lWgyKI3a3Dto1Bsb",
+      "name": "l’amour toujours",
+      "album_type": "single",
+      "release_date": "2024-02-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379a7db93e43c5e4a355d4da0",
+      "uri": "spotify:album:1GDvDZpfyuyzTFkBKbLxqo",
+      "name": "listen to your heart",
+      "album_type": "single",
+      "release_date": "2024-02-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ab8f35370ba0bead3a93faa",
+      "uri": "spotify:album:1iGTnfXuAoSUF6revxR5ej",
+      "name": "numb",
+      "album_type": "single",
+      "release_date": "2024-02-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7GHpLKwhlOEzggNhtgQaYv",
+          "name": "level 8"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2ba679a3916ebafae7218d4",
+      "uri": "spotify:album:4XBjD0YdqN3FjIyPT48AxD",
+      "name": "everybody's free (to feel good)",
+      "album_type": "single",
+      "release_date": "2024-02-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "5NcdmGRGHbjCHY5yU4tzPE",
+          "name": "urbano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbe86ee4d08429ded5cb2e6e",
+      "uri": "spotify:album:2gu56SoG1tKlPq30FoPoc3",
+      "name": "ameno",
+      "album_type": "single",
+      "release_date": "2024-01-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "7IuCvuIcTx2Rp05kwHuvSv",
+          "name": "maoam"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e58e68a232879f33277a2e",
+      "uri": "spotify:album:0AgbVdeMvkEsl3Bmv26r6A",
+      "name": "beautiful life",
+      "album_type": "single",
+      "release_date": "2024-01-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7bfde774090afe69c9d9e16",
+      "uri": "spotify:album:5WMLIFXqC0ajansfAnQ8WV",
+      "name": "baby when the light",
+      "album_type": "single",
+      "release_date": "2024-01-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "6ZEqI6H3n5xzdKJdJEUw5o",
+          "name": "hyper boyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273275de469291652674367e130",
+      "uri": "spotify:album:4oPNO7cCwIQGaV9CbZoZtF",
+      "name": "the island, pt. i (dawn)",
+      "album_type": "single",
+      "release_date": "2024-01-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e2c6b2075ee14d7739363fc",
+      "uri": "spotify:album:5ljfkZKYV5I0zNKfNYv1h1",
+      "name": "somebody to love",
+      "album_type": "single",
+      "release_date": "2023-12-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736656fb71a98772a541866b2d",
+      "uri": "spotify:album:4BOVFqeW13SpnYViJNR90R",
+      "name": "if i could turn back time",
+      "album_type": "single",
+      "release_date": "2023-12-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7g34C2v5CRE5K4objuYQSc",
+          "name": "julian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360bb25a78746961769b48d0e",
+      "uri": "spotify:album:1XFQWRSv7bLMAJoWuuGHtd",
+      "name": "in my mind",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ca01d62d7520c3fd344b540",
+      "uri": "spotify:album:1eAisZxU97LtahouIQsB48",
+      "name": "your love",
+      "album_type": "single",
+      "release_date": "2023-12-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0QRElUVqKorMjCNg6yPQfw",
+          "name": "jeannette"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5e195856b23e09f8640a62a",
+      "uri": "spotify:album:5CyBF3KzsmRSFHHms2Oeki",
+      "name": "if it wasn't for you",
+      "album_type": "single",
+      "release_date": "2023-11-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380e27f26cfb10dad4c99fdda",
+      "uri": "spotify:album:4LyS4eJvkXX77CopIPwpyK",
+      "name": "what's up",
+      "album_type": "single",
+      "release_date": "2023-11-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eae8bf050b1150ca6a3f65ab",
+      "uri": "spotify:album:0Ux1YVKtFJb3QfC0RLV1mt",
+      "name": "let it happen (techno)",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2tndYCXQneCV4jtoWRwVpz",
+          "name": "lucas estrada"
+        },
+        {
+          "spotify_id": "7LiVklVR1325BIOqD9kykr",
+          "name": "clmd"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7fe7077853f88d625181aff",
+      "uri": "spotify:album:6YRXoZqqIo9cWxYtCkNROM",
+      "name": "out of touch",
+      "album_type": "single",
+      "release_date": "2023-11-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733da5f0a4f81e14ff270ddd03",
+      "uri": "spotify:album:1ktifqUZryr38Lu8QYst2S",
+      "name": "use somebody",
+      "album_type": "single",
+      "release_date": "2023-11-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cd6a48e40c342a971e2c3ea",
+      "uri": "spotify:album:4ZZaPROmldjEyG060tD0sS",
+      "name": "la isla bonita",
+      "album_type": "single",
+      "release_date": "2023-10-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330d1668b96c3e70055a96745",
+      "uri": "spotify:album:21wmRs9Hg7gDNhwteT5cvF",
+      "name": "zombie",
+      "album_type": "single",
+      "release_date": "2023-10-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c07c56c852416da597d71464",
+      "uri": "spotify:album:0RceNXUFpLCon2tggDdv1w",
+      "name": "hush hush",
+      "album_type": "single",
+      "release_date": "2023-10-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1oFSLlpB3eM6V7Ka71a8Lx",
+          "name": "yoto"
+        },
+        {
+          "spotify_id": "2RXmfgMl9V8akCT4wzTyE9",
+          "name": "amanda collis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273948844222fe32cf771d8a4fe",
+      "uri": "spotify:album:09Dp56mvYQrsseAyPRnVwu",
+      "name": "turn the lights off",
+      "album_type": "single",
+      "release_date": "2023-10-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273835fc4a35a449f4646909470",
+      "uri": "spotify:album:7JiISwz47vlqSvPY3pburi",
+      "name": "(i just) died in your arms",
+      "album_type": "single",
+      "release_date": "2023-09-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273747edf8ebe68b3fd3ed35ad2",
+      "uri": "spotify:album:6at8Cac5A1nAJFhFDQGnBa",
+      "name": "i cry",
+      "album_type": "single",
+      "release_date": "2023-09-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273154e849639f9990d958b33b2",
+      "uri": "spotify:album:0J5qq7DDey8cP9fED1f0l5",
+      "name": "love story",
+      "album_type": "single",
+      "release_date": "2023-09-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7mXiVh1xuK89jd1QX0JuHS",
+          "name": "now o later"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730861c056b0aaf13c2c76b5a5",
+      "uri": "spotify:album:7LVJNMDDKdqc6TFsVyj17A",
+      "name": "wicked game",
+      "album_type": "single",
+      "release_date": "2023-09-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c91d909ba64753ad9b6580a5",
+      "uri": "spotify:album:0BRCLnwebVrm9HTBg8hgXA",
+      "name": "tell me why",
+      "album_type": "single",
+      "release_date": "2023-08-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7mXiVh1xuK89jd1QX0JuHS",
+          "name": "now o later"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3c8d539ee1cb931606c2e85",
+      "uri": "spotify:album:5wElHv70dit51NmWCMVDXz",
+      "name": "chasing cars",
+      "album_type": "single",
+      "release_date": "2023-08-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736511cde73968064ddb03e98b",
+      "uri": "spotify:album:6TaW66hs0ujaIlfU5RGjAe",
+      "name": "p.y.t. (pretty young thing) - chrit leaf remix",
+      "album_type": "single",
+      "release_date": "2023-07-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "04df2ILEj2H1MUilOCAdx6",
+          "name": "chrit leaf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e23918f1879a072e191b963",
+      "uri": "spotify:album:2K2ycYfcHf5CGvBvD0uk58",
+      "name": "love like we used to",
+      "album_type": "single",
+      "release_date": "2023-07-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0odPXKGYqtTpiWJFBhqyVB",
+          "name": "braaten"
+        },
+        {
+          "spotify_id": "71GRU9wS94BTdNwQWRMJV6",
+          "name": "heleen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305d623b8e154318d60737451",
+      "uri": "spotify:album:4PQfochLJssLHLZdx5HCJj",
+      "name": "paradise",
+      "album_type": "single",
+      "release_date": "2023-06-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb48549f13cf67a7a2d0032",
+      "uri": "spotify:album:4mjxQ3PgmKmo1lf2s1OYx7",
+      "name": "feel again",
+      "album_type": "single",
+      "release_date": "2023-06-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359657c37baf3c52272830351",
+      "uri": "spotify:album:6LINN1zh8g54c8Ab4eKSnp",
+      "name": "call me up (braaten & chrit leaf remix)",
+      "album_type": "single",
+      "release_date": "2023-05-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6I3DfJduHgMduD2MSrtaBw",
+          "name": "braaten & chrit leaf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ffe3709f0add1168dd6ba92",
+      "uri": "spotify:album:5CgJ3ezdoM5ko12xgGn2QX",
+      "name": "rhythm is a dancer - sped up",
+      "album_type": "single",
+      "release_date": "2023-05-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daf1794963db0cd59aa61018",
+      "uri": "spotify:album:1V3OH7UGnTLKxj5qUX8F1Y",
+      "name": "how do you love me",
+      "album_type": "single",
+      "release_date": "2023-04-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273106f6a1183f05b5d31ef04e0",
+      "uri": "spotify:album:673pVlsRvrUl1nhHggYWh3",
+      "name": "p.y.t. (pretty young thing)",
+      "album_type": "single",
+      "release_date": "2023-03-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5bd4ccc37bc156b1fade309",
+      "uri": "spotify:album:0KAEdf6PdwFXyTKHO4r0pd",
+      "name": "what is love",
+      "album_type": "single",
+      "release_date": "2023-01-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "7IuCvuIcTx2Rp05kwHuvSv",
+          "name": "maoam"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b41c9f832859c88b30c6fe2e",
+      "uri": "spotify:album:7jbgKeQiJJmxKMJkln2Ka9",
+      "name": "unwritten",
+      "album_type": "single",
+      "release_date": "2022-12-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0IOiHLj2Tkym3BoVk1p5AT",
+          "name": "dimmalou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1111093a2903bf7433a6473",
+      "uri": "spotify:album:0WdE1dXVWQIJtzDN49R8Bo",
+      "name": "i need a miracle",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JJc8is4VzgOz8ZanDj18J",
+          "name": "arem ozguc"
+        },
+        {
+          "spotify_id": "4xklx5DAtVru5uf3vSXTgf",
+          "name": "arman aydin"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379d41e22d0ab1fa6322d72a8",
+      "uri": "spotify:album:1GnzjnltVqcxJTAzYsphJb",
+      "name": "rhythm is a dancer - chrit leaf remix",
+      "album_type": "single",
+      "release_date": "2022-11-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "04df2ILEj2H1MUilOCAdx6",
+          "name": "chrit leaf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273562086a199a5c6e6ee8196d8",
+      "uri": "spotify:album:3zGETi4jg5TAtkdUogqAxh",
+      "name": "party all the time",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1SridnvhrGK3S0cfnVcOYR",
+          "name": "masove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae2c1d7d1a3343a8bb1cf65",
+      "uri": "spotify:album:1G1IAYP1XXaT9Tj4nrkmvZ",
+      "name": "safe and sound (braaheim & boehm remix)",
+      "album_type": "single",
+      "release_date": "2022-10-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1yYBD4cVxCxXQXi4QGZfSo",
+          "name": "kav verhouzer"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "08p782h5VznNEQMM4wAEp9",
+          "name": "boehm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273852cb6e236c7c4012775b566",
+      "uri": "spotify:album:5CB5ozeavrwahW0ckUIfIm",
+      "name": "all around the world (la la la la la) [chrit leaf remix]",
+      "album_type": "single",
+      "release_date": "2022-09-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "04df2ILEj2H1MUilOCAdx6",
+          "name": "chrit leaf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377673449c76bfc4726679aae",
+      "uri": "spotify:album:3qOEBeqsyBXlgpU5dcDw7e",
+      "name": "save tonight",
+      "album_type": "single",
+      "release_date": "2022-09-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "6hFz7qfv7dt2sgRuGBYnP1",
+          "name": "ilyaa"
+        },
+        {
+          "spotify_id": "1273CkIB0lP8EWV7OoqiKc",
+          "name": "dani vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273862691092270a61cb8f741ee",
+      "uri": "spotify:album:3u2MqWfc7aiZelzmdAkRaf",
+      "name": "all around the world (la la la la la)",
+      "album_type": "single",
+      "release_date": "2022-08-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d936240a7d73b8266e830824",
+      "uri": "spotify:album:6xJZMrpehtWT0cvA3IbvYq",
+      "name": "how deep is your love",
+      "album_type": "single",
+      "release_date": "2022-06-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd394cd849dc957ce5bbb533",
+      "uri": "spotify:album:6NQEZ6aURGOWm5QxjEMiHo",
+      "name": "from paris to berlin (chrit leaf remix)",
+      "album_type": "single",
+      "release_date": "2022-06-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "04df2ILEj2H1MUilOCAdx6",
+          "name": "chrit leaf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733322331ce5899a044cdfe9f2",
+      "uri": "spotify:album:1R1EmM9vtg3zMk2udHeHfa",
+      "name": "from paris to berlin",
+      "album_type": "single",
+      "release_date": "2022-06-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad44a20bbe28add0023f2a27",
+      "uri": "spotify:album:7hQrFSEgQCmOBYd4s07HZL",
+      "name": "don't leave me",
+      "album_type": "single",
+      "release_date": "2022-05-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e81e1794dae4b5f322714446",
+      "uri": "spotify:album:6cy9QdPzMvQjhthmANb4Zl",
+      "name": "glad you came",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273207fb45fc9aca7f71b4fa315",
+      "uri": "spotify:album:2i95t3UAKol4EK43kP2CsQ",
+      "name": "rhythm is a dancer",
+      "album_type": "single",
+      "release_date": "2022-03-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c99a8bf5042e188e71fc31ee",
+      "uri": "spotify:album:32A3ZMRKyovH9P5M5aVq0a",
+      "name": "heaven",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bd5646524786d64f4316317",
+      "uri": "spotify:album:1cFsfCOwVoAEyJEbvyZ6YX",
+      "name": "opa opa",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1rxRotylejS3RfFQa2Wd1G",
+          "name": "antique"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731776fd89102f53c14362cdc7",
+      "uri": "spotify:album:2ntTU2ewru5bglPW5Vi9NK",
+      "name": "what do you mean?",
+      "album_type": "single",
+      "release_date": "2022-01-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731df08f27db2e11ed7866b2d3",
+      "uri": "spotify:album:49PRONOokLu1nuZgTOPcQ9",
+      "name": "all night long",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d2a8b1a130e9e171ff04b43",
+      "uri": "spotify:album:4irbx3eL9dD2lDb2VJRpYo",
+      "name": "frihet",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0iofPG2lpSFBTn6lbwyp70",
+          "name": "lüd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caa199a16a9ad2a8e86ef0bb",
+      "uri": "spotify:album:31Ty2bBLFsT1zPXzTunR5n",
+      "name": "believe",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "0TVW1CjHIgfuFIUimSgPoj",
+          "name": "aili"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371a30571e36aecdb6b17bf87",
+      "uri": "spotify:album:6iQDe7pIJQgP7cD10mn0AA",
+      "name": "when love takes over",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e46e20f741077cca77a5f845",
+      "uri": "spotify:album:5R8JEq7FVJXZugSlnufORH",
+      "name": "bailamos",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "5PZS7XY3NZHDnI6g3wGyAB",
+          "name": "marco nobel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4f6be0afdad2d817c00115f",
+      "uri": "spotify:album:0dOQ3DGoywdkh2eDK2i1EW",
+      "name": "never have i ever",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e49d6cc846c07ba423b4da2",
+      "uri": "spotify:album:0BdjuWhnBI4AB5mrQ0SlmG",
+      "name": "heaven is a place on earth",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "1NC5UXrIWNEj6zQ46obvkq",
+          "name": "sbstn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736722cb550ff77646ef62e85d",
+      "uri": "spotify:album:7zc5Uqrrh2WmHTMHpzFqHh",
+      "name": "diamonds",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364c6888830d77d7108b3683e",
+      "uri": "spotify:album:1pMGGgEivQncVdedRQ1AgS",
+      "name": "ma cherie",
+      "album_type": "single",
+      "release_date": "2020-12-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1065970d9f9e093dc15197d",
+      "uri": "spotify:album:6rCvG4if3uF533fRK5dd9F",
+      "name": "call me up",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3b7860e4a09f2787cf853f7",
+      "uri": "spotify:album:4uIh5uWSOVG9mXQEvS9Xdd",
+      "name": "right now (na na na)",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333b49545d352be3271c2990c",
+      "uri": "spotify:album:52VALRlXsSUeYP6hQRfD5v",
+      "name": "uncover",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c3faacf25d7cdc27103f335",
+      "uri": "spotify:album:7pY1z63YlhmildFBwe8xB2",
+      "name": "dørvakta",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d06853fce92531a00cc4e47",
+      "uri": "spotify:album:2GXIttr5fHpVYwQJTAFrV5",
+      "name": "gucci klær",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d14b960b89660a419ca0a302",
+      "uri": "spotify:album:4piX0AUhRMAu4oGCaIigHQ",
+      "name": "til sola går ned",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734479d3f34dceec9ce57b5243",
+      "uri": "spotify:album:54mBqAmJGMEnlWB6hZH4oL",
+      "name": "nissen drar sin vei",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab450e520df2f20e382327cf",
+      "uri": "spotify:album:0zM8bBEiWpG5y0NBDkFJZX",
+      "name": "papa tix",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273307316ebd6d7b22f6ae683ec",
+      "uri": "spotify:album:0dG4MeplI4QbH4sMhzEhvw",
+      "name": "norweger auf afterski",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273328f652b9f40717725f52bdd",
+      "uri": "spotify:album:2aoObqc3N56eXkwIdMvzer",
+      "name": "snabel",
+      "album_type": "single",
+      "release_date": "2019-02-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f694613f97024be592509f4",
+      "uri": "spotify:album:0NchHddlN1dfyjGTMWviUB",
+      "name": "tommy schnell",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Gam26BLQrBOvHVZMMaIJd",
+          "name": "tommy schnell"
+        },
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3fa1e89b2fa525473660723",
+      "uri": "spotify:album:2kfVFurGykUalvzT0Uwotg",
+      "name": "en som deg",
+      "album_type": "single",
+      "release_date": "2018-06-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        },
+        {
+          "spotify_id": "4s8a9nBSdGhzaIFGW34vP5",
+          "name": "synne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d827297fc069d7f20fea1af0",
+      "uri": "spotify:album:3OPRxu8oH3sY5VD58Mqmhx",
+      "name": "jul på laaven",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375685b1f68d1ee6c66b4dc72",
+      "uri": "spotify:album:0EQZTdz7ZRRgvJDTceGMJH",
+      "name": "kickoff på laaven",
+      "album_type": "single",
+      "release_date": "2017-08-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391774e4ce7eabe7cce204036",
+      "uri": "spotify:album:3rudOtybBjz5ElonuU97o4",
+      "name": "sommer på laaven",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396afe65162ebc9f81a3b58c2",
+      "uri": "spotify:album:7GjvbMfbLI7rCuTIo21at3",
+      "name": "påske på laaven",
+      "album_type": "single",
+      "release_date": "2017-02-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273866da6d32ad24974974a1a6b",
+      "uri": "spotify:album:064tZADdaVdDd1pOE7wpEN",
+      "name": "laaven",
+      "album_type": "single",
+      "release_date": "2016-12-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5yczwlOmRZG3wUEtvLiGBg",
+          "name": "braaheim"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:24.000Z"
+}

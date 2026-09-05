@@ -1,0 +1,606 @@
+{
+  "name": "former",
+  "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+  "uri": "spotify:artist:5JUoiC2oaCGmgVl1Dsw1vN",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3b23f92b336257c8c5511d0b",
+  "genres": [
+    "bass music",
+    "drum and bass",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a57cd4f8501bbf1f1d7d823",
+      "uri": "spotify:album:3savLzfnKyLSQ8v7U3gRsY",
+      "name": "lownoise",
+      "album_type": "single",
+      "release_date": "2026-08-13",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c8c9cf39073b902a51618ea",
+      "uri": "spotify:album:4aLilCwYZ1lV0GldFFQHyJ",
+      "name": "burner",
+      "album_type": "single",
+      "release_date": "2026-07-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273310d2d0fab87de1be8d47569",
+      "uri": "spotify:album:25YFAz99rNMWBSamNDRyHT",
+      "name": "it never lasts long enough",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fb79fe3112831cd83968999",
+      "uri": "spotify:album:46421LsIUto4qH0nA3n03Q",
+      "name": "aerial / kontusion",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730df7dc8e6b5aa4b109eddee7",
+      "uri": "spotify:album:17BvnU9OwkJbKYjnk0wAlY",
+      "name": "pleasure model (ring noord 172 mix)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366148aee69d6810e50d384a0",
+      "uri": "spotify:album:2ZY7fEeKxnAPkYnr4JrGdl",
+      "name": "pleasure model (ring noord 150 mix)",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcb9abbea74ee6950af6d019",
+      "uri": "spotify:album:212TXvmx36mFhwXfAIux1X",
+      "name": "another road",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da82631c2a2bc47c0ab6fe66",
+      "uri": "spotify:album:0ukZ26WTSdnxMwRZv4fMKt",
+      "name": "break you",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a143a03af74d5e7e83c33f81",
+      "uri": "spotify:album:72qUD9yf6p0YG5Pd8GVR9h",
+      "name": "little finger",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b36acfb0b9382ca8d0e58fd",
+      "uri": "spotify:album:3AYsxTbk9MZtVjquj60Isb",
+      "name": "wild flowers",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ft7vEW2Liid1yZbmR5bF2",
+          "name": "sleepnet"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        },
+        {
+          "spotify_id": "2LG15MTQyH0AMfeCMjdr8A",
+          "name": "ring noord"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d64ea104c45a2857cd18abd7",
+      "uri": "spotify:album:14CRxqf1dHsTEx6pa9Vj8T",
+      "name": "hollow eye",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba5c0c11c61250ed4540f35c",
+      "uri": "spotify:album:5bieXUUleD4jyZG7GeRrXU",
+      "name": "groningen / eso raider",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739068e3fd012b15490b3f8d5f",
+      "uri": "spotify:album:5O5M5PmJHdGdJ838vSQLXT",
+      "name": "turnhand",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734938c3f4da7d7f10ecb3cacc",
+      "uri": "spotify:album:2tlfctd7hqf8GL0q6mWwHq",
+      "name": "there i go",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735338d95ff418e56b036f725b",
+      "uri": "spotify:album:3PPlWEUcKG0Yrch1c56zj7",
+      "name": "always smiling mouth",
+      "album_type": "single",
+      "release_date": "2023-11-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7426564c232bca5a26c1a53",
+      "uri": "spotify:album:4TrHS0AInX8sRBt8CGoaXJ",
+      "name": "nightshop angel 222",
+      "album_type": "single",
+      "release_date": "2023-09-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7aca668467a1c4344fc22e8",
+      "uri": "spotify:album:2blch8AGbM2nbZ3ForDaIf",
+      "name": "ascension",
+      "album_type": "single",
+      "release_date": "2023-06-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a1eeb1632331647281de708",
+      "uri": "spotify:album:7axTSfeNGq6yTaY2YeK9gh",
+      "name": "dominate (former remix)",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec4c1c417b42872806124639",
+      "uri": "spotify:album:5kIzTophQHPg2pd4oIJsYV",
+      "name": "temper (former remix)",
+      "album_type": "single",
+      "release_date": "2023-04-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Y7rFm0tiJTVDzGLMzz0W1",
+          "name": "imanu"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735207834d6e60ed217416eb5c",
+      "uri": "spotify:album:2mPiTF0jC2FIXt8KYJilnR",
+      "name": "the tide (former tunnel version)",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b2534429b772a891e453e66",
+      "uri": "spotify:album:71OrUVNOIs2GKMcmXyYnoa",
+      "name": "pleasure model / cleansing",
+      "album_type": "single",
+      "release_date": "2022-05-12",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b41ef1ec4406ebef3ce17a01",
+      "uri": "spotify:album:7ecCHW6j4NfFZRG1Sn6KAF",
+      "name": "the tide (former remix)",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738adc53d3681922533b53d705",
+      "uri": "spotify:album:1fS8kIXuQXiaRRIHYc7Eab",
+      "name": "void song",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273babac83f44f17995d3c9f059",
+      "uri": "spotify:album:5qJGR2nGCDWTeEDJzUVT6O",
+      "name": "sun tracker",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7nmucrDZXxIQNGLwCqPQpO",
+          "name": "posij"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ef75e26084c5d92f04997e4",
+      "uri": "spotify:album:4iYtDwNyjIpEB1MotiHvyu",
+      "name": "xbells",
+      "album_type": "single",
+      "release_date": "2020-10-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7nmucrDZXxIQNGLwCqPQpO",
+          "name": "posij"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731217f5b4cea2a9537c94bcca",
+      "uri": "spotify:album:0I6grJkKnjJp1t9BImbEkC",
+      "name": "ultra",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7nmucrDZXxIQNGLwCqPQpO",
+          "name": "posij"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fab081dbe210f2f49f5c8b9",
+      "uri": "spotify:album:5gQJz1el4M5Wd7zxnGCLEs",
+      "name": "tunnel wizard",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae32df05290d85bbf7553825",
+      "uri": "spotify:album:6Gt9MfJoGy9uYxEaVjBS8C",
+      "name": "white field",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1603aa333952275d19e08fb",
+      "uri": "spotify:album:3VEpa2POz2ehL6iQIFl3jU",
+      "name": "cleansing",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b028820b6c7ab391082e8b30",
+      "uri": "spotify:album:45c8HNSfnljXubSpeJHYTr",
+      "name": "edge mecha",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da8b449fa8c888fc9378c152",
+      "uri": "spotify:album:3gol5mXaXY1onccI6Sao6X",
+      "name": "pleasure model",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        },
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342f6474d5756069d36d75ead",
+      "uri": "spotify:album:3HKbWfoZlJoTJOez2dhvN2",
+      "name": "lanark",
+      "album_type": "single",
+      "release_date": "2015-07-01",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5JUoiC2oaCGmgVl1Dsw1vN",
+          "name": "former"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:01.000Z"
+}

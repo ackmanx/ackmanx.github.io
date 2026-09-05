@@ -1,0 +1,583 @@
+{
+  "name": "peggy gou",
+  "spotify_id": "2mLA48B366zkELXYx7hcDN",
+  "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebffbd43b1e54eb09a8c824f53",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abe678506dae97703f6a4285",
+      "uri": "spotify:album:2QTswa6ASdPGZ6DXfQWrax",
+      "name": "wo, man (edit)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "3ZpEKRjHaHANcpk10u6Ntq",
+          "name": "ayra starr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d287410b146c73a9611a24b",
+      "uri": "spotify:album:1ceKmL44svlYzu0218VoPt",
+      "name": "i feel so free (peggy gou energy mix)",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6tbjWDEIzxoDsBA1FuhfPW",
+          "name": "madonna"
+        },
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368968acba930bfdfbd8ef764",
+      "uri": "spotify:album:4uehWsaRaI59i4vZgQKQOB",
+      "name": "where do we go (peggy gou remix)",
+      "album_type": "single",
+      "release_date": "2026-04-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZpEKRjHaHANcpk10u6Ntq",
+          "name": "ayra starr"
+        },
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ddb97615ce57a303e159b58",
+      "uri": "spotify:album:2AgQHiCnhTpiOwZ29rrZ6v",
+      "name": "d.a.n.c.e (from f1® the movie)",
+      "album_type": "single",
+      "release_date": "2025-06-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "3aly4xJOy3LVznzvRIvFYC",
+          "name": "f1 the album"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba8d5d911598c406b4aa806b",
+      "uri": "spotify:album:4AzXyYHVGI7OHC2B6u0MbC",
+      "name": "like jennie",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "250b0Wlc5Vk0CoUsaCY84M",
+          "name": "jennie"
+        },
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d095ff21b010986026219893",
+      "uri": "spotify:album:0VGwTefFVC2h5X9UBQ3qm8",
+      "name": "find the way (smokey bubblin' b remix)",
+      "album_type": "single",
+      "release_date": "2024-11-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "1iXq8vdKgJp43m1vhiAmUM",
+          "name": "smokey bubblin' b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a88af86e58641399f414de85",
+      "uri": "spotify:album:798ipPSqEJLh6uIRCqAtcK",
+      "name": "find the way (dj q remix)",
+      "album_type": "single",
+      "release_date": "2024-10-30",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "7dDPt2xIGymSDddx80OfF1",
+          "name": "dj q"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392962a23e27072a8084d31a3",
+      "uri": "spotify:album:5EGfRfeXfcrx6la5ZYNmjx",
+      "name": "i hear you – bonus tracks edition",
+      "album_type": "album",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273182ca67e553ac38fd9a28924",
+      "uri": "spotify:album:11pq24uahxvbUMhXhmRdcN",
+      "name": "find the way",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b58857b06c0d9ebf76458dc1",
+      "uri": "spotify:album:5pnr4GOQkBuGuYPeiLw1T6",
+      "name": "i hear you",
+      "album_type": "album",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e40b077a4f607bbdfa008ba3",
+      "uri": "spotify:album:5SmaAe7mkfMRyfjw1emgZp",
+      "name": "lobster telephone (edit)",
+      "album_type": "single",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329e6bc4461bea38b991a9b35",
+      "uri": "spotify:album:4jLAzkokPOXLjGMLaLhryc",
+      "name": "1+1=11",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353da239062d119e730473438",
+      "uri": "spotify:album:5HRtN5JcxONyY8WlvayG2g",
+      "name": "i believe in love again (jex opolis remix)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "5gznATMVO85ZcLTkE9ULU7",
+          "name": "lenny kravitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa54578ae163a7342b6a82c5",
+      "uri": "spotify:album:4j8paHpWXq0sgm5jcWl84R",
+      "name": "i believe in love again",
+      "album_type": "single",
+      "release_date": "2023-11-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "5gznATMVO85ZcLTkE9ULU7",
+          "name": "lenny kravitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a658ab0f60cc249da0b97de5",
+      "uri": "spotify:album:6v3I0eftpzoc1VNR9JoVyc",
+      "name": "(it goes like) nanana",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2",
+      "uri": "spotify:album:2LVDNOUUy2g8517ZEtQIcK",
+      "name": "(it goes like) nanana [edit]",
+      "album_type": "single",
+      "release_date": "2023-06-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d31ceb0eb59bd9444609ce2",
+      "uri": "spotify:album:046ZhN1OxrBDq9KSUQTzm3",
+      "name": "can't get you out of my head (peggy gou’s midnight remix)",
+      "album_type": "single",
+      "release_date": "2022-05-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4RVnAU35WRWra6OZ3CbbMA",
+          "name": "kylie minogue"
+        },
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336e4b14aaa5f2c37839218b3",
+      "uri": "spotify:album:5ROthns2NsZzi0cx6o0vcs",
+      "name": "i go (remixes)",
+      "album_type": "single",
+      "release_date": "2022-03-30",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aeb6f94505f5f356d2b0ff41",
+      "uri": "spotify:album:1221WGmWD1oF62vZtMScdk",
+      "name": "i go",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387ae8ee5a05706f9801270d1",
+      "uri": "spotify:album:06LftbqN9jVmaHDFq4eitA",
+      "name": "nabi (feat. ohhyuk)",
+      "album_type": "single",
+      "release_date": "2021-06-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734912e1e3b2b1bebde94f102b",
+      "uri": "spotify:album:6juwIAOIKkN7D9JavrZnSf",
+      "name": "jigoo (radio edit)",
+      "album_type": "single",
+      "release_date": "2020-02-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4T6l995AHz8HCY7TCfQorD",
+          "name": "maurice fulton"
+        },
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e152b1a98e4cca94fbe742e7",
+      "uri": "spotify:album:14BFEPRu1ERewCV8dhRQ6R",
+      "name": "dj-kicks (peggy gou) [dj mix]",
+      "album_type": "album",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323e1f1d3b297f17521d8171d",
+      "uri": "spotify:album:746ZU4riC8a5f4aCrJ5IuE",
+      "name": "dj-kicks ep",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399f46edcdce37f83857dd194",
+      "uri": "spotify:album:13ANf72KYKBlFSwGgiC1Y1",
+      "name": "moment ep",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739714a3b22d67b58b7f442818",
+      "uri": "spotify:album:0bYW9weJ7SXRaBFbWuBQeI",
+      "name": "starry night",
+      "album_type": "single",
+      "release_date": "2019-03-22",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c8224f4f4159cefa0519ac8",
+      "uri": "spotify:album:28pHz2kT32PUNpZ77LnrwS",
+      "name": "it makes you forget (itgehane) [remixes]",
+      "album_type": "single",
+      "release_date": "2018-11-28",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313cb62110ec9fee1324b601a",
+      "uri": "spotify:album:3hbGmZaqQjrAWrF8X5vna1",
+      "name": "needs x un women present heforshe",
+      "album_type": "single",
+      "release_date": "2018-06-25",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        },
+        {
+          "spotify_id": "1AodPTJeY4eSw69exOwnmX",
+          "name": "juju & jordash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da6df5d2f0fb83ade4d6f8fe",
+      "uri": "spotify:album:6deWiLAKj3Zpb85JrFbvlO",
+      "name": "travelling without arriving",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e56ec6db717dc5c252261f9f",
+      "uri": "spotify:album:6iPrb23tXiLrKCCmiAqVTA",
+      "name": "once",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dc2a20e49bcadbd9f1349b0",
+      "uri": "spotify:album:1roLEv2utEsKhcuKA6DnGc",
+      "name": "han jan",
+      "album_type": "single",
+      "release_date": "2018-02-26",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca6eb064be8e68ec47e621bd",
+      "uri": "spotify:album:6KQHrwJdcPIUx1mb97b1Nj",
+      "name": "it makes you forget (itgehane)",
+      "album_type": "single",
+      "release_date": "2018-01-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738abe90ad2c4169741705a4ad",
+      "uri": "spotify:album:6fwjLcIzNrgIxhqSVPcPTX",
+      "name": "seek for maktoop",
+      "album_type": "single",
+      "release_date": "2016-10-14",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304404b27c4d7af48d912c0b3",
+      "uri": "spotify:album:5wKpkXfZE8R4jQzlszOplp",
+      "name": "art of war (pt. ii) ep",
+      "album_type": "single",
+      "release_date": "2016-04-22",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2bc595409da8d8689b19f9b",
+      "uri": "spotify:album:6mVEU0cBrcGxhlE55d96H3",
+      "name": "day without yesterday / six o six",
+      "album_type": "single",
+      "release_date": "2016-04-01",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eba22066af631acda80c33d8",
+      "uri": "spotify:album:2GSiOe0Olm5qoWM6jLtxKo",
+      "name": "art of war ep",
+      "album_type": "single",
+      "release_date": "2016-02-05",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2mLA48B366zkELXYx7hcDN",
+          "name": "peggy gou"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:46.000Z"
+}

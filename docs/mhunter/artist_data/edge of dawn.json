@@ -1,0 +1,90 @@
+{
+  "name": "edge of dawn",
+  "spotify_id": "5B5VUAt1DgFd06la5kboim",
+  "uri": "spotify:artist:5B5VUAt1DgFd06la5kboim",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273f35880f2b36272184a81d296",
+  "genres": [
+    "ebm",
+    "industrial",
+    "synthpop",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6699c27cef66a402799e1ad",
+      "uri": "spotify:album:7zzgzuwloIywDbGYlJLbgy",
+      "name": "stage fright",
+      "album_type": "album",
+      "release_date": "2010-12-03",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5B5VUAt1DgFd06la5kboim",
+          "name": "edge of dawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f35880f2b36272184a81d296",
+      "uri": "spotify:album:2HgKPvTIZGmQO4tpIBTnig",
+      "name": "anything that gets you through the night",
+      "album_type": "album",
+      "release_date": "2010-05-21",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5B5VUAt1DgFd06la5kboim",
+          "name": "edge of dawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305331fdfb126599cfedf1862",
+      "uri": "spotify:album:5oZ6DGVPTGHlayjEUzEK3z",
+      "name": "borderline black heart",
+      "album_type": "album",
+      "release_date": "2007-09-28",
+      "release_year": "2007",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5B5VUAt1DgFd06la5kboim",
+          "name": "edge of dawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351c0a56e0584e8b73d6ffaaa",
+      "uri": "spotify:album:7noPDtvHcJUdSJlSFxMIzD",
+      "name": "enjoy the fall",
+      "album_type": "album",
+      "release_date": "2007-04-27",
+      "release_year": "2007",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5B5VUAt1DgFd06la5kboim",
+          "name": "edge of dawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7d0f0db41111569f5c08306",
+      "uri": "spotify:album:6KPcffzmIaghWwlYYvbDQi",
+      "name": "the flight (lux)",
+      "album_type": "album",
+      "release_date": "2005-11-18",
+      "release_year": "2005",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5B5VUAt1DgFd06la5kboim",
+          "name": "edge of dawn"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:14.000Z"
+}

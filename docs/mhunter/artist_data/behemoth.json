@@ -1,0 +1,629 @@
+{
+  "name": "behemoth",
+  "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+  "uri": "spotify:artist:1MK0sGeyTNkbefYGj673e9",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb0cf0bfbb3080adf39332397",
+  "genres": [
+    "black metal",
+    "death metal",
+    "metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273653a650845e297407880d651",
+      "uri": "spotify:album:4jCDW7UHRoVXfgRBE9OFLR",
+      "name": "i, scvlptor",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e5cceadcd227c222dffb51f",
+      "uri": "spotify:album:13kHugsokuxv7uqS7Nyt4O",
+      "name": "the return of darkness and evil (mystic festival anthem 2026)",
+      "album_type": "single",
+      "release_date": "2026-04-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcc66e8c735fde326bc63ca3",
+      "uri": "spotify:album:3qPPdPFGRfbTwWnZbLS71F",
+      "name": "the shit ov god",
+      "album_type": "album",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed954a6dda2b8663d58240ec",
+      "uri": "spotify:album:0UuRapTENATp7qjJ7AWPnD",
+      "name": "lvciferaeon",
+      "album_type": "single",
+      "release_date": "2025-04-08",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e550925779346f4334f68cf8",
+      "uri": "spotify:album:368LvzVtG97TQPF42TAwch",
+      "name": "the shadow elite",
+      "album_type": "single",
+      "release_date": "2025-03-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d83831c6804bf796eb22f51",
+      "uri": "spotify:album:3ccudifPGHRHUE8AMuCUQC",
+      "name": "the shit ov god",
+      "album_type": "single",
+      "release_date": "2025-01-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b32a7e572d7f322e42d5c401",
+      "uri": "spotify:album:4SNgCerS7obje1M8pIcdXf",
+      "name": "xxx years ov blasphemy",
+      "album_type": "album",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c72188d81aada38decb65f4",
+      "uri": "spotify:album:4HJqsD4Aw2HHa24liDoxFe",
+      "name": "opvs contra natvram",
+      "album_type": "album",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273043469e8e9f1393de9802361",
+      "uri": "spotify:album:1MPgN1aWBHHmyO5P0uc6AJ",
+      "name": "in absentia dei (live)",
+      "album_type": "album",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c312b4d725642c87e38fba11",
+      "uri": "spotify:album:4Rb0cCSX0OWBEeYSN1nFua",
+      "name": "prometherion (live)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fb7a3475fbe47a77a569741",
+      "uri": "spotify:album:5GWtLEVf09PeszC2JtdhL4",
+      "name": "bartzabel (live)",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2d19345ff735639dc16f301",
+      "uri": "spotify:album:44x4YxJBIu14kGJolIpgoa",
+      "name": "evoe (live)",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0e712bd80fda9332ef8646f",
+      "uri": "spotify:album:3T0BBAg6AMkx2dRoOueyMb",
+      "name": "a forest",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738424c4fb86b327f12dd81d5c",
+      "uri": "spotify:album:0szzBGSznboVnBNTZ1MUIb",
+      "name": "a forest",
+      "album_type": "single",
+      "release_date": "2020-05-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3f775981ab9859cd2b9ffa7",
+      "uri": "spotify:album:1xX7ZgqTtIRow0kjToPrmB",
+      "name": "live from maida vale",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab8620566920caf0f02a5566",
+      "uri": "spotify:album:0UZaHhKKxDJ3a8wc7iNUk8",
+      "name": "wolves ov siberia (radio 1 session)",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e58e3f2e4e661c23f0d4e8e6",
+      "uri": "spotify:album:3Do9xEU0fSirYUJy5TguYv",
+      "name": "i loved you at your darkest",
+      "album_type": "album",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273941096779e848d8583bfeff8",
+      "uri": "spotify:album:1EO5jBRNgoKQed0DJBSBmh",
+      "name": "bartzabel",
+      "album_type": "single",
+      "release_date": "2018-10-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e247b5022ab5d8ebaf26068d",
+      "uri": "spotify:album:1wmV6LXqPRYwcVIbd2rVLt",
+      "name": "wolves ov siberia",
+      "album_type": "single",
+      "release_date": "2018-09-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff8e9a1525c193963830190e",
+      "uri": "spotify:album:5RopMg2TlFgXgbW2N5HoYI",
+      "name": "god = dog",
+      "album_type": "single",
+      "release_date": "2018-08-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d430b64517be2530e8091c0",
+      "uri": "spotify:album:3iRoSFy6nNat6Q9MOA9WSg",
+      "name": "messe noire: live satanist",
+      "album_type": "album",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de6c3e1a10d1f81a9d6a1568",
+      "uri": "spotify:album:5BCMN2e1Q6ipg4FoHZCXDc",
+      "name": "messe noire (live)",
+      "album_type": "single",
+      "release_date": "2018-04-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273882a86465f722503e7eb55d9",
+      "uri": "spotify:album:5g3WI6XNUwzRv0J9nPHoUO",
+      "name": "the satanist (live)",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730206fa73984601e585233ddb",
+      "uri": "spotify:album:2UhrRAJai91wfkumtAYZcM",
+      "name": "blow your trumpets gabriel (live)",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3c35861c024624f345d6668",
+      "uri": "spotify:album:7BuHY1Z8y7kFZLM0c8h27b",
+      "name": "thy winter kingdom / from the pagan vastlands",
+      "album_type": "album",
+      "release_date": "2015-01-29",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8faaaa9beaa1ceb9d85138e",
+      "uri": "spotify:album:7l0L2YHlQwAyI4QyZTIWGS",
+      "name": "the satanist",
+      "album_type": "album",
+      "release_date": "2014-02-04",
+      "release_year": "2014",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e6b98fc1b13c24b47c2ad83",
+      "uri": "spotify:album:6WcS8eQQQi98ISWZetZDew",
+      "name": "blow your trumpets gabriel",
+      "album_type": "single",
+      "release_date": "2013-12-03",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa03c074bc2a8ede0082317b",
+      "uri": "spotify:album:0FZDxu9FUEEFv2CGSGJ9Fd",
+      "name": "abyssus abyssum invocat",
+      "album_type": "album",
+      "release_date": "2011-06-07",
+      "release_year": "2011",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273030c211808be74fd8c584d00",
+      "uri": "spotify:album:6ZizJ3rk1Eok7JOKL6UMwv",
+      "name": "evangelion",
+      "album_type": "album",
+      "release_date": "2009-08-07",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cce47b8cddd6f5926462926",
+      "uri": "spotify:album:2G0pTF64hnQ1SwGF6B22j0",
+      "name": "evangelia heretika (live)",
+      "album_type": "album",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273360321031e3adffed1c24de5",
+      "uri": "spotify:album:0QAOM2hflAZSiSxRGcBVdQ",
+      "name": "ezkaton",
+      "album_type": "album",
+      "release_date": "2008-11-11",
+      "release_year": "2008",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273995f332b8606a590bcab77e3",
+      "uri": "spotify:album:3uKQnAnKQXvtau6tvFDyh1",
+      "name": "the apostasy",
+      "album_type": "album",
+      "release_date": "2007-07-17",
+      "release_year": "2007",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b09786fd2e6283dab5e9a47a",
+      "uri": "spotify:album:6eS5nDuS4SzqoB2KBG2S7D",
+      "name": "demonica",
+      "album_type": "album",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e267212cb60dbb632881307",
+      "uri": "spotify:album:0agVluQ3DkGd2dIec20gU6",
+      "name": "demigod",
+      "album_type": "album",
+      "release_date": "2004-10-11",
+      "release_year": "2004",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e852d906c6a98677b5490ea0",
+      "uri": "spotify:album:5eOUM8SuILYbLzNrclBrJN",
+      "name": "zos kia cultus",
+      "album_type": "album",
+      "release_date": "2002-01-01",
+      "release_year": "2002",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bea7729c70e6de89e63038c",
+      "uri": "spotify:album:3BcBDw1OnNgaXJLpIt2SEb",
+      "name": "thelema 6",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a5e6c3f4b3d75969fa507d9",
+      "uri": "spotify:album:5TSdWAb6rXBYQ4a98iiGUI",
+      "name": "pandemonic incantations",
+      "album_type": "album",
+      "release_date": "1998-03-02",
+      "release_year": "1998",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f94a680feabc12be06c2fd2",
+      "uri": "spotify:album:3jDontjvoDGdiP03vcbw2y",
+      "name": "satan's sword (i have become)",
+      "album_type": "single",
+      "release_date": "1998",
+      "release_year": "1998",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273313ad0d89e9a0971ff19c7f2",
+      "uri": "spotify:album:2hhLpYIq7bd5NkLEXD8i9s",
+      "name": "grom",
+      "album_type": "album",
+      "release_date": "1996-01-02",
+      "release_year": "1996",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373bfff42bd3fa8381364f79e",
+      "uri": "spotify:album:2Pf0WGAowyt0A5hZ6NGSEQ",
+      "name": "sventevith (storming near the baltic)",
+      "album_type": "album",
+      "release_date": "1995-04-01",
+      "release_year": "1995",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273096021392ab32ff3927fd3e2",
+      "uri": "spotify:album:0IoFmDnV7246CnIeCVblxM",
+      "name": "and the forests dream eternally",
+      "album_type": "album",
+      "release_date": "1994-08-14",
+      "release_year": "1994",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1MK0sGeyTNkbefYGj673e9",
+          "name": "behemoth"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:10.000Z"
+}

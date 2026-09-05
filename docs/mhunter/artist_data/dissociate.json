@@ -1,0 +1,55 @@
+{
+  "name": "dissociate",
+  "spotify_id": "2jaduQUJ49zB6K8ooeVtEs",
+  "uri": "spotify:artist:2jaduQUJ49zB6K8ooeVtEs",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb070178a17aff23694ed4e2d8",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730def6a434d8c376809f3c8a7",
+      "uri": "spotify:album:150rQaGSs0O9ouQtZAG35e",
+      "name": "pls be mine",
+      "album_type": "single",
+      "release_date": "2023-06-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2jaduQUJ49zB6K8ooeVtEs",
+          "name": "dissociate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3989b3486c686a2cd244f48",
+      "uri": "spotify:album:0uzutSurbDCoGJiC4Sssqa",
+      "name": "heartache",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2jaduQUJ49zB6K8ooeVtEs",
+          "name": "dissociate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273571c7a4faf90ca7948d459d3",
+      "uri": "spotify:album:3te4x0Dtfwr6VWNHaFeOtF",
+      "name": "damaged",
+      "album_type": "single",
+      "release_date": "2018-01-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2jaduQUJ49zB6K8ooeVtEs",
+          "name": "dissociate"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:11.000Z"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "福克斯",
+  "spotify_id": "6UWHAmMGO1EK76InCEFpe1",
+  "uri": "spotify:artist:6UWHAmMGO1EK76InCEFpe1",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27360cb062ce23104ddade5fb34",
+  "genres": [
+    "chinese hip hop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ecd9879fc5a552712449f79",
+      "uri": "spotify:album:0RUBYEVfCme9nFTOGFqbQh",
+      "name": "二十四·味：章节二",
+      "album_type": "single",
+      "release_date": "2020-08-24",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6UWHAmMGO1EK76InCEFpe1",
+          "name": "福克斯"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc88ef99c281a9d6f05c8142",
+      "uri": "spotify:album:1cKRKYcftqbEF28VVq5GOs",
+      "name": "醉江南",
+      "album_type": "single",
+      "release_date": "2020-08-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6UWHAmMGO1EK76InCEFpe1",
+          "name": "福克斯"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360cb062ce23104ddade5fb34",
+      "uri": "spotify:album:0GvYcQKhGg5nzsSYCMu4Cn",
+      "name": "why we fight",
+      "album_type": "single",
+      "release_date": "2019-04-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wUy06n0erIlUL3sZ5MNiK",
+          "name": "k￥ller"
+        },
+        {
+          "spotify_id": "6UWHAmMGO1EK76InCEFpe1",
+          "name": "福克斯"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e572f20b22836c99f404dcc",
+      "uri": "spotify:album:71f4x23IZ2GkMsSEoBEWXC",
+      "name": "海外东坡",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5XiErazxZDF3a73oR1LYn2",
+          "name": "hayrul海力"
+        },
+        {
+          "spotify_id": "0vMqWBhep5vBEhNUX6Y9uN",
+          "name": "隆历奇"
+        },
+        {
+          "spotify_id": "6UWHAmMGO1EK76InCEFpe1",
+          "name": "福克斯"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:37:12.000Z"
+}

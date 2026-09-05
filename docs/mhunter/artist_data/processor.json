@@ -1,0 +1,1637 @@
+{
+  "name": "processor",
+  "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+  "uri": "spotify:artist:3PsLxyLABzuf3dUMpS05Mp",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc255c01bd0b3de431d2e9009",
+  "genres": [
+    "industrial metal",
+    "industrial",
+    "ebm",
+    "industrial rock",
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c90af767444fc8b87ddf77c1",
+      "uri": "spotify:album:1292NqklyQlzTVd2rl4MD3",
+      "name": "shadow waltz",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7IgAHxP7vH6TfXJtf8Kbai",
+          "name": "swik"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ce5e5891aeb334bcd6fd309",
+      "uri": "spotify:album:2zaP7inOpZVUfvjy3r3RWC",
+      "name": "royal leash v h",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "7H9TK6F7wzDe4HRxrksjAW",
+          "name": "little chili"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ad37a317b7015feb72dba7e",
+      "uri": "spotify:album:61x2x5EJOl4sr9OFcz0AZc",
+      "name": "breather",
+      "album_type": "single",
+      "release_date": "2026-06-18",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "7H9TK6F7wzDe4HRxrksjAW",
+          "name": "little chili"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6d1b917c54ca90d163f9fcc",
+      "uri": "spotify:album:31Fu7f8ZrrAP7ic0fqxSo0",
+      "name": "static",
+      "album_type": "single",
+      "release_date": "2026-05-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "7H9TK6F7wzDe4HRxrksjAW",
+          "name": "little chili"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e89187b7741c831e1fcd7d0f",
+      "uri": "spotify:album:0TSdGxopV1kFgxG4gu5aB4",
+      "name": "never find my way home...",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a67051282f0537514005d54b",
+      "uri": "spotify:album:4GyMNjbInIqFTpG4dd8Oao",
+      "name": "justify",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7cb807fdc3b36d0397647f0",
+      "uri": "spotify:album:1f7U3HSqsJgcae1KZCFt6d",
+      "name": "l i l y",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac577857a5cdd33ca0935e76",
+      "uri": "spotify:album:52R5ARh7cFwtATEnGskHso",
+      "name": "odd grl",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4343052ce5a1c7650b1ea9b",
+      "uri": "spotify:album:4VAEOjVkkKOUBZ89a0PdZq",
+      "name": "pick 'em",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340c0bb05178ecbbbcd6c9b46",
+      "uri": "spotify:album:3Bsj2NIKK0vUH5ioE1wwpK",
+      "name": "rock the cradle",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "7H9TK6F7wzDe4HRxrksjAW",
+          "name": "little chili"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380c97b08b3a8bc1b4555f2b6",
+      "uri": "spotify:album:3owCEhjzUqiJBojSdzfsoV",
+      "name": "distractions",
+      "album_type": "album",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e2144efb57ccdc569a7cb16",
+      "uri": "spotify:album:2vlS18gnmjBoV7BKK0sFDs",
+      "name": "dogs",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d61256d1fc602c24fdf988a2",
+      "uri": "spotify:album:0KJs5qx7ADt53kNvT9vxIr",
+      "name": "r u alone?",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736faf41ed517eed5752acba9b",
+      "uri": "spotify:album:3ugsSyM3GHupI8PV7LsbYM",
+      "name": "lizard (morning star)",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afacef896ac72916314aae30",
+      "uri": "spotify:album:1y1yL07Notg2CB7yZhd0Iv",
+      "name": "fuzzy hearts",
+      "album_type": "single",
+      "release_date": "2025-08-06",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        },
+        {
+          "spotify_id": "0bBwxKrYJJCK16OXTkYjke",
+          "name": "wicked boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e029f3d68c3290dce0788e15",
+      "uri": "spotify:album:6p8HinOW6iDhpHLgfdv5UL",
+      "name": "summertime horrified",
+      "album_type": "single",
+      "release_date": "2025-06-19",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1b75812146a9cc5f8690b42",
+      "uri": "spotify:album:1j8Tc4MFDOxCFo4rrgkVkK",
+      "name": "lizard",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b8770573498253aa667dcea",
+      "uri": "spotify:album:5qPDAsgHmh9yKSyB3aunix",
+      "name": "bright",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        },
+        {
+          "spotify_id": "0bBwxKrYJJCK16OXTkYjke",
+          "name": "wicked boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b814e1ef0cd6b03a4fc8a81e",
+      "uri": "spotify:album:5eXis3bqfT866eiHyqY5l9",
+      "name": "extraction",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "3BSl30srJaua1nx20D4YPd",
+          "name": "16nomic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cd34f9643ffcf1f46ed0910",
+      "uri": "spotify:album:7rNLTFIF1QK01nP31Uaeha",
+      "name": "purple",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6c4bdc7df051b845c787c21",
+      "uri": "spotify:album:2AurS5O6tCZmV6TNxTLbHa",
+      "name": "fingerprints",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ef38136fa849887207c8033",
+      "uri": "spotify:album:5IwKUWZGPwLmXPEFWkEL8t",
+      "name": "siege",
+      "album_type": "single",
+      "release_date": "2025-01-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "3BSl30srJaua1nx20D4YPd",
+          "name": "16nomic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c099f5c5eaa44df53e6c0536",
+      "uri": "spotify:album:1iOvd0vm9DU0uaFT3Q1ytF",
+      "name": "lonely moon (processor remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273509e34e75bc550d60db31b6e",
+      "uri": "spotify:album:3EM6bovv1YuSQobpYt9EEM",
+      "name": "true 96",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314f198fdfbff9fc12754b38a",
+      "uri": "spotify:album:7dbdtmSIXKPIC8Konc1Pyz",
+      "name": "deux",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346558f4bba2c8a50f1efe451",
+      "uri": "spotify:album:3lMCWh2q1FrQl0qIRPx8Mc",
+      "name": "trouble",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4b41e48cf8334fd5638f194",
+      "uri": "spotify:album:5MZZlb7naNfFYMCvaAvBTu",
+      "name": "feed the nag",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353878aed6b311959b7804068",
+      "uri": "spotify:album:7bWpVruJGmMCXDoqOJhvLE",
+      "name": "hubris",
+      "album_type": "single",
+      "release_date": "2024-07-12",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332ca6ae585ac602a68008483",
+      "uri": "spotify:album:4Tk5sgbDEl7YGfUU3Ax1RK",
+      "name": "gloves off",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732211a0ef4c2ccf56e991e620",
+      "uri": "spotify:album:3pzzfId9khNLdtxy5nTTxK",
+      "name": "freak heist",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320b121447e56308e3edf7422",
+      "uri": "spotify:album:0mexfRPwLgWqhrxadCHJSh",
+      "name": "satin tongue",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386e12b64ee0a8d9312174a2c",
+      "uri": "spotify:album:2Zg9hOMZWIvRSGYhIzvlPD",
+      "name": "offset bully",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731290833406ec6c63e9397d87",
+      "uri": "spotify:album:5REYo9E0heDYTGFtKTjHze",
+      "name": "homerun",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f99d92100797cab403c3208",
+      "uri": "spotify:album:5nZtfdqvpfnYzm0j0X7ova",
+      "name": "odd rebels",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738abe78cddd03a8fc45c7ad18",
+      "uri": "spotify:album:6xPbrqeLPxFzPxNn8FcAmJ",
+      "name": "red velvet ant",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e6cda486be7646faaaab425",
+      "uri": "spotify:album:0IbmN0SlEdxWb623xUf1lD",
+      "name": "censorship (processor remix)",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UVYxhc5UIS5VLvUXrSo81",
+          "name": "oddko"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edfadcbd8d98bb1efe7ac158",
+      "uri": "spotify:album:374I9Wsf1AiJZsrC562VyQ",
+      "name": "entourage",
+      "album_type": "album",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d93ba3682b3b27789bd6ad6a",
+      "uri": "spotify:album:3ymgPWNscnfYuJq0GteDEk",
+      "name": "fever (processor remix)",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ba99a7e28ad05d6dac7f030",
+      "uri": "spotify:album:3eoYsA4q5QVsQiBDrRyqEl",
+      "name": "insect",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2P3qSSjzQtpfpcBSZmdvJT",
+          "name": "keep the weak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273455db07e78e2a799ccbc7f03",
+      "uri": "spotify:album:56olHrv65ig0vhhSZumNjU",
+      "name": "unfollow",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738db2ded08e336a7ac58e811d",
+      "uri": "spotify:album:2MOgfhwn9n9ZNr0zKWvsAI",
+      "name": "this is the end",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4I7tEiEHCHsUcOm5REj8qX",
+          "name": "melt motif"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349ae236533ca00ab4d692caa",
+      "uri": "spotify:album:1DZP1OTkjYMzPSXEv19kGi",
+      "name": "scream",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c214abfc69e7e0058fe1adea",
+      "uri": "spotify:album:1qvvzTztaznk3SqlS6h6ms",
+      "name": "process of pyoneers (processor remix)",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2NNMCcN4t0zn04kTzdVAS6",
+          "name": "christian kjellvander"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367f5b4015549854f5e539be9",
+      "uri": "spotify:album:3GWEn4ullbTmikKaFSZiZX",
+      "name": "jingle doubt",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e4b50b78d4768dd8a59d3c",
+      "uri": "spotify:album:4hbAfpcBp43VkMZsQMvW9j",
+      "name": "pearls and swines",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367f3ad7e194c4182f0fc33d5",
+      "uri": "spotify:album:5YZNjhnKgDTuDjJEYcc90f",
+      "name": "burden of truth",
+      "album_type": "single",
+      "release_date": "2022-09-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edb31c818604e87bba04f13b",
+      "uri": "spotify:album:2ksZ2Q59E97qDGUAJ6QQrS",
+      "name": "quarter life crisis (processor remix)",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ED0gKMnmDLqSK6EWWJ2ZI",
+          "name": "mnerva"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "2aESSO1rH5zYGmkTqvLQfI",
+          "name": "rex arcum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310a8ffc998cbccbb6f928119",
+      "uri": "spotify:album:25pwAjTh4RaiN5Tbt3kA1b",
+      "name": "stand",
+      "album_type": "single",
+      "release_date": "2022-07-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273040f58bc80c63f7293a1b1d5",
+      "uri": "spotify:album:6JRoy0yMH21RlLi0rXw6zn",
+      "name": "colossal",
+      "album_type": "single",
+      "release_date": "2022-06-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb33c67fc46d4de0eecbca9c",
+      "uri": "spotify:album:2544gSk4F4f8V5BS75sUx9",
+      "name": "bleak",
+      "album_type": "single",
+      "release_date": "2022-05-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed1df88cc50b99f0e6fe9115",
+      "uri": "spotify:album:3F0zofXwylJMWxuPZs7krx",
+      "name": "owe it to myself (processor remix)",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2aESSO1rH5zYGmkTqvLQfI",
+          "name": "rex arcum"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a86389e2610622fe35c8aae",
+      "uri": "spotify:album:0Ueo9JsW6RP819MCMCuGuA",
+      "name": "yet we remain",
+      "album_type": "single",
+      "release_date": "2022-04-21",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731088cdb7b20a25238038e7c9",
+      "uri": "spotify:album:7DdB9ywiW3kC8UNAyODYg5",
+      "name": "warmonger",
+      "album_type": "single",
+      "release_date": "2022-03-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273285fde3e7a8c266834150bcb",
+      "uri": "spotify:album:5To35EB4eK3itUEWYV4kGG",
+      "name": "pearls and swines",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df9e0ca8ffefbeccffe132ce",
+      "uri": "spotify:album:66QoMrr0y97uyuuAmkYQUO",
+      "name": "howler",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317ceb98b0221d99f2af743fc",
+      "uri": "spotify:album:2MsrNWXQKpOPO1Ec8pCOwm",
+      "name": "pernicies 2",
+      "album_type": "single",
+      "release_date": "2021-12-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "4kmqKMwFQWqBP0Uv7ubVjG",
+          "name": "pain into grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e29aa82e4c38598786d9a73a",
+      "uri": "spotify:album:09KLxglHkX9KvDx91cie5A",
+      "name": "panic trials",
+      "album_type": "single",
+      "release_date": "2021-11-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad2f171cd29bcb322bf92467",
+      "uri": "spotify:album:4AMnqkjgjBlHUUPJ5omLkS",
+      "name": "modern way",
+      "album_type": "single",
+      "release_date": "2021-10-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "485IZYocUFAnvbd2WoYvGE",
+          "name": "modesty beast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ad0fcf13c553fbea2f8927f",
+      "uri": "spotify:album:0S0OF6IQa0Tr0lWivkrUD2",
+      "name": "majesty",
+      "album_type": "album",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273518ddc8dad66c88d0b5cbec2",
+      "uri": "spotify:album:2zvjBuTeGGgrza8WcXHSzq",
+      "name": "your own enemy (processor remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6m9fysdVTyH0KxNhG3DDaT",
+          "name": "pure obsessions & red nights"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a303f218d39db4d8663ddb6b",
+      "uri": "spotify:album:7Fz66AOHSnNNWIiF00W00l",
+      "name": "the right way",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "1TzYfIDcBPrD2ICroUPv5H",
+          "name": "the hunger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273477e7440af6d9022c451c7b7",
+      "uri": "spotify:album:6i6gR4HYoQJhmqussc5EKZ",
+      "name": "therapy (processor remix)",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "1TzYfIDcBPrD2ICroUPv5H",
+          "name": "the hunger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f7dbba08b4b08682b9dceaf",
+      "uri": "spotify:album:4HKgK7HjHQqiiFiqzEK0Kp",
+      "name": "hole digger",
+      "album_type": "single",
+      "release_date": "2020-12-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "3WvUXfAhZSBw2ELfRGhnnP",
+          "name": "emmon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734624eccd8a223827f4c4fcbd",
+      "uri": "spotify:album:0bSESJ30uGwmcrmCgLeoz2",
+      "name": "haunt",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5mFOd8Ia2DMdXesbZkuFqU",
+          "name": "morbid fears"
+        },
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273291368ae51434dfe00da8fcf",
+      "uri": "spotify:album:2GWJggI4v2vfVrqmpLdn4P",
+      "name": "cutie",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9defba64c6b5f6073900aa9",
+      "uri": "spotify:album:7wA8SxM6pzSAL6OZuTNyAI",
+      "name": "all the best",
+      "album_type": "single",
+      "release_date": "2020-06-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273989c54ea2fc4fe497d6ecc80",
+      "uri": "spotify:album:37xZvYUBOWe6vNwgZUc6gA",
+      "name": "sins of summer",
+      "album_type": "single",
+      "release_date": "2020-02-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdb629c9e9590e7f8657a8f5",
+      "uri": "spotify:album:3mI59bV2FdGKxHQz4iTTY7",
+      "name": "calm me",
+      "album_type": "single",
+      "release_date": "2020-02-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c23ec1baaf9b9f32551461c3",
+      "uri": "spotify:album:3Rl2iVccsforOkAyvahXa0",
+      "name": "justice",
+      "album_type": "album",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733781ed46dc352664fb077e2d",
+      "uri": "spotify:album:3QKYamLhZR7EkzIQUMiyDJ",
+      "name": "red machine",
+      "album_type": "album",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf975ebe6e8fd2d17198d437",
+      "uri": "spotify:album:3P3XU5KmIJoUEfNS8XMNJK",
+      "name": "a u t o",
+      "album_type": "album",
+      "release_date": "2019-05-09",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368780eb99ea15b6446726d9c",
+      "uri": "spotify:album:67IrHFlU9ZKvc2rfTLfi7J",
+      "name": "game",
+      "album_type": "album",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c287db72373c4cd9f503cd11",
+      "uri": "spotify:album:4Z0GM6qlVmUfQTN3q0mGna",
+      "name": "cyberpunk agenda",
+      "album_type": "album",
+      "release_date": "2018-07-28",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324826f0c858e5d28b939448f",
+      "uri": "spotify:album:5GEkh2MZtba2w6BJeV01lo",
+      "name": "blind",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7a5776f7d93b4d9f8d38e11",
+      "uri": "spotify:album:4xOc6Akt1Ha7QHGeCOaFeR",
+      "name": "mime (m version)",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273210421b0d16bb2339e328e37",
+      "uri": "spotify:album:6DOhSv3kk6ZAntLWiSKKHG",
+      "name": "silence",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331e3b629f8ed7b08f4b3c39d",
+      "uri": "spotify:album:2xohLU8gyS3phrGogXnQqo",
+      "name": "movie box",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e13a910f9ed38ede9edfd189",
+      "uri": "spotify:album:1C64ArGH1TKmUjdpo92Ix6",
+      "name": "cruise control",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d536cccd77492dfcdf05104",
+      "uri": "spotify:album:2CHaOGGrom7qtS3c1M3VP7",
+      "name": "broken toy",
+      "album_type": "single",
+      "release_date": "2018-01-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273512a9290838f0c5f3f05e8cf",
+      "uri": "spotify:album:5cI1lyHAJqU7YsoyMrz6lc",
+      "name": "mime",
+      "album_type": "single",
+      "release_date": "2017-12-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391095f1fdfc1fd32c1cc9d9a",
+      "uri": "spotify:album:5YUwqIvRq4Z3qu1sB1Biat",
+      "name": "audite",
+      "album_type": "single",
+      "release_date": "2017-11-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e8c4c2fee5659a0d6ce8b8b",
+      "uri": "spotify:album:6IC3KsvdNtSDM3qeVblNtg",
+      "name": "horn",
+      "album_type": "single",
+      "release_date": "2017-10-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731476d1737d9713ca4f9cf3e1",
+      "uri": "spotify:album:1QnljdtqSrFN06Gx4axv4V",
+      "name": "bird",
+      "album_type": "single",
+      "release_date": "2017-08-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea9e2d243d0286f0c3629325",
+      "uri": "spotify:album:2taYOYTiDJRVgUZvkD0U9M",
+      "name": "star",
+      "album_type": "single",
+      "release_date": "2017-05-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380a5c000f90a0d6835cef5b5",
+      "uri": "spotify:album:0UYHtJVqUhpZVn9FEtJ2Dx",
+      "name": "hole",
+      "album_type": "single",
+      "release_date": "2017-03-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273513e165306f7f1bbacecbb05",
+      "uri": "spotify:album:5eWnN9bg0ESlSF0DAsvkEF",
+      "name": "trust in keys",
+      "album_type": "single",
+      "release_date": "2017-01-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732735a1adc797d1f2c2577ce0",
+      "uri": "spotify:album:60FOGAFcmVPVWoLINq3WDB",
+      "name": "surface",
+      "album_type": "album",
+      "release_date": "2015-08-17",
+      "release_year": "2015",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0c7670cdea122ae1ecc407a",
+      "uri": "spotify:album:2OM6KC51Oivkncwdcuo4C0",
+      "name": "the m edition",
+      "album_type": "album",
+      "release_date": "2013-01-26",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338ecc8fe6a6f77dec02113e5",
+      "uri": "spotify:album:2n2bKJdY8QfqbiI5vFiciU",
+      "name": "behave",
+      "album_type": "album",
+      "release_date": "2011-07-30",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736fa80a81ee83e572c5124d91",
+      "uri": "spotify:album:0aLtIyFu2tY5w0FScJyZuP",
+      "name": "filthy dirty",
+      "album_type": "album",
+      "release_date": "2010-12-17",
+      "release_year": "2010",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "0bBwxKrYJJCK16OXTkYjke",
+          "name": "wicked boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a97a718a7dfcb9e628d9e866",
+      "uri": "spotify:album:0aTjPlyAHnDTXwG1LBt3eZ",
+      "name": "my industry",
+      "album_type": "album",
+      "release_date": "2007-09-20",
+      "release_year": "2007",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d887b4a3e17621fdc0a20876",
+      "uri": "spotify:album:4DH3ud4H2nsT9LpJTE1T2n",
+      "name": "are you for real",
+      "album_type": "album",
+      "release_date": "2005-09-05",
+      "release_year": "2005",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7841f20ba8c1c81a767e756",
+      "uri": "spotify:album:3ban1ZmZxjZnAA7x602aIk",
+      "name": "chemistry",
+      "album_type": "album",
+      "release_date": "2005-03-08",
+      "release_year": "2005",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "0bBwxKrYJJCK16OXTkYjke",
+          "name": "wicked boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273effdcfeaedf9c4db2aa1b3f5",
+      "uri": "spotify:album:6aNHga2ppswrmWogVlGmad",
+      "name": "the treatment",
+      "album_type": "album",
+      "release_date": "2004-05-05",
+      "release_year": "2004",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        },
+        {
+          "spotify_id": "0bBwxKrYJJCK16OXTkYjke",
+          "name": "wicked boy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273951ca3de74dd834224849bec",
+      "uri": "spotify:album:6Deps4VAELxXqn6KDM1W8K",
+      "name": "insomnia",
+      "album_type": "album",
+      "release_date": "2004-03-01",
+      "release_year": "2004",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3PsLxyLABzuf3dUMpS05Mp",
+          "name": "processor"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:32.000Z"
+}

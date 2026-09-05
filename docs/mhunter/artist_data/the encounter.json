@@ -1,0 +1,162 @@
+{
+  "name": "the encounter",
+  "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+  "uri": "spotify:artist:4BoYO8cPeKT28GGAYjDW3g",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8e8a2d86b3c12e139500af8b",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c79317c93108c72d3ac71faf",
+      "uri": "spotify:album:6RxjDGDKQILZMH6O2yCsT4",
+      "name": "dreams of dk isle",
+      "album_type": "single",
+      "release_date": "2019-06-11",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bc184518ff4e5ade960362a",
+      "uri": "spotify:album:4jX9Ji3MKgNgSi3jcO42v4",
+      "name": "bad blood",
+      "album_type": "album",
+      "release_date": "2018-08-14",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f184ed840ccfd5d62bc09d5",
+      "uri": "spotify:album:2YWw9feHJsB8PxqcJlTKYT",
+      "name": "astrid",
+      "album_type": "single",
+      "release_date": "2018-07-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f2857695a2bdfca3cb3a2b6",
+      "uri": "spotify:album:4SgNFqQVaeoPFti0FRhoJc",
+      "name": "daniela",
+      "album_type": "single",
+      "release_date": "2018-01-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ef84b6c66bc62d53801e9fc",
+      "uri": "spotify:album:2wM3Z59KhRvdgzLFXIy9hK",
+      "name": "rohga armor force",
+      "album_type": "single",
+      "release_date": "2017-07-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bb82ecb35bb434ff53481ba",
+      "uri": "spotify:album:2uQTp3aqgwgzkC9IXYd2mj",
+      "name": "bad mood (deluxe)",
+      "album_type": "album",
+      "release_date": "2017-02-24",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730eb5f8be04ae008dbd627232",
+      "uri": "spotify:album:1RY5d6cPnm9kignYoeDTGc",
+      "name": "dreams of outer heaven",
+      "album_type": "single",
+      "release_date": "2016-05-08",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273778063f2bc328c1a3c4c2974",
+      "uri": "spotify:album:3Snkn2kxvRiPUUojOZNeA8",
+      "name": "the mach rider",
+      "album_type": "single",
+      "release_date": "2016-05-08",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ee20481299f48386ff28194",
+      "uri": "spotify:album:0T9jZtSLVx1lTAQs7YfBfu",
+      "name": "waves",
+      "album_type": "single",
+      "release_date": "2016-05-08",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314d774f5c05588245d7c021b",
+      "uri": "spotify:album:7HK2ID1v00kT41PaAyvGUD",
+      "name": "family",
+      "album_type": "album",
+      "release_date": "2015-05-28",
+      "release_year": "2015",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4BoYO8cPeKT28GGAYjDW3g",
+          "name": "the encounter"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:10.000Z"
+}

@@ -1,0 +1,243 @@
+{
+  "name": "dan terminus",
+  "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+  "uri": "spotify:artist:6C0QgVuIzzi3f5NGBx4qWy",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4a479e260cabedf3744f67ad",
+  "genres": [
+    "synthwave",
+    "darkwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732732084ec03c7fc74fb8a402",
+      "uri": "spotify:album:1R0AvieKeoxUkZucWPS2EV",
+      "name": "gestalt providence",
+      "album_type": "album",
+      "release_date": "2026-06-22",
+      "release_year": "2026",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273257555de98d015c33db94831",
+      "uri": "spotify:album:3zuTLIoLRPxKLGw706nvjH",
+      "name": "people are machines",
+      "album_type": "single",
+      "release_date": "2026-05-11",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cb8cef2986d9e012c5317c6",
+      "uri": "spotify:album:1nbVZH7EbREFS6CE7kHZIq",
+      "name": "no god's land",
+      "album_type": "single",
+      "release_date": "2026-03-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab727bc1c236ebaedf5c5744",
+      "uri": "spotify:album:03xTSQFr6NMiITVtMpLPMb",
+      "name": "idols and influences pt.i",
+      "album_type": "single",
+      "release_date": "2026-01-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1b7b1a791e49a21ffd18fa7",
+      "uri": "spotify:album:53mqisSAXlKrwvx37EOKKM",
+      "name": "noir",
+      "album_type": "album",
+      "release_date": "2025-11-11",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4b2302887ac685ec4238d1a",
+      "uri": "spotify:album:0M1tTOARYd2BLJut0CkNQ5",
+      "name": "stargazer (moustache machine remix)",
+      "album_type": "single",
+      "release_date": "2025-01-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382ef0c49ee026943653a2198",
+      "uri": "spotify:album:4pD6AWuYHL2KLqa5G6Y4Yu",
+      "name": "synchroliturgie",
+      "album_type": "album",
+      "release_date": "2025-01-06",
+      "release_year": "2025",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733091082d4078609392ce7c77",
+      "uri": "spotify:album:71NJiqtdaavKAHTlH9UDwi",
+      "name": "iron will (dan terminus remix)",
+      "album_type": "single",
+      "release_date": "2024-05-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ngpino7o9DQ6bqm860wme",
+          "name": "sight telma club"
+        },
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735be51326aaea8e0da13e73c5",
+      "uri": "spotify:album:5dPf8f96V6KzrFSiabP64s",
+      "name": "gothic engine",
+      "album_type": "album",
+      "release_date": "2024-02-29",
+      "release_year": "2024",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7baec23617a849e2fd9a077",
+      "uri": "spotify:album:2YxXYgdGEfapaxT53CszxZ",
+      "name": "last call for all passengers",
+      "album_type": "album",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273971cf349e5852904fb5137b6",
+      "uri": "spotify:album:1vyLAOMANU88uSjqLmU3we",
+      "name": "automated refrains",
+      "album_type": "album",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e57d6a4280217533ed390f1e",
+      "uri": "spotify:album:7kkrIlq0aH5rhU9MVeppyd",
+      "name": "the wrath of code",
+      "album_type": "album",
+      "release_date": "2015-03-10",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733af2538d980275954cc7582f",
+      "uri": "spotify:album:7L5ZwbEXJm4ga5IwqZ2AdF",
+      "name": "stratospheric cannon symphony",
+      "album_type": "album",
+      "release_date": "2014-05-26",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3e87e5bbfaa5b65454c1542",
+      "uri": "spotify:album:6s3hKMU0IePzSyvgULYfHk",
+      "name": "rêverie",
+      "album_type": "single",
+      "release_date": "2014-04-11",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bb226e742d70131fa94a13b",
+      "uri": "spotify:album:6jH1u2gZ5hkQrSgrDo1AJu",
+      "name": "the darkest benthic division",
+      "album_type": "album",
+      "release_date": "2014-01-09",
+      "release_year": "2014",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6C0QgVuIzzi3f5NGBx4qWy",
+          "name": "dan terminus"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:48.000Z"
+}

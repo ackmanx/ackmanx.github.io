@@ -1,0 +1,586 @@
+{
+  "name": "magic sword",
+  "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+  "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb99aff0805c5262fd82a3aa0e",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1a5a750af8f09bbb39d4755",
+      "uri": "spotify:album:2MxwRst1kqJDeuDbv8eiTl",
+      "name": "side quest: a b-sides adventure",
+      "album_type": "album",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d62a3cd4f3df8ad3f6d669f8",
+      "uri": "spotify:album:7vKrKdirtfbZwYzfc6Y2iv",
+      "name": "amulet",
+      "album_type": "single",
+      "release_date": "2026-03-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b1d6e378556be6a564ce8c",
+      "uri": "spotify:album:1tzSkIyNVVMJA14Cms0tNW",
+      "name": "side quest",
+      "album_type": "single",
+      "release_date": "2026-03-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b8bbab64deee59f9ae5f504",
+      "uri": "spotify:album:76oy1NTYaSjGsIk77L5Zrn",
+      "name": "zaros returns (music inspired by runescape)",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307b1df6bb018eedd5e00f849",
+      "uri": "spotify:album:7xczzmVF7LJb5xVrbWHxhj",
+      "name": "singularity (music from trackmania neo-cupra district 3)",
+      "album_type": "album",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ef1b322a35230633478bbc2",
+      "uri": "spotify:album:7JfNnq0NjBgzQncxSu6ILi",
+      "name": "smoke & thunder (from \"pistol whip\")",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7b296e3557091f636c06fc5",
+      "uri": "spotify:album:2AWzBg2aG1OdcF6szNgwoe",
+      "name": "shadows",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2mCmDragybleJXqTqsOk5I",
+          "name": "mega ran"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bfd8433c35571e3bc6b007e",
+      "uri": "spotify:album:4EmR8rtK0fajDnsBdjuyrx",
+      "name": "burning sky (magic sword remix)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3tPdlblQ1h11Cd4FycbZkQ",
+          "name": "christine"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379eaeb38566d6e9df2d48e57",
+      "uri": "spotify:album:2b5dZRxbDRQXdtcIErH14R",
+      "name": "dead serious",
+      "album_type": "single",
+      "release_date": "2025-03-26",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f352123db4d6c8be43ba132f",
+      "uri": "spotify:album:3cCRnVBYJIdJCzmtHJ1fXA",
+      "name": "new age",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "4uNkWuX0kFV69o6PFAYi1R",
+          "name": "skylimit"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b0b584e07435e3958796055",
+      "uri": "spotify:album:557hSVDo4xReFWACxEnqWx",
+      "name": "ritual (feat. battlejuice) [magic sword remix]",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OEyrT84yZKublGo1Ct8UI",
+          "name": "house of serpents"
+        },
+        {
+          "spotify_id": "43mQHOuf0HLB5wIdZ3cgNp",
+          "name": "battlejuice"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c4378608faa3155339d8b69",
+      "uri": "spotify:album:6NPWyb3gmORBwKgH9vVrQQ",
+      "name": "\"candyman\" theme",
+      "album_type": "single",
+      "release_date": "2023-10-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303fc04886b559f2b42a242ca",
+      "uri": "spotify:album:0egkLoV8R2Q4j4vciNInRY",
+      "name": "omni",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "4SpBnWJ1g5l8PB3LSVSMfa",
+          "name": "metavari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfd91dbe463d674b326b8736",
+      "uri": "spotify:album:44h3jTeXzf2YldiRzw9nka",
+      "name": "badlands",
+      "album_type": "album",
+      "release_date": "2023-04-12",
+      "release_year": "2023",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f71ae62b52306ef6ea100fa",
+      "uri": "spotify:album:68DKKCO0tVIz3SAD4K7ExK",
+      "name": "there is still good in you",
+      "album_type": "single",
+      "release_date": "2022-10-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4f53b703be9b9e47b84b8e2",
+      "uri": "spotify:album:75zPCFY8Z94LusvBvbVhcS",
+      "name": "the weapon and the soul",
+      "album_type": "single",
+      "release_date": "2022-03-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "4SpBnWJ1g5l8PB3LSVSMfa",
+          "name": "metavari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db0feb87521d0fd9850be10d",
+      "uri": "spotify:album:5ETcUCCqhTtFNFAAhSqvZs",
+      "name": "sword of truth (pistol whip edit)",
+      "album_type": "single",
+      "release_date": "2021-04-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2bbb36742091a0cd8b243c2",
+      "uri": "spotify:album:4zab0E3MdI20gN2t1a4IhP",
+      "name": "through the fire (magic sword remix)",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0HPVHsbV2yIYPp2Pk4kdHe",
+          "name": "droid bishop"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b192b9a235880f1419ddf57a",
+      "uri": "spotify:album:55HsBxfDUCHOZDnFjOZ4M2",
+      "name": "client (magic sword remix)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        },
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330f0b99d42890248eac935ad",
+      "uri": "spotify:album:1plJlxYSXmJxqeatzSkdBJ",
+      "name": "a new quest (remix)",
+      "album_type": "single",
+      "release_date": "2020-12-08",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "0HPVHsbV2yIYPp2Pk4kdHe",
+          "name": "droid bishop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b53f7187f687f83b2e4d94d2",
+      "uri": "spotify:album:57XKStpmGfWjmgH2yAud9B",
+      "name": "invincible (remix)",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732671c6197eb3fb892cfe82c7",
+      "uri": "spotify:album:15OTXz5H0sM9A8L4qKYY5o",
+      "name": "super nova",
+      "album_type": "single",
+      "release_date": "2020-06-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        },
+        {
+          "spotify_id": "0HPVHsbV2yIYPp2Pk4kdHe",
+          "name": "droid bishop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307adc574f9a9588bf35c6a79",
+      "uri": "spotify:album:09qFu5fzhhZsizdR6w8wqd",
+      "name": "endless",
+      "album_type": "album",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4d033a3bb5faf41a6fea586",
+      "uri": "spotify:album:1uIlmZbSUfBRki8XTWe8Lh",
+      "name": "empress",
+      "album_type": "single",
+      "release_date": "2020-03-23",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344a764c95e0434ee306a8af9",
+      "uri": "spotify:album:6zLVU2PfxF3HiVkzVQxnL9",
+      "name": "invincible",
+      "album_type": "single",
+      "release_date": "2020-02-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bafa41dca0c8dfde8c3cee3",
+      "uri": "spotify:album:4CEqkoYfreIdZxYyHcqabr",
+      "name": "depths of power",
+      "album_type": "single",
+      "release_date": "2020-01-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392d89bdc9865a13c98bfe036",
+      "uri": "spotify:album:6m1W2JnyYCadOn2BQae2jF",
+      "name": "awakening",
+      "album_type": "album",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ff6ec46259ef0ef7003b7d0",
+      "uri": "spotify:album:7gZYDQ3hCPk5jAM7YK1fwF",
+      "name": "lady of light",
+      "album_type": "single",
+      "release_date": "2019-10-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273754f77522534d7b245f863fb",
+      "uri": "spotify:album:3fik9A2UxxQ5zoc0CSA3sp",
+      "name": "awakening",
+      "album_type": "single",
+      "release_date": "2019-08-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273146fe244679ad71c2fcddc03",
+      "uri": "spotify:album:4sOpfVPVcrNUPYfGLJO2Qh",
+      "name": "colossus",
+      "album_type": "single",
+      "release_date": "2018-11-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eceaf2926e5bd2a3276ca81",
+      "uri": "spotify:album:3a7jqhnMZyVpAarRzQxAAD",
+      "name": "reborn",
+      "album_type": "single",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273889e6b0f54b39fbbcdc5b3c8",
+      "uri": "spotify:album:1P5uozJjcDhIzm3FWV2gId",
+      "name": "legend ep (deluxe edition)",
+      "album_type": "single",
+      "release_date": "2018-07-10",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c986f712992ed035379c6f5",
+      "uri": "spotify:album:5sH9LAk6zTnbVGKWSKu8py",
+      "name": "legend ep",
+      "album_type": "single",
+      "release_date": "2016-04-29",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382760629b9de650eb45926a4",
+      "uri": "spotify:album:7dJvsAI5PZYv5HwUu6zlED",
+      "name": "volume 1 (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2016-01-15",
+      "release_year": "2016",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
+      "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ",
+      "name": "volume 1",
+      "album_type": "album",
+      "release_date": "2015-01-09",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6PzFRXjgGHQw6K4WeERMK1",
+          "name": "magic sword"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:54.000Z"
+}

@@ -1,0 +1,96 @@
+{
+  "name": "lueur verte",
+  "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+  "uri": "spotify:artist:236Oy3MFNzz5zbBwowuxlW",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb702fc6324abda1031cf331b6",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3fbea38f10452a5f16a6853",
+      "uri": "spotify:album:3toeokjgUVX1Xdn9MRMr59",
+      "name": "tempesta",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+          "name": "lueur verte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f883ca658e2f8930fb2ae07f",
+      "uri": "spotify:album:0LQIq9o9dhosTk0BfN7oHZ",
+      "name": "desire (lueur verte remix)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3D3M2YiczHcqua52vqVoYc",
+          "name": "joypopp"
+        },
+        {
+          "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+          "name": "lueur verte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346830cef5756028da7b44d39",
+      "uri": "spotify:album:6MDglqhFEohLgMgZ0WMpuf",
+      "name": "trinity",
+      "album_type": "single",
+      "release_date": "2016-02-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+          "name": "lueur verte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a89d3d090fdbc89ec8b5658e",
+      "uri": "spotify:album:3uSmnYqAXeS13BFvkQbG0w",
+      "name": "crystalica",
+      "album_type": "single",
+      "release_date": "2013-12-01",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+          "name": "lueur verte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311b1c3320b326dd1ddf8970e",
+      "uri": "spotify:album:66P0XcE8wfPMTiiQk144wF",
+      "name": "night slasher ii (dynatron remix)",
+      "album_type": "single",
+      "release_date": "2012-09-05",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "236Oy3MFNzz5zbBwowuxlW",
+          "name": "lueur verte"
+        },
+        {
+          "spotify_id": "0SkwL0prvhD2CWyqj0vlF6",
+          "name": "dynatron"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:36.000Z"
+}

@@ -1,0 +1,329 @@
+{
+  "name": "yasutaka nakata",
+  "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+  "uri": "spotify:artist:2qNI3aGlywRzTkRBOy9YzG",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebecd23020ff39b3ee3408e9e9",
+  "genres": [
+    "j-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b04dd8bdb65eb358d0a719ae",
+      "uri": "spotify:album:2H98HIfvUyuGMBJsB0OAVg",
+      "name": "一番歌",
+      "album_type": "single",
+      "release_date": "2020-01-09",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "70x6gPIjIhWtxjczooKl3p",
+          "name": "shonan no kaze"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307fc8bfa8bf69333e06d3fda",
+      "uri": "spotify:album:1Pi5IDhLokaMXe3fo16oRu",
+      "name": "キズナミ (cover)",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2nKGmC5Mc13ct02xAY8ccS",
+          "name": "kizuna ai"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350e3e2c47d1fc6b252779012",
+      "uri": "spotify:album:5NQ9qOAZ1QORVqfbkizgmS",
+      "name": "ぴこぴこ東京 (feat. 眞白桃々)",
+      "album_type": "single",
+      "release_date": "2019-05-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a256dc38607e5f4ad91037ef",
+      "uri": "spotify:album:3LkYc9HdgeSZH7H6hJtuu1",
+      "name": "ぼくらのネットワーク",
+      "album_type": "single",
+      "release_date": "2018-11-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Qeyh2XKoITt1mlEVtzazC",
+          "name": "daoko"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c04290f6e4bf0658df7b654",
+      "uri": "spotify:album:4NwKjtZbHHrws11U292IC7",
+      "name": "modest heroes: ponoc short films theatre, volume 1 -studio ponoc original soundtrack",
+      "album_type": "album",
+      "release_date": "2018-08-22",
+      "release_year": "2018",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2FdBheCRIgBMhygsbki1mO",
+          "name": "takatsugu muramatsu"
+        },
+        {
+          "spotify_id": "1zuOP3ZrBUjXM8DbZ0yYSi",
+          "name": "masanori shimada"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733913fd083c3b948507fced60",
+      "uri": "spotify:album:2BoW4suPNjVCFSJEpFaFzp",
+      "name": "white cube (+voice version) [feat. 苺りなはむ]",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ea096353b1d1adf86a337f3",
+      "uri": "spotify:album:6NVNEoqidz3c49nCCiYoUf",
+      "name": "digital native",
+      "album_type": "album",
+      "release_date": "2018-02-05",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd014ceb827412e070295103",
+      "uri": "spotify:album:4NoCK0MSgswKIQHi4wqklK",
+      "name": "white cube",
+      "album_type": "single",
+      "release_date": "2018-01-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bafd1ae7a9dfc3775373cc05",
+      "uri": "spotify:album:3zEe869AC7PVC0A6Fb7DEf",
+      "name": "give you more",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f7462c07670fed821d739a6",
+      "uri": "spotify:album:6MtMpklz6EQFcDQb9uz4eP",
+      "name": "love don't lie (ultra music festival anthem) (feat. rosii)",
+      "album_type": "single",
+      "release_date": "2017-08-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273656823517ea964d71bbabb6e",
+      "uri": "spotify:album:15wRMBN3xYcazwNM8jRMat",
+      "name": "せいせせいせいせいせせいせい",
+      "album_type": "single",
+      "release_date": "2017-04-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3QE88hoBbzn08sW2LPPPNc",
+          "name": "isobei isobe"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f0dc79ec178eee93b4e2e5e",
+      "uri": "spotify:album:4pZOeYxPloMqqLV9zEbaQG",
+      "name": "crazy crazy (feat. charli xcx & kyary pamyu pamyu)",
+      "album_type": "single",
+      "release_date": "2017-01-18",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737500ae7949dcf81416b13484",
+      "uri": "spotify:album:5OLQan7ycATyDlFKyoF0st",
+      "name": "何者(オリジナル・サウンドトラック)",
+      "album_type": "album",
+      "release_date": "2016-10-05",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273403eb2627bf1fa9f77cf1268",
+      "uri": "spotify:album:0LER3HsCsaTndOTcsTzAu4",
+      "name": "nanimono ep",
+      "album_type": "single",
+      "release_date": "2016-10-05",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273994d4ec801e1508fc6ed1061",
+      "uri": "spotify:album:7vN8Vr63Thjf3i6u0K9L95",
+      "name": "熱愛発覚中",
+      "album_type": "single",
+      "release_date": "2013-11-13",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XjqKvB2Xz9IdyjWPIHaXi",
+          "name": "sheena ringo"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734db7f9e2b4802382170c2746",
+      "uri": "spotify:album:3CrQJoYh82Z4wI50SMrxhY",
+      "name": "liar game -再生- オリジナル・サウンドトラック",
+      "album_type": "album",
+      "release_date": "2012-03-02",
+      "release_year": "2012",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d145300dee9cf5cfe2dc89fe",
+      "uri": "spotify:album:481yMGs5PS5gBZ4DJJghf4",
+      "name": "liar game 2 〜シーズン2 & 劇場版 オリジナル・サウンドトラック〜",
+      "album_type": "album",
+      "release_date": "2010-03-03",
+      "release_year": "2010",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ede09ccc0763f08752469392",
+      "uri": "spotify:album:3y61GqcJ5DcAkIWfMXasEm",
+      "name": "beat in love (yasutaka nakata (capsule) remix)",
+      "album_type": "single",
+      "release_date": "2008-10-10",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0akZcna6MlOPRo0reVTaPr",
+          "name": "clazziquai"
+        },
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b475f1450246be903c55529f",
+      "uri": "spotify:album:74ItX4Tkm5yIAlyPfWVmc7",
+      "name": "liar game オリジナル・サウンドトラック",
+      "album_type": "album",
+      "release_date": "2007-05-23",
+      "release_year": "2007",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2qNI3aGlywRzTkRBOy9YzG",
+          "name": "yasutaka nakata"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:36:03.000Z"
+}

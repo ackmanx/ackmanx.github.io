@@ -1,0 +1,425 @@
+{
+  "name": "whzly",
+  "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+  "uri": "spotify:artist:0dazUcyaKLBYtc4oCJ0Y35",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1dfe8580a9575f76dc269b7a",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba8161d7773712ed8c60cb0f",
+      "uri": "spotify:album:2sMWvA1GudEey0lvfp3kP1",
+      "name": "his name is (whzly remix)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5oiSxivTCIoOk5UlMSwzWM",
+          "name": "tynan"
+        },
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9ed17af6ea779e09d5f1125",
+      "uri": "spotify:album:5gn76sDCEKSLUlR8eZU0Vx",
+      "name": "mcriddim",
+      "album_type": "single",
+      "release_date": "2026-06-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b162c3c6615acfe7ad4454c8",
+      "uri": "spotify:album:1vgMHiHig9Ft0FsHeFOzxx",
+      "name": "punch ep",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        },
+        {
+          "spotify_id": "1dZ5sykYTu1TOFVLAHK3o5",
+          "name": "zouth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730875288a4f9ac3a62ef487fb",
+      "uri": "spotify:album:61zhUkvoFMp8YeuDa69lF5",
+      "name": "kiss me through the wonk",
+      "album_type": "single",
+      "release_date": "2026-01-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1a5f84a8519a5cf1cf676e1",
+      "uri": "spotify:album:4cspvXK6LWd9Pww4zJAJ8N",
+      "name": "wheel it back",
+      "album_type": "single",
+      "release_date": "2025-10-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0959b6516bd3d3ec289779b",
+      "uri": "spotify:album:6NTqXwL4yfhctTZbgtITel",
+      "name": "don't stop",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cec400c4f50df6e768d0d5c",
+      "uri": "spotify:album:7GeChxEnqh7fmutwlgMI7v",
+      "name": "porrada",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4qFL55u5UYVJg7OXjDFZ9D",
+          "name": "muela."
+        },
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732546001a7d48e4721ed0bdd5",
+      "uri": "spotify:album:3AFtenF87DCaHCwaib2txI",
+      "name": "bugzapper",
+      "album_type": "single",
+      "release_date": "2025-01-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273315bc686d44367a42edf9fdb",
+      "uri": "spotify:album:4WKBlSFN9D4gOkKYxHaoJO",
+      "name": "knock out",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6026313ba20ac569eea5d83",
+      "uri": "spotify:album:1FkipPJp9gosXey1WngRpp",
+      "name": "wubhub",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ce48a540aafa4e99bad0b79",
+      "uri": "spotify:album:5Q01iCtYOkMSkHfkkF3YE0",
+      "name": "gloomhaven",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e89d1dd31e0d455ebfc47437",
+      "uri": "spotify:album:0i948ZaHQ4lrlyQzmk3dm2",
+      "name": "bone breaker",
+      "album_type": "single",
+      "release_date": "2022-10-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376317706214049eab30fb071",
+      "uri": "spotify:album:4YOsxvpuAov3XhhDFyedcT",
+      "name": "clack (vip edit)",
+      "album_type": "single",
+      "release_date": "2022-06-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d32aa6adc4b2da3c04439486",
+      "uri": "spotify:album:1fzdaerUMHIXF69EadEc7f",
+      "name": "stutter",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bd9593573967bdc9b1c11a3",
+      "uri": "spotify:album:4xdRBMRlc99ze1Gq5f1gMx",
+      "name": "g-wobble",
+      "album_type": "single",
+      "release_date": "2021-11-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        },
+        {
+          "spotify_id": "2mGwpAuLFsft1Fe7KggXha",
+          "name": "eradikid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d87472c581cf8eccda1b1619",
+      "uri": "spotify:album:689C2p4LdZlU1IkROgAO6e",
+      "name": "clack",
+      "album_type": "single",
+      "release_date": "2021-08-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395e12d5753093de793f2613c",
+      "uri": "spotify:album:6PKgFDtdb8itY5CgYPwFEZ",
+      "name": "enter the void (remixes)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xLTclBBWlypMWDMV8Eb6O",
+          "name": "badvoid"
+        },
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feb8a84d0964f7323c64c6c0",
+      "uri": "spotify:album:49YrNPjh1GgRNeNBbGSKmi",
+      "name": "end of our lives",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        },
+        {
+          "spotify_id": "2T5c5IrQGkNGuQNOVJSU9y",
+          "name": "tmrrw"
+        },
+        {
+          "spotify_id": "0bfXVJB3gf3mONOmZHNizR",
+          "name": "kini solana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f3cb019a7dc70c8d965834f",
+      "uri": "spotify:album:0PBgse2oKRGBCt0GTrmvSC",
+      "name": "going down",
+      "album_type": "single",
+      "release_date": "2020-08-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6d485f03e7a3fee3cfde5d4",
+      "uri": "spotify:album:3cFTRolndVot10LnL8Fnk3",
+      "name": "multi genre opera",
+      "album_type": "single",
+      "release_date": "2020-07-29",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        },
+        {
+          "spotify_id": "2T5c5IrQGkNGuQNOVJSU9y",
+          "name": "tmrrw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273330c07ed5d1ecf0cb5bdc7f9",
+      "uri": "spotify:album:5dzVtvrHHb6NPPAV1nKDQd",
+      "name": "6ix",
+      "album_type": "single",
+      "release_date": "2020-03-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273562c3ba052d05ed88d68cb4a",
+      "uri": "spotify:album:7Al5Ii4AJA2Y0HL1KYaRd6",
+      "name": "lucid",
+      "album_type": "single",
+      "release_date": "2019-12-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/a9a5df488cf37defa55a020e8acfb1755625d3dc",
+      "uri": "spotify:album:1xkOIk1f62nMLzYjCyuQCC",
+      "name": "dead city",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        },
+        {
+          "spotify_id": "0aYUw3tTOJx4RZArmJuPFN",
+          "name": "pretence"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fb1748d9656323e0318e412",
+      "uri": "spotify:album:03pmLBajBgkPYfUUOhtkAc",
+      "name": "stay back",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273239dbfa97fdf975a68db080d",
+      "uri": "spotify:album:6BZH1beoYvuA5czcNpWMYQ",
+      "name": "scream",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:20.000Z"
+}

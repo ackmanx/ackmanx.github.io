@@ -1,0 +1,669 @@
+{
+  "name": "karma fields",
+  "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+  "uri": "spotify:artist:1tRsdSvjwp34PDvcmix6SJ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd9c16a471c26b0c05752bc9b",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273723df864009dfd06bebd6bcb",
+      "uri": "spotify:album:3mayNyKEbNAuIizCaGhSC3",
+      "name": "behaviour",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "0ufdKQBFDYKui7twp71QLm",
+          "name": "kinder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e48c1fc9a9913c69bfc92fc7",
+      "uri": "spotify:album:1kMs3o6SCvCt71FbVnWSgy",
+      "name": "candy (karma fields dub)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7lQOxDl96wmNoqGoW4kgv4",
+          "name": "torren foot"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd696d862c7d24f4c95c3bc4",
+      "uri": "spotify:album:4rtILfeGNSzvMiYSEMr7dM",
+      "name": "pure happiness",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "7ixzNQXQ64I2ayrtyhlF7i",
+          "name": "transviolet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376ff2a7776d31b8d28db86ab",
+      "uri": "spotify:album:7LoVja3RCje6JjC1NM9PyA",
+      "name": "disco tits (karma fields remix)",
+      "album_type": "single",
+      "release_date": "2023-09-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4NHQUGzhtTLFvgF5SZesLK",
+          "name": "tove lo"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345a8ad20ae0488a165669a08",
+      "uri": "spotify:album:1LXX0DLWq1UZ15n3u3fC3L",
+      "name": "get it",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "3FLUBwpAnaIlIKeaBfsxFe",
+          "name": "kito"
+        },
+        {
+          "spotify_id": "1kiq2kUV0cbLUhJsr7cpW0",
+          "name": "alida"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d414293daaeb3653f325758b",
+      "uri": "spotify:album:0ZXYM6q3HXsHLoeaRl8zCz",
+      "name": "me & u (remixes)",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce7608bf0e16fa55caae9477",
+      "uri": "spotify:album:7yDmVwIFP6QLge1VazcErF",
+      "name": "me & u",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325daf6bc673f2ed89af8d9e5",
+      "uri": "spotify:album:59t9gjwVP3UBZJ6wkIWnwa",
+      "name": "big girls (karma fields remix edit)",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "74qq2TFVWRaySx8MVjKelJ",
+          "name": "pricie"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305f60331255ed27358674206",
+      "uri": "spotify:album:43SM9gjmTpg0EWGr5y5eca",
+      "name": "it girl (doorly remix)",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4uUZsrxHK6peebj1rpawBa",
+          "name": "doorly"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "59iOp415oyqGlBHyAhu4z3",
+          "name": "kah-lo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342371c7fb7035ebcec239923",
+      "uri": "spotify:album:1Q5xQLLBWToWgQuvg2jdLk",
+      "name": "it girl (jaded remix)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6tCJN1fQNdFCEaOa8Da9Wf",
+          "name": "jaded"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "59iOp415oyqGlBHyAhu4z3",
+          "name": "kah-lo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b35b33b53cc88dee04950e5",
+      "uri": "spotify:album:2SFcBFJyVbdzLHVZDRpSrg",
+      "name": "it girl (warner case remix)",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "106OuakzOxxbXTuigEEf01",
+          "name": "warner case"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "59iOp415oyqGlBHyAhu4z3",
+          "name": "kah-lo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e61dbb2b5ba39ccdf9e7f93",
+      "uri": "spotify:album:6uhatq3BoCOKKwKKHWyk6R",
+      "name": "it girl",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59iOp415oyqGlBHyAhu4z3",
+          "name": "kah-lo"
+        },
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "17b9Hqjx88eMFbBawb6Z1U",
+          "name": "associanu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273395f9d7a86aedb04789bf067",
+      "uri": "spotify:album:56RvgMF6xogluwzqjXIAyE",
+      "name": "timebomb",
+      "album_type": "single",
+      "release_date": "2021-11-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "00jACgDWIBdPM4eH8nORwz",
+          "name": "reva devito"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aecb80fc2818c119f04990f5",
+      "uri": "spotify:album:0k1iNKDO0KKfucBOGalxVY",
+      "name": "kf:kong",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354d72142484c63374886ee5f",
+      "uri": "spotify:album:6uIWOwqmJJ2w6RjwaE7LCG",
+      "name": ".me",
+      "album_type": "single",
+      "release_date": "2021-07-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf14b777d2233a4471b657d",
+      "uri": "spotify:album:4hQuiaXr99Fvy3tfxjsuIj",
+      "name": "code 10-32",
+      "album_type": "single",
+      "release_date": "2021-06-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2a8504c5d763e46b8040639",
+      "uri": "spotify:album:7jLMSiuD3Y70jeJjrUZ1CU",
+      "name": "its_ok",
+      "album_type": "single",
+      "release_date": "2021-05-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399255dbb209ee60dfd620ca0",
+      "uri": "spotify:album:6fCVq1Pgq2fBBH6xw81cVB",
+      "name": "minari theme",
+      "album_type": "single",
+      "release_date": "2021-04-21",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1dff1f0772afd88c11cb2b",
+      "uri": "spotify:album:5CJZr9z6txBVdwxl6niAlX",
+      "name": "dreams (associanu remix)",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "6rqXNMsClfcGgr3LggF7xL",
+          "name": "shey baba"
+        },
+        {
+          "spotify_id": "17b9Hqjx88eMFbBawb6Z1U",
+          "name": "associanu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b8593525e9649930513115f",
+      "uri": "spotify:album:63xuB59UdmkF5TBPNQm94n",
+      "name": "dreams",
+      "album_type": "single",
+      "release_date": "2021-01-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "6rqXNMsClfcGgr3LggF7xL",
+          "name": "shey baba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f2c3b3a12e940b8e1e5f5d4",
+      "uri": "spotify:album:4t9qZs2yXdjxMSF4iuiMAG",
+      "name": "do you really want to hurt me",
+      "album_type": "single",
+      "release_date": "2020-09-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "6rqXNMsClfcGgr3LggF7xL",
+          "name": "shey baba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c51781624361771ae3fd4323",
+      "uri": "spotify:album:0ueQpFSiqDmpOP8JVvbRIC",
+      "name": "that emotion",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "2rxOwivX2ygd2p3zbjpm9N",
+          "name": "alex hosking"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367663f98e78677d23f43ea2b",
+      "uri": "spotify:album:1Thin1hkeqKk2VT0F7FrWB",
+      "name": "body rush (deluxe version)",
+      "album_type": "album",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379d3289b45f96166c470fec9",
+      "uri": "spotify:album:1ao5B3TgKcrryyPtcspaTs",
+      "name": "feel real (kastle remix)",
+      "album_type": "single",
+      "release_date": "2019-07-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "5DskE0p4D9P53HqtwTsfbT",
+          "name": "kastle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a921362a963e40378b148079",
+      "uri": "spotify:album:46eeSt0Uo3gbNWpOhmIWS4",
+      "name": "body rush",
+      "album_type": "album",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c112a796ebb35776fd34f3e2",
+      "uri": "spotify:album:7iMf8qhuokuAjViYleGZCp",
+      "name": "an underground system of forgotten machines",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381da24b763e23d669f3ead06",
+      "uri": "spotify:album:0G48fP9EEFDo5PqOKG3u4T",
+      "name": "colorblind (oddkidout remix)",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "6l6zabESz1QE4me8Cz3uux",
+          "name": "oddkidout"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273853f2d6b04e3d7bd1659b40e",
+      "uri": "spotify:album:2YjoA7Fa3adui7WT9UY7BI",
+      "name": "you and me (reconstructions)",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "0MoXIHcFwhIWnFgBfdvQ30",
+          "name": "little boots"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1395d3cd09e4efb59122adb",
+      "uri": "spotify:album:2FfbD7T3nMVlQsHkZAzLas",
+      "name": "you and me",
+      "album_type": "single",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335d9da5d6fae763dd0e27d4f",
+      "uri": "spotify:album:4Akhb7a3cdeLEm6IXpJy3q",
+      "name": "code 10-31",
+      "album_type": "single",
+      "release_date": "2018-07-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335e5d65ce611a33b0f904e3a",
+      "uri": "spotify:album:2J8Bq9JPrIznN3PPIYG44P",
+      "name": "body rush",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733093d35956f6009e80d6506b",
+      "uri": "spotify:album:4a36PJfZqOYmTDdUkmIZNj",
+      "name": "colorblind [reconstructions]",
+      "album_type": "single",
+      "release_date": "2018-05-08",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360d3807a6800884ae2c33145",
+      "uri": "spotify:album:5M0ptkbymbCGOMj6LiHRDk",
+      "name": "colorblind",
+      "album_type": "single",
+      "release_date": "2018-03-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c51dd1b0ff21dfd1ea89028d",
+      "uri": "spotify:album:1oSeUvrUJ3q6yv3UEw3Jt4",
+      "name": "sweat",
+      "album_type": "single",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273190dea46c002bbc78bc31472",
+      "uri": "spotify:album:3KuNa7De64At7XsyjOKIKf",
+      "name": "new age | dark age (deluxe version)",
+      "album_type": "album",
+      "release_date": "2016-09-15",
+      "release_year": "2016",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273420d80a48050d820adc6bc38",
+      "uri": "spotify:album:5xMCurJ4gEgzI3sEQaHrjM",
+      "name": "new age | dark age",
+      "album_type": "album",
+      "release_date": "2016-03-02",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7fe8b71106a935ee9bc5ef2",
+      "uri": "spotify:album:1y9AZw4TJci38s6JxXin9O",
+      "name": "stickup",
+      "album_type": "single",
+      "release_date": "2015-11-30",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1tRsdSvjwp34PDvcmix6SJ",
+          "name": "karma fields"
+        },
+        {
+          "spotify_id": "19HFRWmRCl27kTk6LeqAO8",
+          "name": "morten"
+        },
+        {
+          "spotify_id": "5tJuo3Ch89ZPGFD3cOkpue",
+          "name": "juliette lewis"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:05.000Z"
+}

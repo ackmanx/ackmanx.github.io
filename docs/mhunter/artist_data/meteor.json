@@ -1,0 +1,392 @@
+{
+  "name": "meteor",
+  "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+  "uri": "spotify:artist:3A4fNuEjrFPkY85KCSOdPb",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb46714a4ef5cf1b1e054a1a83",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cccbd89a8306086131a1d03b",
+      "uri": "spotify:album:3cgZfvVlcp3j6NSEbCs8Zn",
+      "name": "past future memory",
+      "album_type": "album",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273505daa81079b024b23910e2e",
+      "uri": "spotify:album:2lCkwS5l5G1i5zPZS2ZLw5",
+      "name": "glassworld",
+      "album_type": "single",
+      "release_date": "2025-11-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301f0702ff95f9f5d219f3482",
+      "uri": "spotify:album:2wWrNxCgq6hEwD7eGZwcmt",
+      "name": "hyper striker",
+      "album_type": "single",
+      "release_date": "2025-08-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb82ff48c5374d2bf75b510d",
+      "uri": "spotify:album:451dWWhXMqTFoSeg6b22mi",
+      "name": "refraction of truth",
+      "album_type": "single",
+      "release_date": "2025-05-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c13df68911fadaee2528e244",
+      "uri": "spotify:album:6SXCUM7sPXwQVUc5R9EmsH",
+      "name": "dunes of mars",
+      "album_type": "single",
+      "release_date": "2025-03-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aeafdc6ccf7cacf69f1d350",
+      "uri": "spotify:album:2U1G2Ulb3pZSYGeqOeTdEl",
+      "name": "emptiness",
+      "album_type": "single",
+      "release_date": "2024-11-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123747c69efaf53afc8f9a4b",
+      "uri": "spotify:album:394gVaR2jrLkwZmi3Eyotl",
+      "name": "of ghosts and thunder",
+      "album_type": "album",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273448a147aa9d2f2b499d382a7",
+      "uri": "spotify:album:1bWM6K7ykFbwCIsW9jOA4G",
+      "name": "prophets",
+      "album_type": "album",
+      "release_date": "2023-10-31",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a12085137663c6972823f8ff",
+      "uri": "spotify:album:5KBvv5hzFwnvikQnn8gIxm",
+      "name": "man in the machine (robodoc: the creation of robocop)",
+      "album_type": "single",
+      "release_date": "2023-08-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce5544cb82a6bfeb81a56143",
+      "uri": "spotify:album:20Wm11sbfgIh03Eb0737QB",
+      "name": "a new home",
+      "album_type": "single",
+      "release_date": "2023-05-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734654b16446dc127bb6fff0e5",
+      "uri": "spotify:album:0RIBKyoLR2szSCttLaryRS",
+      "name": "phantom zone",
+      "album_type": "album",
+      "release_date": "2022-05-02",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319e3f9c0c4bbdf6a608a3431",
+      "uri": "spotify:album:0ZKjunyqZqhU0kiLbS54tT",
+      "name": "dark matter",
+      "album_type": "single",
+      "release_date": "2021-09-11",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d567a25a8a7d9ed0b99e6fc",
+      "uri": "spotify:album:1T4PFJrWSDnwZMSkOTOgx3",
+      "name": "cyborg: deadly machine (original motion picture soundtrack)",
+      "album_type": "album",
+      "release_date": "2021-01-08",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334b496980fa85b4e8a4898d3",
+      "uri": "spotify:album:03kw74EiF9kArwo54IsvUQ",
+      "name": "chaos theory",
+      "album_type": "album",
+      "release_date": "2020-11-23",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2091fcac4f6e9ad0e7cd396",
+      "uri": "spotify:album:5cuKe94oWOyK9Qjm8LqKx1",
+      "name": "system failure",
+      "album_type": "album",
+      "release_date": "2020-05-10",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a47822b705238cfa3c079ad",
+      "uri": "spotify:album:5pF2IlhNpXohll1fTKREmu",
+      "name": "every night i die (part ii)",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398909167bb3cacf5038a5125",
+      "uri": "spotify:album:5xKzr9wsVxlaWqD3MD5vGp",
+      "name": "defender of the fleet (heatblur f-14 original soundtrack)",
+      "album_type": "album",
+      "release_date": "2019-03-11",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd52e0b2f31e22364a44519a",
+      "uri": "spotify:album:5jblNI0ZnpfvBLgJX6Z16j",
+      "name": "white crows",
+      "album_type": "album",
+      "release_date": "2018-10-22",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736901eb6fbfb4aca91a522c05",
+      "uri": "spotify:album:6Zny8ZV8G8swur2atUN5lI",
+      "name": "dreadnought",
+      "album_type": "single",
+      "release_date": "2018-08-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03wVieMf0FnJdDsHNVArlC",
+          "name": "earmake"
+        },
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aebf1737ce061fb8916a8d4b",
+      "uri": "spotify:album:5hcuTE0PKzIGrNoHzbqSWg",
+      "name": "voyage into fear",
+      "album_type": "album",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0760bb3a2ef0d22ee5919ba",
+      "uri": "spotify:album:2OrWDpUCRHnwxNSdJ3Qtit",
+      "name": "forever war",
+      "album_type": "single",
+      "release_date": "2017-07-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738816d9a65271efe5b1191da3",
+      "uri": "spotify:album:3L6bmzaTKPJOA8GFxkYwpo",
+      "name": "inner demon",
+      "album_type": "album",
+      "release_date": "2017-04-23",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386c543367689c499e73206ff",
+      "uri": "spotify:album:2sYrjGGIEX07kxTh0KSmRb",
+      "name": "grim memories",
+      "album_type": "single",
+      "release_date": "2016-05-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273beaed259ba67540a06dbb46a",
+      "uri": "spotify:album:6WANTLfKAunhmukRM6tuse",
+      "name": "parallel lives",
+      "album_type": "album",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f59aba9c975a4970dbce627",
+      "uri": "spotify:album:5omRxQUC31kXfr4xadP1ZN",
+      "name": "manhattan 2019",
+      "album_type": "single",
+      "release_date": "2015-09-05",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3A4fNuEjrFPkY85KCSOdPb",
+          "name": "meteor"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:23.000Z"
+}

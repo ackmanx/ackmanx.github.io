@@ -1,0 +1,602 @@
+{
+  "name": "g jones",
+  "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+  "uri": "spotify:artist:0gXx2aQ2mfovDfqCw10MQC",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd9e124b7cdb3eba6fe21e209",
+  "genres": [
+    "bass music",
+    "glitch"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b85a5d02928c04ebdb9cf1c2",
+      "uri": "spotify:album:1CNauoaze1UJqMobWAr592",
+      "name": "break of dawn",
+      "album_type": "single",
+      "release_date": "2026-04-14",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a8a188537226070559de3db",
+      "uri": "spotify:album:7h0A0UsPVRcSwIPE68YuNz",
+      "name": "disk utility",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375c9e2ab96bffd3f0a248a4e",
+      "uri": "spotify:album:0vspru0FpBRSg9OWMpHyT1",
+      "name": "slamming keys",
+      "album_type": "single",
+      "release_date": "2025-11-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd397d48c0a91d0eee1d4183",
+      "uri": "spotify:album:3GakunyH6uBH74eCw8arLK",
+      "name": "druids",
+      "album_type": "single",
+      "release_date": "2025-03-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        },
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b9f90f52459538576eca781",
+      "uri": "spotify:album:4FL3BPEqVAxOEtvjDgLlc9",
+      "name": "paths",
+      "album_type": "album",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344f087a19a9e62d980aa1224",
+      "uri": "spotify:album:0QRfRdo4vOWTEjSDgIbwgC",
+      "name": "remnant",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735aa470a07b27301b51e91f06",
+      "uri": "spotify:album:0yHqyK0h7PqpFdh1Pw6A5S",
+      "name": "liminality",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273def85c36b18ec65f7d3b5aef",
+      "uri": "spotify:album:6FF8H331Wy3gIWP2TmaurF",
+      "name": "daydreams / which way",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d54314ec1a0b16838b5ce220",
+      "uri": "spotify:album:2ljDGMcczlIKC69aNczUno",
+      "name": "shellshock (edit)",
+      "album_type": "single",
+      "release_date": "2023-01-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bfc38e20e7ebb263feb4100",
+      "uri": "spotify:album:4q4UK8noHwWQKCpwGvySGZ",
+      "name": "illusory tracks",
+      "album_type": "single",
+      "release_date": "2022-11-22",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ff12e26db539746424b5169",
+      "uri": "spotify:album:4DCqEwCdgAUTYekmWgFCo2",
+      "name": "say what",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "4zVCMnjw54nkhGHU4e1Pav",
+          "name": "isoxo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ac35f38df134c19c4a49539",
+      "uri": "spotify:album:2sDjn0yWlegGQDvyL486vp",
+      "name": "r.a.v.e.",
+      "album_type": "single",
+      "release_date": "2022-10-12",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273534b20cb3c7e7f707b1f63b7",
+      "uri": "spotify:album:0cUBXDtEC8xdBkwI1KvxAt",
+      "name": "operator",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392d6d912e765bb31e55ac1a2",
+      "uri": "spotify:album:1DYK4Oc0ybMOj3jEvrQC8u",
+      "name": "acid disk 2",
+      "album_type": "single",
+      "release_date": "2022-05-18",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebf0366e774a7b80e70b456e",
+      "uri": "spotify:album:30VheSkpz5Auu3mdagR04E",
+      "name": "a2c2i2d",
+      "album_type": "single",
+      "release_date": "2022-03-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2f90c6cf288aafef224ad21",
+      "uri": "spotify:album:6SPxFAg03yuGVnoCE5AxvC",
+      "name": "on my mind",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c3bfb45fd3f1340cf20344c",
+      "uri": "spotify:album:1AL6GsdQ5SI97EpMGouJmS",
+      "name": "tangential zones",
+      "album_type": "single",
+      "release_date": "2019-12-03",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6e2f2740dfe5b4b40cd774a",
+      "uri": "spotify:album:6VBnM3dTPao22uE6tWpBcF",
+      "name": "drift (acid mix)",
+      "album_type": "single",
+      "release_date": "2019-11-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c368b00c89bb21acc5ec8837",
+      "uri": "spotify:album:0KjgDjhpGXNutsIpnOfxPj",
+      "name": "dark artifact",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366ca01826d484b299c58579a",
+      "uri": "spotify:album:7mFHjr0l2KLgxlnQ6WTjpO",
+      "name": "daemon veil",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        },
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bdcc099ee390e0be2a77b10",
+      "uri": "spotify:album:6Cmrc941HaJb2s20Wuc472",
+      "name": "in your head (rl grime edit)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "5eIbEEQnDM8yuDVB0bimSP",
+          "name": "rl grime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a1e5ca12b91c1db7615d740",
+      "uri": "spotify:album:2O6lT75DNJch1OjXTu07gc",
+      "name": "the ineffable truth",
+      "album_type": "album",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305df440d3e4817c1437a4c18",
+      "uri": "spotify:album:1M4lSpCjzxEa5bMuDaVVHQ",
+      "name": "that look in your eye",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c77b439a4ebec4fdac4c3d7",
+      "uri": "spotify:album:3bjKVTJuxauMOV9kMrrArr",
+      "name": "time",
+      "album_type": "single",
+      "release_date": "2018-08-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273180e15469e156c7f59282cdd",
+      "uri": "spotify:album:2emTzvxx1A1PSs1BZjMCpv",
+      "name": "in your head",
+      "album_type": "single",
+      "release_date": "2018-07-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e856e492476cf4924c323bd3",
+      "uri": "spotify:album:1QYa9M86vnNHeCQVAPzflC",
+      "name": "understanding the possibility",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b4727453907f2827931a21a",
+      "uri": "spotify:album:25sZwvbahgjIzt2voihZxm",
+      "name": "acid disk",
+      "album_type": "single",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319acd21051a0d69c8e081c62",
+      "uri": "spotify:album:65T15FqoY699nFaPGcIg7i",
+      "name": "help! i can't find my way out",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730df611335e9dc9d8f5255c1c",
+      "uri": "spotify:album:10jT4u5ujWivkLZsky1shh",
+      "name": "hysteria",
+      "album_type": "single",
+      "release_date": "2017-09-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "2c2X6dr1PHctH24BxNOjHi",
+          "name": "eprom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375027422b59f18051b1ee5ab",
+      "uri": "spotify:album:2wnawlYybzDLY7ifQW6JcH",
+      "name": "get hot (g jones remix)",
+      "album_type": "single",
+      "release_date": "2017-08-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18fX4a2lpLLHmvJO2a5NkA",
+          "name": "chee"
+        },
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733742fdff3d5b882c9b917e82",
+      "uri": "spotify:album:6IfNvybpZZKVEO8u3YDsg5",
+      "name": "get hot (g jones remix)",
+      "album_type": "single",
+      "release_date": "2017-08-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        },
+        {
+          "spotify_id": "18fX4a2lpLLHmvJO2a5NkA",
+          "name": "chee"
+        },
+        {
+          "spotify_id": "0WDZCLcbMN3r8OLwntnxFk",
+          "name": "noclu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a81c6dc421c9b5186c180781",
+      "uri": "spotify:album:3atTR1kdnHBrM5YB1ornKi",
+      "name": "visions",
+      "album_type": "album",
+      "release_date": "2017-01-27",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387fbd574cdec486a4ddfaddc",
+      "uri": "spotify:album:7ESu1F4Eb7XchnaoBklBTM",
+      "name": "eyes",
+      "album_type": "album",
+      "release_date": "2013-09-10",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0a6f9970ce7ba32658fa21f",
+      "uri": "spotify:album:5kruY067GpnfNe2RmMg2hD",
+      "name": "eyes remixes",
+      "album_type": "single",
+      "release_date": "2013-09-02",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa5304e29d861b0315f95452",
+      "uri": "spotify:album:5hDQGs9TdeiZTK3BlnBl3o",
+      "name": "transmissions",
+      "album_type": "single",
+      "release_date": "2013-02-26",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0gXx2aQ2mfovDfqCw10MQC",
+          "name": "g jones"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:26.000Z"
+}

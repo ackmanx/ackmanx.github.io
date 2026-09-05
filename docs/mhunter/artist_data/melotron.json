@@ -1,0 +1,199 @@
+{
+  "name": "melotron",
+  "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+  "uri": "spotify:artist:3rqALSvaM6NU1mHBQq9I8B",
+  "image_url": "https://i.scdn.co/image/d25752164888ebb3548b943fe8ec59d0f72fefe8",
+  "genres": [
+    "ebm",
+    "synthpop",
+    "industrial",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbebaed83f8a60dbeff43683",
+      "uri": "spotify:album:3xsrJ1jvTnQ51S4ENOh82i",
+      "name": "jasbaaton ka safar",
+      "album_type": "single",
+      "release_date": "2025-06-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1259e5d3bcd5dcda63f4797",
+      "uri": "spotify:album:7dS6NgWyGjoXOWyaoJmPBg",
+      "name": "null",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273711222b89f07a3224ca0ec4d",
+      "uri": "spotify:album:2uPFfVN5rN5RQU2CZJXXm3",
+      "name": "mörderwerk",
+      "album_type": "album",
+      "release_date": "2022-02-07",
+      "release_year": "2022",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c61f50932963563146233f93",
+      "uri": "spotify:album:4UD0lIddIcEqxBlTsSY9Ar",
+      "name": "solo en tus ojos",
+      "album_type": "single",
+      "release_date": "2020-11-10",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5LQX37yhlMhtCNfhyFRZFA",
+          "name": "doble nucleo"
+        },
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b705052b44a93a4ce4b31eb",
+      "uri": "spotify:album:5IPLrkPRczpopKkAUWhL1t",
+      "name": "für alle",
+      "album_type": "album",
+      "release_date": "2018-06-29",
+      "release_year": "2018",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738991bc6344ef9ec488e75d89",
+      "uri": "spotify:album:3cfv2NftTzhjbR9XettOtc",
+      "name": "wo ist dein problem",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a25a3fa685b295a435b45fa6",
+      "uri": "spotify:album:2aDzra2d4Bo3VzgUq4PFAK",
+      "name": "menschen",
+      "album_type": "single",
+      "release_date": "2018-06-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eff5a4fd523f2e22b59634de",
+      "uri": "spotify:album:1DkSmykur3dktt5orvBuV9",
+      "name": "werkschau (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2014-06-06",
+      "release_year": "2014",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2cd53dc39e5e913a0ed81b3",
+      "uri": "spotify:album:1gYEMswVeztUXRwYMpQpoa",
+      "name": "stuck in the mirror",
+      "album_type": "single",
+      "release_date": "2013-03-08",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f664efa1317eef64240244d",
+      "uri": "spotify:album:1cud5592QpSXePQTuZHpzW",
+      "name": "cliché",
+      "album_type": "album",
+      "release_date": "2005-07-12",
+      "release_year": "2005",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301d5067aff4aa0dbbe768acd",
+      "uri": "spotify:album:27ARvEGGJfv4wwxLlJ65Of",
+      "name": "sternenstaub",
+      "album_type": "album",
+      "release_date": "2003-06-03",
+      "release_year": "2003",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8c610be169cb8da51b41162",
+      "uri": "spotify:album:3cX3uncaxdLTkP2w0OOBjx",
+      "name": "fortschritt",
+      "album_type": "album",
+      "release_date": "1999-02-03",
+      "release_year": "1999",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3rqALSvaM6NU1mHBQq9I8B",
+          "name": "melotron"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:02.000Z"
+}

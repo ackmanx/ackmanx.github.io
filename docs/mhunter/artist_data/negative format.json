@@ -1,0 +1,135 @@
+{
+  "name": "negative format",
+  "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+  "uri": "spotify:artist:6jNVws2YAM5hRBJ7yZDg5Q",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2736957a7c6f45f694154d8aa49",
+  "genres": [
+    "ebm",
+    "industrial",
+    "synthpop",
+    "industrial rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d00a8b2588a8d2778da9c54",
+      "uri": "spotify:album:2KcLsNvmjNAflaJxQ2Yvt7",
+      "name": "axiom",
+      "album_type": "single",
+      "release_date": "2012-02-22",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d9dce908970398035192d2",
+      "uri": "spotify:album:35ISLYPKts4i7h8zSjtf3Q",
+      "name": "gradients",
+      "album_type": "album",
+      "release_date": "2008-04-22",
+      "release_year": "2008",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736957a7c6f45f694154d8aa49",
+      "uri": "spotify:album:3grU9ux88cpWOLbTITSxpQ",
+      "name": "moving past the boundaries",
+      "album_type": "album",
+      "release_date": "2005-09-27",
+      "release_year": "2005",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273069ecee87dc4c34c31797a01",
+      "uri": "spotify:album:38fnFaqL8MVzyuFqNkmq9f",
+      "name": "cipher method",
+      "album_type": "album",
+      "release_date": "2004-07-27",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af46a83b3ca7603e93a5a529",
+      "uri": "spotify:album:1afH77YkGWPtofelek8CM3",
+      "name": "static",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e94e7ebd1a3c2c5ea6bbe718",
+      "uri": "spotify:album:48vx3t8q2Kt2RjL5VhIATz",
+      "name": "distant pulses",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735328da6a6a448795fe4bbda7",
+      "uri": "spotify:album:0F8vLiqHnIzJSxkuYm9QHy",
+      "name": "result of a new culture",
+      "album_type": "album",
+      "release_date": "1998",
+      "release_year": "1998",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306f9872a4147146d0115322d",
+      "uri": "spotify:album:0ue62mcCesUzT2YTyA7c7e",
+      "name": "pathologic syndrome",
+      "album_type": "album",
+      "release_date": "1997",
+      "release_year": "1997",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6jNVws2YAM5hRBJ7yZDg5Q",
+          "name": "negative format"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:44.000Z"
+}

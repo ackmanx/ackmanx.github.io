@@ -1,0 +1,283 @@
+{
+  "name": "slooze",
+  "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+  "uri": "spotify:artist:6md8Ho8wqUrhoF8cbsTLnT",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb08c6f3de88a7cd00b65796cb",
+  "genres": [
+    "rage rap"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aaeaaa20ef4ac913699dc023",
+      "uri": "spotify:album:3RZmQWUn2OzmHltJhQ08Xl",
+      "name": "time without end",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee7359e656d6a50e05286bd9",
+      "uri": "spotify:album:6jrf7st33oIVOBjckaZYbo",
+      "name": "rise",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cf61e7894c6be0818ee88f3",
+      "uri": "spotify:album:1CiNj2QuFMQxybMYnJF8Mb",
+      "name": "origin",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273210b7003c794dca9445e0297",
+      "uri": "spotify:album:1cu4OYfu3P3fJOeuzhINTQ",
+      "name": "instinct",
+      "album_type": "single",
+      "release_date": "2019-10-09",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2404b0293c083a040a40220",
+      "uri": "spotify:album:0vB6qrusVtO483I1YM6SIo",
+      "name": "odyssey",
+      "album_type": "single",
+      "release_date": "2019-09-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af69a50bec561abe30b3c81e",
+      "uri": "spotify:album:4v2sr88a9eM0ELtxO2sQzv",
+      "name": "reign",
+      "album_type": "single",
+      "release_date": "2019-09-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e0b7f8c99d5d5b0c8a6fcef",
+      "uri": "spotify:album:21TlXhqyM8h2Xg2A5yMRnL",
+      "name": "resistance",
+      "album_type": "single",
+      "release_date": "2019-08-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c9b4dedb21270320e405bd9",
+      "uri": "spotify:album:2rybweMVjbVZtW38gL29wH",
+      "name": "survival",
+      "album_type": "single",
+      "release_date": "2019-07-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345f9c3bbfeae707bb9fabac6",
+      "uri": "spotify:album:1MNNVehs5c15p2af93r8uc",
+      "name": "prophecy",
+      "album_type": "single",
+      "release_date": "2019-05-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e759340cc3bf7d43a550840",
+      "uri": "spotify:album:1FfXIxCrx4ZwuIfrJpapfD",
+      "name": "aftermath",
+      "album_type": "single",
+      "release_date": "2019-03-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b097fd51101935ffa0f2c53",
+      "uri": "spotify:album:5QzITWV6n2yosLsPORXODz",
+      "name": "turbulence",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Tabml9HYiynouDND7RFLz",
+          "name": "pax impera"
+        },
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d371035648ecb550cd8b2e6d",
+      "uri": "spotify:album:53CylvK3r1tX9BKgVEzs6c",
+      "name": "desolation",
+      "album_type": "single",
+      "release_date": "2018-10-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4001588dbdc866e80de974d",
+      "uri": "spotify:album:328ic44tZFc6CwmDoWfhwY",
+      "name": "first contact",
+      "album_type": "single",
+      "release_date": "2018-10-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "38Mb64k2ldYOmNFO1D3xez",
+          "name": "krilla"
+        },
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d88dfc6cced674d115df5601",
+      "uri": "spotify:album:1NNg8LcWqiNsUTXSBOVQFB",
+      "name": "oblivion",
+      "album_type": "single",
+      "release_date": "2018-09-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302368d14fc0477aa51dedaea",
+      "uri": "spotify:album:7oJWQZ3jkeo5enRtWocdfz",
+      "name": "ascent",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19zQevA415Jm6ThEtIwVIb",
+          "name": "zabo"
+        },
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f3f2e6514f92e906f1f9967",
+      "uri": "spotify:album:28aub1uj7yjUnLu8oGzihS",
+      "name": "rebirth",
+      "album_type": "single",
+      "release_date": "2018-06-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff9f21a62a704c7c8ceb5e4a",
+      "uri": "spotify:album:5bDAdTwOgnZcTCG33Cyvky",
+      "name": "under electric skies - slooze remix",
+      "album_type": "single",
+      "release_date": "2017-10-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1s8cu0X2A5YDwCLRN8AjFa",
+          "name": "nytrix"
+        },
+        {
+          "spotify_id": "6md8Ho8wqUrhoF8cbsTLnT",
+          "name": "slooze"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:52.000Z"
+}

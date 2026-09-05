@@ -1,0 +1,97 @@
+{
+  "name": "axonic",
+  "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+  "uri": "spotify:artist:5EcEFqEXm8MONy40OAahV3",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb487bff4889b023c326ad7984",
+  "genres": [
+    "drumstep",
+    "dubstep",
+    "deathstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319e08e5f1d8e79ff4cd6bea4",
+      "uri": "spotify:album:33ygWobwUt71UcB6YyzsR0",
+      "name": "militant ep",
+      "album_type": "single",
+      "release_date": "2015-05-28",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        },
+        {
+          "spotify_id": "6ynSq3csnauyqZeQgfuWWt",
+          "name": "downlink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d441a5d785404c1d3d04b1fd",
+      "uri": "spotify:album:2CCdQOfbqePvgsrIvqy8bR",
+      "name": "the breach",
+      "album_type": "single",
+      "release_date": "2014-11-21",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7c5dca05133efdc3d50a11a",
+      "uri": "spotify:album:0EOEuryun7ss6xYOl2ptRR",
+      "name": "equinox",
+      "album_type": "single",
+      "release_date": "2014-04-01",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        },
+        {
+          "spotify_id": "3nQEw08gNLlnDIEf4adGDU",
+          "name": "jack saxby"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d1307cc26197f1734a2a4ac",
+      "uri": "spotify:album:1pkjykoF121DBUVQx5wU8g",
+      "name": "video game violence",
+      "album_type": "single",
+      "release_date": "2013-12-16",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ce83e120b7bf51c8894e310",
+      "uri": "spotify:album:2pMzzDNFWwB5uGBbTXPnUS",
+      "name": "entropy ep",
+      "album_type": "single",
+      "release_date": "2013-07-15",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5EcEFqEXm8MONy40OAahV3",
+          "name": "axonic"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:47.000Z"
+}

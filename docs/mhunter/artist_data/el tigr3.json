@@ -1,0 +1,117 @@
+{
+  "name": "el tigr3",
+  "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+  "uri": "spotify:artist:0Z43xNK0ZhtPW2eKi1L1OP",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb341085ada87bdcfafd3ff5b3",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad573701b6c630a8e88991c8",
+      "uri": "spotify:album:0vPGvvXTR1PdCMlr4WcojC",
+      "name": "washed away",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732de2610a43d85c864c8425e3",
+      "uri": "spotify:album:79fJXVKoFs7Y1ilC04RrCm",
+      "name": "primitive",
+      "album_type": "album",
+      "release_date": "2025-04-17",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353f7ed88257df6a002805ff2",
+      "uri": "spotify:album:1Tyl4pRac8gclMG8jlN9HG",
+      "name": "kronos",
+      "album_type": "single",
+      "release_date": "2021-02-11",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b58d9f61e090aec14402983",
+      "uri": "spotify:album:4NBy8bsMNQHk8EspCZYRJL",
+      "name": "the beast within",
+      "album_type": "album",
+      "release_date": "2018-09-25",
+      "release_year": "2018",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372c83590fb2dbd9d9c676ce9",
+      "uri": "spotify:album:3fBcR6oHIn8ZvTVYJAa2yS",
+      "name": "man-eater",
+      "album_type": "album",
+      "release_date": "2016-11-17",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273888861db7389debb684ee0bb",
+      "uri": "spotify:album:0qP6CTNOCF8bEOgADsZpMb",
+      "name": "kill it",
+      "album_type": "single",
+      "release_date": "2015-05-06",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f091409cca66b35a06c7ff4",
+      "uri": "spotify:album:6ZHogzd8aHn9BgEX4xKrGy",
+      "name": "¡roar!",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Z43xNK0ZhtPW2eKi1L1OP",
+          "name": "el tigr3"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:24.000Z"
+}

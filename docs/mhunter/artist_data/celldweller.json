@@ -1,0 +1,814 @@
+{
+  "name": "celldweller",
+  "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+  "uri": "spotify:artist:4BKyei61gtyDFxlKhcvBJJ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb52fcb0f9d645d1edc6c97591",
+  "genres": [
+    "synthwave",
+    "industrial metal",
+    "industrial rock",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df6707ac9728602958945f45",
+      "uri": "spotify:album:6crOnhzdmkTaZsRKcafcqv",
+      "name": "god mode level 02: respawn",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9e95e918ecee30027ec0d02",
+      "uri": "spotify:album:2EOvpgKYrs4zZ04bsdnq9K",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2026-06-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345f025942e40c56916e85037",
+      "uri": "spotify:album:43J0HjXkN6emRsjexXID5y",
+      "name": "lost in the stars",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c5d41db8bcd223908c49469",
+      "uri": "spotify:album:3sBlPb0uiDfHgWhetPomXQ",
+      "name": "legacy of kain: soul reaver - the dead shall rise (official soundtrack) [nosgoth edition]",
+      "album_type": "album",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 42,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273610a7a847da4568cc88bbf58",
+      "uri": "spotify:album:5giWecXb1Ki1Qe5JfKEGDp",
+      "name": "elaleth (daedric remix)",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "2YRpsoIsb4KGe66E7hfEx5",
+          "name": "matthew k. heafy"
+        },
+        {
+          "spotify_id": "7bPZIHM9End5CqPcCrOqBf",
+          "name": "daedric"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc77f7f9fc6244ab794cdc97",
+      "uri": "spotify:album:2fgayKQB0wuC4xRCCNoLBK",
+      "name": "legacy of kain: ascendance (official game soundtrack)",
+      "album_type": "album",
+      "release_date": "2026-04-01",
+      "release_year": "2026",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b536abbaef497edd6c6284d1",
+      "uri": "spotify:album:3m8oSLdGSLHVH8x3wBtMTI",
+      "name": "legacy of kain: soul reaver - the dead shall rise (official soundtrack)",
+      "album_type": "album",
+      "release_date": "2026-03-18",
+      "release_year": "2026",
+      "total_tracks": 29,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306000077d95ef8c447d17aaa",
+      "uri": "spotify:album:2XjSl4c9KRHC8ks3id31VU",
+      "name": "machines of our disgrace",
+      "album_type": "album",
+      "release_date": "2026-01-02",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340a638615cbff626dfe86889",
+      "uri": "spotify:album:0vU3icj1Tp2wEdVx8evTid",
+      "name": "an offworld christmas",
+      "album_type": "single",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273615b4bd9c6373efa35c7e5fa",
+      "uri": "spotify:album:7ma4s3wKAx8jnju6UidnDu",
+      "name": "fakebreaker",
+      "album_type": "single",
+      "release_date": "2025-10-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "07OF36h5y4S6s9ckQliaj3",
+          "name": "swarm"
+        },
+        {
+          "spotify_id": "2cUSgme8otbeKGRDl6xm1t",
+          "name": "reebz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fd2141a61d3aed8603c0bd4",
+      "uri": "spotify:album:5IZdHH3lBBNbdqazwSSI74",
+      "name": "invisible world",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399d89806b2270d411bec28e1",
+      "uri": "spotify:album:3rTCsqfU6QP0KF0Ezeu7sy",
+      "name": "no illusion (celldweller remix)",
+      "album_type": "single",
+      "release_date": "2024-10-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5siUmTxIbfjNjrM5TmXvkX",
+          "name": "deadcode"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331606e02bef88283ec2dd5b0",
+      "uri": "spotify:album:3G89Yv2mBsJFJBBBuvQf93",
+      "name": "landmind (celldweller remix)",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "65YerjDIhAhVZebMCUfZ9S",
+          "name": "eyes of your eyes"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c274f262178dc28707388fa9",
+      "uri": "spotify:album:3cgN4QB4N1mAfxqnDNYNCr",
+      "name": "waste my time",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b3ad50dcf48fba06910aa0d",
+      "uri": "spotify:album:1wWbBDttOvMxWuCp20lSHb",
+      "name": "enter the unioverse",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b7e3e55c49dcd1cb2e9b98b",
+      "uri": "spotify:album:10a2oJhPZ7LxP4LUb6tp7N",
+      "name": "future 1990s (expanded)",
+      "album_type": "album",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6oeaLiDP3MgxDxSY1wMSbe",
+          "name": "freqgen"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373518fd099be4e5108aee534",
+      "uri": "spotify:album:3n0FOXjx9DV8kQXytns95n",
+      "name": "satellites (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc4e8675971876987ff380ad",
+      "uri": "spotify:album:4wUzPAPk50YZRRxMcCRPPX",
+      "name": "new age (bossfight remix)",
+      "album_type": "single",
+      "release_date": "2022-02-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4UNnRb4LN2hGtbtMfPzMhg",
+          "name": "muzz"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "1fILrc9B34DjHxSMkJmyBN",
+          "name": "bossfight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b68c417fffb0ea3e71d502c",
+      "uri": "spotify:album:12zPR17R2OLx1UmiSeVK4S",
+      "name": "clone",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xaF2VIGwhWyEMbM6GuLdm",
+          "name": "teddy killerz"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d26b320728896734f56e763",
+      "uri": "spotify:album:2I5oruhwske0wUSMbwriQ8",
+      "name": "circle of dust (25th anniversary edition)",
+      "album_type": "album",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ff818c3c1751fdaa0546fcb",
+      "uri": "spotify:album:0kHC4dtVrEVtNuacqIzbRM",
+      "name": "the darkness and the light (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2020",
+      "release_year": "2020",
+      "total_tracks": 34,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adcb38dd25b6d89f855335fb",
+      "uri": "spotify:album:5F6uLcoOwGLHIoEEhVYuNF",
+      "name": "breaking point (feat. robin adams)",
+      "album_type": "single",
+      "release_date": "2019-07-23",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "32rwroseSEZ7dEwooAUikF",
+          "name": "joe ford"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273173c74102f4a8bfe0ab1b26c",
+      "uri": "spotify:album:3csJDYsL6PIbjiAhm6vpN2",
+      "name": "ride of the valkyries (celldweller remix)",
+      "album_type": "single",
+      "release_date": "2018-04-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oeTR8PtEB9NV4jicZXRt3",
+          "name": "klayton"
+        },
+        {
+          "spotify_id": "0KFl3wbs0hvoKlKDPcXODj",
+          "name": "tom salta"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee246396ccee96b0640ff0c2",
+      "uri": "spotify:album:34AAv07g0lcBEzuTIT6Fdo",
+      "name": "monochrome (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739507004e3d95fb8ec59d804a",
+      "uri": "spotify:album:2oPVdEuJ8ykWCi1W5ySkZd",
+      "name": "thriller",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a59e484683312df9051c4247",
+      "uri": "spotify:album:3hLMhq7ihmiLj5UxTL9miz",
+      "name": "eagle's theme",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "39ZK2Yf7SuSmYONbsmDEfv",
+          "name": "atlas plug"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368bdeebb6bd365be779abe46",
+      "uri": "spotify:album:3Qo6w5B7qauQkAte7Uc2AF",
+      "name": "kilgore's theme",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "39ZK2Yf7SuSmYONbsmDEfv",
+          "name": "atlas plug"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f87bdd3d111683df1e4d851",
+      "uri": "spotify:album:7tQMvp9W3c1MvxQQjRV21C",
+      "name": "shin hisako's theme",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "39ZK2Yf7SuSmYONbsmDEfv",
+          "name": "atlas plug"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ab33781c764f6d4e7a0a285",
+      "uri": "spotify:album:0nqaQMvdVuJ0xURX3tfAty",
+      "name": "offworld (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efcdab9fb0f22f896310da8f",
+      "uri": "spotify:album:4Ys15kSTSvVO8nkynjKUnj",
+      "name": "machines of our disgrace (definitive edition)",
+      "album_type": "album",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4b271f995922764f968e5d7",
+      "uri": "spotify:album:4ooMCtNgb73ygLxEud8ihF",
+      "name": "scandroid (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2016-11-11",
+      "release_year": "2016",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e037267de79fae9288a3f3d9",
+      "uri": "spotify:album:3Fw5BGA4GBLtxFWU8BJnCG",
+      "name": "killer instinct season 3: original soundtrack",
+      "album_type": "album",
+      "release_date": "2016-10-25",
+      "release_year": "2016",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "39ZK2Yf7SuSmYONbsmDEfv",
+          "name": "atlas plug"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371f928e7cb431734da5caa3e",
+      "uri": "spotify:album:7zU7yD2rir9RU5pyWOV6Vz",
+      "name": "soundtrack for the voices in my head vol. 03",
+      "album_type": "album",
+      "release_date": "2016-09-02",
+      "release_year": "2016",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e54d2d2480bcfb95f1b9c9fd",
+      "uri": "spotify:album:4PzG0SGSb66xuO7rgVPAt7",
+      "name": "end of an empire (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2015-11-06",
+      "release_year": "2015",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a63100e836794a6dd554b58",
+      "uri": "spotify:album:6TaH354FRWlYx0Q8xkIOGj",
+      "name": "blackstar (original score)",
+      "album_type": "album",
+      "release_date": "2015-09-18",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        },
+        {
+          "spotify_id": "2oeTR8PtEB9NV4jicZXRt3",
+          "name": "klayton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cf684b0e073a2177f871db9",
+      "uri": "spotify:album:5Xq7WHLHwzHDh93pBBLP6w",
+      "name": "the imperial march",
+      "album_type": "single",
+      "release_date": "2015-05-04",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273280ad6fc689fcf633a08f3ba",
+      "uri": "spotify:album:6ILHSpjPjyl5X2sCAfOI1M",
+      "name": "halloween",
+      "album_type": "single",
+      "release_date": "2013-11-22",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387c94c73e33b95d75eff8c0f",
+      "uri": "spotify:album:2N0M7NLdMIO5oabHmRW2Td",
+      "name": "soundtrack for the voices in my head vol. 02",
+      "album_type": "album",
+      "release_date": "2012-07-24",
+      "release_year": "2012",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b7cf1a925311d1581087718",
+      "uri": "spotify:album:5VbjhA0vYNryQzajb3QSdj",
+      "name": "wish upon a blackstar",
+      "album_type": "album",
+      "release_date": "2012-06-12",
+      "release_year": "2012",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a91bd02f5c821409a36e602",
+      "uri": "spotify:album:1vQWNW9u7ePsvuJOzsbUax",
+      "name": "live upon a blackstar",
+      "album_type": "album",
+      "release_date": "2012-03-26",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fde3f5fb1df0ede72b0721a6",
+      "uri": "spotify:album:4PtBZgPazjlOYAw2nyMJ57",
+      "name": "soundtrack for the voices in my head vol. 01",
+      "album_type": "album",
+      "release_date": "2008",
+      "release_year": "2008",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e982609b0231e526b3175193",
+      "uri": "spotify:album:4NvgNR8QhQKNvsjangqMcT",
+      "name": "celldweller (definitive edition)",
+      "album_type": "album",
+      "release_date": "2003-02-11",
+      "release_year": "2003",
+      "total_tracks": 55,
+      "artists": [
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fda62fdbfa6cc348ead089ed",
+      "uri": "spotify:album:2EhOn7B5trJnO7ze1Y39HR",
+      "name": "disengage (deluxe edition)",
+      "album_type": "album",
+      "release_date": "1998-01-01",
+      "release_year": "1998",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273353a60e8ef5f7447b812bea9",
+      "uri": "spotify:album:3zSboBCXZ4ZiM85XrUVuJh",
+      "name": "brainchild (deluxe edition)",
+      "album_type": "album",
+      "release_date": "1994-01-01",
+      "release_year": "1994",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e90b7d503db039d00c03fb82",
+      "uri": "spotify:album:78KfPTQDFT9xWVKExDv1sr",
+      "name": "circle of dust (deluxe edition)",
+      "album_type": "album",
+      "release_date": "1992-01-01",
+      "release_year": "1992",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "60GtR6PIcDY1pikPgKHNk9",
+          "name": "circle of dust"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:04.000Z"
+}

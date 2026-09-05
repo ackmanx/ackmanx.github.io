@@ -1,0 +1,183 @@
+{
+  "name": "mihka!",
+  "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+  "uri": "spotify:artist:07MiScs25YZlJ3OrsF3GIK",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb482aa767f46cb51ee5a45dc3",
+  "genres": [
+    "future bass",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737efffa99ba1cf9dca428b426",
+      "uri": "spotify:album:700Iudp9SvQPTdDTZ0cQ5K",
+      "name": "u got me like",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6KX1HLwDB4Y9y4UyG7RTjz",
+          "name": "ube"
+        },
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273633f576edd70dcd986cb71a2",
+      "uri": "spotify:album:71oHsTxc47MA5eRemYJKhQ",
+      "name": "with u",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Vw4k1mznvSYROrxQuTX93",
+          "name": "kyoto black"
+        },
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f75abcb48c53d5c1a9a5df7",
+      "uri": "spotify:album:3hpS6115L0hQmburqM5lg0",
+      "name": "do you mind",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7c862aff8d7bf3abfe93902",
+      "uri": "spotify:album:1SYw6CGvywaBUg9J64tNTC",
+      "name": "diamond tears",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d03146322b2f1c701ea34a5d",
+      "uri": "spotify:album:5JZUX3yc3Bv9f7skbJXqzk",
+      "name": "watch me",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a515ab4f7e673620f6695f0",
+      "uri": "spotify:album:1MIB8cmDHB9YJanl8uG3YB",
+      "name": "call thru",
+      "album_type": "single",
+      "release_date": "2018-08-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e8b4eda263da84a4a8ac9f0",
+      "uri": "spotify:album:4CDIEPg8qVhaz1GqLeTKzX",
+      "name": "no notifications",
+      "album_type": "single",
+      "release_date": "2017-01-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        },
+        {
+          "spotify_id": "6Vw4k1mznvSYROrxQuTX93",
+          "name": "kyoto black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cc80fb96ab59c3c596ae73c",
+      "uri": "spotify:album:2x90yzCdFou7kU6tF5Rx5V",
+      "name": "kodokushi",
+      "album_type": "single",
+      "release_date": "2016-07-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        },
+        {
+          "spotify_id": "6Vw4k1mznvSYROrxQuTX93",
+          "name": "kyoto black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312eff2590e179fe9ebba2655",
+      "uri": "spotify:album:2hJyykNZbB6RUpiWmvcz0B",
+      "name": "sad girls",
+      "album_type": "single",
+      "release_date": "2016-04-28",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac68293635733bd3fbb548a7",
+      "uri": "spotify:album:0OHCStEtJgiRJt4Tphfabd",
+      "name": "wifi tears",
+      "album_type": "single",
+      "release_date": "2016-04-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3gxGPuGK6DOpv7XVp8V6jG",
+          "name": "slippy"
+        },
+        {
+          "spotify_id": "07MiScs25YZlJ3OrsF3GIK",
+          "name": "mihka!"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:26.000Z"
+}

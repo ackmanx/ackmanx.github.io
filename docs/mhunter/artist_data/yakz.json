@@ -1,0 +1,732 @@
+{
+  "name": "yakz",
+  "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+  "uri": "spotify:artist:5OHTMczsMClDJMVTqKsXIA",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb41bd2519dfcba1da3e9c608f",
+  "genres": [
+    "riddim",
+    "dubstep",
+    "deathstep",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730457bff67296ad00c661255a",
+      "uri": "spotify:album:01WIoWvAaMV5iN61nPofAp",
+      "name": "error",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bac3b6b29853db3e3cd609d6",
+      "uri": "spotify:album:2hrXvwsckxKFxwW7B8nusl",
+      "name": "menticide",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57gGqESEggWfCpE3KOzdVa",
+          "name": "samplifire"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb215f4f6f5dc98f56149cf2",
+      "uri": "spotify:album:2Shg54ZLhdTerkoQHxeHY3",
+      "name": "tunnel vision",
+      "album_type": "single",
+      "release_date": "2023-05-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fa91cd2e9e40b948e496a40",
+      "uri": "spotify:album:3qKIl0FMzqdyugIJqowclQ",
+      "name": "door of opportunity",
+      "album_type": "album",
+      "release_date": "2023-04-20",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c711e0949cdc4b8d01a0233",
+      "uri": "spotify:album:7LMQGJkb9QgzBU5BFjuMyn",
+      "name": "endless loop",
+      "album_type": "single",
+      "release_date": "2023-04-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fbb55d8d69d20e9f77718df",
+      "uri": "spotify:album:2cLuWcitss5TDMyKY9BPgh",
+      "name": "mana crypt ep",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273644dcb218336a409ee9ccf31",
+      "uri": "spotify:album:56Qhtn8vRgO6UP8J20NT1k",
+      "name": "return to dust",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "5y4xjNwy9GEFC4hic2epwe",
+          "name": "jeanie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb118303255f31cd02009b2c",
+      "uri": "spotify:album:4jvAnC8ZrAxOLN4TSeV9dr",
+      "name": "escape room ep",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731729c869911e51b25e2f7105",
+      "uri": "spotify:album:6L2O1hE302ssRURHHXgX4W",
+      "name": "cali bomb squad",
+      "album_type": "single",
+      "release_date": "2021-11-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300dcfeff3c330e22a1ad5610",
+      "uri": "spotify:album:0LQv8pmtTUQICc5SK8lW9o",
+      "name": "on the run - ep",
+      "album_type": "single",
+      "release_date": "2021-10-14",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bf5b179e277731f69ef60f6",
+      "uri": "spotify:album:6Xf0olEtOY3CuLlXjaew5m",
+      "name": "party starter",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2m8lZUuPm2BLQ2c8gtIAV6",
+          "name": "ubur"
+        },
+        {
+          "spotify_id": "3sS9RKjrDJMl7zpG3cWHk7",
+          "name": "aweminus"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273419161f030d722a749ee15e3",
+      "uri": "spotify:album:1MmRraonZ3rNak0rvsVPYf",
+      "name": "radiation (yakz remix)",
+      "album_type": "single",
+      "release_date": "2021-07-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3bce1zPmITQ2MGdCxGaSvL",
+          "name": "gawm"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec6bb4a4cd199b84d73c7501",
+      "uri": "spotify:album:4MX3kqtIIgkJoxLaxpesWb",
+      "name": "kill switch ep",
+      "album_type": "single",
+      "release_date": "2021-03-24",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315afe782eca811ffb45e2e95",
+      "uri": "spotify:album:7I9IadfULiJXPo2HHk8uH0",
+      "name": "kill switch",
+      "album_type": "single",
+      "release_date": "2021-03-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c6329648f0d75041af68932",
+      "uri": "spotify:album:41NnAlDvmyF6fMDxtqQ9HG",
+      "name": "hardcore",
+      "album_type": "single",
+      "release_date": "2021-02-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "1s6bMklFjSRcrMy2FtobWM",
+          "name": "calcium"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e31d6d5438e9eac2f7877b80",
+      "uri": "spotify:album:6mNBHmdH0BUiZBooCzmr8b",
+      "name": "bodying",
+      "album_type": "single",
+      "release_date": "2020-12-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "1wY9yYakCnVKNEaMSCTe6k",
+          "name": "jus rival"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ea2b3fb4e219a0c6540750a",
+      "uri": "spotify:album:5Hfwbjhs4nbhcCV6OQPnEK",
+      "name": "all systems down",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ddc00ef4123ff8bade216f5",
+      "uri": "spotify:album:6EwwZeQyTUjFJbYvpkB17w",
+      "name": "volgr",
+      "album_type": "single",
+      "release_date": "2020-11-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efe5b5a9106e9528299f2c43",
+      "uri": "spotify:album:4z1PsMY5tEu58wdBnbg8qA",
+      "name": "bang",
+      "album_type": "single",
+      "release_date": "2020-11-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367705a8c9c42da72f13f07c4",
+      "uri": "spotify:album:6tzmaTp3Sxv0HVCvhkuyPH",
+      "name": "destruction",
+      "album_type": "single",
+      "release_date": "2020-06-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732dadd8ced4f62d7ca86145bd",
+      "uri": "spotify:album:03uUuKxheWallmhTkU750u",
+      "name": "hollow footsteps",
+      "album_type": "album",
+      "release_date": "2020-05-07",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273002128cd54babe02b10d9628",
+      "uri": "spotify:album:0f5OEE9M4bHlSwU5dgdDX7",
+      "name": "stomp",
+      "album_type": "single",
+      "release_date": "2020-04-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b899ccadfe7606ccf885060",
+      "uri": "spotify:album:0P9P4aHwu2DDHbZ5qglgth",
+      "name": "skate or die",
+      "album_type": "single",
+      "release_date": "2020-03-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4F8JGeO6bJO7Z309mxHlP0",
+          "name": "dack janiels"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "2i5Ya7xOTBqwtVdq2hnsTf",
+          "name": "hami"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab5212f321657daa80f5645a",
+      "uri": "spotify:album:2j5F2fozLMuAyGJm3EvTC4",
+      "name": "fuck off",
+      "album_type": "single",
+      "release_date": "2020-02-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300a74080c0c86cf17013caf7",
+      "uri": "spotify:album:4H0T6fAuBsw7RHvhvVyoe9",
+      "name": "trash talk",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374eb778f2b4ec2815e28123a",
+      "uri": "spotify:album:26FVMHwsPkkfv2gNmcPXLg",
+      "name": "2 for 1",
+      "album_type": "single",
+      "release_date": "2020-01-24",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382a1b49eb945a5e0c21a904f",
+      "uri": "spotify:album:7xot0eUsGMUPyIsZZmbNOd",
+      "name": "trash talk",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319fadfd3794fb1bc78c8347f",
+      "uri": "spotify:album:5jfjMTKMJazgRJAIHnmlzw",
+      "name": "add some spice vip",
+      "album_type": "single",
+      "release_date": "2019-12-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733268cb049e81ecdde69af32b",
+      "uri": "spotify:album:4tPhQayfPXOF2s0MaROZUy",
+      "name": "the end",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d6614627d5f44429d556303",
+      "uri": "spotify:album:5nk41MZndl5DOZddRSkVrf",
+      "name": "abduction",
+      "album_type": "single",
+      "release_date": "2019-09-05",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "45eOANIj1vvkt8olH7Zh71",
+          "name": "spock"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273863a3276ce3658c2329465a8",
+      "uri": "spotify:album:7vxuXdng1EyXx8sfmW2kA8",
+      "name": "test subject",
+      "album_type": "single",
+      "release_date": "2019-08-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eOANIj1vvkt8olH7Zh71",
+          "name": "spock"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac90f13d490a299ffdcdca1f",
+      "uri": "spotify:album:1kM4sNmAja9IQkMKcXRIId",
+      "name": "abduction",
+      "album_type": "single",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eOANIj1vvkt8olH7Zh71",
+          "name": "spock"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d552f0bc38151a10b4581ff",
+      "uri": "spotify:album:0j2abMtf2kLqJNxkzpAN6h",
+      "name": "check mate",
+      "album_type": "single",
+      "release_date": "2019-04-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331a4e29b618ff73d21b2710c",
+      "uri": "spotify:album:6ndKsm3E6FjHP4tcfoS8Pi",
+      "name": "dirty dogs",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4820AP0lvBGJjSK0PXgZgo",
+          "name": "ivory"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "3SsxYsQwnhws0qW0fsO1s5",
+          "name": "codd dubz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddd6f65fef9dab715f8b3e8c",
+      "uri": "spotify:album:3qjtzoaAkaiGKSfC0NuV9p",
+      "name": "come gert some",
+      "album_type": "single",
+      "release_date": "2018-12-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2c3935456d5a5a2d961fe3e",
+      "uri": "spotify:album:35HSJQGsKcrMU288KL13ub",
+      "name": "friendship",
+      "album_type": "single",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7HvystfBAIH8khkGVO4vne",
+          "name": "parker"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397df6ca34a8729194524c5e0",
+      "uri": "spotify:album:45MBhWf33HEJc8NfNzFyoU",
+      "name": "gonzo",
+      "album_type": "single",
+      "release_date": "2018-10-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319a35779298ec36191a323d4",
+      "uri": "spotify:album:1huqhIfZwC3TevHKOloq6X",
+      "name": "the music",
+      "album_type": "single",
+      "release_date": "2018-03-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7184d1dc621710d68e0ad31",
+      "uri": "spotify:album:47vUKIV157ymnzZzmHYAmC",
+      "name": "the scary door",
+      "album_type": "single",
+      "release_date": "2017-12-10",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5422226806a50ada85705fd",
+      "uri": "spotify:album:6UqXEQWbrZRjbNjMf7eNXU",
+      "name": "broadcast",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "47u7mMIabRjxBMjnQddFzO",
+          "name": "ad astra"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306552f00b5dab5d2b42bf3a2",
+      "uri": "spotify:album:3MMPJZsifLlcDOvuuuCI3i",
+      "name": "yaktivate",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273719ce27aa999da4286a297b3",
+      "uri": "spotify:album:7oFvCTXfVTBUjwDUGu0wIE",
+      "name": "shut 'em down",
+      "album_type": "single",
+      "release_date": "2017-09-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2u01kCKA5wDvvztuH8lyT0",
+          "name": "svdden death"
+        },
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123528e0b75c57284c00da9f",
+      "uri": "spotify:album:6Z3COPYiVTWMcNZ1GrEV6X",
+      "name": "emergency",
+      "album_type": "single",
+      "release_date": "2017-03-20",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5OHTMczsMClDJMVTqKsXIA",
+          "name": "yakz"
+        },
+        {
+          "spotify_id": "027xLz376fnJjT9o2kl4oW",
+          "name": "chmst"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:59.000Z"
+}

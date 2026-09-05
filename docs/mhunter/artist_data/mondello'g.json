@@ -1,0 +1,790 @@
+{
+  "name": "mondello'g",
+  "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+  "uri": "spotify:artist:77lzQa2JgjlkP4uA5ptyo7",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb46389e6d069d37c9a197e529",
+  "genres": [
+    "hypertechno",
+    "techno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a163275baee5624ffcb4dd2",
+      "uri": "spotify:album:3Vio4Tao36LgwftLVuj35l",
+      "name": "bounce to the rhythm",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4mGL3jxowN9dNJoP4F4xuc",
+          "name": "dnns"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737207157f28f7f0003e5e4822",
+      "uri": "spotify:album:2JRcQnMB4nNACN8G7UtpWr",
+      "name": "techno overdrive",
+      "album_type": "single",
+      "release_date": "2026-04-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "30izG1rXjnmt4SOEqKVL7i",
+          "name": "papi jumper"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305a38e187e7265867e2f95e5",
+      "uri": "spotify:album:5wQChtXt9oClEtsOoZi2CD",
+      "name": "techno girl (remixes)",
+      "album_type": "single",
+      "release_date": "2026-02-12",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4F3jN4WGspRHzZnvTTmMHx",
+          "name": "moxia"
+        },
+        {
+          "spotify_id": "7lOybRN1Qz34nPphHTHRHY",
+          "name": "nivk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737203b244d19c863ad0de38e3",
+      "uri": "spotify:album:2dRmd8vkiXo0buCqWJng8N",
+      "name": "techno girl",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4F3jN4WGspRHzZnvTTmMHx",
+          "name": "moxia"
+        },
+        {
+          "spotify_id": "7lOybRN1Qz34nPphHTHRHY",
+          "name": "nivk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368201ebcae63a7971eada0b2",
+      "uri": "spotify:album:5rDO7ImSCMfY55J92t1vCY",
+      "name": "i wanna dance",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "01amjyTlohCQrBLbM1scoO",
+          "name": "distrion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393991162af0bd83be594360f",
+      "uri": "spotify:album:4O1GqccTwxxtb2Gjsk0bJp",
+      "name": "my neck, my back (lick it)",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4F3jN4WGspRHzZnvTTmMHx",
+          "name": "moxia"
+        },
+        {
+          "spotify_id": "5MazkeVWAqayflCjldHhs3",
+          "name": "lupage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273030350231e48460e4a7f28db",
+      "uri": "spotify:album:78dxvt5Zb1nKsC3VV1s12r",
+      "name": "go insane",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4rCSOIelSj4xsI1Zo5WM23",
+          "name": "thnderz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5284b335c9381047c0f2fc5",
+      "uri": "spotify:album:6SHiHFevIKQ0BSPlEaeMPW",
+      "name": "delirious (english version)",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314170d2f1955b7c4df26b572",
+      "uri": "spotify:album:3E2n6BmFnuxZP6kduifWT2",
+      "name": "delirious (french version)",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        },
+        {
+          "spotify_id": "32kPQzj1rk4nnGIIJpIUic",
+          "name": "ceres"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a556b5052a0f33c913f327f2",
+      "uri": "spotify:album:2VnlN1ECUay4c6xVPigibe",
+      "name": "delirious (french version) [extended mix]",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "1tHXAxKf7BCwFZpj8cMERM",
+          "name": "3rd wall"
+        },
+        {
+          "spotify_id": "32kPQzj1rk4nnGIIJpIUic",
+          "name": "ceres"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273857f69fb7df73ef5016f5d13",
+      "uri": "spotify:album:0tB7Bd1faonhDE6CjMhYpy",
+      "name": "cafe del mar (mondello'g remix - live at tomorrowland)",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364d75af9bad56c9f5d976a1b",
+      "uri": "spotify:album:00wXBmgAoqazTO2nz6INCL",
+      "name": "germany & techno (feat. krys tha sis) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4IOhVReVZmK8yRqFgcxDvY",
+          "name": "fabian farell"
+        },
+        {
+          "spotify_id": "3mPVA7KPcWK2iKju5lLFc8",
+          "name": "derb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdeccc08b643ae074451ef5d",
+      "uri": "spotify:album:0h0X92XKzqCkeOEG1yKrjG",
+      "name": "just drive (main edit)",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4IJZifbxziAjX7iYfLWfw2",
+          "name": "borro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273554d42abb38acf358e036872",
+      "uri": "spotify:album:6rvFCkF8mibsbv9LlVv7DF",
+      "name": "every time i touch you",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "01amjyTlohCQrBLbM1scoO",
+          "name": "distrion"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bcd50aeffa5dcb17399af5b",
+      "uri": "spotify:album:0BPKZj3U41ZjlZrtphRqbn",
+      "name": "every time i touch you (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "01amjyTlohCQrBLbM1scoO",
+          "name": "distrion"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e083b3935ce78388b2fd0c05",
+      "uri": "spotify:album:6eDqypPdZuPK49wSD3i2yb",
+      "name": "free falling",
+      "album_type": "single",
+      "release_date": "2024-07-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b20cb25a8ccaa4026b4b457d",
+      "uri": "spotify:album:3KC6P4Pq4CWaNLIPgJtTzQ",
+      "name": "never fall down",
+      "album_type": "single",
+      "release_date": "2024-06-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "12QQZ0RBLnfB2MS8FrwmmM",
+          "name": "lauwend"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a662f943d0daef4f7d2d2320",
+      "uri": "spotify:album:07V1UaiXDhGiz2NswDxzOx",
+      "name": "get back",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381b16b41c622baf9678a899f",
+      "uri": "spotify:album:1zz2cxnkEpgyLdSmoPBEjK",
+      "name": "let's get fkd up (feat. tribbs)",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "32kPQzj1rk4nnGIIJpIUic",
+          "name": "ceres"
+        },
+        {
+          "spotify_id": "6iqDK7aHVlwGGgPmcdSK5L",
+          "name": "tribbs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c539f7e25cd6b8d55179afe1",
+      "uri": "spotify:album:3MXUgrRdKv7Xw12FrDpaqK",
+      "name": "can't get you out of my head",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "12QQZ0RBLnfB2MS8FrwmmM",
+          "name": "lauwend"
+        },
+        {
+          "spotify_id": "1aQwKFn00nswXRDUDipm0K",
+          "name": "gaullin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b793b28739fdae6cdcf2f42",
+      "uri": "spotify:album:15K31LKLqkv6blBZhvlEzi",
+      "name": "follow",
+      "album_type": "single",
+      "release_date": "2023-05-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7t08SFCB3arG3lQaGURngW",
+          "name": "maeva carter"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d341b5c15985d07ce9e2f0",
+      "uri": "spotify:album:7JHtwaX1vY2SqgpyzRe1W8",
+      "name": "guddi riddim",
+      "album_type": "single",
+      "release_date": "2023-01-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273288e4f5e1b054ab097f4f2e6",
+      "uri": "spotify:album:5Vkj9UXFVhahli4oJp4xbu",
+      "name": "l'éponge armée",
+      "album_type": "single",
+      "release_date": "2022-12-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c87d980bf2b355fe6d46934",
+      "uri": "spotify:album:5AjD4HoarbVQQmmiJhs8sV",
+      "name": "bloody mary",
+      "album_type": "single",
+      "release_date": "2022-12-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e5f0bbc628c190cd651b142",
+      "uri": "spotify:album:2MoNuZlamv6tfsDWHEgvXY",
+      "name": "like it",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273134fbfc34944bbc015fafd2f",
+      "uri": "spotify:album:6oWUxGUDZhB2s7MiTeGlml",
+      "name": "show up",
+      "album_type": "single",
+      "release_date": "2020-07-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "3NKVzt0B3SBDZiycsx7qwH",
+          "name": "thyse"
+        },
+        {
+          "spotify_id": "3epScA5vlvqzr2AfI7JJ2f",
+          "name": "rhiannon roze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d7f1d4f9ee4e3c27d2195ea",
+      "uri": "spotify:album:1RtMrHjTyXP3F0jnDyDYPa",
+      "name": "butt",
+      "album_type": "single",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bf24f2cc0d9aa0922596206",
+      "uri": "spotify:album:14Y0XkrKy6vSTyUeZVk1HS",
+      "name": "fire",
+      "album_type": "single",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273993070f586a7ffe0d29185cc",
+      "uri": "spotify:album:6lFSggGTN1lO9fnXVHA5RO",
+      "name": "rotor / vandal",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273848f1f872f772111063fef96",
+      "uri": "spotify:album:4DT4olJQjR11nuY7jPhQFH",
+      "name": "shocker",
+      "album_type": "single",
+      "release_date": "2016-04-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0ddff36d6fef0c09df089f1",
+      "uri": "spotify:album:6nwOx2ed8HhwmoW0nBV0rp",
+      "name": "pharaon",
+      "album_type": "single",
+      "release_date": "2014-04-29",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbc2adc83bb157d2ff0d2ed0",
+      "uri": "spotify:album:1jqTdaXlDpePYR2mS1bSIs",
+      "name": "snap shot",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Fr2hRHMxRV2Lu0Gnov3an",
+          "name": "dj furax"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335f3baf84f87443fa1be9d19",
+      "uri": "spotify:album:4Rn3vniZpUMXL9B2INAqYK",
+      "name": "stir you up",
+      "album_type": "single",
+      "release_date": "2013-10-07",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5Fr2hRHMxRV2Lu0Gnov3an",
+          "name": "dj furax"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        },
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731edd97c4cfe20acca526aa43",
+      "uri": "spotify:album:5Gf3vBReQCMpGB7FRFdJiT",
+      "name": "speed breaker",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b48c33d1deebd3695052e5c5",
+      "uri": "spotify:album:3W8R9T7tYlT0QAJIUaKyVf",
+      "name": "i'm famous",
+      "album_type": "single",
+      "release_date": "2012-10-15",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc391c091973b84b98b37d93",
+      "uri": "spotify:album:1UoJMBXxoakGwGorAmHrn4",
+      "name": "sound of limo",
+      "album_type": "single",
+      "release_date": "2012-06-22",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4528ad0ab65cfcca9265817",
+      "uri": "spotify:album:29SdyjTAWYv9rJ1foaHCNs",
+      "name": "lunar",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273076ea204d95c0e945cf7a4f6",
+      "uri": "spotify:album:7lGepfUYkohwkkQIinUjeC",
+      "name": "summertime (original club mix)",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abb263ef3f38ee29dabff462",
+      "uri": "spotify:album:0tcWLrEMjPKr096VoqYzqI",
+      "name": "love in the music",
+      "album_type": "single",
+      "release_date": "2011-07-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77lzQa2JgjlkP4uA5ptyo7",
+          "name": "mondello'g"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:02.000Z"
+}

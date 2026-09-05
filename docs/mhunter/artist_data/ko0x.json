@@ -1,0 +1,70 @@
+{
+  "name": "ko0x",
+  "spotify_id": "5DAquWrD6N3tQ5Ewm7wwUX",
+  "uri": "spotify:artist:5DAquWrD6N3tQ5Ewm7wwUX",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273ad9b4262069560c99546b49d",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739177dc9f26d27fd6a1f38d3f",
+      "uri": "spotify:album:2jqZCcffC7QoFbU7ju6PKI",
+      "name": "nobody else",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DAquWrD6N3tQ5Ewm7wwUX",
+          "name": "ko0x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bcb5f665ff35df4773a5eb3",
+      "uri": "spotify:album:6cKEa5RiLEQ0KHctAYDJ8v",
+      "name": "slice of life",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DAquWrD6N3tQ5Ewm7wwUX",
+          "name": "ko0x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736698ee78f8b71f52da7e1178",
+      "uri": "spotify:album:4yvJsnpfjoOElfot2YdAVa",
+      "name": "kaerimasu",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5DAquWrD6N3tQ5Ewm7wwUX",
+          "name": "ko0x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad9b4262069560c99546b49d",
+      "uri": "spotify:album:5eRYLVzkbMwVBaiTbyHbkq",
+      "name": "happiness in your face",
+      "album_type": "album",
+      "release_date": "2018-05-18",
+      "release_year": "2018",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "5DAquWrD6N3tQ5Ewm7wwUX",
+          "name": "ko0x"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:07.000Z"
+}

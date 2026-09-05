@@ -1,0 +1,742 @@
+{
+  "name": "inzo",
+  "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+  "uri": "spotify:artist:18Eu7uJEMPWwwt1QUdCglQ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5be0ccf9e78c0371bdb05b42",
+  "genres": [
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef8b293805229277c808e5eb",
+      "uri": "spotify:album:3AoluPghuAcj1uy3GUJ62w",
+      "name": "nexum (remixes)",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b7c5c0091041597abf4878b",
+      "uri": "spotify:album:5Vb5UNccfVIqVbul0pEqFm",
+      "name": "mirrorverse",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f799b22ffaec9cfb4ab608e",
+      "uri": "spotify:album:2BoQusG3bjsNDlicEcGjE4",
+      "name": "nexum (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733afc86181ded8f55eb844c2e",
+      "uri": "spotify:album:1am6omUxNIqZOezBTmG5sh",
+      "name": "nexum",
+      "album_type": "album",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb5ef853c9e59dddb0b56cb9",
+      "uri": "spotify:album:1T6Tvjl9YUyjZs5X4YZdvk",
+      "name": "beyond love",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735891b1badef590cdc8fc6678",
+      "uri": "spotify:album:1gYtMfHRgHAUICRGG2FIZG",
+      "name": "go mode",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        },
+        {
+          "spotify_id": "4H9N7llvyhoddyD2oIrXWt",
+          "name": "dijahsb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0b155441d810885cce65bb0",
+      "uri": "spotify:album:3YyGuVz3Sp4bh6H6ZKokse",
+      "name": "nexum",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324eb40775d2ad89181f93630",
+      "uri": "spotify:album:2aaMri4lnF8SdkDRrA8wpY",
+      "name": "artifacts of a higher dimension",
+      "album_type": "single",
+      "release_date": "2025-03-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3Hrqjumb6WHg2aAUHJHLND",
+          "name": "lsdream"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730720347c84049ac630462156",
+      "uri": "spotify:album:0jvggA0QufnaIbh4S0as91",
+      "name": "digital night drive",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "6JU4RsXcN7rLafs39HwFxf",
+          "name": "mersiv"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d235558d47383436678b1432",
+      "uri": "spotify:album:6VgZvUK0UF40fGCmxOys4S",
+      "name": "aint no thang",
+      "album_type": "single",
+      "release_date": "2024-08-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3T0BepBNnd3kw2m10rh8yW",
+          "name": "tvboo"
+        },
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a58544e6b2e25b835fb56f8",
+      "uri": "spotify:album:0lBvouAwxR05GhHMaItDmw",
+      "name": "faceplant on the galaxy",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3Hrqjumb6WHg2aAUHJHLND",
+          "name": "lsdream"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b73f167bcf1f553172df99b",
+      "uri": "spotify:album:2jQZcf7MCb8wphXN3ylh7G",
+      "name": "visionquest",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337923ec6b260bcd84e7a3076",
+      "uri": "spotify:album:7yYcPo8ZZdZgfJ2vW5qEdq",
+      "name": "young majestic",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273262013f6c7882b75e540b3bc",
+      "uri": "spotify:album:16Ujvam6Ml9Sl8yHB548bZ",
+      "name": "the descent",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376c509283d18fa018bae8098",
+      "uri": "spotify:album:6JochktGz6Jbsaa9Ae0fUq",
+      "name": "hideaway",
+      "album_type": "single",
+      "release_date": "2024-02-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "4F6d5pVnChKy8CcMBaZ1Ja",
+          "name": "lhasa petik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0bea491745552d11c92aa76",
+      "uri": "spotify:album:2tx9zO7VpnCZy2mO4vbcNr",
+      "name": "just a mirage",
+      "album_type": "single",
+      "release_date": "2024-02-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "6rMBEaw5vp8wycwK4dleKp",
+          "name": "illusio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e4b54c05b2c335360397bde",
+      "uri": "spotify:album:23PvqNP9LBwte6EkdJQsBB",
+      "name": "sidequest",
+      "album_type": "single",
+      "release_date": "2023-11-30",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377e098ef1fa2a2aff77edc69",
+      "uri": "spotify:album:1XMX76i2nCTl52fvyV7zra",
+      "name": "bass in yo face",
+      "album_type": "single",
+      "release_date": "2023-10-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e651b9a4a42899ac07e4a053",
+      "uri": "spotify:album:2S5DMlS0U6cueSMGcPeKse",
+      "name": "earth magic",
+      "album_type": "single",
+      "release_date": "2023-07-13",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf127a7acba2d11b91fe0daf",
+      "uri": "spotify:album:4VVYjDuvidxSiGwfcBUykX",
+      "name": "solstice",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273838b1dbe81ee5e1504003ee7",
+      "uri": "spotify:album:5Tfvcp2QbPL3caRaJQXeIE",
+      "name": "drift like a cloud, flow like water",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e3ec85d93d5f5e67e85b82e",
+      "uri": "spotify:album:2rwYFY71kJCVTgtijBqNYi",
+      "name": "earth magic",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390a48891cbf81816bf8e845d",
+      "uri": "spotify:album:1yi18DRDkPcDx2i06Ibspy",
+      "name": "blasta",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3Hrqjumb6WHg2aAUHJHLND",
+          "name": "lsdream"
+        },
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e009cbcb4bd2cb131c1ddff6",
+      "uri": "spotify:album:2GzlT5FtQrnQ9jIyyoI1FI",
+      "name": "awaken",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3tS6ulfeDf1F3hqxFYud5d",
+          "name": "carbin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735855ee9653e821b40e94b375",
+      "uri": "spotify:album:70D3BuO2XK5jT0l4EcqLrK",
+      "name": "overthinker (clozee remix)",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f808bd8f36d1b0bd2888a68",
+      "uri": "spotify:album:0CcN8S1Fal31dqmMmvn11o",
+      "name": "it goes in waves",
+      "album_type": "single",
+      "release_date": "2020-09-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        },
+        {
+          "spotify_id": "4Yn4eqGITgZVZnOuRQNE2I",
+          "name": "align"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273238d6f0a0c591d6b4e04f583",
+      "uri": "spotify:album:1CDqimJtjps1RTtEkMcS2M",
+      "name": "i'm dreaming",
+      "album_type": "single",
+      "release_date": "2020-05-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbc2683fd5b6ba3cf9dcedd7",
+      "uri": "spotify:album:3t5YVwlN9sBZO8U6RNYUmY",
+      "name": "angst",
+      "album_type": "single",
+      "release_date": "2019-11-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a05156c5b3c4552516d3d3e1",
+      "uri": "spotify:album:3o0bgi2tDoAA3SdFbpU5HV",
+      "name": "multiverse",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273099a3504c7466b295b73f8ec",
+      "uri": "spotify:album:72wVYNUfZaatyKdikzH2FJ",
+      "name": "multiverse",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d71b8c9506ab926a28f1b91f",
+      "uri": "spotify:album:4l3r0WylXWiIyWgv1V1Dp1",
+      "name": "let it slide",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3ekno9ZGX4ccxPQbAbMfeR",
+          "name": "blookah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330db9749314bd507469f7c90",
+      "uri": "spotify:album:6j3rMLnvF41ILGzENlQxu1",
+      "name": "notions",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "4Yn4eqGITgZVZnOuRQNE2I",
+          "name": "align"
+        },
+        {
+          "spotify_id": "66VgJGpaRMwrNaS2MPqIDf",
+          "name": "pauline herr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333601016bbe321ce6e2241cd",
+      "uri": "spotify:album:7lOo06oK6Wj32yS8ahRndj",
+      "name": "wonder",
+      "album_type": "single",
+      "release_date": "2019-03-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d88e0f5176846199f448c07b",
+      "uri": "spotify:album:7Gd5YCBDcr15FfQB12wykQ",
+      "name": "spectrum",
+      "album_type": "single",
+      "release_date": "2019-01-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cf4717bfa5fb2ef328513a2",
+      "uri": "spotify:album:5nZMRspBaY9x4Z1qpkQuaJ",
+      "name": "local void",
+      "album_type": "single",
+      "release_date": "2018-10-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375724ce25ffc9a0d2d1964f9",
+      "uri": "spotify:album:1eCYiLDLT6ZLzCeThN90UF",
+      "name": "overthinker",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733526be9fd9535f1378c87ab9",
+      "uri": "spotify:album:0FBYhMGbzg2sEE0IS1qsMm",
+      "name": "visionaries (remix)",
+      "album_type": "single",
+      "release_date": "2018-04-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        },
+        {
+          "spotify_id": "3hX5pgfpwHXYy4zeuJUWIS",
+          "name": "yitaku"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2196c4819f5403f057c41a8",
+      "uri": "spotify:album:4e6OlMRzRaqnksPJNW6r9a",
+      "name": "visionaries (feat. novet)",
+      "album_type": "single",
+      "release_date": "2017-11-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273160dfb34b0d4489bc46b0583",
+      "uri": "spotify:album:40JeHlcS8UQUtvg8FIm7WA",
+      "name": "letting you go (feat. lameduza)",
+      "album_type": "single",
+      "release_date": "2017-03-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375098220aa52c373c09a7022",
+      "uri": "spotify:album:6UOUjDNlIpLQn8Z943oxsr",
+      "name": "your love (inzo remix)",
+      "album_type": "single",
+      "release_date": "2016-12-28",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4kH7elNAw84YopH8959qQW",
+          "name": "antics"
+        },
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd52dd85e19842db69b1e761",
+      "uri": "spotify:album:0LN0yPKVjSstbXqXLjBpcH",
+      "name": "young heart",
+      "album_type": "single",
+      "release_date": "2016-10-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff12d51bb0f04a185a02f33d",
+      "uri": "spotify:album:1QTWo9tvNT6yaXBsgs20Xv",
+      "name": "brocaine camaro",
+      "album_type": "single",
+      "release_date": "2016-03-04",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18Eu7uJEMPWwwt1QUdCglQ",
+          "name": "inzo"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:15.000Z"
+}

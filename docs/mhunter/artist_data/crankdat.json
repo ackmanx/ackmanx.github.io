@@ -1,0 +1,1294 @@
+{
+  "name": "crankdat",
+  "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+  "uri": "spotify:artist:5lCekoJW9jNq01B1wiqdAb",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb61da128d993e8ad92cf31e50",
+  "genres": [
+    "dubstep",
+    "riddim",
+    "edm",
+    "deathstep",
+    "bass house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2516b1beb645a512bef8727",
+      "uri": "spotify:album:3hxSPaPvkCnM6qgm9ld1HR",
+      "name": "fux with us (feat. tiacorine)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735100176138ac10e0bb2ad353",
+      "uri": "spotify:album:1tm5R0eFNxS6SjyJ5yg4fo",
+      "name": "a little bit",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6TQj5BFPooTa08A7pk8AQ1",
+          "name": "kaskade"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d41f016e16ab80d5acd37ac",
+      "uri": "spotify:album:5ftcfTOC3YH5HPIbkfQngX",
+      "name": "bass cannon (flux's version - crankdat remix)",
+      "album_type": "single",
+      "release_date": "2026-06-18",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbe2c312691709b652e3da84",
+      "uri": "spotify:album:1mWH95UcqhIYJHQmk8hydv",
+      "name": "eyes cut deeper (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "6zBax4hSAI1BJYgwF61EP5",
+          "name": "inéz"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b016c01b405da89a03cfa4a8",
+      "uri": "spotify:album:0cPBiyrMXCOssOWkiETUuw",
+      "name": "movement (wooli & kompany remix)",
+      "album_type": "single",
+      "release_date": "2026-03-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340bf091b3d91a9b1a920a452",
+      "uri": "spotify:album:0uwj7PaqVqPoY66QCo0i9n",
+      "name": "movement",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d049726d732a1edde3fa7eda",
+      "uri": "spotify:album:2hZMNkORYtip8Avb4wtqeZ",
+      "name": "candy shop remix (feat. olivia)",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "5YBSzuCs7WaFKNr7Bky0Uf",
+          "name": "olivia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c86b566c87e038b1b42f4c3",
+      "uri": "spotify:album:78bvzzE2E47QhUUoYhmJ4g",
+      "name": "type sh*t",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "24zj84GShUIcBQYq6VpOYW",
+          "name": "duke deuce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e1c520b7590500a9db1f3d5",
+      "uri": "spotify:album:3JYuC5TTDbobgRCKo38xW9",
+      "name": "whiplash",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "5JQzXeT8vXc1N4Y6tGenCb",
+          "name": "sofi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356ba06a6e43af5de199fd777",
+      "uri": "spotify:album:5wiAY7ul5fy4xdzfKq9BV6",
+      "name": "open the pit",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "5gCRApTajqwbnHHPbr2Fpi",
+          "name": "juicy j"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d44f15d65962a01332ab44bc",
+      "uri": "spotify:album:2DpZjtwH8GG964mwPfVHQ7",
+      "name": "big bang (with crankdat)",
+      "album_type": "single",
+      "release_date": "2024-04-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "540vIaP2JwjQb9dm3aArA4",
+          "name": "dj snake"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383a55ee75544f2bf08b15359",
+      "uri": "spotify:album:5xwE3z16qRX8l6ZoqVzpG7",
+      "name": "stfu",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353a7279f68521c013154d493",
+      "uri": "spotify:album:6V7CNeWqNS46lpur8SRXjJ",
+      "name": "hollow (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        },
+        {
+          "spotify_id": "2fNr4ldujwq97v1jWeqs8K",
+          "name": "kai wachi"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a58a9ddb4d0fbcb1cf078cf",
+      "uri": "spotify:album:0LNjCowJXfTpBCyNyG65vR",
+      "name": "heat",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "75vCyksqhYjtt5VIpc8g7u",
+          "name": "dj diesel"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "67RWyN1fDOu7WuSTIi5hE7",
+          "name": "shaquille o'neal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732767e83cf8c282fe2c5fa4d2",
+      "uri": "spotify:album:63G2PgaJYMpzrsvQ9G3Uek",
+      "name": "slaughter house",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fa732834455949fa5913e57",
+      "uri": "spotify:album:0d2xyxHilLmIIqfugVYOVI",
+      "name": "move back",
+      "album_type": "single",
+      "release_date": "2023-02-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273260b00f83526e2477dd5eaa3",
+      "uri": "spotify:album:44Drb1IMP5Ah4VXgndZojP",
+      "name": "far away (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4l1q0z9xeJcJw73Gxc6gCB",
+          "name": "mark tuan"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bd5dbd65814ba28586d66a8",
+      "uri": "spotify:album:0gUYlQaHWvJrmX6zEHLrQB",
+      "name": "underneath my skin (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306c271c88702cd569b0e5496",
+      "uri": "spotify:album:4lN9hIcBH3lBzlpWyim3Ud",
+      "name": "ground shake",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "7kIxfmjYGQui2LCqXGLfWA",
+          "name": "bandlez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cf108f07e759c4089c85ed5",
+      "uri": "spotify:album:6no9wONT4kamphMKX8DyG0",
+      "name": "power stone",
+      "album_type": "single",
+      "release_date": "2022-07-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f440e8722a6cb25600ed60d0",
+      "uri": "spotify:album:4g7lD5NvinPkSPj5PElwdp",
+      "name": "ding dong",
+      "album_type": "single",
+      "release_date": "2022-06-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273332098756d4916414aa36dc9",
+      "uri": "spotify:album:66yLWmGMXTGAxfgTGcSlbU",
+      "name": "up in flames",
+      "album_type": "single",
+      "release_date": "2022-06-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "04vdWVjgi45nrMAxeCEVQe",
+          "name": "bear grillz"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3ppkM4QtM781APpaX7H9t7",
+          "name": "dia frampton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359d759753ba7f87812a471b9",
+      "uri": "spotify:album:1uUNHuaGa0t9vPX0i8ezXE",
+      "name": "own the night",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Zxy5LwBatI5kw4uponwHQ",
+          "name": "riot ten"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737527e45b91219943a0045afd",
+      "uri": "spotify:album:5GgW3MzW8nORjXTIKpktUX",
+      "name": "revolution (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0NV5eY4Jzg4ldg2ikGnV4n",
+          "name": "virus syndicate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae6ce643988b70649caaadb6",
+      "uri": "spotify:album:5JZXWPiy5bwrkJng3gYJcr",
+      "name": "mechanized mayhem vol. 2",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d539f226b48de2e70047cd08",
+      "uri": "spotify:album:4FZKO3bJaNKtIeSkl6OMPa",
+      "name": "ground pound",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "697Lw6sG4wn7W0Ospz4lPe",
+          "name": "chrmndrs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933a9c400fcaaf12e48a0f81",
+      "uri": "spotify:album:4wx2Az0dfbr23XFjOXQgsg",
+      "name": "lasers",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3nqbWR5FC0RSkS9kK1aalW",
+          "name": "ruvlo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a240b524adda23e237c28449",
+      "uri": "spotify:album:5n2nZmodcQOB5czGFMjTHj",
+      "name": "weight of the world",
+      "album_type": "single",
+      "release_date": "2021-11-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e76ce4ab957ab6afbabde67",
+      "uri": "spotify:album:4FaxYOyIEqNrVIZD0WXmNO",
+      "name": "the same (feat. neverwaves)",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "2js39lyEUjoD0x3VxshU5o",
+          "name": "neverwaves"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735297f51d9dbd900081824186",
+      "uri": "spotify:album:7Iajzkp7lJzM4MFulo4Kl5",
+      "name": "passive aggressive (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "30yEQfDswzg1Kj8i8Kgnfk",
+          "name": "munchking"
+        },
+        {
+          "spotify_id": "6uVoZd8hRKUBQTZhLcAPk7",
+          "name": "cc is dreaming"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f2653a9fdf4b79242f40839",
+      "uri": "spotify:album:7ot6OZ365b8YgvRQPyiHWV",
+      "name": "sad robot ep",
+      "album_type": "single",
+      "release_date": "2021-08-05",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7f0acf9e7c2861332eb00eb",
+      "uri": "spotify:album:5wURsb3f8KcLz93oFGWHyX",
+      "name": "the feeling",
+      "album_type": "single",
+      "release_date": "2021-06-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "5o2KBzYUFierWmBhSemAhq",
+          "name": "ace aura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a28c6226d2d50c77dc9d750d",
+      "uri": "spotify:album:44xSYPvPXTzkT7kOdwDqYR",
+      "name": "better without you",
+      "album_type": "single",
+      "release_date": "2021-05-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3dd695297d338e6e33e74c7",
+      "uri": "spotify:album:3BZ20UgFGyOcgkSAgHloFj",
+      "name": "underground shit",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3BsJD0TUVtn1sv29duwMrw",
+          "name": "nvadrz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bfc943f82359302fee36e35",
+      "uri": "spotify:album:2NbCUIgrKwybG32ZSYj5TC",
+      "name": "dark room",
+      "album_type": "single",
+      "release_date": "2020-10-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730daf572c8d1ac8e253220fb4",
+      "uri": "spotify:album:3elr0UDyrQYpTr1lNsHIXT",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2020-08-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f211a44236705140fec5c2e6",
+      "uri": "spotify:album:2YDCoVok1DoPuachy7sUIt",
+      "name": "badfuture",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f243531d2adc6bfa38389be",
+      "uri": "spotify:album:2vCoCHZ9pJJCx0unGHtVUl",
+      "name": "poppin",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1yehZuwMGnPvn2l5i52ruf",
+          "name": "void(0)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737551355a9174839b253bec71",
+      "uri": "spotify:album:75uk7QVGuor1bcZVd4ZQNX",
+      "name": "the fire",
+      "album_type": "single",
+      "release_date": "2020-04-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "72iCiKwu6nu6Qq9emIwzYv",
+          "name": "kayzo"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343f22199ba8d68aa63e05fe7",
+      "uri": "spotify:album:30bSGf7tIftYWKNsujA6f5",
+      "name": "mechanized mayhem ep",
+      "album_type": "single",
+      "release_date": "2020-03-11",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273754c4f7b3c75446a5c378ea8",
+      "uri": "spotify:album:2AMprxvEKfL1MX46QFgHR7",
+      "name": "redo",
+      "album_type": "single",
+      "release_date": "2020-02-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8751835db83483a91ce8aa6",
+      "uri": "spotify:album:5Uh9C74VxPJL3DJEQJxfc9",
+      "name": "who i am",
+      "album_type": "single",
+      "release_date": "2020-01-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7e5069f4a7c4cb32e880fca",
+      "uri": "spotify:album:1mzTeOtP8lMe25Kvw0tEtD",
+      "name": "falling",
+      "album_type": "single",
+      "release_date": "2019-11-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305351c669e368a9ab4f97d9a",
+      "uri": "spotify:album:5GwJmkpeLtSMcPKloRF7Xs",
+      "name": "fearworld ep",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8befda6a42ec3fb36b9706e",
+      "uri": "spotify:album:0HjclmJ4fNr7vvSmTnKnWR",
+      "name": "next life (feat. krewella) [byor remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0Upxnyh9nIUNSOmNE8WF4R",
+          "name": "byor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5ca4e57e0bda592fb2a74ed",
+      "uri": "spotify:album:231jkCKysiZ4rRVHdaq1Vc",
+      "name": "next life (feat. krewella) [mom n dad remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1pIDhGVK4FmhaEZc3anyHC",
+          "name": "mom n dad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737223bf8b3b13c79d095f8bcf",
+      "uri": "spotify:album:4Xz2LRFui8S6BFJRvYV4Nw",
+      "name": "next life (feat. krewella) [yehme2 remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3kvnhwUU4VSXQqr2r9j6OO",
+          "name": "yehme2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732605b7e97c5e1c33040c3f9f",
+      "uri": "spotify:album:0jnjc9nNgqAEG61BiFadiC",
+      "name": "redlight (crankdat remix)",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "a$ap ferg"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b68e7689f61006a060b6f255",
+      "uri": "spotify:album:34lIhKJAiKnbj3lCBxaNBX",
+      "name": "gearworld vol. 1",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee2f952ca98fe37d3395f9f7",
+      "uri": "spotify:album:1qY8L7CXdYKIRlMbomzR5k",
+      "name": "next life",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e5bf26f8e96427fdf79ad7c",
+      "uri": "spotify:album:4ZXe3uc20ffZQERPcifUO7",
+      "name": "do you mind (feat. shybeast)",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3J2VNcCwzeJXNFu40evXPE",
+          "name": "shybeast"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273246decd6071b32ec2c8b411e",
+      "uri": "spotify:album:1bSwdlONmyDZpiNJ7RUU0Y",
+      "name": "monster (feat. hyro the hero)",
+      "album_type": "single",
+      "release_date": "2019-03-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "54okLCsuAzwltG8zHECNpm",
+          "name": "hyro the hero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358a6191e03ee07820f61accf",
+      "uri": "spotify:album:5erezGA10zQk1sd7PIMuLX",
+      "name": "welcome to the jungle",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "sara skinner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d42d7f951489919e83cffba",
+      "uri": "spotify:album:6e7Ijid1ldudLNGWlMVLni",
+      "name": "say it (dytone remix)",
+      "album_type": "single",
+      "release_date": "2018-10-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "sara skinner"
+        },
+        {
+          "spotify_id": "0YDGLtaVDf3vy2dJZWJg1k",
+          "name": "dytone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b725b69e52c331f36fa27f8c",
+      "uri": "spotify:album:2AwBq94beluoQOYzHvIeMb",
+      "name": "wobble",
+      "album_type": "single",
+      "release_date": "2018-09-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0XW7mqhbaQnRtHmwfAVg64",
+          "name": "tisoki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731252f246522f354e229b8cef",
+      "uri": "spotify:album:6LebF31h6hxienjBsnFEMf",
+      "name": "kneel before me",
+      "album_type": "single",
+      "release_date": "2018-08-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a430bdd15a84a3c1307b42c",
+      "uri": "spotify:album:0gzSK5587PF2MaXHBoGq97",
+      "name": "say it",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "sara skinner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0bc8a191ca288d4c219b43e",
+      "uri": "spotify:album:4c7jV0L57BCGlfoTZXcEoD",
+      "name": "lemme see u",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Sa4c9qKaI7ILJs8D6gUCh",
+          "name": "ghastly"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb89e6acf0e0c9b795489856",
+      "uri": "spotify:album:1P1pju4oW5U85K1rS9S0jo",
+      "name": "reasons to run (remixes)",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f477dc1f1a3d4fee76b8ed17",
+      "uri": "spotify:album:6ZP82ldQ6LrfAkJDKBsV1y",
+      "name": "need somebody",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273babff6e2dce742ba6a9ffed2",
+      "uri": "spotify:album:2VgoC3OfIktWoplePa3gio",
+      "name": "reasons to run",
+      "album_type": "single",
+      "release_date": "2018-01-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327c9608e09e2463c7ed1bcf9",
+      "uri": "spotify:album:4Ryq9T095AyQ0sh3fBkpj6",
+      "name": "dollars (shaun frank remix)",
+      "album_type": "single",
+      "release_date": "2017-12-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a01929b4a2aff1c77309836",
+      "uri": "spotify:album:0XH1lSVIvCnPocIL0OXL4t",
+      "name": "dollars (feat. bryce vine)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a34f297167ea76475484c258",
+      "uri": "spotify:album:5A2oEAL0lEdckfViHAvq8w",
+      "name": "dollars (crankdat x ray volpe x gammer remix)",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385a788c1f04b81bd59bb8689",
+      "uri": "spotify:album:3Qd7iw02aVayd1QW6hD5Gp",
+      "name": "dollars",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2899ab64f5c8fc7a24222a1",
+      "uri": "spotify:album:1oZT4zowbpZJKr6ROfvve8",
+      "name": "i hold still (feat. slushii)",
+      "album_type": "single",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c634a01297a8395eb1c3ef1a",
+      "uri": "spotify:album:5Nzx49TpLb75ZrUUs8Mjp4",
+      "name": "i hold still",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338cf6bb85584d9744a983006",
+      "uri": "spotify:album:209bTYi9RIkUQwbjg0T3wq",
+      "name": "stoopid rich: the remixes",
+      "album_type": "single",
+      "release_date": "2016-05-27",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1W5GDN3fdEbY5AORDcJhmK",
+          "name": "havok roth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a7813599402258159d0f1ff",
+      "uri": "spotify:album:6OXW1wtBv3hOxSqCb6dsky",
+      "name": "stoopid rich",
+      "album_type": "single",
+      "release_date": "2016-04-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1W5GDN3fdEbY5AORDcJhmK",
+          "name": "havok roth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddd36de8bcafa5e8d09cb8d0",
+      "uri": "spotify:album:1743D6sk7B9gbmVrK32CHt",
+      "name": "game over",
+      "album_type": "single",
+      "release_date": "2016-01-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27fy6rHPC58Eo2VUu0iJSG",
+          "name": "lookas"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:15.000Z"
+}

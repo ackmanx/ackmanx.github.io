@@ -1,0 +1,512 @@
+{
+  "name": "arston",
+  "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+  "uri": "spotify:artist:2bEpVkue70dmlcE7obIGW2",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf92c544de23b6ea5ab061bf4",
+  "genres": [
+    "progressive house",
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e15130d0444e69ab212a9afc",
+      "uri": "spotify:album:2Ygijl2lPuzktYa3QqlGYS",
+      "name": "red dragon",
+      "album_type": "single",
+      "release_date": "2021-01-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737299492feb5f91d5c913e276",
+      "uri": "spotify:album:1lVaZaUlCQsRRCxN0IFebd",
+      "name": "when we were young",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "3YOce6LITiugptFrUp3TN7",
+          "name": "soul parker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273182f44d22353fa8d37c692a8",
+      "uri": "spotify:album:6GSJp02lBcO1DBS4z7bW92",
+      "name": "new fate",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "1xNeaOaf8khvhnxCU4TWcJ",
+          "name": "lux"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee23610e32216e3c69b0d919",
+      "uri": "spotify:album:0tChtV7v967xUXjgQIFh6p",
+      "name": "in my arms",
+      "album_type": "single",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4zNhfG6i4QlfUuzt1hBGu2",
+          "name": "alexander popov"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5870e3d110a11cf973751ad",
+      "uri": "spotify:album:1H7Exznsjw9JINAxH4BGLs",
+      "name": "messed up",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322468ec2101dac4017ed748c",
+      "uri": "spotify:album:47gnq16RGneG8fXlnaXW9E",
+      "name": "never let you go",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7e09a21bd6d4edb3c27cee6",
+      "uri": "spotify:album:0SM8KGws3q9vNE790wPq6m",
+      "name": "fools",
+      "album_type": "single",
+      "release_date": "2017-04-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a38cac7190c9e128b09fac5",
+      "uri": "spotify:album:6SEw5kEMA8B2yDVuDT1nMi",
+      "name": "godfather",
+      "album_type": "single",
+      "release_date": "2017-03-27",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0f7d7b59a69fd39adb080f1",
+      "uri": "spotify:album:2TPzBmLcuwPyEhjxP1GFco",
+      "name": "redline",
+      "album_type": "single",
+      "release_date": "2017-02-10",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273067244b7e889ed9fbc8ced1e",
+      "uri": "spotify:album:2GOZ1PconQTzSPgfFoEP7Y",
+      "name": "rage",
+      "album_type": "single",
+      "release_date": "2017-01-20",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396847d6d87de03f309d33960",
+      "uri": "spotify:album:3oB33LVft2XqgMtRcaZZsy",
+      "name": "beautiful asian",
+      "album_type": "single",
+      "release_date": "2016-12-05",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a187176a909d882660c23b6",
+      "uri": "spotify:album:45HbllKYlnIUy8utOLcSrN",
+      "name": "fury",
+      "album_type": "single",
+      "release_date": "2016-09-12",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273950c1cb113cac7fb0ce14ac8",
+      "uri": "spotify:album:6wk7Wbpku9vnbpJkBt3k8P",
+      "name": "on and on",
+      "album_type": "single",
+      "release_date": "2016-05-30",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8f7dab00a7de8d18e7431c3",
+      "uri": "spotify:album:5qeAAs21EO6RxA5vqgmgOD",
+      "name": "enforcer",
+      "album_type": "single",
+      "release_date": "2016-04-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342401fcf58376eebf463a881",
+      "uri": "spotify:album:7lfD5FCzs3TwepcdhvFSs2",
+      "name": "takeover",
+      "album_type": "single",
+      "release_date": "2016-02-29",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d0a486bb2de72aa1e57691f",
+      "uri": "spotify:album:7fwmkzFGBPitS2jY2ndZ3Y",
+      "name": "at the end of the night (remixes)",
+      "album_type": "single",
+      "release_date": "2016-01-25",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "4n7LqAJhu3k6rrKMu3VfDa",
+          "name": "matvey emerson"
+        },
+        {
+          "spotify_id": "1tCaVerFstPJotxmXX6lFL",
+          "name": "jayceeoh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339ef25f115b344d5c5cc9627",
+      "uri": "spotify:album:4WC4DAFuyuwfSO0hqkJgkB",
+      "name": "at the end of the night",
+      "album_type": "single",
+      "release_date": "2015-12-07",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "06cLuOP0p7VAnBnqil1eWX",
+          "name": "swanky tunes"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ce6a5418aab4525a5a1ae34",
+      "uri": "spotify:album:4tM0Oj2Ye4hDcCbGbVJsX7",
+      "name": "endless (remixes)",
+      "album_type": "single",
+      "release_date": "2015-10-12",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "3hLsFuuBcVto50AoXympLx",
+          "name": "jay colin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c20f6467bf32c4a4588972d6",
+      "uri": "spotify:album:1hcg2LauuRxxR86PD5FTsG",
+      "name": "endless",
+      "album_type": "single",
+      "release_date": "2015-09-25",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "3hLsFuuBcVto50AoXympLx",
+          "name": "jay colin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d0bf5d8288a6b481faefa05",
+      "uri": "spotify:album:5zgtvWhjU5bnnBK1135B9n",
+      "name": "how do i know (arston remix)",
+      "album_type": "single",
+      "release_date": "2015-05-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb45bcc1e5e4e4818318fb21",
+      "uri": "spotify:album:1aAXgUOjhrLC2oJSLVDFXS",
+      "name": "light",
+      "album_type": "single",
+      "release_date": "2015-04-13",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345a4304146e73769b41509d7",
+      "uri": "spotify:album:21QA6ldz1nr7NsMlNmCxfQ",
+      "name": "circle track",
+      "album_type": "single",
+      "release_date": "2014-10-13",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e52ec2d48705a596a6132565",
+      "uri": "spotify:album:5GlhUz8ChNFXEXK5O3swhR",
+      "name": "circle track",
+      "album_type": "single",
+      "release_date": "2014-09-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        },
+        {
+          "spotify_id": "0eBOZ74PcpQb3SisNPgaRQ",
+          "name": "jake reese"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4bfac74338a40f6fc183397",
+      "uri": "spotify:album:22nLxOMxdLhoIniu7yKr39",
+      "name": "star warz (swanky tunes edit)",
+      "album_type": "single",
+      "release_date": "2014-08-25",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0a6b9662ddc13cb14970f25",
+      "uri": "spotify:album:1yhP1u6PMW9VtC8KzEd9RF",
+      "name": "symphony",
+      "album_type": "single",
+      "release_date": "2014-08-04",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efbe5eae512e9c6ba62bb237",
+      "uri": "spotify:album:0Wx738QfCrgXapTm2AENuT",
+      "name": "the universe",
+      "album_type": "single",
+      "release_date": "2014-06-02",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DPTAvEy0t5DyYBEtba0QW",
+          "name": "marcus schössow"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd989d357cb224af1b3c2fb2",
+      "uri": "spotify:album:2kCCaPQ7KXe9slotYMgKDl",
+      "name": "take me away (grand finale)",
+      "album_type": "single",
+      "release_date": "2013-07-19",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        },
+        {
+          "spotify_id": "2r7POU2f5jV6x3k4vsNwrM",
+          "name": "fiora"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f84314387e11da206ed6cac9",
+      "uri": "spotify:album:3SmwIkOBHzqE7aNkvGPIRV",
+      "name": "zodiac",
+      "album_type": "single",
+      "release_date": "2013-06-07",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331c2550d0dfbd885a9405a3a",
+      "uri": "spotify:album:1Fme2261VSOwhYauir4t4r",
+      "name": "empire / flashmob",
+      "album_type": "single",
+      "release_date": "2012-11-09",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:10.000Z"
+}

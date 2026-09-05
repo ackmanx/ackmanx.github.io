@@ -1,0 +1,1151 @@
+{
+  "name": "满舒克",
+  "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+  "uri": "spotify:artist:1gMDCRotRvYg6WUxhWJmid",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2734e925798d6bd5226d70818ab",
+  "genres": [
+    "chinese hip hop",
+    "chinese r&b",
+    "c-pop",
+    "mandopop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a89ee9213afbf917683a7c6c",
+      "uri": "spotify:album:6iRZXSg78fVWl6YslL6sP6",
+      "name": "摆布",
+      "album_type": "single",
+      "release_date": "2026-02-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "5jAxKxPrvHDhWSawtl0GxX",
+          "name": "舒灏"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af0e6f6c936f11af19a0dcc9",
+      "uri": "spotify:album:27L1XTP8QQshQ8NCVebyrh",
+      "name": "烟雾",
+      "album_type": "single",
+      "release_date": "2026-01-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "7kbaNwqnkznaepGWI4M6Os",
+          "name": "土人儿tre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385dbad495434d0239ec1cbe4",
+      "uri": "spotify:album:6QsHNim8i9bjhgkfByCO5B",
+      "name": "睡到自然醒",
+      "album_type": "single",
+      "release_date": "2025-12-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273145b47b3d02994b0575456e0",
+      "uri": "spotify:album:6ZZeWxHYcvtZIyR7VLW8tM",
+      "name": "coffee bae",
+      "album_type": "single",
+      "release_date": "2025-12-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273240512947f3621c91ac40fbd",
+      "uri": "spotify:album:4ILgrahliX9Y6BZNosUqj7",
+      "name": "alone",
+      "album_type": "single",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0EcRTmSxFB6XrLZPcHSCCu",
+          "name": "何克林"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a9f9ac19e05614de88dc368",
+      "uri": "spotify:album:1SGxYFLcEUCK6FD6tCShs9",
+      "name": "midnight blue",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45sDYsh1i1bXB3IRi04MTz",
+          "name": "barry chen"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342b307df633522c4d821a549",
+      "uri": "spotify:album:0DKZpmDbgXf3xEeAVH1tyo",
+      "name": "一物降一物",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abfaf95caea0013428f926db",
+      "uri": "spotify:album:7FM5Deev21VfKDksyCdhRt",
+      "name": "放不下",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0d213119373479552ae2530",
+      "uri": "spotify:album:1VVKp3Gqk5XJYFXVQmHobb",
+      "name": "南北高架freestyle",
+      "album_type": "single",
+      "release_date": "2025-06-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd289018d46b9c8d48c45fd5",
+      "uri": "spotify:album:6uShmHipOBBnX3GYxvCLkN",
+      "name": "broken blue",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f123f7a38a68750851d4c56",
+      "uri": "spotify:album:6h0K0MEw0zVdeEzqXVP7xq",
+      "name": "云杉坪",
+      "album_type": "single",
+      "release_date": "2025-05-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339f1130d1325a65cd22a5fd5",
+      "uri": "spotify:album:67o6YkmE6gRNy4p0iOgqpf",
+      "name": "风花雪月",
+      "album_type": "single",
+      "release_date": "2025-04-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "2SPYyEoMG6WLq9cUencLhh",
+          "name": "cashtrippy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbce5951b47c9096cbaee54e",
+      "uri": "spotify:album:1eskjVlLPdOIW9EVHR9eXj",
+      "name": "三跺脚",
+      "album_type": "single",
+      "release_date": "2025-04-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373c5f44eaa5987b8e598e766",
+      "uri": "spotify:album:5W24CR6rwRuqqqnYt5vmss",
+      "name": "习惯",
+      "album_type": "single",
+      "release_date": "2025-02-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7911e91ed67c8cae79ab666",
+      "uri": "spotify:album:6X44mIXtADmEY3MyhxyV7V",
+      "name": "冰",
+      "album_type": "single",
+      "release_date": "2025-02-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f14ea2d968cd5749a50754bd",
+      "uri": "spotify:album:5bjJlSCJrhxsvRvximjt8M",
+      "name": "因为你是你",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d1981b53edf5cc05cfd2334",
+      "uri": "spotify:album:3pvkk0IQvL4VV8008dyNjF",
+      "name": "如果再见面",
+      "album_type": "single",
+      "release_date": "2024-12-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f47e587282cf6d88000b792",
+      "uri": "spotify:album:74sC1hIeVEhHmpsJEwwEl9",
+      "name": "陪你过冬天",
+      "album_type": "single",
+      "release_date": "2023-12-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5RtnVWT1qYQHMxM3IVkqnu",
+          "name": "gali"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a665c6ed561518de3453ee3a",
+      "uri": "spotify:album:3m55ekdeT9mEaZEJ5SQFnh",
+      "name": "后⽬的地",
+      "album_type": "album",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3422a94bde175ee125c7ed7",
+      "uri": "spotify:album:0Xq02A60EBqxEnKqqQApnl",
+      "name": "曙光",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273015506852fe6cd1c1cdb287c",
+      "uri": "spotify:album:2kciGXe5cmMz6mGn3MmOjs",
+      "name": "training",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392164afb64018656bf5c8a9a",
+      "uri": "spotify:album:2keAXTW5ist8fCgTB5byXV",
+      "name": "夜来香",
+      "album_type": "single",
+      "release_date": "2022-07-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d633e396023d007709c7652",
+      "uri": "spotify:album:35ZUSVjhS6Ulj2XsnuFXPj",
+      "name": "答案",
+      "album_type": "single",
+      "release_date": "2022-06-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "6uznhEdfpGu4ZjuKB1p9RV",
+          "name": "梁铭琛"
+        },
+        {
+          "spotify_id": "4dabyb8pEr2TtOsvmMwqVX",
+          "name": "说唱者联盟"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b422044bd0d3b9da68274b5",
+      "uri": "spotify:album:4lhkA6UAJBH5UcT4ETebOK",
+      "name": "等无此人",
+      "album_type": "single",
+      "release_date": "2022-06-07",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737027b03f6e10e1521f1e2c89",
+      "uri": "spotify:album:48OJNlOcF8mXwL8dR8lVRq",
+      "name": "赴renew",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273322692987581f952ee0b1a0a",
+      "uri": "spotify:album:37dyy162jsC7T8Ni3abBRH",
+      "name": "one and only",
+      "album_type": "single",
+      "release_date": "2022-02-13",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735de9c5cc526970f89f76f0c4",
+      "uri": "spotify:album:5kgvnHKb5TMN0F5NulQyip",
+      "name": "旋律笔记",
+      "album_type": "album",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381fb09ac5665f0a3bea6391e",
+      "uri": "spotify:album:1rF47TXxrAgKCdTFcXfYJR",
+      "name": "hook me up remix",
+      "album_type": "single",
+      "release_date": "2021-12-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7yPT4MMw8Z4D07qaLlgSe8",
+          "name": "黄旭"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a4c2c5f90f268766eec67ea",
+      "uri": "spotify:album:3IMZyNb6TPpfEC6kVuv70B",
+      "name": "以爱为囚",
+      "album_type": "single",
+      "release_date": "2021-09-25",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e23af536368d647dbe575bc5",
+      "uri": "spotify:album:4YYBbgO0MNaeM8eioA9tLV",
+      "name": "星尘",
+      "album_type": "album",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386282721bec27fd4133a6f1d",
+      "uri": "spotify:album:5L6zwcHkVzZSUdEKg7TV4x",
+      "name": "《西游记之再世妖王》电影音乐原声带",
+      "album_type": "album",
+      "release_date": "2021-08-26",
+      "release_year": "2021",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "3swinbFZtzStcMO0WXtWxy",
+          "name": "teengyo"
+        },
+        {
+          "spotify_id": "1q8vxFRXEoA56ChuVa8z5r",
+          "name": "陈挥之"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e925798d6bd5226d70818ab",
+      "uri": "spotify:album:58eVDVQSl4GA8Lmc2B6ebU",
+      "name": "慢热",
+      "album_type": "single",
+      "release_date": "2021-03-06",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1eff20752a1937f86ae854e",
+      "uri": "spotify:album:5pNCZ0W5ePzoba4CEhjlTG",
+      "name": "家乡hometown",
+      "album_type": "single",
+      "release_date": "2021-02-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395db3bf1284ae5a44ae91ce9",
+      "uri": "spotify:album:4yZCFIJM1qyBjxiV4UZa5J",
+      "name": "北京冷",
+      "album_type": "single",
+      "release_date": "2021-01-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5sF2WUeEL2qiV03Vym3727",
+          "name": "李大奔benzo"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7fc8f7b041f82997477df59",
+      "uri": "spotify:album:4j91gZmOR9mCJUAAxBq4sH",
+      "name": "稀有潇洒",
+      "album_type": "single",
+      "release_date": "2020-12-29",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273414d5b7dcbb3d4994eb7a121",
+      "uri": "spotify:album:321DeI8Tz4q0TGQAIWXOv5",
+      "name": "微妙感觉",
+      "album_type": "single",
+      "release_date": "2020-12-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "58ozq53lvWAHwVAbRKaXaK",
+          "name": "黃新淳 (huang xinchun)"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273857c38d261c2ea8aecd0b9aa",
+      "uri": "spotify:album:1Qlsm8QrCUPKA3j42kn54P",
+      "name": "脉搏",
+      "album_type": "single",
+      "release_date": "2020-10-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5sF2WUeEL2qiV03Vym3727",
+          "name": "李大奔benzo"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733be44a4f95a4cc4040082431",
+      "uri": "spotify:album:0RWgkMJqFQRt2EamzVhtqt",
+      "name": "乐活于心",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273544b4185df271224745909de",
+      "uri": "spotify:album:3EKn5TezqKX08d7CUoq3I6",
+      "name": "回到场上",
+      "album_type": "single",
+      "release_date": "2020-06-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae7d14180cb0f00aff33ebff",
+      "uri": "spotify:album:28wK2pBVx3unjnSumjsbFO",
+      "name": "new day",
+      "album_type": "single",
+      "release_date": "2020-06-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4nVh7xE3JhW3tjdAnwxttP",
+          "name": "马赛克乐队"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feac5db03be6b8da96eae99f",
+      "uri": "spotify:album:7tSZU3ev5w2xyn4yRAroF6",
+      "name": "a司匹林的remix集",
+      "album_type": "single",
+      "release_date": "2020-03-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4TxhDF06mompUkwOsAQJSF",
+          "name": "a司匹林"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "0bunnJSKEnsnwm10LOGE4r",
+          "name": "wzp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ca28c0c416af1af8b13fa0d",
+      "uri": "spotify:album:6k4Xm86msth2mwraz9lHXB",
+      "name": "眠冬 (instrumental)",
+      "album_type": "single",
+      "release_date": "2020-03-10",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273399940e7ab817622759dc7be",
+      "uri": "spotify:album:21vlumBggRDjh5UMVQtOxB",
+      "name": "眠冬",
+      "album_type": "single",
+      "release_date": "2020-02-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42Gfale9vk2pmOSYthAkca",
+          "name": "黄明昊"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8b0c1e520a0cc740216caac",
+      "uri": "spotify:album:61p64XqABUVQOQmyJpfp9O",
+      "name": "不是你的错",
+      "album_type": "single",
+      "release_date": "2019-12-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "0rHXxnGdTBaVYVit4HfNE9",
+          "name": "董又霖"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e332800218b63e736280e8b7",
+      "uri": "spotify:album:0nvVHLHW2137XLDdKTybAo",
+      "name": "gentle mǎn",
+      "album_type": "album",
+      "release_date": "2019-12-16",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d52009a6e2dde2bfaee79864",
+      "uri": "spotify:album:0s9xyhOkdlpkt6pXPUdlKi",
+      "name": "借我 2020",
+      "album_type": "single",
+      "release_date": "2019-12-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0gYt4XG9A0hyZW7rt745ZY",
+          "name": "謝春花"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273941da33725070ddc8253231e",
+      "uri": "spotify:album:3N2Pyc43uXnvBAeC6jyhSp",
+      "name": "can you",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd43eea2f6054857420df177",
+      "uri": "spotify:album:3eviTeQewxa7lWC50vWsmm",
+      "name": "how special",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730656ded07d5b2aa11afbe63a",
+      "uri": "spotify:album:0aL5cMgdPHGf88yKpdP089",
+      "name": "i like you",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ffc6f3af47fbf6117873eb9",
+      "uri": "spotify:album:3FKP84P8PuXjtKpIk31kig",
+      "name": "logo",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385c72636b76944fb2f488369",
+      "uri": "spotify:album:0HMywTko0xXAVZG3NBlDYu",
+      "name": "relax",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ShC8iSQrfdxlSbtIXfCaa",
+          "name": "tizzy t"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5a6c5fd79ae933d3e57f6dd",
+      "uri": "spotify:album:4h1DB0FpxwNHnq3PRNRf4p",
+      "name": "relax",
+      "album_type": "single",
+      "release_date": "2018-10-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IkEgLaTzU5Roy6zSIiH5H",
+          "name": "m3ssiah"
+        },
+        {
+          "spotify_id": "1ShC8iSQrfdxlSbtIXfCaa",
+          "name": "tizzy t"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b964e7fd4177f21088b38f9a",
+      "uri": "spotify:album:7Julp2OosnaZzMm1oJsJnX",
+      "name": "浪得冒泡",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739172fac58d8139396832db7b",
+      "uri": "spotify:album:2hbv9PYc6xr3AYZfOZOozT",
+      "name": "燃",
+      "album_type": "single",
+      "release_date": "2018-05-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739126c88c2d3a44a54c8c36a3",
+      "uri": "spotify:album:11AT00qE7W5QMaLvpGzQTm",
+      "name": "nice view",
+      "album_type": "single",
+      "release_date": "2017-08-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c68182d010145d096ceaef3",
+      "uri": "spotify:album:6akwAjaeAbcncKbJUnXe2M",
+      "name": "我在人民广场吃炸鸡 (chicken style)",
+      "album_type": "single",
+      "release_date": "2017-08-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4fk82bOKkmTkGvdyDinA3J",
+          "name": "刘力扬"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363b01eddc569c0d16fc0a655",
+      "uri": "spotify:album:0ePeYFpGLhYoyicrSAGTRO",
+      "name": "almost perfect",
+      "album_type": "album",
+      "release_date": "2017-05-15",
+      "release_year": "2017",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a60f69ab15dd3f11a2bfc3e",
+      "uri": "spotify:album:3Nai8G6xksM89Gis7vVcce",
+      "name": "外星人",
+      "album_type": "single",
+      "release_date": "2017-03-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273636988f021577b9eb0210de2",
+      "uri": "spotify:album:2fW1fIhOc9hGhZHj3uNLHo",
+      "name": "cool trip",
+      "album_type": "single",
+      "release_date": "2016-01-07",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738faabbb95f58f8bb04041a44",
+      "uri": "spotify:album:0XcUTHwObwCDr6lXZmzSep",
+      "name": "海风上岸",
+      "album_type": "single",
+      "release_date": "2015-11-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zdqiUzroirSCwpzAzZkHo",
+          "name": "st"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        },
+        {
+          "spotify_id": "7mB3ob7Tx8w7UPykPKbZTP",
+          "name": "八口8uck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357c6a448ba7d831a2bfcf1e3",
+      "uri": "spotify:album:4vQ5SxWSED3ClbiWRvndeC",
+      "name": "怎么还没睡",
+      "album_type": "single",
+      "release_date": "2015-06-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1rChlf6rFbzMcld0que6Eg",
+          "name": "stun陈盛"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4178df68d5b3df04816a4d5",
+      "uri": "spotify:album:093v2H73Ih837FGNYg1gGg",
+      "name": "winter",
+      "album_type": "album",
+      "release_date": "2014-12-29",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273231cd2b6dda378468ee9608b",
+      "uri": "spotify:album:042f61K9MFnKZ26P7Nq2Yg",
+      "name": "fresh air",
+      "album_type": "album",
+      "release_date": "2014-12-03",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9c102fc0ee03e796f9cd8a3",
+      "uri": "spotify:album:6DOnjL3VBomkTWBY7XcpWF",
+      "name": "无标题",
+      "album_type": "single",
+      "release_date": "2013-12-13",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfe249065a946a3d3370c55b",
+      "uri": "spotify:album:2Hrri4Ef4CY86wQWDcwYhu",
+      "name": "youngjackmixtape vol.3",
+      "album_type": "album",
+      "release_date": "2013-06-24",
+      "release_year": "2013",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322b2a6e205c68a513fae26e1",
+      "uri": "spotify:album:3yIpB5Qy11p3ddHjGtHKCp",
+      "name": "youngjackmixtape vol.2",
+      "album_type": "single",
+      "release_date": "2013-06-20",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739123bd9d0f5d48ad3063fb3c",
+      "uri": "spotify:album:647iBCmnfSyAkl1T7LiR2o",
+      "name": "my heart will go on",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1DfXgFqkd0MD0NZfJx2gAI",
+          "name": "musik i"
+        },
+        {
+          "spotify_id": "3Wlx3NbZzVjyMzz3pyNxSB",
+          "name": "廖伟珊"
+        },
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba2be7008668d2af4f61e56c",
+      "uri": "spotify:album:2AAWDELDz4VPYvJa599zI5",
+      "name": "那年我们一起追过的女孩",
+      "album_type": "single",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gMDCRotRvYg6WUxhWJmid",
+          "name": "满舒克"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:37:08.000Z"
+}

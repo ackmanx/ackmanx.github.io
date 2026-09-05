@@ -1,0 +1,807 @@
+{
+  "name": "fever ray",
+  "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+  "uri": "spotify:artist:5hE6NCoobhyEu6TRSbjOJY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb192bd6ab7833349b3b7bf135",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbe7586dd3742e40b6430c67",
+      "uri": "spotify:album:2KFkvlcZpqW6C8FF8yQbbv",
+      "name": "the lake / wrong flower (from \"the bride!\")",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbe78c225f738d690c117256",
+      "uri": "spotify:album:5c1kzlDmvS4uEIK9ksc9pj",
+      "name": "i'm not done (radical edit)",
+      "album_type": "single",
+      "release_date": "2025-12-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfd1702530ece1e4f6847cee",
+      "uri": "spotify:album:6TMscVByln2UdZn5Lbs0Rg",
+      "name": "i'm not done (young marco's therapy flip)",
+      "album_type": "single",
+      "release_date": "2025-08-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "7zpN81tVvPwlHcJSkSCyRa",
+          "name": "young marco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b9515e7293b08af5cb7138b",
+      "uri": "spotify:album:2xtssnWpxj0BsytyyrX2jE",
+      "name": "the year of the radical romantics",
+      "album_type": "album",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a330b0b272a07d537207625",
+      "uri": "spotify:album:1yK2its9Rt3cuQOYUz2v0H",
+      "name": "now's the only time i know (therapy session)",
+      "album_type": "single",
+      "release_date": "2025-07-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735127f51f034023f74e6f76f6",
+      "uri": "spotify:album:31jhW0qqv6FOGMFVGww3PL",
+      "name": "i'm not done (therapy session)",
+      "album_type": "single",
+      "release_date": "2025-06-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331399baaa5e69ffd55e40dcd",
+      "uri": "spotify:album:3w9v7AIScW1t24NtKfVMDq",
+      "name": "what else is there? (dj tennis remix)",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "6vJvFV1A2CpT8s5B1oUN6t",
+          "name": "dj tennis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273736a4c7fe8a5f63d7d7b7840",
+      "uri": "spotify:album:2GWetcF2t03lo8W9B9SMD2",
+      "name": "looking for a ghost (saoirse remix)",
+      "album_type": "single",
+      "release_date": "2025-03-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "7AZxq55YIas0vYM7L82XKX",
+          "name": "saoirse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c52d385871fed7c3b4ee1a03",
+      "uri": "spotify:album:7idK48CvP5p9AwTsDPNZ98",
+      "name": "what else is there? (true electric)",
+      "album_type": "single",
+      "release_date": "2025-01-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0778497d6e9ecc614f94836",
+      "uri": "spotify:album:0kUVzF1Rf0Ew3Wd6fq3E7g",
+      "name": "what they call us (âme remix)",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "5muFO8VqYRCRW13EkvX564",
+          "name": "âme"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739117937686c59a340f5bc97b",
+      "uri": "spotify:album:0Z7pJRaHDe0aRgxPKbTQW8",
+      "name": "kandy (tiga remix)",
+      "album_type": "single",
+      "release_date": "2024-04-10",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "5l9wiTZVfqQTfMDOt0HtwC",
+          "name": "tiga"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354f2050913d238de2d3d26db",
+      "uri": "spotify:album:3IbKVrIrwkeXbc6BPZRI0F",
+      "name": "shiver",
+      "album_type": "single",
+      "release_date": "2024-02-14",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736849a85fcb574be9208ca60f",
+      "uri": "spotify:album:1xphyeSmjAYweaQX28VTif",
+      "name": "shiver (absolute.'s massive organ remix)",
+      "album_type": "single",
+      "release_date": "2024-01-25",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "7LAUsmZK0QfpJAmapct66h",
+          "name": "absolute."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f5619055ab602336422674e",
+      "uri": "spotify:album:2KaExc01x9QkbjJ36eb3YX",
+      "name": "kandy (i. jordan remix)",
+      "album_type": "single",
+      "release_date": "2023-12-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "5RMLpCv3ic2KtGnqJ7eMG4",
+          "name": "i. jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390efbd0fadddcc9caa725b46",
+      "uri": "spotify:album:5f0qXek30K0CXF3SU9iYTz",
+      "name": "kandy (sylvere remixes)",
+      "album_type": "single",
+      "release_date": "2023-11-21",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "6Uaezuj0rByRvQHRujnBcp",
+          "name": "sylvere"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c1e4d39756222394ec556f8",
+      "uri": "spotify:album:5IRbsoPLG2gNt2Wi6FxDcn",
+      "name": "even it out (frost children remix)",
+      "album_type": "single",
+      "release_date": "2023-11-02",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "6R1kfr0GIWnwxY4zW11Vag",
+          "name": "frost children"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b5a6634536e85de9cdb9a74",
+      "uri": "spotify:album:2U1gbN87t9nWpsxFQwDv0A",
+      "name": "carbon dioxide (avalon emerson remix)",
+      "album_type": "single",
+      "release_date": "2023-09-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "4yrO1N273PlTaixa4BNwBz",
+          "name": "avalon emerson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f0e252cea5896de92bdb4fa",
+      "uri": "spotify:album:7to9MCaV0QjYxPeYKQG8GP",
+      "name": "carbon dioxide (lsdxoxo remix)",
+      "album_type": "single",
+      "release_date": "2023-08-29",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "2M2blWl1LBN2UoxlJdaug2",
+          "name": "lsdxoxo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aabaa0040e9140b47491a125",
+      "uri": "spotify:album:7hzkgn6hlrjoL6NssosKdd",
+      "name": "shiver (logic1000 remix)",
+      "album_type": "single",
+      "release_date": "2023-08-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c96c6ba3237c59c116a3c32",
+      "uri": "spotify:album:63Zfkd2GRScH4KpLvYMzCb",
+      "name": "shiver [ivory (it) remix]",
+      "album_type": "single",
+      "release_date": "2023-08-02",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9113bbfe6522f54de5119f9",
+      "uri": "spotify:album:27FaAs6DxnJEuIe9fcvpRV",
+      "name": "carbon dioxide (remixes)",
+      "album_type": "single",
+      "release_date": "2023-07-20",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c589508b6cad30ddbe8a4d4",
+      "uri": "spotify:album:0ZqbATrNV3KNCViurQkLvo",
+      "name": "what they call us (nifra remix)",
+      "album_type": "single",
+      "release_date": "2023-06-21",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab92da8b3a32e01d28ddf2c",
+      "uri": "spotify:album:0GSARUUhweinQufLR663b4",
+      "name": "radical romantics",
+      "album_type": "album",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ffeb934c74bd5278525488e",
+      "uri": "spotify:album:3iCPgpzdYSUQjlJUuNhr8B",
+      "name": "kandy",
+      "album_type": "single",
+      "release_date": "2023-01-25",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273723be7cfdfacd29f4f0f8223",
+      "uri": "spotify:album:6anWFtYOzbbEs8It4Lpi4V",
+      "name": "carbon dioxide",
+      "album_type": "single",
+      "release_date": "2022-11-10",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6ff8ad1d8b84af035243827",
+      "uri": "spotify:album:67rERGR5WbUsR5baHR8wIR",
+      "name": "what they call us",
+      "album_type": "single",
+      "release_date": "2022-10-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb023cb5a2aa08660b25b600",
+      "uri": "spotify:album:5ZP2WCTqdDEagCszrdrcNq",
+      "name": "mama's hand (radio slave remix)",
+      "album_type": "single",
+      "release_date": "2022-09-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "4rzWjR3L3M54c6I25NzdM3",
+          "name": "radio slave"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309f9021fdbaed8900683044a",
+      "uri": "spotify:album:1diC8odLSlxlc1b5vKrfsP",
+      "name": "features creatures",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7w29UYBi0qsHi5RTcv3lmA",
+          "name": "björk"
+        },
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347976f42bf542fc72b21f38f",
+      "uri": "spotify:album:1flrIuMh0G7jqmynVDLgPB",
+      "name": "live at the troxy",
+      "album_type": "album",
+      "release_date": "2019-08-19",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398cf5cc1edbd3462dcb5d633",
+      "uri": "spotify:album:30YQLwF1FRdgYFQm8hWZF4",
+      "name": "this country (paula temple remix)",
+      "album_type": "single",
+      "release_date": "2019-04-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "4iy2RFU8gIpXF5yaK0l8ZT",
+          "name": "paula temple"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e35a4e2b7ae238c6d73bc27",
+      "uri": "spotify:album:4YH9yGPJjrQsvMC0nxreiS",
+      "name": "mustn't hurry (aasthma remix)",
+      "album_type": "single",
+      "release_date": "2018-08-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "0oWDC2Rq9mbNIzMxoRpdoc",
+          "name": "aasthma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731eb71a5e86fee7518c93efcf",
+      "uri": "spotify:album:0AyyKCn0SC05axNm9eiAf1",
+      "name": "to the moon and back (jowaa remix)",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "3aYXo3stU8FMlfWSUBNWHF",
+          "name": "jowaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c5422f76e22a631aab076c5",
+      "uri": "spotify:album:1GPoN8CyjSUkYafrvFxIHh",
+      "name": "wanna sip (olof dreijer remix)",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "1Wxx3yxd6gZsNiAF1OwLk0",
+          "name": "olof dreijer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732381cddebbc81c51eb3c1660",
+      "uri": "spotify:album:4XWUJvSFbvKRtiVIC1A0Lg",
+      "name": "plunge (faka remix)",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "7qnN27UrAjCwesCsBHeadM",
+          "name": "faka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4b73bc8977dc46f46adfb67",
+      "uri": "spotify:album:7dyXu8bHzgXmnYYmxkyBz4",
+      "name": "plunge (dj marfox remix)",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "4XG3TgASrkAnYdp58tWvLb",
+          "name": "dj marfox"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735af32c3e012b6ab79dfddebb",
+      "uri": "spotify:album:3Vz9rEowXVIstquJsdztUV",
+      "name": "idk about you (bunny michael remix)",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "51F2Z311SdRMh7pjyq4PNR",
+          "name": "bunny michael"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301e7af94afdb091c51924047",
+      "uri": "spotify:album:66i22cmBK3epyN5ezxQI4z",
+      "name": "to the moon and back (los xl remix)",
+      "album_type": "single",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "4ogqI8Byz2wWzwOgXpUAty",
+          "name": "los xl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7de286d793ea6cb94e7b84a",
+      "uri": "spotify:album:16x13enp5O0uBTV5KiHylH",
+      "name": "idk about you",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273199c879dc7f20ce663d1b8dd",
+      "uri": "spotify:album:1wrX2hhionxthxu9f5r1np",
+      "name": "to the moon and back",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309e9d65557e99846f911362e",
+      "uri": "spotify:album:1TDbVi49DAQfYl0QEmeKpQ",
+      "name": "plunge",
+      "album_type": "album",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4b8ead778d67c42185f0631",
+      "uri": "spotify:album:5R9H3GYpYV0RQT92qRQjB7",
+      "name": "plunge (remixes)",
+      "album_type": "album",
+      "release_date": "2017",
+      "release_year": "2017",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f146b21336f4513bad17bf3",
+      "uri": "spotify:album:4xl8RIB6a0qEtP84qan0eb",
+      "name": "fever ray (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2009-10-19",
+      "release_year": "2009",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfd884613cb56bb94eb93f61",
+      "uri": "spotify:album:5okj8bM1E296suIgZt2VL2",
+      "name": "seven",
+      "album_type": "single",
+      "release_date": "2009-09-05",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273745a799edd96d787ede0892a",
+      "uri": "spotify:album:72cUOsYdMi21NyVF99HLlg",
+      "name": "triangle walks",
+      "album_type": "single",
+      "release_date": "2009-07-20",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347613ad72a87fbdaa7db30c4",
+      "uri": "spotify:album:1IRY4UY7bYlgHp3BV1FEVO",
+      "name": "when i grow up",
+      "album_type": "album",
+      "release_date": "2009-03-30",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273707831d5303efb3caa6c723e",
+      "uri": "spotify:album:019nA7vSKz0dD5yRKYRpbM",
+      "name": "fever ray",
+      "album_type": "album",
+      "release_date": "2009-01-12",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732babb40b21b238138ccf6412",
+      "uri": "spotify:album:3zJWJwTG0AG7W4NBKdOTWy",
+      "name": "if i had a heart",
+      "album_type": "single",
+      "release_date": "2008-12-15",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:28.000Z"
+}

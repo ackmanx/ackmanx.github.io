@@ -1,0 +1,2200 @@
+{
+  "name": "dash berlin",
+  "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+  "uri": "spotify:artist:1xT5p0VBpnZDrvVSjX9sri",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3afa1b4c5c09d3e6c2229bfd",
+  "genres": [
+    "trance",
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314fc94cd3a90145b8bb981ab",
+      "uri": "spotify:album:5ZIPsLqA3haa1BM5po7s4x",
+      "name": "lonely man (feat. simon ward) [remixes]",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2yi9c8OXkt7PrwbBFOMgjP",
+          "name": "simon ward"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6a6493b95489f82ee90e1c5",
+      "uri": "spotify:album:5kJPSN17AcFqhsw6yGXS5x",
+      "name": "lonely man (feat. simon ward)",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2yi9c8OXkt7PrwbBFOMgjP",
+          "name": "simon ward"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b29f747782b85c93e2090e1",
+      "uri": "spotify:album:7zOs1fjTuOS9FdZwzdm3cT",
+      "name": "cyclus",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "6Dwna61rCYANSisWxJQy7F",
+          "name": "magic sound"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735282b7f0b52574e92129e71c",
+      "uri": "spotify:album:78t370u6b6VOUCMOEQQl8b",
+      "name": "finally home",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4SLZm8YYu6KrPjowQigjCQ",
+          "name": "sir notch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d97d80d523fef3879f78115e",
+      "uri": "spotify:album:35SbpLTusEfzaClWDVNlWM",
+      "name": "all i want (steve brian & rowald steyn remix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4N2lZcytbZifGelhVEpMeK",
+          "name": "bo bruce"
+        },
+        {
+          "spotify_id": "4xSQ9zt3zGyyiCXazv4mhf",
+          "name": "steve brian"
+        },
+        {
+          "spotify_id": "4IPKNc0sHqlSECkJNX7moj",
+          "name": "rowald steyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb1f97f3d5d170cdc982abfc",
+      "uri": "spotify:album:51UBRRdqCDebRQibh4Y9rt",
+      "name": "moonburn",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4loap7SYpi11OpsZKnynZj",
+          "name": "dani sylvia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321ad784a2fdd6f058cf70891",
+      "uri": "spotify:album:7aaYQwMrTyNyrMgqvRpLZY",
+      "name": "trustfall",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1dbzT291PCwwYJK0l3Tr1n",
+          "name": "christina novelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273297e2357b58f438eaa710e96",
+      "uri": "spotify:album:47Dq0RKZvmwoHGYB1NCIkC",
+      "name": "better off (alone, pt. iii) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2023-12-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+          "name": "alan walker"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3wE6Lb4RCyPMoXsnXV0ZPC",
+          "name": "vikkstar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc2c6caa59107f3c187b2957",
+      "uri": "spotify:album:1eQk5l0bTQPg2w8knqu6NS",
+      "name": "better off (alone, pt. iii)",
+      "album_type": "single",
+      "release_date": "2023-09-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+          "name": "alan walker"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3wE6Lb4RCyPMoXsnXV0ZPC",
+          "name": "vikkstar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fc66caf9916ab5fb77af323",
+      "uri": "spotify:album:37YzfskH2UGlfLcDkxhzTH",
+      "name": "better off (alone, pt. iii) (feat. d-block & s-te-fan) [d-block & s-te-fan remix]",
+      "album_type": "single",
+      "release_date": "2023-09-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+          "name": "alan walker"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3wE6Lb4RCyPMoXsnXV0ZPC",
+          "name": "vikkstar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b1277877443380ba215593f",
+      "uri": "spotify:album:13V4pn21llnRvfgiygK8Tg",
+      "name": "time after time (ashley wallbridge remix)",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "4hNpdlfPY7R51u4FEkBxJG",
+          "name": "ashley wallbridge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340f13ba72ef2ed0f915602bc",
+      "uri": "spotify:album:4tc1Yv5IwoRN0GLYCT6Azj",
+      "name": "run",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "343xgiGnBTnEyNmf0N6aeh",
+          "name": "mcn2"
+        },
+        {
+          "spotify_id": "3xwLNvmLpu3mDKzCoht2lp",
+          "name": "treetalk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731016771e34c3ce17d3f845a8",
+      "uri": "spotify:album:635AMftd7i92nnCOIX5Dse",
+      "name": "you broke me first (xijaro & pitch remix)",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "0CcmU1Eun8Nwb3VlOAeJUK",
+          "name": "xijaro & pitch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358c90960ea0905391ddad134",
+      "uri": "spotify:album:7yZAvHTzgMKACZz5aExHul",
+      "name": "miami edits ep",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316d259eca5edaacfa013e9f8",
+      "uri": "spotify:album:6lsJNZZJHkt6aAV4p7wJJv",
+      "name": "time after time (festival mix)",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0d5bd9d078a4c22c4651d2b",
+      "uri": "spotify:album:2WYqV2CYJVaAwV1MeLjhx2",
+      "name": "time after time (acoustic mix)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1596020d4d9ee53a2167403",
+      "uri": "spotify:album:1Wk9LOhvSz6RQ0Cq8pcnyW",
+      "name": "time after time",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae488d91e3cd27656ae662c2",
+      "uri": "spotify:album:6D2PFcFuKxjKocz9GQhBQV",
+      "name": "all i want",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4N2lZcytbZifGelhVEpMeK",
+          "name": "bo bruce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273504f05502f92d4dd66f11550",
+      "uri": "spotify:album:4JjsRCC2TZ1KUbuLEtLaMj",
+      "name": "oceans (alex m.o.r.p.h. remix)",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce49134759d2bab5771e65f9",
+      "uri": "spotify:album:2Xrw9eqiOynHLKiD5Z4Aoe",
+      "name": "never cry again (rowald steyn & gustixa remix)",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4IPKNc0sHqlSECkJNX7moj",
+          "name": "rowald steyn"
+        },
+        {
+          "spotify_id": "5dLfdoRqimRnbTC19bdbRD",
+          "name": "gustixa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273152ecdb3b6c76d7f62041baf",
+      "uri": "spotify:album:4xBW2XjIbpEaFKKe28iQG6",
+      "name": "in the end (photographer remix)",
+      "album_type": "single",
+      "release_date": "2022-08-26",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e1f692c55b82a5d3707b955",
+      "uri": "spotify:album:2lkVHgT5GXGCJZHfvXX6SJ",
+      "name": "oceans (pavel khvaleev remix)",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327152e9cb63ed4a015600fc7",
+      "uri": "spotify:album:0N6qvuO3XYAFukWl96H3g9",
+      "name": "home at last",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4SLZm8YYu6KrPjowQigjCQ",
+          "name": "sir notch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edc8673b6beee32043770eba",
+      "uri": "spotify:album:1EuChrbmDyEOAHmT3roAeT",
+      "name": "you broke me first",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0105aa6b0a1addf779330d8",
+      "uri": "spotify:album:4BVsifVcFzVl5gMtXcgTqU",
+      "name": "oceans",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369107f6c60c00739e5a52079",
+      "uri": "spotify:album:1RdUaVM734sQPe4q8meZi4",
+      "name": "in the end",
+      "album_type": "single",
+      "release_date": "2021-12-31",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733122df9a2de304f26889e028",
+      "uri": "spotify:album:6zCeD6CJYJjnErPnPbxru9",
+      "name": "oceans (robbie seed remix)",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c8852576eda077ba77b190b",
+      "uri": "spotify:album:4YuOE076D5ubnOntjBPLWr",
+      "name": "waiting (miami edit)",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738070eb93a52e0c22881f2840",
+      "uri": "spotify:album:6eVAxNuYqTLqiBTvOBONC2",
+      "name": "the new daylight (remixes, pt. 2)",
+      "album_type": "album",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273095aa6022ace8181c37d5b49",
+      "uri": "spotify:album:05lostOSOgm4r0Es9PMIS0",
+      "name": "no regrets (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adde343538a12e8b66d0ae96",
+      "uri": "spotify:album:1UKUJ8fLO4S8ObbzJoOwmU",
+      "name": "no regrets (myon return to 85 mix)",
+      "album_type": "single",
+      "release_date": "2021-01-01",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        },
+        {
+          "spotify_id": "0nTbVTXLLbBA4xCtn0cFkv",
+          "name": "myon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d3e05f736265c76e8eba548",
+      "uri": "spotify:album:6GibWFyZDrF21JgwwNKKgT",
+      "name": "new dawn / wild at heart (remixes)",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "24xpaWFyBOwoB8lBBolWzv",
+          "name": "marco v"
+        },
+        {
+          "spotify_id": "751qvO4d3fNm3WkLvOS5Wa",
+          "name": "rave republic"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380e2873f46959c4f38e881b5",
+      "uri": "spotify:album:6RXp03zIs7T1wqPKcGRmWP",
+      "name": "souls of the ocean",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273603dfb4082313d6010405844",
+      "uri": "spotify:album:2lU1OJnKGULiDUV79swNCb",
+      "name": "no regrets",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eb4af465d44bc0b506c930e",
+      "uri": "spotify:album:2PeC4EC6pRaztlpDLQN0iU",
+      "name": "see in the dark",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "3Y43xMeiPftAookVOSKu1Y",
+          "name": "gid sedgwick"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f59eb39ad5d542aef4ed76e1",
+      "uri": "spotify:album:2EzmRU8VGPa7IljXxJvBEu",
+      "name": "lighting the bridges",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e886ef32b685276766269126",
+      "uri": "spotify:album:7ePhINYQaVri3Okh6JX9NJ",
+      "name": "chasin' the sun",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "5HjbKQXMhybveoJOsOXS07",
+          "name": "jess ball"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383e55dbc5006cd4e83f122a3",
+      "uri": "spotify:album:4NpYO6WnDmBbWNTrOVmTrt",
+      "name": "new dawn",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735da3f11e928a11edda32e112",
+      "uri": "spotify:album:4u9pT2PKDYjnHMBKetYw4Z",
+      "name": "clothes off (nanana) [dash berlin remix]",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1w67D3PakcxjYGt6xPnnke",
+          "name": "darius & finlay"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f002252c430c2613d1c593",
+      "uri": "spotify:album:01gmYmmiDFaTwgRKtysqvk",
+      "name": "wild at heart",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c2e535cb79522b5ad784747",
+      "uri": "spotify:album:5N6wpUYNcjkdUwaM1Wc46Y",
+      "name": "2 hearts (feat. sigma & gia koka) [dash berlin remix]",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20gsENnposVs2I4rQ5kvrf",
+          "name": "sam feldt"
+        },
+        {
+          "spotify_id": "71WExccCBN2mw0klSzfYzz",
+          "name": "gia koka"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340bc4ca8fc567e4d5479b7ca",
+      "uri": "spotify:album:75HRwk6trQWlPljOP9VaqX",
+      "name": "cold summer (dash berlin remix)",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nTbVTXLLbBA4xCtn0cFkv",
+          "name": "myon"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273755ab0d644469a42a99c32ad",
+      "uri": "spotify:album:1ONZrP3xlFzTR4YM1QsmnD",
+      "name": "man on the run (whiteno1se & system nipel remix)",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736169e812a67b47d378861032",
+      "uri": "spotify:album:6iYtkbHNLjNjRbTHt0A2V0",
+      "name": "locked out of heaven",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273703ee63c7419e0cc67d910f8",
+      "uri": "spotify:album:4dD9r3xGPHbD1ghVPGlHfq",
+      "name": "coming home (standerwick remix)",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4N2lZcytbZifGelhVEpMeK",
+          "name": "bo bruce"
+        },
+        {
+          "spotify_id": "6mLXfZ1OfXde8Iy9BfKoHE",
+          "name": "standerwick"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732555ab7ec37f4be5043b62f5",
+      "uri": "spotify:album:2eoNQsEmB62JHoqMIasknz",
+      "name": "save myself",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1Idp9q1i8l6kfJsTMPOqr7",
+          "name": "dbstf"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dadd3039e272b35cb17957cf",
+      "uri": "spotify:album:78vEPYAyUpydRBIWe2cpOs",
+      "name": "crazy (dash berlin remix)",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "lost frequencies"
+        },
+        {
+          "spotify_id": "0bMKf3lIYR9GaNTdFKkTOr",
+          "name": "zonderling"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f784006ae5de14289112084",
+      "uri": "spotify:album:5rBujH355QjgtYOdyVVJ99",
+      "name": "shelter (remixes, pt. 2)",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be3de6d094819e96541b8fab",
+      "uri": "spotify:album:1NK3LvLlnglbX2kfIATXQU",
+      "name": "love out loud",
+      "album_type": "single",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c093feee9f24af14310a3e0",
+      "uri": "spotify:album:2a5M8BWOyCcccMwXcsOHnG",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1H72fTOUAUl0WQ4kH5DPVW",
+          "name": "savi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c971d911d51be9e79522a776",
+      "uri": "spotify:album:56i7rtBbHyXf2kAvvHRUYW",
+      "name": "we don't belong",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3lwPzq3sT3tucaO1F6sDw7",
+          "name": "haneri"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273919937c543c1c00ff36c1981",
+      "uri": "spotify:album:23yree7nSm1JXCAsJOCUG6",
+      "name": "heaven (remixes)",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "7sQECgfT3RtfL0RZWK63Wg",
+          "name": "do"
+        },
+        {
+          "spotify_id": "2FmgW6Jee0JQKtb6EnBWCq",
+          "name": "dj isaac"
+        },
+        {
+          "spotify_id": "1cQUSNfRVNx5FOuTwTXIZp",
+          "name": "m a e s t r o"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353e792d10320c433262e7ac8",
+      "uri": "spotify:album:0jjuVY8sW25mR7vGv10hh7",
+      "name": "we are (part 2)",
+      "album_type": "album",
+      "release_date": "2017-03-24",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390b5622dc8ad65615556bbf5",
+      "uri": "spotify:album:1F4exH6x6KCe3nbuHMIqbe",
+      "name": "listen to your heart",
+      "album_type": "single",
+      "release_date": "2017-02-27",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1dbzT291PCwwYJK0l3Tr1n",
+          "name": "christina novelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c9c8232e01256184ad28855",
+      "uri": "spotify:album:5ACeZywCBHlZEvLUh5xo17",
+      "name": "heaven",
+      "album_type": "single",
+      "release_date": "2016-11-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d211e59420b60bff0e4568f3",
+      "uri": "spotify:album:0K0UepcIRmkiQlk5H30ogY",
+      "name": "without the sun",
+      "album_type": "single",
+      "release_date": "2016-08-05",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2vf1VrfMjSKCONwZk4Anix",
+          "name": "luca perra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc664b2b711d191460db7baa",
+      "uri": "spotify:album:0y1FY8tdrn6djBGguh67D7",
+      "name": "gold (club mix)",
+      "album_type": "single",
+      "release_date": "2016-07-22",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1Idp9q1i8l6kfJsTMPOqr7",
+          "name": "dbstf"
+        },
+        {
+          "spotify_id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "waka flocka flame"
+        },
+        {
+          "spotify_id": "6L7a6wPGpvLtTwOsMLnF1z",
+          "name": "d-block & s-te-fan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3b2837390cbb27b97fae3c8",
+      "uri": "spotify:album:6dwtspINfP4LwE9BhncFBt",
+      "name": "gold",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1Idp9q1i8l6kfJsTMPOqr7",
+          "name": "dbstf"
+        },
+        {
+          "spotify_id": "6f4XkbvYlXMH0QgVRzW0sM",
+          "name": "waka flocka flame"
+        },
+        {
+          "spotify_id": "6L7a6wPGpvLtTwOsMLnF1z",
+          "name": "d-block & s-te-fan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1941e68eeb1766829fc919d",
+      "uri": "spotify:album:6gYtuTLhJhLPenqFVByPrZ",
+      "name": "underneath the sky",
+      "album_type": "single",
+      "release_date": "2015-12-14",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4SLZm8YYu6KrPjowQigjCQ",
+          "name": "sir notch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273512e896efdfa4178d97df0bc",
+      "uri": "spotify:album:6hpLWzMbpcK2ln9FYwX2MS",
+      "name": "till the sky falls down (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fcd06e978962ca0f3bd12d2",
+      "uri": "spotify:album:5CV8ZGIt0FISqjwA40LEbe",
+      "name": "i take care",
+      "album_type": "single",
+      "release_date": "2015-11-23",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "0g8dyAYXMj72hIsb8ttK32",
+          "name": "bcx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f5089f8c82efabe3ff7bd97",
+      "uri": "spotify:album:3sxrsauzUoN02DlycwAkED",
+      "name": "yesterday is gone",
+      "album_type": "single",
+      "release_date": "2015-10-26",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ff97add67677c6d820f51a7",
+      "uri": "spotify:album:4iKdVNGd3FMYLfjTG4MvV2",
+      "name": "world falls apart (thomas gold remix)",
+      "album_type": "single",
+      "release_date": "2015-08-29",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e59aec73407fd496220451e9",
+      "uri": "spotify:album:4VvGINuRTuzCjqobBe4s14",
+      "name": "man on the run (david gravell 2015 remix)",
+      "album_type": "single",
+      "release_date": "2015-06-21",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3caa07ba4342c9d1b8124f5",
+      "uri": "spotify:album:4y71kXF8agjYSxF5tQrL3d",
+      "name": "this is who we are",
+      "album_type": "single",
+      "release_date": "2015-06-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5qQTwkRWNaZngwkU1CPmYJ",
+          "name": "syzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e70a3d99f3602c16c59afcc4",
+      "uri": "spotify:album:72Fp4afDUlaCdsn7jiilbl",
+      "name": "waiting (miami 2015 4am remix)",
+      "album_type": "single",
+      "release_date": "2015-06-05",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c55deeb69653c4aecf25c10",
+      "uri": "spotify:album:3yuGRKu3B9LLaQssChZVFy",
+      "name": "are you with me (dash berlin remix)",
+      "album_type": "single",
+      "release_date": "2015-05-15",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "lost frequencies"
+        },
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735774e2d45b3455c98fe70098",
+      "uri": "spotify:album:2bjGHytIayZ5Ceno807crO",
+      "name": "never let you go",
+      "album_type": "single",
+      "release_date": "2015-02-23",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "15xvsJMf8phaNa1LYvL9Qv",
+          "name": "john dahlbäck"
+        },
+        {
+          "spotify_id": "5YMqwPmb7ViNXM63g1MUH5",
+          "name": "bullysongs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c497d38f0da6485446db2e2",
+      "uri": "spotify:album:4kAEaeJYbDvn8DWOOeXdcF",
+      "name": "shelter (remixes, pt. 1)",
+      "album_type": "single",
+      "release_date": "2014-12-08",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de638df7edeb5b18c469a2db",
+      "uri": "spotify:album:7mSbANUZjltoGlXQn9W9Zx",
+      "name": "somehow",
+      "album_type": "single",
+      "release_date": "2014-10-27",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        },
+        {
+          "spotify_id": "2AoeqcUs8DySgZRJ9yV4Ou",
+          "name": "bright lights"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323cf32eaab94741e7db38361",
+      "uri": "spotify:album:2fHTjSiQ1CgGVlmEssdCsb",
+      "name": "we are, pt. 1",
+      "album_type": "album",
+      "release_date": "2014-08-29",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec7ad49ac3b408252c37e036",
+      "uri": "spotify:album:1cRI3lDLqiWJEsnBaLC3tQ",
+      "name": "here tonight",
+      "album_type": "single",
+      "release_date": "2014-07-04",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "0p7L2MImTqtWEAlMN9qHYx",
+          "name": "jay cosmic"
+        },
+        {
+          "spotify_id": "6oKeE1UH8FizqNPScqM1NE",
+          "name": "collin mcloughlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc0a4f53f0dfc0362e4adc25",
+      "uri": "spotify:album:4Tr5pOjo5UCcspnrNUwJAq",
+      "name": "here tonight (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-07-04",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "0p7L2MImTqtWEAlMN9qHYx",
+          "name": "jay cosmic"
+        },
+        {
+          "spotify_id": "6oKeE1UH8FizqNPScqM1NE",
+          "name": "collin mcloughlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362434a1f341c681d7b8297ab",
+      "uri": "spotify:album:0IcE1k1PWgnxbEZGIvu8NS",
+      "name": "earth meets water",
+      "album_type": "single",
+      "release_date": "2014-04-21",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5K6oqBPwyLKhMWEe5sa5x0",
+          "name": "rigby"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370ad71acec7dff4599d7354f",
+      "uri": "spotify:album:2agRyP9pw4Zt1iJzbTP7JD",
+      "name": "dragonfly",
+      "album_type": "single",
+      "release_date": "2014-03-17",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "42gSHrd93nqmvtIfCcW8nB",
+          "name": "carita la niña"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c735f0dd19dd64a81d266a6",
+      "uri": "spotify:album:085yhiXj3Pkq7YjxaMxOGW",
+      "name": "jar of hearts",
+      "album_type": "single",
+      "release_date": "2013-09-02",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1dbzT291PCwwYJK0l3Tr1n",
+          "name": "christina novelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f198cc0e04ee4f18cf1f5a1",
+      "uri": "spotify:album:2mcZsV4VETp9rzbs4FZDM6",
+      "name": "#musicislife #deluxe (extended remixes)",
+      "album_type": "album",
+      "release_date": "2013-08-23",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306f688ea2a557c2ed711cb16",
+      "uri": "spotify:album:69ejj8zXLScpmiLkHJTXT8",
+      "name": "#musicislife #deluxe, pt. 1",
+      "album_type": "album",
+      "release_date": "2013-08-23",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739efeefddd09eb697a527ba47",
+      "uri": "spotify:album:04OkwYTVD8UxlrLRJoyBNn",
+      "name": "#musicislife #deluxe, pt. 2",
+      "album_type": "album",
+      "release_date": "2013-08-23",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e6c1b6798267b444797f136",
+      "uri": "spotify:album:25mNPcENjrQvCUn0eNObk3",
+      "name": "steal you away",
+      "album_type": "single",
+      "release_date": "2013-07-29",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cbb683d5620af1b7f609d4d",
+      "uri": "spotify:album:20M6mbqd02nYxKRCl3z8V4",
+      "name": "till the sky falls down (dj isaac remix)",
+      "album_type": "single",
+      "release_date": "2013-03-25",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0ee00f5ad21529fd40aece2",
+      "uri": "spotify:album:75g0GVHVKMlm5JXxvp7XOH",
+      "name": "fool for life",
+      "album_type": "single",
+      "release_date": "2013-02-25",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731137186c871e4b7c0277ed67",
+      "uri": "spotify:album:7f3hIZzu9KkOZzkY0Ob5zE",
+      "name": "when you were around",
+      "album_type": "single",
+      "release_date": "2012-11-12",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4c29494cf9d3f362fd12d6c",
+      "uri": "spotify:album:0VVGqRv66Hz9Tv69dr4OKJ",
+      "name": "waiting (w&w remix)",
+      "album_type": "single",
+      "release_date": "2012-10-22",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390f5383f0ff4f6d4cabd9262",
+      "uri": "spotify:album:3qfh9B28QKX3lNEUSqjJUV",
+      "name": "like spinning plates",
+      "album_type": "single",
+      "release_date": "2012-08-20",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb01cdbebdded4fa88755932",
+      "uri": "spotify:album:2CNj4AmBuNuiog8mwcJunV",
+      "name": "silence in your heart",
+      "album_type": "single",
+      "release_date": "2012-07-16",
+      "release_year": "2012",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273744bcee5dece4b1698fa52a1",
+      "uri": "spotify:album:4sTAwMCoKzD1ltzAYObJzP",
+      "name": "#musicislife",
+      "album_type": "album",
+      "release_date": "2012-04-27",
+      "release_year": "2012",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a5693644aa032af8f222240",
+      "uri": "spotify:album:62kHUKUHNJelcDkCeTLBtk",
+      "name": "#musicislife (extended mix)",
+      "album_type": "album",
+      "release_date": "2012-04-25",
+      "release_year": "2012",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c78c77a2affa932b0a33609",
+      "uri": "spotify:album:6J9JIqX15mfEZc65rBiTnY",
+      "name": "go it alone",
+      "album_type": "single",
+      "release_date": "2012-04-09",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a94d3c4e5e47d07f6aa09cd7",
+      "uri": "spotify:album:0lJTINeBSI7dZghR88bUZa",
+      "name": "world falls apart",
+      "album_type": "single",
+      "release_date": "2012-02-10",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d3f65a666f9434cfdd05b6a",
+      "uri": "spotify:album:79kh6SAXvgQk0GCtpTRSGG",
+      "name": "better half of me",
+      "album_type": "single",
+      "release_date": "2011-07-22",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337d14907e933b59956073ec7",
+      "uri": "spotify:album:2DaP8tSVbrqSjObCdQyX2M",
+      "name": "earth hour",
+      "album_type": "single",
+      "release_date": "2011-06-27",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273497a2017b3c94336ccbb89b7",
+      "uri": "spotify:album:1vTryao5PfpYQMuXiymFD7",
+      "name": "disarm yourself (the remixes)",
+      "album_type": "single",
+      "release_date": "2011-04-11",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273102948ef6f9f7ed85ec68c90",
+      "uri": "spotify:album:7BzjY97EFBRXggoOMTuE0M",
+      "name": "disarm yourself",
+      "album_type": "single",
+      "release_date": "2011-02-07",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273216dd6c2073af13d09c11f2d",
+      "uri": "spotify:album:0isAIbnkVTiI3hB09mCSYc",
+      "name": "the new daylight (4am)",
+      "album_type": "album",
+      "release_date": "2010-12-17",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731be5634ede9578ff22fcb23f",
+      "uri": "spotify:album:2le3u3FyNZF0YZvSnodl3B",
+      "name": "the new daylight (remixes)",
+      "album_type": "album",
+      "release_date": "2010-09-03",
+      "release_year": "2010",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d914cba21d597bd1f165b40e",
+      "uri": "spotify:album:3ROvwuLUY6yIfq4IOsU209",
+      "name": "the new daylight (the remixes)",
+      "album_type": "album",
+      "release_date": "2010-08-27",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733715b1829b3a45bdef0a65d6",
+      "uri": "spotify:album:0gDYpe1zRiYQ780g6Rv6NG",
+      "name": "believe in you",
+      "album_type": "single",
+      "release_date": "2010-07-16",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbb541009d5a9b4f9a194fe0",
+      "uri": "spotify:album:7FYn4AZLSCPbm440eVRLxi",
+      "name": "surround me",
+      "album_type": "single",
+      "release_date": "2010-06-18",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e3548baef76b9352e329999",
+      "uri": "spotify:album:2QXngwBejcVVtet0UMWPjA",
+      "name": "janeiro",
+      "album_type": "single",
+      "release_date": "2010-05-17",
+      "release_year": "2010",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362b514399788447a3e056b4f",
+      "uri": "spotify:album:7hu6wBVtkHJ01KbFPx7dme",
+      "name": "never cry again (remixes)",
+      "album_type": "single",
+      "release_date": "2010-01-25",
+      "release_year": "2010",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc7a0ff2b1912329c88ee690",
+      "uri": "spotify:album:6pEUOwfZrdVUGtxoVaLCaB",
+      "name": "till the sky falls down (rowald steyn's chill mix)",
+      "album_type": "single",
+      "release_date": "2009-12-07",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4IPKNc0sHqlSECkJNX7moj",
+          "name": "rowald steyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb9b2a41cae66b3f185a17c6",
+      "uri": "spotify:album:4ltqGHbuxEFZ4lSbcmH8lZ",
+      "name": "waiting (the remixes)",
+      "album_type": "single",
+      "release_date": "2009-11-09",
+      "release_year": "2009",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc6af3972242d63d3f7d238d",
+      "uri": "spotify:album:76AmfDmFp6G67x16si8mUR",
+      "name": "the new daylight (radio versions)",
+      "album_type": "album",
+      "release_date": "2009-10-12",
+      "release_year": "2009",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d506287cd69e985cd1c8a78",
+      "uri": "spotify:album:7c5y8ub9RmOGC46JfDe8bI",
+      "name": "the new daylight ep",
+      "album_type": "single",
+      "release_date": "2009-10-12",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396d9519f0782bfad419f7def",
+      "uri": "spotify:album:6SMX8kzLG0W6ZLykklobku",
+      "name": "the night time",
+      "album_type": "single",
+      "release_date": "2009-10-12",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf7fc7f651250b8d07b062f4",
+      "uri": "spotify:album:01A29gAa0GK2T8mAFgGrDo",
+      "name": "the new daylight",
+      "album_type": "album",
+      "release_date": "2009-10-05",
+      "release_year": "2009",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348d121185635c811bf9948d6",
+      "uri": "spotify:album:7Hwoj4frlTu5dHTXMwdb0W",
+      "name": "waiting",
+      "album_type": "single",
+      "release_date": "2009-10-05",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf7eecd06161532f666a0e99",
+      "uri": "spotify:album:5YC4RmHUnVcGUCZubaqG3H",
+      "name": "renegade",
+      "album_type": "single",
+      "release_date": "2009-09-21",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311c5f0828b5792d365b62b9e",
+      "uri": "spotify:album:0JLty30AfelIrCtakEDAZU",
+      "name": "end of silence",
+      "album_type": "single",
+      "release_date": "2009-09-18",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "4IPKNc0sHqlSECkJNX7moj",
+          "name": "rowald steyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329ee805913dc0e19959a4b24",
+      "uri": "spotify:album:4CBkGd50i5QFtflw8OhBnM",
+      "name": "to be the one",
+      "album_type": "single",
+      "release_date": "2009-09-14",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a07b5a8d4f70a27358201adb",
+      "uri": "spotify:album:4co0pLqSMA1i9c4nfkZ8Op",
+      "name": "the new daylight (extended mix)",
+      "album_type": "album",
+      "release_date": "2009-09-11",
+      "release_year": "2009",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273309d39f9ec8840b581e7b0ce",
+      "uri": "spotify:album:3H5soTgnMEWv0s8mC85wwV",
+      "name": "feel u here",
+      "album_type": "single",
+      "release_date": "2009-09-07",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6002f1c06a7699bf3632251",
+      "uri": "spotify:album:7jJuybYCZk0m5rjQg5xKRG",
+      "name": "wired (incl. 4am remix)",
+      "album_type": "single",
+      "release_date": "2009-08-28",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9d86a6e1e063c1a253d92c3",
+      "uri": "spotify:album:0BU1P5Rg0fgL37TCu40IfU",
+      "name": "man on the run (nic chagall & andy duguid remixes)",
+      "album_type": "single",
+      "release_date": "2009-06-22",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b16ce5326b21c2dacf7f064b",
+      "uri": "spotify:album:4b9mqQSw4Sk9fR5nT0aLou",
+      "name": "man on the run",
+      "album_type": "single",
+      "release_date": "2009-03-23",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b6d5bf4d784c190aee7a471",
+      "uri": "spotify:album:0rkVHQNP8RubxmPZmSJnor",
+      "name": "till the sky falls down",
+      "album_type": "single",
+      "release_date": "2008-03-10",
+      "release_year": "2008",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:11.000Z"
+}

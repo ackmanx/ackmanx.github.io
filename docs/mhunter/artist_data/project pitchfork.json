@@ -1,0 +1,754 @@
+{
+  "name": "project pitchfork",
+  "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+  "uri": "spotify:artist:0DLfONSFG8AA0cQvh1yCrz",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf7a19a03c4cca3454a214fca",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "industrial metal",
+    "synthpop",
+    "industrial rock",
+    "gothic rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddec7a72f6d6ff7afa703075",
+      "uri": "spotify:album:0w8QUkHPwdNt8nvWkAp6Nw",
+      "name": "the name",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737de7c9059d00807aee1714dd",
+      "uri": "spotify:album:1vJMaZxjX4v2gMJiTwW1y9",
+      "name": "memento mori",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fe6b8fa2f90ef48b6ed8f0c",
+      "uri": "spotify:album:6TnVDf1h86cCPal3inAaeJ",
+      "name": "weight of words (essence-mix by peter spilles)",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6HzXWSJKSGLFsHIzTEJ0PL",
+          "name": "beyond obsession"
+        },
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        },
+        {
+          "spotify_id": "4Nh8grCZGuF0DF8bKjqdPY",
+          "name": "peter spilles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316dbfc7597267207c00ad9cb",
+      "uri": "spotify:album:5wt3aEJQNyMfuLhN0hjABH",
+      "name": "into the dead of night (project pitchfork remix)",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pwn7PQvjqoqyCrEpsa4AK",
+          "name": "kaos karma"
+        },
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737acc7e9683672508efecc6ac",
+      "uri": "spotify:album:0jnOaa5JYPnDzshvmMsS2v",
+      "name": "elysium (deluxe version)",
+      "album_type": "album",
+      "release_date": "2024-03-28",
+      "release_year": "2024",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f781643077404ace8926d5bc",
+      "uri": "spotify:album:2iIytByaBtB9YqzDUumGaA",
+      "name": "unity",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a32e87e84402f53db42e5c1b",
+      "uri": "spotify:album:0BEl6U1N5X2vKhtGLND5MO",
+      "name": "learning to live",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a958e346d015f6414921b7d",
+      "uri": "spotify:album:06ANHGE4VIdCvFxmoIZJhg",
+      "name": "der tanz",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355c5d73949bc8069af5c17f3",
+      "uri": "spotify:album:3dnk1CJ4uz5xaSBvZNL3Le",
+      "name": "fragment (deluxe version)",
+      "album_type": "album",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f23364ac0e791d3aa4314ad1",
+      "uri": "spotify:album:31qspEjBZyRlvD5ttcPNm3",
+      "name": "akkretion",
+      "album_type": "album",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736273437dfb44fdc44a6f89b9",
+      "uri": "spotify:album:4RNj7Y2berL4r16tWTWgUq",
+      "name": "look up, i'm down there",
+      "album_type": "album",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abc9d047c0938c90689080a1",
+      "uri": "spotify:album:2K7H9IGuYmlCZ5NSkmq2wv",
+      "name": "wonderland / one million faces (remastered)",
+      "album_type": "album",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d383f4cc1da73822b9bc2e55",
+      "uri": "spotify:album:5uAlghTYqpxGsVaS7JE1e9",
+      "name": "blood",
+      "album_type": "album",
+      "release_date": "2014-09-19",
+      "release_year": "2014",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a007c5cadd2d76cb8aa8bd9e",
+      "uri": "spotify:album:7pwGzC514Pohr45X9ap1C9",
+      "name": "black",
+      "album_type": "album",
+      "release_date": "2013-01-25",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0fdb7121cf1c3d7b3d31c3a",
+      "uri": "spotify:album:3ec96Iwpgn2apiYRCARRMr",
+      "name": "quantum mechanics",
+      "album_type": "album",
+      "release_date": "2011-08-12",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d29e7a36f58e2015193045e9",
+      "uri": "spotify:album:5N9MiJyjiKPmiJT7si5QCq",
+      "name": "first anthology",
+      "album_type": "album",
+      "release_date": "2011-06-14",
+      "release_year": "2011",
+      "total_tracks": 31,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3fc9c339cacb06dfe8732ed",
+      "uri": "spotify:album:2p5jR4HyA8Sv3ZT2dkj7fa",
+      "name": "dream, tiresias! bonus tracks",
+      "album_type": "single",
+      "release_date": "2010-08-08",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b363b7c93b05d7e4772e086",
+      "uri": "spotify:album:30fN8SP9YKQXKxrP6Fv0dP",
+      "name": "continuum ride",
+      "album_type": "album",
+      "release_date": "2010-07-23",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f06d93bf30711bf4c299c428",
+      "uri": "spotify:album:7f07fKJ8pClUFpUCnkvosx",
+      "name": "remixed",
+      "album_type": "album",
+      "release_date": "2010-03-23",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3a6f415a772a64d176b343c",
+      "uri": "spotify:album:74MdahU0xmcSo7uHAUMt4F",
+      "name": "dream, tiresias!",
+      "album_type": "album",
+      "release_date": "2009-03-27",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e9a781e4d9a1f3d0ada499",
+      "uri": "spotify:album:6Panwa6FneyswqkVJCusNO",
+      "name": "feel!",
+      "album_type": "single",
+      "release_date": "2009-01-23",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        },
+        {
+          "spotify_id": "0iDagYU2nu7gTWMdtCxzxW",
+          "name": "die krupps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a46c9a317413d633a0044dff",
+      "uri": "spotify:album:07DRGZvbwd4x1b78pwBbv3",
+      "name": "kaskade",
+      "album_type": "album",
+      "release_date": "2005-07-12",
+      "release_year": "2005",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ee78c524f06d9dcfabeaa90",
+      "uri": "spotify:album:4PSk5LzRoXo4xMt3Dq3OoW",
+      "name": "trialog",
+      "album_type": "single",
+      "release_date": "2003-02-04",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273984a53325d8ed1f39b5113f6",
+      "uri": "spotify:album:3F9RtcBMWGSI0MOwQaYq0k",
+      "name": "view from a throne",
+      "album_type": "single",
+      "release_date": "2003-02-04",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ee1b28c7532ade4f08804f2",
+      "uri": "spotify:album:65zf743IE6slyMX6YpIi6h",
+      "name": "inferno",
+      "album_type": "album",
+      "release_date": "2002-11-05",
+      "release_year": "2002",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c8a405c34a02dd7c82a1582",
+      "uri": "spotify:album:2JtuZYDQ4FIMKqiytD0P4w",
+      "name": "daimonion",
+      "album_type": "album",
+      "release_date": "2001-05-22",
+      "release_year": "2001",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273209cac0cca9f7c2473cb4855",
+      "uri": "spotify:album:5cWfmCY0c5I2cSPzqj2ULo",
+      "name": "timekiller",
+      "album_type": "album",
+      "release_date": "2001-03-19",
+      "release_year": "2001",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fca0a73a5461e807bd936e3f",
+      "uri": "spotify:album:18ujAkIZkk3LT4E7VtswgC",
+      "name": "existence i",
+      "album_type": "single",
+      "release_date": "2001-01-29",
+      "release_year": "2001",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273122e1f42980b5f8bf2ed7d86",
+      "uri": "spotify:album:4KZ69QJ4I1oC1KsCxmycZA",
+      "name": "existence ii",
+      "album_type": "single",
+      "release_date": "2001-01-29",
+      "release_year": "2001",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379a1e7347adf16a138197f7b",
+      "uri": "spotify:album:0QZDjYcIwsBsjNBbpL4J4J",
+      "name": "i live your dream",
+      "album_type": "album",
+      "release_date": "1999-01-18",
+      "release_year": "1999",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273231d65d981d7a9f3014e736e",
+      "uri": "spotify:album:3kuKuDg4l1OLPrGUvGsaw2",
+      "name": "eon:eon",
+      "album_type": "album",
+      "release_date": "1998-11-03",
+      "release_year": "1998",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5263e67db9cabfdd969eee2",
+      "uri": "spotify:album:7300ANmYfg9TLfKhgmeiih",
+      "name": "carnival",
+      "album_type": "single",
+      "release_date": "1998-09-14",
+      "release_year": "1998",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359f5e4986db650759687e729",
+      "uri": "spotify:album:0UTk6iqUAl1QMEt0xFfrek",
+      "name": "steelrose",
+      "album_type": "album",
+      "release_date": "1998-06-15",
+      "release_year": "1998",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0cb8aeebfb1598194ef5663",
+      "uri": "spotify:album:66EQJcjcSFTWar8yYHoHiK",
+      "name": "¡chakra:red!",
+      "album_type": "album",
+      "release_date": "1997-02-05",
+      "release_year": "1997",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5faece6c5e39e65791acd3e",
+      "uri": "spotify:album:6izbtvqFGqrTWYgPRe8ULa",
+      "name": "en garde!",
+      "album_type": "single",
+      "release_date": "1996-11-04",
+      "release_year": "1996",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f11373cd0e809a718c52f67",
+      "uri": "spotify:album:74CBsX2crNSrSud6wsyoL6",
+      "name": "ch'i",
+      "album_type": "album",
+      "release_date": "1995-10-16",
+      "release_year": "1995",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273188f03ce45c163cb67918591",
+      "uri": "spotify:album:4LIQwA5GYgu0Zope6v15po",
+      "name": "alpha omega",
+      "album_type": "album",
+      "release_date": "1995-08-01",
+      "release_year": "1995",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273495632eef80705d77ed929e4",
+      "uri": "spotify:album:0Z0hSznhV1EEKYZHlPqdkG",
+      "name": "corps d'amour",
+      "album_type": "single",
+      "release_date": "1995-04-03",
+      "release_year": "1995",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d190a4ec1f572b25ae182df",
+      "uri": "spotify:album:4nASpulPsBZSn3xoNNBpGk",
+      "name": "io",
+      "album_type": "album",
+      "release_date": "1994-02-07",
+      "release_year": "1994",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732926c25cbaab04f51c2c7258",
+      "uri": "spotify:album:6KjGO8FeAW9Sx9ce0Y2EZo",
+      "name": "souls/island",
+      "album_type": "album",
+      "release_date": "1993-03-01",
+      "release_year": "1993",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bff4fb96ce04698821a0663",
+      "uri": "spotify:album:4m8Cz6nGeibP6Y3fNAw91l",
+      "name": "carrion",
+      "album_type": "single",
+      "release_date": "1993-01-01",
+      "release_year": "1993",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c917e156df1caf4240675d3",
+      "uri": "spotify:album:01eGJwogML2o9CvScK1gpI",
+      "name": "entities",
+      "album_type": "album",
+      "release_date": "1992-10-01",
+      "release_year": "1992",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7192c5f581aee67dc61f061",
+      "uri": "spotify:album:4Yrm1WJQaGYVDdMKg1Afvm",
+      "name": "lam-'bras",
+      "album_type": "album",
+      "release_date": "1992-02-03",
+      "release_year": "1992",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f9182283e765dc9ad9711ef",
+      "uri": "spotify:album:6Gylfjlf7mW9FryFn5cvIS",
+      "name": "psychic torture",
+      "album_type": "single",
+      "release_date": "1991-10-01",
+      "release_year": "1991",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e9c08056ce95678ef2b59bd",
+      "uri": "spotify:album:1urmULEdYMxzINx6JK8YXH",
+      "name": "dhyani",
+      "album_type": "album",
+      "release_date": "1991-01-01",
+      "release_year": "1991",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336f7216d56e176508bc6b306",
+      "uri": "spotify:album:56OTwvYF3IvcCYPvau89ZE",
+      "name": "fire and ice (35th anniversary remaster)",
+      "album_type": "single",
+      "release_date": "1991-01-01",
+      "release_year": "1991",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303ec9e3599bdfd5bf0f77bf7",
+      "uri": "spotify:album:7xxtzSDZblQhduAZuw1P2k",
+      "name": "k.n.k.a. (35th anniversary remaster)",
+      "album_type": "single",
+      "release_date": "1991-01-01",
+      "release_year": "1991",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273400abba12b4fb5e46319cccc",
+      "uri": "spotify:album:6rqanc4azAwvN7dDwo2Ceb",
+      "name": "second step (35th anniversary remaster)",
+      "album_type": "single",
+      "release_date": "1991-01-01",
+      "release_year": "1991",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DLfONSFG8AA0cQvh1yCrz",
+          "name": "project pitchfork"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:38.000Z"
+}

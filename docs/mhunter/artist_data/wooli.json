@@ -1,0 +1,1596 @@
+{
+  "name": "wooli",
+  "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+  "uri": "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb806d12e80046abfbcd89db44",
+  "genres": [
+    "dubstep",
+    "melodic bass",
+    "riddim",
+    "edm",
+    "deathstep",
+    "future bass",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2516b1beb645a512bef8727",
+      "uri": "spotify:album:3hxSPaPvkCnM6qgm9ld1HR",
+      "name": "fux with us (feat. tiacorine)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273618b4bc3a6e4801fa5ecf58a",
+      "uri": "spotify:album:1JJDXoqTDtyYH031qfMpKi",
+      "name": "sam adams",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "4SZgeCABVz7OMthqPCLCgP",
+          "name": "sam adams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396f2fd020f112360df5c2d2f",
+      "uri": "spotify:album:1pArkQVsHcQIHQYyUHF8PP",
+      "name": "play it",
+      "album_type": "single",
+      "release_date": "2026-07-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "4SZgeCABVz7OMthqPCLCgP",
+          "name": "sam adams"
+        },
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389333d558bf068b1502ab4e1",
+      "uri": "spotify:album:0STa2yIpN5Ag6sXsKJ7vod",
+      "name": "way back",
+      "album_type": "single",
+      "release_date": "2026-07-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "1ZcfGrGrm9aHnUNVQz3sCY",
+          "name": "probcause"
+        },
+        {
+          "spotify_id": "4SZgeCABVz7OMthqPCLCgP",
+          "name": "sam adams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b016c01b405da89a03cfa4a8",
+      "uri": "spotify:album:0cPBiyrMXCOssOWkiETUuw",
+      "name": "movement (wooli & kompany remix)",
+      "album_type": "single",
+      "release_date": "2026-03-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d97dda0ace276b21e774804",
+      "uri": "spotify:album:1pE0NqseAKyFFjfHBIi7Sz",
+      "name": "jazz cabbage",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1vOTVnnyLvVTeuwrZLghCN",
+          "name": "cyclops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7122c401d51ddef7d428c78",
+      "uri": "spotify:album:7sjx1Flznl1Z6GDlUrGJI8",
+      "name": "train tune",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4TQ72C7aaARXGuHB7qBPk7",
+          "name": "mad dubz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6771a221dddaeb1df0c18ce",
+      "uri": "spotify:album:6NwTYkmUgLnwFJlRQyaWyO",
+      "name": "shallow land burial (wooli remix)",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2u01kCKA5wDvvztuH8lyT0",
+          "name": "svdden death"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a0264d67c3e773810df8df0",
+      "uri": "spotify:album:0XHk4T6oko97C3cjIipb26",
+      "name": "dingus",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1ZpDxqXS6HAvoZyCzQfKRb",
+          "name": "level up"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389c196704702130d74dba110",
+      "uri": "spotify:album:26xUxS2LbgQknaac21HRPj",
+      "name": "wackman",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c672f30b5dbd266ab55db9c",
+      "uri": "spotify:album:4cOQhLoZq8oKbLuqnGICph",
+      "name": "in my arms (wooli remix)",
+      "album_type": "single",
+      "release_date": "2025-07-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "hayla"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a422a6a98d752068f4530259",
+      "uri": "spotify:album:6XCOMsUfSGmRnQZBYIL48z",
+      "name": "chaos theory",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6ed4632768ac4a446dc7a8f",
+      "uri": "spotify:album:5spUK0bAHyshCeLig1DnK7",
+      "name": "sunshine",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0L3cTKutNivypmL0Gsbu4i",
+          "name": "vargen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3c25cfe1212812d5171d95d",
+      "uri": "spotify:album:3n1XJnPD5bMzskwPLtgAoY",
+      "name": "lock in",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad5f939ff70fee3bfe7b01c6",
+      "uri": "spotify:album:5hqK495WT7LZG2AKzOWyTV",
+      "name": "rapid fire",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3ddf30cc1e3add17f21cbb2",
+      "uri": "spotify:album:7jdmw56fXUz5RHyVHXZ6X4",
+      "name": "rise up",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735435c697556d065b24ef5a79",
+      "uri": "spotify:album:66y5YXEHMejcV8CR8eWv4C",
+      "name": "light in the dark",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "5ahYpnzCN3IMzBCFqwnKfr",
+          "name": "jim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371bd41b4eb2e43a9fe5a9f4f",
+      "uri": "spotify:album:3IcLn86DkBofZ2Z5gqIfrH",
+      "name": "satellite (wooli remix)",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1QMgre3BHX161ZHtWMUu6S",
+          "name": "dimension"
+        },
+        {
+          "spotify_id": "11gWrKZMBsGQWmobv3oNfW",
+          "name": "alison wonderland"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe3dab2739b8468258294a1a",
+      "uri": "spotify:album:1acUnqBZF7dYFpnPyrtFrd",
+      "name": "hallelujah",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c99fbe6c02554aad0896b0c2",
+      "uri": "spotify:album:744dIWTMURJ3D8YGLebUxQ",
+      "name": "floot loops",
+      "album_type": "single",
+      "release_date": "2024-06-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1vOTVnnyLvVTeuwrZLghCN",
+          "name": "cyclops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273313af49060b87ae9488ec240",
+      "uri": "spotify:album:52PiUizwqhMWmNkBd8eV99",
+      "name": "dopamine",
+      "album_type": "single",
+      "release_date": "2024-06-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "59tlsKpLWoLTxjNNS2wdPi",
+          "name": "tape b"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8f89a8e0ac11dbca34d032d",
+      "uri": "spotify:album:1PsxHAPCvl032BnVcaxGQe",
+      "name": "on repeat",
+      "album_type": "single",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4CzzY9kG8C2BLOuTuy3oLe",
+          "name": "cammie robinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3a55f4e1ab207c99ecc7b43",
+      "uri": "spotify:album:3hObmnjaub2zwiSM73tQu9",
+      "name": "acid",
+      "album_type": "single",
+      "release_date": "2024-04-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "57gGqESEggWfCpE3KOzdVa",
+          "name": "samplifire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb2e34845c3dbc8a670507d2",
+      "uri": "spotify:album:79abEB92z3mFYWUIMcgEBa",
+      "name": "make it wobble (feat. takura)",
+      "album_type": "single",
+      "release_date": "2024-03-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "4n81jTX3LJ7zxNr6Ss8PkQ",
+          "name": "takura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1b70fdf5a7111165b6625c5",
+      "uri": "spotify:album:5EMXlmp3WKweMXx43ikNFL",
+      "name": "thicc boi mega vip",
+      "album_type": "single",
+      "release_date": "2024-01-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738943c815bb745ecbc09b6f05",
+      "uri": "spotify:album:7f0LR3Mm5uD7oCBjCJ2Xt4",
+      "name": "mind control",
+      "album_type": "single",
+      "release_date": "2023-12-13",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2u01kCKA5wDvvztuH8lyT0",
+          "name": "svdden death"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d919974a2fd99520251f75a5",
+      "uri": "spotify:album:0csj86qPXNNcPnddR15YwR",
+      "name": "walk on water (wooli & trivecta remix)",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374d82676bcb3b283b1cee15c",
+      "uri": "spotify:album:1uLMooNp9bB40khUJAqe5c",
+      "name": "zombie (feat. valerie broussard)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273516e6583c56568cff9986c62",
+      "uri": "spotify:album:5bVmyPn48n0KCbRKiYg39L",
+      "name": "titans",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dadbc3460c5bc7feb84d6dd",
+      "uri": "spotify:album:5XbWNkpJ1SaK5XCz3BZzDE",
+      "name": "don't look down (hold on)",
+      "album_type": "single",
+      "release_date": "2023-05-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaced433363c16660a0234e3",
+      "uri": "spotify:album:3MVUfeX3SGCdc18Mzu1AF9",
+      "name": "you were right",
+      "album_type": "single",
+      "release_date": "2023-04-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b404df6ab954dbfc462a3c9",
+      "uri": "spotify:album:3WzQWDcaxWTvBMGnZP5u0v",
+      "name": "reasons",
+      "album_type": "single",
+      "release_date": "2023-04-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0NbQe5CNgh4YApOCDuHSjb",
+          "name": "the devil wears prada"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eba6bbe0c49690592b7e7a4d",
+      "uri": "spotify:album:7LDZEuBiE6mViMQm7m4e02",
+      "name": "song of the year",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e92fc655268c5bf49390101",
+      "uri": "spotify:album:38xBUUJlE6GW09Z0C1wadu",
+      "name": "titans",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c59cb0845737e745a2ba501d",
+      "uri": "spotify:album:34cS1Kf5Mx57AEeBxIEpdE",
+      "name": "laserbeam (stumpi remix)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ADBt5Q860eEVH9GoQApm6",
+          "name": "stumpi"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737898815fbb02047e817f8b71",
+      "uri": "spotify:album:1jJzoe5Fqmo1QAzt7ctklr",
+      "name": "into pieces (wooli x grabbitz remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edaea1ba3ecfc0b90fd5c086",
+      "uri": "spotify:album:5esvwj2Syivbs8bE6j4yus",
+      "name": "let me go",
+      "album_type": "single",
+      "release_date": "2022-11-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1CXuuw8HJhyN80HlNzvL1e",
+          "name": "sullivan king"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9c1d933188e514190c5808c",
+      "uri": "spotify:album:5v9odV7ozuEySPPAz3yqhO",
+      "name": "restraint",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1s6bMklFjSRcrMy2FtobWM",
+          "name": "calcium"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c68f18cf3e50a04e6de2df12",
+      "uri": "spotify:album:6mrEmNiDqgKLM38kUpyrbp",
+      "name": "name drop",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731eb79f8c44b1b033943b634d",
+      "uri": "spotify:album:27xESFyBNPaNdQLf6v3OBy",
+      "name": "the core (caster remix)",
+      "album_type": "single",
+      "release_date": "2022-03-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1d606f1907ba9df9a1e2bcc",
+      "uri": "spotify:album:7Cb9cl077sdnitoXLhPOjS",
+      "name": "crazy [orchestral]",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734be9fa4d710c846adb6232c6",
+      "uri": "spotify:album:0ZPHR4YSPhO2ZydsdJJgx1",
+      "name": "resurrection ep",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305d9a612ae4b8827c7222f5c",
+      "uri": "spotify:album:4f31c4jsGta4QmtagW8zDD",
+      "name": "light up the sky",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "6HySSUk2KthFj3bd9R61ql",
+          "name": "scott stapp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6e4278d24371633d30936d5",
+      "uri": "spotify:album:2qvwCS3tDktLt5bunqFD4h",
+      "name": "crazy",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373b0e19e0b64c16e59bc4ca0",
+      "uri": "spotify:album:04xRWjMYVB7D15hzhVSHFW",
+      "name": "shadows (remixes)",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273004d453c01ee36423c691f96",
+      "uri": "spotify:album:5VKZlA0103JJqFL3Ha0hZT",
+      "name": "shadows (acoustic)",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c87c18366a28ffd4c8519cd",
+      "uri": "spotify:album:4JYbTFLOrMAbdnhrXQQuDV",
+      "name": "shadows",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367237c69e55b212ed83e3706",
+      "uri": "spotify:album:16vzWQqf8rOjvlo4dfGgR0",
+      "name": "the core",
+      "album_type": "single",
+      "release_date": "2021-02-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cc8b99a9467b9e967f8746c",
+      "uri": "spotify:album:7KinWKE8pjW2cHa5wnG4Rl",
+      "name": "bad mood",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0ouxenSvuyyfflbOirMy19",
+          "name": "control freak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ceaa66d921340df730f74c30",
+      "uri": "spotify:album:0foOrGxj5UNA2tqQm0Xb3I",
+      "name": "erase you",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273992764c9bd9c2823d5713270",
+      "uri": "spotify:album:5WKzYJsVHRLMtXBUA55N3s",
+      "name": "evolution (the remixes)",
+      "album_type": "album",
+      "release_date": "2020-08-18",
+      "release_year": "2020",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739012056f84eb89f1ae2f6eb9",
+      "uri": "spotify:album:0fDD5c9qRwj126neJehqPG",
+      "name": "wasteland (wooli remix)",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731141ece49190e7dcef6924d9",
+      "uri": "spotify:album:5U1qi0lE8ZsfBY3ROsDFPk",
+      "name": "snailephant vip (control freak remix)",
+      "album_type": "single",
+      "release_date": "2020-04-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0ouxenSvuyyfflbOirMy19",
+          "name": "control freak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdfd3548e55d3bbdae0e2d48",
+      "uri": "spotify:album:4TVoroFgXE30hqqD70yikj",
+      "name": "don't forget me",
+      "album_type": "single",
+      "release_date": "2020-02-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1CXuuw8HJhyN80HlNzvL1e",
+          "name": "sullivan king"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e66a37483a63d389804bb6e",
+      "uri": "spotify:album:7hi019ANqCgubZDCc1Thi1",
+      "name": "bussback",
+      "album_type": "single",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731edb64bb8febe99f1c9535ea",
+      "uri": "spotify:album:3HBN6QnyFSnKV7ANZ73It4",
+      "name": "over you",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fbde569930c22ff5cf4c055",
+      "uri": "spotify:album:3p7BhFUglNoZmHdbCE4eXA",
+      "name": "nothing left (feat. runn)",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c563b47f1329050b710dd292",
+      "uri": "spotify:album:3phtj8TCa9iKF2ajTP9z90",
+      "name": "born to survive (wooli & ray volpe remix)",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "2K9qsrYnsu1EWt7ZQkkuXb",
+          "name": "ray volpe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ada3cf3d8a6918c72bf0ef3",
+      "uri": "spotify:album:4pYGR19avWwTwXzVfRxJvf",
+      "name": "evolution ep",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730079b8afc6910ee1aa840496",
+      "uri": "spotify:album:3Wj6N3BZCylC2e4vBziOdf",
+      "name": "another me (with dylan matthew)",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca33c29feabd0caf0b088269",
+      "uri": "spotify:album:1koUzELzCRAdOnjxUOkRS5",
+      "name": "psyclone",
+      "album_type": "single",
+      "release_date": "2019-07-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9bb1550b9d407173e371f1a",
+      "uri": "spotify:album:5zNLa9kWTko77tCZiJXhY0",
+      "name": "island remixes",
+      "album_type": "single",
+      "release_date": "2019-05-10",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d054ee240ced550ee60a7be6",
+      "uri": "spotify:album:4L7XqDeUTW7hwwbPxtW0Lz",
+      "name": "island",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325a0d528fcaae250aa8974cb",
+      "uri": "spotify:album:3RtK4OUBGQO6e81E7wkJFv",
+      "name": "snailephant",
+      "album_type": "single",
+      "release_date": "2018-11-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739df91069fc5e72c0d4ac9ded",
+      "uri": "spotify:album:700jIZKk7zxZWVsN0vyEJd",
+      "name": "mammoth ep",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738416ba15675759e4b56f15ce",
+      "uri": "spotify:album:0ZOUwZmA5LFGRcvhJFRoYi",
+      "name": "elephant march",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739704cca7c8a69df96c6be2d7",
+      "uri": "spotify:album:2fhPcxWhf70tqfY5dnJsN2",
+      "name": "man don't want war",
+      "album_type": "single",
+      "release_date": "2018-09-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0DMEZLiozBGN9v24wCvbmO",
+          "name": "clipson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273415a0364db04817e4db9db64",
+      "uri": "spotify:album:7reAoLjCLMOoajG0gvsago",
+      "name": "wdgaf (wooli vip)",
+      "album_type": "single",
+      "release_date": "2018-08-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "3eIM4tCQTGJXb0RDPfF2wL",
+          "name": "afk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa966a53599cd6298e6446f3",
+      "uri": "spotify:album:3QdvfrePNa5IjCPTbW6Dn3",
+      "name": "briddim bomb",
+      "album_type": "single",
+      "release_date": "2018-02-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273500f78c823612fff887ee57a",
+      "uri": "spotify:album:57HhoTUTJU6ZhDd0tTJwj8",
+      "name": "stay (wooli remix)",
+      "album_type": "single",
+      "release_date": "2018-01-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7GvVTb8yFV0ZrdI30Qce6T",
+          "name": "delta heavy"
+        },
+        {
+          "spotify_id": "1WGex9YdmT4TZjmmMirZA8",
+          "name": "dirty audio"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ff491e73f45d5276c47f5a9",
+      "uri": "spotify:album:4NCEnMU2jafjXQ0VqnhUWK",
+      "name": "voodoo",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "26RHyTSsP5JoS4udf8txU5",
+          "name": "yookie"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c518dc80e9c4b8ba276e506",
+      "uri": "spotify:album:6nOAnNMlTX2NJGcny9Mp5I",
+      "name": "back / like i used to",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355d71b2f65e6355b2c1290f3",
+      "uri": "spotify:album:6PXiSAZFikhd5LJgpbXMnx",
+      "name": "wdgaf (feat. jay fresh)",
+      "album_type": "single",
+      "release_date": "2017-06-20",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3eIM4tCQTGJXb0RDPfF2wL",
+          "name": "afk"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273387b37c62ec4ff33159caac2",
+      "uri": "spotify:album:5u3ZUvFLus0gqRFCXsMJvX",
+      "name": "the cave",
+      "album_type": "single",
+      "release_date": "2017-03-10",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333c3058ca213aa7a4fd9434f",
+      "uri": "spotify:album:18MXE9SHzxUVgxMvGR1xZu",
+      "name": "horns up",
+      "album_type": "single",
+      "release_date": "2017-02-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "06cbUoPtMI8kqHNONFTH2h",
+          "name": "sunday service"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bb751b6d85e140ecbb53edc",
+      "uri": "spotify:album:41q3l4FTzN4bMCZa8sPD8t",
+      "name": "give it up",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "578rh4s6ZYNBBEhdly58XQ",
+          "name": "b-sides"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ba60b749b4f83fb84041633",
+      "uri": "spotify:album:4BL66E7MNN7aLl3grfwyvP",
+      "name": "lucy in the sky (feat. delaney kai)",
+      "album_type": "single",
+      "release_date": "2016-11-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ee8d104e9f371885b50caa",
+      "uri": "spotify:album:3vIFb76hR9DQOXPEGUaNNT",
+      "name": "daydream",
+      "album_type": "single",
+      "release_date": "2016-10-04",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:35.000Z"
+}

@@ -1,0 +1,613 @@
+{
+  "name": "rogue",
+  "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+  "uri": "spotify:artist:3zuevuwyBq4MiQzPB3nvW2",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8fa0a4d91119fb25bebbc32e",
+  "genres": [
+    "drumstep",
+    "dubstep",
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3d8002523ac046036f1ffc3",
+      "uri": "spotify:album:65SyuCYsdqZOb9I2dP0bWF",
+      "name": "perfect",
+      "album_type": "single",
+      "release_date": "2025-09-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f958bb8e30a268b3b7cbb98",
+      "uri": "spotify:album:0QdPB4VsQlOwiAqOuvIYFr",
+      "name": "classic material",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        },
+        {
+          "spotify_id": "1qo7WSCdSGWDzxzY9N5CY4",
+          "name": "wyldz"
+        },
+        {
+          "spotify_id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "aloe blacc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3930ef0f9c9e70277a0c1c",
+      "uri": "spotify:album:47QDAHx9JLrzYV5tfnTWzD",
+      "name": "emeralds",
+      "album_type": "single",
+      "release_date": "2022-09-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5292d9a7aedf237d704128f",
+      "uri": "spotify:album:1x8nvALQ0zTvYavj5bz8QW",
+      "name": "starlight",
+      "album_type": "single",
+      "release_date": "2022-08-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cef30b7d41653e73e546dd4",
+      "uri": "spotify:album:0myJX8G6tOvCxCR4jiWWJR",
+      "name": "guiding light",
+      "album_type": "single",
+      "release_date": "2022-06-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c79655c368f77565bb48ea8",
+      "uri": "spotify:album:1VRtBR0yB3BkQYCQhRgQR3",
+      "name": "me + you (rogue remix)",
+      "album_type": "single",
+      "release_date": "2021-08-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "4ko7cVxrcdvwdRkkmiNcRI",
+          "name": "rave new world"
+        },
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736de69b5943c5d6b3ab08cd9c",
+      "uri": "spotify:album:1vCQAIQBlzT1S8eWSkgeTp",
+      "name": "galaxies (rogue remix)",
+      "album_type": "single",
+      "release_date": "2020-12-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0n8nGcgKnLHVv106g3AfnH",
+          "name": "protostar"
+        },
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a236c8ec0504467b8417e7a7",
+      "uri": "spotify:album:0kTF8zlb8hCppBizDGK9Ba",
+      "name": "rattlesnake (pegboard nerds remix)",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c74cc6b7a5373fdd61f73d9c",
+      "uri": "spotify:album:6xBWHbwZqgSmURjAbEdIIy",
+      "name": "empires",
+      "album_type": "single",
+      "release_date": "2020-09-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec746044ec8248414c8966d6",
+      "uri": "spotify:album:2J02t4mbPPZQJMHcO9vlsd",
+      "name": "fusion",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c80bfb8d2a4be4b69617e713",
+      "uri": "spotify:album:0vz6oo1LchzGsyFNZ2Bpsv",
+      "name": "move me",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b652bc378efce80d60fc3f0",
+      "uri": "spotify:album:0cBhVsuvWC8jxex92fkUW4",
+      "name": "feel alright",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5x2u5vpKBhviWQlni8VM8L",
+          "name": "justin oh"
+        },
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fbc40e7e51d91c63aee4a6c",
+      "uri": "spotify:album:4Lb2JtUYcZRQdX8eDjXjxX",
+      "name": "let's talk",
+      "album_type": "single",
+      "release_date": "2019-06-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357d0d858c3b049c4df88b2bc",
+      "uri": "spotify:album:4QgX1Jnct92jlBT3vwb3xP",
+      "name": "barbed wire",
+      "album_type": "single",
+      "release_date": "2019-04-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d91607b36cb71bf29b269f2f",
+      "uri": "spotify:album:2Q6IPrm4S152HPNPz7bWaa",
+      "name": "oceans",
+      "album_type": "single",
+      "release_date": "2019-02-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393766026355ff27d4c3994cc",
+      "uri": "spotify:album:7heb5MMzMff1XSwkquD2vu",
+      "name": "badlands",
+      "album_type": "single",
+      "release_date": "2018-11-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b75af0bb2612d9063787d42",
+      "uri": "spotify:album:2EQ5xzE3fAMqgWnVsgIj1v",
+      "name": "mirage",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334b23957c8bf15277804a2ae",
+      "uri": "spotify:album:4NGEQVobqoEZmD6h4ooVQQ",
+      "name": "fortress",
+      "album_type": "single",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f34b648236bee779db19932",
+      "uri": "spotify:album:3i22nb9YAjxh0WWbqHxAix",
+      "name": "fury",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a364a5a6b8a36032c23b4df",
+      "uri": "spotify:album:0fZjA1I3yURXyV8jOWNvO0",
+      "name": "unity",
+      "album_type": "single",
+      "release_date": "2017-05-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        },
+        {
+          "spotify_id": "3gxGPuGK6DOpv7XVp8V6jG",
+          "name": "slippy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b8f8445c33e2014e5572fd",
+      "uri": "spotify:album:1FJ5LJ92wHM3en3nD8avuN",
+      "name": "nemesis",
+      "album_type": "single",
+      "release_date": "2016-10-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b21724f2163e654c5c4aaeef",
+      "uri": "spotify:album:41d4u8HytwkrBCqY2uCE2b",
+      "name": "imperfect views",
+      "album_type": "single",
+      "release_date": "2016-07-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dfead78d05345841f12144f",
+      "uri": "spotify:album:5XNjmYtZLIuPyDiaWGjFOq",
+      "name": "drive away",
+      "album_type": "single",
+      "release_date": "2015-12-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358d8d682fc7787537e1df72a",
+      "uri": "spotify:album:6Q62VJa4BsOmnzQDrcX20p",
+      "name": "ultimatum",
+      "album_type": "single",
+      "release_date": "2015-09-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353a48f8c06f67e818fef1817",
+      "uri": "spotify:album:1Y8W0BMWyIjKwY82yimLcX",
+      "name": "rattlesnake",
+      "album_type": "single",
+      "release_date": "2015-02-16",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387ad0224c60af098029c81c3",
+      "uri": "spotify:album:0tEtpyoMnbghY23nXSHiBh",
+      "name": "atlantic",
+      "album_type": "single",
+      "release_date": "2014-10-15",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baa385d54ff8122407727253",
+      "uri": "spotify:album:2Ab0P4O2K5rA67OSbJXFQX",
+      "name": "night after night",
+      "album_type": "single",
+      "release_date": "2014-07-09",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1c20e0462e3b95d3907d877",
+      "uri": "spotify:album:7v1XBH9J1f1paMhMbq0ayM",
+      "name": "earth",
+      "album_type": "single",
+      "release_date": "2013-11-04",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327a95f8da6c1358eed177e91",
+      "uri": "spotify:album:4Q4ESOjikjt0j1It4KU1jI",
+      "name": "from the dust",
+      "album_type": "single",
+      "release_date": "2013-10-14",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1487bba2f323bae37abe17b",
+      "uri": "spotify:album:3f3ruIrrEX9gWQ9VUP7xA4",
+      "name": "forever",
+      "album_type": "single",
+      "release_date": "2013-06-03",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346f3f45c6e91f6900c771b54",
+      "uri": "spotify:album:6B2ubRRUdI9NAdxnTKgnWl",
+      "name": "exogenesis",
+      "album_type": "single",
+      "release_date": "2013-01-31",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cc980cabf81fe8cac04b791",
+      "uri": "spotify:album:64UMqfSX5jvEp8AVfokmzO",
+      "name": "dreams",
+      "album_type": "single",
+      "release_date": "2012-11-27",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f9ab1fec5e88c07b7766dec",
+      "uri": "spotify:album:6zUyNtGgznKUwNtW893jTO",
+      "name": "nightfall",
+      "album_type": "single",
+      "release_date": "2012-09-06",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dc1c0ce246f003b913a9c32",
+      "uri": "spotify:album:1NSdstfb2JhUrwi4kP6yWL",
+      "name": "dynamite",
+      "album_type": "single",
+      "release_date": "2012-07-19",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e6a223e3399401c44b19f61",
+      "uri": "spotify:album:2nl3WRvrUOkLsPNAGYIdUr",
+      "name": "daybreak",
+      "album_type": "single",
+      "release_date": "2012-06-30",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c12d2a4eb4566c4abaf4e854",
+      "uri": "spotify:album:77wQj4lczb0XgHMaf6Zslm",
+      "name": "catalyst",
+      "album_type": "single",
+      "release_date": "2012-05-12",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        },
+        {
+          "spotify_id": "28Ky95tmlHktB96DBUoB0g",
+          "name": "tristam"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ff2509e6c33dd9a77d0939d",
+      "uri": "spotify:album:5roF4pJj2cEYp0F5XSrgfw",
+      "name": "pushed away",
+      "album_type": "single",
+      "release_date": "2012-01-11",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28Ky95tmlHktB96DBUoB0g",
+          "name": "tristam"
+        },
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:54.000Z"
+}

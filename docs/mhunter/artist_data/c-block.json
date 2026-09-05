@@ -1,0 +1,58 @@
+{
+  "name": "c-block",
+  "spotify_id": "3oBEQDpycb0JgSyFyy6VEq",
+  "uri": "spotify:artist:3oBEQDpycb0JgSyFyy6VEq",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27350bc3a3840cc2fc6219c826f",
+  "genres": [
+    "chinese hip hop",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350bc3a3840cc2fc6219c826f",
+      "uri": "spotify:album:1Xj9bPYW5CXiXhQD5bC45p",
+      "name": "以下範上",
+      "album_type": "album",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3oBEQDpycb0JgSyFyy6VEq",
+          "name": "c-block"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c510a079904a4e6698e24e5",
+      "uri": "spotify:album:6PvQ2Bj40rLTWytnuxxT5Z",
+      "name": "火苗",
+      "album_type": "single",
+      "release_date": "2017-10-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3oBEQDpycb0JgSyFyy6VEq",
+          "name": "c-block"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730247e6b2463e8a1dc73ffa28",
+      "uri": "spotify:album:4Jd2RN13uupHBObBUPNyI3",
+      "name": "江湖流",
+      "album_type": "single",
+      "release_date": "2017-09-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3oBEQDpycb0JgSyFyy6VEq",
+          "name": "c-block"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:35.000Z"
+}

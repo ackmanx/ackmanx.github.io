@@ -1,0 +1,324 @@
+{
+  "name": "mvse",
+  "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+  "uri": "spotify:artist:1vaJtw85EDccyv1uf5OoIb",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb0b23ef68be5f9e84775d6927",
+  "genres": [
+    "melodic bass",
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e8ac3f298aae5e26e718159",
+      "uri": "spotify:album:4eQQ9uGGcLK0c6aJElqTYU",
+      "name": "break me",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273838d8cd4f361447aa257d72f",
+      "uri": "spotify:album:4cUDINx0Axm9MaDGdjdEht",
+      "name": "flowers",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "4pkX7arvlf9ZVAu7Hpff2w",
+          "name": "sierra annie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6376ff5d8b60aed245ca059",
+      "uri": "spotify:album:2Gotg98MyO2zKSWGHz6ZVC",
+      "name": "golden (mvse's version)",
+      "album_type": "single",
+      "release_date": "2025-12-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "1R5iICxEt6JjvrTXrXSftF",
+          "name": "bea go"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9b07c319986e23aed84803d",
+      "uri": "spotify:album:2JuizLh1Tx1Ii2p568by3R",
+      "name": "rise (the remixes)",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334ecab25b643e4062d009c14",
+      "uri": "spotify:album:4d1KJTdwMU2QxUiSc8U4t1",
+      "name": "rise",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fc2a0069e4e616bc1b1128b",
+      "uri": "spotify:album:7wYiEcHymyhrB6n9TDnbvu",
+      "name": "back to me",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "5k013eqGq6R7I8hYIqB643",
+          "name": "shxdow."
+        },
+        {
+          "spotify_id": "39czNpwEAe5tGKIE53XDmm",
+          "name": "donna tella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735800021ba8314bf8fd33e705",
+      "uri": "spotify:album:758dRwMuCONb5iIYRyqxfu",
+      "name": "lose control",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf112513abaabba20971788f",
+      "uri": "spotify:album:56NGlYfXWUJ1yGrFRJGDkq",
+      "name": "unbroken (brilllion remix)",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "1hzTGiVMoHHDQwybbnUClq",
+          "name": "brilllion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273982942a5af827bb74b4dd966",
+      "uri": "spotify:album:35vCTBiGCxmTih3qQCwoQ8",
+      "name": "moments (feat. rynn)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370987a5d61c278ba880667af",
+      "uri": "spotify:album:6QiiXJiYwAw34EV4LsAYNZ",
+      "name": "matches",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "1569hvm0IW3DHOfruYP2lM",
+          "name": "robbie rosen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e619bb98e101122bfc358760",
+      "uri": "spotify:album:4iLRo8RUEiWfg9KHv02M2k",
+      "name": "too good to be true",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "02tNJ4ZTGXThzSA5A9QREM",
+          "name": "matte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf951ebc6af9286db354bc25",
+      "uri": "spotify:album:4L7NyrikpgbnN5YqKAIgma",
+      "name": "waiting for you",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "6DtkykynUxdJAtBJHEldtE",
+          "name": "myta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d60a38e836620e5bf49f574",
+      "uri": "spotify:album:5A39GfGGIEHY52nKoGuRmp",
+      "name": "uni verse (remixes)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338681f31437be5f2d8ee60ba",
+      "uri": "spotify:album:6rKeVeVA4ydwX9sy9rtE6F",
+      "name": "uni verse",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe343cbec4efe931c5aa8a52",
+      "uri": "spotify:album:1yL51tqjJfX8erm1IF520Z",
+      "name": "unbroken",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372ae487ceec3597cf823f641",
+      "uri": "spotify:album:1LWoLXOq0Mcf1wS2uVA4re",
+      "name": "mercy",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        },
+        {
+          "spotify_id": "29siAJ78u7y79BYOyh0lbp",
+          "name": "luma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eefefe8f00e0665b8d1f1f94",
+      "uri": "spotify:album:6FVfOD1nL2V0qIdKZebRRk",
+      "name": "all for myself",
+      "album_type": "single",
+      "release_date": "2018-07-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:23.000Z"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "straftanz",
+  "spotify_id": "2A7wOjGoGRwaT3rY6UqgXd",
+  "uri": "spotify:artist:2A7wOjGoGRwaT3rY6UqgXd",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273eb6cfa485300e225c7430e9a",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e12215c3bc3440d62e21cb0",
+      "uri": "spotify:album:14lFeX6YfMigzj4XxFDlqE",
+      "name": "mainstream sellout overground",
+      "album_type": "album",
+      "release_date": "2011-10-11",
+      "release_year": "2011",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2A7wOjGoGRwaT3rY6UqgXd",
+          "name": "straftanz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318a47d922d94b8acbfba7743",
+      "uri": "spotify:album:027oxhotI2fO9mpRjNIyaZ",
+      "name": "forward ever, backward never",
+      "album_type": "album",
+      "release_date": "2008-07-04",
+      "release_year": "2008",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2A7wOjGoGRwaT3rY6UqgXd",
+          "name": "straftanz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb6cfa485300e225c7430e9a",
+      "uri": "spotify:album:239zoGm40bSACEGJc68HiJ",
+      "name": "tanzt kaputt, was euch kaputt macht!",
+      "album_type": "album",
+      "release_date": "2008-07-04",
+      "release_year": "2008",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2A7wOjGoGRwaT3rY6UqgXd",
+          "name": "straftanz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313664e34d5756e5b9e7fe646",
+      "uri": "spotify:album:3Um1PO7grs9M0o4n6y8kuz",
+      "name": "straftanz",
+      "album_type": "single",
+      "release_date": "2006-10-20",
+      "release_year": "2006",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2A7wOjGoGRwaT3rY6UqgXd",
+          "name": "straftanz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:50.000Z"
+}

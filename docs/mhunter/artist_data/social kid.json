@@ -1,0 +1,1046 @@
+{
+  "name": "social kid",
+  "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+  "uri": "spotify:artist:5MTN31B0DYG43RQJ9zT5fq",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb40e8b26f8b29d21fd4cd2851",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1715d61e725ac4c93e6174b",
+      "uri": "spotify:album:7ttMY6Ii6PKMVhMMOS34Af",
+      "name": "molly",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e1d7200a605973a7c0b6902",
+      "uri": "spotify:album:2qELYA2keaPCaGhRHYwFQ8",
+      "name": "battlefront",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396e14007761f8391db32b997",
+      "uri": "spotify:album:4k4Ur6snqjA8dVxH9ZWcVC",
+      "name": "paradise lost",
+      "album_type": "single",
+      "release_date": "2026-06-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "1G7SWvt28PwkH7OqeRvSMc",
+          "name": "drew dew"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307523bb3b597b027dbf992d1",
+      "uri": "spotify:album:2TLh9VER4FItNTbCGOJJyz",
+      "name": "taste my love",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365541e2322ab84cda0b9ebe0",
+      "uri": "spotify:album:3aWvRuTo6AuRiZaEQ5NqNe",
+      "name": "headspace",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273686441272b11187a0371f9d0",
+      "uri": "spotify:album:1jWmsfOu6nxpKSQvZu9jCx",
+      "name": "strange worlds",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "4WIjxaYLHaY8A4nBwD7T1K",
+          "name": "magitek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f4ffb0c6a4b0b883aaff35c",
+      "uri": "spotify:album:71tvycslFh1ZW8pvSGa2nk",
+      "name": "flowstate",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "2Ldym1064wF97ASjZhNSkz",
+          "name": "slick portal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273620df80a11f897ca14a53c38",
+      "uri": "spotify:album:5uMpDKOUiWJpH1ZuCanLnE",
+      "name": "esper",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8b18017ce1abc6b1336b341",
+      "uri": "spotify:album:3bKNImuy87zZcAB9C2nyZt",
+      "name": "the awakening",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b33dccfe99b3e9f3f58a9a3",
+      "uri": "spotify:album:5ANduSCF6eT8ODd4FY2Q4F",
+      "name": "golden seed",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f0269b3b050700120808c95",
+      "uri": "spotify:album:3IPAH7MW7W2yFqlMe0rRmO",
+      "name": "shiva's spear",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "4WIjxaYLHaY8A4nBwD7T1K",
+          "name": "magitek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734efd53dcff9811d178d1d78e",
+      "uri": "spotify:album:49ZmoITuo4Rmmoh3zzFXS0",
+      "name": "daywalker",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c792b61a67038b510cc87418",
+      "uri": "spotify:album:2lpfmDFvncD0fDihoGKGEg",
+      "name": "artificial intelligence",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397f15348d2d04b5a2b05d757",
+      "uri": "spotify:album:0labPNdol8Mcn7XUCU1I03",
+      "name": "night raid",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "4WIjxaYLHaY8A4nBwD7T1K",
+          "name": "magitek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383712d97b258f2ae40b897ab",
+      "uri": "spotify:album:6LCD3FJWps44Jq2wNGe3Ve",
+      "name": "get 'em",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "44RV4NtG7667JQNtX6iDZc",
+          "name": "lūn"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4260410494d6b84d0d4e35a",
+      "uri": "spotify:album:77ORJczhv8ZVI41XWvcw2S",
+      "name": "second renaissance",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b83c827fe5969f4d7a59f07c",
+      "uri": "spotify:album:70p8BaXnLgNyHgHeBkv8Vv",
+      "name": "trinity",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee9c64ecb91b002f50280324",
+      "uri": "spotify:album:3PirsiGs92xqlN1qKTk6tI",
+      "name": "overmode",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e4f0101fa51e5d5198e7b64",
+      "uri": "spotify:album:3RCm0fTDJ0jrJalQiq4ls1",
+      "name": "vibration",
+      "album_type": "single",
+      "release_date": "2024-11-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feffc11b89c9941057272903",
+      "uri": "spotify:album:1wp53qKHvsofsAtMFd8my5",
+      "name": "the shadow",
+      "album_type": "single",
+      "release_date": "2024-09-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Iinboshi4aoIyFIVp9OwD",
+          "name": "eldrch"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac58f08188c3657f2e2add0e",
+      "uri": "spotify:album:2ng2snlDzfi1C4TGLrnpjJ",
+      "name": "black sky",
+      "album_type": "single",
+      "release_date": "2024-01-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "6jkpmnrw5gFq4uB7OG0ZVO",
+          "name": "eydo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d2f3d64285d8742980817e5",
+      "uri": "spotify:album:3tsixld561qGtEGJW64rvA",
+      "name": "as above so below",
+      "album_type": "single",
+      "release_date": "2023-10-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b5723bdb906ec621fbff141",
+      "uri": "spotify:album:3Q3aIp6bXlBLJ9bCLUwPc2",
+      "name": "twin flame",
+      "album_type": "single",
+      "release_date": "2023-09-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d61b892138a1d818978929a2",
+      "uri": "spotify:album:1fHSfwR7eC4qOIl1zQXsse",
+      "name": "after.life",
+      "album_type": "single",
+      "release_date": "2023-08-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "2xtgvrmPKzft8UAM5Slbyn",
+          "name": "trisekt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736869478ef934240a71e0cb3d",
+      "uri": "spotify:album:10ht9A1fi8TrjTpmmFptRy",
+      "name": "get up",
+      "album_type": "single",
+      "release_date": "2023-07-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e0472be9c0f257d34f18f72",
+      "uri": "spotify:album:0fZZ2e2mhe93o3Vpo0BO68",
+      "name": "all is mind",
+      "album_type": "single",
+      "release_date": "2023-06-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b47368cb31c82a6afbd8bb5",
+      "uri": "spotify:album:4t91m1b94QBNxX3gGZxojH",
+      "name": "insomnia",
+      "album_type": "single",
+      "release_date": "2023-05-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316c0c2269ca7ed4a9b7f13cc",
+      "uri": "spotify:album:3fAReXheZpC7N1w8ndCm3s",
+      "name": "what do you mean",
+      "album_type": "single",
+      "release_date": "2023-04-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739195c57acdf29ee0aeab24f1",
+      "uri": "spotify:album:1tJNfpcvgJ0sFZHy3yEBEd",
+      "name": "are you awake",
+      "album_type": "single",
+      "release_date": "2023-03-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e362ab5d20b925533784e75",
+      "uri": "spotify:album:0myK3DUvD7pbj88VWAyLYj",
+      "name": "eternity",
+      "album_type": "single",
+      "release_date": "2023-01-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b59f735eca4403e4b8d40d7",
+      "uri": "spotify:album:0CImLDWR4Jd8TZMEfw8MNz",
+      "name": "the universe",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9163325388b4d49d7a41ab7",
+      "uri": "spotify:album:5fh4sEuxhRnC3S39vACSA9",
+      "name": "stop me",
+      "album_type": "single",
+      "release_date": "2022-11-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4KzFG4sXmTDHVYaR9bqpCj",
+          "name": "mr. kristopher"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325b31fd9db1f31270ccdc293",
+      "uri": "spotify:album:7cPevZnNMAQnSON5t629WK",
+      "name": "the wired",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e7ece34d6d15b7ba5cfff8e",
+      "uri": "spotify:album:1gE32Cnh2vpbamIeohCAnJ",
+      "name": "ascendance",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273930cbb7ed8548a8bcdf9fe3d",
+      "uri": "spotify:album:1sCkf0kth2JmNgOvwwCVrW",
+      "name": "underground",
+      "album_type": "single",
+      "release_date": "2022-05-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319c79b1502088de81a84ed11",
+      "uri": "spotify:album:2AcwnzPqHJgAm76cxu6gYL",
+      "name": "break away",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "6xZQ5wJVe9ZmmJIZww405p",
+          "name": "bad proxy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d0f54db1b9826daeaff87be",
+      "uri": "spotify:album:3le8D2dmRSyXr8QESxo43Q",
+      "name": "angel.exe",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273669aa6eeb0d0dac0bd2301bf",
+      "uri": "spotify:album:3uSuqHU8m6x5WZVf4FzS4J",
+      "name": "drifting away",
+      "album_type": "single",
+      "release_date": "2022-03-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389a42634cc31a9777540db13",
+      "uri": "spotify:album:1ogqroRPgyCIcIMo9wETZq",
+      "name": "state of anarchy",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7b4fbe486bb3b706af360ed",
+      "uri": "spotify:album:6cKhdwvHFtzErG5oviw1Me",
+      "name": "ebm",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bacca127176330d776a203b8",
+      "uri": "spotify:album:02uyFBQ96gNMkbcsq07lzW",
+      "name": "power wave 2022 (remastered)",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b755130ab47d91ce22636cdb",
+      "uri": "spotify:album:0SpudjUnxReKkwZIb6e6C6",
+      "name": "magick",
+      "album_type": "single",
+      "release_date": "2021-07-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734edb5266c6e135907eaa7852",
+      "uri": "spotify:album:3kGI6adSPt2svylPkqmlnY",
+      "name": "trolls",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273675e927c62bb7e1e3021e094",
+      "uri": "spotify:album:5YYadFcp4LDfiG4YzrE7gO",
+      "name": "æon drive",
+      "album_type": "single",
+      "release_date": "2020-12-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393c4051ff427d0642f7e664f",
+      "uri": "spotify:album:1fKsiS3N3dAx2i30xrvH1K",
+      "name": "find me again",
+      "album_type": "single",
+      "release_date": "2020-11-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f04812425711452c24184aec",
+      "uri": "spotify:album:2NKqRMoH8a1UD2G0iwlDcX",
+      "name": "forever floating",
+      "album_type": "single",
+      "release_date": "2020-10-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273310d6957ce87a94342423f91",
+      "uri": "spotify:album:7e37JEGTDcS1ImFJxyS93W",
+      "name": "muse",
+      "album_type": "single",
+      "release_date": "2020-09-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301380633762ec9c64a6d42cf",
+      "uri": "spotify:album:4YFpZFst5jSBhtOawC7snq",
+      "name": "in my head",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2pjQGnHCgkxnrPEbEQ1VeD",
+          "name": "naybr"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a9c940486dd4ada77b0df8a",
+      "uri": "spotify:album:2GGS18CtdqjpRMFPJCs95p",
+      "name": "nova",
+      "album_type": "single",
+      "release_date": "2020-07-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "1qO2kVWrIVuccNvIKXdeMC",
+          "name": "tenebrax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5d4a74ee9f02ce5aeb76106",
+      "uri": "spotify:album:5wdAPjQWgbZ2F0K0w4Zpt1",
+      "name": "nobodies",
+      "album_type": "single",
+      "release_date": "2020-06-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3kwoPkICT4iPkNjr6mL13N",
+          "name": "tokyo rose"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf0bdeb114b3e17d55e0d71b",
+      "uri": "spotify:album:3COJBEGX5Bu3EXbjyGiCCB",
+      "name": "luminare",
+      "album_type": "single",
+      "release_date": "2020-05-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "4KzFG4sXmTDHVYaR9bqpCj",
+          "name": "mr. kristopher"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273112ab9d8e8b1002868e58b50",
+      "uri": "spotify:album:7duLR8VmkMpByz36SqOcdV",
+      "name": "epica",
+      "album_type": "single",
+      "release_date": "2020-04-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c0c3c488b966e39a4db6dd2",
+      "uri": "spotify:album:3DBVAbW78FDSalWygUD3hn",
+      "name": "violet highway",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360f4c4a5b2925ab48b64f69a",
+      "uri": "spotify:album:0AlqMbehzPWUtJXziKM7Rl",
+      "name": "oval sun",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b6953be1c364274d5e7c13b",
+      "uri": "spotify:album:4TyWevTsVStCq9SaIfKSwd",
+      "name": "lyra",
+      "album_type": "single",
+      "release_date": "2018-12-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        },
+        {
+          "spotify_id": "3uN4Qj6UREgOwEOQmY7Mst",
+          "name": "azcii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3d194f3228a540710dfbfb2",
+      "uri": "spotify:album:0TLje6g36feD2iTC2L4UkV",
+      "name": "ultima",
+      "album_type": "single",
+      "release_date": "2018-06-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19zQevA415Jm6ThEtIwVIb",
+          "name": "zabo"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bd77dcf1369ed05bcdd648d",
+      "uri": "spotify:album:6ZgZobFhdwnWiLr0NaO3Dm",
+      "name": "abadango",
+      "album_type": "single",
+      "release_date": "2017-09-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N4XqUMMv5KXtLvCBYEIOt",
+          "name": "k theory"
+        },
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273334601ca9a01543982a38208",
+      "uri": "spotify:album:3TSfNsqIquLg9aS65l0Khw",
+      "name": "alphabet of desire",
+      "album_type": "single",
+      "release_date": "2017-06-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0849889661c74025301c204",
+      "uri": "spotify:album:0RhhryuXxjXLJwQ7hptisI",
+      "name": "transmissions",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308f6a58f00853cab546fe9b0",
+      "uri": "spotify:album:0nUyzpzH11UgDpQhlLuoRj",
+      "name": "libra",
+      "album_type": "single",
+      "release_date": "2017-01-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8b2e9c493b19802a298c627",
+      "uri": "spotify:album:14fBwqXw1gxeBhu62PSVlh",
+      "name": "graveyard",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7d156987c089c8243b6241a",
+      "uri": "spotify:album:1kX6WlKUmOSSCXv6htsGYk",
+      "name": "becoming different",
+      "album_type": "single",
+      "release_date": "2016-02-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346d23c6495c49c2da43279bb",
+      "uri": "spotify:album:0BNDdcR3ML2SzWVbUZNZwX",
+      "name": "power wave",
+      "album_type": "single",
+      "release_date": "2016-02-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a3948496d0b293daae8e45f",
+      "uri": "spotify:album:09h9349IS6rrUtp09QJ3ET",
+      "name": "ghosts",
+      "album_type": "single",
+      "release_date": "2015-03-05",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MTN31B0DYG43RQJ9zT5fq",
+          "name": "social kid"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:10.000Z"
+}

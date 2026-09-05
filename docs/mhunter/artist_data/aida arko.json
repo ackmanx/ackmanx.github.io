@@ -1,0 +1,256 @@
+{
+  "name": "aida arko",
+  "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+  "uri": "spotify:artist:5j2swFp6NPSDgQlCNUCj0v",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb38db863f1692dc26c4618286",
+  "genres": [
+    "hard techno",
+    "acid techno",
+    "techno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bf1f30e7d4949be002c59fd",
+      "uri": "spotify:album:16vEDthbxQWy5QEBE6VY7i",
+      "name": "the art of rebirth",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed5f5f6a01fdeefbe9a4340c",
+      "uri": "spotify:album:2tEi048Hi0EAw67e4jdvM2",
+      "name": "may be life maybe death",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318e264f7c94ab49e8d98b383",
+      "uri": "spotify:album:1SoDhS1qrTAdQysemQ8a4C",
+      "name": "hard disco",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322081d1cb4976e81b9e38cee",
+      "uri": "spotify:album:7kogprtjucZibQZ2JxqEhU",
+      "name": "millennium ep",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "6wqGNZUYQB6BwzBg1HBG7J",
+          "name": "vera grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273924a94aac94d3ff2dedc5b77",
+      "uri": "spotify:album:07Cj6Bk4cpl51GkbxiF13R",
+      "name": "berlin confession tape (aiden remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "4VaY6WQBHBzfUBWnDwcxQ7",
+          "name": "aiden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360029d8c5131a78ba68763d5",
+      "uri": "spotify:album:0tDUciIYnbyG2sw32gr6rL",
+      "name": "hedonistic society (o.b.i. remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "0f87xNphOln9PY4UNcXXr4",
+          "name": "o.b.i."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390f51db9598a6ddfbf597c35",
+      "uri": "spotify:album:5khgEn7qrWKgbc1yb1fYI0",
+      "name": "trinity (fernanda martins remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "52MgoD4ydR3spsWVir9naX",
+          "name": "fernanda martins"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737be9aaca91411ae54c794788",
+      "uri": "spotify:album:2avsBn9lKWa2pjOTwFlL59",
+      "name": "we raise the sun (jacidorex remix)",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "0XSNxwt21dxcFTxaYtQjwe",
+          "name": "jacidorex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354186993204be671c67ee666",
+      "uri": "spotify:album:12gkeT0d51oxF9a4Ulb4xB",
+      "name": "hedonistic society",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f6f9339c38b7e267a6f6d5c",
+      "uri": "spotify:album:5ga5loBfDA4nyOuPYaHg4o",
+      "name": "under you above the galvanic sky",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b0941e82eaac50b3171abfb",
+      "uri": "spotify:album:79u56GczZSYzb5mBQ2KECc",
+      "name": "renaissance",
+      "album_type": "single",
+      "release_date": "2020-12-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db95077ddd16b18f8838878a",
+      "uri": "spotify:album:6ruYEm7fO4xUrB6XRNtS3L",
+      "name": "accelerate",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "31CUMBN5V3CLa6tH5FSXTm",
+          "name": "alecid"
+        },
+        {
+          "spotify_id": "0Oc64Jg3JoP3Qb7WYoQ8po",
+          "name": "annika stein"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfe7f1347737b9afa36a797a",
+      "uri": "spotify:album:6GonTm6oyZ7gmrDAkE4EWq",
+      "name": "prolo therapy (fruhwerk remix)",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        },
+        {
+          "spotify_id": "7B0VnUS4cZggX5pdt0f0ml",
+          "name": "fruhwerk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c14fa211663796d64f32636e",
+      "uri": "spotify:album:35XelRSGlaE3QEweFmXkmq",
+      "name": "story of my maker",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5j2swFp6NPSDgQlCNUCj0v",
+          "name": "aida arko"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:03.000Z"
+}

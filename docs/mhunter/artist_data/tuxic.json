@@ -1,0 +1,85 @@
+{
+  "name": "tuxic",
+  "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+  "uri": "spotify:artist:75D4vmp7cWVzMCe6VqiHbK",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9efb90adaa57f2ea21bfb91e",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372f45e01ba2ab4b1cc7581a5",
+      "uri": "spotify:album:2cjRSswAkw4K5f5UHPCulv",
+      "name": "anecdote",
+      "album_type": "single",
+      "release_date": "2021-12-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+          "name": "tuxic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1cc7f3b6e47d720911f5022",
+      "uri": "spotify:album:3CZj8hcApvFiDkEszZR6Ay",
+      "name": "void",
+      "album_type": "single",
+      "release_date": "2021-10-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+          "name": "tuxic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c71a811096adedad7a9df58c",
+      "uri": "spotify:album:16IEqdvr1zO0HMy9HkdWgx",
+      "name": "the little things",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+          "name": "tuxic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273881891f09896178104159fa3",
+      "uri": "spotify:album:6cF6plY3ZbddYlIrzZyurO",
+      "name": "oblivion",
+      "album_type": "album",
+      "release_date": "2018-06-04",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+          "name": "tuxic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3a1a68267ec8d9967155ff3",
+      "uri": "spotify:album:1qcaDvBCmENv6k87jZ3cZg",
+      "name": "unrelated",
+      "album_type": "single",
+      "release_date": "2017-05-04",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "75D4vmp7cWVzMCe6VqiHbK",
+          "name": "tuxic"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:34.000Z"
+}

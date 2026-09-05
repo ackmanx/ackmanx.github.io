@@ -1,0 +1,25 @@
+{
+  "name": "nathan bianchi",
+  "spotify_id": "4P4RoqvxYGhfGOvf2tl0aB",
+  "uri": "spotify:artist:4P4RoqvxYGhfGOvf2tl0aB",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273104345a2bc41a7b695e3adb8",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273104345a2bc41a7b695e3adb8",
+      "uri": "spotify:album:4V9XbcqvpbthapKZj3NLkp",
+      "name": "wisdom",
+      "album_type": "album",
+      "release_date": "2019-07-18",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4P4RoqvxYGhfGOvf2tl0aB",
+          "name": "nathan bianchi"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:34.000Z"
+}

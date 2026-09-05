@@ -1,0 +1,295 @@
+{
+  "name": "feather",
+  "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+  "uri": "spotify:artist:0ouPTYWjHfprRwZH76ivWi",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1e03c0a4c2d6f4d7f829231a",
+  "genres": [
+    "melodic bass",
+    "future bass",
+    "chillstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b73737d9e1dd9da15a69c186",
+      "uri": "spotify:album:7fBoElXDqyGbW83yl94RQA",
+      "name": "human nature",
+      "album_type": "single",
+      "release_date": "2026-08-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "6Ro6AlBLndB1ttsLAOZP6h",
+          "name": "gabriel eli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273222e8d36193eecbb0c34a0bb",
+      "uri": "spotify:album:07ATsMXWDmpUgYSmrGJKUm",
+      "name": "space",
+      "album_type": "single",
+      "release_date": "2026-07-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ce9afa1db7e56c79a601381",
+      "uri": "spotify:album:70TwQ2MHvpxw5POIn67l8N",
+      "name": "growing up",
+      "album_type": "single",
+      "release_date": "2026-06-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "1NzEiFsh3CMVDNjahLbv78",
+          "name": "bo weber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352f59600fa090a1c91fb54f5",
+      "uri": "spotify:album:5FtJZnoRIfq8SIeQUC4JmA",
+      "name": "we are for each other",
+      "album_type": "album",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342eaef6390c3bba02318c14e",
+      "uri": "spotify:album:27dKgh5689K4YHzO4TpfC6",
+      "name": "dusk",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "1fJEGMVis9yF9lXVAsM7LD",
+          "name": "44hydra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab8d407201ce4e7871a97e5",
+      "uri": "spotify:album:6BAUkIKEfrecJ9mm06K7Vs",
+      "name": "glaciers",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "4yqp9NiO7zJLy1eHzb54Ro",
+          "name": "lockbox"
+        },
+        {
+          "spotify_id": "66tyfeU6ZerzudGCX9mXcg",
+          "name": "trøves"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1312307cf0ecafd53d115bb",
+      "uri": "spotify:album:4ZbcasNoPMLycmDhiQb3dW",
+      "name": "we are for each other",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "4sndsaX3f8P0Hscf3IJRoZ",
+          "name": "herflex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d4ca5a23259235fb115fd0f",
+      "uri": "spotify:album:6xTNn6TYy1yPw5VemFxZOn",
+      "name": "fixing me",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "0oc2KOUdSDa66iXVVeFC4A",
+          "name": "segø"
+        },
+        {
+          "spotify_id": "5vZ5k7ySgoaLpLdZB98nfo",
+          "name": "rajiv dhall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f46a7440f57f47ec875419fc",
+      "uri": "spotify:album:6jW7jfw6BgscV7TvKj0c19",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "4bzsJU6JABM86KwBFktXDe",
+          "name": "lumasi"
+        },
+        {
+          "spotify_id": "6Ro6AlBLndB1ttsLAOZP6h",
+          "name": "gabriel eli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1d673b498a491343444119",
+      "uri": "spotify:album:30Y76Mul8w0usNswZdfL0S",
+      "name": "let go",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "29siAJ78u7y79BYOyh0lbp",
+          "name": "luma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aef77c6f12836488090e82f4",
+      "uri": "spotify:album:286ZBl2qHOZ8EstECCdwwm",
+      "name": "wasted time",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        },
+        {
+          "spotify_id": "5CiCfM47n3cXeWvxtn5TVd",
+          "name": "badnights"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d05ed45fb92f7586fd32562",
+      "uri": "spotify:album:3gsmj9mbNeDFqMftFYvu4L",
+      "name": "becoming (remixes)",
+      "album_type": "album",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273272fb47d5b4ca0d013e5bc65",
+      "uri": "spotify:album:002hMu6uJDan1XKVp3pmnb",
+      "name": "becoming",
+      "album_type": "single",
+      "release_date": "2021-01-13",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1ce80cac3b7acaf38205174",
+      "uri": "spotify:album:2CgIsFtI3UX3vXXHHizDed",
+      "name": "gtfo (feather remix)",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "66tyfeU6ZerzudGCX9mXcg",
+          "name": "trøves"
+        },
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bed526db8cf28305e80b6ba",
+      "uri": "spotify:album:39ShkYwpyp7LJ3Y2Kx6B6U",
+      "name": "little bit (feather remix)",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6dC0rIJNLSFZwqckLgXJ8p",
+          "name": "timeflies"
+        },
+        {
+          "spotify_id": "0ouPTYWjHfprRwZH76ivWi",
+          "name": "feather"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:21.000Z"
+}

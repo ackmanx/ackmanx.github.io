@@ -1,0 +1,393 @@
+{
+  "name": "cookie monsta",
+  "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+  "uri": "spotify:artist:2uGNBmaWvxF6HAcWuhK7OP",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6f8d110bef3c5c8ec2d3b4e7",
+  "genres": [
+    "dubstep",
+    "dub",
+    "drumstep",
+    "deathstep",
+    "riddim"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bdd560c4ff4a2212b9d06aa",
+      "uri": "spotify:album:5lxwsxClvVt8C4XOxtTGjV",
+      "name": "noisy boys",
+      "album_type": "single",
+      "release_date": "2024-10-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273070763401bfa229ecdfd6338",
+      "uri": "spotify:album:25x7GhrCar9ECYgjUjiYcg",
+      "name": "i'm delighted",
+      "album_type": "single",
+      "release_date": "2022-09-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3UCbp6D1lvILlxRJT9LnFa",
+          "name": "koven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bee3f52dde96d580074247b4",
+      "uri": "spotify:album:6ATUyo0o674T89dhipZXle",
+      "name": "show me (cookie monsta remix)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8eb0f11b3924b0ef82cbf22",
+      "uri": "spotify:album:4yDfqMUAtyLwqDX0Jrkikz",
+      "name": "fade to black",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b956cdfd00e3df7b825e90ae",
+      "uri": "spotify:album:07VwerikaE8NuSlQphrc7M",
+      "name": "yow momma (shapes remix)",
+      "album_type": "single",
+      "release_date": "2019-09-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "1bZ8OZoO6E3KRtXQrYVNaw",
+          "name": "shapes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f958a5bd21b74059311edbc",
+      "uri": "spotify:album:08ZhquTPt7TP8VvNDpUOp6",
+      "name": "the witch hunt",
+      "album_type": "single",
+      "release_date": "2019-05-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e865c6ed8e3b64af69e9408f",
+      "uri": "spotify:album:6PABBmZkXeWlivrSlFVl4g",
+      "name": "you're not from around here",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737038e9199ec1be337ae10ce1",
+      "uri": "spotify:album:6QBlj9efy5IRE30P6FMrCt",
+      "name": "elevate",
+      "album_type": "single",
+      "release_date": "2018-11-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398935aa352a4e9babfe31b44",
+      "uri": "spotify:album:0sJ09xeV6Ds7yFrRTLuzEl",
+      "name": "ruff 2018",
+      "album_type": "single",
+      "release_date": "2018-05-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab4dcae8ca40bac7d49087f3",
+      "uri": "spotify:album:3wq0nV3cqkTFNXKRVAAd83",
+      "name": "xterminate",
+      "album_type": "single",
+      "release_date": "2018-04-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f5833152391e699288c4e10",
+      "uri": "spotify:album:57kxKUFs1Cqt8BgU1d0m5b",
+      "name": "monster / angel (falling in love)",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a148f0859290e05fcb858d2",
+      "uri": "spotify:album:5qRHRZUKesLbAyv7F2XPs9",
+      "name": "them",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c4ff7d077e7f264731ff7e8",
+      "uri": "spotify:album:156DNjcx9xfP1Pgr2mdKT0",
+      "name": "eliminate target / beast mode",
+      "album_type": "single",
+      "release_date": "2016-09-27",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaa95f730ee774033e95c70e",
+      "uri": "spotify:album:6IYNKj3cARBeiuVeqEFuU0",
+      "name": "wobble ep",
+      "album_type": "single",
+      "release_date": "2016-04-08",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f5b5ae0b548107d988665cd",
+      "uri": "spotify:album:79zWO9ZhCYbUrlw9YYDVyJ",
+      "name": "dem girlzz / darkside (666)",
+      "album_type": "single",
+      "release_date": "2015-11-20",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ce251c855a0c27fa67301b5",
+      "uri": "spotify:album:3O93p0ZtHQZ3IloiAibwwz",
+      "name": "time to party",
+      "album_type": "single",
+      "release_date": "2014-06-16",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c582801264a28ed7ff4a55d0",
+      "uri": "spotify:album:5wQ9YwuznjR7pOa79qLRyv",
+      "name": "blame it on the dog / big booty bass",
+      "album_type": "single",
+      "release_date": "2013-12-15",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730981f20eba8ecc13e7f6d0f4",
+      "uri": "spotify:album:1g6ExbKg8JbQHCEN8vbtWR",
+      "name": "circus two",
+      "album_type": "album",
+      "release_date": "2013-05-13",
+      "release_year": "2013",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6ZuVz0OuJlW9B717b5bL7R",
+          "name": "circus records"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d10c8231c11430a621572980",
+      "uri": "spotify:album:4xl7knJKfWOEVZDKPCEgKq",
+      "name": "yow mamma",
+      "album_type": "single",
+      "release_date": "2013-02-10",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2f25bdce30da2375cd7c8bf",
+      "uri": "spotify:album:6D3tOrwhcws2j85xdQgYKt",
+      "name": "the shady bunch",
+      "album_type": "single",
+      "release_date": "2012-12-16",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eb570986c88a257ace9fa49",
+      "uri": "spotify:album:7cu4TXpHwHgLOvWvKyTBAn",
+      "name": "riot!",
+      "album_type": "single",
+      "release_date": "2012-04-02",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e726ac94b0ecafde0284d8c5",
+      "uri": "spotify:album:5Qa5CzyDwrgkqWDTYTYeKi",
+      "name": "me want cookie",
+      "album_type": "single",
+      "release_date": "2011-05-16",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325bed8b20fe90cb919af8d3d",
+      "uri": "spotify:album:3ECE75kebApKQ3XCiPjbrE",
+      "name": "ginger pubes / blurgh!",
+      "album_type": "single",
+      "release_date": "2010-07-19",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:50.000Z"
+}

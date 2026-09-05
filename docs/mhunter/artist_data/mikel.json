@@ -1,0 +1,363 @@
+{
+  "name": "mikel",
+  "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+  "uri": "spotify:artist:5MboRLcEpLbsshOx64OdA6",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6b5d42cf83b0df8d60723517",
+  "genres": [
+    "lo-fi"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dee1ded0a01363bcb4d98db7",
+      "uri": "spotify:album:5G3DodHzKxnc6OqUoXP79R",
+      "name": "sacred beasts ii",
+      "album_type": "single",
+      "release_date": "2026-03-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc290e3f41dc39ff633cda32",
+      "uri": "spotify:album:10R9WgRjjyyz2C3zrP0I4z",
+      "name": "timelapse",
+      "album_type": "single",
+      "release_date": "2026-01-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2kEI3RngN39G6UVwnXh4Ob",
+          "name": "brenda sue"
+        },
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f24bd1645799f356a6cadd0",
+      "uri": "spotify:album:1ta9HAz46yLgIGsubhFOjN",
+      "name": "poké & chill 2",
+      "album_type": "album",
+      "release_date": "2025-09-23",
+      "release_year": "2025",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334dde023f48b00b48c96b89d",
+      "uri": "spotify:album:56SdskwNIRVy2ZbVTpT5Gu",
+      "name": "middle-earth & chill",
+      "album_type": "album",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ac47b0eafedfc3915ad37a2",
+      "uri": "spotify:album:4tlDFKHptS4itDO6LNKZYG",
+      "name": "concerning hobbits",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363fc0642a12eb57532dcae69",
+      "uri": "spotify:album:1ZyB7dGDHu1KwTKDIWkPZn",
+      "name": "purple sky",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2kEI3RngN39G6UVwnXh4Ob",
+          "name": "brenda sue"
+        },
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d762bb845353a039c62d8e5f",
+      "uri": "spotify:album:4RUezhdlvoKJRYvxtgkDJs",
+      "name": "floating",
+      "album_type": "album",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ffbda499f690262f610ebcc",
+      "uri": "spotify:album:4LQkfvZGXdq0deKJ3IJLLO",
+      "name": "sanctuary",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1f681c8ddcd3500ff6836d9",
+      "uri": "spotify:album:3pySLDnOcmZITqCNk6fv3f",
+      "name": "passage",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273823cd0727f025e7fd4cd6495",
+      "uri": "spotify:album:2a15PtLwMSfMVOWJUcM4Ia",
+      "name": "zelda & chill iii",
+      "album_type": "album",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e78357a13417b6c50e7430b4",
+      "uri": "spotify:album:0pDymOAJ2y0rjRc8kZytDU",
+      "name": "zelda's medley",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f28c483fc36279f8eb0927c",
+      "uri": "spotify:album:1fxB8UCB4qxuiD3R6N6ALZ",
+      "name": "samurai, gees & robots",
+      "album_type": "single",
+      "release_date": "2021-07-22",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc861f0b3bdf2ba9ee4da9d7",
+      "uri": "spotify:album:0HWfO6emBz4W6WXOBpTLHE",
+      "name": "the ghibli tape",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "7F93sQ33frkSEdmSunHEcP",
+          "name": "jokabi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730635bc3fb0c9a16db3f20dad",
+      "uri": "spotify:album:7rAFbEN2F1mClv1kPwzDxy",
+      "name": "poison & antidote",
+      "album_type": "single",
+      "release_date": "2020-12-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2kEI3RngN39G6UVwnXh4Ob",
+          "name": "brenda sue"
+        },
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340c3c834994aeee1d8f6f4c8",
+      "uri": "spotify:album:0N0noai9OQs1rYEaS47vJw",
+      "name": "zelda & chill ii",
+      "album_type": "album",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ded6cb240d724245f64c2eee",
+      "uri": "spotify:album:1nwjc9TrjTMdugHRd6DQxy",
+      "name": "pink penguin",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d2ec1710212f77eb50cc130",
+      "uri": "spotify:album:25QNN5TocI549EsVkmb9eR",
+      "name": "gliding",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c28d3e7bb6afa28b80540610",
+      "uri": "spotify:album:7xHzmjQ7ZO14OBmlX34BF0",
+      "name": "burazāzu",
+      "album_type": "single",
+      "release_date": "2019-12-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735557509707f246b85561cd6a",
+      "uri": "spotify:album:4lBMa9JEuCSIs3NkPEIwvN",
+      "name": "poké & chill",
+      "album_type": "album",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbd9b41a77b7bb918a820541",
+      "uri": "spotify:album:3oNO1P0Qlr4oSlMA2MIj67",
+      "name": "zelda & chill",
+      "album_type": "album",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        },
+        {
+          "spotify_id": "1T7zBkQCOCacKjbnmFX7cp",
+          "name": "gamechops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d43abf167e319ceaf3ce94d",
+      "uri": "spotify:album:1Qdmbbi3R1FlpH8IjjvpL1",
+      "name": "shuffle",
+      "album_type": "single",
+      "release_date": "2018-08-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5MboRLcEpLbsshOx64OdA6",
+          "name": "mikel"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:30.000Z"
+}

@@ -1,0 +1,143 @@
+{
+  "name": "punish yourself",
+  "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+  "uri": "spotify:artist:6DXGR8jyizbhq32c22FZvZ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4d8a0974d3abf84ff01303f8",
+  "genres": [
+    "industrial metal",
+    "industrial rock",
+    "industrial",
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e1b57fee287b69ee04c7f36",
+      "uri": "spotify:album:2yZuO4W3q12Dx1NRanEAkR",
+      "name": "spin the pig",
+      "album_type": "album",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308e56c5c1d10a548d58745ca",
+      "uri": "spotify:album:1rcVgRWgByjwHM7M6L5VYv",
+      "name": "holiday in guadalajara",
+      "album_type": "album",
+      "release_date": "2013-10-07",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273069266ff3d346c6e523a7662",
+      "uri": "spotify:album:3DQPlEA1momrIIkiNzTN65",
+      "name": "peacemakers inc. ii",
+      "album_type": "album",
+      "release_date": "2010-10-01",
+      "release_year": "2010",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2vGQgXmRgRY0h3D1Y8ndYu",
+          "name": "chrysalide"
+        },
+        {
+          "spotify_id": "2y3AKmpisJLjpJ7JRIt43I",
+          "name": "ambassador21"
+        },
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a782267c94f836d629fa097f",
+      "uri": "spotify:album:3y0VqXog4FHJdq8pIQ6Z8B",
+      "name": "cult movie",
+      "album_type": "album",
+      "release_date": "2007-09-03",
+      "release_year": "2007",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fa0d6b64fa976f732155645",
+      "uri": "spotify:album:207rA1D8i3pGDALxE0sALN",
+      "name": "gore baby gore",
+      "album_type": "album",
+      "release_date": "2006-04-24",
+      "release_year": "2006",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273701f94bb527aa6337d635292",
+      "uri": "spotify:album:6Bb1lqcOS8XkBYgNyFBZmQ",
+      "name": "sexplosive locomotive",
+      "album_type": "album",
+      "release_date": "2005-05-17",
+      "release_year": "2005",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a6b1f310b8154d96cdc2c44",
+      "uri": "spotify:album:164r4JovvRIOVmJPtITcfd",
+      "name": "behind the city lights: live",
+      "album_type": "album",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e09026230a65bddf7271acc",
+      "uri": "spotify:album:5xLlN5gr0QEnzklv63ZtsP",
+      "name": "crypt 1996-2002",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "6DXGR8jyizbhq32c22FZvZ",
+          "name": "punish yourself"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:56.000Z"
+}

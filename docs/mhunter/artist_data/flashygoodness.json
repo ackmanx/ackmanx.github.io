@@ -1,0 +1,157 @@
+{
+  "name": "flashygoodness",
+  "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+  "uri": "spotify:artist:6yol8STGLKg1lbLvJ5jJqW",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2730595d535112e748bd3ba387d",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abb0d303379d27db1c1b1438",
+      "uri": "spotify:album:2qNAeaWAF03RSkDMI4cgB9",
+      "name": "dreams of aether (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2026-04-01",
+      "release_year": "2026",
+      "total_tracks": 39,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        },
+        {
+          "spotify_id": "2IYbtGDwb3VdqBAE8zctBu",
+          "name": "resoforce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c567e0472728084d0748f82",
+      "uri": "spotify:album:1827C5dhaA2jbo5bOizVP5",
+      "name": "dungeons of aether: fm tracks",
+      "album_type": "album",
+      "release_date": "2023-11-27",
+      "release_year": "2023",
+      "total_tracks": 40,
+      "artists": [
+        {
+          "spotify_id": "2IYbtGDwb3VdqBAE8zctBu",
+          "name": "resoforce"
+        },
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f164d6784fbaa33ef6ab5267",
+      "uri": "spotify:album:5qOEPD9YZ07Veq8UFZTbsJ",
+      "name": "rivals of aether (expansion tracks)",
+      "album_type": "album",
+      "release_date": "2022",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        },
+        {
+          "spotify_id": "2IYbtGDwb3VdqBAE8zctBu",
+          "name": "resoforce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730595d535112e748bd3ba387d",
+      "uri": "spotify:album:6bhkfaXbsP7yyk724bkA1X",
+      "name": "rivals of aether (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2021-06-27",
+      "release_year": "2021",
+      "total_tracks": 58,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316016f57ab41872154769fc6",
+      "uri": "spotify:album:6B0DiRHHHtzreY0bux0Beo",
+      "name": "grid defender 2 (original soundtrack)",
+      "album_type": "single",
+      "release_date": "2016-04-07",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b361de9d7328e6624983724",
+      "uri": "spotify:album:197yzHHwA7yajtYhVqJsap",
+      "name": "bean dreams (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2015-06-04",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ccae18e19b5018bf0c524b8",
+      "uri": "spotify:album:2balovju6Q5KLJzyVzjanL",
+      "name": "overpowered (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2014-11-17",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5f2e87e0fa46445b9008365",
+      "uri": "spotify:album:7KMvu2EKPOnsnLgv9f919P",
+      "name": "super secret service (original soundtrack)",
+      "album_type": "single",
+      "release_date": "2014-11-04",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c316b95a9396b49efc827f64",
+      "uri": "spotify:album:1BhxcmomhUniLCu173Rpn4",
+      "name": "tower of heaven (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2010-07-24",
+      "release_year": "2010",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6yol8STGLKg1lbLvJ5jJqW",
+          "name": "flashygoodness"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:46.000Z"
+}

@@ -1,0 +1,989 @@
+{
+  "name": "oliverse",
+  "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+  "uri": "spotify:artist:3fFMSweDNwFGyHcxjN7MWp",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4bd8f466e741304c42bca374",
+  "genres": [
+    "dubstep",
+    "riddim",
+    "drumstep",
+    "drum and bass",
+    "bass music",
+    "melodic bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd5c53ee785fb60e8c80d283",
+      "uri": "spotify:album:5MjEXvIxWNBuVxiZiaPOeM",
+      "name": "risk it all",
+      "album_type": "single",
+      "release_date": "2026-08-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddc83c4e9815e40e3872e57c",
+      "uri": "spotify:album:5LTh8DfneuDw0kuA4gWzDz",
+      "name": "secret for you",
+      "album_type": "single",
+      "release_date": "2026-04-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "41tjMmR8CEbGeTGA4t7kZh",
+          "name": "molly morgan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e490134d2c3a282da04110bc",
+      "uri": "spotify:album:06K7RkgunV8m8Lonc9DtU4",
+      "name": "feed the fire",
+      "album_type": "single",
+      "release_date": "2026-03-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e2cbf695276dcf0c8a99878",
+      "uri": "spotify:album:3xjHrhvKu9iBpdWhVxX9Ui",
+      "name": "psycho",
+      "album_type": "single",
+      "release_date": "2026-02-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "04kVAoKNfyQrbp3XqhAkOB",
+          "name": "laud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d25e8846e2c6bf81049a2404",
+      "uri": "spotify:album:26JpOuYZeyN0ker0XjK6Ih",
+      "name": "adrenaline",
+      "album_type": "single",
+      "release_date": "2025-10-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "7kKL0Z6mypwMkgCevMfuQ6",
+          "name": "møøne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ed699139e965caded649b1d",
+      "uri": "spotify:album:6VnNUPwXQdoHMH48J7E8kv",
+      "name": "the feeling (nemexi remix)",
+      "album_type": "single",
+      "release_date": "2025-08-07",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "5wbwCmh4iskezsryLRGWEH",
+          "name": "nemexi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273912560d2622e5500818f2367",
+      "uri": "spotify:album:2nbddblRCfy4MTsOwVoutS",
+      "name": "motion",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "24kY0bUku58QhWv5WFFXaf",
+          "name": "reaper"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347dd13feb2dbbc2cd2c1500d",
+      "uri": "spotify:album:33jVgupLOP3SgVTAPj4eWv",
+      "name": "illusions",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fb10e3fd2c1325e1a6c762a",
+      "uri": "spotify:album:0oS0q47PgZZNLTTb2s4Kn9",
+      "name": "rendezvous",
+      "album_type": "single",
+      "release_date": "2025-04-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "6AKiapdvTAXauBNZ7DxS3z",
+          "name": "gilliad"
+        },
+        {
+          "spotify_id": "3IDGSw4dPbHMSnd93gkeXG",
+          "name": "nina sung"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd12f6d3f87a2325ce9c6a69",
+      "uri": "spotify:album:1SktQYPn7qNU8dJJEI9XFz",
+      "name": "nothing to lose",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730456a6dcb1d6b2ab4501c362",
+      "uri": "spotify:album:3bGX9svRL7EBjsL3bevckQ",
+      "name": "pulse (pump up the speakers)",
+      "album_type": "single",
+      "release_date": "2025-02-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae425e3e26a152ed80ac744b",
+      "uri": "spotify:album:6YkDy06eSwICCLnjoVXkmc",
+      "name": "how will i know",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0b6f1635333f459140a306f",
+      "uri": "spotify:album:1jxhvgeN0ZYfYogPpRSVwJ",
+      "name": "wish.",
+      "album_type": "single",
+      "release_date": "2024-07-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "3tWLnX4ZbP9FJfwMykic5e",
+          "name": "ellii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385c3bd96259eed0daaea4dcf",
+      "uri": "spotify:album:7BNpAx5SgU4vEmoHnHjpcE",
+      "name": "take me higher",
+      "album_type": "single",
+      "release_date": "2024-06-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c49e96725ed3a86a486bc06",
+      "uri": "spotify:album:12ymkqReccICQCwC8TAJHN",
+      "name": "lonely",
+      "album_type": "single",
+      "release_date": "2024-05-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "51iAmfBcr2WFpPopXyX4vr",
+          "name": "hannah avison"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735124dee086c0b955d9f236c8",
+      "uri": "spotify:album:6WSabbkOTlWYcvdCHbaMfx",
+      "name": "play with fire (must die! remix)",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318ca50f414043bd11986c75c",
+      "uri": "spotify:album:6LwaJyxLwig77g4mywoSoR",
+      "name": "this could be us (franky nuts & oliverse remix)",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3YZPramylP3cGeVkbykhVZ",
+          "name": "franky nuts"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ecbaefa9ce02cd7a4ed91de",
+      "uri": "spotify:album:1tprRh84jgUZseql67flOx",
+      "name": "the feeling",
+      "album_type": "single",
+      "release_date": "2024-03-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c522fac4b3302c1b420ef738",
+      "uri": "spotify:album:0fqntVZUrEWGLrHwNDwp1Q",
+      "name": "owe me love",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "51iAmfBcr2WFpPopXyX4vr",
+          "name": "hannah avison"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379df5e85ca5a88abdd2fab64",
+      "uri": "spotify:album:2vkDTNKkicwu4aSyEgH3qZ",
+      "name": "new color (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "14byx2nRysWNtgauCXscKT",
+          "name": "pls&ty"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311edb9e5b60c634536de58b1",
+      "uri": "spotify:album:2TvRUF22ev5wUBbTPojZdD",
+      "name": "get high (vip)",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e475f03e5538f3ac03561330",
+      "uri": "spotify:album:6HZ15x9KUClU0XcOcZ5za5",
+      "name": "dream about you",
+      "album_type": "single",
+      "release_date": "2023-10-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XW7mqhbaQnRtHmwfAVg64",
+          "name": "tisoki"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad9256ce7722bb5102e90a40",
+      "uri": "spotify:album:6gtC90HlT3TFBLJytC5CoT",
+      "name": "eat your heart out (acoustic version)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "3IoL23eRnUfAwnOTsbTLVp",
+          "name": "dani king"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734690037202b9b073b4b86b8a",
+      "uri": "spotify:album:2f8DPiKpgp6NHcrK8VZNc1",
+      "name": "eat your heart out",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "3IoL23eRnUfAwnOTsbTLVp",
+          "name": "dani king"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356f7117026083706fcc34d95",
+      "uri": "spotify:album:52zwNdGJNhvzgnl080Mwu5",
+      "name": "at the same time",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4e90b9fbc0beb60d83fe3b1",
+      "uri": "spotify:album:4FUNkhmQtPXPRalIUey6d5",
+      "name": "skin / emotion",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358526bc47ff98c790a3cccee",
+      "uri": "spotify:album:7iMjxxznavlWa1Sv2jLby5",
+      "name": "turbulence",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393ec2c2fbe4e046bd14be0cd",
+      "uri": "spotify:album:65gjg8bKt4Gl8QS4EXUquC",
+      "name": "don't trip",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301ba9bc0a73e65f253e4032d",
+      "uri": "spotify:album:48APBMv5wAOqPojRA4Sjqx",
+      "name": "new life",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XW7mqhbaQnRtHmwfAVg64",
+          "name": "tisoki"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2a49616c61ea625aa6649c1",
+      "uri": "spotify:album:7ABSyP7pBZJtcfx93L93IC",
+      "name": "counter culture ep",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cad835591b963eb880ad270",
+      "uri": "spotify:album:23VM3m7qyVcTsmcncHallK",
+      "name": "velvet paradise (franky nuts & oliverse remix)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "3YZPramylP3cGeVkbykhVZ",
+          "name": "franky nuts"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e91058c5cc7058881f73c3d1",
+      "uri": "spotify:album:5oBhLCEbpEBVsTCjqzu95u",
+      "name": "play with fire",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7b3389885007262fcac6cad",
+      "uri": "spotify:album:1UNF9NKfJ4nyzRotf1wcOo",
+      "name": "stars (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2021-03-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3UCbp6D1lvILlxRJT9LnFa",
+          "name": "koven"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320e5ee120421777e0ee8665f",
+      "uri": "spotify:album:10SFEx3wMSf4XhfRALDeFO",
+      "name": "tritone ep",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        },
+        {
+          "spotify_id": "3YZPramylP3cGeVkbykhVZ",
+          "name": "franky nuts"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5848c3b08bcd3dce33e541c",
+      "uri": "spotify:album:5iL66rtAS4BMstugxgWA9M",
+      "name": "don't wake me up",
+      "album_type": "single",
+      "release_date": "2020-10-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376747b371a5e6e6d91e53c59",
+      "uri": "spotify:album:4CFDbrmzc9eBz6yOKHRHIs",
+      "name": "frwrd",
+      "album_type": "single",
+      "release_date": "2020-06-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NV5eY4Jzg4ldg2ikGnV4n",
+          "name": "virus syndicate"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273674f679c8f646e2538e53027",
+      "uri": "spotify:album:7Kpfs71ArmVGcSUOde2IVx",
+      "name": "lost (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2020-04-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mO3Yf5XIPHfAbHh8yWLFk",
+          "name": "phaseone"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738784480bc10b6344c6865ae6",
+      "uri": "spotify:album:5RuINdBpdqE3jEvgTcN8LJ",
+      "name": "take me down",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273051de50fbe20b88e01dff0ec",
+      "uri": "spotify:album:5zWyMvuAvb2YuXtxssGesH",
+      "name": "lone wolf (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2019-10-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334a4cc492d0056af0f971ef0",
+      "uri": "spotify:album:2SbfVbU6b69IaJKkcPPNVB",
+      "name": "never know",
+      "album_type": "single",
+      "release_date": "2019-09-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ZgQaqSWlv12QAgT4CdopF",
+          "name": "myro"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273102e94353846b48a75432c54",
+      "uri": "spotify:album:0KTqJBy8FoHx03632L3zPO",
+      "name": "unspoken (muzz and oliverse remix)",
+      "album_type": "single",
+      "release_date": "2019-08-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        },
+        {
+          "spotify_id": "4UNnRb4LN2hGtbtMfPzMhg",
+          "name": "muzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273424e4e9fb11923cd37612bc9",
+      "uri": "spotify:album:3BE5QEKsw5KDaZDwbByuXG",
+      "name": "outerworld ep",
+      "album_type": "single",
+      "release_date": "2019-06-05",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a2c0b619ca712932b8e911e",
+      "uri": "spotify:album:7ACHeF2SUHpYUP99gIG8mE",
+      "name": "dog eat dog oliverse remix",
+      "album_type": "single",
+      "release_date": "2019-05-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6SJnjpekgnONgNtxKeMP8m",
+          "name": "dodge & fuski"
+        },
+        {
+          "spotify_id": "4820AP0lvBGJjSK0PXgZgo",
+          "name": "ivory"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c9a56edb8e9bb944d6f86dc",
+      "uri": "spotify:album:2RangnqafSMli2o8BJGWEA",
+      "name": "dance for me",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322d8cb1c9d3c57137b546cc9",
+      "uri": "spotify:album:770VQZvNlfcZj3sD4G3DSr",
+      "name": "dimension ep",
+      "album_type": "single",
+      "release_date": "2018-10-03",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0a73c6b6f878baec314ac4b",
+      "uri": "spotify:album:6lB1FVzeyCLZGwvnDJs9Zf",
+      "name": "get 2 me",
+      "album_type": "single",
+      "release_date": "2018-04-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301bca6fff52e2931faab2ffc",
+      "uri": "spotify:album:3ztKBG0AFCOvMfbCi3y4IE",
+      "name": "leave them behind (tisoki remix)",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303b8fd79b0e265f720143d65",
+      "uri": "spotify:album:3cJLJm56KjMJTYICtSaXAY",
+      "name": "higher (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2018-01-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5zYJziKktyqWwmoAWXrShP",
+          "name": "modestep"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354052e1bfc21bf7c542028a8",
+      "uri": "spotify:album:6sUgywVXnwIxztLDkFHdNC",
+      "name": "visions - ep",
+      "album_type": "single",
+      "release_date": "2017-10-24",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d361116b0dfc6c476097dcd",
+      "uri": "spotify:album:6wCpCsERKGDN5IKpCQNjJ9",
+      "name": "where did the love go",
+      "album_type": "single",
+      "release_date": "2017-07-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331a7e2aee55c78702a884a77",
+      "uri": "spotify:album:1OmyN6WSP6QmGdiMjUOf9F",
+      "name": "friends forever",
+      "album_type": "single",
+      "release_date": "2017-04-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XW7mqhbaQnRtHmwfAVg64",
+          "name": "tisoki"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcfb4064a20466a1b4717449",
+      "uri": "spotify:album:0fMRHt0yBioxCo9dxR8tLv",
+      "name": "imagination",
+      "album_type": "single",
+      "release_date": "2016-12-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733760655a7d4151e8209b2d12",
+      "uri": "spotify:album:4vTgGf8HJZN9XSwMenrLfQ",
+      "name": "hydrate",
+      "album_type": "single",
+      "release_date": "2016-08-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273470f753723ad669df93733ba",
+      "uri": "spotify:album:4UTwGXh88ubfTSHNnweGnh",
+      "name": "hold it down",
+      "album_type": "single",
+      "release_date": "2016-04-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be78b628af95b7152b4b8990",
+      "uri": "spotify:album:3RkGCnhukcbT73MeLvCLoq",
+      "name": "mountains",
+      "album_type": "single",
+      "release_date": "2015-11-27",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319d00e4873b70ce66fb31e50",
+      "uri": "spotify:album:3VKHcgifSzGSVBc6J9YFBb",
+      "name": "body talk",
+      "album_type": "single",
+      "release_date": "2015-08-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:01.000Z"
+}

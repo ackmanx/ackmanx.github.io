@@ -1,0 +1,150 @@
+{
+  "name": "made by tsuki",
+  "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+  "uri": "spotify:artist:4m4hXRwfSmgdC6MRC4OhPo",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd6706bda4f1c2e9dbb14ac8d",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273376a4fbca00c8a6b853509b7",
+      "uri": "spotify:album:10bfca640cz57AwxSulenc",
+      "name": "bloodsport",
+      "album_type": "single",
+      "release_date": "2021-07-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "2fl5ukvYoPJoLG8oMMSLdM",
+          "name": "huzu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f24969dd8638b1f8a8388ae",
+      "uri": "spotify:album:4q0ZCDiw5w1kOekVv71OHM",
+      "name": "drive",
+      "album_type": "single",
+      "release_date": "2021-03-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "1eUUtq11hjZPm1BJS9TbFx",
+          "name": "claymore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303581f38ec9bfad72f7ca6d2",
+      "uri": "spotify:album:04zlTk8hVJUgvxxCqdcHNN",
+      "name": "nanana / ok!",
+      "album_type": "single",
+      "release_date": "2021-02-11",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb4f169a46cd43b42ba8c25a",
+      "uri": "spotify:album:0ECSsroFD0sqec8sOD421M",
+      "name": "uncanny valley [concept ep]",
+      "album_type": "single",
+      "release_date": "2019-07-05",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273239dbfa97fdf975a68db080d",
+      "uri": "spotify:album:6BZH1beoYvuA5czcNpWMYQ",
+      "name": "scream",
+      "album_type": "single",
+      "release_date": "2018-12-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "0dazUcyaKLBYtc4oCJ0Y35",
+          "name": "whzly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317a36f273ca673e4072cc891",
+      "uri": "spotify:album:3BQQrEINIpvYqYgvC8LS0d",
+      "name": "sensei",
+      "album_type": "single",
+      "release_date": "2018-11-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733566e32a1dcbb1e35bf1ac1e",
+      "uri": "spotify:album:6LSSwpPuEQUhHnt3iT8UBH",
+      "name": "one time",
+      "album_type": "single",
+      "release_date": "2018-03-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "2doBPp3GWvMNHktccRk4Wm",
+          "name": "kodagraph"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273515fac917dd4ee70f849dd53",
+      "uri": "spotify:album:7KTFEL5vpSehnt6tVMHdWQ",
+      "name": "wasteland",
+      "album_type": "single",
+      "release_date": "2018-02-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4m4hXRwfSmgdC6MRC4OhPo",
+          "name": "made by tsuki"
+        },
+        {
+          "spotify_id": "2Jc8cCPK5iNSXVUgf79gD6",
+          "name": "moss"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:47.000Z"
+}

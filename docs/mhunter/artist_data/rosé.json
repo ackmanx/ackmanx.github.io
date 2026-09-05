@@ -1,0 +1,114 @@
+{
+  "name": "rosé",
+  "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+  "uri": "spotify:artist:3eVa5w3URK5duf6eyVDbu9",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebcfb4350222919670128ff2dc",
+  "genres": [
+    "k-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec955e8f93996f0973d95e53",
+      "uri": "spotify:album:128pqckLyL3mr3SJwpUZun",
+      "name": "on my mind",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0fTSzq9jAh4c36UVb4V7CB",
+          "name": "alex warren"
+        },
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327303a68d325216fe413f62c",
+      "uri": "spotify:album:0k428U1kVhDaxhqBP7PbGr",
+      "name": "messy (from f1® the movie)",
+      "album_type": "single",
+      "release_date": "2025-05-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        },
+        {
+          "spotify_id": "3aly4xJOy3LVznzvRIvFYC",
+          "name": "f1 the album"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737be65ce6672ed7e5aac6e966",
+      "uri": "spotify:album:7kFyd5oyJdVX2pIi6P4iHE",
+      "name": "rosie",
+      "album_type": "album",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737490ce741ff262f063410149",
+      "uri": "spotify:album:5R7uaKp0OOVFhcAruLmi2G",
+      "name": "number one girl",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a",
+      "uri": "spotify:album:2IYQwwgxgOIn7t3iF6ufFD",
+      "name": "apt.",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        },
+        {
+          "spotify_id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "bruno mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f",
+      "uri": "spotify:album:5BQcoDfcZ8aBcikYX9B7Ob",
+      "name": "r",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3eVa5w3URK5duf6eyVDbu9",
+          "name": "rosé"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:01.000Z"
+}

@@ -1,0 +1,102 @@
+{
+  "name": "stormkeep",
+  "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+  "uri": "spotify:artist:1qBAMIG8efDyEUGA9axXHD",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273f1fbdcc9cb42cc3701f2c2eb",
+  "genres": [
+    "black metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1fbdcc9cb42cc3701f2c2eb",
+      "uri": "spotify:album:0t1KdOBRU96grkAydRb0aw",
+      "name": "the nocturnes of iswylm",
+      "album_type": "album",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4d8f9c17267ec5611bed6d2",
+      "uri": "spotify:album:0ZVbEu44jzo9SmHdLNfvck",
+      "name": "imperious sanguine eroticism",
+      "album_type": "single",
+      "release_date": "2026-04-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273603eccdf4f9ca8a38a604c1e",
+      "uri": "spotify:album:6gCpeoGulcgOalA9mjCyXH",
+      "name": "carnal tapestries of nailtorn flesh",
+      "album_type": "single",
+      "release_date": "2026-03-18",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd3334574b25deb9d36d5878",
+      "uri": "spotify:album:1EKfrIpfbFPxu68TsSj0RW",
+      "name": "lost relics",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ece515305d0d8e6a03edd9",
+      "uri": "spotify:album:2ada4tCyX1pznIdLEI3zo9",
+      "name": "tales of othertime",
+      "album_type": "album",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8192ccbb05c1b8bbcb60714",
+      "uri": "spotify:album:1dIbWYPr6H7clOq05swkVm",
+      "name": "galdrum",
+      "album_type": "album",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1qBAMIG8efDyEUGA9axXHD",
+          "name": "stormkeep"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:47.000Z"
+}

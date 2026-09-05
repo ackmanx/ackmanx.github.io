@@ -1,0 +1,145 @@
+{
+  "name": "xyce",
+  "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+  "uri": "spotify:artist:4fIuC4t8qCtGEJFdkaru0S",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3adacab51726217ad878cd43",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c51d5cd9be55ff2f6f093b9a",
+      "uri": "spotify:album:5vOAoAulZGkKz8poeV4Owk",
+      "name": "vue",
+      "album_type": "album",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370e24f5ce02a2f8667e4ee7f",
+      "uri": "spotify:album:01NJZ9IvH2w0291m9atK96",
+      "name": "pop",
+      "album_type": "album",
+      "release_date": "2018-10-01",
+      "release_year": "2018",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273705b8bfcfd64f068552bcb55",
+      "uri": "spotify:album:0jd4nrU4avuYNkq40EL3Bp",
+      "name": "autre",
+      "album_type": "album",
+      "release_date": "2016-06-06",
+      "release_year": "2016",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273631be82730aeea7db7001064",
+      "uri": "spotify:album:47D86unv3AXvHLxyVO5zEv",
+      "name": "nova",
+      "album_type": "album",
+      "release_date": "2014-09-01",
+      "release_year": "2014",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365e12aac2052d21c1c0bb9ff",
+      "uri": "spotify:album:1q66dPSIXaxfXca86ylTJr",
+      "name": "papillons",
+      "album_type": "album",
+      "release_date": "2013-06-08",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ccb972f0875b3a7f6cafa64",
+      "uri": "spotify:album:0RtYPFqyi01w6BDcW9GbND",
+      "name": "un peu de douceur",
+      "album_type": "album",
+      "release_date": "2013-03-19",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c7f6879d580940aa1cb5ff7",
+      "uri": "spotify:album:6j2sG4MtoMOMhiOBVGVeJM",
+      "name": "4chpcm love",
+      "album_type": "album",
+      "release_date": "2013-01-14",
+      "release_year": "2013",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb29a59155b929f719c49e57",
+      "uri": "spotify:album:5QWoD8ajxzxwL7arQQCsXd",
+      "name": "mosaik",
+      "album_type": "album",
+      "release_date": "2012-06-15",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273112d1db8f090b10acc50ab57",
+      "uri": "spotify:album:22IsHY8pZVWuYPyrCdFpjX",
+      "name": "biscuit",
+      "album_type": "album",
+      "release_date": "2011-10-07",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4fIuC4t8qCtGEJFdkaru0S",
+          "name": "xyce"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:52.000Z"
+}

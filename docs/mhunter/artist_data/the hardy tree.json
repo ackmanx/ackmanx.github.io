@@ -1,0 +1,130 @@
+{
+  "name": "the hardy tree",
+  "spotify_id": "7IzAjoycfh06woYfGHEC36",
+  "uri": "spotify:artist:7IzAjoycfh06woYfGHEC36",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe9a08aa9951a76a3e1544658",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337206ac9178c55ba68310e35",
+      "uri": "spotify:album:4TCjlsIckqTIRcvh4eaBwn",
+      "name": "stagdale 3",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d498662c826df1e8d197ddfe",
+      "uri": "spotify:album:3UeFSWTkoAGUFRyQ4e9TYX",
+      "name": "all the hours",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f12db95b0aff920b35c2f1e",
+      "uri": "spotify:album:4vgvIes7KDAXZ1CEu3wukA",
+      "name": "common grounds",
+      "album_type": "album",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5434e5925c80945ac51a6da",
+      "uri": "spotify:album:6kNkjW1iXje3WbU9QRRzGW",
+      "name": "stagdale 2",
+      "album_type": "single",
+      "release_date": "2021-10-05",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733656f87540579682ff0c334b",
+      "uri": "spotify:album:7hV4XwlPSuFssd4xhHg3NM",
+      "name": "stagdale",
+      "album_type": "single",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da5a955013435b92d09e9f2b",
+      "uri": "spotify:album:6nbxZvOa35glOyurHsmnDo",
+      "name": "sketches in d minor",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c48b5ece567312df568e4a05",
+      "uri": "spotify:album:7LiqPtso7qKeFiuPUYJBAj",
+      "name": "through passages of time.",
+      "album_type": "album",
+      "release_date": "2016-12-02",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e77b65cd8e3eada7eb521fda",
+      "uri": "spotify:album:6UPmUs7GqIR2o6eBLGQk48",
+      "name": "the fields lie sleeping underneath",
+      "album_type": "album",
+      "release_date": "2015-12-04",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7IzAjoycfh06woYfGHEC36",
+          "name": "the hardy tree"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:21.000Z"
+}

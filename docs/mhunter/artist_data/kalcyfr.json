@@ -1,0 +1,253 @@
+{
+  "name": "kalcyfr",
+  "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+  "uri": "spotify:artist:4IS5IuFJcl0E45dcCPqJ3V",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebaf769e5655afb33b7c0e8c4c",
+  "genres": [
+    "deathstep",
+    "industrial",
+    "industrial metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315aaa781ac7d7e9aa470ee08",
+      "uri": "spotify:album:3KMjr5HSSRqTBAIfcWybFz",
+      "name": "defiance",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Vpq7WfAizQjLBUUVgZVjX",
+          "name": "wraith"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730498c4fb81289e03ef1c3546",
+      "uri": "spotify:album:1ATvCHm2BV7H75v5e7RH7L",
+      "name": "fallen ones",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6LWktJSGkbynNqwxwlgNT7",
+          "name": "quannum logic"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        },
+        {
+          "spotify_id": "3E1zoYb4aDyKB6MN9yfkyW",
+          "name": "sandwraith"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1665847c473b3e4cfe74965",
+      "uri": "spotify:album:1wxF9Xxn4wQztwGqnY3ULO",
+      "name": "vanta blak (kalcyfr remix)",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Uvsfedp0YTUBwr9v8qmtG",
+          "name": "mechanical vein"
+        },
+        {
+          "spotify_id": "0ZfkIcFB2WnSOxbXRu6BPk",
+          "name": "alicia mayhem"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a1b1b0a8b518ab882612f1",
+      "uri": "spotify:album:5RUfiNHTugXpGUOL3a2dTh",
+      "name": "ignite",
+      "album_type": "single",
+      "release_date": "2023-07-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6LWktJSGkbynNqwxwlgNT7",
+          "name": "quannum logic"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        },
+        {
+          "spotify_id": "3bOvxcNS1rpC7aN1tLAahr",
+          "name": "eda lovelace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed0a81afef1d1f02c727145b",
+      "uri": "spotify:album:3UiGPAupDGwhsPMuFoymqP",
+      "name": "a touch of malice",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        },
+        {
+          "spotify_id": "2qz0WpmwqdvK7jFl723AE7",
+          "name": "moris blak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de647e64729b226442158a84",
+      "uri": "spotify:album:1Q57HyFYApTr1zTn4mbdHe",
+      "name": "those who fight (kalcyfr tribute)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d24f5b2c4c5e87f72ad22f5f",
+      "uri": "spotify:album:68El47xODcJeEeDJGEBuzv",
+      "name": "release",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733304b252e8eb6702045220a0",
+      "uri": "spotify:album:2rxC2UzbEZWALmKr3zrnDf",
+      "name": "burn notice",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5d04bb9c05af32f14374958",
+      "uri": "spotify:album:3zLYpGLhjtrBy0axose4aR",
+      "name": "tomb them",
+      "album_type": "single",
+      "release_date": "2020-04-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0fbeca613651d4bce5f84bf",
+      "uri": "spotify:album:1K83C8TyThcTwa3xO4Pp84",
+      "name": "raise the hellfire",
+      "album_type": "single",
+      "release_date": "2020-04-03",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6LWktJSGkbynNqwxwlgNT7",
+          "name": "quannum logic"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369787d27caa266d1d23475b0",
+      "uri": "spotify:album:1xU27tzIADmkeHMU0Vp1um",
+      "name": "skorch",
+      "album_type": "single",
+      "release_date": "2019-12-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        },
+        {
+          "spotify_id": "1VL9VfWbmLxUBXEL2qVwwa",
+          "name": "arkangel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e328e62493876d90e70df495",
+      "uri": "spotify:album:7zteQtsswLZMhesAT93FD5",
+      "name": "corpse circus",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3bGb2pu4FZjn8VZDOS6BnE",
+          "name": "king trimble"
+        },
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b8af07942fef08c2940de16",
+      "uri": "spotify:album:6idundwBDC3f4vkVN5xKzj",
+      "name": "screenslayer",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IS5IuFJcl0E45dcCPqJ3V",
+          "name": "kalcyfr"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:01.000Z"
+}

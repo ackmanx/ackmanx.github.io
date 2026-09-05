@@ -1,0 +1,148 @@
+{
+  "name": "street fever",
+  "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+  "uri": "spotify:artist:0vr95mHdD2YEVeNXmGgYja",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7d5512c3add572d746b1ac98",
+  "genres": [
+    "ebm",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337ae1808b8892be0caa068d8",
+      "uri": "spotify:album:0QqZy3tbZ7ETdqCJCRMazK",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730001f7ebc332c1a8a8db21cb",
+      "uri": "spotify:album:1tDbGL7jgpURbEMsHmvspE",
+      "name": "absolution",
+      "album_type": "album",
+      "release_date": "2024-04-02",
+      "release_year": "2024",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737271b9771fadd96d56e248c1",
+      "uri": "spotify:album:4u90n9FkiWg2u2SYG38KCY",
+      "name": "fate",
+      "album_type": "single",
+      "release_date": "2024-03-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e85cdd27917d48fd4d6d92e7",
+      "uri": "spotify:album:0k9HlbHzjWtDk50H9c0qaE",
+      "name": "sinner",
+      "album_type": "single",
+      "release_date": "2024-01-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cf60a18ccb1b8396970fdfd",
+      "uri": "spotify:album:1ky99VdiSwFiQWYYl5f1gr",
+      "name": "black crown",
+      "album_type": "single",
+      "release_date": "2022-11-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393f9d0a7122edb2981c2a7da",
+      "uri": "spotify:album:3Zop66DH35Uf7qXf9deKuP",
+      "name": "enchaîné mode vol. 1",
+      "album_type": "album",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273523233bc780b0d7ab530cfc0",
+      "uri": "spotify:album:1VWlKvp1V47dka0V4ylUVR",
+      "name": "gold blood",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736828c13b7fc4ce157f892598",
+      "uri": "spotify:album:2AALpWOaIJt5OZBqUIvHYo",
+      "name": "enchaîné",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309a1117370c962c862603914",
+      "uri": "spotify:album:1lonsfsyfRWqlAN0fZLdev",
+      "name": "afflictions",
+      "album_type": "single",
+      "release_date": "2015-08-11",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0vr95mHdD2YEVeNXmGgYja",
+          "name": "street fever"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:57.000Z"
+}

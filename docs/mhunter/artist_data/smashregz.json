@@ -1,0 +1,133 @@
+{
+  "name": "smashregz",
+  "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+  "uri": "spotify:artist:5a0J3Y8z0bQ3wxO0TzArDy",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5726f5731681155751953149",
+  "genres": [
+    "chinese hip hop",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739acfce109b139458e12f41f9",
+      "uri": "spotify:album:3y6QsULLATxfxINEHdj3XG",
+      "name": "三不管",
+      "album_type": "album",
+      "release_date": "2023-09-19",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba38e89f50fcdce9aa9be23c",
+      "uri": "spotify:album:4P75uszANorKqDOU4tKeuJ",
+      "name": "誰幹的？",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399956fe245bbc8f5657b5bf8",
+      "uri": "spotify:album:5r7b6rLQZPYFc3l6fwZI2j",
+      "name": "康溫刀吐奶？",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da7ef5076239abd470586890",
+      "uri": "spotify:album:77NRLV7kCukw5U38ESLQIx",
+      "name": "三倍？",
+      "album_type": "single",
+      "release_date": "2023-06-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cac4ddb3bfe7cef5692a9825",
+      "uri": "spotify:album:3dtJlpLf6fvU2nGNkbN4ad",
+      "name": "loading",
+      "album_type": "single",
+      "release_date": "2018-07-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f658650627e4b4f3f92a6efa",
+      "uri": "spotify:album:4olnzzJ0EW20ClOFXTsH0a",
+      "name": "嘎抓",
+      "album_type": "single",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b156db38486e10d5c7cb00f9",
+      "uri": "spotify:album:6gG93dSbohVogwdh3WugmS",
+      "name": "smashregz feature compilation ep / 違法跨界合作精選迷你專輯",
+      "album_type": "single",
+      "release_date": "2016-12-24",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273557c38e80dd56d03c71e7b18",
+      "uri": "spotify:album:4W2nEicDZOzRoeuFjTGGk2",
+      "name": "film",
+      "album_type": "single",
+      "release_date": "2015-12-18",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5a0J3Y8z0bQ3wxO0TzArDy",
+          "name": "smashregz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:03.000Z"
+}

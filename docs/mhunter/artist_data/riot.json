@@ -1,0 +1,1390 @@
+{
+  "name": "riot",
+  "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+  "uri": "spotify:artist:0qPGd8tOMHlFZt8EA1uLFY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd459730d3fb832bc9e18113e",
+  "genres": [
+    "dubstep",
+    "deathstep",
+    "drumstep",
+    "riddim"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273662828796c696d92a5006686",
+      "uri": "spotify:album:65KdkOk8wERBDhd3ltBVuY",
+      "name": "the machine (remixes)",
+      "album_type": "album",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5b8c55fda0443a186a11b6c",
+      "uri": "spotify:album:44oQNYMfZRIXA3342gDaSy",
+      "name": "alien threat (ossien remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "2P7X4Jb4H4hjoQyWUvKs9s",
+          "name": "ossien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdb74b63337155503ad5ca21",
+      "uri": "spotify:album:1nAbaSIys8xsdSwh30RXlA",
+      "name": "back to back (afinity remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395d9c3fed91c871e89065314",
+      "uri": "spotify:album:0jbq0HHkMmm4dWQG0ExpJk",
+      "name": "click clack (celo remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "0cF121Uo22slYVIvyft0Eh",
+          "name": "celo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273132d82fbe557e86c839a1bf7",
+      "uri": "spotify:album:3GbbhElm95OI9zqyqp0xEz",
+      "name": "deadshot (jacknife remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "28YvCT7aJv6DMie7ltTeqo",
+          "name": "jacknife"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b3e43b8cdbc6b94ff6fecef",
+      "uri": "spotify:album:16di9HxfhERDCqLPRAkHKN",
+      "name": "every night (dodge & fuski remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "6SJnjpekgnONgNtxKeMP8m",
+          "name": "dodge & fuski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c53ac9fcd4e9f4e79a9c44c",
+      "uri": "spotify:album:6FyaghaBbPsT47feBRBVzj",
+      "name": "get down (dirt monkey remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738024e9518f1c3c227488e249",
+      "uri": "spotify:album:1cRBKb338efFmybs818b5y",
+      "name": "hurricane (hi i'm ghost remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "7IyxUmBgkkV4jh7kHoip34",
+          "name": "hi i'm ghost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e71f56d78d811ca1d975179",
+      "uri": "spotify:album:44NPB6NECflvb4el0KFnO4",
+      "name": "march of the machine (vlcn remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "4jTgru4XsqeKA1L9xB9AzW",
+          "name": "vlcn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b4c44cabacbb41095f67316",
+      "uri": "spotify:album:2GCIUoxaCY6ww7ZX0bJXqh",
+      "name": "nebula (hekler remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "4FoQJyBgyhdDCb1wdEgNZh",
+          "name": "hekler"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731018e2c69d5e74ac20a54b7e",
+      "uri": "spotify:album:0s1EticdZklqi8EpbtMnci",
+      "name": "slide (baclash remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "7xx3oCh7EkiUdZsF2drXpp",
+          "name": "baclash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739196b5f62c6dfac797422965",
+      "uri": "spotify:album:0WQiFOcL5TjFQD6XwZQGiz",
+      "name": "try again (spag remix)",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "043Bey7ngSGRFpJftAlKpi",
+          "name": "spag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366ade433cd5abd27ef2a1e0f",
+      "uri": "spotify:album:0roLgy1UicnUM5kVrhByIk",
+      "name": "the middle",
+      "album_type": "single",
+      "release_date": "2025-11-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f207a3fe0b7638b4a2b47e8f",
+      "uri": "spotify:album:0B0BeZ1UlsI4NQoIO1nWXd",
+      "name": "sand road (crossworlds remix)",
+      "album_type": "single",
+      "release_date": "2025-09-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "3zhdOZ9uQNelKFYQtOIcBk",
+          "name": "sega game music"
+        },
+        {
+          "spotify_id": "4ShgdWtm52xvEr8uYmT0V6",
+          "name": "sega sound team"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328700d650196f5918a0578bf",
+      "uri": "spotify:album:2ZSZcFH7PKIhGlmEvELLFg",
+      "name": "the machine",
+      "album_type": "album",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d44a0e703a59c818ea72bd9f",
+      "uri": "spotify:album:0uGXCQ3XRwzAc2u4CRKwpt",
+      "name": "we got the moves (riot remix)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5OhB4WP6o9odTeJS6rEC9g",
+          "name": "electric bassboy"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6a4d57861ea1e9e156b62d9",
+      "uri": "spotify:album:79TBiaS1nFF7MOjHnsuWsh",
+      "name": "metalicious",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e4aa3a697644983278905ae",
+      "uri": "spotify:album:0rVtUNGCE2q1b0CFaMIaLb",
+      "name": "hurricane",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731455a8fcc8a945bc2826c49c",
+      "uri": "spotify:album:6CxSfaeeQFlzmcn0uc4jSo",
+      "name": "try again",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b6e07fac2a5de04d9bdba24",
+      "uri": "spotify:album:2U9U7nNtUDLaO8ioTFKEa7",
+      "name": "everynight",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3f05ed75b27d6beb3125399",
+      "uri": "spotify:album:06FTffO23TuFWASOQ0AXKp",
+      "name": "back to back",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fc4e544ec75f13c6f93cb24",
+      "uri": "spotify:album:3pf6RFve2dByNTJLp1IVSW",
+      "name": "mercy",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "3YZPramylP3cGeVkbykhVZ",
+          "name": "franky nuts"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308c810ccb51f47888670e2dc",
+      "uri": "spotify:album:7BpL0bDWem3UNj1J5kASmL",
+      "name": "revival",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273172db01dc0819c21da09dd38",
+      "uri": "spotify:album:4NlWASsusSM7zVmkW1CIf0",
+      "name": "pump up the bassline",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "4LLYqe8ogaK9wC1xHlvR5S",
+          "name": "sippy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313bf863293e123f0d911ee7e",
+      "uri": "spotify:album:2PN4QOzldg4guJ6B5RqbhL",
+      "name": "nmf",
+      "album_type": "single",
+      "release_date": "2024-07-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "72iCiKwu6nu6Qq9emIwzYv",
+          "name": "kayzo"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739aa489f48bf18e557e446214",
+      "uri": "spotify:album:20w2pfRCtMgBYeW8fMGFty",
+      "name": "pushing on",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a97ec6695526ee9435b9c3e",
+      "uri": "spotify:album:4hbouZ4LMldf2Bn1d8qOiW",
+      "name": "death wish",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a07dc6acc5fb14082e56817b",
+      "uri": "spotify:album:4OUTUIrOCKPVkrpJSTGWk1",
+      "name": "death wish (with micah martin)",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c410f6ce77740b1b38399f8b",
+      "uri": "spotify:album:0sEsYFFv4kwcgRB5qC7dKY",
+      "name": "on the gas",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "0NV5eY4Jzg4ldg2ikGnV4n",
+          "name": "virus syndicate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f35b1a301d35643f366891b",
+      "uri": "spotify:album:0aT4H2HaQ1r6rNaDh1wR1o",
+      "name": "high voltage (with jt foley)",
+      "album_type": "single",
+      "release_date": "2023-12-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "1h5BwdyJ0LOpYZwECGo58q",
+          "name": "jt foley"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e158b92fd7e8f8b735cd65b",
+      "uri": "spotify:album:5F9fnBnigjsoo1ymn2Nnkj",
+      "name": "redemption",
+      "album_type": "single",
+      "release_date": "2023-11-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349054b00940333ef52090e83",
+      "uri": "spotify:album:3zGrGTP0vCSqIErxuyp6sJ",
+      "name": "sold my soul",
+      "album_type": "single",
+      "release_date": "2023-08-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ede58fc7ced7c3b653d87b73",
+      "uri": "spotify:album:73tX1UuJM9z5a0KcQsEKWn",
+      "name": "in your house",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b42229a0b194bbd6d67c215",
+      "uri": "spotify:album:0l9LvoGnkAS5xe1KjLT7SU",
+      "name": "excalibur",
+      "album_type": "single",
+      "release_date": "2023-06-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3aaf9fd558d9c5939241798",
+      "uri": "spotify:album:32nWboshupCJKvMhWhaetb",
+      "name": "streets",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273624330d9db7a06be508a3944",
+      "uri": "spotify:album:1PvajiEGruZOjkYlpDZlc1",
+      "name": "meditate",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734de96ef7a3088ea086d17124",
+      "uri": "spotify:album:2llz7dxjUUZASyiZc4yKSL",
+      "name": "buck shots",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308ac3e291a2e9f72d1cb9bf5",
+      "uri": "spotify:album:1ON9fx7RWze7t6NQN7Gs80",
+      "name": "in case of fire ep",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354047f43c54f76811ede33a0",
+      "uri": "spotify:album:5k8MtiSpo6bmgnJ4RHYZtg",
+      "name": "make a move (riot remix)",
+      "album_type": "single",
+      "release_date": "2022-08-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "24kY0bUku58QhWv5WFFXaf",
+          "name": "reaper"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e1b84882de98961ef6d1c78",
+      "uri": "spotify:album:7FHVGQCCAxhEeDWbEEuMZS",
+      "name": "shank",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273521928526d4a25c736338af6",
+      "uri": "spotify:album:1PicnlQtu8oliMzWJcQcZV",
+      "name": "arabian knights",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "6wIbmO0mcpIyQ6CFXIJmIy",
+          "name": "soltan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a35781a07d103edff8728721",
+      "uri": "spotify:album:1VspgwbJREkhkUoOjoEHDg",
+      "name": "makana",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273637426a560f7d08193699cf5",
+      "uri": "spotify:album:3SmuWTFSfuIQZ6HDG18kkI",
+      "name": "down with your love (remixes)",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bca3cd2cfeea5237e6866007",
+      "uri": "spotify:album:6y1PKaRcTePSXkzW8MaMvM",
+      "name": "down with your love (jacknife remix)",
+      "album_type": "single",
+      "release_date": "2022-02-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "28YvCT7aJv6DMie7ltTeqo",
+          "name": "jacknife"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e5f0a2ed040dad8c904d459",
+      "uri": "spotify:album:7upnDNMdC51nq4z1eeYX5r",
+      "name": "down with your love (poni & vanic remix)",
+      "album_type": "single",
+      "release_date": "2022-02-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "3a6qES5elZUR1LIpUq2ERm",
+          "name": "poni"
+        },
+        {
+          "spotify_id": "2LY0E3xg8svCVYXVNTze5T",
+          "name": "vanic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a921894324d5ee5183c381c3",
+      "uri": "spotify:album:7FzBN7xBHKiBj0xR2bdrmm",
+      "name": "down with your love (sippy remix)",
+      "album_type": "single",
+      "release_date": "2022-02-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "4LLYqe8ogaK9wC1xHlvR5S",
+          "name": "sippy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370d65b4fb4b413594cca7dd5",
+      "uri": "spotify:album:0KzjcS0ilPACPATn23BL62",
+      "name": "down with your love (outlandr remix)",
+      "album_type": "single",
+      "release_date": "2022-02-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "3rEAjEIr7devKI01WDprkl",
+          "name": "outlandr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731318e6a4a550b0bf953b5913",
+      "uri": "spotify:album:2oKobyDf2e5J6h2JtAIGVE",
+      "name": "fight or flight",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adea6316d4a6cc3b4529a969",
+      "uri": "spotify:album:1FJ0zZ0ISBLkFvJGYTNCia",
+      "name": "waterfall",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "7aB2KbM3pphL9mU3dXbyh2",
+          "name": "far out"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273312a028361ab6c42f937599e",
+      "uri": "spotify:album:74APiqX69s1PoHxkwH4Cnf",
+      "name": "juggernaut",
+      "album_type": "single",
+      "release_date": "2021-08-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363ce1e484192dc3434064692",
+      "uri": "spotify:album:1ijjp1SyHqN35zLcKDHun0",
+      "name": "louder",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7aa545ee3719bc05defcd0e",
+      "uri": "spotify:album:2A1tFVbmtpQSJuKF0PMhh7",
+      "name": "down with your love",
+      "album_type": "single",
+      "release_date": "2020-10-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d17baa688f9fa99d980278c6",
+      "uri": "spotify:album:76ESW11ROV1GkFGfCTIcEH",
+      "name": "herbivore",
+      "album_type": "single",
+      "release_date": "2020-07-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383fc2f2c0782f644df6dafcd",
+      "uri": "spotify:album:6xDc4e6ta40UjI8PZZvWXY",
+      "name": "jackknife",
+      "album_type": "single",
+      "release_date": "2020-05-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8db10e4d2b0198b9d40dd15",
+      "uri": "spotify:album:1AUS845POFhV3oDytPImEZ",
+      "name": "dogma resistance",
+      "album_type": "album",
+      "release_date": "2019-11-07",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fa4547be70569b8f849f604",
+      "uri": "spotify:album:6nf95nDnGt4INZsYwP3dkg",
+      "name": "jungle fury",
+      "album_type": "single",
+      "release_date": "2019-01-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a298cbfed2483469321d6ee8",
+      "uri": "spotify:album:64ey3KHg3uepidKmJrb4ka",
+      "name": "overkill",
+      "album_type": "single",
+      "release_date": "2018-11-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371ad8f6067ccefa99e56c115",
+      "uri": "spotify:album:6OWcBFdfI15aown78xchVh",
+      "name": "you don't even know me",
+      "album_type": "single",
+      "release_date": "2018-09-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731934da1c03aa796a6cb634b6",
+      "uri": "spotify:album:0TOtgeNtuGgl5ETg5xVBaA",
+      "name": "wake up (vip)",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd5dfd6d7ca6fd9e953bd321",
+      "uri": "spotify:album:64fp7EgsNegUbIiOpBRn7S",
+      "name": "aiwa",
+      "album_type": "single",
+      "release_date": "2018-07-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f23f8fd160e1597ff3f01a0c",
+      "uri": "spotify:album:1fhSHnG9Rnq1yZCA89rpt9",
+      "name": "the mob",
+      "album_type": "single",
+      "release_date": "2018-06-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b891779b444be54bf1c76d",
+      "uri": "spotify:album:10ir7mw0ty0ldXFzf1XHnO",
+      "name": "u r so f**ked (riot remix)",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6S2tas4z6DyIklBajDqJxI",
+          "name": "infected mushroom"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e711c5d8657ddace70f2dfc",
+      "uri": "spotify:album:7AcqqXY3bJZTHrR6kFT2iC",
+      "name": "fire inside (ganja white night remix)",
+      "album_type": "single",
+      "release_date": "2017-08-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f8cf3f63f90752c4ac093c7",
+      "uri": "spotify:album:7q5GohFCxvvEzs7edQNMpe",
+      "name": "got your love",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zymhxzJ0UJc74tMHGyoWs",
+          "name": "dirtyphonics"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382322271fb9261dec9fee0e3",
+      "uri": "spotify:album:0HA4OUH5ww5OuPGHDpBHJQ",
+      "name": "disorder",
+      "album_type": "single",
+      "release_date": "2017-06-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348ab884f9969e767a2e1b78d",
+      "uri": "spotify:album:0wA3G9fzpbwmvaGID3br3G",
+      "name": "wake up",
+      "album_type": "single",
+      "release_date": "2017-01-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "72iCiKwu6nu6Qq9emIwzYv",
+          "name": "kayzo"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6e1331f14df330a4f09aca7",
+      "uri": "spotify:album:4opqCjEtWs3YioGqu7ygbz",
+      "name": "beluga adventure",
+      "album_type": "single",
+      "release_date": "2016-10-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7a1c4ff82c0931516241aa0",
+      "uri": "spotify:album:0xNzcCDkpi0qxzPGh7DooZ",
+      "name": "fire inside",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e897d0e5b03fbb13666d8d76",
+      "uri": "spotify:album:5JNAdcTvkTXyaPT4wyHMQr",
+      "name": "lsar - the remixes",
+      "album_type": "single",
+      "release_date": "2016-05-02",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386f67790b3cfaae8b23bcfe2",
+      "uri": "spotify:album:39ymZc2eJMJZbOlAYWebLk",
+      "name": "leave that way",
+      "album_type": "single",
+      "release_date": "2016-04-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736676dca717619323cb2bb147",
+      "uri": "spotify:album:1YQdHzonQW9tiDsOxiHxaO",
+      "name": "madman",
+      "album_type": "single",
+      "release_date": "2016-03-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "41vebFiEyxaRwT7rNmRLpq",
+          "name": "ragga twins"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ee2288ad65b9df32aa0aa0a",
+      "uri": "spotify:album:6jxexq3y2qmhn0nwpyMlCX",
+      "name": "like a woah",
+      "album_type": "single",
+      "release_date": "2016-01-08",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3ihWBniqRx6dEwzfNMUBb5",
+          "name": "vic"
+        },
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381d3afa8a367b7e5d58bc2aa",
+      "uri": "spotify:album:1rzFUHvrOckBfIFZSQgIIi",
+      "name": "love song",
+      "album_type": "single",
+      "release_date": "2015-11-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738494ffdc06d4866a446cccc0",
+      "uri": "spotify:album:5dDZENTZf5kp9ENrXJcwQY",
+      "name": "lsar",
+      "album_type": "single",
+      "release_date": "2015-09-07",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9461712564d546e188e6946",
+      "uri": "spotify:album:0YTaHZO9DWYPxVbxrLwUZ5",
+      "name": "party 44",
+      "album_type": "single",
+      "release_date": "2015-07-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9571ca32d852c2cf2b79aad",
+      "uri": "spotify:album:0BPeW3j7zAAQ7lWh0mabzG",
+      "name": "pins and needles",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        },
+        {
+          "spotify_id": "6sqbwOkYi6W0QS5Jwa8n30",
+          "name": "sam sadler"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e45882447a425b2b576426",
+      "uri": "spotify:album:3PPWT3NKeKpUqXSjHrQ8hg",
+      "name": "jazz cat funk (remixes)",
+      "album_type": "single",
+      "release_date": "2015-04-20",
+      "release_year": "2015",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302f70863f03438a31cfbe927",
+      "uri": "spotify:album:3jjipUucFWr6Ck8Ts9MWsH",
+      "name": "enigma",
+      "album_type": "single",
+      "release_date": "2015-03-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386f1c9174fda38194d0548e5",
+      "uri": "spotify:album:7kpViMRkQJ5ePSn5Qr2UKV",
+      "name": "jazz cat funk",
+      "album_type": "single",
+      "release_date": "2014-12-08",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308f5c7aca6e58cabb55b23a0",
+      "uri": "spotify:album:5PrFGdo4MMfQycXnx4JjeV",
+      "name": "bounce",
+      "album_type": "single",
+      "release_date": "2014-02-03",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4d4f81cef33630322f2230b",
+      "uri": "spotify:album:0woMZFgsgTMNcr5nilRJtI",
+      "name": "bondage",
+      "album_type": "single",
+      "release_date": "2013-03-18",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0qPGd8tOMHlFZt8EA1uLFY",
+          "name": "riot"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:47.000Z"
+}

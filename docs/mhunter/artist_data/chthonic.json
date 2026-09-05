@@ -1,0 +1,433 @@
+{
+  "name": "chthonic",
+  "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+  "uri": "spotify:artist:3mBFvlqINbTNsRB6htlJEY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb087b9d3eb2d396fe38f1f8d5",
+  "genres": [
+    "folk metal",
+    "taiwanese indie",
+    "chinese rock",
+    "melodic death metal",
+    "black metal",
+    "taiwanese pop",
+    "symphonic metal",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f4b1633ece30b38fb713ea",
+      "uri": "spotify:album:3U1B75JfHncucW5RlzEWw5",
+      "name": "醒靈寺大決戰：演唱會實錄 final battle at sing ling temple (live)",
+      "album_type": "album",
+      "release_date": "2026-07-01",
+      "release_year": "2026",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0cd1c2236903407e179640f",
+      "uri": "spotify:album:47SlFNTBtszCikToTQLZJX",
+      "name": "大港2425：時空陷落 megaportal 2425",
+      "album_type": "single",
+      "release_date": "2025-05-12",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d761cd3e225e083fe43603d",
+      "uri": "spotify:album:0EUspX2162PPMKExgHQK2v",
+      "name": "百萬遍 endless aeons",
+      "album_type": "single",
+      "release_date": "2025-03-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273144aa8aa4a8f7245de0d0c58",
+      "uri": "spotify:album:0piYQveoliLwEGTTNMkc0V",
+      "name": "閃靈珂拉琪之大港合體 chthonic x collage megaport 2023",
+      "album_type": "single",
+      "release_date": "2023-05-08",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        },
+        {
+          "spotify_id": "1YtYHaWLV0IU7SwhvG6Luk",
+          "name": "珂拉琪 collage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e0b2e95f78fe99f2c71f552",
+      "uri": "spotify:album:4wjDbIHpVVuwvRbB6ZJVfd",
+      "name": "護國山 pattonkan",
+      "album_type": "single",
+      "release_date": "2023-03-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316aa168c7be83dab8d4e2cd3",
+      "uri": "spotify:album:5v1hVCR6JcDaqvKluLnmWp",
+      "name": "台灣閃閃爍 megaport 2021",
+      "album_type": "album",
+      "release_date": "2021-05-19",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388fbe44e2456ef0a010b8b3b",
+      "uri": "spotify:album:1OpmSdQhdBwYj6u3CimwXg",
+      "name": "關閉太陽 (live in roar now! bangkah)",
+      "album_type": "single",
+      "release_date": "2021-01-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        },
+        {
+          "spotify_id": "78ltY2tUrZpkWJ9CWYGZfl",
+          "name": "flesh juicer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a504a3169ee9621e0428cbc7",
+      "uri": "spotify:album:2VZtnyfwnj2BVmnk1pfpCH",
+      "name": "台灣大凱旋 taiwan victory live",
+      "album_type": "album",
+      "release_date": "2020-05-20",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300417e83bf6adc3616bcb000",
+      "uri": "spotify:album:1MLh8KphQw9JKIABrOxco8",
+      "name": "supreme pain for the tyrant 破夜斬 (2020 rearrange) [feat. matt heafy]",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        },
+        {
+          "spotify_id": "2YRpsoIsb4KGe66E7hfEx5",
+          "name": "matthew k. heafy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/028b8426da618d5bf7cf3c563ae0297c3c62abb9",
+      "uri": "spotify:album:3ZXOSqwHqHPwkqwWlVgXwB",
+      "name": "烏牛欄大護法(望天版)",
+      "album_type": "single",
+      "release_date": "2019-05-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        },
+        {
+          "spotify_id": "4yN0M1P08hXwuDi81G6O5U",
+          "name": "denise ho"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/1a5c1b11e8f63d815085c809c6442e0eaed5504b",
+      "uri": "spotify:album:5tlmRVPX6BlfUfVokroaLD",
+      "name": "battlefields of asura (english version)",
+      "album_type": "album",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/1daa19911937c015aa0856cbaf17f2782fdf2d7a",
+      "uri": "spotify:album:5rqq4SYJIhp0HDoPPtSZUk",
+      "name": "政治",
+      "album_type": "album",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/8596d1fe17e0f6c0b299a5b6bd64e753151a68bf",
+      "uri": "spotify:album:6BWbvGCnVO2RSgzv51dlAj",
+      "name": "失落的令旗 (電影【衝組】原聲帶)",
+      "album_type": "album",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0f0094be01bc49bdc48bcf3",
+      "uri": "spotify:album:3UcgSCTb0aNY6nskQOGXG8",
+      "name": "玉碎2015",
+      "album_type": "single",
+      "release_date": "2015-08-14",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        },
+        {
+          "spotify_id": "78ltY2tUrZpkWJ9CWYGZfl",
+          "name": "flesh juicer"
+        },
+        {
+          "spotify_id": "5bs8dv4eeFuizRaG7BXWI0",
+          "name": "bazzix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c22fb795ba932f11b0af42b",
+      "uri": "spotify:album:06FVwewjxtnBNMcxiYH11w",
+      "name": "失竊千年",
+      "album_type": "album",
+      "release_date": "2014-12-30",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/712257004dd286beb0e6d74321fbdd65f415c451",
+      "uri": "spotify:album:2sKt9ti2syEyfYMft4Enqq",
+      "name": "火燒島 (民謠版)",
+      "album_type": "single",
+      "release_date": "2014-12-30",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e50903bf43821484e338f9f",
+      "uri": "spotify:album:1AZrHNbw1KidZ6wL3ynFbh",
+      "name": "bù-tik (taiwanese version)",
+      "album_type": "album",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389d97aeec12442279fb8fd54",
+      "uri": "spotify:album:5QWNmUm0U155IvADOXlcnP",
+      "name": "seediq bale",
+      "album_type": "album",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735458508d4acf7f86b0ccfc9e",
+      "uri": "spotify:album:71FtgY5uKTfXsTUHu2NdL6",
+      "name": "takasago army",
+      "album_type": "album",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e09ebfd2a0ed30e7fd387e2",
+      "uri": "spotify:album:35XV4bvemMPdSE00fWpn9F",
+      "name": "takao",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e7f881ce2eaffb4d96830af",
+      "uri": "spotify:album:1NnnUql0tIHSMBKodYMr40",
+      "name": "painkiller",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367157a17d683508d83ce7f66",
+      "uri": "spotify:album:43hx8a7e2QLz48ZQmwD5Rr",
+      "name": "mirror of retribution",
+      "album_type": "album",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371ea92a9088990f0ed9a1dfe",
+      "uri": "spotify:album:6dxnCzJrsRDOmHBTU6dgbR",
+      "name": "forty-nine theurgy chains",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273359463ff6a74f0542e6595ae",
+      "uri": "spotify:album:1xPgbojKPQk6aQ9bWEtMwt",
+      "name": "mirror of retribution (taiwanese version)",
+      "album_type": "album",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2ea72c4e212d3e6e4efbaad",
+      "uri": "spotify:album:3usWUm7pn875BJALQsaIaQ",
+      "name": "鬼脈轉生 帝輪十年經典",
+      "album_type": "album",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f94553bde282490ec00fa98",
+      "uri": "spotify:album:1ZJGAucWp1pjH4D7NvVZo0",
+      "name": "永劫輪迴",
+      "album_type": "album",
+      "release_date": "2002-04-09",
+      "release_year": "2002",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3mBFvlqINbTNsRB6htlJEY",
+          "name": "chthonic"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:28.000Z"
+}

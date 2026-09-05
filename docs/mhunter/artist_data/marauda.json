@@ -1,0 +1,602 @@
+{
+  "name": "marauda",
+  "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+  "uri": "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1a0623164fe26d2c45bbdde4",
+  "genres": [
+    "deathstep",
+    "riddim",
+    "dubstep",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c728e22e69b427413c6affb4",
+      "uri": "spotify:album:1mpxcLLzbPzdEUMSsQXHpG",
+      "name": "olde guarde ep",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4e2e51ded71a4c6f7300e90",
+      "uri": "spotify:album:3xD19eTGAXOPIV58lHQWtj",
+      "name": "retribution",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736855d9ae341e6bdeb2ddc616",
+      "uri": "spotify:album:4a1VfveE3tYfg2U0SeCMKd",
+      "name": "primal phantom",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d3c5bd9d3b194584160f376",
+      "uri": "spotify:album:0CSke85jF5vljIhbjYBS6h",
+      "name": "bludgeon",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346bccccd6aae73b3483531be",
+      "uri": "spotify:album:04FAhngDGh4xyxNzuIFRTv",
+      "name": "gleeful god",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eb78ce5617bdd9a43fb3c1d",
+      "uri": "spotify:album:7yzcUx77SN4prAuZAWauto",
+      "name": "crown of torment",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e75936e52131cc7c70b75696",
+      "uri": "spotify:album:0NP1qpMvsSuPXomhyNTh1b",
+      "name": "peanut butter",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2u01kCKA5wDvvztuH8lyT0",
+          "name": "svdden death"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273502611c634fc1474f0390e3e",
+      "uri": "spotify:album:3qT8DF2saTNnaH9RWgsw6j",
+      "name": "demagogue of oblivion",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388d818a7276ccb1ab77b7992",
+      "uri": "spotify:album:3uRPGCIvv3PmiEgeRIxVKs",
+      "name": "orphan of anguish",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731af7024031d42f85eee7468b",
+      "uri": "spotify:album:0P6xQ3NVVSCm9UaamiUFE0",
+      "name": "realm of the damned",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d8cac653e293e5e7b0b9991",
+      "uri": "spotify:album:1hsLOeqe777W1mdhIFBWEB",
+      "name": "tool of delirium",
+      "album_type": "single",
+      "release_date": "2023-04-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eaa1eecede03ea4a6adddab",
+      "uri": "spotify:album:7jps43ESM7q665xwJKbpwf",
+      "name": "resurgence",
+      "album_type": "single",
+      "release_date": "2023-03-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273809716a72ad83c32c11bfa42",
+      "uri": "spotify:album:5fTpb2f6jE9k4cEBMIENoD",
+      "name": "rage room",
+      "album_type": "single",
+      "release_date": "2023-02-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad35affa53ea55d1d50c3bed",
+      "uri": "spotify:album:7H47tnb82PF2Uounj75tq2",
+      "name": "sinews",
+      "album_type": "single",
+      "release_date": "2023-01-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f99d2e7aad478e5d9c6f036",
+      "uri": "spotify:album:4Y436DDeaz7X25ihodqEFo",
+      "name": "the reckoning",
+      "album_type": "single",
+      "release_date": "2022-11-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef7e54508e838919c6798edb",
+      "uri": "spotify:album:4FzoJncNjBQLWC0n5OdMY8",
+      "name": "heave",
+      "album_type": "single",
+      "release_date": "2022-09-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        },
+        {
+          "spotify_id": "6rYogEVj60BCIsLukpAnwr",
+          "name": "scarlxrd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e7682492475339dfd5935b6",
+      "uri": "spotify:album:6qiabMcuYx4PI3JRqscOhZ",
+      "name": "wall of death",
+      "album_type": "single",
+      "release_date": "2022-03-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273003669cf8d48fbd4e457de6f",
+      "uri": "spotify:album:34B60Y2PMvouBJJ6Q0nZMe",
+      "name": "ascension rite",
+      "album_type": "album",
+      "release_date": "2022-02-03",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273851092ba246126a7e932474d",
+      "uri": "spotify:album:0ClwugGUZDLLGekquQgeyd",
+      "name": "suffer (feat. elle vee)",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        },
+        {
+          "spotify_id": "7b1FMiWXZwOBsxi0uWw6wH",
+          "name": "elle vee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396b3286c08910406e12bae8e",
+      "uri": "spotify:album:1UbVPydHmP9IRoGI512gle",
+      "name": "that marauda song",
+      "album_type": "single",
+      "release_date": "2021-08-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a90fe77ea119a7dc4857dd1",
+      "uri": "spotify:album:0qokNA3CvRIXHhrOB6ncPb",
+      "name": "future stomp",
+      "album_type": "single",
+      "release_date": "2020-12-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734aa9b9382f541610826a30c7",
+      "uri": "spotify:album:2G4UzJJpZZeq1F2Rpurw1y",
+      "name": "avoidable cause",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3422a53dfe49099e06960e1",
+      "uri": "spotify:album:0JpBxoOFQ9x5bgBnhxs54C",
+      "name": "blunder 2.0",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c864144d61332b0d72aecb05",
+      "uri": "spotify:album:69Fwgq4s3LJN98YTJ2yqfL",
+      "name": "laryngitis",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e253f23cea30a933dc9c534",
+      "uri": "spotify:album:3nDhMlBYR8seNLHey7szYl",
+      "name": "bathory",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364bcd18f79fd9ce50f538b1c",
+      "uri": "spotify:album:0eK7iQw1dMIAOt6rrQbenC",
+      "name": "nefarious",
+      "album_type": "single",
+      "release_date": "2020-03-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334dd7c8a051eea550017d7b2",
+      "uri": "spotify:album:735Bu0197KvUYO77NXGKGz",
+      "name": "ruckus",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "31DUXycJt0YIBoMXLI5UdV",
+          "name": "trampa"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a43ccdb0756e06a768d1649d",
+      "uri": "spotify:album:4VU8jvpS106WRQa1iiGuSR",
+      "name": "casket (vip)",
+      "album_type": "single",
+      "release_date": "2019-12-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e81e39069b9dae9c6183d6e",
+      "uri": "spotify:album:3sQ7VtQro1i3ZZbHaNl17q",
+      "name": "elevate",
+      "album_type": "single",
+      "release_date": "2019-09-25",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273897cfc8ac66f25eca45fda50",
+      "uri": "spotify:album:0CRkq9V29JLE4ysLTLPfy1",
+      "name": "shit, vol. 1",
+      "album_type": "single",
+      "release_date": "2019-06-10",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342d4a0e5283a2865c59cfcd7",
+      "uri": "spotify:album:3PFJwLpK7d9OVatMmTREBc",
+      "name": "portal",
+      "album_type": "single",
+      "release_date": "2019-03-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec24bf5a57a16fc62147b8a9",
+      "uri": "spotify:album:1aAPcoHZu5yUfCVAXWUqHD",
+      "name": "death pit",
+      "album_type": "single",
+      "release_date": "2018-11-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738416ba15675759e4b56f15ce",
+      "uri": "spotify:album:0ZOUwZmA5LFGRcvhJFRoYi",
+      "name": "elephant march",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356405517a32430697bdfee46",
+      "uri": "spotify:album:5zld2zUEz3YpKj7xgwc9Ll",
+      "name": "buggas",
+      "album_type": "single",
+      "release_date": "2018-08-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4FoQJyBgyhdDCb1wdEgNZh",
+          "name": "hekler"
+        },
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733095c1f0fd0ec3c7dff25556",
+      "uri": "spotify:album:5x25OxcO21APhiuNz1m2TG",
+      "name": "decimate ep",
+      "album_type": "single",
+      "release_date": "2018-06-25",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738049b917a663cbdd44482813",
+      "uri": "spotify:album:4Nsz9PGbb6bKhxOIQyMVeD",
+      "name": "wicked",
+      "album_type": "single",
+      "release_date": "2017-10-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d450df7c6559ba2bc2d8d415",
+      "uri": "spotify:album:02j1QjrjA9H2SM9OqXzT2L",
+      "name": "malignant ep",
+      "album_type": "single",
+      "release_date": "2017-07-03",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3YLUvWzk9eBm1WrHFlZxM4",
+          "name": "marauda"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:08.000Z"
+}

@@ -1,0 +1,651 @@
+{
+  "name": "nightwish",
+  "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+  "uri": "spotify:artist:2NPduAUeLVsfIauhRwuft1",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf3284e60d4e43c9a7b52c08d",
+  "genres": [
+    "symphonic metal",
+    "gothic metal",
+    "power metal",
+    "metal",
+    "folk metal",
+    "gothic rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5572b4c999c686890f3f394",
+      "uri": "spotify:album:39CVUoSmw8915LRClkNH0o",
+      "name": "yesterwynde",
+      "album_type": "album",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8c5146a85831e0ca92a8a6f",
+      "uri": "spotify:album:5Pld9dbaBVoidxPQEhVusV",
+      "name": "an ocean of strange islands",
+      "album_type": "single",
+      "release_date": "2024-09-10",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730216e956eff36811d264a64b",
+      "uri": "spotify:album:61w4NPHl4Mm1kltVMEOaNG",
+      "name": "the day of... (orchestral version)",
+      "album_type": "single",
+      "release_date": "2024-08-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4rpsPzapLwm5LJPZmmWhFI",
+          "name": "tuomas holopainen"
+        },
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a12b4d660e7c50ea55b91121",
+      "uri": "spotify:album:7e7ujNrBRUhHsTXFqCH8b1",
+      "name": "the day of...",
+      "album_type": "single",
+      "release_date": "2024-08-08",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1ff25eb28b189c08316ca4c",
+      "uri": "spotify:album:2lzs5KtWl3eovh9AMdWwCt",
+      "name": "perfume of the timeless",
+      "album_type": "single",
+      "release_date": "2024-05-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374ba3cb878bbb67b8a733735",
+      "uri": "spotify:album:54cfLPYOwHpQGKDQ6nWx7I",
+      "name": "the phantom of the opera (live)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5aa361ba52af6f8873b0346",
+      "uri": "spotify:album:6qqKoGukMfzw9aYa2qaJOb",
+      "name": "once (remastered)",
+      "album_type": "album",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a18513f08cf61d6c779891b1",
+      "uri": "spotify:album:74yf9InZ3uUBOLYKpIrk93",
+      "name": "music (edit)",
+      "album_type": "single",
+      "release_date": "2021-05-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fadb2c3b4790efd1ed1e369",
+      "uri": "spotify:album:1iSsdlURK7CGUVlcz4M5Li",
+      "name": "human. :ii: nature.",
+      "album_type": "album",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abdb2e17970301b68ed64be6",
+      "uri": "spotify:album:007KuGgJRyLlPvIkGtgqQV",
+      "name": "decades: live in buenos aires",
+      "album_type": "album",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d1bd2d81095f77fe9d7f581",
+      "uri": "spotify:album:1y6lNpSBJck5Fi0iRwHot1",
+      "name": "vehicle of spirit: wembley arena (live)",
+      "album_type": "album",
+      "release_date": "2017-03-24",
+      "release_year": "2017",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c21a937d0fc201ac2a335f4",
+      "uri": "spotify:album:167wVFW9tY2F7bYvqPfshS",
+      "name": "vehicle of spirit (live)",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d5ab07ae60a6eeb3c2a44fc",
+      "uri": "spotify:album:2mb8wq2oVV0hjXe6dtSemW",
+      "name": "endless forms most beautiful",
+      "album_type": "single",
+      "release_date": "2015-05-08",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738acec727a3aac0133137a041",
+      "uri": "spotify:album:1tVEWlyn2nsAke3Lp7HoZ0",
+      "name": "endless forms most beautiful (deluxe version)",
+      "album_type": "album",
+      "release_date": "2015-03-27",
+      "release_year": "2015",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273926f306392dab2c6f179c7d2",
+      "uri": "spotify:album:2EIvvMqgrCHORCpQBmJDjm",
+      "name": "showtime, storytime (live, at wacken, 2013)",
+      "album_type": "album",
+      "release_date": "2013-11-29",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737aea35a20038f4e5e259f201",
+      "uri": "spotify:album:1QARQcmSgJTgsVKtijsHCp",
+      "name": "bless the child",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739262ad1f055171572a047bd0",
+      "uri": "spotify:album:63enh9Qs0Ec3AssU4wMTI1",
+      "name": "imaginaerum (the score)",
+      "album_type": "album",
+      "release_date": "2012-11-09",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273154a8399506276bae9b1ca24",
+      "uri": "spotify:album:5Iugg1hYMiPy4KXEIPrShM",
+      "name": "imaginaerum (tour edition)",
+      "album_type": "album",
+      "release_date": "2012-04-13",
+      "release_year": "2012",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2783b78bc64d0347d93c69a",
+      "uri": "spotify:album:7lY1FLP3cGbOurnNtF0jfJ",
+      "name": "the crow, the owl and the dove",
+      "album_type": "single",
+      "release_date": "2012-03-02",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a758baeb2627e18c6c8f43a",
+      "uri": "spotify:album:2AoBiklyaR5oKHfnN67fea",
+      "name": "imaginaerum",
+      "album_type": "album",
+      "release_date": "2011-12-02",
+      "release_year": "2011",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273724b3d80f896a24f07d992d7",
+      "uri": "spotify:album:1hDmFvI4rftSkp8T8NoOHd",
+      "name": "storytime",
+      "album_type": "single",
+      "release_date": "2011-11-11",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e28663864f8429d31a3153a8",
+      "uri": "spotify:album:5pjvpWqPahafzL5uzZugfP",
+      "name": "walking in the air - the greatest ballads",
+      "album_type": "album",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a4e627dfe768acdd8da94e0",
+      "uri": "spotify:album:4pPWqxxrUGzXokS35hldNT",
+      "name": "dark passion play (special deluxe edition)",
+      "album_type": "album",
+      "release_date": "2008-10-17",
+      "release_year": "2008",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739de1c3f8d612c319092757b6",
+      "uri": "spotify:album:4A8TYBcOB8B2lIOlpU4k30",
+      "name": "the sound of nightwish reborn",
+      "album_type": "album",
+      "release_date": "2008-09-05",
+      "release_year": "2008",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366f2b5387152e26cbf2f266f",
+      "uri": "spotify:album:5szQyrrfL4Jg8icHVoULvW",
+      "name": "the islander",
+      "album_type": "single",
+      "release_date": "2008-05-01",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a394ce36b4d05c5828a98398",
+      "uri": "spotify:album:4qomktB4Z9mQVPm42eEYwd",
+      "name": "bye bye beautiful",
+      "album_type": "album",
+      "release_date": "2008-02-15",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737988cb5b6506529454590ece",
+      "uri": "spotify:album:33knvUBRR5ekNBrtLqQVTD",
+      "name": "dark passion play",
+      "album_type": "album",
+      "release_date": "2007-09-26",
+      "release_year": "2007",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d8d6b25354d4cbda5cc66a8",
+      "uri": "spotify:album:4FCxtdavX8vImgq646VyW9",
+      "name": "amaranth",
+      "album_type": "single",
+      "release_date": "2007-08-24",
+      "release_year": "2007",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273465629140e2411205fb8dc54",
+      "uri": "spotify:album:34Awyc6qIxHdX9mdSly5P7",
+      "name": "'the sounds of nightwish reborn: early demos for \"dark passion play\" and b-sides'",
+      "album_type": "album",
+      "release_date": "2007-08-15",
+      "release_year": "2007",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273526d51c5b431eb42d533d01d",
+      "uri": "spotify:album:0vAgv1fFn8zW2hbpWJfgPX",
+      "name": "end of an era (live)",
+      "album_type": "album",
+      "release_date": "2006-06-02",
+      "release_year": "2006",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba226a5167ada72c26d0bb55",
+      "uri": "spotify:album:0vygUCKYTC2gJAbSIJPI20",
+      "name": "bless the child - the rarities",
+      "album_type": "album",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9f0900944cecd8c8281c4b7",
+      "uri": "spotify:album:3kHz9JFV29epoeRbMxHeiY",
+      "name": "over the hills and far away",
+      "album_type": "single",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4f1ec23eef06906a6770485",
+      "uri": "spotify:album:0Jo9fvkZq42g851vbSBl5b",
+      "name": "the siren",
+      "album_type": "single",
+      "release_date": "2005-07-25",
+      "release_year": "2005",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af528c0e9ac382a1f8d83b6c",
+      "uri": "spotify:album:0j4prFE0btg5InY59gRfDo",
+      "name": "sleeping sun",
+      "album_type": "single",
+      "release_date": "2005-01-01",
+      "release_year": "2005",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fd8d9cde486326e2a6476be",
+      "uri": "spotify:album:2l0KYO3zjZtfFzls7rSPA7",
+      "name": "wish i had an angel",
+      "album_type": "single",
+      "release_date": "2004-09-20",
+      "release_year": "2004",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7190a75bf05ad902f52c7a2",
+      "uri": "spotify:album:2wM6svkNOCsYP8sr9gP2zc",
+      "name": "once",
+      "album_type": "album",
+      "release_date": "2004-06-07",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b7b6b2d02f862a5f4c28190",
+      "uri": "spotify:album:6j4E355c5CbrduKa4rGGLj",
+      "name": "over the hills and far away",
+      "album_type": "album",
+      "release_date": "2002-10-21",
+      "release_year": "2002",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8fec123bb092147b0b0edad",
+      "uri": "spotify:album:5af342Ze6aWIY6b48wK1Mk",
+      "name": "century child",
+      "album_type": "album",
+      "release_date": "2002-05-24",
+      "release_year": "2002",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302fe71db6bc92c5c39a0772a",
+      "uri": "spotify:album:76vjHbOa1CFKQWW8PPHN7N",
+      "name": "from wishes to eternity (live)",
+      "album_type": "album",
+      "release_date": "2001-01-04",
+      "release_year": "2001",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333c933af6ae9703f71f349a2",
+      "uri": "spotify:album:1SiyEby9QiG5Ovycrl7xqe",
+      "name": "wishmaster",
+      "album_type": "album",
+      "release_date": "2000-05-08",
+      "release_year": "2000",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dd27754d26ecbb0f0232156",
+      "uri": "spotify:album:5jYcGOJawpucCNtC62cfbO",
+      "name": "oceanborn",
+      "album_type": "album",
+      "release_date": "1998-12-07",
+      "release_year": "1998",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732777c9d955f300c86b43059f",
+      "uri": "spotify:album:6hqDT794ZNd9ln8WsIPHwI",
+      "name": "angels fall first",
+      "album_type": "album",
+      "release_date": "1997-11-01",
+      "release_year": "1997",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "2NPduAUeLVsfIauhRwuft1",
+          "name": "nightwish"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:15.000Z"
+}

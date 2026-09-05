@@ -1,0 +1,2743 @@
+{
+  "name": "quintino",
+  "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+  "uri": "spotify:artist:1V3VTM7VspiQjcmRhC010n",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4659d63ac8932f7205bb5583",
+  "genres": [
+    "big room",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e0d54208c9597a335b54d52",
+      "uri": "spotify:album:5XEkldEKEWbL0XPQWU14HS",
+      "name": "phoenix",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bf3f0872797693d8b8c883d",
+      "uri": "spotify:album:2Yt0MDuQK3lkVpRccye1vV",
+      "name": "do you want it right now",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "53M4Iv2RkzzxFFvW2B1jhC",
+          "name": "breathe carolina"
+        },
+        {
+          "spotify_id": "0c9xS57yx2KCaaEJ3e7qzo",
+          "name": "giacobbi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ba648551fd902ca7e099bff",
+      "uri": "spotify:album:5cguVMkWcQVYde2ZucBdNR",
+      "name": "warehouse",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273720f6220edc1e5c6e038af10",
+      "uri": "spotify:album:4pbB9aGU0eBMZh8gJoEUm7",
+      "name": "warehouse (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a498eda1119834010773a2c5",
+      "uri": "spotify:album:5j4CqqNOwZN4Yw3AhB9Mgq",
+      "name": "the beach (afrojack edit)",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef1903093e95cad1275d5994",
+      "uri": "spotify:album:7xgkEBwCZmK4dOkh2648dV",
+      "name": "let me be your fantasy",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dc2de0b85f6af17c2f7fce6",
+      "uri": "spotify:album:44TgqyQVaM4gTIafmw8zqM",
+      "name": "let me be your fantasy (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdaacddda7d0a6d27444fcf1",
+      "uri": "spotify:album:0OWesUsZENcbp2rabvV9aD",
+      "name": "go stupid",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273148c8b9c4f5eac50bbed0407",
+      "uri": "spotify:album:3EeaBb1m6rIrjDQTW98BSF",
+      "name": "go stupid (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dae74e05ab3ff5cc13c238f",
+      "uri": "spotify:album:4JMtcrhUmWQ3dqfVrC8jqg",
+      "name": "good time",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273629165a933e3be929ed6c3f5",
+      "uri": "spotify:album:0x6mXhYCkb1icLuxTLhAr4",
+      "name": "motor",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273408c20598e5bca6890f7e47b",
+      "uri": "spotify:album:5CMZOf6H2qTRv8HBN6Bxwc",
+      "name": "das armas",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "0aKXalHKVzkLJ6aeUY3HMf",
+          "name": "outsiders"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737411185dd3e0dd5c7b1a4a19",
+      "uri": "spotify:album:33MCxT30XFEvEsSVIsFCOH",
+      "name": "hold on tight",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b8b20087586c7cb3855cc70",
+      "uri": "spotify:album:6l6tzcwsTPAzmn0HY5la2g",
+      "name": "the 6th gate is open (dance with the devil)",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "00Q38FFuCE7XCDMhuYYTao",
+          "name": "d-devils"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c9afca5a0de896624ef31ba",
+      "uri": "spotify:album:3tPpxTWYtttjCMoejSGauD",
+      "name": "the 6th gate is open (dance with the devil) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "00Q38FFuCE7XCDMhuYYTao",
+          "name": "d-devils"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5d2c0c8823e9aa9e57ae0b1",
+      "uri": "spotify:album:3B33KBdNkcNBndG3T9Ir2K",
+      "name": "sloopkogel",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314b14a799ed37ecb8145af3b",
+      "uri": "spotify:album:6KBchYZFMx3qMCvpPjHc0T",
+      "name": "name of your dj (with 3 are legend)",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6w0JXd2nT27GXVTbsuQ2II",
+          "name": "3 are legend"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4122cb8723ed2c2bb81d267",
+      "uri": "spotify:album:2eH9hXhDuN7nGLHtU5mKKI",
+      "name": "tom's diner",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a98f00c3763c0454627e5971",
+      "uri": "spotify:album:4ymvYRcjhuQiAKHJQslAWa",
+      "name": "les lacs du connemara",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce7afedda96df4bf4d54d73c",
+      "uri": "spotify:album:573qIEbqPVxrCYCjnr7U3l",
+      "name": "no pictures",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734119e6ac475c7b8b74526524",
+      "uri": "spotify:album:05qA73wEVpqEmOcDpEutiy",
+      "name": "empty city",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1WPEvpdkTpcT5R976cTAFJ",
+          "name": "ryvm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4675aea7fb0c7ccb8fbfc8e",
+      "uri": "spotify:album:610QzqcmJ15Pd8ssb9qOYA",
+      "name": "empty city (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1WPEvpdkTpcT5R976cTAFJ",
+          "name": "ryvm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d46aeebbcd24326da7bd6a31",
+      "uri": "spotify:album:26R1i4mklMHdNGF83QxaP0",
+      "name": "lowrider",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdf90146e5f89fdc0bc53453",
+      "uri": "spotify:album:169CFMX9eGD379MAPwLEud",
+      "name": "keep moving",
+      "album_type": "single",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273346a6bdec1e91cb9d6ae05c9",
+      "uri": "spotify:album:6f81JndxCpIdt5y9C0dq7L",
+      "name": "boys with the bass",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273435603016ce1d9736e0ef20c",
+      "uri": "spotify:album:4WgsMPY3IfJt6w0BC3VkSI",
+      "name": "no time",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f45c47ae5c2b6cee0c571a72",
+      "uri": "spotify:album:0Ntw26ASZDaNWzSY9KcFTt",
+      "name": "melody",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bba0eff88ddde86dcfbfd9a",
+      "uri": "spotify:album:6eIULM7BMgTJoEoCPNE5w1",
+      "name": "vivid",
+      "album_type": "single",
+      "release_date": "2021-11-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdfb91ff45f31c2cbfff98db",
+      "uri": "spotify:album:6nCrDS9ApohnfQvXWHLSEu",
+      "name": "in my head",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7vMDKdgSZ2Scn4uzFdTDyZ",
+          "name": "emie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384efe019e5a83efa2a8106af",
+      "uri": "spotify:album:5yk4WTkRxlCjeSytdN2Gun",
+      "name": "moon",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367faed00f010de9ab6c16d48",
+      "uri": "spotify:album:06Odu8Q6H2MSyvNamQnLSl",
+      "name": "f soft shit",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731205d4abdac8c5c4676227d8",
+      "uri": "spotify:album:7A4b5UAzDi2F9n5CmubDKe",
+      "name": "f soft shit (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f90d242bd8883ff2accc187",
+      "uri": "spotify:album:7Atryywqgrc2WRwFOw6RFq",
+      "name": "quechua",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1XLjkBxFokuDTlHt0mQkRe",
+          "name": "thomas gold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b90bb3e8a411e8e1c5225da9",
+      "uri": "spotify:album:0b8MI4qopVLFa0jPsDOGUS",
+      "name": "quechua (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1XLjkBxFokuDTlHt0mQkRe",
+          "name": "thomas gold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f65fda4b00bf309bb36a044",
+      "uri": "spotify:album:3FyBT0bLVTtZFR9whnuRDg",
+      "name": "sideways (quintino remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "6eVWXmKBW7Iltub01D9R1c",
+          "name": "valerie broussard"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734699a7878b3c78c2c5212b52",
+      "uri": "spotify:album:6xw7ONiMXmJpgBxE2lBWKq",
+      "name": "outbreak",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feee7339505c335f087c2af2",
+      "uri": "spotify:album:1QxdQYatNANaOMbnWmFw3F",
+      "name": "coming home",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffcf518d458bbdac91ebd0a3",
+      "uri": "spotify:album:5z00A6i54SAjn0K9r3Tfgb",
+      "name": "make it louder",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d01e485ef90291bd0f5c3fa",
+      "uri": "spotify:album:5dVTLuCWaBvkTR6taXAZAn",
+      "name": "bad bees (feat. harrison first)",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "0lcIRzEVZTKyNiEct4UKTo",
+          "name": "harrison first"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354f44eb06684c62dd54d8f9d",
+      "uri": "spotify:album:5hwExfU8ivcNZwr1BH84bW",
+      "name": "bad bees (feat. harrison first) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339dad36093c1b0508e82fba1",
+      "uri": "spotify:album:0YHcF5aiUDLAYM2mpF7Pwz",
+      "name": "back to the oldskool",
+      "album_type": "single",
+      "release_date": "2021-01-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395736abb00dec73baf5416aa",
+      "uri": "spotify:album:2tzm10ijPtLKY8IOVGdHCO",
+      "name": "the chase (klaas & mattn remix)",
+      "album_type": "single",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "25sJFKMqDENdsTF7zRXoif",
+          "name": "klaas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb605e6dbdbffa241bff8cca",
+      "uri": "spotify:album:1cAhcbLF1SQ9E3Ou0SWbbs",
+      "name": "coffee (give me something) [quintino remix]",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "28uJnu5EsrGml2tBd7y8ts",
+          "name": "vintage culture"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273422d649a2f93dc59ebf21926",
+      "uri": "spotify:album:2glqtgdgAcUvdJAUJabKaq",
+      "name": "out of this world (feat. kifi)",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4C26PDH7q4oJazjcHlSekc",
+          "name": "kifi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeaafc56255565e49801cfbb",
+      "uri": "spotify:album:4KwFYbOcjdkV4eKuHIQtwl",
+      "name": "ruins",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4zYX8Aa744hQ5O2hpAYQI3",
+          "name": "mike cervello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aad9ae06bd65d41aff3f11f7",
+      "uri": "spotify:album:5b6uOk8B0jOexZIOqOrt3x",
+      "name": "switch back",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735464a0b51ef0ab8b6c4a89ff",
+      "uri": "spotify:album:7fyu1lhmk5cJrcnGg6xbYw",
+      "name": "switch back (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fee06521160b5ab0a3e95fa",
+      "uri": "spotify:album:3uMLrGL926sbzjv2teIujO",
+      "name": "get you home",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734afe33fd9c803e019f08ad47",
+      "uri": "spotify:album:3XvzwFC9DjEGyRf55VHfCG",
+      "name": "get you home (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730afd422f0ccc9addaf1d9686",
+      "uri": "spotify:album:5xSL79UnSGhpySNGuYkHwd",
+      "name": "manimal",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "0fwGtEcJ4v3H0btcbM0KWc",
+          "name": "richie loop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7479fbb6b5b003572f60499",
+      "uri": "spotify:album:6vTa3dTds5GVepeYXlJDkN",
+      "name": "ride it (dimitri vegas & like mike vs quintino remix)",
+      "album_type": "single",
+      "release_date": "2020-04-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4ofCBoyEiGSePFAG500xev",
+          "name": "regard"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312590670717f3b2f2804a3b7",
+      "uri": "spotify:album:2oR0zKDQpFKxWJjyHqrDpq",
+      "name": "the chase",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311c57ca3a168a087b0dfe428",
+      "uri": "spotify:album:5KENqfp2XvpYarepAascn2",
+      "name": "the drill",
+      "album_type": "single",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b47226c2fc6f031bacca26c",
+      "uri": "spotify:album:21xwzDWiYPqLjit9kPBU4s",
+      "name": "bright nights",
+      "album_type": "album",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b347af64eed0cdd8f8290298",
+      "uri": "spotify:album:6tkLdcL4Nb1gmlMZLSSJlK",
+      "name": "bright nights",
+      "album_type": "album",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcfadc423f8cbe3fe9015c1b",
+      "uri": "spotify:album:3Vs0ZlvRI0segHJJYI0Ygy",
+      "name": "twilight",
+      "album_type": "single",
+      "release_date": "2019-10-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d181c6857fb4d72bffb7801d",
+      "uri": "spotify:album:6pYQvL5g4I5zKTpbs6ln9k",
+      "name": "i wanna know (feat. pollyanna)",
+      "album_type": "single",
+      "release_date": "2019-10-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "0wNQ7AjdPL8uDAiSKVLXAS",
+          "name": "echōwall"
+        },
+        {
+          "spotify_id": "3mRSi79NwnlKaOH8vFxBVL",
+          "name": "pollyanna"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da2d8b4f0386d813b556fd03",
+      "uri": "spotify:album:4H53CyoKJcWElDOsB75x5V",
+      "name": "sueltalo (feat. melissa sandoval)",
+      "album_type": "single",
+      "release_date": "2019-10-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3jQxu2ZsMlkub5j1xZAGgt",
+          "name": "melissa sandoval"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c805dbfef3300e4c86dce78f",
+      "uri": "spotify:album:5K1TBLnNWeiJmGarToFTbD",
+      "name": "bro hymn",
+      "album_type": "single",
+      "release_date": "2019-10-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa5bc0c3aa76892e31b12df2",
+      "uri": "spotify:album:0gd3fmbKmvMMBlM257VGPk",
+      "name": "don't lose love (feat. cher lloyd)",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "5iwLVxdLzgm1cLrZunXzWR",
+          "name": "afsheen"
+        },
+        {
+          "spotify_id": "4m4SfDVbF5wxrwEjDKgi4k",
+          "name": "cher lloyd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333fb6860fae8d8f2649ce7b8",
+      "uri": "spotify:album:03uJ80FjHVfBWeTFtYWbN5",
+      "name": "make believe",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332a7b5a69400563e34368600",
+      "uri": "spotify:album:18dt0XIWfp299MSFMWOTyL",
+      "name": "boing",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6eYelZNbyu0BmMA5Cm0Vu3",
+          "name": "mad mac"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d09ef7749e89f4fedf12df7e",
+      "uri": "spotify:album:6RtNDAbbah1pa4IFdlAiNE",
+      "name": "reckless",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3d99555633443ae0ee175d9",
+      "uri": "spotify:album:34safHRUbL0hGUi5JB86tM",
+      "name": "party never ends",
+      "album_type": "single",
+      "release_date": "2019-06-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a44c392da78f87cff19ea03",
+      "uri": "spotify:album:6stiajNiSQjMkDcrH2Q5V7",
+      "name": "party never ends (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-06-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fa71a9bb445982665ac7f1f",
+      "uri": "spotify:album:48hO0qLgH7XOXUAhWs7TDq",
+      "name": "play it cool (quintino remix)",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "4TnGh5PKbSjpYqpIdlW5nz",
+          "name": "monsta x"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359e1d6a93932242bb85d1bca",
+      "uri": "spotify:album:3Xnphtaa8PaV6uVTA2z2Rk",
+      "name": "tututu",
+      "album_type": "single",
+      "release_date": "2019-04-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341881533820598897a78e417",
+      "uri": "spotify:album:0R3EDNWTGkek2UWGBYXlYG",
+      "name": "teqno (music is the answer)",
+      "album_type": "single",
+      "release_date": "2019-03-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4ed6519fe8f238766496db6",
+      "uri": "spotify:album:7y1gz2TrhgmryYVhVFgpmd",
+      "name": "can't bring me down",
+      "album_type": "single",
+      "release_date": "2019-02-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bed5e982dc1f4d03b44a17e",
+      "uri": "spotify:album:2gDbE9WrayhjpbI1gEhe0t",
+      "name": "freak (joe stone 2k18 edit)",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4kwEd1P9j15ZqUVP5zK7Pv",
+          "name": "joe stone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385711189f3f22dcf65245977",
+      "uri": "spotify:album:5cyIYDrPZOsfwtnvYMWvgY",
+      "name": "how it's done",
+      "album_type": "single",
+      "release_date": "2018-10-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736994ffd8726aa77a5bf20668",
+      "uri": "spotify:album:0JGXFBvEW7WCDvLZ8gorde",
+      "name": "inferno",
+      "album_type": "single",
+      "release_date": "2018-09-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8bb1949f2b4e14173e8dc93",
+      "uri": "spotify:album:48ECL7Kvu9RG34JVQNxSUA",
+      "name": "epic (garmiani extended remix)",
+      "album_type": "single",
+      "release_date": "2018-09-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "2yhI3iWovCQYjhjoqzKO2R",
+          "name": "garmiani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5503a9698eccb804d6d2849",
+      "uri": "spotify:album:3C2yoz4fitqOF92byjClX5",
+      "name": "epic (garmiani remix)",
+      "album_type": "single",
+      "release_date": "2018-09-10",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "2yhI3iWovCQYjhjoqzKO2R",
+          "name": "garmiani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328bf10c58ea556b7bb4250d7",
+      "uri": "spotify:album:1CVxaTMxaVt9GlLleSZZAt",
+      "name": "heey ya",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5a3f636fafff643654b68a0",
+      "uri": "spotify:album:2R1puWCtdNhTjZm5p9YrcP",
+      "name": "heey ya (extended mix)",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8d4f11c4c2cb02869f52d71",
+      "uri": "spotify:album:3VKjluDP1GV9gFTYEBh2V2",
+      "name": "knockout",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        },
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c092fb7eef13f1c902146b62",
+      "uri": "spotify:album:7BklnfrFmYOWfvzsDcJqYF",
+      "name": "knockout (extended mix)",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        },
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1dd80b00b183809b61176a3",
+      "uri": "spotify:album:60FG4F8o65MSYBGDYwLKEF",
+      "name": "get down",
+      "album_type": "single",
+      "release_date": "2018-05-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "2XiiUuK68XNdHaHOAF5hnT",
+          "name": "curbi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377a4519182b8c43b46210cc7",
+      "uri": "spotify:album:100tGgYoUd9zZE4Aer9qCJ",
+      "name": "brasil connect",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35198606d1bf1af86c5e78a",
+      "uri": "spotify:album:5ChrvDFcmeCat2QmrKVwup",
+      "name": "mayhem",
+      "album_type": "single",
+      "release_date": "2018-03-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb70f4348addc27129407c08",
+      "uri": "spotify:album:2pvBvlgw72Izn8SvlMHCtR",
+      "name": "go harder, pt. 4 - ep",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b68696237466a1790528a48",
+      "uri": "spotify:album:6uQlajO8QW9LPy67Ti0iH9",
+      "name": "go harder, pt. 4 - ep",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b235935805dcad8433fc82",
+      "uri": "spotify:album:4ZWcUFmF0PBhtJTEbvYdUF",
+      "name": "patser bounce",
+      "album_type": "single",
+      "release_date": "2018-02-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348644ffcce52c830bf132a0b",
+      "uri": "spotify:album:21O8VdYiBSkl7Mavkh0vWo",
+      "name": "slow down (feat. boef, ronnie flex, ali b & i am aisha)",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b088623571c2506e40cee32",
+      "uri": "spotify:album:7zNHfDb8XPJe14yrHCkGUl",
+      "name": "woest",
+      "album_type": "single",
+      "release_date": "2018-01-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3eefcfd80f5633c1439675e",
+      "uri": "spotify:album:2vib2NRyzrdYvffN8U343J",
+      "name": "i just can't (fabian mazur remix)",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "5BBBDm18Y0TCRXZggaOnZG",
+          "name": "fabian mazur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e6e3463f333ae48823335c5",
+      "uri": "spotify:album:7L1SZkuLvOG2YrCnJuZFZI",
+      "name": "mi gente (hardwell & quintino remix)",
+      "album_type": "single",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "j balvin"
+        },
+        {
+          "spotify_id": "4RSyJzf7ef6Iu2rnLdabNq",
+          "name": "willy william"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394d9821f5f5a2d0a058f6eb0",
+      "uri": "spotify:album:0l2VnIDW5s4EWBQb3JkNg5",
+      "name": "good vibes (feat. laurell)",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360be9e0b657db64969038262",
+      "uri": "spotify:album:6p8bNnZNorGJK9n29i7py5",
+      "name": "i just can't",
+      "album_type": "single",
+      "release_date": "2017-09-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcc3b65ccd8f92253a94ddcf",
+      "uri": "spotify:album:49eQC9mCTqRKe8bSz718Ni",
+      "name": "lost in you (acoustic version)",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273396d1a7a04d65ac07d332e4b",
+      "uri": "spotify:album:5cksu9MP36WqWJg8EfIFqX",
+      "name": "go harder ep, pt. 3: do or die",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c6c2bbdaaf14475f49f317f",
+      "uri": "spotify:album:3WTK7Lp56rMiblq8vzMhay",
+      "name": "lost in you (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732516046c60069956668071ba",
+      "uri": "spotify:album:6tW7YDdeJptFAYvNINKx8l",
+      "name": "lost in you",
+      "album_type": "single",
+      "release_date": "2017-04-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3d803ea983314d25f09b9e0",
+      "uri": "spotify:album:5Vs6OJ0rJfuSYMp0gl64vi",
+      "name": "carnival (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-03-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c3cf0bfdb426ae618ce3ce",
+      "uri": "spotify:album:3Y6qWeQnSqhw1yWX32aHI6",
+      "name": "carnival",
+      "album_type": "single",
+      "release_date": "2017-02-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3cb384cc8f39048aff7d86e",
+      "uri": "spotify:album:1JlIDe3M7n5EjikM4Ja1Sk",
+      "name": "baldadig",
+      "album_type": "single",
+      "release_date": "2016-12-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c48195ddee361a690979057a",
+      "uri": "spotify:album:1VCLJ1WvVSJ7viI3R1U9Mc",
+      "name": "can't fight it (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-11-21",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f0c81270808619a21616c68",
+      "uri": "spotify:album:3bTWyBlvvKdWDHi1fRVIr1",
+      "name": "underground (extended mix)",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eb923bf6c70faf186d5129f",
+      "uri": "spotify:album:3Tka8hLo5PBxA0RIJ6IAvw",
+      "name": "underground",
+      "album_type": "single",
+      "release_date": "2016-11-04",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c32f25fee89313a7a59469dc",
+      "uri": "spotify:album:338C4g1EcCieIdp0aM551x",
+      "name": "go harder ep pt. 2",
+      "album_type": "single",
+      "release_date": "2016-09-30",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc5a4482964b2ee6ca41a822",
+      "uri": "spotify:album:4dn5Ig31cEKLscwNv2mVKg",
+      "name": "bad bitches (deorro vip edit)",
+      "album_type": "single",
+      "release_date": "2016-09-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
+          "name": "deorro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395acdd3abeaab2e0b66828ac",
+      "uri": "spotify:album:5Rx7nusBUB2YUIMCKzGtl7",
+      "name": "lights out (feat. channii monroe) [extended mix]",
+      "album_type": "single",
+      "release_date": "2016-07-22",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273213d66e05e575dd09c2c16e4",
+      "uri": "spotify:album:5tdykL66ty24S4pDyrkPhS",
+      "name": "lights out (feat. channii monroe)",
+      "album_type": "single",
+      "release_date": "2016-07-11",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1e2a91672e19b1a7b426d9b",
+      "uri": "spotify:album:0r9QprpynnE9V6pGHvYiCT",
+      "name": "can't fight it (extended mix)",
+      "album_type": "single",
+      "release_date": "2016-07-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ccae657041ce97de4a6c4cda",
+      "uri": "spotify:album:2Y1uKcVkxiVGkjvTXZn5Zq",
+      "name": "can't fight it",
+      "album_type": "single",
+      "release_date": "2016-06-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce9a7754ac7f290ac9d24a92",
+      "uri": "spotify:album:5uKV83pkcZIdxebLHmpZAC",
+      "name": "freak (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-04-25",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730919494293903e5535ced0e2",
+      "uri": "spotify:album:3jt1OLpDyX2tRF87XHWU5q",
+      "name": "freak",
+      "album_type": "single",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273518e426f7c9c60bd265da07f",
+      "uri": "spotify:album:6kLGoIUGispchgOxDEe5H3",
+      "name": "freak (extended vocal mix)",
+      "album_type": "single",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273924d6d7449f681f9ca82e37a",
+      "uri": "spotify:album:4Ffm6qFgFOv5pN3F4cX2zl",
+      "name": "go harder ep",
+      "album_type": "single",
+      "release_date": "2016-01-29",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273745c8573c93f9ca7558c00f2",
+      "uri": "spotify:album:01dJRWQe9M8Hr1hTrMelz8",
+      "name": "unbroken (feat. gia koka)",
+      "album_type": "single",
+      "release_date": "2016-01-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b827814f1504a76be8b31ce7",
+      "uri": "spotify:album:2wxN8KuuVgH2QqzzYh1hpn",
+      "name": "freak (joe stone 2k18 extended edit)",
+      "album_type": "single",
+      "release_date": "2016",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4kwEd1P9j15ZqUVP5zK7Pv",
+          "name": "joe stone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3ec470ee4fcc01897f6cbf8",
+      "uri": "spotify:album:6bsQrlOa0FxgJATI57myr1",
+      "name": "scorpion (hardwell edit)",
+      "album_type": "single",
+      "release_date": "2015-11-16",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300c2a80d0592132b1e4aab34",
+      "uri": "spotify:album:7IuR8JkvYNFnXmRSepLzil",
+      "name": "devotion (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389491cf3e0115fc39614e296",
+      "uri": "spotify:album:6BNNwUhFRQDBFL5NgRMFUv",
+      "name": "front to the back",
+      "album_type": "single",
+      "release_date": "2015-07-30",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a67bc4d06129a3a992b42206",
+      "uri": "spotify:album:4RO4OF6MRQPS24gV3pcVyw",
+      "name": "aftermath",
+      "album_type": "single",
+      "release_date": "2015-07-03",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3cb1194664b331d56493e4a",
+      "uri": "spotify:album:2OT9vXtty3N3dQSga2G6sn",
+      "name": "milestone",
+      "album_type": "single",
+      "release_date": "2015-06-06",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e65e5a191eb1ec9845600132",
+      "uri": "spotify:album:5bokQWKtxWX6qj8pRBrKQ0",
+      "name": "escape (into the sunset) [feat. una] [radio mix]",
+      "album_type": "single",
+      "release_date": "2015-04-06",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376ba067825ae42099124c78e",
+      "uri": "spotify:album:5lLgFyaNgvDGXA1bWfhFA2",
+      "name": "escape (into the sunset) [feat. una] [extended mix]",
+      "album_type": "single",
+      "release_date": "2015-04-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273394fb526d11ae59e7b83ae93",
+      "uri": "spotify:album:1dmZhwslX1CBQOzYEbMFZi",
+      "name": "winner",
+      "album_type": "single",
+      "release_date": "2015-02-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731580c30d1daa0d582feb8049",
+      "uri": "spotify:album:3PWkgBpTSVfNGl2KI2OVYA",
+      "name": "winner (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-02-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f67378a5081c898dca4376dc",
+      "uri": "spotify:album:00jgLsYKxz9Xsy2f20bbD6",
+      "name": "genesis",
+      "album_type": "single",
+      "release_date": "2014-12-12",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "76jWEh2CVKVbxZT88Yn71i",
+          "name": "dj mercer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1545123f72e21040ccdf825",
+      "uri": "spotify:album:7A70TDQLlAqSrKmZblX3BA",
+      "name": "slammer",
+      "album_type": "single",
+      "release_date": "2014-10-13",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "6P6fVBXZjnqdgq2z2b8WlO",
+          "name": "ftampa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a26fcfb5c45a2d15ebe7c1ce",
+      "uri": "spotify:album:0BRDjeQ6m4ibpBTnAQqVdz",
+      "name": "blowfish",
+      "album_type": "single",
+      "release_date": "2014-09-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "3qqvCq7mFIy9UfaXoj5w1w",
+          "name": "kenneth g"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731296cd5cf39016cc6ed42736",
+      "uri": "spotify:album:4xzKCDD4uX4nZkYijelbxE",
+      "name": "dynamite (feat. taylr renee) [timmy trumpet remix]",
+      "album_type": "single",
+      "release_date": "2014-08-11",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5c92f5c43bfc5765c40c693",
+      "uri": "spotify:album:1krsA38r74ImxJEwD0JXvZ",
+      "name": "crash",
+      "album_type": "single",
+      "release_date": "2014-07-18",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fbcd44c4e98b3662d8d018c",
+      "uri": "spotify:album:4h8zrT5PLaEFEJLjeZCkzn",
+      "name": "go hard",
+      "album_type": "single",
+      "release_date": "2014-05-30",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738efb2d4b85056b04be33b150",
+      "uri": "spotify:album:5gNsNUsRMWfGf0Fx6GAmll",
+      "name": "dynamite (feat. taylr renee) [yellow claw remix]",
+      "album_type": "single",
+      "release_date": "2014-01-27",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        },
+        {
+          "spotify_id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "yellow claw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273100bcd5a39c122b320084bda",
+      "uri": "spotify:album:5YhlXU2CTgnt0S6DUQHjV0",
+      "name": "world in our hands (blasterjaxx remix)",
+      "album_type": "single",
+      "release_date": "2014-01-06",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cec8da2fb3be9b8227092860",
+      "uri": "spotify:album:3MuOXSeRXqSP6TWYCHIKmE",
+      "name": "dynamite (feat. taylr renee) [radio edit]",
+      "album_type": "single",
+      "release_date": "2013-09-26",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368e6f35bb05ece9c41b57fc5",
+      "uri": "spotify:album:7xrPjVSSHxadgNKBJg1OnY",
+      "name": "dynamite (feat. taylr renee)",
+      "album_type": "single",
+      "release_date": "2013-09-23",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d2a78661e723127467c3311",
+      "uri": "spotify:album:5vwuwkqOgISwsaKl9rPveL",
+      "name": "puzzle",
+      "album_type": "single",
+      "release_date": "2013-08-19",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd0e19020d191d7f26f45467",
+      "uri": "spotify:album:1EFkRNikrBi8qQaDTOoX5o",
+      "name": "world in our hands",
+      "album_type": "single",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ee2e1036897af3b703fee86",
+      "uri": "spotify:album:6xzZptepvoDdgUcEQW7KVx",
+      "name": "jackpot",
+      "album_type": "single",
+      "release_date": "2013-02-18",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1NtMiyzk7AhY2SGkdPkafX",
+          "name": "ralvero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f42bb7553333379773b7f18",
+      "uri": "spotify:album:2xA7UbvB4kbjRlBXHkJZJO",
+      "name": "kinky denise",
+      "album_type": "single",
+      "release_date": "2012-09-03",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c829de76b5a6d3fe0f12132",
+      "uri": "spotify:album:2u7ivdlEi9URCHJhydqzGg",
+      "name": "we gonna rock",
+      "album_type": "single",
+      "release_date": "2012-01-23",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273273150b80ce3468cd1889f2e",
+      "uri": "spotify:album:4quIQ7VD5BYDLHoxNtHiV7",
+      "name": "epic",
+      "album_type": "single",
+      "release_date": "2011-12-06",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53UXMZxwzQyV4j7tZaVF58",
+          "name": "sandro silva"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349e636ddebeeba9607c45e03",
+      "uri": "spotify:album:6yqqs8IrDlDhEcO8RanGmR",
+      "name": "raider",
+      "album_type": "single",
+      "release_date": "2011-06-27",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e3717c17f3a61e296f2bc2d",
+      "uri": "spotify:album:2zRh86lvxkTQ6JCUwm30C5",
+      "name": "world is calling (feat. jaren)",
+      "album_type": "single",
+      "release_date": "2011-06-20",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0eLYiajeLRGa4MYyF2y0rW",
+          "name": "groovenatics"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a88e662bbf3bd5f08a44d37",
+      "uri": "spotify:album:5o1zOQlq9IpbYnZlHH0xuS",
+      "name": "selecta",
+      "album_type": "single",
+      "release_date": "2011-05-16",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        },
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b40c318318b3817579e80fb",
+      "uri": "spotify:album:56K9AptWGftMS4xe9AnVOO",
+      "name": "music oh",
+      "album_type": "single",
+      "release_date": "2011-04-11",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273577dea1fd017727ea4788364",
+      "uri": "spotify:album:3G2qQAOCCFRHucFJQDwV5v",
+      "name": "i feel",
+      "album_type": "single",
+      "release_date": "2010-11-23",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ab87b19cf6b19952d9f225a",
+      "uri": "spotify:album:32gjEwSADwM3TpxJKpZlXt",
+      "name": "drop the beat",
+      "album_type": "single",
+      "release_date": "2010-10-05",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737356d5062083e912dd7335a6",
+      "uri": "spotify:album:5aFCc42rndLEbfSOZx1Gs6",
+      "name": "fire (r3hab remix)",
+      "album_type": "single",
+      "release_date": "2010-08-24",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "the partysquad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b74ac3c1fa05f0852f89511d",
+      "uri": "spotify:album:4tMu2BoQUMLsQu044r531I",
+      "name": "fire",
+      "album_type": "single",
+      "release_date": "2010-08-10",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "2dQgOfBP52UwjegY8FwJAY",
+          "name": "the partysquad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273032ef98b8fc43c5e2d96cddf",
+      "uri": "spotify:album:7vMa2uitmk0UNVf9qGsXzk",
+      "name": "my house",
+      "album_type": "single",
+      "release_date": "2010-07-27",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f6c7996ec69e9cbca79fd5f",
+      "uri": "spotify:album:3srR7hEI5CJwtIGAEIZDkO",
+      "name": "can you feel it",
+      "album_type": "single",
+      "release_date": "2010-07-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "20mCdWSz6PqFQof9gFFJ1r",
+          "name": "alvaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273064f560e454ef46672389fd2",
+      "uri": "spotify:album:0aXMdN80GuII7oroKyFqI5",
+      "name": "sustain",
+      "album_type": "single",
+      "release_date": "2010-06-01",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b644ba22a9b4d6bd053c380",
+      "uri": "spotify:album:71px9BwA7pLgRgfbMPAqwo",
+      "name": "you can't deny (feat. mitch crown)",
+      "album_type": "single",
+      "release_date": "2010-03-15",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2ff17b3cc56d4f196fcef14",
+      "uri": "spotify:album:124XPEfjiUfhHZxCAoXeGe",
+      "name": "you know what",
+      "album_type": "single",
+      "release_date": "2010-02-12",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f17c2f8541bcca92b550b94",
+      "uri": "spotify:album:5hUzbU38PaJYRg4M9cqgaq",
+      "name": "heaven (feat. mitch crown)",
+      "album_type": "single",
+      "release_date": "2009-06-14",
+      "release_year": "2009",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        },
+        {
+          "spotify_id": "4m5bANP6wwn3O6xmjYxhTm",
+          "name": "mitch crown"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/9d8042ee2d477f4012fa745b2ff061e5a8ab7c63",
+      "uri": "spotify:album:3rk7Pegpwhxg0y7FFKksbn",
+      "name": "wooker",
+      "album_type": "single",
+      "release_date": "2008-03-17",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fce4f37d722b27d5ee7c3aa1",
+      "uri": "spotify:album:2m4ifMpdzomYlHezl5t26K",
+      "name": "supersoniq",
+      "album_type": "single",
+      "release_date": "2008-03-03",
+      "release_year": "2008",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351f3735d78945557a02cf695",
+      "uri": "spotify:album:5pS8pCIl2QCAPiQp4nzgC9",
+      "name": "the one and only",
+      "album_type": "single",
+      "release_date": "2002-01-09",
+      "release_year": "2002",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1V3VTM7VspiQjcmRhC010n",
+          "name": "quintino"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:14.000Z"
+}

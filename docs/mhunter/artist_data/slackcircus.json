@@ -1,0 +1,130 @@
+{
+  "name": "slackcircus",
+  "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+  "uri": "spotify:artist:7crX2FX9Ea2NODUDZNaUiE",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebdbfa17b1c363b1291869fa11",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7fda73d413586aa5d790f0c",
+      "uri": "spotify:album:261YH35shmDXzx9Nikwq4K",
+      "name": "mining",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735337e2d67e8947b32fad1274",
+      "uri": "spotify:album:5yLJgye8vZfV9uMPPzTy8r",
+      "name": "bnf (brand new face)",
+      "album_type": "single",
+      "release_date": "2022-08-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae9a07c7d948ef6465f5204",
+      "uri": "spotify:album:3lfPQSJEp9WK83zUPgwfXO",
+      "name": "heyyeyaaeyaaaeyaeyaa (acapella version)",
+      "album_type": "single",
+      "release_date": "2022-07-19",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273392ed782c710631f1f52bc72",
+      "uri": "spotify:album:6nbXH2BfCGZwcAuhgxzSsL",
+      "name": "heyyeyaaeyaaaeyaeyaa (instrumental)",
+      "album_type": "single",
+      "release_date": "2022-06-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734593571e544d2c6ccf68d4ea",
+      "uri": "spotify:album:3lG9tZwYOg9TdrdX2mzuSz",
+      "name": "villainous behaviours",
+      "album_type": "single",
+      "release_date": "2020-11-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c89668220e84f6a7bd637e4",
+      "uri": "spotify:album:2xOrvSbGBzPQFCdImCU4Sh",
+      "name": "the keyframers: 4evah (laura & brian's theme)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311581b56f2dfeac3f6b3557f",
+      "uri": "spotify:album:3v9uuMe8czy7ddiTZLkWqf",
+      "name": "fabulous secret powers",
+      "album_type": "single",
+      "release_date": "2016-02-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273489a5a2363f67bba0e06865e",
+      "uri": "spotify:album:69lL1q3dNv0UxigLsQHLwm",
+      "name": "heyyeyaaeyaaaeyaeyaa (fabulous secret powers)",
+      "album_type": "single",
+      "release_date": "2014-03-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7crX2FX9Ea2NODUDZNaUiE",
+          "name": "slackcircus"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:45.000Z"
+}

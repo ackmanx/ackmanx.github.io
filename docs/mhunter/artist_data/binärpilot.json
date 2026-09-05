@@ -1,0 +1,85 @@
+{
+  "name": "binärpilot",
+  "spotify_id": "7h7YbSISHutpSg3XJt831S",
+  "uri": "spotify:artist:7h7YbSISHutpSg3XJt831S",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3a1cb5ede4bc3a8a27c7647f",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b0cdd2e37dd174f417cde2c",
+      "uri": "spotify:album:1hzD5UTC35MqrkBQbhcYE9",
+      "name": "songs for alan turing",
+      "album_type": "album",
+      "release_date": "2021-10-03",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "7h7YbSISHutpSg3XJt831S",
+          "name": "binärpilot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cc35afda8855e9c46b458cb",
+      "uri": "spotify:album:5J82BlG3tg9S4DPiJh2TQv",
+      "name": "nordland",
+      "album_type": "album",
+      "release_date": "2010-10-03",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7h7YbSISHutpSg3XJt831S",
+          "name": "binärpilot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ef7691fa9d3d53e57902f56",
+      "uri": "spotify:album:6pIXriaevEfrRmfEjLmWZT",
+      "name": "robot wars",
+      "album_type": "single",
+      "release_date": "2007-10-03",
+      "release_year": "2007",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7h7YbSISHutpSg3XJt831S",
+          "name": "binärpilot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339aed4899c5eca27839528a2",
+      "uri": "spotify:album:46f6BvhUnPGsyqjuMgIkbU",
+      "name": "you can't stop da funk",
+      "album_type": "single",
+      "release_date": "2006-10-03",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7h7YbSISHutpSg3XJt831S",
+          "name": "binärpilot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273768c19d8e81da863a4004fa4",
+      "uri": "spotify:album:0VzKeSTE6UcSXf5WnROQrQ",
+      "name": "defrag",
+      "album_type": "single",
+      "release_date": "2005-10-03",
+      "release_year": "2005",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7h7YbSISHutpSg3XJt831S",
+          "name": "binärpilot"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:31.000Z"
+}

@@ -1,0 +1,136 @@
+{
+  "name": "black heaven",
+  "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+  "uri": "spotify:artist:2VwHIKqBOx8TfwVy8tU2Ya",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb026aecc9e9f842c7e618dec6",
+  "genres": [
+    "ebm",
+    "darkwave",
+    "industrial",
+    "gothic rock",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f486c1c659155b92710c1a56",
+      "uri": "spotify:album:4A06zkj20wjL0c483luADc",
+      "name": "suicide songs",
+      "album_type": "album",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738248edb93f629f605114a7ee",
+      "uri": "spotify:album:2Sz5DOuU0YthpzwjNVdmKm",
+      "name": "dystopia",
+      "album_type": "album",
+      "release_date": "2011-12-02",
+      "release_year": "2011",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c3a1e0b14716819c7a14bdd",
+      "uri": "spotify:album:7cGwX29j9CwzwwsyiTXQ2f",
+      "name": "obscurity",
+      "album_type": "album",
+      "release_date": "2009-08-28",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347ea77a79fcf44783adaa2c7",
+      "uri": "spotify:album:5f3wC1dhD3jYLn6MTASIvN",
+      "name": "trugbild",
+      "album_type": "album",
+      "release_date": "2009-08-28",
+      "release_year": "2009",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731857c888ac7bc15e3a19e9ec",
+      "uri": "spotify:album:5VUOoCXnuf2WgAGd1dDJgk",
+      "name": "negativ",
+      "album_type": "album",
+      "release_date": "2008-10-17",
+      "release_year": "2008",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eca1e126105778379fbae52",
+      "uri": "spotify:album:2uoRACCzPchKmSAY7L9LIY",
+      "name": "kunstwerk",
+      "album_type": "album",
+      "release_date": "2007-12-21",
+      "release_year": "2007",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e68abfa90418ceaf1a6abc3c",
+      "uri": "spotify:album:5gOCZE9pXQ0dKf3wEqitsb",
+      "name": "end of the world",
+      "album_type": "album",
+      "release_date": "2004",
+      "release_year": "2004",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3228fccd7b30b6ec60e0233",
+      "uri": "spotify:album:6BHpPESsn58TAtAW85ji9i",
+      "name": "chapter one",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2VwHIKqBOx8TfwVy8tU2Ya",
+          "name": "black heaven"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:35.000Z"
+}

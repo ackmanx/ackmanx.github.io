@@ -1,0 +1,95 @@
+{
+  "name": "chiefs",
+  "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+  "uri": "spotify:artist:4azvTMyFn1SRGUsaEeMtKO",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273522a347a1e4035032d607a52",
+  "genres": [
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344364c4b27af2a06a37fd97a",
+      "uri": "spotify:album:5qWgCRjM8nf56Tx8FFhw1Q",
+      "name": "eleven",
+      "album_type": "single",
+      "release_date": "2016-01-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+          "name": "chiefs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273600d0ff4076af094af3339a6",
+      "uri": "spotify:album:6s30otXzUYeCm1LmtHp4Ge",
+      "name": "demon",
+      "album_type": "single",
+      "release_date": "2015-07-15",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+          "name": "chiefs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273381078120926ca2ab7ae95e2",
+      "uri": "spotify:album:1YZQif8ffX6stCpveQcOne",
+      "name": "what u do",
+      "album_type": "single",
+      "release_date": "2015-03-10",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+          "name": "chiefs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273522a347a1e4035032d607a52",
+      "uri": "spotify:album:50yx8Iw89dOqpg23YDOq0J",
+      "name": "inside outside (remixes)",
+      "album_type": "single",
+      "release_date": "2015-01-06",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+          "name": "chiefs"
+        },
+        {
+          "spotify_id": "4ck5EsIMBv5YTn8udONKjp",
+          "name": "nick acquroff"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe1539aea9df7f21831cb927",
+      "uri": "spotify:album:58ReBB6UXu7xQ2MJAvuwS4",
+      "name": "inside outside",
+      "album_type": "single",
+      "release_date": "2014-11-17",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4azvTMyFn1SRGUsaEeMtKO",
+          "name": "chiefs"
+        },
+        {
+          "spotify_id": "4ck5EsIMBv5YTn8udONKjp",
+          "name": "nick acquroff"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:11.000Z"
+}

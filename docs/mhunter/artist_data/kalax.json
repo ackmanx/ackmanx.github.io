@@ -1,0 +1,470 @@
+{
+  "name": "kalax",
+  "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+  "uri": "spotify:artist:2o88SjmtVVVyCmTGCuSPoY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb20f1b78f431a11d932207a3c",
+  "genres": [
+    "synthwave",
+    "vaporwave",
+    "chillwave",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273286a869b8d3433fc47e3a96f",
+      "uri": "spotify:album:51LkBaDUUz1EpMLZYlPVwp",
+      "name": "11-11",
+      "album_type": "single",
+      "release_date": "2026-05-11",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273991573d538a361552543b184",
+      "uri": "spotify:album:59ICCATlkJr0KBFR543E4l",
+      "name": "kalax - i’m alive (soaring: part ii)",
+      "album_type": "single",
+      "release_date": "2025-11-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359ca59c98ec764a8780222f7",
+      "uri": "spotify:album:3ov5eW0pYOWydkrLyxQdzD",
+      "name": "vol. 1",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0cH5fWs4rN8C89sqwv1OC9",
+          "name": "kalax lost tapes"
+        },
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399901c84d8a52af7843f53c1",
+      "uri": "spotify:album:633mWQXKiMTIn9mc3BzRxK",
+      "name": "resurface (the instrumentals)",
+      "album_type": "album",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d733004288d80ebe5654a30",
+      "uri": "spotify:album:1kL0Wup3XCggqfCQyxoZIT",
+      "name": "resurface",
+      "album_type": "album",
+      "release_date": "2025-08-25",
+      "release_year": "2025",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734535381a6cda472bc4e85f53",
+      "uri": "spotify:album:5B8rJGw8h9P3BEeq6hPGFe",
+      "name": "chromance",
+      "album_type": "single",
+      "release_date": "2025-07-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c29522dab10cbb9ea1e40c55",
+      "uri": "spotify:album:21lv7tbB92hrIEOSOjMYNd",
+      "name": "lost",
+      "album_type": "album",
+      "release_date": "2024-06-22",
+      "release_year": "2024",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de78a8707929a162a6bb4cba",
+      "uri": "spotify:album:5ECc5bviIbCK2gxQV8M6Wo",
+      "name": "restored (instrumental)",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c470ed464711dfec4eb467e7",
+      "uri": "spotify:album:7IuMz024mM6ArLPioJZqnI",
+      "name": "confie (hold on)",
+      "album_type": "single",
+      "release_date": "2023-06-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        },
+        {
+          "spotify_id": "0ibBJyHUgpYajGcBAm8bbF",
+          "name": "francci"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7a1b6b7945b2ec33c5b6155",
+      "uri": "spotify:album:5JhjF0Uqgkv9juJVo54VCb",
+      "name": "alive (lost now found)",
+      "album_type": "single",
+      "release_date": "2023-03-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385fc05294c5997e1a720ad99",
+      "uri": "spotify:album:1qGvSTuBW1xqOW8FHtci7L",
+      "name": "ashes and dust",
+      "album_type": "single",
+      "release_date": "2022-12-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6AXhwWPucCdjUCzlVzoYuv",
+          "name": "morphoice"
+        },
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733adcd16e831f67505a03875b",
+      "uri": "spotify:album:1M1pjjggLNSWTNPXogoagc",
+      "name": "lost not found",
+      "album_type": "single",
+      "release_date": "2022-10-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351d233b8407de097af977494",
+      "uri": "spotify:album:1ZqomlwhHFUp1emls0niHj",
+      "name": "wasteland (kalax remix)",
+      "album_type": "single",
+      "release_date": "2022-06-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3MU1O9zfAq6tm6qcacKsED",
+          "name": "ovrgrwn"
+        },
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732299adba20e51c16471990af",
+      "uri": "spotify:album:1wRTFaPqg9J9IOiG2yAYUU",
+      "name": "demos",
+      "album_type": "album",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da9ff62df64f8e2a48cb2232",
+      "uri": "spotify:album:6FHuJNrXDqeH1YqXeapWtv",
+      "name": "just drive",
+      "album_type": "single",
+      "release_date": "2022-05-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dCDYKtFTMnKCI9PvEwMQX",
+          "name": "w o l f c l u b"
+        },
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d3b0bbd09cadffabf50c404",
+      "uri": "spotify:album:3OUgf24VWmrFHR1vBs8nFa",
+      "name": "never let you go",
+      "album_type": "single",
+      "release_date": "2021-08-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374f1aaf8a3d7ccb2ab67d05e",
+      "uri": "spotify:album:6QifIIpoEndCYEOXFqTVD5",
+      "name": "the mountain peak (from road 96)",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730951d4baf7c42408d9603782",
+      "uri": "spotify:album:54hp6mvPDPZgVUFbWOK3N5",
+      "name": "crystal waves (from \"wave break\")",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b3513e8e882cee70c8803e9",
+      "uri": "spotify:album:4DrhkDaImqXSdMVmfRG4S4",
+      "name": "fight for us",
+      "album_type": "single",
+      "release_date": "2020-10-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734852c51041074dadb5c3e261",
+      "uri": "spotify:album:1qUYMDMdGReXSHrrFUtVfT",
+      "name": "overcome",
+      "album_type": "single",
+      "release_date": "2020-05-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f1025fe09b51de0d70f5c64",
+      "uri": "spotify:album:75fLjuY6OvIZ5FhLrmaETy",
+      "name": "iii (the instrumentals)",
+      "album_type": "single",
+      "release_date": "2019-04-25",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394150067e8e5202d767ef85a",
+      "uri": "spotify:album:4tteTazT567N7srYWOwTG2",
+      "name": "iii",
+      "album_type": "album",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcb53c0cec858505e51e011f",
+      "uri": "spotify:album:7B2KtTFVC5UgXu1FkdVqtP",
+      "name": "let go",
+      "album_type": "single",
+      "release_date": "2019-02-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a60c5e154e26c7b67f03e3ef",
+      "uri": "spotify:album:6WBsAyS930KsbkPmOCSrS4",
+      "name": "dream",
+      "album_type": "single",
+      "release_date": "2018-11-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba15ebd6cef04acaac307609",
+      "uri": "spotify:album:5YhIJYNJZb4iFhGdwLFLZE",
+      "name": "not alone",
+      "album_type": "single",
+      "release_date": "2018-04-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273972e88cfef49b0d708c9d34b",
+      "uri": "spotify:album:7voXS1czW5xne4u6vsuSKS",
+      "name": "kalax",
+      "album_type": "album",
+      "release_date": "2017-04-10",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273283d63846263f82e91f5a596",
+      "uri": "spotify:album:4hSzUmbC9m1eeCVX60BcuT",
+      "name": "metropolis",
+      "album_type": "album",
+      "release_date": "2015-02-12",
+      "release_year": "2015",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a331ae5314e4fa680be0d5d4",
+      "uri": "spotify:album:7HUgBPyMHGsRjjTUAOacF0",
+      "name": "outlands",
+      "album_type": "album",
+      "release_date": "2014-03-25",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273740365eb264d6ea80a5f693d",
+      "uri": "spotify:album:5iRz68CTBjUMAPLdIIUBU5",
+      "name": "journey ep (2013)",
+      "album_type": "single",
+      "release_date": "2013-09-10",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2o88SjmtVVVyCmTGCuSPoY",
+          "name": "kalax"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:57.000Z"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "yadosan",
+  "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+  "uri": "spotify:artist:1mCavamEMIEh1fnGcLSk3J",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb09fdaf939e09e194ab0ab32f",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a6375b40349ac300052ef44",
+      "uri": "spotify:album:2FU3kSQhg5LDGU95nrlyDz",
+      "name": "authentic",
+      "album_type": "single",
+      "release_date": "2024-06-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        },
+        {
+          "spotify_id": "2AOcY7Okw1zDwZYUeIxW2V",
+          "name": "we die young"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384e7b54d71a844bd67647f55",
+      "uri": "spotify:album:0b3qu0I1LwidtyeZJnR4R0",
+      "name": "don't leave me",
+      "album_type": "single",
+      "release_date": "2023-10-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3O5f9vEgwXavGPnB0dQUQc",
+          "name": "komb"
+        },
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f761cec4907e1cd8f4c66113",
+      "uri": "spotify:album:0kHtGkq74HZCulqwXijJzv",
+      "name": "bust like",
+      "album_type": "single",
+      "release_date": "2023-07-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        },
+        {
+          "spotify_id": "2AOcY7Okw1zDwZYUeIxW2V",
+          "name": "we die young"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335444ae9fb384cc3cbd7c01e",
+      "uri": "spotify:album:51ScAUJjg7Iyj5Z8CkH3Sg",
+      "name": "lad",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1o2aYT0R8jCzs5q1rEA0gY",
+          "name": "banvox"
+        },
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4349d9313cd2e0d7d7211f6",
+      "uri": "spotify:album:24jh3J74gafjOkwVHBVzSa",
+      "name": "protect me",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "714O3xvBNiclo82vxBn8Bf",
+          "name": "k?d"
+        },
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730705a1372f1decd70880d4a6",
+      "uri": "spotify:album:32OO60xmuCqrEnaTnjL34w",
+      "name": "omg (spank boy x yadosan remix)",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4Oxbc00K1336zJYgpR01Aw",
+          "name": "g-buck"
+        },
+        {
+          "spotify_id": "3SrdAEfUiyCNWLFpEkja8O",
+          "name": "ma-less"
+        },
+        {
+          "spotify_id": "3DnZH90nRkoXEelGscDeYB",
+          "name": "spank boy"
+        },
+        {
+          "spotify_id": "1mCavamEMIEh1fnGcLSk3J",
+          "name": "yadosan"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:56.000Z"
+}

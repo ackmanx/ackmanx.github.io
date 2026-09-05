@@ -1,0 +1,584 @@
+{
+  "name": "vctre",
+  "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+  "uri": "spotify:artist:45B2tXcwmZXjfCbK6c3oqu",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb90c54466d6525f7927b27243",
+  "genres": [
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a90fc05e07bdf6f0ccd70723",
+      "uri": "spotify:album:5pNgAhixnEFn5mJUk42MW6",
+      "name": "bluff",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3806763eb1220eaeac391e9",
+      "uri": "spotify:album:68ON8ZK3MZlQVlzKojCIni",
+      "name": "balderdash",
+      "album_type": "single",
+      "release_date": "2026-07-02",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd299f78d0fca4ab9788c366",
+      "uri": "spotify:album:4sbH2IaYjv1zh2uDCJNLig",
+      "name": "no way out",
+      "album_type": "single",
+      "release_date": "2026-06-18",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370d178ebeba8134367951bd7",
+      "uri": "spotify:album:4oMg0kpQTPoK65CXrzfOtn",
+      "name": "outbreak",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1309916eb5c42c85a257e4c",
+      "uri": "spotify:album:2jA9t8o7t9q8hMw4geRz4x",
+      "name": "reign",
+      "album_type": "single",
+      "release_date": "2025-11-05",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        },
+        {
+          "spotify_id": "1inEarlQOFZ2KWNnQDHqo3",
+          "name": "okayjake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c71178e6f0271fe843fc279d",
+      "uri": "spotify:album:4t0O2SuV9Vf7TJD1pObKto",
+      "name": "letters / reign",
+      "album_type": "single",
+      "release_date": "2025-10-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        },
+        {
+          "spotify_id": "1inEarlQOFZ2KWNnQDHqo3",
+          "name": "okayjake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f39701d85425a925ed350b7d",
+      "uri": "spotify:album:2dTuCirbsa4JBxPg37cBZu",
+      "name": "duskborne",
+      "album_type": "album",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342816d641cdbe6ba2dea6c4e",
+      "uri": "spotify:album:70dx24j8XPjBw35x47ovDd",
+      "name": "dissolve / forget",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca6e98ca2742e3b295944a6e",
+      "uri": "spotify:album:2CnuBCI6cZckCuGaj2JnvZ",
+      "name": "windchimes",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gZ1X3ws59AXefp76wEFvc",
+          "name": "integrate"
+        },
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        },
+        {
+          "spotify_id": "07oZEFDySnjPl7vqqD8XSq",
+          "name": "black carl!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfe53d73e75c84699e3fa182",
+      "uri": "spotify:album:03uVGzOS3ECVCNBuocc1YX",
+      "name": "reciprocity",
+      "album_type": "album",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe2030f884e07308b2b60f64",
+      "uri": "spotify:album:0KEFZnJoHiHzywPl5bP71Y",
+      "name": "rise",
+      "album_type": "single",
+      "release_date": "2024-05-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        },
+        {
+          "spotify_id": "1inEarlQOFZ2KWNnQDHqo3",
+          "name": "okayjake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c901d9b25a18017f837bdcbe",
+      "uri": "spotify:album:0DTZ9LNawUeS7Ymr9rSkgH",
+      "name": "east kings point",
+      "album_type": "album",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b37e693d52ea57244c26dde",
+      "uri": "spotify:album:4eYDVMTk2bvJljV85IyODK",
+      "name": "forest catcher",
+      "album_type": "single",
+      "release_date": "2023-10-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737804518ee27695e99eeb491a",
+      "uri": "spotify:album:6gVP9lRi9rVyzp1Y7mGYA7",
+      "name": "pull up",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da44d9bb3646797f30202122",
+      "uri": "spotify:album:4FzEoJ3wIOaRDH3tzMMEXu",
+      "name": "bustin'",
+      "album_type": "single",
+      "release_date": "2022-10-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dde047212bfc7472199fc281",
+      "uri": "spotify:album:2JhFPhWM3pkC09aFUJFImQ",
+      "name": "dead leaves",
+      "album_type": "single",
+      "release_date": "2022-10-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f1b15a7f964c2a17685135f",
+      "uri": "spotify:album:3E6r1sgFpIHTrRq2hQ7rox",
+      "name": "duffle bag",
+      "album_type": "single",
+      "release_date": "2022-10-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369da3884149036bb19963abe",
+      "uri": "spotify:album:3qcXKhPxwmm8AVMIx4QLpU",
+      "name": "watch the face",
+      "album_type": "single",
+      "release_date": "2022-10-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cd5c8540e4f1d65129f0000",
+      "uri": "spotify:album:0l2vfPMZQxK4aszDLyqOvk",
+      "name": "fulcrum",
+      "album_type": "single",
+      "release_date": "2022-05-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        },
+        {
+          "spotify_id": "75OS5bfsxEKbLnU5R8CBup",
+          "name": "frij"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382f9d2549b1f79131609dcc3",
+      "uri": "spotify:album:2H8wbLBg61h2B34PY4eIkz",
+      "name": "trail of nothing",
+      "album_type": "single",
+      "release_date": "2022-03-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ed1dd0a2bb5f5ccbbb272d",
+      "uri": "spotify:album:3aFGGeRJZD7WQkKTkj9Ytm",
+      "name": "flutter",
+      "album_type": "single",
+      "release_date": "2021-06-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2a8ez0A2owcYhFki9860sm",
+          "name": "sumthin sumthin"
+        },
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b548d84d60a61caf9123571",
+      "uri": "spotify:album:5VpA9WOAKeCEoOwwMKGtzj",
+      "name": "not a trend",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea97ec8bfc09f272d81d76cd",
+      "uri": "spotify:album:0ZmLqIxijxW2Ci3H1RBP2A",
+      "name": "die happy",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b28e4e5678cf028ecb9eba0",
+      "uri": "spotify:album:0vzftEvMhq1lUNzkT6lF7d",
+      "name": "backup!",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d4eb2e44c255c4bb1b3ea17",
+      "uri": "spotify:album:5OAgJJvAS3rndfr7cAOTn9",
+      "name": "try to feel",
+      "album_type": "single",
+      "release_date": "2020-06-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2c1b87a65bc6ac45fc6c80f",
+      "uri": "spotify:album:0GB1FpPK2nANB1nh6nhIMp",
+      "name": "toad juice",
+      "album_type": "single",
+      "release_date": "2020-04-03",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9b324702b58b708994b033c",
+      "uri": "spotify:album:52sgCUKTnPDPT4SWQczE9N",
+      "name": "palindrome",
+      "album_type": "album",
+      "release_date": "2019-12-21",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7d69350cb18e5b52a5a7bdd",
+      "uri": "spotify:album:31YqDUdaLlQ4LVZ600sGqL",
+      "name": "the gate",
+      "album_type": "single",
+      "release_date": "2019-10-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c2e7758900236728abba63a",
+      "uri": "spotify:album:50ldSrUDh7P9LX7Z1s7xpR",
+      "name": "take precautions",
+      "album_type": "single",
+      "release_date": "2019-09-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339898db2c97229e132854bb4",
+      "uri": "spotify:album:1hKAlSPMRV4ApvgIySqfCw",
+      "name": "intolerable acts",
+      "album_type": "single",
+      "release_date": "2019-04-17",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273002c7166dacce4f199ce6bc8",
+      "uri": "spotify:album:7mmauHYZXrpV8XZJXfbFyq",
+      "name": "bandit",
+      "album_type": "single",
+      "release_date": "2019-03-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391d828eb15785ed79312f326",
+      "uri": "spotify:album:1sa4ZPHTf9aqnqHFBuPdwR",
+      "name": "animagus",
+      "album_type": "single",
+      "release_date": "2019-01-29",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355f3aa7645630f651f37d7d5",
+      "uri": "spotify:album:3qcSyJbUxd6zZtk4kXWa2z",
+      "name": "unorthodox transformation",
+      "album_type": "single",
+      "release_date": "2018-11-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f74f290728efde3b039612d",
+      "uri": "spotify:album:0l8q9LClIXxAk79aoxfA48",
+      "name": "dreamcast",
+      "album_type": "single",
+      "release_date": "2018-08-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273016a19ee93b25f331c9f4c76",
+      "uri": "spotify:album:301rSPU0jtH9TRFFUb4fLe",
+      "name": "enemies",
+      "album_type": "single",
+      "release_date": "2017-08-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349aaa966c741bffbe3532903",
+      "uri": "spotify:album:7mGybaxu2nbYfy5An2D8YK",
+      "name": "like this",
+      "album_type": "single",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:18.000Z"
+}

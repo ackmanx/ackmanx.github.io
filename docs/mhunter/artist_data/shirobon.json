@@ -1,0 +1,714 @@
+{
+  "name": "shirobon",
+  "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+  "uri": "spotify:artist:2OgP0RGmDrXN9kOWRNfEuE",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7851e83e815d50130580c036",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf0b678f5a5c5f30b7a4adfd",
+      "uri": "spotify:album:3VU0L8L8xLza10FS1oCydY",
+      "name": "shadow cell (slowed & reverbed)",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "2pgl3x3t8w0jiQ9PxMreRN",
+          "name": "pizza hotline"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c4f84d145982c8e6c2159fc",
+      "uri": "spotify:album:3Vs8IE3I1sqzmHQW9WRJYy",
+      "name": "galaxies",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "3uh4qur8BRT56gr2dLmGjw",
+          "name": "lunayru"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d6511e66af579d3abba7c77",
+      "uri": "spotify:album:6Xa8cq4d8M6YrSKfTGk0y9",
+      "name": "illuzion",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbed24ae7e3b07eb26adb6e3",
+      "uri": "spotify:album:1axWFjQm597Moy6WnS8jIw",
+      "name": "shadow cell",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "2pgl3x3t8w0jiQ9PxMreRN",
+          "name": "pizza hotline"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b040e7e41ffb559cf7a6263e",
+      "uri": "spotify:album:6OytvO7CkUHXOzzjOVHqXC",
+      "name": "special selection, vol. 2",
+      "album_type": "album",
+      "release_date": "2025-07-16",
+      "release_year": "2025",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327f65834f19b3feaef2ffcf5",
+      "uri": "spotify:album:1x0iET9W5ANsbfiACLZSgq",
+      "name": "mei ling",
+      "album_type": "single",
+      "release_date": "2025-07-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "2pgl3x3t8w0jiQ9PxMreRN",
+          "name": "pizza hotline"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c4c9859a8822cac3167ab0f",
+      "uri": "spotify:album:1WbPbGRcURtMNNvhTJyYbY",
+      "name": "imposter syndrome",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "1Eqmku5RGosz51zTCZFgDi",
+          "name": "frankmusik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273139c37298b54f1b39df660cc",
+      "uri": "spotify:album:2yFMK5nZ095oW0jNsX45mB",
+      "name": "data mind (instrumental)",
+      "album_type": "album",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bd330bfd511845038ffd427",
+      "uri": "spotify:album:69tiAjiCROIJANMOtTKXLI",
+      "name": "u:phoria",
+      "album_type": "single",
+      "release_date": "2025-02-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739eb0271f05d5093d65cd7c92",
+      "uri": "spotify:album:1sY6S9koW9A7cwvMybKLnh",
+      "name": "breaker",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345e652728162d421c51b67a1",
+      "uri": "spotify:album:1ri0mCtFaRhbYqLNkTf9G5",
+      "name": "garaage",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4d85e22350d8cdc710753e5",
+      "uri": "spotify:album:415itJXYobz8A98eK8jQAZ",
+      "name": "data mind",
+      "album_type": "album",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313d1495801e28c2aecc93b37",
+      "uri": "spotify:album:3MSwCMlOvwUQKEArUEOZ5m",
+      "name": "break away",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1b2665c1d0b41fcd8aa36c1",
+      "uri": "spotify:album:4uNIkWZWWsazL14iYjCIBc",
+      "name": "brand new you",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273739fc1d34f4017391d09df4c",
+      "uri": "spotify:album:3WYGCju3RR8YjhKFONMsi3",
+      "name": "obsession",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec49b0d374837f391864d806",
+      "uri": "spotify:album:7EIw01wU5BkPhnv1waWE8u",
+      "name": "beat that",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317d5a4b63f5d3d88efcc6fd8",
+      "uri": "spotify:album:1bGLr7umUHzTCwGrfY0Ob6",
+      "name": "3000",
+      "album_type": "single",
+      "release_date": "2022-12-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a060cf984c50fa90131ca9d0",
+      "uri": "spotify:album:5RSemrEtRqSPkmFqooci46",
+      "name": "destroy u (expansion)",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "3FPflECmvkrze212dLPRSC",
+          "name": "gfoty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357bf3f57fcc3b837cc9bd9a6",
+      "uri": "spotify:album:5UAyRIrR7Yx4mWl2uLwIsV",
+      "name": "haunted ps1: spectral mall",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "1rwVRdTMueLvTArc0odmIc",
+          "name": "jason page"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373fdd09dd547e7c6ab112da5",
+      "uri": "spotify:album:2sV49k1OR1IJMUATJ6wXn6",
+      "name": "exile",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3hvgLXeDFNiqDOVXl0xTge",
+          "name": "lukhash"
+        },
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737552b283fb0fd38608411f41",
+      "uri": "spotify:album:2Eae5GSa5Oh6rx7HAxYShp",
+      "name": "adrenaline",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273864b6d8dafa0f9e7fd83c7e5",
+      "uri": "spotify:album:0FXtXAIHscBAkJ44NVkyHR",
+      "name": "pursuit",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733db55947b2c28e361e24203b",
+      "uri": "spotify:album:0Zc4SbSBT4CzotrXJqxZZ0",
+      "name": "undertale - spider dance (shirobon remix)",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326168325581434cdbfcf0f2a",
+      "uri": "spotify:album:1e8SJhrwp1Qj1Yegme7ZxY",
+      "name": "psy2k",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "5tXUIbGjW1uqXoy8cPW8MB",
+          "name": "meganeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1fca1c7f158852ba8997441",
+      "uri": "spotify:album:03Qstw18NlxXYdOOwAXXlz",
+      "name": "step it",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcf4cc0e43bb588b771c2a0c",
+      "uri": "spotify:album:0zlbE63YphKLYnmtNV1pdv",
+      "name": "komagome donk master",
+      "album_type": "single",
+      "release_date": "2021-03-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c98781aef416da15d874966",
+      "uri": "spotify:album:7wB0TVIwbDl1332vMRifS1",
+      "name": "warp",
+      "album_type": "album",
+      "release_date": "2020-11-10",
+      "release_year": "2020",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc2286b4357aea39fedbf9ce",
+      "uri": "spotify:album:5w8LiHMvjSQm13gJslajBG",
+      "name": "love is insecurable (shirobon vocalizin' edit)",
+      "album_type": "single",
+      "release_date": "2020-03-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "3nHvFiNo6nYIDY6Hb0ZDD6",
+          "name": "chibi-tech"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324cbc3099e10c3a979521c88",
+      "uri": "spotify:album:5xCcnaKRcSpVrpv0Ewrrpi",
+      "name": "destroy u",
+      "album_type": "single",
+      "release_date": "2020-03-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        },
+        {
+          "spotify_id": "3FPflECmvkrze212dLPRSC",
+          "name": "gfoty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8157cc7b483003889207a98",
+      "uri": "spotify:album:5anfjmrFxzjW9jzkwm5A4n",
+      "name": "just shovels & knights - la danse macabre (remix)",
+      "album_type": "single",
+      "release_date": "2020-01-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273076525804e3bea5053f5f564",
+      "uri": "spotify:album:1kyxVENkQ7P5HppxFezKLQ",
+      "name": "special selection, vol. 1",
+      "album_type": "album",
+      "release_date": "2019-10-17",
+      "release_year": "2019",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a729eb94913da3fa20277ea",
+      "uri": "spotify:album:3JtbUK1pMEXJq0G3TgHx4y",
+      "name": "rebirth",
+      "album_type": "single",
+      "release_date": "2019-07-31",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cec50b16b4cb65541a5543b",
+      "uri": "spotify:album:6w3D7YuGaze8jDwPBWtfTi",
+      "name": "opia",
+      "album_type": "single",
+      "release_date": "2019-01-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a42af34420f16c4fc2d6bb2",
+      "uri": "spotify:album:0zMb8YjoJqsaEyLrDEoHhH",
+      "name": "reject",
+      "album_type": "single",
+      "release_date": "2017-11-28",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273549a251a4ba9d529ed23d2f7",
+      "uri": "spotify:album:1vbFgJg0gd9iQUYLdHjcHf",
+      "name": "pleasure island",
+      "album_type": "single",
+      "release_date": "2016-07-12",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383bf91615fea035af549d7c6",
+      "uri": "spotify:album:2nSu0nYRdDXik6pbxTuoik",
+      "name": "dimensions",
+      "album_type": "single",
+      "release_date": "2016-02-09",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326d57bc02fc30a0bfb0bf312",
+      "uri": "spotify:album:3Yx33fnE6WDiVZrRiQRstV",
+      "name": "infinity",
+      "album_type": "album",
+      "release_date": "2015-04-14",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e04a6321cbe1d0665cda0bcb",
+      "uri": "spotify:album:6znCEPliLw07sgoSpS5Nss",
+      "name": "the arcade dream",
+      "album_type": "album",
+      "release_date": "2014-08-19",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273212f03becf509d45040f847e",
+      "uri": "spotify:album:1bKu1Zj0yM6r3Hcp6ucDFp",
+      "name": "regain control (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-06-24",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ba57eade59ec6abe21b2b82",
+      "uri": "spotify:album:1GAtP3aIFr6MOGvPc3St2s",
+      "name": "distant reality",
+      "album_type": "single",
+      "release_date": "2014-02-04",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739974c4bfa8c50a8d00cbc20b",
+      "uri": "spotify:album:7wTlluUqgPcViC69F7gWeO",
+      "name": "back tracking",
+      "album_type": "single",
+      "release_date": "2013-08-27",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368c5f05dac183fec658371d8",
+      "uri": "spotify:album:7vJ91eEO9QgNDyRKEJYQ6G",
+      "name": "22:22",
+      "album_type": "album",
+      "release_date": "2012-09-12",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ac69b6bc2d5871853e17fd3",
+      "uri": "spotify:album:3qkh0Ui2gbEdeBtvKMqeYc",
+      "name": "connected",
+      "album_type": "album",
+      "release_date": "2008-09-13",
+      "release_year": "2008",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8beb3e101312a1574d5218d",
+      "uri": "spotify:album:1dGoxPfNLWQarl6bCWve5L",
+      "name": "golden apples",
+      "album_type": "album",
+      "release_date": "2007-08-07",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2OgP0RGmDrXN9kOWRNfEuE",
+          "name": "shirobon"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:35.000Z"
+}

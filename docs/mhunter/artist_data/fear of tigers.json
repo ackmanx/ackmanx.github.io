@@ -1,0 +1,712 @@
+{
+  "name": "fear of tigers",
+  "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+  "uri": "spotify:artist:2eMdch9qwgd4eJoU4Wgsuy",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273ca37d130918f043b78f31215",
+  "genres": [
+    "synthwave",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273198b6fd68006db7a3635db0e",
+      "uri": "spotify:album:4OVWekELlltLXix1bfrnCD",
+      "name": "pizza con patate",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d947e55d865d82d13a0038c",
+      "uri": "spotify:album:1V3uR8xKvuomIZ4BMdoVH6",
+      "name": "dreaming of you",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a4d5d01212ac5ded038f4b9",
+      "uri": "spotify:album:454SSoXnVhTfKsVjQ0bvdD",
+      "name": "don't make me wait",
+      "album_type": "single",
+      "release_date": "2024-05-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273107ab28dd2694fc15e688c08",
+      "uri": "spotify:album:22E37gTePNKoJzwa3bA93c",
+      "name": "running out of love",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273728b97145ce16cc7d0d264a5",
+      "uri": "spotify:album:6RtnfsGI2ass9Zj1D9t86V",
+      "name": "my love will be there",
+      "album_type": "single",
+      "release_date": "2024-03-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735957892645e13fa2e5c08094",
+      "uri": "spotify:album:2eSmDY5MONYNiABHhstHUN",
+      "name": "you got",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        },
+        {
+          "spotify_id": "3txM1X4je9gqlxE9IKqVsl",
+          "name": "justin faust"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d2d8246e8b86758ff1b44c5",
+      "uri": "spotify:album:3Fcsor4PArVoMSHeKhAiEv",
+      "name": "let's go back in time",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737904acc152a6e34b29b2c2a1",
+      "uri": "spotify:album:4FkcReGU7FsG3Kg9sY7FKv",
+      "name": "too much tv",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f24ffa213d3742be31320d66",
+      "uri": "spotify:album:7LwnOdN5RtJ8FyAjqcupMM",
+      "name": "shine (fear of tigers remix)",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3WdYHvFVTB7OeUODdtrSfM",
+          "name": "sandor gavin"
+        },
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        },
+        {
+          "spotify_id": "2IAeBfMdAZTv8XbI5jEldN",
+          "name": "horizons 1982"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2af94325f02e3c1f181b476",
+      "uri": "spotify:album:398LcZVqf9sLUiV2nyeFEx",
+      "name": "dreaming of the deep",
+      "album_type": "album",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382161f3c04bd3606af8e7358",
+      "uri": "spotify:album:1pVhsTw7QI24XUxlcdnzDp",
+      "name": "looking for the truth (ben’s cosmic re-edit)",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273864644544322f73d87f2a68e",
+      "uri": "spotify:album:74ZDUbYU0GsU0kEuZvP6zI",
+      "name": "down to the sea… and back (ben’s balearic re-edit)",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732540beafb4c981a2ca414ac6",
+      "uri": "spotify:album:1pJKILGpSfysgMJiE8a6Kw",
+      "name": "neon bluebird (fear of tigers remix)",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1FBs2NQcXTTcfu3NXvmk4U",
+          "name": "eliot"
+        },
+        {
+          "spotify_id": "74pQqvp1LaEB0iGtoLfeuL",
+          "name": "silverhook"
+        },
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381b26c47fd14f0253b2669f5",
+      "uri": "spotify:album:1UV1tScUvtJ2BdBoqcuADi",
+      "name": "blin!",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386c15e2c350a7fcf39b049f8",
+      "uri": "spotify:album:2Kr3PG60aA7oDl5UVCQ5za",
+      "name": "classic fighter",
+      "album_type": "album",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391761eae0d3c6d291d833fcd",
+      "uri": "spotify:album:2IHRvgGK3t8gCCetnzX5zs",
+      "name": "karumba!",
+      "album_type": "single",
+      "release_date": "2021-07-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388cd42357aead58f0e787de0",
+      "uri": "spotify:album:4pONhpIvMQ5F2qM1Y4vAn9",
+      "name": "don't hurt me",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e14c3d167eff88523e15c06a",
+      "uri": "spotify:album:31QPm221Vl0znacxSU6Uon",
+      "name": "it's only for you",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        },
+        {
+          "spotify_id": "2M8lNbWlRNCs6PZUifnJ33",
+          "name": "kbbles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d82a5f7b1e192cdb3d20237f",
+      "uri": "spotify:album:1QMGjVcFsWTUDxNMGWr2u5",
+      "name": "rain on you",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273307e9901b95b5dcc6387ac75",
+      "uri": "spotify:album:5iSP51CtLz0llWQQfVqy2n",
+      "name": "tiger blood!",
+      "album_type": "album",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a55d8804cb44a68bf692014c",
+      "uri": "spotify:album:2Wo4e9unVmfljwhFaobxhi",
+      "name": "so much in love",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2ccd7416ed0fd9af3b773d9",
+      "uri": "spotify:album:0LOW1zFaefZIaM4C5XdeIk",
+      "name": "tiger blood",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4094f05b825afb516815897",
+      "uri": "spotify:album:7Gl3606KXFoFZb5q60E1sF",
+      "name": "that's my why",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302b921546d20b00ce75ca587",
+      "uri": "spotify:album:1rXHjpm82zDYarxdBEKyka",
+      "name": "looking for the truth",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db5c4c369ffa94e5d47b6de1",
+      "uri": "spotify:album:3lfn8wrsYHzoJ6SUORShMa",
+      "name": "faraway",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a838c3a13b97460eaf4114b",
+      "uri": "spotify:album:59Ic9yEN7UitKygVJGKRGv",
+      "name": "down to the sea... and back",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731611d399b5a24f75ce001e70",
+      "uri": "spotify:album:4XWo6Lry3WXps3nOQwvfkM",
+      "name": "all the wires",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a1bf83ea603a84913f074f4",
+      "uri": "spotify:album:26f6ESTHQigXY2SioFG6Nw",
+      "name": "enter the tang",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa5ef557743b112bd2ad5382",
+      "uri": "spotify:album:0rDSpAzUdjzHt7LrOrWlvK",
+      "name": "ocean of love",
+      "album_type": "single",
+      "release_date": "2020-05-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ef2b88d0c474c819daf7fca",
+      "uri": "spotify:album:53gk40qKs0sS9NuJpfD63t",
+      "name": "tapeworx",
+      "album_type": "album",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbc5e8cc8912447f04dfaa2e",
+      "uri": "spotify:album:3vDhhnXgpvBZ5zDP6JaLRH",
+      "name": "when we say goodbye",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398e763c7af291a218bcda13e",
+      "uri": "spotify:album:6aMdHPvr54ybpZ8aC4bIhb",
+      "name": "10,000 ways to love",
+      "album_type": "album",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337f88bd9926cd8ed4ce700e7",
+      "uri": "spotify:album:3WiTuxx56tZQDD8QWeW4fp",
+      "name": "a winter album",
+      "album_type": "album",
+      "release_date": "2019-12-01",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c458175a6f9d66e368b8d2c",
+      "uri": "spotify:album:7dXWdouI2b4HvLh682SEwl",
+      "name": "the synthwave years",
+      "album_type": "album",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331e0cbd4ab17527e10afbc26",
+      "uri": "spotify:album:4WWBuBLYqGBwdiNdnGCSYo",
+      "name": "echo drop",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b04835c8b3dd5505f469c1c8",
+      "uri": "spotify:album:5c6lKNqNOAeBriNNoiz2VL",
+      "name": "forever in your heartbeat",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a66adb3267572c36404b53b",
+      "uri": "spotify:album:4vYcNBcTAjc080cnB0dZiL",
+      "name": "the loving that surrounds you",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f84339d78db15e378e261b67",
+      "uri": "spotify:album:2QtpLVKbLMmGvngAgVuZz5",
+      "name": "the twelves, vol 1",
+      "album_type": "single",
+      "release_date": "2019-08-26",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d8b8481842c27eefa4f2946",
+      "uri": "spotify:album:1QC55VQSwgYIZsTWEJe4Mh",
+      "name": "cossus snufsigalonica part iii",
+      "album_type": "album",
+      "release_date": "2017-02-27",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273290e1e7745ae3ed0fe6f6051",
+      "uri": "spotify:album:5LUcOy98rIMdcy8pKb2oOy",
+      "name": "pretty boys dragon show",
+      "album_type": "single",
+      "release_date": "2016-10-17",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ece78c79e34fccd79920bdbc",
+      "uri": "spotify:album:0lic8QRJqBpluNniSDvhfi",
+      "name": "strange tales from a chinese studio",
+      "album_type": "single",
+      "release_date": "2016-08-22",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f56085d6d96c257182afcaea",
+      "uri": "spotify:album:5TAt0zQYz6hJGGfs3fn0RJ",
+      "name": "hypnerotomachia poliphili",
+      "album_type": "album",
+      "release_date": "2016-07-07",
+      "release_year": "2016",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ee3eeee0b095f54960ec8f7",
+      "uri": "spotify:album:0lAjX7BuhEaQ59UMIjzlVU",
+      "name": "christmas in kaohsiung",
+      "album_type": "single",
+      "release_date": "2013-12-16",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f6ff9fdcbb92f688c4f3b94",
+      "uri": "spotify:album:3BJGnhhTpljYnuWm2ezizE",
+      "name": "zoipa",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357d3eb6dfa4abcbb16042fe9",
+      "uri": "spotify:album:3J65Bu5JSDqY0FzIg3FLsI",
+      "name": "cossus snufsigalonica",
+      "album_type": "album",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2eMdch9qwgd4eJoU4Wgsuy",
+          "name": "fear of tigers"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:17.000Z"
+}

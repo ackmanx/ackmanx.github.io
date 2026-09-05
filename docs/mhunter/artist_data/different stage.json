@@ -1,0 +1,834 @@
+{
+  "name": "different stage",
+  "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+  "uri": "spotify:artist:7ceDWHSy9Z6e8uAsVesK8Z",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb14d147ab515d9622123f32bc",
+  "genres": [
+    "progressive house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363a947258571191be4e657c3",
+      "uri": "spotify:album:73ytS7gECpaCJ6poUMUgXv",
+      "name": "shed your skin",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UCmm2m2khcmuvzJ0tuqBU",
+          "name": "sonnero"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e3a9ba985c85ed691dcb00c",
+      "uri": "spotify:album:5VNLTzPTOMNb1RFQQzc37v",
+      "name": "waves",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UCmm2m2khcmuvzJ0tuqBU",
+          "name": "sonnero"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f54b447bcc8cc45374ce669c",
+      "uri": "spotify:album:7f6gTIatuCYym1WsrRERCn",
+      "name": "make it glow",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0FAjfnZoYYn9rnVBW0pKv8",
+          "name": "ash nova"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cda14902910a2444fe0f3f5",
+      "uri": "spotify:album:4Fdqb9Fqbj2TYMQbPLUYjc",
+      "name": "signals",
+      "album_type": "single",
+      "release_date": "2025-05-15",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2a29bbff310d63afa022d1f",
+      "uri": "spotify:album:0JagE6mWlHgeehrRr7w8Hk",
+      "name": "running",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c4983ea7a57769d870489f6",
+      "uri": "spotify:album:7kaGN39TD0x0IAwdO8zYh7",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2025-02-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ec3a6c7b79512178c81c696",
+      "uri": "spotify:album:7u4raBJUXZCPARNmfo4yqi",
+      "name": "hear me out",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db5ca4d60d5836bafbc70118",
+      "uri": "spotify:album:5IXxoWURqzdih9oT5JMdGE",
+      "name": "the game",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c62875f7524cdc4e3a423eea",
+      "uri": "spotify:album:51GR40KK7PfmMzCFuLQKTp",
+      "name": "the sky",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "2VxxKYEtuy6JnDDB2hpoOH",
+          "name": "run rivers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730589104387b396d204b456f0",
+      "uri": "spotify:album:5HOpsEgjKZssgakWaHFhsi",
+      "name": "growing",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "0FAjfnZoYYn9rnVBW0pKv8",
+          "name": "ash nova"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f2bfc7cad7666b1472e3520",
+      "uri": "spotify:album:6PVIwdO3lKXMHrzb1s6kpS",
+      "name": "feel alive (remixes)",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1WrO4cGKIG6EgYqyHNReej",
+          "name": "morgin madison"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335d3759abdba388690caba43",
+      "uri": "spotify:album:1dDeGRGnjxSvc2K5wUDWTH",
+      "name": "numb",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KyCVyWufNDwx3XKKZIbXg",
+          "name": "dropack"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "06JAfjaLQglgC2iiRBSkKr",
+          "name": "protocol lab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d363f9fd4591305076ea9d97",
+      "uri": "spotify:album:7nOPhOTZJMdDz5ZNeoBBSV",
+      "name": "rewire",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "2VxxKYEtuy6JnDDB2hpoOH",
+          "name": "run rivers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386acf8d283c701f13ff14e64",
+      "uri": "spotify:album:0d7Yny321DE6YtJC8C0oTy",
+      "name": "chemicals ep",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1c770096bf6d4bf54a833b0",
+      "uri": "spotify:album:7fR0yJ9R69zIIBNuOe0Wu0",
+      "name": "burning inside",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4Og74Z0rr1F7WgoAqFfRn7",
+          "name": "galluxy"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273357f4f1012baa4f8d63a8c98",
+      "uri": "spotify:album:6zNlZ4pZtxIQnQkfmOnFXl",
+      "name": "cycles",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfb98e1a5dabe679d85147b9",
+      "uri": "spotify:album:2zvwZxN1GEoaPwlAJ3CzrZ",
+      "name": "everyone",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377938e5d748f864b33e0d96b",
+      "uri": "spotify:album:2TZSmNJVWFAEPyez2IpXML",
+      "name": "deeper love",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5fL22gqogawtrDsvcNVyyC",
+          "name": "ralk"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "0IUu7qzhlQ3OxKomKLpC5c",
+          "name": "sone."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273892a10a361bca4746b60c6c2",
+      "uri": "spotify:album:4P13MoGS50cXdMjbYvzk47",
+      "name": "beyond",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c49ba5a60979e17205ab8f0",
+      "uri": "spotify:album:7E2bzbN2rIgN2kDN7Lty7O",
+      "name": "no one is listening",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "14BurngfdQAWg2wC7eaGQt",
+          "name": "rickysee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273444534312cd0da193cbd4203",
+      "uri": "spotify:album:0HYzx8OVhCl8Ar9Wtr3ntL",
+      "name": "take me home",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3SNKZ8uTQoSyMsUNqNBOD2",
+          "name": "kiko franco"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933f824ab8bf265fab3fdd9b",
+      "uri": "spotify:album:3SHyFdReZBP4VcTGCD5ogd",
+      "name": "won't forget you",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "5B6a4tvHuhbxL5sNHRbbKH",
+          "name": "moonphazes"
+        },
+        {
+          "spotify_id": "2VxxKYEtuy6JnDDB2hpoOH",
+          "name": "run rivers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0d20dbc7bcad0b397698bff",
+      "uri": "spotify:album:6GKA5mAzXqxvCJGBMGQeC5",
+      "name": "you or nothin’",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "7bI21Y9xsFRFVtt3cWf73n",
+          "name": "hugo cantarra"
+        },
+        {
+          "spotify_id": "4pooXkYjBxl4t18gUeTQxa",
+          "name": "next to neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737843d3b89e735837e98f6577",
+      "uri": "spotify:album:0EI7H5EMNRT2QymJLz6Y2Q",
+      "name": "ghost shell",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xacomOfO7szsy6qZanBtI",
+          "name": "double mzk"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "0izhVKamEA22wDMY9OZW26",
+          "name": "emperors music"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ad9cb1d1ac89cd991dafe3",
+      "uri": "spotify:album:4jLsxBIfIGRg5ccBDOXzib",
+      "name": "love u more",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "27TqtA3DJFLCXv7o8h0GgL",
+          "name": "brannco"
+        },
+        {
+          "spotify_id": "4LGS70h8ju2fbN4S6Z4Q9d",
+          "name": "wina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2e7818b706d59953fffc0b2",
+      "uri": "spotify:album:7L5i4cVj8a9GrsqhQBZu8Z",
+      "name": "you",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "5eX0epLy551uFsC45QUtnQ",
+          "name": "strange mike"
+        },
+        {
+          "spotify_id": "7uc0GQxf3oIxslrdSdPAEu",
+          "name": "nick mcwilliams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273346dd2b7682dbfc4d835369a",
+      "uri": "spotify:album:4YcU9rSBoHylQco0YpMKQ9",
+      "name": "my lover",
+      "album_type": "single",
+      "release_date": "2021-11-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "3m69jLeg7uNGZkiAd27oEc",
+          "name": "dee:vision"
+        },
+        {
+          "spotify_id": "2OGBSepKzSYMsmFJXCCAWy",
+          "name": "fernandez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a7794d080ec545d06c74cc9",
+      "uri": "spotify:album:65E4FA9nUwFzpSfKymAx8R",
+      "name": "hold me now",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "27TqtA3DJFLCXv7o8h0GgL",
+          "name": "brannco"
+        },
+        {
+          "spotify_id": "6PsODaRafpOS8MV5pq6Ruk",
+          "name": "lucas berton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4f3307cf98cdb3768e1e331",
+      "uri": "spotify:album:57mTEoMKM9hKEapBtbrEUj",
+      "name": "closer (different stage remix)",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6xacomOfO7szsy6qZanBtI",
+          "name": "double mzk"
+        },
+        {
+          "spotify_id": "7e6KqpXfInWHjdQufAnsyj",
+          "name": "santti"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f5e2b64fe68086937f0a346",
+      "uri": "spotify:album:65u5oC7LAnW3AFgS0eZeYl",
+      "name": "don't leave me behind",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "3dWTugrnhjupQZpKtltn4x",
+          "name": "cheyenne janz"
+        },
+        {
+          "spotify_id": "4oS2cKGV1zEvbX4H4KvXIv",
+          "name": "clinton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5e3525825aa94c0a4ad4d47",
+      "uri": "spotify:album:3wdhziaFFMdLBk54RYTcOQ",
+      "name": "give me your love",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1zJJDNVhMAzJxA8siepNNM",
+          "name": "blacker & james"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0aea2028959526f4e109647",
+      "uri": "spotify:album:3kvWCnoxggtikcfCBomg1S",
+      "name": "motions",
+      "album_type": "single",
+      "release_date": "2021-06-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "1FAS8XCxyHUidPR0nOe65K",
+          "name": "zeeman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735daebfdaae7c18c617527265",
+      "uri": "spotify:album:6R1G7xGL6fy4nbmQ9CChjF",
+      "name": "feelin' high",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3m69jLeg7uNGZkiAd27oEc",
+          "name": "dee:vision"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "6bGMlUDgWic2u3LngIX1aA",
+          "name": "am"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273783b9f5583c5c1968a137497",
+      "uri": "spotify:album:53Mo7bK79xT88usu3p6Rel",
+      "name": "diamonds",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "5i8RAkWsm49dvGlUH7oyiM",
+          "name": "ming"
+        },
+        {
+          "spotify_id": "0TPJVl7ytcjNTl4K4DrEeS",
+          "name": "mattee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309747ea2cd9d57cf7bda48ed",
+      "uri": "spotify:album:6r6rHZIGVLcjUWXgm5zWoH",
+      "name": "anyway (selva & different stage extended remix)",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07UlX2vApmKGyxbPd8GEfW",
+          "name": "shoeba"
+        },
+        {
+          "spotify_id": "1RQ3ZwCNI7KniEKIN5kkio",
+          "name": "mattn"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "1Ejjxuav6kpsSyb6QIhjHa",
+          "name": "selva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349e288972d78c7e7e000f6a9",
+      "uri": "spotify:album:0NCg23n8DiQBKWtvzdalRy",
+      "name": "never enough",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5i8RAkWsm49dvGlUH7oyiM",
+          "name": "ming"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312dd05996d89502a77b8a2d6",
+      "uri": "spotify:album:5wd7wEZsfLCsHybuxkiMTy",
+      "name": "regenerate",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303cadad7f2269517d7673ec9",
+      "uri": "spotify:album:193sgGT0Up1lwEDMkz3LBz",
+      "name": "running from yourself, remixes pt. 2",
+      "album_type": "single",
+      "release_date": "2021-02-08",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0yTp5veHJAyKhfYdvmyh7B",
+          "name": "radiømatik"
+        },
+        {
+          "spotify_id": "1REIcVUKiv1NcVivFm1ufJ",
+          "name": "stee downes"
+        },
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736114e0c2cfb6d4a30845b34b",
+      "uri": "spotify:album:7zU2IyHwSiWP996ZJL3fVx",
+      "name": "red light",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "6Ll4r47YiRBbI5a1gK0msf",
+          "name": "thomas klipan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376119e366e673989bc29d853",
+      "uri": "spotify:album:0bUnDkM1xqaLHcFPkEnlgn",
+      "name": "open your heart",
+      "album_type": "single",
+      "release_date": "2020-07-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "1Ejjxuav6kpsSyb6QIhjHa",
+          "name": "selva"
+        },
+        {
+          "spotify_id": "1LZ1TpuHPh2Z1Joff5OMGp",
+          "name": "ana k"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315a54cd2117cf1bcf93703f7",
+      "uri": "spotify:album:1BTXJq2kaJZwCK0PugO1A4",
+      "name": "lost",
+      "album_type": "single",
+      "release_date": "2020-05-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        },
+        {
+          "spotify_id": "1OCNOK8TdTxC2yW9F0pzpn",
+          "name": "denerge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326dfe7828c9b4413c5a6c0c3",
+      "uri": "spotify:album:7xnutC5tGJWDacIiCtM2Px",
+      "name": "genesis",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7ceDWHSy9Z6e8uAsVesK8Z",
+          "name": "different stage"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:49.000Z"
+}

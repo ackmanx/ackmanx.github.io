@@ -1,0 +1,931 @@
+{
+  "name": "protohype",
+  "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+  "uri": "spotify:artist:7KG6QgP9Xb87ybAr9C24qw",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7f5ee39b2c9388801317ca4b",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "riddim",
+    "deathstep",
+    "dub",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a41960a4b4cd7134b6a858d",
+      "uri": "spotify:album:1j0K5kGqmze0i7kXJhthT5",
+      "name": "shtinky",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b730c8dd7efe0886608a5a",
+      "uri": "spotify:album:6zppxkkIM8nXFLmo9HBLYX",
+      "name": "remedy (misfit remix)",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6YwsIfJahtVO1AUlVumEs8",
+          "name": "charmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732260b053db25d79204606579",
+      "uri": "spotify:album:7peB5p4494j84KbgrXFS4O",
+      "name": "love letter",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a4847803f904113483c7297",
+      "uri": "spotify:album:0watqskoaKRKZZ2cyOr3sB",
+      "name": "remedy / awakening",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6YwsIfJahtVO1AUlVumEs8",
+          "name": "charmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dee5959cf56f82da784f9666",
+      "uri": "spotify:album:6wNnhbeMS8U1pcvW5ux3hw",
+      "name": "ent/r neon",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cf58927fae1bdd1e08fb414",
+      "uri": "spotify:album:3szKESHOV0A3hPxLBwe6kp",
+      "name": "windows down",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "5BKXCIdVnAwBQKUoGNqfZj",
+          "name": "cristina soto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a0330ff74ce29a172272ac2",
+      "uri": "spotify:album:26xdD5Gj1OdRFYkQH8aPCY",
+      "name": "i turn into a telescope (protohype remix)",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c1ad8ac7e2293123ff71aa3",
+      "uri": "spotify:album:2EVkQdaF2stwMJ2ytt97Pr",
+      "name": "dancing with your ghost",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6YwsIfJahtVO1AUlVumEs8",
+          "name": "charmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a493df1d4e9a0570d5557816",
+      "uri": "spotify:album:51vCpJyVd3fN1iJumcDATd",
+      "name": "castles in the sky",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6YwsIfJahtVO1AUlVumEs8",
+          "name": "charmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e81ce9682ba5db9e0bbdf69b",
+      "uri": "spotify:album:6CkJ284Qp8Cx2X38fyHbgS",
+      "name": "t'd up",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a3ac7f61590b9050d296a2f",
+      "uri": "spotify:album:6SthWSbXnYvBBCyJOcodYf",
+      "name": "twitched",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "5JJclMMPi2YgEKjJY9AjbB",
+          "name": "mr. bill"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eded71c1a13a9a74cad69f8",
+      "uri": "spotify:album:6bJ8T5d5UzrrnQ3xKoV9M3",
+      "name": "elysium",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391694e648a789033e1eec18e",
+      "uri": "spotify:album:4bhsQ3kCZIt3dz4608IN5U",
+      "name": "daily bread",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273349e81f8e43fb409f4fe7f89",
+      "uri": "spotify:album:6JCovaFfL8C4ONls7hPmvm",
+      "name": "feelin' it",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734543b7e9d7f6d93890004b42",
+      "uri": "spotify:album:07ZeetOGeVZFwUQlQoUR8v",
+      "name": "shook",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3AIJLK5M4FWwSx23YvOgvC",
+          "name": "careless castle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273012e3818b134b7cbf97f0451",
+      "uri": "spotify:album:6UTs7RVmwdt58v3rw5jDMs",
+      "name": "dangerous levels",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xaF2VIGwhWyEMbM6GuLdm",
+          "name": "teddy killerz"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eecc755b8bc420b19fe73957",
+      "uri": "spotify:album:6CuACA6Y3y914DjtxNrKxZ",
+      "name": "cups up",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735353c5d080687d79d502191a",
+      "uri": "spotify:album:0C8E8ya0ApNRjypco2Hnk9",
+      "name": "see the light again",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "7qZdPKLV8xVaqsV98Dz9or",
+          "name": "meredith bull"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344fcae52e4a92d7864093f2b",
+      "uri": "spotify:album:7L1GwiFZw9pzkN13xujcMY",
+      "name": "dippin'",
+      "album_type": "single",
+      "release_date": "2021-02-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "0663ucUX5KdVY18dEYe0KC",
+          "name": "shanghai doom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a3cdd8cffe008c284794d88",
+      "uri": "spotify:album:3qbARp5Nqno0vBdZj1mDvs",
+      "name": "goat",
+      "album_type": "single",
+      "release_date": "2020-12-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c3ab98cf620f2c3b5163ef6",
+      "uri": "spotify:album:1g2pTzb40Rnn5st62zSwoN",
+      "name": "no compromise",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736823c8c5e342900d332a8a2d",
+      "uri": "spotify:album:2cS0pE0iJDFRQ0CAPbh1sM",
+      "name": "lost artifacts vol. 1",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ccb4592c41bb1f086bf9b74",
+      "uri": "spotify:album:6dGONE5IM7c7Psi0rOr962",
+      "name": "runnup",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730514e98455c96d889c5df34c",
+      "uri": "spotify:album:7gK15j0sozbaYhRv2pHGNz",
+      "name": "open world",
+      "album_type": "album",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac6eb35a69df11141b7d2831",
+      "uri": "spotify:album:46gZsIlF1FgqvZ6HfhwwvQ",
+      "name": "what it is",
+      "album_type": "single",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6VaCJv2KP3kU8uZiezGkgM",
+          "name": "born i"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bfb1ea2fcf7f713854b6c78",
+      "uri": "spotify:album:686MxzIKGmP1t2SGQoZPCs",
+      "name": "gunfinga",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ae805934c1dc367f1e0bbb5",
+      "uri": "spotify:album:3M8mUnzpHJPgJ7K4epWq3b",
+      "name": "run cried the crawling",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "6YwsIfJahtVO1AUlVumEs8",
+          "name": "charmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5fb88b4ca4e542ab74af32d",
+      "uri": "spotify:album:12vuMKj08aXRCezH4cyD5V",
+      "name": "bop bop",
+      "album_type": "single",
+      "release_date": "2019-05-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3ad9b1725e5a6764491179e",
+      "uri": "spotify:album:6iHR7MZ4uXOBjoG9lmy8BO",
+      "name": "downfall ep",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffd2b6192bc7de312bc20e0d",
+      "uri": "spotify:album:4FMkcaSPWyIDJeiuknnHrF",
+      "name": "levitate",
+      "album_type": "single",
+      "release_date": "2019-02-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d55e450595f9516ffbe9bfd1",
+      "uri": "spotify:album:35xpa40ONHFqGuTJ5W7d5C",
+      "name": "fiyah (jonny grande remix)",
+      "album_type": "single",
+      "release_date": "2018-11-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "04ExgpIWFqn1IkBJwKZWQT",
+          "name": "jonny grande"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6f5323fac370a75234a7ff2",
+      "uri": "spotify:album:0H23XrunQDRYVtH5pQZHmf",
+      "name": "prism",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "39Igqv4O9OUd0De2mCdB9K",
+          "name": "the arcturians"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a5cde0bb5a64f5a3012577d",
+      "uri": "spotify:album:2UvJrmCtxKfZm79MK9bHmx",
+      "name": "nightboy",
+      "album_type": "single",
+      "release_date": "2018-09-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3141dd72923c3afdc6ba778",
+      "uri": "spotify:album:2Qgdb395p7lgWPFHbhxG1p",
+      "name": "fiyah",
+      "album_type": "single",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273561426abe9ba4dd56afa5bd4",
+      "uri": "spotify:album:6l08gwe7GUyFsDMUSxxQ4R",
+      "name": "blink remixes",
+      "album_type": "single",
+      "release_date": "2018-03-05",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3OzXO9bMqw6dwNmyJ25MY2",
+          "name": "kezwik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735572f4671bd2841ce23afd97",
+      "uri": "spotify:album:5d6ySzZzV50T7ywrMLtnnZ",
+      "name": "nimbus",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a40ea490b3fc62e1dbe8513f",
+      "uri": "spotify:album:02nAgra7teAeeRhDgoNd6I",
+      "name": "yup",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "66wHriFFcoF4fKJrBm6BB6",
+          "name": "goldplate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386aec1b04dbeb94339d61dbf",
+      "uri": "spotify:album:7tS48GVGsVtnlzvweUpKoF",
+      "name": "made it home",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730039d705c9b5e3f04e13e9d3",
+      "uri": "spotify:album:5t502nVkcgF6lEfuXBQ9gJ",
+      "name": "run this",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1PP0a3KRZiaqtahgtJ3bdv",
+          "name": "saymyname"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b45e04cb7d11c52455cd86a",
+      "uri": "spotify:album:0OReGp02wGwvIApIJI60bR",
+      "name": "blink",
+      "album_type": "single",
+      "release_date": "2017-04-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3OzXO9bMqw6dwNmyJ25MY2",
+          "name": "kezwik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d13a03b9c09d80df9d4efcdb",
+      "uri": "spotify:album:4nKucwzDszNvoridRtKAWA",
+      "name": "blackout",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273971fd67c4969a4a83a46751c",
+      "uri": "spotify:album:7CLMAitkMmjtIJPLtJeWL1",
+      "name": "puppy crew",
+      "album_type": "single",
+      "release_date": "2016-04-08",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734218a71e55c301d2d97e1235",
+      "uri": "spotify:album:3ctySUuFex0rBYTz6ToSg1",
+      "name": "the dog house",
+      "album_type": "single",
+      "release_date": "2015-07-07",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c1193abe9bc041210ff04ac",
+      "uri": "spotify:album:7ewDtjIwlkb7YkcwJzZMXm",
+      "name": "encore",
+      "album_type": "single",
+      "release_date": "2014-08-19",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378012d7ace70df3e7fc4f4e6",
+      "uri": "spotify:album:3Qo0M7l8q94b9iJ8O4xCut",
+      "name": "speak no evil",
+      "album_type": "single",
+      "release_date": "2013-10-22",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6215aa6acdf60584be84104",
+      "uri": "spotify:album:4TN6K3X4KvY6wZ76BY0V6o",
+      "name": "transitions",
+      "album_type": "single",
+      "release_date": "2013-09-17",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3V1h3kAdiVDBiwlY2i6dJz",
+          "name": "12th planet"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "1bTozP3jBtV8kxyHOnWXKQ",
+          "name": "killagraham"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734308eac33253827418653ee7",
+      "uri": "spotify:album:3kDveLStaCNYgeXTxPYBZQ",
+      "name": "fly remixes",
+      "album_type": "single",
+      "release_date": "2013-09-03",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739adece67b460f59c7d54695a",
+      "uri": "spotify:album:4iwi4BSCJPHoHNp1KwaXAb",
+      "name": "bigger than you & me",
+      "album_type": "single",
+      "release_date": "2013-07-22",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4MGgZjA2tedWUcuaJZlR37",
+          "name": "prima volta"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3kXFPAfFzG0LrudmtGM6Yc",
+          "name": "through the roots"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8f5ca2a00ac4f571ae36b9c",
+      "uri": "spotify:album:0ydW4D9pIpyqoXWuJHe5rI",
+      "name": "sky blue",
+      "album_type": "single",
+      "release_date": "2013-07-01",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4088abce5fdcdd2f6871f25",
+      "uri": "spotify:album:49T9M1C7hPBZBCgcQC7eNF",
+      "name": "hear no evil",
+      "album_type": "single",
+      "release_date": "2013-06-04",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f11b1e09af921b6cba877f7b",
+      "uri": "spotify:album:4ppcM2WtOoCsHn6PtyzNjO",
+      "name": "see no evil",
+      "album_type": "album",
+      "release_date": "2013-03-19",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a3a24d61f826b35d55f2e7f",
+      "uri": "spotify:album:42wzMOk5q3Qh4sEuSDVekO",
+      "name": "vile",
+      "album_type": "single",
+      "release_date": "2012-10-22",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        },
+        {
+          "spotify_id": "3OzXO9bMqw6dwNmyJ25MY2",
+          "name": "kezwik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5ffba968fe83448f64f58b0",
+      "uri": "spotify:album:6BBt4Bs0WUA6KJy3M3WmUX",
+      "name": "bombs away",
+      "album_type": "single",
+      "release_date": "2012-07-25",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ea6bd502a223ac5780808de",
+      "uri": "spotify:album:4agZ60rmnrIzqbccMsKUVh",
+      "name": "space ranger",
+      "album_type": "single",
+      "release_date": "2012-03-05",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:42.000Z"
+}

@@ -1,0 +1,359 @@
+{
+  "name": "dimmu borgir",
+  "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+  "uri": "spotify:artist:6e8ISIsI7UQZPyEorefAhK",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eba09dec20773be4513cdbfe27",
+  "genres": [
+    "black metal",
+    "metal",
+    "symphonic metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fff9b0ba826af775cabefec",
+      "uri": "spotify:album:5vO7AYAWlgTAKVMoHs0Bpt",
+      "name": "grand serpent rising",
+      "album_type": "album",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c65f6403f6647bbbd30cce68",
+      "uri": "spotify:album:7fyaOJvd7Q24CLdMbp0XTt",
+      "name": "ascent",
+      "album_type": "single",
+      "release_date": "2026-04-23",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abdfd1d0e0b0f1f5308333b9",
+      "uri": "spotify:album:1puFNMqJXaDz3qFieW0W6J",
+      "name": "ulvgjeld & blodsodel",
+      "album_type": "single",
+      "release_date": "2026-03-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae0198c41a1fe1d62d731e7",
+      "uri": "spotify:album:6PMOZfuG2E4wDMZLGmpkkx",
+      "name": "inspiratio profanus",
+      "album_type": "album",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738228ba50e528165d3c3f5c12",
+      "uri": "spotify:album:2d5Ga4G5fiBY8oJGQNLUfz",
+      "name": "dust of cold memories",
+      "album_type": "album",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d021e1d2941b963d50a6fd86",
+      "uri": "spotify:album:5MqN56Ebc9XAkrHqK6aH8X",
+      "name": "puritanical euphoric misanthropia (remixed & remastered)",
+      "album_type": "album",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313c1d8588aaaf25c0f1ffbef",
+      "uri": "spotify:album:0IIwoi79RocvIxZXiN7pLN",
+      "name": "northern forces over wacken",
+      "album_type": "album",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c6158ec5efc695b90aa5dde",
+      "uri": "spotify:album:5UWUDx2090yLdH6Aot5x86",
+      "name": "eonian",
+      "album_type": "album",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e13f79b5c174b8c12278d54",
+      "uri": "spotify:album:5P5FdbTkLUALQGZcQd6nMy",
+      "name": "forces of the northern night (live in oslo)",
+      "album_type": "album",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f338a423d76de255cef14db0",
+      "uri": "spotify:album:1lAP0ZWj2nDXDHcChtDzSO",
+      "name": "abrahadabra",
+      "album_type": "album",
+      "release_date": "2010-09-24",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8d602547ac8401713e9d2fd",
+      "uri": "spotify:album:7FIgk3kw2nhkeiJjOwG2H1",
+      "name": "world misanthropy",
+      "album_type": "album",
+      "release_date": "2009-06-19",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328918c70d113936134b9b959",
+      "uri": "spotify:album:1bl5zLDyOuHfBfQMlRkUNJ",
+      "name": "the invaluable darkness (live @ nrk p3 oslo)",
+      "album_type": "album",
+      "release_date": "2008-10-10",
+      "release_year": "2008",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cee5c72e36052eeaa493a951",
+      "uri": "spotify:album:15QUfyeSAQxilXkDCCCI1y",
+      "name": "enthrone darkness triumphant (reloaded)",
+      "album_type": "album",
+      "release_date": "2008-07-25",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273506db8d0c288b0533eb180a1",
+      "uri": "spotify:album:4iW5SJA2EZbx5YRfKCUoAm",
+      "name": "in sorte diaboli",
+      "album_type": "album",
+      "release_date": "2007-04-27",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306dbd422582875663c557101",
+      "uri": "spotify:album:5j9sqHOIux1XUmCi1qpr81",
+      "name": "the serpentine offering",
+      "album_type": "single",
+      "release_date": "2007-03-30",
+      "release_year": "2007",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6b5f90f629ac80e897d859c",
+      "uri": "spotify:album:3JZtdGMFqdSElepv66aE3b",
+      "name": "stormblast 2005",
+      "album_type": "album",
+      "release_date": "2005-11-11",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273373cfed7d757d8c3445d6be5",
+      "uri": "spotify:album:1tB1LW0Ixyd2OWqmZ9lYjW",
+      "name": "death cult armageddon",
+      "album_type": "album",
+      "release_date": "2003-09-28",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2d9beb37b6e59c1188188b7",
+      "uri": "spotify:album:5v3aNQv7Gy2hMMbqRQw5PI",
+      "name": "alive in torment (live)",
+      "album_type": "single",
+      "release_date": "2001-12-10",
+      "release_year": "2001",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351e41d7c23c5db7a50495816",
+      "uri": "spotify:album:6sDdbLoIOzGwR61lL2jGN2",
+      "name": "puritanical euphoric misanthropia",
+      "album_type": "album",
+      "release_date": "2001-03-12",
+      "release_year": "2001",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cff10e9351afe25f07722498",
+      "uri": "spotify:album:6v3llx2Ub9jvy94L1oKAEi",
+      "name": "spiritual black dimensions",
+      "album_type": "album",
+      "release_date": "1999-03-01",
+      "release_year": "1999",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390fc03ad70c24bcf38643202",
+      "uri": "spotify:album:0MykNBP62FjtgCY4EIjcrK",
+      "name": "godless savage garden",
+      "album_type": "album",
+      "release_date": "1998-07-13",
+      "release_year": "1998",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd9e0f790b21c8fdaa4d2567",
+      "uri": "spotify:album:5kQueD7iNwCVmDjYS8Lgtw",
+      "name": "for all tid",
+      "album_type": "album",
+      "release_date": "1997-09-01",
+      "release_year": "1997",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e470f11b0a73cd99d4bb6b5",
+      "uri": "spotify:album:2vsIQw5nIfbO2N4X6pfXU9",
+      "name": "enthrone darkness triumphant",
+      "album_type": "album",
+      "release_date": "1997-05-30",
+      "release_year": "1997",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6e8ISIsI7UQZPyEorefAhK",
+          "name": "dimmu borgir"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:04.000Z"
+}

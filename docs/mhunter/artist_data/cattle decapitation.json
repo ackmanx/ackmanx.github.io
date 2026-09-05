@@ -1,0 +1,300 @@
+{
+  "name": "cattle decapitation",
+  "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+  "uri": "spotify:artist:67ZMMtA88DDO0gTuRrzGjn",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf2ae1471cfed8773fd7160aa",
+  "genres": [
+    "death metal",
+    "grindcore",
+    "deathcore",
+    "metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736258b65178dd4a6048691828",
+      "uri": "spotify:album:3T8t8sAqgPIy4ZvqjAIsNy",
+      "name": "terrasite",
+      "album_type": "album",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a40bdecdf2f2f3d82a630a24",
+      "uri": "spotify:album:0EOXYZmf3RXHG8ERn4iElN",
+      "name": "scourge of the offspring",
+      "album_type": "single",
+      "release_date": "2023-03-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fcda440525307c1690fed68",
+      "uri": "spotify:album:2L4ZJ3BTuZe04IjLP5eNrc",
+      "name": "we eat our young",
+      "album_type": "single",
+      "release_date": "2023-02-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ad1e5455d1ac4c5f5432e40",
+      "uri": "spotify:album:4PFdaRQOVgsbAfTP1Wmj9U",
+      "name": "homovore (2021 remastered version)",
+      "album_type": "album",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273063b22f279027efafc714e92",
+      "uri": "spotify:album:7pp0eBrLEcmprISZOmY4ve",
+      "name": "death atlas",
+      "album_type": "album",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738241d9edb292f5273e1e8e37",
+      "uri": "spotify:album:6YnkGmrikswFng1hKvL0r7",
+      "name": "death atlas",
+      "album_type": "single",
+      "release_date": "2019-11-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c04078f781f57f770d2c4e03",
+      "uri": "spotify:album:0nY9jXzuQ5Il2jk9XVIi1u",
+      "name": "bring back the plague",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b7887862607923bc3162c34",
+      "uri": "spotify:album:5OnPLCsMC3lTchISlmzbZm",
+      "name": "one day closer to the end of the world",
+      "album_type": "single",
+      "release_date": "2019-09-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337af059cf8539ee48f7caf30",
+      "uri": "spotify:album:7rg5q5FE3T5ddBwARcExgX",
+      "name": "medium rarities",
+      "album_type": "album",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732536915448169dc50d2384ca",
+      "uri": "spotify:album:1sOaOgExR1izFIajgscxa3",
+      "name": "an exposition of insides",
+      "album_type": "single",
+      "release_date": "2018-09-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e3e65920636b519277c5055",
+      "uri": "spotify:album:4QUiNabvDucY1hn8LRmbGd",
+      "name": "the anthropocene extinction",
+      "album_type": "album",
+      "release_date": "2015-08-07",
+      "release_year": "2015",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350c5cba90147cca849c763c3",
+      "uri": "spotify:album:4aQI0KeN26jZ5bPQXKtfAa",
+      "name": "monolith of inhumanity",
+      "album_type": "album",
+      "release_date": "2012-05-08",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e01aa78c3057b69bd86136e",
+      "uri": "spotify:album:0qWKuuPbJcUOEcwkUPPnrD",
+      "name": "the harvest floor",
+      "album_type": "album",
+      "release_date": "2009-01-20",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361fbcdc9bb6b11ba4cdfefe5",
+      "uri": "spotify:album:0V0pO1Tp6NCeVO4ueHjOHL",
+      "name": "karma.bloody.karma",
+      "album_type": "album",
+      "release_date": "2006-07-11",
+      "release_year": "2006",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273778c3e78bd5c4b88ec2be7ff",
+      "uri": "spotify:album:3dpnjjxLQwJBADiqPNG6IU",
+      "name": "humanure",
+      "album_type": "album",
+      "release_date": "2004-07-13",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec626d2267b8f06f66ede223",
+      "uri": "spotify:album:1cF4X1xuo48E8o0N9c7kuA",
+      "name": "to serve man",
+      "album_type": "album",
+      "release_date": "2002-07-30",
+      "release_year": "2002",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273028b37fe1f2108e798064553",
+      "uri": "spotify:album:3sh87iQGdc3Jwsvohco0tE",
+      "name": "homovore",
+      "album_type": "album",
+      "release_date": "2000-05-02",
+      "release_year": "2000",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732001bc009816b68de64d990b",
+      "uri": "spotify:album:0dQtOxOIshGckgd11BjoN4",
+      "name": "human jerky",
+      "album_type": "album",
+      "release_date": "1999-04-08",
+      "release_year": "1999",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db270f5e47701c9f5ff5ad9b",
+      "uri": "spotify:album:3s85ss1Ph9y26KAu6GT6Nm",
+      "name": "human jerky (2020 remastered version)",
+      "album_type": "album",
+      "release_date": "1999-04-08",
+      "release_year": "1999",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "67ZMMtA88DDO0gTuRrzGjn",
+          "name": "cattle decapitation"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:56.000Z"
+}

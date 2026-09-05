@@ -1,0 +1,29 @@
+{
+  "name": "seven tang",
+  "spotify_id": "5j1PgGSQGshHPX5rdKMg2L",
+  "uri": "spotify:artist:5j1PgGSQGshHPX5rdKMg2L",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273531a0db7eb29ab7f2b3e9832",
+  "genres": [
+    "chinese r&b",
+    "c-pop",
+    "chinese hip hop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273226ac7cdfac2e02779f4e517",
+      "uri": "spotify:album:6JJolJP8O9NC9OloCFgeao",
+      "name": "just to find you",
+      "album_type": "single",
+      "release_date": "2018-04-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5j1PgGSQGshHPX5rdKMg2L",
+          "name": "seven tang"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:59.000Z"
+}

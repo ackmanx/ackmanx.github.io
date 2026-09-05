@@ -1,0 +1,433 @@
+{
+  "name": "higher brothers",
+  "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+  "uri": "spotify:artist:07ZhipyrvoyNoJejeyM0PQ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb95e6ff29905ce9692dbdb12a",
+  "genres": [
+    "chinese hip hop",
+    "chinese r&b"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f02189f35b3d1bce4fb8e1ac",
+      "uri": "spotify:album:5hT3TKSXgq6AA6zVIFYbeJ",
+      "name": "最高",
+      "album_type": "single",
+      "release_date": "2026-03-03",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ac55dd7b75d83788a81ce25",
+      "uri": "spotify:album:1O4fvTSzIQK1jbSPs8YuiV",
+      "name": "empire",
+      "album_type": "single",
+      "release_date": "2020-11-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320ec1a1562bca9ddc19dc45b",
+      "uri": "spotify:album:3PYicbDyT6uvg54uQcRyqm",
+      "name": "psylife.25",
+      "album_type": "album",
+      "release_date": "2020-05-27",
+      "release_year": "2020",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2ADDS7CJUaPg2USWT6djqR",
+          "name": "psy.p"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354c6f4f46439416822625474",
+      "uri": "spotify:album:3JT5GuV3itutb0GRRN8B5t",
+      "name": "bad habits",
+      "album_type": "single",
+      "release_date": "2020-05-21",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2ADDS7CJUaPg2USWT6djqR",
+          "name": "psy.p"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e34a4aa94f917e1c2c92e007",
+      "uri": "spotify:album:73vqDnbDzUIFSX6Moc5okT",
+      "name": "king of the jungle (feat. melo)",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ADDS7CJUaPg2USWT6djqR",
+          "name": "psy.p"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef8a337c7f193d625b863c32",
+      "uri": "spotify:album:4Rb0HomSffJojyz23mvcZg",
+      "name": "old master",
+      "album_type": "album",
+      "release_date": "2020-04-21",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366c13e54fd7fa5e0e46141e8",
+      "uri": "spotify:album:4qrAiq1evkWQLbVIrPCMnJ",
+      "name": "daili (feat. knowknow)",
+      "album_type": "single",
+      "release_date": "2020-04-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcf216dd8eeefc35b12f2c47",
+      "uri": "spotify:album:5W1xau5fSJXTdxzzRIq0wa",
+      "name": "born like this",
+      "album_type": "single",
+      "release_date": "2020-04-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3d67ea5769af25963f86120",
+      "uri": "spotify:album:0t9j3gSmsub96X7n1IpGUd",
+      "name": "prince charming",
+      "album_type": "album",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "0fyaEHmSmZs2YWMgbruITA",
+          "name": "masiwei"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396cef69eee83b91ed76658d8",
+      "uri": "spotify:album:0AcUnErbCM1RGtAPx9bhyA",
+      "name": "the world is yours",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0fyaEHmSmZs2YWMgbruITA",
+          "name": "masiwei"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273493488d9bd3661541c7a3b5c",
+      "uri": "spotify:album:6FTAYGZNxSVJlIQZh7gdqX",
+      "name": "mr. enjoy da money",
+      "album_type": "album",
+      "release_date": "2019-12-12",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "5RDc1XN9Dj5KcNGPMEhtzN",
+          "name": "knowknow"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320210a075a32ac383900171b",
+      "uri": "spotify:album:57sARP0DMPkbK1IaITfTwH",
+      "name": "friends & foes (feat. snoop dogg)",
+      "album_type": "single",
+      "release_date": "2019-08-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f0991fecc0a7cbd931f2a21",
+      "uri": "spotify:album:01Vbz3MZmIjXyzXM5KuSAS",
+      "name": "china town",
+      "album_type": "single",
+      "release_date": "2019-04-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0oLugBpbkaTY5deDOMKYyH",
+          "name": "j.mag"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386660ba02800edbc9fb1f15e",
+      "uri": "spotify:album:27YQ7LFCdiN82sXIhKL1AM",
+      "name": "five stars",
+      "album_type": "album",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6dda29addd14e3661beef66",
+      "uri": "spotify:album:6N6eFEt6TkmrF1K18E4a5Q",
+      "name": "功成名就",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2GFsWXpTIn6G1kRjW3RAQX",
+          "name": "ty."
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff9473857030e801a4f49f4b",
+      "uri": "spotify:album:7i4rI30ADUcyKCEYTnCZYO",
+      "name": "made in china",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        },
+        {
+          "spotify_id": "540vIaP2JwjQb9dm3aArA4",
+          "name": "dj snake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331ea68753f026ae3822dda91",
+      "uri": "spotify:album:217mgM54KxqELtB0gUS1yA",
+      "name": "type-3 - ep",
+      "album_type": "single",
+      "release_date": "2018-02-27",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        },
+        {
+          "spotify_id": "6l8D5mZvv6wusxpawsw1t6",
+          "name": "harikiri"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365122c57994ca8425f61f08e",
+      "uri": "spotify:album:6MobAmKTypmCCacttaPcDd",
+      "name": "journey to the west",
+      "album_type": "single",
+      "release_date": "2018-01-17",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273257e1674737beba9e4540dc3",
+      "uri": "spotify:album:3DhBRHCtr9y5xi7F15vuoT",
+      "name": "flo rida",
+      "album_type": "single",
+      "release_date": "2017-11-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        },
+        {
+          "spotify_id": "2rhFzFmezpnW82MNqEKVry",
+          "name": "ski mask the slump god"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b63f6f376ea0b3e704e73e55",
+      "uri": "spotify:album:7KHJLrToDICBhHCXJIyJQ3",
+      "name": "nomadic (feat. joji)",
+      "album_type": "single",
+      "release_date": "2017-07-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734548622827ceed174fe71166",
+      "uri": "spotify:album:0uSCbnFxqDZqGguVPBnuHm",
+      "name": "black cab",
+      "album_type": "album",
+      "release_date": "2017-05-31",
+      "release_year": "2017",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8853e4dfcd4f3a4c06d7635",
+      "uri": "spotify:album:5cRbuLCcXj43WHdLDjZqVP",
+      "name": "wechat",
+      "album_type": "single",
+      "release_date": "2017-05-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a587099da4f7361830148a47",
+      "uri": "spotify:album:5wAjBCEHuINMqpmZHznJgs",
+      "name": "made in china",
+      "album_type": "single",
+      "release_date": "2017-03-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        },
+        {
+          "spotify_id": "0WOxhx4hikIsyF3CRPLC8W",
+          "name": "famous dex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273514bc207a8f97cd5883f544b",
+      "uri": "spotify:album:62ml5R3z27rswQsVJI1mcI",
+      "name": "bitch don't kill my dab",
+      "album_type": "single",
+      "release_date": "2016-08-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:12.000Z"
+}

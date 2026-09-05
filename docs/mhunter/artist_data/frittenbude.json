@@ -1,0 +1,534 @@
+{
+  "name": "frittenbude",
+  "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+  "uri": "spotify:artist:7jy0nL3F5ehHJxXYMBImkk",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1a63efbddb32b880b599fe67",
+  "genres": [
+    "german indie",
+    "german indie pop",
+    "german pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738efa6192da129bd60cb3c342",
+      "uri": "spotify:album:2v2oXysXZugTCbUBu97JPj",
+      "name": "mallorca (radio edit)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "6Z45EHAzsuZ7RoU0PwlCqz",
+          "name": "ponga missi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734920ac6c03661a74382352f7",
+      "uri": "spotify:album:5GQ3IKbem4X1cYiCR9kyp6",
+      "name": "die unmöglichkeit eines lamas",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "7CSXGYRbp0XJdHHByZwlzB",
+          "name": "mino riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273692435f451425b489362a566",
+      "uri": "spotify:album:5amaRN345V8405RI4qnoge",
+      "name": "anti anti anti",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "58ZRFHI9f72MNGA77F6OCA",
+          "name": "t.raumschmiere"
+        },
+        {
+          "spotify_id": "2H2dOb75TrBtm8TYPQoDzl",
+          "name": "das flug"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d1255884633b220e09ba038",
+      "uri": "spotify:album:6XZK0WsUnmTGUWRDKigP2S",
+      "name": "tyrannosaurus rave",
+      "album_type": "album",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273197b935723ad802817a723ac",
+      "uri": "spotify:album:2LQFlVqW3KZNrvVRok2jbM",
+      "name": "bengalo",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273994cc65fdef2ca72419ccedb",
+      "uri": "spotify:album:7eqBtvLUtkPSBCPiJ22jY2",
+      "name": "about tauchen",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123e344e3f20a22539b17f58",
+      "uri": "spotify:album:2sS8uj48UEB1tcbxuS1fES",
+      "name": "der stoff aus dem flügel sind",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "3vQtRdN3v7tuRnKaOjNzU0",
+          "name": "christin nichols"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383afc44bc658410dcd0d3d51",
+      "uri": "spotify:album:2oDEOQhPicIKRZ19vWOwF1",
+      "name": "der weg zu zweit",
+      "album_type": "single",
+      "release_date": "2024-07-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a40ec30844df5003c775bd7",
+      "uri": "spotify:album:0z3YPmD2Z3yCy6fCtfrD2F",
+      "name": "acid bass",
+      "album_type": "single",
+      "release_date": "2024-04-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a186df5c44032f2060eeff18",
+      "uri": "spotify:album:73zdGOOJpMXR5d8OKk5bKt",
+      "name": "hildegard (kalipo edit)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "7ud6dY3K4gi4Q0uVlLd8Hi",
+          "name": "kalipo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273625011634c82b33293ee54ac",
+      "uri": "spotify:album:0vH4FpGQXY1hXQDdelTcqt",
+      "name": "mindestens in 1000 jahren (2023)",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4jqmOtAaAmhgv3xsl9k5Mx",
+          "name": "kettcar"
+        },
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d324d90fd4ac879fef62c842",
+      "uri": "spotify:album:2TkO88xiJXgxtEV5WJkn3Y",
+      "name": "apokalypse wow",
+      "album_type": "album",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d22fea5a02c1e57dc00b286b",
+      "uri": "spotify:album:11w6QCGwXxXgPR4oKyp82V",
+      "name": "suchen/finden",
+      "album_type": "single",
+      "release_date": "2023-02-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362f4cff3ef939369fb1a5f2b",
+      "uri": "spotify:album:0EqTUPG7szZRDSJtGI3xlA",
+      "name": "vorbei",
+      "album_type": "single",
+      "release_date": "2023-01-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349dd5bec302d9cf85c68818a",
+      "uri": "spotify:album:3D7Ghcl2ZI6pIhmgeotS8U",
+      "name": "stoli",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bbc59983b384b3e08d4d848",
+      "uri": "spotify:album:21KiPaSyyt8j0NSa2WnDIU",
+      "name": "sandradome",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddeeee4ee6fc6d314116dc99",
+      "uri": "spotify:album:2K0R3mPEjKyyGMC0Hdjkdk",
+      "name": "rote sonne",
+      "album_type": "album",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0b29cf7e3159d8abddc806e",
+      "uri": "spotify:album:0Bt9LMx3JeVQALLObswnIh",
+      "name": "die glocke",
+      "album_type": "single",
+      "release_date": "2017-03-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "4Qhg64MUtkaqAf0234ijhE",
+          "name": "cc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317e82f11e2435bb66d140b3d",
+      "uri": "spotify:album:2RiJsU6cSNEQNO2ZkqGmvg",
+      "name": "gänsemuseum",
+      "album_type": "single",
+      "release_date": "2015-10-23",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739865bd3f1af64d9457d584f7",
+      "uri": "spotify:album:1AmIJklckjKhxFZYRzNQ7v",
+      "name": "küken des orion",
+      "album_type": "album",
+      "release_date": "2015-08-21",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f884278f51066886e8c70aac",
+      "uri": "spotify:album:0HINCQX5oTRFpVVH0pDbiR",
+      "name": "die möglichkeit eines lamas (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-08-13",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374d8211d26e071b014b57657",
+      "uri": "spotify:album:2DZtwSdqQzdwceEjnxFGHE",
+      "name": "zeitmaschinen aus müll",
+      "album_type": "single",
+      "release_date": "2012-10-26",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273918714b62a7e96cddf447da4",
+      "uri": "spotify:album:3dCwpbWaqi0FACfyZE5yVQ",
+      "name": "delfinarium",
+      "album_type": "album",
+      "release_date": "2012-06-22",
+      "release_year": "2012",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c679edafb7a511498e4b08b0",
+      "uri": "spotify:album:0holyy3Hustl3z3xbuPHzr",
+      "name": "wings",
+      "album_type": "single",
+      "release_date": "2012-04-13",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273451213ee04c12a40ca1ac5e2",
+      "uri": "spotify:album:3ZVjRyoH50n0Huny2YbrEt",
+      "name": "einfach nicht leicht",
+      "album_type": "single",
+      "release_date": "2012-01-20",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bd0c5bb2eaebd791594c757",
+      "uri": "spotify:album:5dFDZX1XyIQfCglUOzzgpC",
+      "name": "mindestens in 1000 jahren",
+      "album_type": "single",
+      "release_date": "2011-11-11",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        },
+        {
+          "spotify_id": "3J6lC7RL1vDJYLbOTvSaJe",
+          "name": "dj elbe"
+        },
+        {
+          "spotify_id": "4orjws7wUPxr8648j70Hw9",
+          "name": "mr. bensen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376a9d791cffb2474e591f1ba",
+      "uri": "spotify:album:065jhlgj3ySBBY3QqEXxoE",
+      "name": "bilder mit katze",
+      "album_type": "single",
+      "release_date": "2010-07-23",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730337a0abeebf0f09f134a595",
+      "uri": "spotify:album:5jqnuT1BpkcZaDBwbZhAVm",
+      "name": "katzengold",
+      "album_type": "album",
+      "release_date": "2010-05-28",
+      "release_year": "2010",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273932d1c0ec49529037c0cc54c",
+      "uri": "spotify:album:10hpTN0u7GTGWRAOvzfvrO",
+      "name": "und täglich grüßt das murmeltier",
+      "album_type": "single",
+      "release_date": "2010-04-16",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fccc02f7b9d6901d781a2f2b",
+      "uri": "spotify:album:0IEEnRbd9FBcENNiDx1ec2",
+      "name": "das licht",
+      "album_type": "single",
+      "release_date": "2009-10-02",
+      "release_year": "2009",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358e4d1b6b7fac77d91957d2d",
+      "uri": "spotify:album:5e0yHaPKu5eezOuWHZf709",
+      "name": "mindestens in 1000 jahren",
+      "album_type": "single",
+      "release_date": "2008-12-12",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342b636aa82eea7e98f53dc77",
+      "uri": "spotify:album:18e25Nk1rJBI2a47yvBW3q",
+      "name": "nachtigall",
+      "album_type": "album",
+      "release_date": "2008-09-04",
+      "release_year": "2008",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7jy0nL3F5ehHJxXYMBImkk",
+          "name": "frittenbude"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:08.000Z"
+}

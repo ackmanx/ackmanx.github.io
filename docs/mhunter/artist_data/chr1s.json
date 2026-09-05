@@ -1,0 +1,286 @@
+{
+  "name": "chr1s",
+  "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+  "uri": "spotify:artist:5Z46SqaQPZS1eGbKttavXr",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5638da973e6899edee3fad5c",
+  "genres": [
+    "future bass",
+    "melodic bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ba9c3c073346961d8288750",
+      "uri": "spotify:album:0ircojNzQjQB15RiTgilTB",
+      "name": "warm up",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "3apiGaGR4luHv38fTEw0I2",
+          "name": "jstn dmnd"
+        },
+        {
+          "spotify_id": "6AQA8AHchvs0v84tGbetVR",
+          "name": "trap king"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377126f88597991bf852fd19a",
+      "uri": "spotify:album:0aja0Sy5zf9cnQxeLiX9G9",
+      "name": "frontline",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59iMrqhx3qr6U7343wM1Fc",
+          "name": "the lj"
+        },
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "6AQA8AHchvs0v84tGbetVR",
+          "name": "trap king"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730945d852f48bc174aceb5dda",
+      "uri": "spotify:album:5qf1aUB3F0UQwmqRptXxnS",
+      "name": "until the end",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "3oWQ3rSeKMRuEmbud3qBI4",
+          "name": "jøno"
+        },
+        {
+          "spotify_id": "2CiPh4VrD91TR9elljFmfx",
+          "name": "lexdez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e664c0651f938339a06d26ed",
+      "uri": "spotify:album:1j8q7fQoIg1LKoAAJtFR76",
+      "name": "o (fly on)",
+      "album_type": "single",
+      "release_date": "2022-03-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "0lRQLoQrjE7zLSlLoh1uk3",
+          "name": "josiah nichols"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5adcd4a3956aa5f50e6b9f4",
+      "uri": "spotify:album:0C0MqtrpsJpXG4PODcpayl",
+      "name": "like an animal",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "7ryyMyneTs96ZwWnZN3Zvv",
+          "name": "dianna"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315a1a3bc6add77d81d7d96e0",
+      "uri": "spotify:album:2M9bWk3h5EKuQbrURdTE27",
+      "name": "mindreader",
+      "album_type": "single",
+      "release_date": "2021-11-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0db6b41873626e0aac517f0",
+      "uri": "spotify:album:6Pu4fYtSVxnPvK6YnjAt8G",
+      "name": "miss you through the phone",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CNxyEIzegloH4MV7COJPF",
+          "name": "sazu"
+        },
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3ebf513ca538f4e484b140c",
+      "uri": "spotify:album:4bmOhzZ464eEM7MKbeLlFu",
+      "name": "let you go",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ClwPmcSpQaJHhJh3bikP3",
+          "name": "wonder"
+        },
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273936ae1eb38e0762cc8a0d6b5",
+      "uri": "spotify:album:7JoTNif6rG8ixdcFmjyaqw",
+      "name": "breathe me in",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        },
+        {
+          "spotify_id": "4Rm1nfclUTXCYusaJk7TA9",
+          "name": "young viridii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aa4ca3bfa5299c9bb655bd6",
+      "uri": "spotify:album:38xBBuEbzkyvW0S8V6R1Ft",
+      "name": "through your eyes",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d5f1f716090bc4ec1bafd84",
+      "uri": "spotify:album:1LyBQn3iArB9F0e7r614ZU",
+      "name": "crash & burn",
+      "album_type": "single",
+      "release_date": "2021-02-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273773a267eca650d246200c468",
+      "uri": "spotify:album:366KUcoxsKtshhbZJHVuag",
+      "name": "love like we're dying",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379f1f414d4657d723a502879",
+      "uri": "spotify:album:1ozAAsHTgdWTdCjz35iH7X",
+      "name": "need you now",
+      "album_type": "single",
+      "release_date": "2019-08-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273219c7ab20ec1c0f34e54cbeb",
+      "uri": "spotify:album:6pj5DvMU1vFUt55RrM19gj",
+      "name": "lost in you",
+      "album_type": "single",
+      "release_date": "2018-08-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdb63aa71cf08be0a2ea13e6",
+      "uri": "spotify:album:6hXVB9iREzvSJRfpHeqT56",
+      "name": "shooting star",
+      "album_type": "single",
+      "release_date": "2018-08-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dFsyokThw721U9WadpXzc",
+          "name": "ctr"
+        },
+        {
+          "spotify_id": "5Z46SqaQPZS1eGbKttavXr",
+          "name": "chr1s"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:21.000Z"
+}

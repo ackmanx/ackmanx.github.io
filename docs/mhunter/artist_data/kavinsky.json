@@ -1,0 +1,243 @@
+{
+  "name": "kavinsky",
+  "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+  "uri": "spotify:artist:0UF7XLthtbSF2Eur7559oV",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb2dc7b3180bad1885c6ee1320",
+  "genres": [
+    "synthwave",
+    "french house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372711c169ad9e51f15b546a8",
+      "uri": "spotify:album:3NNCkpUBKTHhgUQJnREGFQ",
+      "name": "outsider (donald durand rework)",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        },
+        {
+          "spotify_id": "0PtM2z79TLRWGbZ3wots16",
+          "name": "donald durand"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382e856e42426e69b8bb43461",
+      "uri": "spotify:album:05OLq8nG4L5WYZXTfXVYM7",
+      "name": "nightcall",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        },
+        {
+          "spotify_id": "3QVolfxko2UyCOtexhVTli",
+          "name": "angèle"
+        },
+        {
+          "spotify_id": "1xU878Z1QtBldR7ru9owdU",
+          "name": "phoenix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374ee41d59fc799cc60425469",
+      "uri": "spotify:album:4A4qop0nYfiQ2zQ0kgrOM7",
+      "name": "cameo",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4b15194b2a0d4513470fd70",
+      "uri": "spotify:album:4lkkH6Psd0hqLPgViTkle4",
+      "name": "cameo (david guetta extended remix)",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a144f88fedba91a02c887b20",
+      "uri": "spotify:album:6uLzZEOXGEHNgrJaAesf7u",
+      "name": "cameo (david guetta remix)",
+      "album_type": "single",
+      "release_date": "2022-06-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d54c7c424d1b095611771530",
+      "uri": "spotify:album:2Js9F9O6V6mDZTal95Iner",
+      "name": "reborn",
+      "album_type": "album",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273617e48c5a3c6bd7791e30aec",
+      "uri": "spotify:album:7zxyDd9hN7Ti7rF3bXzX8R",
+      "name": "renegade",
+      "album_type": "single",
+      "release_date": "2022-02-16",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367bffb1ca7041ec56b5f5ed4",
+      "uri": "spotify:album:6cO66z9c0nTptnOrfhRi62",
+      "name": "zenith",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ff2577654ec6efdb0e8395",
+      "uri": "spotify:album:3euRfc09m6LRXwplFPYtqh",
+      "name": "outrun",
+      "album_type": "album",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cc5da5394cb8ccd3646179a",
+      "uri": "spotify:album:3FHMLI0Vz2t0gdypH1yImX",
+      "name": "odd look",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737259ebedd1837781c82022b1",
+      "uri": "spotify:album:2EVhcuvC8xCKBurVPzeZFR",
+      "name": "protovision",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+      "uri": "spotify:album:07nBld9enf1PyRysZAVSqJ",
+      "name": "nightcall",
+      "album_type": "album",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9b1b08714675c11b0228c6e",
+      "uri": "spotify:album:4bmgvQKrQlZ3ui4XyXE2dR",
+      "name": "1986",
+      "album_type": "single",
+      "release_date": "2007-03-05",
+      "release_year": "2007",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d2f53ca63206d3dd852f250",
+      "uri": "spotify:album:1SbguC3zYCsklaIGThmoMt",
+      "name": "teddy boy",
+      "album_type": "single",
+      "release_date": "2005-12-12",
+      "release_year": "2005",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0UF7XLthtbSF2Eur7559oV",
+          "name": "kavinsky"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:08.000Z"
+}

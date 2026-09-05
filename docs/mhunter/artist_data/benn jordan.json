@@ -1,0 +1,89 @@
+{
+  "name": "benn jordan",
+  "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+  "uri": "spotify:artist:35A2w8NQDT3VuQlBNVSfyw",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1d3e3eeac510f3641d28522e",
+  "genres": [
+    "space music",
+    "ambient",
+    "idm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273995d0ef0b2b94e46f03f0808",
+      "uri": "spotify:album:3thQJgI6f3hF8TpkaHU2oS",
+      "name": "planet nine (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2016-05-19",
+      "release_year": "2016",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+          "name": "benn jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273157bb2e3c1b6c54118e475d4",
+      "uri": "spotify:album:24PyXr4EAavTT3PrwpGPQR",
+      "name": "cosmic wonder (original motion picture score)",
+      "album_type": "album",
+      "release_date": "2013-05-17",
+      "release_year": "2013",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+          "name": "benn jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe09f5aabce2331403314aaa",
+      "uri": "spotify:album:2Pi4OSMRBXoatxICFw71n1",
+      "name": "the universe (original score)",
+      "album_type": "single",
+      "release_date": "2012-07-10",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+          "name": "benn jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e91e2e893c409b5aa80d9ff3",
+      "uri": "spotify:album:2cCPpooA2FrpCFcOhVDF18",
+      "name": "louisiana mourning",
+      "album_type": "album",
+      "release_date": "2009-09-02",
+      "release_year": "2009",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+          "name": "benn jordan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399dc119edfc19bc99d38cee0",
+      "uri": "spotify:album:59B41Ibc3617aCHp3AYndp",
+      "name": "pale blue dot, a tribute to carl sagan",
+      "album_type": "album",
+      "release_date": "2008-09-01",
+      "release_year": "2008",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "35A2w8NQDT3VuQlBNVSfyw",
+          "name": "benn jordan"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:04:17.000Z"
+}

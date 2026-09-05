@@ -1,0 +1,40 @@
+{
+  "name": "mrgamer",
+  "spotify_id": "4qf8SGjeFVS1btSQX38CaR",
+  "uri": "spotify:artist:4qf8SGjeFVS1btSQX38CaR",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc42d7de22974e92c6888f3fb",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea69e08327960ffaf599e983",
+      "uri": "spotify:album:36eqgTNXqd5K1nemEV3Bor",
+      "name": "anthroposcene",
+      "album_type": "album",
+      "release_date": "2020-12-13",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4qf8SGjeFVS1btSQX38CaR",
+          "name": "mrgamer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343d4120079f3674758d638a6",
+      "uri": "spotify:album:303lVOyVh2OSgGUOj6CSeZ",
+      "name": "old dawn",
+      "album_type": "album",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4qf8SGjeFVS1btSQX38CaR",
+          "name": "mrgamer"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:17.000Z"
+}

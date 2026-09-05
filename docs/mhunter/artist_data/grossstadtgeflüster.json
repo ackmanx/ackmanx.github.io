@@ -1,0 +1,335 @@
+{
+  "name": "grossstadtgeflüster",
+  "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+  "uri": "spotify:artist:03SZv6slUnLnHI3IfwG0gl",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8616d46c4e21ec450dedc81e",
+  "genres": [
+    "german pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328aca11c42dd4cc89201a44e",
+      "uri": "spotify:album:4KxDpxtE0Zr1AG7AOCjO0J",
+      "name": "das über-icke",
+      "album_type": "album",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b8fb13378e97ada4a94eca0",
+      "uri": "spotify:album:5r7NESrrjnqJYyfWsSoTNz",
+      "name": "huckepack",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273819e14562c8cca3922195ad2",
+      "uri": "spotify:album:33R69OpbD6q8uSCu1wmPWw",
+      "name": "wenn ich deine eltern wär",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273212296bc6797e7d9b299d791",
+      "uri": "spotify:album:4OXaSqahlMnJIHubGCNwVu",
+      "name": "ich kündige",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738397f060e313e0064f3c0ec9",
+      "uri": "spotify:album:2uQfnbrgIFJT1qtv0yrMKw",
+      "name": "icke!",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273235d2c057951eee62874a967",
+      "uri": "spotify:album:2eSjHFQfltqdCXuB7uUoRw",
+      "name": "trips & ticks",
+      "album_type": "album",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab20077e41d8b5d8a00dad36",
+      "uri": "spotify:album:7jtOyovs8psGju99DvQ8PA",
+      "name": "hallus (feat. hgich.t)",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        },
+        {
+          "spotify_id": "0Mc1RdR7nqk1S2DHapXJhl",
+          "name": "hgich.t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732070631df5ae8512c18d055f",
+      "uri": "spotify:album:2lzofMZQY6SWStsNX1BLwl",
+      "name": "huxley's (badeshort edit)",
+      "album_type": "single",
+      "release_date": "2019-07-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c5be1327767a2ecdaa15004",
+      "uri": "spotify:album:6o4ReeBsvx8L1KtlxofpHE",
+      "name": "neue freunde",
+      "album_type": "single",
+      "release_date": "2019-03-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737506144d90807e3a31cd5ebf",
+      "uri": "spotify:album:7p7izAXtcQxYRI1hDFjkyJ",
+      "name": "feierabend",
+      "album_type": "single",
+      "release_date": "2018-12-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d5dc58f1536f35c559f2d8f",
+      "uri": "spotify:album:2LpZf9c60OMhrYDzNCcQCX",
+      "name": "stuck with the devil (grossstadtgeflüster remix)",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42pWilgI9MEZARoTtGHNR4",
+          "name": "itchy"
+        },
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8f652cd7cea6cd1b25b24ef",
+      "uri": "spotify:album:3RJHv4CKib7TnAJmIIp6cE",
+      "name": "wie man feuer macht",
+      "album_type": "single",
+      "release_date": "2017-03-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273856546a8cb27d4a517e6a8e1",
+      "uri": "spotify:album:0EOqbTwbhRibRRnZSQURFM",
+      "name": "ich rollator mit meim besten",
+      "album_type": "single",
+      "release_date": "2016-06-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273090f0c19880f991d443e529f",
+      "uri": "spotify:album:1W0tFuKEsXCsRJseNpMHPB",
+      "name": "ich boykottiere dich (episode 2)",
+      "album_type": "single",
+      "release_date": "2016",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3796f0e797caf6c9b266de1",
+      "uri": "spotify:album:36PUgjhgw7EolyPVWZ7whK",
+      "name": "fickt-euch-allee",
+      "album_type": "single",
+      "release_date": "2015-10-16",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7a3b2e2b591a126603fe406",
+      "uri": "spotify:album:5nlS5ZWRq7puypGfsCceqK",
+      "name": "fickt-euch-allee ep",
+      "album_type": "single",
+      "release_date": "2015",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734013b799de0feefd9bf68765",
+      "uri": "spotify:album:7rPhjtZifGGEqvhaDrFZa7",
+      "name": "fickt-euch-allee ep (bonus track version)",
+      "album_type": "single",
+      "release_date": "2015",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734233fc29593b00e4a023410c",
+      "uri": "spotify:album:4DGzEJEMeO8MmxLeGdak6S",
+      "name": "oh, ein reh!",
+      "album_type": "album",
+      "release_date": "2013-05-31",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273929184d66a4802ed649dd6a4",
+      "uri": "spotify:album:3W1VPKOZuwemvEnxCt55a0",
+      "name": "alles muss man selber machen",
+      "album_type": "album",
+      "release_date": "2010-04-30",
+      "release_year": "2010",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d499ececf974c0bf5b1b9b5",
+      "uri": "spotify:album:6DSGWolirzC0AakhhIaPuK",
+      "name": "bis einer heult!!!",
+      "album_type": "album",
+      "release_date": "2008-04-24",
+      "release_year": "2008",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bc1edb3fe5eba2386dc6d86",
+      "uri": "spotify:album:2PusFImwQTKH0OzX3lYZnW",
+      "name": "muss laut sein",
+      "album_type": "album",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "03SZv6slUnLnHI3IfwG0gl",
+          "name": "grossstadtgeflüster"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:35.000Z"
+}

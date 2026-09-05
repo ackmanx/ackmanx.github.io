@@ -1,0 +1,573 @@
+{
+  "name": "mantus",
+  "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+  "uri": "spotify:artist:50CspSWbHQ8XLjQVW1nIW5",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb21974931e31a85800a88fdc2",
+  "genres": [
+    "medieval metal",
+    "gothic metal",
+    "gothic rock",
+    "ebm",
+    "darkwave",
+    "neofolk",
+    "medieval"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec8d22c4707c049690d68c31",
+      "uri": "spotify:album:5PdPAgYHmdOqm5fdT3WFyK",
+      "name": "konflikt",
+      "album_type": "album",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f63ac8c23803c15339411a0",
+      "uri": "spotify:album:5HNWm6CDFPelwPQfMtKf6i",
+      "name": "moria",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273998d580a15bac281ff6b2d82",
+      "uri": "spotify:album:2xbsSxKBfObuSD9EquGh4B",
+      "name": "zauber",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735531c8728d62013536d9e78c",
+      "uri": "spotify:album:0OYLoVMriGYr8P76E5F71u",
+      "name": "in meinem versteck",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735236987b63a09e686b7f0bfb",
+      "uri": "spotify:album:6tuv6CRZcw82nSCrrolyxE",
+      "name": "minus 20 grad",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecdbaef4e538fd436643da3f",
+      "uri": "spotify:album:0Keas9DmsaFyNXhmhybMVa",
+      "name": "verstärker",
+      "album_type": "album",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733766c2f1b85aec17de50d62a",
+      "uri": "spotify:album:6mTaIw8Nmhi84p88P2XQHs",
+      "name": "wolkenschlacht",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f525893d6fd0fe47c0faafac",
+      "uri": "spotify:album:71CGEXmuNPDgMfUsg1pcld",
+      "name": "komm nimm meine hand",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377ab2f7d64f197255c7b542d",
+      "uri": "spotify:album:4AOSHBwKLKTSXgQP3DbdXU",
+      "name": "keiner",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afac8799a8a823bf952c0660",
+      "uri": "spotify:album:2o3T7Ft5THGnYK8WmC4AOZ",
+      "name": "manifest",
+      "album_type": "album",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273308cb51685855ec56a2993f3",
+      "uri": "spotify:album:3XhIzr6sOTjlG5gqlXudhj",
+      "name": "katharsis",
+      "album_type": "album",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caf1477b9d868b3b01d2b098",
+      "uri": "spotify:album:5kUoLqiyqULvpdkl39uqxD",
+      "name": "katharsis & pagan folk songs",
+      "album_type": "album",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370139d03398d26c0bc396bdb",
+      "uri": "spotify:album:5tqA5b4zYWp1EDKR736gQO",
+      "name": "pagan folk songs",
+      "album_type": "album",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381229ca041712d6e42fd7b98",
+      "uri": "spotify:album:7hw5Ck30LWZ4tgSAVRm5uC",
+      "name": "tagebuch",
+      "album_type": "single",
+      "release_date": "2019-01-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7a0b55ee97e5bb18c253ed3",
+      "uri": "spotify:album:38cYo7JzPF5bqL1fgbj9M1",
+      "name": "the heart of it all",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa2eadbb124f33b2e2657ebf",
+      "uri": "spotify:album:1apUyZs7QM7y9fjELltJ2v",
+      "name": "blumen in der hölle (lyric session)",
+      "album_type": "album",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e46fbcb3082c69c6847ef36",
+      "uri": "spotify:album:0E8o7paDVnsWBZasNax3Rv",
+      "name": "staub & asche",
+      "album_type": "album",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc2a38f6070dc1ffe4b5a2c7",
+      "uri": "spotify:album:6O04RzNKEG3weaG3RQ8G9q",
+      "name": "refugium",
+      "album_type": "album",
+      "release_date": "2016-04-29",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312ab383497b3d6b9f7783612",
+      "uri": "spotify:album:3f5j0Xn5vlDEOLqYj4XQjm",
+      "name": "15 jahre",
+      "album_type": "album",
+      "release_date": "2015-02-27",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baeacbc1e85f2f39cc502243",
+      "uri": "spotify:album:6RWyiQHFD5c9XfaJGeOHgY",
+      "name": "melancholia",
+      "album_type": "album",
+      "release_date": "2015-02-27",
+      "release_year": "2015",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386ef0ccf1ae8f6d00fc3172d",
+      "uri": "spotify:album:79HzM4Umu5IoDo1xZlIMvg",
+      "name": "grenzland",
+      "album_type": "album",
+      "release_date": "2014-02-14",
+      "release_year": "2014",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273502cf26672f0c93546ab56b5",
+      "uri": "spotify:album:5tMrx21vgVqiInCVQfroPL",
+      "name": "portrait aus wut und trauer",
+      "album_type": "album",
+      "release_date": "2014-02-14",
+      "release_year": "2014",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aee67e473e4973b855b7bc5f",
+      "uri": "spotify:album:6nAPhjMYGd65uigdsDAgvv",
+      "name": "sünder",
+      "album_type": "album",
+      "release_date": "2011-12-02",
+      "release_year": "2011",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd692ea33948b3d21cd0bbd9",
+      "uri": "spotify:album:6r61kNAXxTPHzOBUZg22cp",
+      "name": "zeichen",
+      "album_type": "album",
+      "release_date": "2011-04-29",
+      "release_year": "2011",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731231a129f428b03ff95c9bdd",
+      "uri": "spotify:album:6gcxtdqF538AEhA3r02fiq",
+      "name": "wölfe",
+      "album_type": "album",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d873c1e017c8aef1eecb866d",
+      "uri": "spotify:album:0UGnD31hJOcWtEQktEsG0R",
+      "name": "die hochzeit von himmel und hölle",
+      "album_type": "album",
+      "release_date": "2010-06-25",
+      "release_year": "2010",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350f86a1ef341679452a6bfc1",
+      "uri": "spotify:album:2bzCGHiCGn1OkOHb5jiVT3",
+      "name": "demut",
+      "album_type": "album",
+      "release_date": "2010-03-12",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c118df176e8ca076f170270",
+      "uri": "spotify:album:5oSvSLwjxniGmPzMasYGzm",
+      "name": "königreich der angst",
+      "album_type": "album",
+      "release_date": "2009-05-15",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273269d3c411856a3765fb32e49",
+      "uri": "spotify:album:2jtomy0NbiP4nTRR72qZn3",
+      "name": "requiem",
+      "album_type": "album",
+      "release_date": "2009-01-23",
+      "release_year": "2009",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737faf3ead36efb62e78f13cac",
+      "uri": "spotify:album:1b1YDovJKbBZxvwGNyECyQ",
+      "name": "chronik",
+      "album_type": "album",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327da2130d03d3db26e6810fc",
+      "uri": "spotify:album:4DgrRjAD7ttisLrpzXllhE",
+      "name": "zeit muss enden",
+      "album_type": "album",
+      "release_date": "2005",
+      "release_year": "2005",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1b611e42f36c47facb2e70f",
+      "uri": "spotify:album:7tr6RRPC1fasYc478sEjYn",
+      "name": "ein hauch von wirklichkeit",
+      "album_type": "album",
+      "release_date": "2004",
+      "release_year": "2004",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0faad3948bf92fd95d6a51f",
+      "uri": "spotify:album:0HTdGCXhho0vz1pBNtiqDI",
+      "name": "weg ins paradies",
+      "album_type": "album",
+      "release_date": "2004",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325e8c1909594254082f33673",
+      "uri": "spotify:album:0Q65RnNepP50hnyCZiXobM",
+      "name": "keine liebe",
+      "album_type": "single",
+      "release_date": "2004",
+      "release_year": "2004",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7a5dee988c3b2b44518fdbb",
+      "uri": "spotify:album:41z7QQNu5zgsz3Ip1L3QEH",
+      "name": "fremde welten",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fde18d5b8d98be2c5d7e7dc0",
+      "uri": "spotify:album:5SEJ9kc0jCr2gdDe8swP24",
+      "name": "abschied",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec9eedaab313e0258506eb2b",
+      "uri": "spotify:album:7lhIyiUQInC91lNBj1UFxk",
+      "name": "liebe und tod",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "50CspSWbHQ8XLjQVW1nIW5",
+          "name": "mantus"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:04.000Z"
+}

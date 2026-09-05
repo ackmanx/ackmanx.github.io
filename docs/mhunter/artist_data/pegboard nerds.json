@@ -1,0 +1,2271 @@
+{
+  "name": "pegboard nerds",
+  "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+  "uri": "spotify:artist:0lLY20XpZ9yDobkbHI7u1y",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb0fb1220e7e3ace47ebad023e",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "edm",
+    "electro house",
+    "glitch"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcd53809634feae7a79d445b",
+      "uri": "spotify:album:74bPKYf8j7XgTng3w6sRVG",
+      "name": "disconnected again",
+      "album_type": "single",
+      "release_date": "2026-07-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5EEuae5uigQnwgYCl0s8EF",
+          "name": "teminite"
+        },
+        {
+          "spotify_id": "3pCoHlohSNQdXBNDxuWd12",
+          "name": "vgr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e0b98b57d766b87426b55a9",
+      "uri": "spotify:album:5P5wo8Auod5iYSHkAgBmnC",
+      "name": "volume nation",
+      "album_type": "single",
+      "release_date": "2026-04-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bea66312f31f6b4ffbab673",
+      "uri": "spotify:album:4mhVMZM9F3TVxnMaJKuo1e",
+      "name": "resonate",
+      "album_type": "single",
+      "release_date": "2026-01-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273259e369cf7320c7c885e7d02",
+      "uri": "spotify:album:34IRhAtoL3MF38JQ0hAitj",
+      "name": "megalovania (pegboard nerds remix)",
+      "album_type": "single",
+      "release_date": "2025-10-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57DlMWmbVIf2ssJ8QBpBau",
+          "name": "toby fox"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb59ed6a04f82c61388f4466",
+      "uri": "spotify:album:6xaWcDTQrvNITR8ZP6GBVa",
+      "name": "traveler (pegboard nerds remix)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2pTv3pLM9Cw3tblbBHOAzN",
+          "name": "more plastic"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273897b394448d22ccdf3c5361d",
+      "uri": "spotify:album:0EL1KPZ6sVJGJTZgrE1HWU",
+      "name": "push",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2c68ee7808294f7123d3d1f",
+      "uri": "spotify:album:6a66BAVqzgTy5xP0h7gnA6",
+      "name": "calling you",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349c7630bd8370854ba54cbe0",
+      "uri": "spotify:album:3YZuT5XNZ6cssLyeuGMTib",
+      "name": "with you",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1U6FdBYgMkeRjQFuTF5JYr",
+          "name": "emel"
+        },
+        {
+          "spotify_id": "12d7UNUsFs6wB1mbqf71BN",
+          "name": "rayhem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2dca5f66977665a4579602d",
+      "uri": "spotify:album:7KosWcByYbJiHXhZBy2Q2I",
+      "name": "last words",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "4gTKDU9Pj2UNRnpheTNpdh",
+          "name": "rusur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bb4ad209299094aede1759f",
+      "uri": "spotify:album:4XTcOpYVIfpHKVoHwMSF9w",
+      "name": "zenith",
+      "album_type": "single",
+      "release_date": "2023-11-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f1050e56bb3724f9cf92598",
+      "uri": "spotify:album:1kwkz7PWHsSvg9DpuAvVnp",
+      "name": "superpower (stonebank remix)",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273125114f2fcdd9d6499ee8334",
+      "uri": "spotify:album:3LocwBHPnRIn9FFkDLMQ9d",
+      "name": "pump",
+      "album_type": "single",
+      "release_date": "2023-08-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xaF2VIGwhWyEMbM6GuLdm",
+          "name": "teddy killerz"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ccfeb199653695a665e7667",
+      "uri": "spotify:album:5TEp03QefgreM264IEcb4Y",
+      "name": "dream on",
+      "album_type": "single",
+      "release_date": "2023-07-12",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "49oLn9rnPcL0Wh53Xf7c8E",
+          "name": "just lennie"
+        },
+        {
+          "spotify_id": "45mQUJrPyctvf2IhkVE0ym",
+          "name": "technikore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306ef3469ccaf6313156ac6e8",
+      "uri": "spotify:album:2jByIckM36HvR2qb0krEKz",
+      "name": "superpower",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5HKQopZI4z7YTgcqsScIrN",
+          "name": "seiren"
+        },
+        {
+          "spotify_id": "2ToVGBAU5JEE6mTdgTmGpx",
+          "name": "ina bravo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a118a998c831d4f811e35ee5",
+      "uri": "spotify:album:6OwhZjeTdn2uQ3LZNsmHzP",
+      "name": "uplift",
+      "album_type": "single",
+      "release_date": "2023-06-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361c0e13723b31491025d8682",
+      "uri": "spotify:album:6suMQNC0sVUeqetUXbR6Dc",
+      "name": "stardust",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e97e21da83deb0bb78426845",
+      "uri": "spotify:album:4SfmVWUmmRcNYUUYckepDQ",
+      "name": "euphoria",
+      "album_type": "single",
+      "release_date": "2023-04-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379917e52d351e2addd1d689e",
+      "uri": "spotify:album:2fTiY8OfDRFhceMJyRuD6A",
+      "name": "welcome to the club (night / moves remix)",
+      "album_type": "single",
+      "release_date": "2023-03-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        },
+        {
+          "spotify_id": "0XMAZpLBHMc9ZvwsrctpmJ",
+          "name": "night / moves"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273448690ca400878119e144e3e",
+      "uri": "spotify:album:2WhrRHs1WCqjgP4JHZM52m",
+      "name": "flying (pegboard nerds remix)",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "3bOvxcNS1rpC7aN1tLAahr",
+          "name": "eda lovelace"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273271def85fe9fd36066546201",
+      "uri": "spotify:album:3OXUzQBV9M1vssUSPHjVi9",
+      "name": "powerplay",
+      "album_type": "single",
+      "release_date": "2023-02-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1fILrc9B34DjHxSMkJmyBN",
+          "name": "bossfight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5ea0a05ff8f76818fc721cf",
+      "uri": "spotify:album:6hgC8PpWYJ0yUzVZSVzdJV",
+      "name": "welcome to the club (tesseracts remix)",
+      "album_type": "single",
+      "release_date": "2023-01-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        },
+        {
+          "spotify_id": "2Oc62iD4J8F2YH34NoSALk",
+          "name": "tesseracts"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388d34c429b585be3a041fda5",
+      "uri": "spotify:album:0qleNFLwuuOTO0XnW8bZD4",
+      "name": "falling apart (vip)",
+      "album_type": "single",
+      "release_date": "2022-12-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        },
+        {
+          "spotify_id": "1U6FdBYgMkeRjQFuTF5JYr",
+          "name": "emel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273142030816e77d87fac14a4c2",
+      "uri": "spotify:album:1RG7I67DrTIAxJ0ymvQBsV",
+      "name": "higher (rayhem remix)",
+      "album_type": "single",
+      "release_date": "2022-11-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "12d7UNUsFs6wB1mbqf71BN",
+          "name": "rayhem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371a406b88dac568c0a8c268c",
+      "uri": "spotify:album:0zVpgwYTBrVNh5SZf5dgwN",
+      "name": "higher (stonebank remix)",
+      "album_type": "single",
+      "release_date": "2022-11-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c0f039569fc371341fc281c",
+      "uri": "spotify:album:5YN3MdB8fHpYhSCdBPf94m",
+      "name": "welcome back to the club - the remixes",
+      "album_type": "single",
+      "release_date": "2022-11-14",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c727c993fe83bfa9f577085b",
+      "uri": "spotify:album:5H6MWENJQGZR8xII14BmlK",
+      "name": "dream on",
+      "album_type": "single",
+      "release_date": "2022-10-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "49oLn9rnPcL0Wh53Xf7c8E",
+          "name": "just lennie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273587cdc56eb23b01df4dfa7bb",
+      "uri": "spotify:album:0eZU27VDhr5erKQcYSVL5Y",
+      "name": "jack (sophon remix)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa8c518a0d542131b69364d1",
+      "uri": "spotify:album:3VjDetfhWUDHNNSawdk81Q",
+      "name": "bad luck",
+      "album_type": "single",
+      "release_date": "2022-08-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7GAnVRGrOJIUhOQKEehgFS",
+          "name": "kiz keyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4d610ac7e8939a6f61f5bae",
+      "uri": "spotify:album:5K3nlj87hGA3YmwdXxqFdK",
+      "name": "higher",
+      "album_type": "single",
+      "release_date": "2022-07-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362557b6625bcbf2899317d8f",
+      "uri": "spotify:album:41N4WEXPbcLCJ5rgOQc6FC",
+      "name": "cheat code",
+      "album_type": "single",
+      "release_date": "2022-06-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "30j2u2oo0Q8v2pBjnb3ctJ",
+          "name": "redless"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1dcccdb7c2bbad7b4829cd8",
+      "uri": "spotify:album:6OW0DiGRajH1WvL1wPFlhe",
+      "name": "welcome to the club",
+      "album_type": "single",
+      "release_date": "2022-06-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273143036a2b602eb0be1e8f168",
+      "uri": "spotify:album:1WeR3KAwIpdeouETfYfEYb",
+      "name": "jack (stonebank remix)",
+      "album_type": "single",
+      "release_date": "2022-05-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f89ae8dc29f059dcc925f6d",
+      "uri": "spotify:album:3Dnfw1NDiwyyOoxWBEDGt2",
+      "name": "jack",
+      "album_type": "single",
+      "release_date": "2022-04-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0957acd7274dd64de786e5d",
+      "uri": "spotify:album:4aEWEAB4FWtQmcwnfxv74g",
+      "name": "come together",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737be856d7a366b8ac20fc3f90",
+      "uri": "spotify:album:2Ni1r9D9T1EoICJULapoRb",
+      "name": "multiverse",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4staIXcWEmr34cRhsDp8nW",
+          "name": "robin vane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de68fa95339778ed5f159fd0",
+      "uri": "spotify:album:42WL9WgN516xT16NhXVUyb",
+      "name": "shine",
+      "album_type": "single",
+      "release_date": "2022-01-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7AmI3Zl33iDdhRMvq0MiAV",
+          "name": "sophon"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735552f74aed94c3d67f0a69c8",
+      "uri": "spotify:album:1XWmso7QfG25h0xhu3eShw",
+      "name": "be free",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1gbDc1TANALgP8lLvO5UEf",
+          "name": "ahee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1deaca88694aa7369f21770",
+      "uri": "spotify:album:7eGnrvFy4TX21FRRhSuigd",
+      "name": "be free (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1gbDc1TANALgP8lLvO5UEf",
+          "name": "ahee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a909792e3667969454ab1091",
+      "uri": "spotify:album:1shWfHagehxkIqbREDm5fx",
+      "name": "million reasons",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7MVtZkqiCMOWchZpXPEMXh",
+          "name": "gunnva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314298ba0d02c5c0f76d70d66",
+      "uri": "spotify:album:5pJmHtUCZTxFBibIUySbJB",
+      "name": "lalala (feat. bryan the mensah) [wankelmut remix]",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2TQYJefeEZlD8YoOpMEi3P",
+          "name": "p8ople"
+        },
+        {
+          "spotify_id": "01e2lCvLZ4fLUIRy68nptH",
+          "name": "wankelmut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b604c6274cf61b79483d8908",
+      "uri": "spotify:album:7t7YPn1MESHyMBP28k7Oq1",
+      "name": "murda",
+      "album_type": "single",
+      "release_date": "2021-11-01",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2pTv3pLM9Cw3tblbBHOAzN",
+          "name": "more plastic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344f437346e86846105737b11",
+      "uri": "spotify:album:0uTzZqPLk32lRgFXvFJRwB",
+      "name": "the ride",
+      "album_type": "single",
+      "release_date": "2021-10-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2pTv3pLM9Cw3tblbBHOAzN",
+          "name": "more plastic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327d4fafc560108309066b931",
+      "uri": "spotify:album:4ELMTMmN1ZVnLGJMKeNgZR",
+      "name": "falling apart",
+      "album_type": "single",
+      "release_date": "2021-09-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4lC8Q0azW5ij2e1skZo377",
+          "name": "stonebank"
+        },
+        {
+          "spotify_id": "1U6FdBYgMkeRjQFuTF5JYr",
+          "name": "emel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c67e59210008dd155bbb4f8a",
+      "uri": "spotify:album:4ZOqLJnbBMvNhsNHm0YOx0",
+      "name": "shadowlands (inspired by ‘the outlaw ocean’ a book by ian urbina)",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "7miGJahGF5JYOunptmXsQz",
+          "name": "ian urbina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae14dbaf7438c6e925c1069",
+      "uri": "spotify:album:6J36RHhMLfQCjdgSbuPj9l",
+      "name": "bounce",
+      "album_type": "single",
+      "release_date": "2021-08-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D6SwsmIOKAcd2sMavDqxo",
+          "name": "vesk green"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312e94ba1d4b856614e03a69a",
+      "uri": "spotify:album:5FpdpIOsGCjiVcjDcJx1tL",
+      "name": "lalala (feat. bryan the mensah)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2TQYJefeEZlD8YoOpMEi3P",
+          "name": "p8ople"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2zsThoavhdt8NBt6OQLfw2",
+          "name": "bryan the mensah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a236c8ec0504467b8417e7a7",
+      "uri": "spotify:album:0kTF8zlb8hCppBizDGK9Ba",
+      "name": "rattlesnake (pegboard nerds remix)",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zuevuwyBq4MiQzPB3nvW2",
+          "name": "rogue"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf0343805ed0af61f51de776",
+      "uri": "spotify:album:3YxzVruTjT2lnAmr2EgQOz",
+      "name": "hero (infected mushroom remix)",
+      "album_type": "single",
+      "release_date": "2020-12-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "6S2tas4z6DyIklBajDqJxI",
+          "name": "infected mushroom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d00a3c48cdd4334c211d1146",
+      "uri": "spotify:album:6LIlh3rGjisJpKV3z3BMR8",
+      "name": "manifest / together",
+      "album_type": "single",
+      "release_date": "2020-09-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2pTv3pLM9Cw3tblbBHOAzN",
+          "name": "more plastic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332025a1d9b512215d86c5d35",
+      "uri": "spotify:album:0R3MS9JjZvQl9QaczZAVKe",
+      "name": "rhythm is a dancer",
+      "album_type": "single",
+      "release_date": "2020-06-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1e1HmU6K8SdfUMIjYO73ke",
+          "name": "tia simone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ac9f2319c5e9cfe697dc60c",
+      "uri": "spotify:album:5nrQBDhOeanNYeReK2Dd4y",
+      "name": "crying shame",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273818f7aaa62331da362361d8d",
+      "uri": "spotify:album:0CODKRKhSXqDGAptHdLl4s",
+      "name": "heart of the universe",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a60718af489cf049463f3e1",
+      "uri": "spotify:album:5XhytRXMVnpfsCha0kp4S1",
+      "name": "computa hakka",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f21004ac335ac3465637afa",
+      "uri": "spotify:album:3WjWqSSb8Jb3ge43gBgAs9",
+      "name": "solo",
+      "album_type": "single",
+      "release_date": "2019-10-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ec8ece3fe7023ada9e98f2e",
+      "uri": "spotify:album:6hsjVORni5GVfk6gLMahAr",
+      "name": "exterminate",
+      "album_type": "single",
+      "release_date": "2019-09-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c265b2aa1422296caebe61d",
+      "uri": "spotify:album:5PjQTY6pRca8JyGJoBwoii",
+      "name": "give a little love",
+      "album_type": "single",
+      "release_date": "2019-08-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e75445b39a7616ded95ace4",
+      "uri": "spotify:album:09EyrRyxNieasY6wbEDUfg",
+      "name": "moshi",
+      "album_type": "single",
+      "release_date": "2019-07-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "3bwENxqj9nhaAI3fsAwmv9",
+          "name": "tokyo machine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f80bde998a87669a898df50f",
+      "uri": "spotify:album:57BYkiBAAWlrt66NNvdwPE",
+      "name": "back to me",
+      "album_type": "single",
+      "release_date": "2019-05-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c18b2a5becad7c2322d46c55",
+      "uri": "spotify:album:20F6qwBxDzesrQZyGKzoGG",
+      "name": "gunslinga",
+      "album_type": "single",
+      "release_date": "2019-03-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2kUNDOK5StemhF8zfPju2p",
+          "name": "mc mota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec654fc4ecda511195fca2a2",
+      "uri": "spotify:album:2XGXfnBRoLUDy5TRx4CjOX",
+      "name": "full hearts ep",
+      "album_type": "single",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e18b2d7ebb118a4b2cca8e4",
+      "uri": "spotify:album:6QmMZKT5XL0WVV6dvKOYMB",
+      "name": "harpoon",
+      "album_type": "single",
+      "release_date": "2018-07-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4070d5e32fa6448671ec865",
+      "uri": "spotify:album:37lA50G8dNxEy0qWHDypuH",
+      "name": "escape",
+      "album_type": "single",
+      "release_date": "2018-07-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "06VibSJEr3GLxLBBZhRums",
+          "name": "dion timmer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1cea8c4f8e87e31c580f19",
+      "uri": "spotify:album:7pYcXNtcVUEV2kHT3lQPcP",
+      "name": "purple people eater",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5adff81cbe66c4262d033ba",
+      "uri": "spotify:album:7DIGr0ROvl6ITIVbv9GejF",
+      "name": "wots",
+      "album_type": "single",
+      "release_date": "2018-06-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2pTv3pLM9Cw3tblbBHOAzN",
+          "name": "more plastic"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374e9a3c43a7e6ac64109f8fa",
+      "uri": "spotify:album:6uXFAeDlSnbRLypQ7SBVI8",
+      "name": "party freaks",
+      "album_type": "single",
+      "release_date": "2018-04-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d2d845fe2650098b7257d3c",
+      "uri": "spotify:album:0cxYcuVHQhiyIYIDMP4ubP",
+      "name": "bring me joy",
+      "album_type": "single",
+      "release_date": "2018-02-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "2v48ggkAkCPBJ4ERWMNDYv",
+          "name": "lug00ber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352540feea55af869ec46d4dd",
+      "uri": "spotify:album:4yQHbr0gXjHWwUqi3V47S6",
+      "name": "troll",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "1uQ3SMleuxGQbM35fXJxP0",
+          "name": "racecarbed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b8cb272fd6dc149fb4ad6ae",
+      "uri": "spotify:album:1RMhkIO9jlxYs2AH5dTSUN",
+      "name": "supersonic",
+      "album_type": "single",
+      "release_date": "2018-01-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcfc27a38985edb1e46d9d90",
+      "uri": "spotify:album:1XWBZRBA6EdcdvvUpnhlMF",
+      "name": "disconnected (vip)",
+      "album_type": "single",
+      "release_date": "2017-12-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2d927ff26684362af1102d0",
+      "uri": "spotify:album:6QPBBWR7wVDvhtM7WQaUaV",
+      "name": "just dance",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308d8a9e01de4db4913af9919",
+      "uri": "spotify:album:1CAd6io0fe1KJXSsPteZ7H",
+      "name": "another round",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e04e3bc8468041a5e8f380f",
+      "uri": "spotify:album:29VeLdnnel385Ixqk5VucW",
+      "name": "heaven let us down",
+      "album_type": "single",
+      "release_date": "2017-10-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cd0b9d4d6ef70ecb08f219b",
+      "uri": "spotify:album:5bKhpewBiMq2kO5hFY4xg2",
+      "name": "speed of light pt. 2",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bfea8428962cabfe17f1ecd",
+      "uri": "spotify:album:5GNc6wgaXQjb8n1LxzSQ1u",
+      "name": "free",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5urVI6ZUTzPlsqQoHVwc9s",
+          "name": "motopony"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273691d832ae1ecfdf66633386a",
+      "uri": "spotify:album:61bvm8XUuCb4pGL84y1MbS",
+      "name": "move that body (soltan remix)",
+      "album_type": "single",
+      "release_date": "2017-08-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "0MYmMGmRg8CFZPNZBAdjm1",
+          "name": "quiet disorder"
+        },
+        {
+          "spotify_id": "6wIbmO0mcpIyQ6CFXIJmIy",
+          "name": "soltan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273532b025b2c8c82c21c96e826",
+      "uri": "spotify:album:2sdaRi5CguacIrDU6sBrgH",
+      "name": "extraordinary",
+      "album_type": "single",
+      "release_date": "2017-07-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4iw0IpAocxcswvLRUXW0so",
+          "name": "spyker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e5c918d61c9b09053ab0ee6",
+      "uri": "spotify:album:7CUswA3Bu4XRVxileszghC",
+      "name": "nerds by nature (the remixes)",
+      "album_type": "single",
+      "release_date": "2017-05-16",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323a0ccd5e1a73d4f74f51d2f",
+      "uri": "spotify:album:263hvjSOoEFOv89xFyi0NL",
+      "name": "speed of light (andy c remix)",
+      "album_type": "single",
+      "release_date": "2017-05-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "75HK7rgkmDMTnWwwmcN53N",
+          "name": "andy c"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d416630ced0fab7af0531303",
+      "uri": "spotify:album:467KLyAxEABCvfyGHkTkbf",
+      "name": "move that body",
+      "album_type": "single",
+      "release_date": "2017-04-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "0MYmMGmRg8CFZPNZBAdjm1",
+          "name": "quiet disorder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bff398f18b39a27f88b63c21",
+      "uri": "spotify:album:3IfOQyB1VDmsH5gpaNh22O",
+      "name": "deep in the night (the remixes)",
+      "album_type": "single",
+      "release_date": "2017-03-07",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f1d92c94274c6bbfb872bbf",
+      "uri": "spotify:album:7vTzR7LrlEFrbMu6Aqa2vd",
+      "name": "deep in the night (dion timmer remix)",
+      "album_type": "single",
+      "release_date": "2017-03-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "06VibSJEr3GLxLBBZhRums",
+          "name": "dion timmer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273037e1af2a5f03c12dc2aec0a",
+      "uri": "spotify:album:0KoLrLZ0inqoSk3ZQ3McNv",
+      "name": "deep in the night (muzzy remix)",
+      "album_type": "single",
+      "release_date": "2017-03-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4UNnRb4LN2hGtbtMfPzMhg",
+          "name": "muzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c773ae905b9b5fe952296781",
+      "uri": "spotify:album:4z8M13LQDMgedDtKvziLw2",
+      "name": "deep in the night (barely alive remix)",
+      "album_type": "single",
+      "release_date": "2017-03-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5c3akKV3CUqAVOnGZqf4S3",
+          "name": "barely alive"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732654d4ccfe3755c5a1b0d166",
+      "uri": "spotify:album:3QGi4dOd5Nn0TyXB2GuQPF",
+      "name": "voodoo",
+      "album_type": "single",
+      "release_date": "2017-02-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "17esEoE9uEHFKuzkar2UL0",
+          "name": "tony junior"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316823d43d7e1ab526d73384c",
+      "uri": "spotify:album:4yNbWfo6yxt4DaCTMKGk41",
+      "name": "nerds by nature",
+      "album_type": "single",
+      "release_date": "2017-01-13",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730107847fa0cb70b2b27f0f24",
+      "uri": "spotify:album:3RzQ3wWlkYR6GFvYD5EdF0",
+      "name": "bamf",
+      "album_type": "single",
+      "release_date": "2016-10-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730326d4ae8b76d558599319dd",
+      "uri": "spotify:album:7LAbQPjXbUpVZoWtCLTHNE",
+      "name": "deep in the night",
+      "album_type": "single",
+      "release_date": "2016-08-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd0f222638cdafdc5dc333ee",
+      "uri": "spotify:album:6WJv7T7O0jQN614Kk8gbhj",
+      "name": "blackout",
+      "album_type": "single",
+      "release_date": "2016-07-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f61835857cfe224e31fd65",
+      "uri": "spotify:album:0fXiFnqr1UjQAjc9XUT8DO",
+      "name": "weaponize",
+      "album_type": "single",
+      "release_date": "2016-06-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "52mRmJo0LxvODr6FIWh1Dh",
+          "name": "miu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732742efa1384a84ec577b7341",
+      "uri": "spotify:album:2ZklcEqT1pZUX0hTNFNVOa",
+      "name": "superstar",
+      "album_type": "single",
+      "release_date": "2016-05-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273575e9869423b7fe73334fff1",
+      "uri": "spotify:album:5kUV77Qo397v87xeloWT2k",
+      "name": "heartbit (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-04-19",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736891822b313de7b352624ae9",
+      "uri": "spotify:album:1Ekc8aupD2DklUXQZp3nQB",
+      "name": "all alone",
+      "album_type": "single",
+      "release_date": "2016-03-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "4fv1OFJywZ7DHCz3mVQQ45",
+          "name": "grabbitz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9120e8c2870d489e23e046e",
+      "uri": "spotify:album:2virE4dl4JlJfMMR11QcgD",
+      "name": "heartbit",
+      "album_type": "single",
+      "release_date": "2016-02-14",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273899ed71ca329d4295ffb24c4",
+      "uri": "spotify:album:0rDHFOSrC1yQzNWXYWRc5y",
+      "name": "pink cloud (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-01-20",
+      "release_year": "2016",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8067d380cf6b54db6d5cda9",
+      "uri": "spotify:album:05BkyY6CibZlnLbAr45q67",
+      "name": "emoji vip",
+      "album_type": "single",
+      "release_date": "2015-12-08",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0ef7fa30b7246479c729261",
+      "uri": "spotify:album:7mV7KdSX5VHnd4jmF8Awhb",
+      "name": "get on up (the remixes)",
+      "album_type": "single",
+      "release_date": "2015-11-12",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eccabf596bef18241d35b950",
+      "uri": "spotify:album:2rSOPAGlhWUAzjdThQcChJ",
+      "name": "pink cloud",
+      "album_type": "single",
+      "release_date": "2015-10-23",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a2f943ba1398828282a8915",
+      "uri": "spotify:album:0cyek2NWPM2X6WAVATTEDt",
+      "name": "get on up",
+      "album_type": "single",
+      "release_date": "2015-08-21",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731810937b3580d2e1466c048c",
+      "uri": "spotify:album:7fjuKepfin9mBDpGsNJRHu",
+      "name": "swamp thing",
+      "album_type": "single",
+      "release_date": "2015-06-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333cbea1f6f920ac504047aa2",
+      "uri": "spotify:album:70l4SPh7pdJKDoqYPYV2wf",
+      "name": "try this",
+      "album_type": "single",
+      "release_date": "2015-04-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273732522190daf7e27eb5a7517",
+      "uri": "spotify:album:5QtADIQps0laHMsslsqB1F",
+      "name": "bring the madness (the remixes)",
+      "album_type": "single",
+      "release_date": "2015-03-23",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f96c065369ef01de7bfc352",
+      "uri": "spotify:album:38x6SzzuaHhzMAvbhF0UpR",
+      "name": "bring the madness",
+      "album_type": "single",
+      "release_date": "2015-01-19",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a423c392d5499b49167245d",
+      "uri": "spotify:album:6PqOTn8kRdnC2jHts0SCK8",
+      "name": "the uncaged remixes",
+      "album_type": "single",
+      "release_date": "2014-11-17",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736989e86496fb481ccaf39573",
+      "uri": "spotify:album:5s6jzDcDARpbctQ1sx9Shb",
+      "name": "emergency",
+      "album_type": "single",
+      "release_date": "2014-10-13",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d3d43a7a21cf2e1cef73467",
+      "uri": "spotify:album:2LRMQHnV0kVWAWicJ6iEpz",
+      "name": "badboi",
+      "album_type": "single",
+      "release_date": "2014-08-18",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ba370c8788ff7409399a517",
+      "uri": "spotify:album:4QWyCA7jODwemVgoZPXsqq",
+      "name": "new style",
+      "album_type": "single",
+      "release_date": "2014-07-23",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303bfdfbc0e5da7cc825bda90",
+      "uri": "spotify:album:2twXRvwzJfTaiwjMupY3aJ",
+      "name": "here it comes",
+      "album_type": "single",
+      "release_date": "2014-06-09",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732445c78d49640f0aec180c44",
+      "uri": "spotify:album:5xPJNqM5FFUuMWjBLKVL3s",
+      "name": "hero (teminite remix)",
+      "album_type": "single",
+      "release_date": "2014-05-30",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "5EEuae5uigQnwgYCl0s8EF",
+          "name": "teminite"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb505ea53097e48387f20d40",
+      "uri": "spotify:album:5C0qS2QHDG2wm4Kqlk0tRk",
+      "name": "hero",
+      "album_type": "single",
+      "release_date": "2014-03-17",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273037165ac337d14ac301180ae",
+      "uri": "spotify:album:0xxQOOCAlmilcVMexvgmf1",
+      "name": "bassline kickin (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-02-19",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5c7f7be27309c774117cd06",
+      "uri": "spotify:album:4mtoZk1luh46O1h6PrKiGB",
+      "name": "bassline kickin",
+      "album_type": "single",
+      "release_date": "2014-01-15",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f993d8539a8a913a17f8bd05",
+      "uri": "spotify:album:12OJvH7pmVXUrfy3LLLx9C",
+      "name": "lucid dreams (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-01-07",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2n7USVO8fO8FF8zq4kG2N1",
+          "name": "mat zo"
+        },
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273833402d98178fa15ee440d62",
+      "uri": "spotify:album:3kfFKk7ObK9mvtkYJ77tZV",
+      "name": "high roller remixes",
+      "album_type": "single",
+      "release_date": "2013-11-25",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e2aa0d5130072062ed32367",
+      "uri": "spotify:album:3Am8A7REwZmmPIJKRom7tG",
+      "name": "the lost tracks",
+      "album_type": "single",
+      "release_date": "2013-08-30",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcca173c6385f9aa38806f68",
+      "uri": "spotify:album:7cNcoSmIhULcW3t8ZUGXgu",
+      "name": "guilty pleasures",
+      "album_type": "single",
+      "release_date": "2013-06-24",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fbcb413e14988a709329dbe",
+      "uri": "spotify:album:6peyYgbMzpI0I8ENKdDJIG",
+      "name": "razor sharp",
+      "album_type": "single",
+      "release_date": "2013-05-02",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "28Ky95tmlHktB96DBUoB0g",
+          "name": "tristam"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d5ca523801750cfd1af7b6f",
+      "uri": "spotify:album:0esqNjCvy9pxh8oSUOANS9",
+      "name": "we are one",
+      "album_type": "single",
+      "release_date": "2013-02-02",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ed1a9b2df67abfc7947d26a",
+      "uri": "spotify:album:0iQ4lfPySbXfgcdCYV5LPl",
+      "name": "self destruct",
+      "album_type": "single",
+      "release_date": "2012-10-11",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1b4a8e64ad253b706ca33ad",
+      "uri": "spotify:album:5R2Mac8KzSLJN0x5JE1MNm",
+      "name": "fire in the hole",
+      "album_type": "single",
+      "release_date": "2012-08-21",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273951befc133b6567948c82ed8",
+      "uri": "spotify:album:1BbW5B1uNhUpd7PdZmeAlL",
+      "name": "rocktronik",
+      "album_type": "single",
+      "release_date": "2012-07-21",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d672ad860fdeed4126d25596",
+      "uri": "spotify:album:4WoMeyGMicCvJ8YYSr8nXQ",
+      "name": "pressure cooker",
+      "album_type": "single",
+      "release_date": "2012-06-21",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c6dabf0350d1933d01542d4",
+      "uri": "spotify:album:4ZY8kFYUysWonTFdD43aJe",
+      "name": "disconnected",
+      "album_type": "single",
+      "release_date": "2012-05-24",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f690f179efb06d71142361",
+      "uri": "spotify:album:3Hv6GY5ztLTAy7b5i528rD",
+      "name": "gunpoint",
+      "album_type": "single",
+      "release_date": "2012-03-26",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e08da0ef2ea596c5dd9274e",
+      "uri": "spotify:album:0blHcHKlYJNFoRIeAue48Z",
+      "name": "2012 (det derfor) (feat. dice & joey moe)",
+      "album_type": "single",
+      "release_date": "2012-03-05",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc9770e6a2637b551d63f7ef",
+      "uri": "spotify:album:1xNzNw6giSNY8QH0ntuayf",
+      "name": "ingen anden drøm",
+      "album_type": "single",
+      "release_date": "2012-01-16",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lLY20XpZ9yDobkbHI7u1y",
+          "name": "pegboard nerds"
+        },
+        {
+          "spotify_id": "19HFRWmRCl27kTk6LeqAO8",
+          "name": "morten"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:43.000Z"
+}

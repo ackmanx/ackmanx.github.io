@@ -1,0 +1,3046 @@
+{
+  "name": "cosmic gate",
+  "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+  "uri": "spotify:artist:6ySxYu68zTsO5ghsThpGtS",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb715f2b0a098b31ba36e14876",
+  "genres": [
+    "trance",
+    "progressive trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732edd7cac25c0d49c89da6af6",
+      "uri": "spotify:album:4ZCrLO09T4UaNKUYc0zPRz",
+      "name": "perspectives",
+      "album_type": "album",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfd551da375956864c5cfda8",
+      "uri": "spotify:album:2Kv9eMk4X5ndJUXnJ2hdt4",
+      "name": "bloom",
+      "album_type": "single",
+      "release_date": "2026-02-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "78GHS9zWXcj8tBke222g5N",
+          "name": "pretty pink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273204fbfe73b47893966bd233b",
+      "uri": "spotify:album:5Muy6fICEAqVilg9uxjbIl",
+      "name": "perspectives ep 3",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ff36ad9ec1cc8db67fd7730",
+      "uri": "spotify:album:7uKVUfILmC9oK9fpbpTFmD",
+      "name": "let it all out",
+      "album_type": "single",
+      "release_date": "2026-01-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0l6LU5NRvLTVeRDJZznwLX",
+          "name": "ava silver"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273312aa610f2257899cbf22915",
+      "uri": "spotify:album:3Nsk5gtRDbZzdBc6K03Crs",
+      "name": "need a little love",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "717wokHGfBLVAO7ZItnhox",
+          "name": "cmd/ctrl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351e0dc500e043ba41e76c366",
+      "uri": "spotify:album:2NaFfIJV7kiIatOKiZSp3U",
+      "name": "how this ends",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7rznn3BVOuA5jyPB275jmS",
+          "name": "avira"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393a267306ee496b64d897778",
+      "uri": "spotify:album:2oarJdIoQTyaGbxKASnQ7G",
+      "name": "perspectives ep 2",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fd725891f04ba8d4702a11d",
+      "uri": "spotify:album:6fg1FsXhB5CNpufuTgIJJi",
+      "name": "heaven knows",
+      "album_type": "single",
+      "release_date": "2025-10-30",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1WPEvpdkTpcT5R976cTAFJ",
+          "name": "ryvm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377cc038198c7eea0e22b11e2",
+      "uri": "spotify:album:411WDzcQy7CVDVt1UYUiPj",
+      "name": "you",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cf5be728e7ad7a92fac1116",
+      "uri": "spotify:album:5gPS1VxN3qAugB4H1s4CP3",
+      "name": "never erase you",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3b1f14d759b6e665c878d79",
+      "uri": "spotify:album:6ILlIBGoO5m4qEckh2356e",
+      "name": "not enough time (taglo remix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "4dQDfHDSlal2ceGhs4ZQTD",
+          "name": "taglo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9129b7baa88d2f2af11e833",
+      "uri": "spotify:album:53QWYOJHdCNQKEHenL1nbE",
+      "name": "mirador (solee remix)",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0r0m8up7CjS8TJodH2HX7C",
+          "name": "solee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cd343761e6c317fc3c31ac0",
+      "uri": "spotify:album:4oqPBZ0tn7Toj5CtOJZJk1",
+      "name": "hear me out (hel:sløwed remix)",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        },
+        {
+          "spotify_id": "153wxN1mEz167KM0a34zss",
+          "name": "hel:sløwed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a474a2b91fcb483f4c3f1bff",
+      "uri": "spotify:album:2KBASd87yooKuFN1UDzLDd",
+      "name": "perspectives ep 1",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa00a8e972a52819567c1c2a",
+      "uri": "spotify:album:4ELroC43JOrpddiZrIzAnF",
+      "name": "i'm on fire",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1cyoaS6fUKVqileyv1iues",
+          "name": "james french"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273094e1b10637af35f702c4de0",
+      "uri": "spotify:album:2p8OqL8tqRrjVznivseouh",
+      "name": "brave (atb’s anthem remix)",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1hu8RDN5gKsi2YYvWTOAqY",
+          "name": "christian burns"
+        },
+        {
+          "spotify_id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "atb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f682f50fa9bbe1be2de29edc",
+      "uri": "spotify:album:261t7yaYtZXqaSCKZGuvYr",
+      "name": "the drums",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "3yGz81qZItOli1RL5vgUeB",
+          "name": "maxim lany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344991137e5d233d9f76765ea",
+      "uri": "spotify:album:1AoiV5KvYqOTw7nfHhZuqd",
+      "name": "take me",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1cyoaS6fUKVqileyv1iues",
+          "name": "james french"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da582e7c8371ca289a34fb5a",
+      "uri": "spotify:album:2eKSjeiEf6n9fw8ASRQVBO",
+      "name": "just the beginning (scorz remix)",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2WSmz7fObdRrG8ZTXz7kcn",
+          "name": "scorz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb4c34105281fd92359cadf3",
+      "uri": "spotify:album:78JeasHzW1m9ic6v2atmTV",
+      "name": "wake your mind sessions 005 exclusives",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc7f2dc693d995d523a2d646",
+      "uri": "spotify:album:6nZ7ri5ZEYPVttOzlqNy1s",
+      "name": "only you",
+      "album_type": "single",
+      "release_date": "2024-09-05",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2IuTspiSwgQQs4LmvNSBIZ",
+          "name": "susie ledge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273262099b993c36c5887220b18",
+      "uri": "spotify:album:54IH3dcJ9FOViNt0D6ukxl",
+      "name": "wake your mind sessions 005",
+      "album_type": "album",
+      "release_date": "2024-09-04",
+      "release_year": "2024",
+      "total_tracks": 31,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328210cd90e4aaac83afa96ed",
+      "uri": "spotify:album:2cujkuLtDk0US2AJlWXXHs",
+      "name": "brave (sean tyas remix)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1hu8RDN5gKsi2YYvWTOAqY",
+          "name": "christian burns"
+        },
+        {
+          "spotify_id": "4zqERoiO42cNiA3pPDWnvN",
+          "name": "sean tyas"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df987b892f5199108eb9d8b3",
+      "uri": "spotify:album:6VybT6guYbU72XS15a4iri",
+      "name": "trifecta",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2h6LBe1v9fSvc62fYum0CA",
+          "name": "arnej"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e66553f04478e8266c9ae2bb",
+      "uri": "spotify:album:642PHXG3lS5SVfwoWmZRBf",
+      "name": "brave",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1hu8RDN5gKsi2YYvWTOAqY",
+          "name": "christian burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b236a56f44029d4e35a4b21",
+      "uri": "spotify:album:5PzMVuRMuIgVxcFH1iKuJR",
+      "name": "am2pm (anunnakis remix)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "558YA9OfxNMkjUzyRyGRmn",
+          "name": "anunnakis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273941497b3fb71e0b50f68c588",
+      "uri": "spotify:album:7LTpnjtkWNcj3taZalAaZg",
+      "name": "the truth 2.0",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b22b2e91be4faf87d27c64e4",
+      "uri": "spotify:album:1OsPyUaDqXWbu2PKnjSnpp",
+      "name": "it's simple",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6bC5jJKn1QA0aoeZIFOMiP",
+          "name": "andy duguid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bab557af4e988fbb7ee9b46f",
+      "uri": "spotify:album:2qRQvv109ZmVepSleiiNZ0",
+      "name": "mirador",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737302e3f7110010ad9a9b3409",
+      "uri": "spotify:album:4NVGovWajMG3PmHAt8qYyp",
+      "name": "mosaiik chapter two",
+      "album_type": "album",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d8c306d5ffd9e8250593613",
+      "uri": "spotify:album:0nH0K8vP8UTgZNHLYSGe5K",
+      "name": "emotions of colour",
+      "album_type": "single",
+      "release_date": "2023-03-02",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "3Y43xMeiPftAookVOSKu1Y",
+          "name": "gid sedgwick"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377baf2533052729936c57044",
+      "uri": "spotify:album:0mfbgKFoJlEVjMrjuDh0Nu",
+      "name": "just the beginning",
+      "album_type": "single",
+      "release_date": "2023-02-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4q8SjmBr5X7DUmVvrnNrsd",
+          "name": "nathan nicholson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6c584959428e6bad3e1e637",
+      "uri": "spotify:album:1QZypOqR1CX8AXCi4dsr8l",
+      "name": "reflexion (asot 2023 anthem)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9f7a3e3fbc11e11eb117d09",
+      "uri": "spotify:album:7J3xst66IbyZ8vpmm8aOLC",
+      "name": "analog feel (greenhaven djs remix)",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6ny5YjOSAb1ESDtkQTQ1bo",
+          "name": "greenhaven djs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee80d56c80eac975403403c5",
+      "uri": "spotify:album:7pQOGTptMRIC2DI3pZTz3F",
+      "name": "hear me out",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389c17422559e52655495f80f",
+      "uri": "spotify:album:1C9r52yduyIpjxb8Zd9XAs",
+      "name": "follow you anywhere",
+      "album_type": "single",
+      "release_date": "2022-06-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4q8SjmBr5X7DUmVvrnNrsd",
+          "name": "nathan nicholson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be97322a46e8f3f3340cc5e7",
+      "uri": "spotify:album:5WivG5aBh4fXUB2ii0Wmfe",
+      "name": "retrospection",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6ny5YjOSAb1ESDtkQTQ1bo",
+          "name": "greenhaven djs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736155b62c2a9d6f84439654db",
+      "uri": "spotify:album:00B7jwgbX54EXZZaOak9de",
+      "name": "we got the fire",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0DCRUk25XIiRFiNtiuR8OR",
+          "name": "olivia sebastianelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ce801882ffe66f6fced593a",
+      "uri": "spotify:album:4mqlPperN1kSLGgOIx1i4D",
+      "name": "blame (pavel khvaleev remix)",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        },
+        {
+          "spotify_id": "04mfb9WF2sttD7r6SWMYRk",
+          "name": "pavel khvaleev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbd21362736ec299ede050b4",
+      "uri": "spotify:album:34Bwt8Ucu72R0oCDoJVo9u",
+      "name": "summer wonder",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0pnxrtBsRrvxeBTjHduofB",
+          "name": "mike schmid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4fca570963b8a5b11939d5f",
+      "uri": "spotify:album:7DXN5OfbbiVQ9G8LOWvgbZ",
+      "name": "vertigo",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731402d1c8c1383fe6cdcdd12e",
+      "uri": "spotify:album:0AKTLERtk4RF2otu3AJRAa",
+      "name": "mosaiik chapter one",
+      "album_type": "album",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c386fed96118581dfaef21a4",
+      "uri": "spotify:album:49C5OoTcYTeF3tkY1QZmJe",
+      "name": "nothing to hide",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c41d44a4381755d470e35a4",
+      "uri": "spotify:album:2grHWVe0CY0Thlp2PUkUPZ",
+      "name": "feel it (avira remix)",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7rznn3BVOuA5jyPB275jmS",
+          "name": "avira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d623cf788287e2588b4e630",
+      "uri": "spotify:album:7xqmQR8wtwwYSAmsBe3h3e",
+      "name": "feel it",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273467c4f25af01f474ee147bb2",
+      "uri": "spotify:album:4cmwoz7J4Z0gSYTfZf7VOd",
+      "name": "blame",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "7HKB2dr6EceAJM8xRlXYlK",
+          "name": "diana miro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273febb78e8400f6b20456bdfc8",
+      "uri": "spotify:album:3WNNYgXSkFUPytOPfcuY1B",
+      "name": "everything everything (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0DCRUk25XIiRFiNtiuR8OR",
+          "name": "olivia sebastianelli"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da24f17fd815a1e5fc0bf296",
+      "uri": "spotify:album:6AOYKGrHytKWKtQweEsf5J",
+      "name": "the launch",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "5dFuu05x8SPBuymudrTBU8",
+          "name": "andrew bayer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273239f54ed17c5be4f039b3a3c",
+      "uri": "spotify:album:14H8mkpDrTettuTXCTYKEA",
+      "name": "promised land (cosmic gate's no gravity remix)",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4BIamAD25vwYldaOWTEsXd",
+          "name": "joe smooth"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb80d679734e00e40f0a4382",
+      "uri": "spotify:album:4IeISNQnov9OgxjmTzguCZ",
+      "name": "cosmic gate presents wake your mind sessions 004",
+      "album_type": "album",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310dc1a71beb98175eeee97a9",
+      "uri": "spotify:album:2Wi34Pm2ukbakQY4MKzkox",
+      "name": "universal love",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e5fd433f48d9539dc4a8509",
+      "uri": "spotify:album:5Crk7lurOMOEHmrFhzlgD2",
+      "name": "wake your mind sessions 004 exclusives",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273127dd1e04a69704609d4f68d",
+      "uri": "spotify:album:26cakBqSeiWWDeS5jb0jya",
+      "name": "wake your mind sessions 004 exclusives",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375d79d86ce336f941b7b62e4",
+      "uri": "spotify:album:5767gMzgdKuTvB2z4IYTl7",
+      "name": "your mind",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325635e6ce2bfd258a6e7f0f7",
+      "uri": "spotify:album:0FbbLbiRJD5qAsEqrPPSng",
+      "name": "something real (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6StTE02qIwbcJjGEDSZgg5",
+          "name": "avian grays"
+        },
+        {
+          "spotify_id": "6Z8vLeI1ZMj2kzTNWVOBXr",
+          "name": "jordan shaw"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b16f936124b2f1186785faac",
+      "uri": "spotify:album:4Yivb1L8Ja0UCogkGV9GAh",
+      "name": "lizard (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0MNSDAOCHF7f2ZfAYxZ9bp",
+          "name": "mauro picotto"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cf8c738df9a9391f1bbdf87",
+      "uri": "spotify:album:0usH1aTzs9qL3e1EkUzH4H",
+      "name": "20 years [forward ever backward never]",
+      "album_type": "album",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ff68abab8670782b60c2a83",
+      "uri": "spotify:album:6CzeyoHaBcQFv2QoKn8Itl",
+      "name": "20 years: forward ever backward never (extended mixes)",
+      "album_type": "album",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec14a56aa6de52da5ec0913d",
+      "uri": "spotify:album:5VARQGxKi1D8kwgOY5Djp6",
+      "name": "the wave 2.0",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360c3a85e00fb27cb75cc3b9d",
+      "uri": "spotify:album:5GVNJEOjfJNf0ePHqo2CrT",
+      "name": "light years",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c75899ae66a91de71461785",
+      "uri": "spotify:album:4thEbPartFrc5HTKQOPdMY",
+      "name": "come with me",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af5ff33043bd3b5b45c73a33",
+      "uri": "spotify:album:3KEwZlqZxxykVcX3XXBDWw",
+      "name": "live at asot 900 (utrecht, the netherlands)",
+      "album_type": "album",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323503ac7b9873bea1fb9b528",
+      "uri": "spotify:album:31KluuSWSi7A7N2ShqA8Dn",
+      "name": "need to feel loved",
+      "album_type": "single",
+      "release_date": "2019-02-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "48qAFdouXbbu4TXVO5VRLH",
+          "name": "forêt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325dc7edc35fdc1d53775ba55",
+      "uri": "spotify:album:1Xo1oBqMHdve2G9PasMORT",
+      "name": "frozen ground (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2018-12-04",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1yoZuH2j43vVSWsOwYuQyn",
+          "name": "ilan bluestone"
+        },
+        {
+          "spotify_id": "1FgOxY04oRLgFoibYeBtuv",
+          "name": "giuseppe de luca"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a768a04c4e6c32e6949be44e",
+      "uri": "spotify:album:5DZ3RP8BZAskx66XhYHPuU",
+      "name": "be your sound (ilan bluestone remix)",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "1yoZuH2j43vVSWsOwYuQyn",
+          "name": "ilan bluestone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c52f7fca75124a3183a73ed7",
+      "uri": "spotify:album:3JUh7YGXCBk7REwY5lfHAA",
+      "name": "awaken",
+      "album_type": "single",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273609a3b0cf45321592f080f2c",
+      "uri": "spotify:album:0eio9bbJwO5UTNRP4tDG8l",
+      "name": "live at tomorrowland 2018",
+      "album_type": "album",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae99d412c69883c650d91927",
+      "uri": "spotify:album:3EXDXX5WDohlfnDmezKfUi",
+      "name": "l.e.d. there be light (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1eQe86RbDKRIiGZk08r9YJ",
+          "name": "rank 1"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273351e2c3ad15a42a9d7e92122",
+      "uri": "spotify:album:2Bu7TfnonrkEouSleqBS3S",
+      "name": "yeah!",
+      "album_type": "single",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300c678ba81431c178d261452",
+      "uri": "spotify:album:4Js4a6SPXm9IZg3HD6UyJ6",
+      "name": "wake your mind sessions 003 ep 2",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273653f14bcc28d634f1be2df25",
+      "uri": "spotify:album:2BboPN7VjSUA5uv0EiyyN6",
+      "name": "noom",
+      "album_type": "single",
+      "release_date": "2018-04-06",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "3WGxBKuYawiVOmCwR8FIUC",
+          "name": "super8 & tab"
+        },
+        {
+          "spotify_id": "1ltDgA6tV4utKM6y1BOYIE",
+          "name": "estiva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c2297e2ab3ca7004c20506a",
+      "uri": "spotify:album:0FFI2DycPV8T26UydYOccB",
+      "name": "wake your mind sessions 003",
+      "album_type": "album",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 31,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c0bd14dc37ef1bf2516babb",
+      "uri": "spotify:album:7qVN2CPuGtBhNa2yjKMzpq",
+      "name": "wake your mind sessions 003 [unmixed]",
+      "album_type": "album",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c999576d425aadc331239361",
+      "uri": "spotify:album:0vFhHUFwoZVqkH504SxQLo",
+      "name": "wake your mind sessions 003 ep 1",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273604f89ccb746b32103a423f0",
+      "uri": "spotify:album:5ivOgTZVnqYDMrMs8PMLHe",
+      "name": "only road (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273840641e3ded93448f7d07807",
+      "uri": "spotify:album:1VkqxBipZ2Zti22vHxD1om",
+      "name": "if not now",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d2dafae7b2bff609ddde9e9",
+      "uri": "spotify:album:6hqOeBwJamOnFsoYYPy4o7",
+      "name": "ar (patrick white remix)",
+      "album_type": "single",
+      "release_date": "2018-01-19",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        },
+        {
+          "spotify_id": "0Sx9nTyihFVJrCPZiLG9Ih",
+          "name": "patrick white"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca9b653627a02c7c800020e",
+      "uri": "spotify:album:0JtilmURWVN2WlnjRWDCL0",
+      "name": "tonight (remixes)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eabd9f92d4cf401ed90af432",
+      "uri": "spotify:album:1puPebjSKcsNDJcFLRX1Lv",
+      "name": "folded wings",
+      "album_type": "single",
+      "release_date": "2017-10-19",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2uJPnLW3muLMdYB3H61h5K",
+          "name": "sarah lynn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c97e38349ebafeed8d5aff3",
+      "uri": "spotify:album:6veuBTjGonaK1XoIWEpam9",
+      "name": "live at tomorrowland 2017",
+      "album_type": "album",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd57de8ebdaed370983d2770",
+      "uri": "spotify:album:3qJzqk6irnL4EFae8C1uxi",
+      "name": "materia chapter.two",
+      "album_type": "album",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4dc219b3bb7753c2a1d2f5e",
+      "uri": "spotify:album:26w5xTZpoyvVfRoFy5H8oS",
+      "name": "materia chapter.two (the extended mixes)",
+      "album_type": "album",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320b2850a38c1b5294386eb73",
+      "uri": "spotify:album:3assY8Gu1wn9Q1N8H7se98",
+      "name": "bigger than we are",
+      "album_type": "single",
+      "release_date": "2017-08-24",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca6de232848a1e9baa5c3406",
+      "uri": "spotify:album:1qQm9Hc7TlS5RjNKTmaWK6",
+      "name": "ar",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a4e6b6509cbf1ccf0967059",
+      "uri": "spotify:album:0onKx54pTXxqj3J2f17QG1",
+      "name": "tonight",
+      "album_type": "single",
+      "release_date": "2017-07-06",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a888d055d37bbabe333e24c3",
+      "uri": "spotify:album:4QLKhRXiDuse0cmRD1a5Ok",
+      "name": "materia chapter.one (the extended mixes)",
+      "album_type": "album",
+      "release_date": "2017-04-21",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f99f5eea023313f3dade52c8",
+      "uri": "spotify:album:0JRmRTC9xw3fcVII7UV3Dw",
+      "name": "fall into you (remixes)",
+      "album_type": "single",
+      "release_date": "2017-04-20",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7c7963e853a8d5329e05397",
+      "uri": "spotify:album:7wl0aFb4uc4kpwMikvflmP",
+      "name": "fireflies (hexlogic remix)",
+      "album_type": "single",
+      "release_date": "2017-04-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "07rc8cAXzRZkFwA8ig6JGG",
+          "name": "julie thompson"
+        },
+        {
+          "spotify_id": "67Zly4zD1sRugg5rT9bYMI",
+          "name": "hexlogic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f0aacc7a97241bea42f7815",
+      "uri": "spotify:album:0dkfVdNvTT3FOSXsmUxCDD",
+      "name": "the deep end",
+      "album_type": "single",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4Uwpa6zW3zzCSQvooQNksm",
+          "name": "tim white"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273164aac758a1deb79d33cc1b4",
+      "uri": "spotify:album:6ZsaCBvjox3Fr3ySHI1i96",
+      "name": "materia chapter.one",
+      "album_type": "album",
+      "release_date": "2017-01-20",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0e380efe9030bcd5da6eecc",
+      "uri": "spotify:album:2pNYPmKVEoCNXoJyNe7cNK",
+      "name": "dynamic",
+      "album_type": "single",
+      "release_date": "2017-01-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bb67be7d23e24831f1d9efc",
+      "uri": "spotify:album:0TKJIVlC6OxbZANb2GJEzi",
+      "name": "fall into you",
+      "album_type": "single",
+      "release_date": "2016-12-16",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358100a4bd5fdbcffe6376b9a",
+      "uri": "spotify:album:2lE12SMI8mEfgnvrcwLGAc",
+      "name": "event horizon",
+      "album_type": "single",
+      "release_date": "2016-10-10",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273843bef5e88b7a2c05728cbfe",
+      "uri": "spotify:album:0r3p9aIyNzTmYgd5BRCWeN",
+      "name": "edge of life",
+      "album_type": "single",
+      "release_date": "2016-07-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f393930414d8d62ad3e2932",
+      "uri": "spotify:album:69kFeu4dDLvUUi6cJ0hrtJ",
+      "name": "exploration of space",
+      "album_type": "single",
+      "release_date": "2016-04-15",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739424f9bddb92bd92c7ed87dc",
+      "uri": "spotify:album:3bAe2K99p57uEg9MRR8Fjz",
+      "name": "wake your mind sessions 002",
+      "album_type": "album",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4f91c26b6da916c1c2e1845",
+      "uri": "spotify:album:7dW9OEpbQXFZlxLIvbY3V2",
+      "name": "so get up (alex di stefano remix)",
+      "album_type": "single",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdd37cd8f9d1d854547572c8",
+      "uri": "spotify:album:1RC1526OPvNbmjNzWppFgW",
+      "name": "am2pm",
+      "album_type": "single",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb332d26ae658a3dec07b629",
+      "uri": "spotify:album:0mBhH7jKgv0Q9jYE2X44Ho",
+      "name": "am2pm (radio edit)",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730790ed8ea30d2ba5fd5da899",
+      "uri": "spotify:album:0Z3Z7jfwWbJP4ld9ObdIrJ",
+      "name": "yai (here we go again) [super8 & tab remix]",
+      "album_type": "single",
+      "release_date": "2015-09-25",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        },
+        {
+          "spotify_id": "3WGxBKuYawiVOmCwR8FIUC",
+          "name": "super8 & tab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fe6fdb43ee16cea0a25b5b1",
+      "uri": "spotify:album:0hONswWkPFuZLYRlLPKngG",
+      "name": "start to feel (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2015-06-19",
+      "release_year": "2015",
+      "total_tracks": 37,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737340c39f5c5c5933197ad3ae",
+      "uri": "spotify:album:2lcLrrQvsQtwwYke2XXGg8",
+      "name": "run away (alexander popov remix)",
+      "album_type": "single",
+      "release_date": "2015-06-12",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        },
+        {
+          "spotify_id": "4zNhfG6i4QlfUuzt1hBGu2",
+          "name": "alexander popov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4ebbfbdb42b01d042591ca2",
+      "uri": "spotify:album:5lJfqwD4lajGhcIfaaKyae",
+      "name": "sparks after the sunset (rafaël frost remix)",
+      "album_type": "single",
+      "release_date": "2015-06-05",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2uJPnLW3muLMdYB3H61h5K",
+          "name": "sarah lynn"
+        },
+        {
+          "spotify_id": "4vK15XpJWMJwcgP3m5afsI",
+          "name": "rafael frost"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bf7f8ef91717a27966f6a77",
+      "uri": "spotify:album:4OzXrzmXnjfNpQY6wMcqOd",
+      "name": "going home (gareth emery remix)",
+      "album_type": "single",
+      "release_date": "2015-03-27",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c10c70692035100edf519a94",
+      "uri": "spotify:album:6pLB3hUxRg23fiUToxZcOW",
+      "name": "wake your mind sessions 001 (mixed by cosmic gate)",
+      "album_type": "album",
+      "release_date": "2015-03-13",
+      "release_year": "2015",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374d61cc347950775378c7dd7",
+      "uri": "spotify:album:31uAEnHuiFrY8SPLReYKzk",
+      "name": "going home",
+      "album_type": "single",
+      "release_date": "2015-03-09",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273537b2b7891f614e4f1113636",
+      "uri": "spotify:album:4W0rWxYbxj4scXch7CAVOT",
+      "name": "this will be your happyness (steve brian remix)",
+      "album_type": "single",
+      "release_date": "2015-03-02",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "5qKx3JeAQMuihJbouWKolh",
+          "name": "jennifer cooke"
+        },
+        {
+          "spotify_id": "4xSQ9zt3zGyyiCXazv4mhf",
+          "name": "steve brian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b9c685d68f00851473c671f",
+      "uri": "spotify:album:60e8RCxxX3YLM0Wp5Oi3MH",
+      "name": "wake your mind sessions 001",
+      "album_type": "album",
+      "release_date": "2015-02-09",
+      "release_year": "2015",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734da014871568181e33f6f793",
+      "uri": "spotify:album:5LH8XiWjHHuamlcdYZ4Iy2",
+      "name": "yai (here we go again)",
+      "album_type": "single",
+      "release_date": "2015-02-09",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1068e218f6d7d61aff5a026",
+      "uri": "spotify:album:7A0GuhrxOnNH4E8j18AUc2",
+      "name": "alone",
+      "album_type": "single",
+      "release_date": "2014-11-10",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "41dAIf2IkI9w4bldfUKQHC",
+          "name": "kristina antuna"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307918fc9324a55da2d667e3f",
+      "uri": "spotify:album:2cboHiXDig8qeICSBU2F2v",
+      "name": "falling back (mark sixma remix)",
+      "album_type": "single",
+      "release_date": "2014-08-25",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        },
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333b909c329d29b4c62f4bb6a",
+      "uri": "spotify:album:0xUg0Z9On4HD5HWXglTWZr",
+      "name": "telefunken",
+      "album_type": "single",
+      "release_date": "2014-07-18",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4GEIawzVZxWGdtl9OOdgeA",
+          "name": "jerome isma-ae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363c9efb01cf8de0cedef4b84",
+      "uri": "spotify:album:6pNJ24vOfmDA1tg59sNKm4",
+      "name": "start to feel",
+      "album_type": "album",
+      "release_date": "2014-06-27",
+      "release_year": "2014",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e92908403c3310ac16b90a9",
+      "uri": "spotify:album:2aRgFRg50mBi6zRVUuma87",
+      "name": "start to feel (incl. bonus commentary)",
+      "album_type": "album",
+      "release_date": "2014-06-27",
+      "release_year": "2014",
+      "total_tracks": 34,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334f34f0dfe73340843fd1f54",
+      "uri": "spotify:album:0y4JLZmj3lDws0iYwnExYV",
+      "name": "fair game",
+      "album_type": "single",
+      "release_date": "2014-06-20",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1YuNQvsvOsMBm0ahbxB8qM",
+          "name": "orjan nilsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b22388de3b1a0d9d53547a93",
+      "uri": "spotify:album:3492Hn9dIPOQCbQaoN0kee",
+      "name": "falling back",
+      "album_type": "single",
+      "release_date": "2014-05-16",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cb413f9be92b82671c474ff",
+      "uri": "spotify:album:10QISb3Gdg14M78SWJxuJ2",
+      "name": "so get up (remixes)",
+      "album_type": "single",
+      "release_date": "2014-01-06",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319797c74a241c69835caef03",
+      "uri": "spotify:album:1xTHoPtXIkWQSeHkbLtyzT",
+      "name": "so get up",
+      "album_type": "single",
+      "release_date": "2013-10-07",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbe958f22aac61912df562ba",
+      "uri": "spotify:album:6TyQpNdwxwjVZhrthJ2DK4",
+      "name": "crushed",
+      "album_type": "single",
+      "release_date": "2013-07-15",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a46e32fde246d89051fe15e",
+      "uri": "spotify:album:4djk7Uy95lzEMSAELUH2bF",
+      "name": "storm chaser",
+      "album_type": "single",
+      "release_date": "2013-05-27",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273481d7641c5f46986cefabbaa",
+      "uri": "spotify:album:5VIFcWodPXd3lkV0SZ56Po",
+      "name": "wake your mind (the extended mixes)",
+      "album_type": "album",
+      "release_date": "2013-05-20",
+      "release_year": "2013",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bac7602524e7200bdac8e091",
+      "uri": "spotify:album:2UO7rUv6kGOXVLmMtck6Nq",
+      "name": "wake your mind (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2013-04-01",
+      "release_year": "2013",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334734250139646dd3804759a",
+      "uri": "spotify:album:0lk3fLYYW9QaKRRbwatta0",
+      "name": "calm down",
+      "album_type": "single",
+      "release_date": "2012-11-05",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d14bb2270f394bac5722ced",
+      "uri": "spotify:album:7Dzz2htV8k34dUte2MtkCg",
+      "name": "wake your mind",
+      "album_type": "single",
+      "release_date": "2012-09-10",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "21R50WhyQI5HxWOTr6MyY1",
+          "name": "cary brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2a232b8d0e095dc97d17ef6",
+      "uri": "spotify:album:7GIZGyEZmsFqGE8Y4hopQ0",
+      "name": "perfect stranger",
+      "album_type": "single",
+      "release_date": "2012-07-30",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b999787bb22cc5c601f85a50",
+      "uri": "spotify:album:4yN6IpBpzOsvTyT1IPVac8",
+      "name": "over the rainbow",
+      "album_type": "single",
+      "release_date": "2012-06-18",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "4hnPJ9AvhEj9n5QkMJWfoo",
+          "name": "j’something"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f38890c0cc110edaccb7f69",
+      "uri": "spotify:album:2z1URDys1fJrlga0TFpVBR",
+      "name": "colours (cosmic gate radio edit)",
+      "album_type": "single",
+      "release_date": "2012-04-20",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d57ecbea2d4388c69c9f3986",
+      "uri": "spotify:album:1nDdFHnjdwpYac7VeHspZO",
+      "name": "flying blind",
+      "album_type": "single",
+      "release_date": "2012-04-03",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388eefa9d658fca926c44952e",
+      "uri": "spotify:album:5TkHIFegD3TIAvZHVggXs4",
+      "name": "colours (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2012-03-19",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c32efae0cb4330e7c22e7fe",
+      "uri": "spotify:album:2ZjLAUzdJrGRZKFggh3TtK",
+      "name": "sometimes they come back for more",
+      "album_type": "single",
+      "release_date": "2012-01-23",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2h6LBe1v9fSvc62fYum0CA",
+          "name": "arnej"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dec8d0450f887bb92e8f599",
+      "uri": "spotify:album:6abreF426EibZ20iNk69iX",
+      "name": "be your sound",
+      "album_type": "single",
+      "release_date": "2011-10-18",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bfe732f03b48260d397afcd",
+      "uri": "spotify:album:1i0xnIWLAuSM8khl7os0kG",
+      "name": "the blue theme (ferry corsten fix)",
+      "album_type": "single",
+      "release_date": "2011-09-20",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ZpwFriFFPaGFC4qYQQJ1i",
+          "name": "system f"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca1e372df10c94ead46db5cf",
+      "uri": "spotify:album:1Ly8XgDRGQdxhRlwAKaS9x",
+      "name": "the theme",
+      "album_type": "single",
+      "release_date": "2011-08-22",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360d72ccf06a15f270e2d84ad",
+      "uri": "spotify:album:60UxKnb8WkLxocsqUFvynJ",
+      "name": "back 2 the future",
+      "album_type": "album",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee453594bb08b42a8b929d94",
+      "uri": "spotify:album:7MV1ft5CtB8x4FO36o06UC",
+      "name": "back 2 the future",
+      "album_type": "album",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734195232fea4279996a5d92ea",
+      "uri": "spotify:album:3Z2l0ofOkqHiNWalH1hkkk",
+      "name": "raging",
+      "album_type": "single",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "5n7DYjAs74cvL0eRnqoahn",
+          "name": "jan johnston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331d3965ca225df119d589b67",
+      "uri": "spotify:album:1FoJYfaHp4FSlwa3JYjVR6",
+      "name": "fire wire",
+      "album_type": "single",
+      "release_date": "2010-12-20",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366bdbaceaff31e033194b5f4",
+      "uri": "spotify:album:1W4y3FLbrtvTBy04o9qKD0",
+      "name": "the drums",
+      "album_type": "single",
+      "release_date": "2010-12-06",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9f4794b3c1a91cf4417b03f",
+      "uri": "spotify:album:4m0YKv8peC219m6RAUQNZ0",
+      "name": "back to earth",
+      "album_type": "single",
+      "release_date": "2010-11-22",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dc18a400b761a5b34554d87",
+      "uri": "spotify:album:4RQTswYsSUR05wUTvTcjiP",
+      "name": "exploration of space",
+      "album_type": "single",
+      "release_date": "2010-11-08",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3292ac153c805438857a899",
+      "uri": "spotify:album:1dnjANPgTwE7UbGKzarcbY",
+      "name": "sign of the times (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2010-08-09",
+      "release_year": "2010",
+      "total_tracks": 34,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5d59a8a7bfca047113f2723",
+      "uri": "spotify:album:7EBEsLJTKp0Yo3dOxASeKb",
+      "name": "london rain",
+      "album_type": "single",
+      "release_date": "2010-06-28",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b94aba42a279b07a5e912ba2",
+      "uri": "spotify:album:4ZSb4r2RY9QPLbNfY2q8vG",
+      "name": "back 2 back 4",
+      "album_type": "album",
+      "release_date": "2010-03-01",
+      "release_year": "2010",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0dcd24695ea7c2f45f9b9e4",
+      "uri": "spotify:album:6GMTEKDssWhjIoRdYf0kJD",
+      "name": "barra",
+      "album_type": "single",
+      "release_date": "2010-02-15",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273077fe06fed7af8e739816c85",
+      "uri": "spotify:album:0SON3Ve37wCZKiRVo6oStu",
+      "name": "earth mover (platinum edition)",
+      "album_type": "album",
+      "release_date": "2009-12-01",
+      "release_year": "2009",
+      "total_tracks": 32,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372ac28b4d9704d098409f256",
+      "uri": "spotify:album:4bLd0Aa9gMAoHmcOuVUXaU",
+      "name": "flatline",
+      "album_type": "single",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "6YvjlSVLWjXqSvATafQkSK",
+          "name": "kyler england"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba781906ea754526e47259aa",
+      "uri": "spotify:album:6V0fUjcf4d8Zzl8fSfpEQ3",
+      "name": "not enough time",
+      "album_type": "single",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351fed59f53e3c6525b02dc18",
+      "uri": "spotify:album:43b9aXG6bQHANw0VgL3JcZ",
+      "name": "under your spell",
+      "album_type": "single",
+      "release_date": "2009",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273591a3fcc71c4673a587247f0",
+      "uri": "spotify:album:4mECpzHnb4cBUwq7ZqXWaJ",
+      "name": "a day that fades",
+      "album_type": "single",
+      "release_date": "2008-05-23",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337517442900e74e2ebf81d8c",
+      "uri": "spotify:album:5P1O0Ai4LiC5FAgeuKDBsQ",
+      "name": "body of conflict",
+      "album_type": "single",
+      "release_date": "2007-09-26",
+      "release_year": "2007",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "0sGdLU2mH2tIIzCngJn2rS",
+          "name": "denise rivera"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9066483db9736cddd480ac9",
+      "uri": "spotify:album:4abtcj0hM8GxYFW64sJLsZ",
+      "name": "this world is watching me",
+      "album_type": "single",
+      "release_date": "2007-03-05",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "1eQe86RbDKRIiGZk08r9YJ",
+          "name": "rank 1"
+        },
+        {
+          "spotify_id": "3zBZhGMFBeqdhCdJB60a5g",
+          "name": "kush"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db8b7d76a7e7a929ec37ebbb",
+      "uri": "spotify:album:4vDY28ZuRhG5ujdZUEUBHl",
+      "name": "should've known",
+      "album_type": "single",
+      "release_date": "2006-10-02",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733345cc0b912929a3eeedf0d0",
+      "uri": "spotify:album:0mZfsuswkGzrx1ke6P3098",
+      "name": "analog feel",
+      "album_type": "single",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c18ed3455189fa8a4b853fec",
+      "uri": "spotify:album:2zGjd67LZjnKCcnGSmKESp",
+      "name": "virtual discotech 1.0",
+      "album_type": "single",
+      "release_date": "2005-04-13",
+      "release_year": "2005",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5ktM1vJeh9y6Ysm08aBsuB",
+          "name": "64 bit"
+        },
+        {
+          "spotify_id": "6WIU1qFqwiY5QFyy5Lhufj",
+          "name": "beam"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f81d6cd8ae0165c6c7208441",
+      "uri": "spotify:album:4CkeVlEJmu9ntU7pTgGw8Z",
+      "name": "i feel wonderful",
+      "album_type": "single",
+      "release_date": "2005",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "5n7DYjAs74cvL0eRnqoahn",
+          "name": "jan johnston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328279455571a1e39fc10d9fe",
+      "uri": "spotify:album:1Z9XGo2f5SyVbLVNZsjI4r",
+      "name": "human beings",
+      "album_type": "single",
+      "release_date": "2003-04-11",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273831d4ff4e4c7c5665e0e9ff0",
+      "uri": "spotify:album:2qMtxErvRxVcFjW1lJbwTY",
+      "name": "raging [storm]",
+      "album_type": "single",
+      "release_date": "2002-09-16",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        },
+        {
+          "spotify_id": "5n7DYjAs74cvL0eRnqoahn",
+          "name": "jan johnston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d88b0b5cb7796f08a6f5a55",
+      "uri": "spotify:album:1eCcx16VoXZcsTlGZrqAut",
+      "name": "the wave",
+      "album_type": "single",
+      "release_date": "2002-09-16",
+      "release_year": "2002",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e8e408fc813fc98aa982623",
+      "uri": "spotify:album:4Csk1DaMQgKU9EAfNzG3zk",
+      "name": "the truth",
+      "album_type": "single",
+      "release_date": "2002-06-10",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731974f5bc579e75d1ae3d7d12",
+      "uri": "spotify:album:1WljUyVzEccviKuJXD7Nif",
+      "name": "no more sleep",
+      "album_type": "album",
+      "release_date": "2002-05-23",
+      "release_year": "2002",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341c98b0b88cccc048412467f",
+      "uri": "spotify:album:1MhAem13MavFmufMEO63OW",
+      "name": "back to earth",
+      "album_type": "single",
+      "release_date": "2002-02-04",
+      "release_year": "2002",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300eca83af501b8d899b9939f",
+      "uri": "spotify:album:66vsULCTMM5n9eosClSvQM",
+      "name": "hardcore",
+      "album_type": "single",
+      "release_date": "2002-02-04",
+      "release_year": "2002",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d49391119df78cb3d6da1a70",
+      "uri": "spotify:album:6NnqKHGSBmNyc9rLecL0rl",
+      "name": "rhythm & drums",
+      "album_type": "album",
+      "release_date": "2001-02-16",
+      "release_year": "2001",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e6dd91346e492fb47ef9cd0",
+      "uri": "spotify:album:7LJlzaFq8LRFGGq2kijcHX",
+      "name": "exploration of space",
+      "album_type": "single",
+      "release_date": "2001-01-19",
+      "release_year": "2001",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737221d6fa79dc346a00ab336d",
+      "uri": "spotify:album:1ndO6QqYNX8iGsz1Uv67Zl",
+      "name": "melt to the ocean",
+      "album_type": "single",
+      "release_date": "2001-01-19",
+      "release_year": "2001",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731997117e1d2678dc1d5beacc",
+      "uri": "spotify:album:0aotMmIvDysOzHXkCwkXbY",
+      "name": "fire wire",
+      "album_type": "single",
+      "release_date": "2000-07-10",
+      "release_year": "2000",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273553eeffb779def7a4ae29304",
+      "uri": "spotify:album:6NmogNBFYhzm7YYO9rSGro",
+      "name": "somewhere over the rainbow",
+      "album_type": "single",
+      "release_date": "2000-07-10",
+      "release_year": "2000",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273407bca3c0062b0112c9a4968",
+      "uri": "spotify:album:4CmtR67xqiDwnfA90orMJ1",
+      "name": "fly away (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2000-06-11",
+      "release_year": "2000",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "513hutOhfryax7g1N0XHEk",
+          "name": "vincent de moor"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f303d6bbf122b7472c69f255",
+      "uri": "spotify:album:2mavexQ624PE1SzPI5zaKh",
+      "name": "mental atmosphere",
+      "album_type": "single",
+      "release_date": "1999-10-25",
+      "release_year": "1999",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331534946d9054934de06fdb2",
+      "uri": "spotify:album:1onVLCRDmHbKisneuOOgml",
+      "name": "the drums",
+      "album_type": "single",
+      "release_date": "1999-03-23",
+      "release_year": "1999",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba77f3bfef696455c6ab2b4e",
+      "uri": "spotify:album:5aFMZbf0NUUfRjAYQ3DIxh",
+      "name": "carte blanche (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "1999-01-01",
+      "release_year": "1999",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1DT2WEMQmEJ3yRmTaqzrXd",
+          "name": "veracocha"
+        },
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:01.000Z"
+}

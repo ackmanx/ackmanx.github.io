@@ -1,0 +1,1350 @@
+{
+  "name": "gabriel & dresden",
+  "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+  "uri": "spotify:artist:64KfnYe81Wld2AkG4bkGIV",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebabc8b9a130a73ba67a2533ae",
+  "genres": [
+    "trance",
+    "progressive trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a318bcc652ab08f4a9ee104b",
+      "uri": "spotify:album:2Q4jxXEYbYWNxb6jSVsi0l",
+      "name": "velour",
+      "album_type": "single",
+      "release_date": "2026-06-12",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "7J6WMh4LEpLud71vkMUb2U",
+          "name": "blake.08"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f2d11afe9fc16d135272223",
+      "uri": "spotify:album:0TG63YJ7ffL1OXYojWCser",
+      "name": "fall asleep (gabriel & dresden remixes)",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2eWC3Ckg8BA2MDV2NoHBWd",
+          "name": "daniel wanrooy"
+        },
+        {
+          "spotify_id": "6SQYowC6y4OKzaEjVwPNZg",
+          "name": "emma lock"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daeb1feedcd1636252781d9b",
+      "uri": "spotify:album:7fsvPs6VPaIxrqY22UiyX3",
+      "name": "always (gabriel & dresden remixes)",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4bYwbb6k4ujHD2NXRxSwRP",
+          "name": "robbie rivera"
+        },
+        {
+          "spotify_id": "4RtLJ6ksxpaktS32qE6kxo",
+          "name": "tyzn"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da5baba5ca40a8168dbbe1ab",
+      "uri": "spotify:album:6lLGnWNaL1HntoBGyh7zqi",
+      "name": "on and on (you lie) [gabriel & dresden remix]",
+      "album_type": "single",
+      "release_date": "2025-10-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "540RtWfpQokIlaRgMDjU9v",
+          "name": "tdj"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b15d69f4e901c38414f5dcac",
+      "uri": "spotify:album:1w5sGzfdVqRUmddcdcCaET",
+      "name": "serpent",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a26501fae73e1206133f451",
+      "uri": "spotify:album:2TCevXi7Le0kmFgto4qJm0",
+      "name": "kinetic cinema ep",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4a15ea7b5291e65e8f6e8ec",
+      "uri": "spotify:album:1SQ5m3TvATKqmj8wBHPPio",
+      "name": "kinetic cinema",
+      "album_type": "single",
+      "release_date": "2024-04-10",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ada0c2d8ba579238fbd2f4c8",
+      "uri": "spotify:album:2RdgrxAAz38mRRmIsNbEhS",
+      "name": "other eye",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5dFuu05x8SPBuymudrTBU8",
+          "name": "andrew bayer"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315da8d078ed9719a58b3b6b3",
+      "uri": "spotify:album:6J3k0ojVqB0mH9PJBI68qi",
+      "name": "bias",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358f4e988b040a2eb0485bd35",
+      "uri": "spotify:album:17ISvhxZwTF4AkNoOKNmaG",
+      "name": "tracking treasure down (marc stout remix)",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738738ceff31c8064010a537d6",
+      "uri": "spotify:album:5EaQNgoEld9ofnRKcW9vRf",
+      "name": "dangerous power (edu imbernon remix)",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4451e0430815ad0944fcf9b",
+      "uri": "spotify:album:43187eLfZ5MtraPLk2LdRE",
+      "name": "red lights",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4KZ2NALhw4FuSwJM8by1q8",
+          "name": "86 crush"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732620b57517f747aa01c8542a",
+      "uri": "spotify:album:5j3XDcu8QJak4CGY8TOM6t",
+      "name": "falling forward (sultan + shepard remix)",
+      "album_type": "single",
+      "release_date": "2021-04-14",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "14Tg9FvbNismPR1PJHxRau",
+          "name": "sultan + shepard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3af91901a40293ff6260e6",
+      "uri": "spotify:album:4t9SmLpp4AXO6gbECrlzNF",
+      "name": "gabriel & dresden presents: 20 years of anjunabeats",
+      "album_type": "album",
+      "release_date": "2021-02-04",
+      "release_year": "2021",
+      "total_tracks": 37,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "7aqysYAN8bVjQuJSo9PyqR",
+          "name": "anjunabeats"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733366bf753ff07f76878cae6a",
+      "uri": "spotify:album:0nxLAXq31qd58SCw9SzMX0",
+      "name": "remedy (remixed)",
+      "album_type": "album",
+      "release_date": "2021-01-06",
+      "release_year": "2021",
+      "total_tracks": 42,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737906f1a854f2a27d53869df0",
+      "uri": "spotify:album:335CInN1enQ3tqUjzv36Ul",
+      "name": "will i change (simon doty & julian gray mixes)",
+      "album_type": "single",
+      "release_date": "2020-11-23",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "0NznnEmGCRqungT5a57GG3",
+          "name": "simon doty"
+        },
+        {
+          "spotify_id": "7zgYgOlFA5NRLumUDzKSVN",
+          "name": "julian gray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c426cd2caec8e5cb916ec35e",
+      "uri": "spotify:album:55u7yAmokq14X59YcYLkMG",
+      "name": "all i've got (lumïsade balearic mix)",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "4f4jYlEGVjsVY4kdOBILla",
+          "name": "lumïsade"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336ca67ecad8b31eea174c2eb",
+      "uri": "spotify:album:1o0ijsjRpmxTuyYKr7gyJY",
+      "name": "no one's to blame (dylhen and gabriel & dresden mixes)",
+      "album_type": "single",
+      "release_date": "2020-08-26",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "58R30oixEWaD1YGduLJpR5",
+          "name": "dylhen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2401bc5e75ed00ef483e327",
+      "uri": "spotify:album:2snhUhSYVookpSWBZFc1Xm",
+      "name": "something bigger (elevven & nourey mixes)",
+      "album_type": "single",
+      "release_date": "2020-07-29",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "1x72oeaWJ5kdXMXZoq0Icu",
+          "name": "elevven"
+        },
+        {
+          "spotify_id": "29eCbkd3VZXMgG5Ggyuaog",
+          "name": "nourey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bde862ce1b424da53c3a15b4",
+      "uri": "spotify:album:6kkLmc8xfZvhdUspVa9Vek",
+      "name": "falling forward (qrion remix)",
+      "album_type": "single",
+      "release_date": "2020-06-03",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "0bGDTQ78MVgI5Snqo9KJZw",
+          "name": "qrion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731178f4432e7bb7d7e666c41c",
+      "uri": "spotify:album:34u1C7TpPLDUU73Q9A2K0i",
+      "name": "coming on strong (myon return to 95 mix)",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "0nTbVTXLLbBA4xCtn0cFkv",
+          "name": "myon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f32404c7a57b2eb790871213",
+      "uri": "spotify:album:77UXiZalsfFShO2l4Uw6UK",
+      "name": "remember (the remixes pt. 2)",
+      "album_type": "single",
+      "release_date": "2020-04-01",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "78GHS9zWXcj8tBke222g5N",
+          "name": "pretty pink"
+        },
+        {
+          "spotify_id": "5vOJRY9yCRvua91pDxlX62",
+          "name": "wherefore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395423ba22525cff6206827cf",
+      "uri": "spotify:album:2Pyfl6onqC3Dv4dM3FxZMn",
+      "name": "remember (the remixes pt.1)",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "2VzzhmEHXT4nGim8nBw4ij",
+          "name": "ocula"
+        },
+        {
+          "spotify_id": "5WWUkLXiAbmGwtELcfvB2w",
+          "name": "genix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a8b68fa586056a62f04dce3",
+      "uri": "spotify:album:2gjHLfp6wT5lUHvL6PubLV",
+      "name": "remember (ocula remix)",
+      "album_type": "single",
+      "release_date": "2020-03-09",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "2VzzhmEHXT4nGim8nBw4ij",
+          "name": "ocula"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bbd85daf07ae9428ca9c08c",
+      "uri": "spotify:album:5JGofDklwhDcgrHhwNUkYA",
+      "name": "coming on strong (fatum remix)",
+      "album_type": "single",
+      "release_date": "2020-02-21",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "3pt2vTpH1eI776oDZT1G2C",
+          "name": "fatum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273351bbd291b9e21441506a8c8",
+      "uri": "spotify:album:1typ7N4gvDx5adcYu2f2RS",
+      "name": "without you near",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        },
+        {
+          "spotify_id": "5dB1uaPAsPV8ldSuBtRDZv",
+          "name": "departure"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c43cd049d2267c8564da6c88",
+      "uri": "spotify:album:6nV0JWoRlW85d3iwLXEELs",
+      "name": "remedy",
+      "album_type": "album",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735489619abf16c30eb098de26",
+      "uri": "spotify:album:4Bmz0dBX0OGBuP9Y1XHSGU",
+      "name": "something bigger",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eb80374c1f3a98d673553fa",
+      "uri": "spotify:album:7iQe7QGUiNddJTqscsGBSt",
+      "name": "keep on holding (ilan bluestone & maor levi remix)",
+      "album_type": "single",
+      "release_date": "2019-12-11",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d41146b5ada115eca9b64114",
+      "uri": "spotify:album:0b7GWHJ0h08daLlJEB0Bye",
+      "name": "i am you",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "ferry corsten"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305620da1f81be48cb3d5ed39",
+      "uri": "spotify:album:6qOZyZ6ruB3HEkuQI1p7mZ",
+      "name": "keep on holding",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273060067c8379d95bec880f45f",
+      "uri": "spotify:album:7j2ObmxkAtqOmRM5a6MowX",
+      "name": "coming on strong",
+      "album_type": "single",
+      "release_date": "2019-10-02",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381c1335405a832d3d6c97272",
+      "uri": "spotify:album:59VU0JexbwV8VgmNuoMuFM",
+      "name": "you (myon & elevven remix)",
+      "album_type": "single",
+      "release_date": "2019-01-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "1x72oeaWJ5kdXMXZoq0Icu",
+          "name": "elevven"
+        },
+        {
+          "spotify_id": "0nTbVTXLLbBA4xCtn0cFkv",
+          "name": "myon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd89146100fca9c3cc29bf7",
+      "uri": "spotify:album:1bydGmyjMmjtV60g0IKKtU",
+      "name": "the only road remix ep pt. i",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273613e54d4baf30e6b9f03685c",
+      "uri": "spotify:album:6C9OBUHCUot3hTkceQCc5W",
+      "name": "is it love? (1001) [gabriel & dresden remix]",
+      "album_type": "single",
+      "release_date": "2018-07-03",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "10gzBoINW3cLJfZUka8Zoe",
+          "name": "above & beyond"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307fcc3e7f5924ab074a7b478",
+      "uri": "spotify:album:3eeMJgDPPcY0zhnbhdzODe",
+      "name": "in search of sunrise 14 mixed by markus schulz, gabriel & dresden and andy moor",
+      "album_type": "album",
+      "release_date": "2018-06-29",
+      "release_year": "2018",
+      "total_tracks": 47,
+      "artists": [
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "0Fn4agIyGMwQsKHrx1i8Dn",
+          "name": "andy moor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a95117b654d48dce39b43458",
+      "uri": "spotify:album:4ck4fp06SgPVZvImy5wd6g",
+      "name": "over oceans (gabriel & dresden club mix)",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2e2abaaffc1d049312683e9",
+      "uri": "spotify:album:3IApJAkLiMOaRqiIOupnAx",
+      "name": "as the rush comes",
+      "album_type": "single",
+      "release_date": "2018-06-07",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7DZ9xBelM79Mlk3Weia4oD",
+          "name": "motorcycle"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0416a0d11d2835a1734ecf4",
+      "uri": "spotify:album:10H6u8TyzONLGsizozQuFU",
+      "name": "as the rush comes (collected, pt.1)",
+      "album_type": "single",
+      "release_date": "2018-06-07",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7DZ9xBelM79Mlk3Weia4oD",
+          "name": "motorcycle"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e45ad36bc532724ebfb413c",
+      "uri": "spotify:album:6Pzmf105yHoJiXz0wVza59",
+      "name": "as the rush comes (collected, pt.2)",
+      "album_type": "single",
+      "release_date": "2018-06-07",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7DZ9xBelM79Mlk3Weia4oD",
+          "name": "motorcycle"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a26156192503550d216ec325",
+      "uri": "spotify:album:0ruwhpHKZ4p15ZGYZhh8Yj",
+      "name": "as the rush comes (cristoph remix)",
+      "album_type": "single",
+      "release_date": "2018-06-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7DZ9xBelM79Mlk3Weia4oD",
+          "name": "motorcycle"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730760c1a939d81b5010d26bf0",
+      "uri": "spotify:album:1wUUsvOlCZjYLG0d7VTAxR",
+      "name": "underwater (tinlicker remix)",
+      "album_type": "single",
+      "release_date": "2018-05-01",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "5EmEZjq8eHEC6qFnT63Lza",
+          "name": "tinlicker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273604f89ccb746b32103a423f0",
+      "uri": "spotify:album:5ivOgTZVnqYDMrMs8PMLHe",
+      "name": "only road (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2018-02-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "6ySxYu68zTsO5ghsThpGtS",
+          "name": "cosmic gate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b42b542f64a353b5b263db85",
+      "uri": "spotify:album:7xLjGlaR6Ety1LCbZDWaIE",
+      "name": "the only road",
+      "album_type": "album",
+      "release_date": "2017-12-15",
+      "release_year": "2017",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736801fda73ab6eec178c44bd9",
+      "uri": "spotify:album:7LQ7USexJg4bSwyRnepsNX",
+      "name": "you",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8fa98c38c255f76b8fe8982",
+      "uri": "spotify:album:3h2gsnKToRVpl23cwfp7Cg",
+      "name": "waiting for winter / white walls",
+      "album_type": "single",
+      "release_date": "2017-11-07",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8783a4add8340baeeaad038",
+      "uri": "spotify:album:11iJPULKwBs8zbgm8H1pT5",
+      "name": "this love kills me (the respray)",
+      "album_type": "single",
+      "release_date": "2017-10-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        },
+        {
+          "spotify_id": "10gzBoINW3cLJfZUka8Zoe",
+          "name": "above & beyond"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a8b52166d35d3172e605dfe",
+      "uri": "spotify:album:2d8kQGONc1Hw6jXMewWBqW",
+      "name": "this love kills me",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3oqiDRfqAdXhjdGh4eY3hT",
+          "name": "sub teal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273639dc02b0320f166145f2945",
+      "uri": "spotify:album:2asSu6CKKhHtGhwqagDJXd",
+      "name": "new ground",
+      "album_type": "single",
+      "release_date": "2014-08-04",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a149c71c6da8b263b413369d",
+      "uri": "spotify:album:2xtDwrLmu3prCAxqIIzLIi",
+      "name": "rise up (cold blue remix)",
+      "album_type": "single",
+      "release_date": "2014-07-21",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "3mbjJqO86kx786znlhmTrF",
+          "name": "cold blue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a80af299e313cc6acca1330",
+      "uri": "spotify:album:3KP0054pdJZqyRfZmBMhRC",
+      "name": "rise up",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f36297f81baf8719157964c3",
+      "uri": "spotify:album:4nDZGofwRlbubYmy8f3JU1",
+      "name": "tomorrow comes (remixes)",
+      "album_type": "single",
+      "release_date": "2013-10-14",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737292f30c9739d9bc1a08a877",
+      "uri": "spotify:album:4QrVF9b39vZqtc0UxL5ghw",
+      "name": "tomorrow comes",
+      "album_type": "single",
+      "release_date": "2013-09-09",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385ebcafa0e76957d3c15c503",
+      "uri": "spotify:album:4izzX9eBaZs3cpenM5KQlD",
+      "name": "shatter (remixes)",
+      "album_type": "single",
+      "release_date": "2013-04-29",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "7s8qj3Bzbzoyw1t1y88GuX",
+          "name": "d-wayne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273467da35288e43c8caa28a6b0",
+      "uri": "spotify:album:1CdgVghyp0mnhIMdanTDKr",
+      "name": "tracking treasure down revisited",
+      "album_type": "single",
+      "release_date": "2013-03-25",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273103fd022fdebd14300b86331",
+      "uri": "spotify:album:7In5ckHnPuGmq6m9Vo5Qxu",
+      "name": "shatter",
+      "album_type": "single",
+      "release_date": "2013-02-11",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "7s8qj3Bzbzoyw1t1y88GuX",
+          "name": "d-wayne"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f8799f1112d993edde38b3c",
+      "uri": "spotify:album:2ASBHzAEwKnII7MAEu6asJ",
+      "name": "play it back (remixed)",
+      "album_type": "single",
+      "release_date": "2013-01-07",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273398af568c9891e5b906fb0d4",
+      "uri": "spotify:album:1eMEkwSxcFYJk4g9yySJhI",
+      "name": "play it back",
+      "album_type": "single",
+      "release_date": "2012-11-19",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273444b6bdcd0806d3521097f4e",
+      "uri": "spotify:album:3NHjd8jEpYG0RHknVkJZvC",
+      "name": "play it back (extended mixes)",
+      "album_type": "single",
+      "release_date": "2012-11-19",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d746578cda30a9b2102f2b6",
+      "uri": "spotify:album:4pIEc2MEzzX3LXWH2jbi2Q",
+      "name": "portobello / serendipity",
+      "album_type": "single",
+      "release_date": "2012-05-07",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736db9c390631b74e05f698205",
+      "uri": "spotify:album:31EpsZaTx0dsbsbricxunu",
+      "name": "no reservations (the remixes)",
+      "album_type": "single",
+      "release_date": "2012-03-26",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "0BNFQdVhqHh3QDOX57H3tr",
+          "name": "secret panda society"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335703b8aa4eb226c29948ee5",
+      "uri": "spotify:album:4lunDnktFa6pwN4OJykX3x",
+      "name": "no reservations",
+      "album_type": "single",
+      "release_date": "2012-03-05",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "0BNFQdVhqHh3QDOX57H3tr",
+          "name": "secret panda society"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731543bc9afa8c136c971d818d",
+      "uri": "spotify:album:5Z47ap0p2B50evN08ZBDJ9",
+      "name": "tracking treasure down",
+      "album_type": "single",
+      "release_date": "2012-01-02",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306ff8b2ad16314c31ac66e36",
+      "uri": "spotify:album:4dy2LlXd4VNXSLoRM7OfVu",
+      "name": "dangerous power",
+      "album_type": "single",
+      "release_date": "2006-11-08",
+      "release_year": "2006",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317180e144003b16f115c6b04",
+      "uri": "spotify:album:0PKcDpWtXQWFhhs06NYQbN",
+      "name": "without you near (morgan page remix)",
+      "album_type": "single",
+      "release_date": "2006-09-22",
+      "release_year": "2006",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "5dB1uaPAsPV8ldSuBtRDZv",
+          "name": "departure"
+        },
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273992fa0082ecedcd530106313",
+      "uri": "spotify:album:0XwgvV42YRwYkDzO9QUvM5",
+      "name": "mass repeat / eleven",
+      "album_type": "single",
+      "release_date": "2006-06-26",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273883821374439105bcaf157ad",
+      "uri": "spotify:album:1MGY0LO5ZagFF3OEQf71Fb",
+      "name": "gabriel & dresden",
+      "album_type": "album",
+      "release_date": "2006-02-17",
+      "release_year": "2006",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5c4173ed7745d83b6648e2c",
+      "uri": "spotify:album:7JaNBafZcGKbJ4FizZN5pv",
+      "name": "sub",
+      "album_type": "single",
+      "release_date": "2005-12-04",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        },
+        {
+          "spotify_id": "2MXpehjTt01tarmYAwi42L",
+          "name": "bassbin twins"
+        },
+        {
+          "spotify_id": "3mLQ0P2TyAntEEKAyfcGGQ",
+          "name": "big top"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317a1b05f7e48752ec8444563",
+      "uri": "spotify:album:7vY8nSkC9ZuXfflibhrAzw",
+      "name": "without you near",
+      "album_type": "single",
+      "release_date": "2005-09-26",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6OO0PboZcIWUWL7j2IyeoL",
+          "name": "markus schulz"
+        },
+        {
+          "spotify_id": "5dB1uaPAsPV8ldSuBtRDZv",
+          "name": "departure"
+        },
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387b3255da7daf6c207c7dab1",
+      "uri": "spotify:album:2VmVczBUpswrKIQTLjtx0g",
+      "name": "arcadia",
+      "album_type": "single",
+      "release_date": "2005-04-06",
+      "release_year": "2005",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273039a8fad3bf108c2091dc64c",
+      "uri": "spotify:album:0TRdvzapFgkzgukU9oc4p0",
+      "name": "lament",
+      "album_type": "single",
+      "release_date": "2002-12-03",
+      "release_year": "2002",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "64KfnYe81Wld2AkG4bkGIV",
+          "name": "gabriel & dresden"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:36.000Z"
+}

@@ -1,0 +1,759 @@
+{
+  "name": "hoang",
+  "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+  "uri": "spotify:artist:2KjxvxgJvbwweNVRMSuIRG",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb44c1e1613516d7cf8226375f",
+  "genres": [
+    "melodic bass",
+    "future bass",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394bbefb8046b3eb4d082a759",
+      "uri": "spotify:album:0sElqM1Zj7aQ2nvhI5MkVF",
+      "name": "bad for me",
+      "album_type": "single",
+      "release_date": "2026-08-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "1HQGhla3VNj1dBmKTtVT2t",
+          "name": "ookay"
+        },
+        {
+          "spotify_id": "3fuxStOqQv8TiytHeuGiE8",
+          "name": "delaney jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273421a0ab8ed94b80f1531edd9",
+      "uri": "spotify:album:3wT6Wy0Qvw2WcbTNdEzkYQ",
+      "name": "distance",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "3E2x6EOf4JvJp2gnxjYO6j",
+          "name": "stefan pvds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394d47090dadbeff964982651",
+      "uri": "spotify:album:2YciVW74MKqzqWnv8H1wO3",
+      "name": "are you still there (remixes)",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fac3ff7b377c97ab8ecc0d36",
+      "uri": "spotify:album:4WAEky328eVMWxE0fFxpsd",
+      "name": "leaving",
+      "album_type": "single",
+      "release_date": "2026-03-12",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "2DPd9FRFSPPDdESOqZvWoC",
+          "name": "adalaide adams"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df39c1829ab32d3474799987",
+      "uri": "spotify:album:2qTiOMoNpZMSA7tCCwUg30",
+      "name": "are you still there",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273916b50c410f5d438896c9543",
+      "uri": "spotify:album:6XPGIG3YuiE28ZdR3dz7qi",
+      "name": "in the end (hoang remix)",
+      "album_type": "single",
+      "release_date": "2025-09-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        },
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d632be7b433bd77847d4ebc",
+      "uri": "spotify:album:3ydourilTZTKOWQUaDso0y",
+      "name": "hard part's over (chilled)",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "5Fzm75kD7tt6ldqv3TInbG",
+          "name": "page"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a403ac95a0f7891a2a33b864",
+      "uri": "spotify:album:43mjmOoq791fU75qQOjQBL",
+      "name": "heartstrings",
+      "album_type": "album",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355c1d5929bf97d39676287a9",
+      "uri": "spotify:album:5ylFZ6vGMtF18VfAyiqeGO",
+      "name": "better now",
+      "album_type": "single",
+      "release_date": "2025-01-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "4jTgru4XsqeKA1L9xB9AzW",
+          "name": "vlcn"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f630c82a229dfa8135318171",
+      "uri": "spotify:album:7ByS1D9JF1dOHKszyveg89",
+      "name": "heartstrings",
+      "album_type": "single",
+      "release_date": "2025-01-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "7ErksWhMMsmGtgT1l1e159",
+          "name": "britt lari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caadecd057a76857e73cd5b9",
+      "uri": "spotify:album:7MvqsEKQoANMJnxrRVM4m1",
+      "name": "kids again",
+      "album_type": "single",
+      "release_date": "2025-01-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "0x0UI85q7lIdGMEZsNH5fm",
+          "name": "with løve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d87b2b7a789f01ca5bc5b8d1",
+      "uri": "spotify:album:7gMyXQje4RVOt8L6Hf2l9F",
+      "name": "no parachute",
+      "album_type": "single",
+      "release_date": "2025-01-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "60osBGZW2H9FtEecIfybMt",
+          "name": "daye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273925e3b3878292dd11d6348b5",
+      "uri": "spotify:album:3p1yNakKEt3OHZMfrPn716",
+      "name": "already gone",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "06MSAITCPRhtuJMD4UL96s",
+          "name": "danny olson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdc72a0cad10bfa1ede9571d",
+      "uri": "spotify:album:4tMipM9YWvbSOp4T52sWpX",
+      "name": "keep me waiting",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "38HqxBtUpMunEP3kKLjEby",
+          "name": "chenda"
+        },
+        {
+          "spotify_id": "3SoOohS0zlj8nLdGmhrKA7",
+          "name": "olivver the kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368d6c09625a0718ccaf98044",
+      "uri": "spotify:album:4YKyYQXQ47komm0zyrGzT3",
+      "name": "crashing down",
+      "album_type": "single",
+      "release_date": "2024-10-11",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "4dnl0VOP7cS57VQOWxr3ND",
+          "name": "raph"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f1178b0e388bd3832a7d551",
+      "uri": "spotify:album:0X9Ayy0fqqj8ZAoCgID8kq",
+      "name": "5 years",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273458568cc004ac34717854858",
+      "uri": "spotify:album:2JaVSpjFX5zcQ3ZXAS1XE7",
+      "name": "know your name",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fjs4zbBFxEFFe8Wyojo0G",
+          "name": "elephante"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336ddcf795690c034a31239d7",
+      "uri": "spotify:album:5tOZ5X8lrtIRmJt4Ur4g9T",
+      "name": "hurts me too",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "3bIDVpODlxr80Gj7EAEXkV",
+          "name": "niko rain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351f2f98892025bee89804301",
+      "uri": "spotify:album:7uTABom65EQwpKCDW1lwbJ",
+      "name": "daydream (feat. claire ridgely)",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8036a5a02fbed33d8490591",
+      "uri": "spotify:album:4wUoZ7Dy8W1P1K7S31ZkpZ",
+      "name": "north star (remixes)",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f2f3b1fdfc93b71f54163c0",
+      "uri": "spotify:album:6TDamqO64ZPOgTZU8wZ6Eh",
+      "name": "losing you",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20lmiQy576CSBPz0VJHmnC",
+          "name": "yetep"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "0vomb9Zaob10lPzxBcIiNb",
+          "name": "linney"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273267328ff5b5b17c80ed472c1",
+      "uri": "spotify:album:6YEB4gTyYiACoJsBkYCRiS",
+      "name": "made for",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "5wtzhSRB6edfUruFWvLxpL",
+          "name": "nøll"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fee474080c5c0cafda450d89",
+      "uri": "spotify:album:5NBxUTl2PHpOjpyfRljKq5",
+      "name": "north star",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "3tG47C60La9mzGXfsIHTBl",
+          "name": "casey cook"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9921faece41480a4704b086",
+      "uri": "spotify:album:23Dqj5u6WA4HQMqvuUSYDX",
+      "name": "hard part's over stripped",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "5Fzm75kD7tt6ldqv3TInbG",
+          "name": "page"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273982942a5af827bb74b4dd966",
+      "uri": "spotify:album:35vCTBiGCxmTih3qQCwoQ8",
+      "name": "moments (feat. rynn)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "1vaJtw85EDccyv1uf5OoIb",
+          "name": "mvse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e2cdd2fb734602f25c776e9",
+      "uri": "spotify:album:5b4J73fJPxThdgAlMnrV4e",
+      "name": "don't want to be lonely (vlcn re-imagined)",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "4jTgru4XsqeKA1L9xB9AzW",
+          "name": "vlcn"
+        },
+        {
+          "spotify_id": "0S3LxjopMZF875k3QbpzFt",
+          "name": "skye silansky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739036deeb9ebf4fac60f25632",
+      "uri": "spotify:album:2VCtXsszH8Ky5MXoYrCgP7",
+      "name": "hard part's over",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "5Fzm75kD7tt6ldqv3TInbG",
+          "name": "page"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ccacc19fb4e313796402ef89",
+      "uri": "spotify:album:3FUOHapoEB5cnzDiUC03uL",
+      "name": "hold on tight",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "39czNpwEAe5tGKIE53XDmm",
+          "name": "donna tella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ededcd4976d9acbc50ea27b",
+      "uri": "spotify:album:3GWksK86IhFECt0Cqeh5UO",
+      "name": "don't want to be lonely",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "4jTgru4XsqeKA1L9xB9AzW",
+          "name": "vlcn"
+        },
+        {
+          "spotify_id": "0S3LxjopMZF875k3QbpzFt",
+          "name": "skye silansky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273512543085187282fed89e037",
+      "uri": "spotify:album:0k4TFyay7PQPplNbABgxLX",
+      "name": "hold on tight",
+      "album_type": "single",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "39czNpwEAe5tGKIE53XDmm",
+          "name": "donna tella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cab4454080893e5cba49d552",
+      "uri": "spotify:album:63u2OVL3de5BHi7ySDY9oU",
+      "name": "not over you",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "60osBGZW2H9FtEecIfybMt",
+          "name": "daye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7c809f5fe964c691e8da31f",
+      "uri": "spotify:album:7GNLoPVYrbprOfyCFk6qiT",
+      "name": "million days (acoustic)",
+      "album_type": "single",
+      "release_date": "2021-03-30",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738038dd7db53536a9bb41cd45",
+      "uri": "spotify:album:5DTU7GN5EDMjNvgNAcJvFz",
+      "name": "thinking about you",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        },
+        {
+          "spotify_id": "2vtKZp9zZC9YenxW1szzco",
+          "name": "exede"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731290097bc854606c49f5a03a",
+      "uri": "spotify:album:6DvnbH1v3Zhy1jBrR8y3je",
+      "name": "run back to you",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273519839ca24ebd7d6f901858e",
+      "uri": "spotify:album:3U7VyDFPH3h4v6kzQLx3ui",
+      "name": "million days",
+      "album_type": "single",
+      "release_date": "2020-02-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4OaSyxqlkp7aVpAZwF02QZ",
+          "name": "sabai"
+        },
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735915ddde841ef31fc238e1aa",
+      "uri": "spotify:album:3TJssQrroqAAtcp1oerD33",
+      "name": "when you're lonely",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f84ebf13e92a42d03d04b453",
+      "uri": "spotify:album:49Xgp8gw7XdJMcyjbZ96H6",
+      "name": "gone",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8e350ef77de4b00a9b63d6c",
+      "uri": "spotify:album:0hUn3Yf9YNAoOfc7VMZrjJ",
+      "name": "don't say (the remixes)",
+      "album_type": "single",
+      "release_date": "2018-08-23",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b0ba7bc3ee8ffe4396c4523",
+      "uri": "spotify:album:25dVnKvRw7pCYJ6xinSQjj",
+      "name": "don't say",
+      "album_type": "single",
+      "release_date": "2018-05-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KjxvxgJvbwweNVRMSuIRG",
+          "name": "hoang"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:27.000Z"
+}

@@ -1,0 +1,2697 @@
+{
+  "name": "flux pavilion",
+  "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+  "uri": "spotify:artist:7muzHifhMdnfN1xncRLOqk",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe8f680e2f2e144f667b5fbda",
+  "genres": [
+    "dubstep",
+    "edm",
+    "dub",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4594080c2817500565b2814",
+      "uri": "spotify:album:30IYhpkfsp1cIHyRJPabpI",
+      "name": "cracks begin to show",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0zg9mF9dX2knvdTKnL22T1",
+          "name": "freestylers"
+        },
+        {
+          "spotify_id": "5Uh9Oco0Khv18UvTo2PucM",
+          "name": "belle humble"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ba8dba0300b4dba20c8e43d",
+      "uri": "spotify:album:6MpbMcLE8HkQ9FqHb4ZS9m",
+      "name": "all cried out (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rcE30MaP92XafelMNZ2Sq",
+          "name": "frank walker"
+        },
+        {
+          "spotify_id": "3QJUFtGBGL05vo0kCJZsmT",
+          "name": "salem ilese"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abf3f1c0cd2b50e11782ece0",
+      "uri": "spotify:album:2h4HitkMjJBl62Nq8dHcdY",
+      "name": "move your body",
+      "album_type": "single",
+      "release_date": "2026-07-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4YJsSCuag8W1TFTgSeEc2k",
+          "name": "liquid stranger"
+        },
+        {
+          "spotify_id": "1gbDc1TANALgP8lLvO5UEf",
+          "name": "ahee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d41f016e16ab80d5acd37ac",
+      "uri": "spotify:album:5ftcfTOC3YH5HPIbkfQngX",
+      "name": "bass cannon (flux's version - crankdat remix)",
+      "album_type": "single",
+      "release_date": "2026-06-18",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d862c964fc91510ed63fff5f",
+      "uri": "spotify:album:5yKgYA2Xzw3Au1GWbmnIce",
+      "name": "u want me",
+      "album_type": "single",
+      "release_date": "2026-06-04",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273487c9643298b7fb9f9721b1c",
+      "uri": "spotify:album:0DmEhEwE5BakNuxQplGC8u",
+      "name": "doctor p & flux pavilion (ultimate edition)",
+      "album_type": "album",
+      "release_date": "2026-04-02",
+      "release_year": "2026",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273708a1279e8b2da146d143017",
+      "uri": "spotify:album:6c7fPNzo89wfrZI78grft2",
+      "name": "the last breakfast",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1c8e5f906cab091fcdb68f0",
+      "uri": "spotify:album:26KY5Noaiuq6EZB5CTiEpC",
+      "name": "goddess",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tRFWXqKBBQcu5oFVOgVzX",
+          "name": "jaira burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e621665bed153bc4cb7debd",
+      "uri": "spotify:album:4luqHf5qHnCsWHtvTiUgv5",
+      "name": "another level",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736957d5dc23246d0b0acde4e0",
+      "uri": "spotify:album:2kP8DWOdMVmFondvMsp6yZ",
+      "name": "surrender (bebi remix)",
+      "album_type": "single",
+      "release_date": "2026-01-14",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0b4D8JhfYU970qE77UNKSg",
+          "name": "bebi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345bd8f452325e8ac6ce61515",
+      "uri": "spotify:album:5QaaEX4Uaiy6UE6cnp0Fth",
+      "name": "2fast2stop",
+      "album_type": "single",
+      "release_date": "2025-11-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356c2d9e5ebdd346bc6a27ffc",
+      "uri": "spotify:album:3cQaQoclIPu2Z8LCP9lSNh",
+      "name": "i won't stop",
+      "album_type": "single",
+      "release_date": "2025-10-30",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb7c6df2f2d61f30f1d3d24a",
+      "uri": "spotify:album:2g8IefOnmCQvqNpGe4E2hA",
+      "name": "got 2 know (flux's version)",
+      "album_type": "single",
+      "release_date": "2025-10-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7801239e6c399c962bd46b5",
+      "uri": "spotify:album:3h2V33OeWN12w5qn0Lw2tU",
+      "name": "bass cannon (flux's version)",
+      "album_type": "single",
+      "release_date": "2025-10-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273258c99e8ca0f68fdc3b2a738",
+      "uri": "spotify:album:6ioWntlf8RGLq4lhALY9J8",
+      "name": "stay with the tempo",
+      "album_type": "single",
+      "release_date": "2025-09-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734978537c5c4d59ebff0f44a5",
+      "uri": "spotify:album:4hriKh0WnOPlChbBXt0Crm",
+      "name": "i can't stop (flux's version)",
+      "album_type": "single",
+      "release_date": "2025-09-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a363889c20eb1d8404bbf2f0",
+      "uri": "spotify:album:5AvYQ8dqOgkLcJ6ShFniBo",
+      "name": "chaos (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d962ad71139a736c9eef5e79",
+      "uri": "spotify:album:3EJlixmzm4hZd4OyUD5xm1",
+      "name": "doctor p & flux pavilion",
+      "album_type": "album",
+      "release_date": "2025-03-27",
+      "release_year": "2025",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbc89f7e3a1d7503e1732331",
+      "uri": "spotify:album:09hM11rRoz3bMwdcZUg0TE",
+      "name": "i love it",
+      "album_type": "single",
+      "release_date": "2025-03-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273816a627d4cd44974bb270800",
+      "uri": "spotify:album:2jk4LHprmTfFc6zb0fOqht",
+      "name": "rubber dub",
+      "album_type": "single",
+      "release_date": "2025-03-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcdbb490d0b17e32fd600771",
+      "uri": "spotify:album:7m9ybkhQoRbOcg1QRaytLo",
+      "name": "wasabi",
+      "album_type": "single",
+      "release_date": "2025-03-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d541774478124fe8a6217d86",
+      "uri": "spotify:album:2gMRqIDQdaGc81Wsp88BcU",
+      "name": "turbo time",
+      "album_type": "single",
+      "release_date": "2025-02-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8c23bfd43b0beab00d1487b",
+      "uri": "spotify:album:1wVcYxlXPTcKJ64D9DVKfZ",
+      "name": "feel good ltd",
+      "album_type": "single",
+      "release_date": "2025-02-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c77d19fbf73feab546e88910",
+      "uri": "spotify:album:7gThB7dIlVZJGxT4Nf4uLY",
+      "name": "fluffy cowboy",
+      "album_type": "single",
+      "release_date": "2025-02-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d25bb3cb55d030b924e1f8fc",
+      "uri": "spotify:album:2X8ltfBTaQ8HuxDT7kTSpg",
+      "name": "wdgaf",
+      "album_type": "single",
+      "release_date": "2025-02-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f67343dff2f778cd8c4367e3",
+      "uri": "spotify:album:5SGtwshMiamRGS0e76Y1jZ",
+      "name": "24/7 (remixes)",
+      "album_type": "single",
+      "release_date": "2024-12-12",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352bf6645e32aac72027d69af",
+      "uri": "spotify:album:389v3vG9Dwn7RFJwsRUUB7",
+      "name": "fluxiverse vol. 2",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1c5ecba5e9657c6a4a4aa9e",
+      "uri": "spotify:album:5Ak9k5tjtq6IANvIV7A4Cl",
+      "name": "tick tock",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1vOTVnnyLvVTeuwrZLghCN",
+          "name": "cyclops"
+        },
+        {
+          "spotify_id": "5Sbyn27Dwdsp9XtsFICpRu",
+          "name": "illaman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273247e251c536f9131765b4f12",
+      "uri": "spotify:album:3fKIRaXcvMBjalv1TD4Iav",
+      "name": "survive (bad computer remix)",
+      "album_type": "single",
+      "release_date": "2024-09-04",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7uGeDBa1LJ7T1X4fpl8mwk",
+          "name": "bad computer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f92d3173bd58bdf1ac3a16d",
+      "uri": "spotify:album:58nuChnDhij7QcWm2JO2lb",
+      "name": "where you at (remixes - part 3)",
+      "album_type": "single",
+      "release_date": "2024-08-15",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379234b8489e608b3dca17b17",
+      "uri": "spotify:album:5wfizVNnEYVXhbRxCPy7nW",
+      "name": "international anthem (level up remix)",
+      "album_type": "single",
+      "release_date": "2024-08-01",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1ZpDxqXS6HAvoZyCzQfKRb",
+          "name": "level up"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317847d097bcf4191004626c2",
+      "uri": "spotify:album:1epNWPZ1GzuuzqVUcPQtee",
+      "name": "where you at (remixes - pt 2)",
+      "album_type": "single",
+      "release_date": "2024-07-17",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f26e1d101a0878ee7db85fba",
+      "uri": "spotify:album:1XSATvZKbYH1nmxZP6nCVY",
+      "name": "better off",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737549189e558a479ed19fd8b8",
+      "uri": "spotify:album:31cKYiV9QcnHh7ciq0AQv4",
+      "name": "where you at (remixes - pt. 1)",
+      "album_type": "single",
+      "release_date": "2024-06-04",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8f89a8e0ac11dbca34d032d",
+      "uri": "spotify:album:1PsxHAPCvl032BnVcaxGQe",
+      "name": "on repeat",
+      "album_type": "single",
+      "release_date": "2024-05-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "4CzzY9kG8C2BLOuTuy3oLe",
+          "name": "cammie robinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273237a0e247615af2ab4390cc0",
+      "uri": "spotify:album:0ue1ED9OzMUvfZoxtC2Lhd",
+      "name": "waves",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "67qogtRNI0GjUr8PlaG6Zh",
+          "name": "zeds dead"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "7aWpPjjgItUnXljFxYYKZI",
+          "name": "deathbyromy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6924a5f249064364cccc15c",
+      "uri": "spotify:album:264ibSVsnTQyx6LZlVyX6I",
+      "name": "on forever feat. saint raymond",
+      "album_type": "single",
+      "release_date": "2024-02-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "1eIoJGCu3rShrRm2wfOhN8",
+          "name": "saint raymond"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320bc6039678da81ca5ca5b8b",
+      "uri": "spotify:album:50ZWfNWe6SRGeXWmIcY9Sv",
+      "name": "dawn",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6hBrJJrcYoNhvLC6KaFR4b",
+          "name": "eliminate"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6qEfyIMkz6rkRRhmuBTFWI",
+          "name": "meesh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ba320293e1c2ea131af3123",
+      "uri": "spotify:album:3Qi71tzx7zrOMtl8tRPhSI",
+      "name": "fluxiverse vol. 1",
+      "album_type": "single",
+      "release_date": "2023-11-16",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5199e4911d5bda92fc09090",
+      "uri": "spotify:album:33NqiM3GUuqmuNrD9rybBa",
+      "name": "heavy metal",
+      "album_type": "single",
+      "release_date": "2023-10-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1csMDtU42ZYNaqadbA4TAK",
+          "name": "pav4n"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b86487cb6a5b687292f3589",
+      "uri": "spotify:album:4Yv8WsI1fkAMYfLrCLugqA",
+      "name": "where you at",
+      "album_type": "single",
+      "release_date": "2023-08-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738252e79d960781e236feea58",
+      "uri": "spotify:album:59WYYNdEKZblqitYK0Nj5H",
+      "name": "fracture",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1q4618qKswelCGLoanFKQh",
+          "name": "joey valence & brae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737997d22abc1f5e8f403e2365",
+      "uri": "spotify:album:0YFfUh1p37Un6rMDgc4r3D",
+      "name": "international anthem feat. doktor (phocust remix)",
+      "album_type": "single",
+      "release_date": "2023-06-29",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3Aov39Y01vC3JXRQiw3Pd0",
+          "name": "phocust"
+        },
+        {
+          "spotify_id": "39Oq22GIYJKzgCbCDbOnRl",
+          "name": "doktor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eea36d053298aa610cb83bc",
+      "uri": "spotify:album:5HMKMxOndrNXC36yCYG9v7",
+      "name": "i believe (nemexi remix)",
+      "album_type": "single",
+      "release_date": "2023-05-31",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5wbwCmh4iskezsryLRGWEH",
+          "name": "nemexi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730916794786fc9bb79429e2f5",
+      "uri": "spotify:album:565fT4c8rYP0CdzvwMMrPL",
+      "name": "emotional (james hiraeth remix)",
+      "album_type": "single",
+      "release_date": "2023-04-27",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1mU61l2mcjEFraXZLpvVMo",
+          "name": "matthew koma"
+        },
+        {
+          "spotify_id": "13lPKi6IQrIyWyyovYUbtA",
+          "name": "james hiraeth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc94d3fb0b5800554b884518",
+      "uri": "spotify:album:6Ke0OzJE1lpGg3BJX5y4e3",
+      "name": "paradise",
+      "album_type": "single",
+      "release_date": "2023-03-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ecb8ad95c5f6419287bf36e",
+      "uri": "spotify:album:3BCp5uwUBj1sGER1QVNteb",
+      "name": "ironheart (polar youth remix)",
+      "album_type": "single",
+      "release_date": "2023-02-15",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273633726d38f8e705cc4eaba76",
+      "uri": "spotify:album:1cdAYXWOcObMCsf7EWZjUi",
+      "name": "surrender (youth in circles remix)",
+      "album_type": "single",
+      "release_date": "2023-01-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734dd4a4e4eb1f028a1ba721ab",
+      "uri": "spotify:album:6lM9vhwaWyWWOXJpwRoq9r",
+      "name": "technicolour psychic vision",
+      "album_type": "single",
+      "release_date": "2022-11-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd197e64a3a52c16dd14656b",
+      "uri": "spotify:album:7BgI9qnk9iECvqSGTZiSeS",
+      "name": "valley girl (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6ra4GIOgCZQZMOaUECftGN",
+          "name": "frank zappa"
+        },
+        {
+          "spotify_id": "5R17AqDSgs8KSIOhTvPWwu",
+          "name": "moon zappa"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273070763401bfa229ecdfd6338",
+      "uri": "spotify:album:25x7GhrCar9ECYgjUjiYcg",
+      "name": "i'm delighted",
+      "album_type": "single",
+      "release_date": "2022-09-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3UCbp6D1lvILlxRJT9LnFa",
+          "name": "koven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c8de3620a6fb0db8185df90",
+      "uri": "spotify:album:5eqdioNnh2rdrGIZypTmmc",
+      "name": "electric one",
+      "album_type": "album",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e556cdfd39f26f5d43aac1e3",
+      "uri": "spotify:album:3a3Gn4VN39woleohKmGCtv",
+      "name": "cannot hold you",
+      "album_type": "single",
+      "release_date": "2022-08-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6ASGmWCYupa0CXGtsDdYSI",
+          "name": "jamie lidell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734482895cd6e7ee3f26736027",
+      "uri": "spotify:album:5ArT4cCpCWP4pZXZE7MMeY",
+      "name": "(never gonna) be alone",
+      "album_type": "single",
+      "release_date": "2022-06-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe811d9af79cf11ff515b8df",
+      "uri": "spotify:album:5Fde9XudjY0Tl8uLsv2hdr",
+      "name": "i will stay feat. turin brakes (draeden remix)",
+      "album_type": "single",
+      "release_date": "2022-05-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "7tZV4FXJNO8FzjgrAToCln",
+          "name": "draeden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8d69d5f350459a676883650",
+      "uri": "spotify:album:4An7ScQAcPAb167YIz62Pr",
+      "name": "lore",
+      "album_type": "single",
+      "release_date": "2022-04-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733969ffe02e330a0d77010c0e",
+      "uri": "spotify:album:2P5V7zfXFlTyRHkXPpkTnV",
+      "name": "you & i feat. kata kozma (mashbit remix)",
+      "album_type": "single",
+      "release_date": "2022-03-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2ZUktxXMg0flZ5HGHSd5HZ",
+          "name": "mashbit"
+        },
+        {
+          "spotify_id": "6MJdhT8qnifYV3otbl6365",
+          "name": "kata kozma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddd88b32b49ea2d78ddadadc",
+      "uri": "spotify:album:7wPyRFOAEYYHJ3vJDg0dO4",
+      "name": "fall to me feat. spacekdet (helloworld remix)",
+      "album_type": "single",
+      "release_date": "2022-03-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        },
+        {
+          "spotify_id": "01qG5pbsKe96w87ZMjphP4",
+          "name": "helloworld"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1fec578887ca3dedc360367",
+      "uri": "spotify:album:6Bcd6ovOxSx6VPDzUBdIzg",
+      "name": "sink your teeth in feat. drowsy (skyler remix)",
+      "album_type": "single",
+      "release_date": "2022-02-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6niUPn9Tqcb6KdXkGvbMR9",
+          "name": "skyler"
+        },
+        {
+          "spotify_id": "2Sqm6MFN5019innB8vdSr9",
+          "name": "drowsy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9a988b0768caa2773fe4115",
+      "uri": "spotify:album:5hsfK499WYvbkgkf7Yr4Ih",
+      "name": "endless fantasy (winwel remix)",
+      "album_type": "single",
+      "release_date": "2022-01-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6CbRlRjHH42aw6V6zbCAxb",
+          "name": "winwel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b63f523f168903b439abbafb",
+      "uri": "spotify:album:7GjYifnl3KC5knyhP2kjIl",
+      "name": "20:25 feat. the chain gang of 1974 (phonon remix)",
+      "album_type": "single",
+      "release_date": "2021-12-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4AA8eXtzqh5ykxtafLaPOi",
+          "name": "what so not"
+        },
+        {
+          "spotify_id": "4CySw3P8BeBPMBr9Rymc8Y",
+          "name": "phonon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2caaf0253bb8b9cafd63c0c",
+      "uri": "spotify:album:2mZfEjrVc81R1v7z6NPFAC",
+      "name": "dreams",
+      "album_type": "single",
+      "release_date": "2021-11-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2UwJRAgSOi1zcLkvUNc8XL",
+          "name": "anamanaguchi"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac4fd4947178950edcc8dd88",
+      "uri": "spotify:album:0XULNmYL3c6Pk0mu1bHuLy",
+      "name": "fall to me feat. spacekdet (arcando remix)",
+      "album_type": "single",
+      "release_date": "2021-10-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        },
+        {
+          "spotify_id": "0ycvq8upLhNmddPdQXhLOy",
+          "name": "arcando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b35904702ffefd0a7b105c6a",
+      "uri": "spotify:album:60I0Wh7UrK9liytWMe4uvJ",
+      "name": "sink your teeth in feat. drowsy (axen remix)",
+      "album_type": "single",
+      "release_date": "2021-10-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6JHNAPuxS36GObqF84lsX0",
+          "name": "axen"
+        },
+        {
+          "spotify_id": "2Sqm6MFN5019innB8vdSr9",
+          "name": "drowsy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273609361599ebc79124a38aced",
+      "uri": "spotify:album:2cya6eUMVqFATBKLMbeaBW",
+      "name": "symphony feat. layna (helsloot remix)",
+      "album_type": "single",
+      "release_date": "2021-09-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6dC41opH96WjFwWhhAxBsS",
+          "name": "helsloot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733348931388b9bd9167e481e9",
+      "uri": "spotify:album:4npCINDDkJwMTPz7uaBKEI",
+      "name": "i will stay (remix)",
+      "album_type": "single",
+      "release_date": "2021-08-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4YJsSCuag8W1TFTgSeEc2k",
+          "name": "liquid stranger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355d97da418e36695bddea523",
+      "uri": "spotify:album:1EAYRPaU27CAiKlqf1tSRt",
+      "name": "be ok",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1HQGhla3VNj1dBmKTtVT2t",
+          "name": "ookay"
+        },
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b19d193b152348dba2328a4f",
+      "uri": "spotify:album:5n18Zw5nbdoEYquh7IIkj8",
+      "name": "upside down (feat. grouplove) [flux pavilion remix]",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vqJkZ0RpLZixt3lTmD8vP",
+          "name": "whethan"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273878baeec5d0d0c2d49309fdb",
+      "uri": "spotify:album:1lDqP1YL2R5ABvm1jnNeXh",
+      "name": ".wav",
+      "album_type": "album",
+      "release_date": "2021-01-21",
+      "release_year": "2021",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0f92b53ec4f4674d41a5037",
+      "uri": "spotify:album:78QT0GRwbqRTD1LlXehMOd",
+      "name": "fall to me",
+      "album_type": "single",
+      "release_date": "2021-01-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        },
+        {
+          "spotify_id": "1xBuZxBaWWHwYaoq7HUi7v",
+          "name": "spacekdet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730964895279b473f90be06126",
+      "uri": "spotify:album:2CCxl9bgswTQuwiKma95uD",
+      "name": "i believe",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2EHKTScPT87Z0dHvTevc8D",
+          "name": "asha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ed71b60df7be9d80db7b1cb",
+      "uri": "spotify:album:1u8vZ8VYy4zCcSB18FD8lu",
+      "name": "you & i",
+      "album_type": "single",
+      "release_date": "2020-09-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6MJdhT8qnifYV3otbl6365",
+          "name": "kata kozma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736da21398b49b0ca568eb3fed",
+      "uri": "spotify:album:4SMWzWgfiBoBIHRcmxvqjJ",
+      "name": "kangaroo (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2020-09-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4ug3P1K8BaCdJXROrqHqhu",
+          "name": "winnetka bowling league"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273782e49e21dc84c76ae458188",
+      "uri": "spotify:album:1uRqEMv1WIDWG7FqlrdRx4",
+      "name": "sink your teeth in",
+      "album_type": "single",
+      "release_date": "2020-08-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2Sqm6MFN5019innB8vdSr9",
+          "name": "drowsy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e8eb6b655e221b7704689dd",
+      "uri": "spotify:album:08zjtHsUwUHV6TIA9fJsAx",
+      "name": "survive",
+      "album_type": "single",
+      "release_date": "2020-06-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "6qEfyIMkz6rkRRhmuBTFWI",
+          "name": "meesh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273985139a390a4cf9e23d5415e",
+      "uri": "spotify:album:1iPVQ0O2YJKYxOknsNKRmR",
+      "name": "20:25 (reaubeau remix)",
+      "album_type": "single",
+      "release_date": "2020-05-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4AA8eXtzqh5ykxtafLaPOi",
+          "name": "what so not"
+        },
+        {
+          "spotify_id": "5fKpGPlcEvjFMDDWDKniND",
+          "name": "reaubeau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4a488e55590f3963efab052",
+      "uri": "spotify:album:2yelDOzbzo9fqx6kzdcsA4",
+      "name": "somebody else (remixes)",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f64b7048b4beb460e65bb695",
+      "uri": "spotify:album:2OdSrxttOeAcF7MOW7NqDU",
+      "name": "lion's cage (remixes)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "5X1EM1jg35YB5jmw7qVIlh",
+          "name": "heyz"
+        },
+        {
+          "spotify_id": "1pIDhGVK4FmhaEZc3anyHC",
+          "name": "mom n dad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b5c9896aae03a0e36ca7462",
+      "uri": "spotify:album:7bIhtvH00Ru93dTtxs3Xuk",
+      "name": "somebody else (franky nuts remix)",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3X4wc5UBBeJBehpL1E8hQG",
+          "name": "glnna"
+        },
+        {
+          "spotify_id": "3YZPramylP3cGeVkbykhVZ",
+          "name": "franky nuts"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d5e39b3e0b5a4d9a5fd0a6f",
+      "uri": "spotify:album:2wTHdyYnnHIJq6HHlEayYh",
+      "name": "endless fantasy",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbaf40daec9330b15d371200",
+      "uri": "spotify:album:1LRSsMTaVS24oEHF10XzrN",
+      "name": "i will stay",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1zrBQvkTNhFFby4V5UiK2L",
+          "name": "turin brakes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edb27568ccd4445236359fc2",
+      "uri": "spotify:album:67ojpldumuZdkVafMq2fv2",
+      "name": "20:25",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4AA8eXtzqh5ykxtafLaPOi",
+          "name": "what so not"
+        },
+        {
+          "spotify_id": "3Qy1IxDSU8SLpUUOfbOpxM",
+          "name": "the chain gang of 1974"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273269b2f99eff3dcc57282f664",
+      "uri": "spotify:album:0bk8qDj1rxIeceG794XHmX",
+      "name": "surrender",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399ceded830955f7ac8232239",
+      "uri": "spotify:album:3j9v90Ispbhe9XxlyAUBtx",
+      "name": "symphony (taim remix)",
+      "album_type": "single",
+      "release_date": "2019-07-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "007rtpm59gnMeRW0zmkJ30",
+          "name": "taim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa7ffa94483c041c46153a4f",
+      "uri": "spotify:album:04EltrYVktmn5BOe3d4P6D",
+      "name": "somebody else",
+      "album_type": "single",
+      "release_date": "2019-07-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b128edcd9e2423036289a2",
+      "uri": "spotify:album:0ZymytJYPrKLkIL0a8BPuS",
+      "name": "room to fall",
+      "album_type": "single",
+      "release_date": "2019-06-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "marshmello"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adca08255bcdb54e2c106e92",
+      "uri": "spotify:album:41ikRZVbLnwUzSsf8InhE9",
+      "name": "room to fall",
+      "album_type": "single",
+      "release_date": "2019-06-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "marshmello"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
+          "name": "elohim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d689358ee22514f9510519e8",
+      "uri": "spotify:album:5N4fBomBap25aNau9BZZMn",
+      "name": "lion's cage",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f99f99bba6fb6a776e2530c1",
+      "uri": "spotify:album:3QfQF8yo5z5HSee7KY7BGu",
+      "name": "symphony (gld remix)",
+      "album_type": "single",
+      "release_date": "2019-05-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3GKA5lU2ENKafTV9t3NH1p",
+          "name": "gld"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351a0d1348cc5a4462e70c42d",
+      "uri": "spotify:album:1FXCsSBeyfPgvNcFOvfgrI",
+      "name": "saviour",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dae930e1e5e8aa19a6adb10b",
+      "uri": "spotify:album:32dVJRgIxoWlmVJAFNusDw",
+      "name": "party starter",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6hBrJJrcYoNhvLC6KaFR4b",
+          "name": "eliminate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d52a3d1adada982f091db05",
+      "uri": "spotify:album:21KLMg4Ezk8kenPuk9cxbM",
+      "name": "earwax",
+      "album_type": "album",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b8ffa235cead656156e05c5",
+      "uri": "spotify:album:21qfWZuv6bDZlLSRNql7JQ",
+      "name": "symphony",
+      "album_type": "single",
+      "release_date": "2018-07-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1YXZEt2UeP9s5fVciblARQ",
+          "name": "layna"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e93d27c670be42332509db0c",
+      "uri": "spotify:album:70uZll1w7Ob1dCmaYm5Q6h",
+      "name": "rampage sampler 02",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6B9SjvZNSQZkeJDH17oBSO",
+          "name": "current value"
+        },
+        {
+          "spotify_id": "5KkCbjxUEFQgTJyslyu7TZ",
+          "name": "upgrade"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396be54e2b02c2576b674bc87",
+      "uri": "spotify:album:6biBIrKzRWVwzshAtSbLMp",
+      "name": "waved",
+      "album_type": "single",
+      "release_date": "2018-01-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0sQ1wgSdRpoysgsa1VnI4G",
+          "name": "foreign beggars"
+        },
+        {
+          "spotify_id": "0nvvVQhPQGkYTJlThLbJeu",
+          "name": "og maco"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733caf05172eff67ea9d4abae9",
+      "uri": "spotify:album:2EFWt2txm8zswKfPveQodd",
+      "name": "stain / saxophone doom",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdc70e9e0205ade1121ad77c",
+      "uri": "spotify:album:4KCT6yAdrpIWaeJrpowOET",
+      "name": "thief (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2017-09-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1HQGhla3VNj1dBmKTtVT2t",
+          "name": "ookay"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347c0cd12f4ca44c5aeed3e22",
+      "uri": "spotify:album:33evbxhVT4dxOEnVrJyctI",
+      "name": "dynamite",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1LjkuZDQnh9R7rQAoVWDxp",
+          "name": "outrun"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f5fd50622d9306f61a9eb07",
+      "uri": "spotify:album:25yO3gJdnPTNjReSwGzC5q",
+      "name": "pull the trigger (remixes)",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4CzzY9kG8C2BLOuTuy3oLe",
+          "name": "cammie robinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326444633caa6725a0aa0cd9c",
+      "uri": "spotify:album:5sIL3xxzcs1jTSz3gl9g0U",
+      "name": "cut me out (remixes)",
+      "album_type": "single",
+      "release_date": "2017-06-09",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273730f07ba74f8226adf059591",
+      "uri": "spotify:album:0xXO8VelAqVUtn8HafkZdm",
+      "name": "fly away",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7C2zlBAZdvmkeb1fuqB37i",
+          "name": "engine-earz experiment"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a6ee00d73e318a627df048e",
+      "uri": "spotify:album:4QXbSK9yDa77dqpSTr9Uwv",
+      "name": "pull the trigger / cut me out",
+      "album_type": "single",
+      "release_date": "2017-02-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "4CzzY9kG8C2BLOuTuy3oLe",
+          "name": "cammie robinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5334078c59fbb74dc7aa475",
+      "uri": "spotify:album:0G9AcZSiTYSc9f8LZDsKbU",
+      "name": "feel your love (remixes)",
+      "album_type": "single",
+      "release_date": "2017-02-01",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b1e185ca7427082c5504f53",
+      "uri": "spotify:album:4a709rwlkB9lmesNn0JaQP",
+      "name": "party drink smoke (remixes)",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cd0a4328101c8a169b661f5",
+      "uri": "spotify:album:1MWHKCowe1fS0A3LfRpEdK",
+      "name": "savage (feat. flux pavilion & max)",
+      "album_type": "single",
+      "release_date": "2016-12-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0vqJkZ0RpLZixt3lTmD8vP",
+          "name": "whethan"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "max"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1b1e5538487f7c801558b68",
+      "uri": "spotify:album:5bc0rch4HGloJO79qXEZWV",
+      "name": "emotional (virtual riot remix)",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1mU61l2mcjEFraXZLpvVMo",
+          "name": "matthew koma"
+        },
+        {
+          "spotify_id": "4FXGRMSHh2JjHxVwS8dhH1",
+          "name": "virtual riot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f31855ae9a1732e6f128d04",
+      "uri": "spotify:album:128nP2fERZGBQ4Pnf7ZF63",
+      "name": "let's get it",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328beddbd16ef5589fc6121af",
+      "uri": "spotify:album:4fxi8nhAZMm0scchvX59He",
+      "name": "locked in",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3o8BMojuQONFOJ0cJ0qOEc",
+          "name": "diskord"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391f02e08626ab35ef1a194b0",
+      "uri": "spotify:album:5HgeblCaz0zfVyVMYqW7Cc",
+      "name": "cannonball",
+      "album_type": "single",
+      "release_date": "2016-10-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732822720878e92aaa8532857d",
+      "uri": "spotify:album:13KdrR4zpIgoxAycPeHmcL",
+      "name": "feel your love",
+      "album_type": "single",
+      "release_date": "2016-08-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273500f0ed85c1305be5655c61a",
+      "uri": "spotify:album:0gFc1tcvEFVoOKc4hqAIvm",
+      "name": "i can't stop (ekali tribute)",
+      "album_type": "single",
+      "release_date": "2016-05-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328fdacf2601081154d8254d1",
+      "uri": "spotify:album:4MyROQVFmyYf3iARDknDLq",
+      "name": "party drink smoke",
+      "album_type": "single",
+      "release_date": "2016-04-22",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca7c73f1db9de3d22751d3e2",
+      "uri": "spotify:album:3DMzyv6WQWzEmuBGOQQ9OZ",
+      "name": "emotional (remixes, vol. 1)",
+      "album_type": "single",
+      "release_date": "2016-01-22",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1mU61l2mcjEFraXZLpvVMo",
+          "name": "matthew koma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730361f05d5e2f520787534b90",
+      "uri": "spotify:album:1YRSdhBrsfgfvcMB8N655u",
+      "name": "emotional (remixes, vol. 2)",
+      "album_type": "single",
+      "release_date": "2016-01-22",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1mU61l2mcjEFraXZLpvVMo",
+          "name": "matthew koma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4f91d142e118a5c8963614b",
+      "uri": "spotify:album:6X1UlIiwUWjd4WmZ38IcHQ",
+      "name": "catch me (2025 remaster)",
+      "album_type": "single",
+      "release_date": "2015-11-20",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "yellow claw"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "736HGQRGr9rjG4VmmSpkz8",
+          "name": "naaz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e876fba204c3e54c555e9fb",
+      "uri": "spotify:album:1lTGZZR5EWzsBu3oEWwSh5",
+      "name": "feels good (remixes)",
+      "album_type": "single",
+      "release_date": "2015-10-02",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273383bf0ca08d6fdb26b0fd6bd",
+      "uri": "spotify:album:0XGbKH713ktQPNnMm1ts9P",
+      "name": "tesla",
+      "album_type": "album",
+      "release_date": "2015-09-18",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f70430d07fcb7284baa8dd90",
+      "uri": "spotify:album:5iR59CXQAdJBr4j4saBflE",
+      "name": "what you gonna do about it",
+      "album_type": "single",
+      "release_date": "2015-09-14",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273529f1a40246ce063180751fb",
+      "uri": "spotify:album:6KR02Fhn5vjkwprRm1S2rH",
+      "name": "feels good feat. tom cane",
+      "album_type": "single",
+      "release_date": "2015-09-07",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380672a8fcdad76e1b88fa808",
+      "uri": "spotify:album:4lYAAukiku8sUCo7hmGLjJ",
+      "name": "who wants to rock",
+      "album_type": "single",
+      "release_date": "2015-07-31",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fe741f42db1e8051297074c",
+      "uri": "spotify:album:6M9RFEUdCswWr2zhB190kH",
+      "name": "international anthem",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbc98bbdafabdaa98313a837",
+      "uri": "spotify:album:647mSuBocOGHZG1BMf063j",
+      "name": "exostomp (jump up high)",
+      "album_type": "single",
+      "release_date": "2015-03-22",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3o8BMojuQONFOJ0cJ0qOEc",
+          "name": "diskord"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273297dd0aae860bd3ca366dc81",
+      "uri": "spotify:album:5BS4wW3y81QlJxTJMDIgrx",
+      "name": "freeway remixes",
+      "album_type": "album",
+      "release_date": "2014-10-17",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734069fdcd09d52df2d5dd422a",
+      "uri": "spotify:album:5C4Qp7KcJ7xxfl5jPfSMrR",
+      "name": "freeway ep",
+      "album_type": "single",
+      "release_date": "2013-11-11",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313aebcbe886b3f6030f7112f",
+      "uri": "spotify:album:4Zfq0nxTUlM9inOmJeyjDX",
+      "name": "do or die",
+      "album_type": "single",
+      "release_date": "2013-07-23",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b702683351b9b0684e8487d",
+      "uri": "spotify:album:1mpCVicVx2roKL7Bq2i6Vz",
+      "name": "blow the roof",
+      "album_type": "album",
+      "release_date": "2013-01-25",
+      "release_year": "2013",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aec7c0e4d7f1713f9ed2acd",
+      "uri": "spotify:album:3aH6MD2KkB4fx1fxqHhPKi",
+      "name": "blow the roof",
+      "album_type": "single",
+      "release_date": "2013-01-14",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2f25bdce30da2375cd7c8bf",
+      "uri": "spotify:album:6D3tOrwhcws2j85xdQgYKt",
+      "name": "the shady bunch",
+      "album_type": "single",
+      "release_date": "2012-12-16",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e279e6f32f7ab1775dc92e0",
+      "uri": "spotify:album:1UoJMs3tWZdjCpDZGQMsOi",
+      "name": "daydreamer (feat. example)",
+      "album_type": "single",
+      "release_date": "2012-04-27",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f9c15610760461db158f7ee",
+      "uri": "spotify:album:2uRfUkQA3RfQ3BxqDZvhwt",
+      "name": "superbad",
+      "album_type": "single",
+      "release_date": "2011-12-13",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303075f83cbe14070e67a41be",
+      "uri": "spotify:album:0N4AeqUkN990c15zG4ccb8",
+      "name": "jump back",
+      "album_type": "single",
+      "release_date": "2011-11-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0sQ1wgSdRpoysgsa1VnI4G",
+          "name": "foreign beggars"
+        },
+        {
+          "spotify_id": "4P81VkbUxQrMmNwYnzliqJ",
+          "name": "skism"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daf061175a8bae2745628b66",
+      "uri": "spotify:album:4CjNlRWR79wFrffYZE1aOU",
+      "name": "circus one presented by doctor p & flux pavilion",
+      "album_type": "album",
+      "release_date": "2011-01-05",
+      "release_year": "2011",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6ZuVz0OuJlW9B717b5bL7R",
+          "name": "circus records"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273319292b0622435edbb2111ad",
+      "uri": "spotify:album:5I4cp6icFiNQt3QBExHHnC",
+      "name": "lines in wax ep",
+      "album_type": "single",
+      "release_date": "2010-10-11",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcf1ee7fde4494b97c8ec2d1",
+      "uri": "spotify:album:0YGZmMOj76Ug3lJNKSLbwD",
+      "name": "sweet shop (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2010-08-23",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a91ce319e6eb1e34b14fed2",
+      "uri": "spotify:album:39bouB0kwmBymP5AKf16b8",
+      "name": "got 2 know / normalize",
+      "album_type": "single",
+      "release_date": "2010-05-24",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f90c66960e2379906f5cf2d9",
+      "uri": "spotify:album:2IBZdroegfqR5IOBRsdomS",
+      "name": "meathead",
+      "album_type": "single",
+      "release_date": "2010-04-19",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349d342c78de39b1659f6bf06",
+      "uri": "spotify:album:2dQMMWD1GaDoVdImEvQQT9",
+      "name": "voscillate (roksonix remix)",
+      "album_type": "single",
+      "release_date": "2010-03-15",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "6ETMcnmPCgAsflnXRTvNgS",
+          "name": "roksonix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304897cfc74036d3b89f91294",
+      "uri": "spotify:album:0g1lHjdcj0y7ADOZh4agUS",
+      "name": "voscillate / night goes on",
+      "album_type": "single",
+      "release_date": "2010-01-25",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273557adf6fe6e1f9c609f4357a",
+      "uri": "spotify:album:2DM8pAHT2jv7XXjyIbQppM",
+      "name": "i can't stop",
+      "album_type": "single",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739093cd97ca24733e54eb7243",
+      "uri": "spotify:album:1IV2TNORATOR6HP4PuQQWt",
+      "name": "all stars ep",
+      "album_type": "single",
+      "release_date": "2009-12-30",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337804617b96e1a00d7a9a605",
+      "uri": "spotify:album:6m4ARzZ8sar1DT5ozoi3jX",
+      "name": "air raid / streets of rage (flux pavilion remix)",
+      "album_type": "single",
+      "release_date": "2009-11-09",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273924452705e49eca75777e713",
+      "uri": "spotify:album:6e0KtKUgzUvi7DWh6kcVFn",
+      "name": "boom ep",
+      "album_type": "single",
+      "release_date": "2009-06-15",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:57.000Z"
+}

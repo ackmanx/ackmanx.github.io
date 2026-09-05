@@ -1,0 +1,467 @@
+{
+  "name": "amon amarth",
+  "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+  "uri": "spotify:artist:3pulcT2wt7FEG10lQlqDJL",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe0ed6357e133abef229c44a3",
+  "genres": [
+    "melodic death metal",
+    "folk metal",
+    "metal",
+    "death metal",
+    "heavy metal",
+    "power metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7cc724858e21a4a129b0364",
+      "uri": "spotify:album:6PWN9YmGj9cMgtlsLMgqNL",
+      "name": "gjallarhorn",
+      "album_type": "single",
+      "release_date": "2026-07-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e887256e5abce54b4d7f348c",
+      "uri": "spotify:album:1Pi6Re7Laq42e5T7FvN847",
+      "name": "upphaf",
+      "album_type": "single",
+      "release_date": "2026-07-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273544a1452d774d6494a0cb145",
+      "uri": "spotify:album:4b0t4as9hyLqBEMGttRT4t",
+      "name": "we rule the waves",
+      "album_type": "single",
+      "release_date": "2025-07-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c57c1a0c39653d8187c293b3",
+      "uri": "spotify:album:46SLNuMmAJD0lYog885M8a",
+      "name": "heidrun",
+      "album_type": "single",
+      "release_date": "2023-08-04",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cef752c967d00bd5492efbbd",
+      "uri": "spotify:album:49RfDv9BawZQq8hJq0V5wB",
+      "name": "the great heathen army",
+      "album_type": "album",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f70dcff689e945b5e8091e8",
+      "uri": "spotify:album:2Ge7U7lz8QrfTEI9RmBEhc",
+      "name": "the great heathen army",
+      "album_type": "single",
+      "release_date": "2022-07-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9b269ccabb3f3cff1c57ef9",
+      "uri": "spotify:album:4SZ83KkAeVrEazPQhWfaMP",
+      "name": "get in the ring",
+      "album_type": "single",
+      "release_date": "2022-06-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c245e9ade9c574adc9f4f46f",
+      "uri": "spotify:album:3mS1TiUhXrH9XOvZGEd3Eo",
+      "name": "put your back into the oar",
+      "album_type": "single",
+      "release_date": "2022-02-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349577baa6d847f685fc4262a",
+      "uri": "spotify:album:0w8qn4MsyCw0d8i98QiZTh",
+      "name": "masters of war",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d529980602b892735c091c7",
+      "uri": "spotify:album:4NxlBCBuzKXCwNVNMfRGUa",
+      "name": "berserker",
+      "album_type": "album",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c70f6a6391ec5430ff64ba88",
+      "uri": "spotify:album:2VCVP6uQKKVHNijaG9kHvn",
+      "name": "crack the sky",
+      "album_type": "single",
+      "release_date": "2019-04-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c05fb9af7320777cdb612bb",
+      "uri": "spotify:album:1ZC7azl37Xsy7eudRXTmzK",
+      "name": "raven's flight",
+      "album_type": "single",
+      "release_date": "2019-03-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e48ef7e0b58f30f746b9915",
+      "uri": "spotify:album:3diAK99GibOK52Ms6mMNkC",
+      "name": "the pursuit of vikings: live at summer breeze",
+      "album_type": "album",
+      "release_date": "2018-11-16",
+      "release_year": "2018",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be74c6ce0cfa95e3c6a82055",
+      "uri": "spotify:album:3UJmGEFtGQj3OkMyCnhEDx",
+      "name": "raise your horns (live at summer breeze: main stage)",
+      "album_type": "single",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c460e38e16c46a17be180662",
+      "uri": "spotify:album:2fxE7POuytVoQvJDoOfnyb",
+      "name": "twilight of the thunder god (live at summer breeze: main stage)",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b229100629ef1469cd8edb9c",
+      "uri": "spotify:album:5LlHYLimFw8u8SPzbNAUhG",
+      "name": "jomsviking",
+      "album_type": "album",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2d7400777629dd05679e3fc",
+      "uri": "spotify:album:1eDPtZiCUbmoUSVVpAUo9K",
+      "name": "at dawn's first light",
+      "album_type": "single",
+      "release_date": "2016-03-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c17f518a1298c061f50db5e",
+      "uri": "spotify:album:1qCwtHJ4Zrlcee6dZbhT71",
+      "name": "first kill",
+      "album_type": "single",
+      "release_date": "2016-01-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372144ebe30f7aeb2b0e01aa9",
+      "uri": "spotify:album:3cQfALGRSzDeohPsXkF6X3",
+      "name": "deceiver of the gods",
+      "album_type": "album",
+      "release_date": "2013-06-25",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db1608586a694948be8e4fb1",
+      "uri": "spotify:album:1kt1XUqwVBjZUDbfJva5Lb",
+      "name": "under the influence - ep",
+      "album_type": "single",
+      "release_date": "2013-06-25",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273167da3d8d7e504aa26076b60",
+      "uri": "spotify:album:6bz1yWjzSUlsXXlih2fjyB",
+      "name": "surtur rising",
+      "album_type": "album",
+      "release_date": "2011-03-29",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739203fd1f5c23f0ad92ce63fa",
+      "uri": "spotify:album:3j0GCUTDz53x9Mzl8L1Fwz",
+      "name": "twilight of the thunder god",
+      "album_type": "album",
+      "release_date": "2008-09-30",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8eb1699ff0cb3cc55f1b3af",
+      "uri": "spotify:album:6vpateiy0wXz9o376HI5F3",
+      "name": "with oden on our side",
+      "album_type": "album",
+      "release_date": "2006-10-03",
+      "release_year": "2006",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395e7594a7df822c720d45867",
+      "uri": "spotify:album:6eQNR9fAkQUFiIwJOVLt8N",
+      "name": "fate of norns",
+      "album_type": "album",
+      "release_date": "2004",
+      "release_year": "2004",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6c23201d9d44e742f0891ec",
+      "uri": "spotify:album:2Sjpjtk2LrVs4djFTr2RmJ",
+      "name": "versus the world",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308d7d9416f47407db25049ab",
+      "uri": "spotify:album:07nr9KG7aIbMbcC8pvkn5O",
+      "name": "versus the world (bonus edition)",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e984bda6c965e61177d71ed",
+      "uri": "spotify:album:4GxYPsM2Cj96vBrC6OzO6Z",
+      "name": "the crusher",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ecb159bba45daf95e5952dd",
+      "uri": "spotify:album:5KEg58LC93sUVu3sxxByFZ",
+      "name": "the crusher (bonus edition)",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4fb51dc0e414b4e474ed46d",
+      "uri": "spotify:album:50q4XbkCChnXQHsTATIDlR",
+      "name": "the avenger (bonus edition)",
+      "album_type": "album",
+      "release_date": "1999",
+      "release_year": "1999",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396397eb0d8ccb1e57b3934e4",
+      "uri": "spotify:album:3Wo97FdnYr8I0ya1nMdKeT",
+      "name": "once sent from the golden hall (bonus edition)",
+      "album_type": "album",
+      "release_date": "1997",
+      "release_year": "1997",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "3pulcT2wt7FEG10lQlqDJL",
+          "name": "amon amarth"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:34.000Z"
+}

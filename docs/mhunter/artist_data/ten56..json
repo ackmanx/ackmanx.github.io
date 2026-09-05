@@ -1,0 +1,342 @@
+{
+  "name": "ten56.",
+  "spotify_id": "28dpy0DQotTkBXcTlniQii",
+  "uri": "spotify:artist:28dpy0DQotTkBXcTlniQii",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebff6c889753c279dcf636a8ad",
+  "genres": [
+    "deathcore",
+    "metalcore",
+    "djent"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a78e6464b51fc909bc2e6dd0",
+      "uri": "spotify:album:2dYfpDZ6H3om0MH1J4Rkdk",
+      "name": "copium",
+      "album_type": "single",
+      "release_date": "2025-12-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1086cg4qU8kfji9Iex24Ri",
+          "name": "dal av"
+        },
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355a2f4cd1d8786ee64a58788",
+      "uri": "spotify:album:2RJttoIphditrfgq3FEq3j",
+      "name": "io",
+      "album_type": "album",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a760769fb06a2eb996185245",
+      "uri": "spotify:album:0j2zr6M5hyvCsllhIWLjCr",
+      "name": "i know where you sleep",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e965f6c5f0a3e9bfa91485b",
+      "uri": "spotify:album:3I6lvF4wsJcEu6b9o6VPJb",
+      "name": "pty fck",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af0b2bca98ca8714035c036a",
+      "uri": "spotify:album:7M8qLO0UvEJfgiJ8lqXwVo",
+      "name": "pig",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332ad1785261fac2acd9d92c3",
+      "uri": "spotify:album:3fR0ttBLpuuixutqIbW2SL",
+      "name": "earwig",
+      "album_type": "single",
+      "release_date": "2025-02-13",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2dc13a636cc706467cc2492",
+      "uri": "spotify:album:57ivOO39SjDCEFHpcQFLKP",
+      "name": "still cursed",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2bfK6ltXa60B2egnErJvlO",
+          "name": "cabal"
+        },
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdd363b2baa55e4e79e0e692",
+      "uri": "spotify:album:63Ay2YI0iwLHXGl9agUApI",
+      "name": "icu",
+      "album_type": "single",
+      "release_date": "2024-08-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366f9cd3cbe26b3eeed7d9db0",
+      "uri": "spotify:album:5UiF8zGT6INUAnWCiO504V",
+      "name": "good morning",
+      "album_type": "single",
+      "release_date": "2024-02-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dffc7279a529a6818126caf1",
+      "uri": "spotify:album:7woFAbfwUDeSRxDKMraMvk",
+      "name": "reapers",
+      "album_type": "single",
+      "release_date": "2023-11-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "740XnUGK1y8DMyMZSgRjVN",
+          "name": "sunfall"
+        },
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d997acc431576d64d19b9b5f",
+      "uri": "spotify:album:7Ghh2ndfk0MxS1MxeiryQe",
+      "name": "older days",
+      "album_type": "single",
+      "release_date": "2023-08-31",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "52tIYMYQgBbgOFIJHaOPxY",
+          "name": "resolve"
+        },
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        },
+        {
+          "spotify_id": "467M2s2YxXdlL2ZpDUNL3A",
+          "name": "paleface swiss"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273658cfd2fade1d9b4cf37963e",
+      "uri": "spotify:album:29JRXuqTOcb6N2OqE7K605",
+      "name": "iii",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4C0z0Z6pwnWUkEeG9a5Y02",
+          "name": "deathphonk"
+        },
+        {
+          "spotify_id": "1Gc5ZiJhqjQQcfvMTSCa3q",
+          "name": "nik nocturnal"
+        },
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edea4030420a54a603562b42",
+      "uri": "spotify:album:2dVB4fFhkEEsRA4hkqyez5",
+      "name": "downer",
+      "album_type": "album",
+      "release_date": "2023-04-21",
+      "release_year": "2023",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342209e04e581bf066e26c9ed",
+      "uri": "spotify:album:0daRza8EZVJvUaTC9JYkVl",
+      "name": "choky",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ccb52f6ea21fc08b7cd10e3e",
+      "uri": "spotify:album:3SBsZ06WwMcqFU9tHPOSlV",
+      "name": "downer part.2",
+      "album_type": "album",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaec8d9ca34ca723ed68b871",
+      "uri": "spotify:album:1CAGwkpHZY8VJyKXP5PlxP",
+      "name": "rls",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735be08c93aef849656de81c4a",
+      "uri": "spotify:album:1zA1qb5KNiYj6HI7X7DfwG",
+      "name": "downer part.1",
+      "album_type": "single",
+      "release_date": "2021-11-25",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d80509883be680146a3aa308",
+      "uri": "spotify:album:2t6PX9eenv219qrbqQcLoH",
+      "name": "sick dog",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4247638ddc48ca34b3fcb66",
+      "uri": "spotify:album:2bawGtzScFeuFxEhsrx4Sa",
+      "name": "boy",
+      "album_type": "single",
+      "release_date": "2021-06-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2aa96aa2af2aab017390fbc",
+      "uri": "spotify:album:6xHOXbrRQUov5zitOkoSfy",
+      "name": "diazepam",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28dpy0DQotTkBXcTlniQii",
+          "name": "ten56."
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:00.000Z"
+}

@@ -1,0 +1,790 @@
+{
+  "name": "jantsen",
+  "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+  "uri": "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1ee99028f5a917687bff580b",
+  "genres": [
+    "dubstep",
+    "bass music"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8a2b373512c827e96b5856d",
+      "uri": "spotify:album:1kvJVniw82d9loGIZRDKKH",
+      "name": "full send",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "7vfvYuEyJbh1Tf3QlOTAmZ",
+          "name": "ravenscoon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efb496865fec4ed579d2f1d5",
+      "uri": "spotify:album:3w9RBJTyKGqIhhgbvPOkoX",
+      "name": "werk",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb9dd6fee7971e21385a2985",
+      "uri": "spotify:album:10unH7ixFwbaFxJGAqs82C",
+      "name": "gettin money",
+      "album_type": "single",
+      "release_date": "2025-06-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "6Cqy862jSCV7qdNrCDqvNK",
+          "name": "hairitage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e247996be31b3034715694db",
+      "uri": "spotify:album:7lf8Od07lp9Ix9lI7g7r0o",
+      "name": "champion sound",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3T0BepBNnd3kw2m10rh8yW",
+          "name": "tvboo"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2de1f11c83e604408c41a81",
+      "uri": "spotify:album:2xbBuoUCqtoTxTXaJvsq2I",
+      "name": "i’m on that",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2fRdiG5FNFFs4OjG7p6yxk",
+          "name": "subdocta"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361ed49c1543680c1808fa450",
+      "uri": "spotify:album:30iFuo0xeskQRG3OIV7m77",
+      "name": "bababass",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1XXHaDxpaVojtY2QKYaQzl",
+          "name": "zeke beats"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309d573bf9fffdca564bb39d2",
+      "uri": "spotify:album:3HwFH9OrfxZekWw76FvXZl",
+      "name": "kumonga",
+      "album_type": "single",
+      "release_date": "2023-11-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "3nqbWR5FC0RSkS9kK1aalW",
+          "name": "ruvlo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c1af25073a8f41e32e61d71",
+      "uri": "spotify:album:5gPc52ohFMwjEGcV3sQu4N",
+      "name": "full circle",
+      "album_type": "single",
+      "release_date": "2023-09-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316afe02cf7c3a723ed808c51",
+      "uri": "spotify:album:7ogc5YbbATuhkCkWkB9GoE",
+      "name": "everybody",
+      "album_type": "single",
+      "release_date": "2023-05-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "1XXHaDxpaVojtY2QKYaQzl",
+          "name": "zeke beats"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd9716761348d8586e5bcc62",
+      "uri": "spotify:album:48omha9M1po9qZiVhVnHHf",
+      "name": "gummy worm (dirt monkey x jantsen remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad5508861683c88b3d646089",
+      "uri": "spotify:album:7fQwpLUQrEhEtGbuucjd9S",
+      "name": "gutter til i die",
+      "album_type": "single",
+      "release_date": "2021-04-20",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333f4241b5d3da0ca0c79868c",
+      "uri": "spotify:album:6XLiPwcoyxbxyxJ2Abuvcn",
+      "name": "shakin' the kutz ep",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7ee2600278735e6bbe6a72e",
+      "uri": "spotify:album:3wcn2dxhPjPptdKKLUUnoS",
+      "name": "nasty",
+      "album_type": "single",
+      "release_date": "2020-09-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738206077e39d4c5890391cec1",
+      "uri": "spotify:album:1yTjZd8IjEHjRoJoWHJR1V",
+      "name": "gutter juice",
+      "album_type": "single",
+      "release_date": "2020-06-11",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330759998df1e3c4ea657af44",
+      "uri": "spotify:album:1mRtwMzqbyqYEdlAJq5RxG",
+      "name": "get crazy",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "6JU4RsXcN7rLafs39HwFxf",
+          "name": "mersiv"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735384c5957556e7e6789f976a",
+      "uri": "spotify:album:1h69xzIo5uztD0Q1hydTj4",
+      "name": "got dat",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "3T0BepBNnd3kw2m10rh8yW",
+          "name": "tvboo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273751717289aeed6ecd1b34249",
+      "uri": "spotify:album:0oav4Nggh1ZKpCKC1ttqW8",
+      "name": "in the dance",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "3qNEgvMVFSPWLeBGuqRQ4F",
+          "name": "conrank"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a5ce80d26f4f3a799ea7146",
+      "uri": "spotify:album:1iBImUXlE9RSkbHHkdYR0M",
+      "name": "blazin'",
+      "album_type": "single",
+      "release_date": "2020-02-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8dbc4d41da08998f496dee2",
+      "uri": "spotify:album:1JQuW2A7A6EkvYj9dU4WXK",
+      "name": "bring it back ep",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "19TPUcdh5X5I7m1MFBwLBU",
+          "name": "yaysh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc5db9fb907a712d8f7a4e47",
+      "uri": "spotify:album:21k1X237MLLi5bT8U4JBZb",
+      "name": "post human remixes",
+      "album_type": "single",
+      "release_date": "2018-04-02",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394d2e8542cd6dc4fcc6ed2db",
+      "uri": "spotify:album:5AH7d2Cd6KTZ9kshI1583m",
+      "name": "badboy sound",
+      "album_type": "single",
+      "release_date": "2017-12-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abb88374dcd51fce1949ef16",
+      "uri": "spotify:album:2rBTihZ76P6TSYP2Ff7UGj",
+      "name": "afterglow",
+      "album_type": "single",
+      "release_date": "2017-11-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf8d1cd3b464348de95fcc41",
+      "uri": "spotify:album:5sO2I5B1o3UYIgc8UbOGv3",
+      "name": "kaiju's theme",
+      "album_type": "single",
+      "release_date": "2017-10-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a08b5bb9058b10b34000fc70",
+      "uri": "spotify:album:5ZSJjJmhaPut3LmC7DtQyy",
+      "name": "menace",
+      "album_type": "single",
+      "release_date": "2017-09-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387d4668baee35c066c9686aa",
+      "uri": "spotify:album:4s0jxmeiAUu1QSxuPHvD4E",
+      "name": "jantsen & dirt monkey present: soltri, pt. 1",
+      "album_type": "single",
+      "release_date": "2017-02-07",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6934yfELsF59BLk6EdFad9",
+          "name": "soltri"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bb751b6d85e140ecbb53edc",
+      "uri": "spotify:album:41q3l4FTzN4bMCZa8sPD8t",
+      "name": "give it up",
+      "album_type": "single",
+      "release_date": "2016-12-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "578rh4s6ZYNBBEhdly58XQ",
+          "name": "b-sides"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3b885326f33c87af1274132",
+      "uri": "spotify:album:1LLLTaTr2FSZeNqTFhxtVN",
+      "name": "massive",
+      "album_type": "single",
+      "release_date": "2016-11-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "7v3klaxOWbKij4kNWrCZcm",
+          "name": "notixx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0934b2047094bb6d53f783a",
+      "uri": "spotify:album:5Hnu8WaDlhmc55YNYoDohV",
+      "name": "submarine",
+      "album_type": "single",
+      "release_date": "2016-10-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "6Ny7ldBgUotuALx5hSFi4e",
+          "name": "luzcid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ee8d104e9f371885b50caa",
+      "uri": "spotify:album:3vIFb76hR9DQOXPEGUaNNT",
+      "name": "daydream",
+      "album_type": "single",
+      "release_date": "2016-10-04",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349bc9054dd82ae454d052bc0",
+      "uri": "spotify:album:52y49e8mxtVlB6i2jHE2vv",
+      "name": "make some noise",
+      "album_type": "single",
+      "release_date": "2016-09-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd84ac7d440f82a9f03d5a23",
+      "uri": "spotify:album:1bdRN5vEwPEwDkCSgiammY",
+      "name": "take me there",
+      "album_type": "single",
+      "release_date": "2016-08-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2557492875eb6799a380878",
+      "uri": "spotify:album:5QaHBMsZGdR5D35W6AgpKP",
+      "name": "shake that (afk vip)",
+      "album_type": "single",
+      "release_date": "2015-10-19",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "3eIM4tCQTGJXb0RDPfF2wL",
+          "name": "afk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731998da36be864f49883fa4b9",
+      "uri": "spotify:album:1R20eLfPk4pmaM6gTHJ77h",
+      "name": "every time",
+      "album_type": "single",
+      "release_date": "2015-09-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1JPy5PsJtkhftfdr6saN2i",
+          "name": "bassnectar"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732226ac0c465ec93bfc6e3f11",
+      "uri": "spotify:album:1pmu9VuBPidiONnmJCGuTU",
+      "name": "freaks",
+      "album_type": "single",
+      "release_date": "2015-06-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734096b23d8d8c5e20e52167c5",
+      "uri": "spotify:album:3pPWa9tWjFw450XVoDwH3j",
+      "name": "break it down",
+      "album_type": "single",
+      "release_date": "2014-09-22",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae09fc32fe7248e88f2b964",
+      "uri": "spotify:album:1nn62c9lnawiMM1okQDnd8",
+      "name": "the hard way",
+      "album_type": "single",
+      "release_date": "2014-08-04",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b36c9bfe44b391b77d6420b",
+      "uri": "spotify:album:0P0xuJ4AiV1cRC0nSGXdk7",
+      "name": "freak that shit / no other sound (the remixes)",
+      "album_type": "single",
+      "release_date": "2014-04-21",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317ffd2ee819282cd554f2c98",
+      "uri": "spotify:album:4Mri6O5yYOprl5PtCyJYnz",
+      "name": "freak that shit / no other sound",
+      "album_type": "single",
+      "release_date": "2014-03-03",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "6hFygpQd0XtCwoZEePfC47",
+          "name": "clinton sly"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f90a804c62212589191b6a3",
+      "uri": "spotify:album:5kVwvwYm8JFc1wdHFgUDAJ",
+      "name": "when the beats drop",
+      "album_type": "single",
+      "release_date": "2012-11-06",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f651403092d29d922583ad39",
+      "uri": "spotify:album:2calxVBAJwxvKKnWaoj54e",
+      "name": "in the mood / rock the house",
+      "album_type": "single",
+      "release_date": "2012-10-15",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2f81371f5033cd98bd3026a",
+      "uri": "spotify:album:6GmGeiSzxrWmEL128fbnWB",
+      "name": "jantsen part 1",
+      "album_type": "single",
+      "release_date": "2012-09-03",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398ec6518d3f7e2172fb6993a",
+      "uri": "spotify:album:3PFtMzbtejJptHKCzJlWnu",
+      "name": "dreamchaser ep",
+      "album_type": "single",
+      "release_date": "2012-02-06",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "5K1jgQywiZV7cOYmc3qr2h",
+          "name": "dark elixir"
+        },
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        },
+        {
+          "spotify_id": "0WqR2IuhhxLCTryPSvFv61",
+          "name": "kimié miner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c57f922d8ed46c5a9ab501f",
+      "uri": "spotify:album:1oN2ukmlk4Aevnmu1c80xO",
+      "name": "sultan of swing/lets get ill",
+      "album_type": "single",
+      "release_date": "2011-06-28",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg",
+          "name": "jantsen"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:26.000Z"
+}

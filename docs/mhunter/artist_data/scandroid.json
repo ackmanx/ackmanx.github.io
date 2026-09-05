@@ -1,0 +1,388 @@
+{
+  "name": "scandroid",
+  "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+  "uri": "spotify:artist:27qG899eLldfpYtPr3S3NJ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb030f879f8c16e8fa5c437ab",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345f025942e40c56916e85037",
+      "uri": "spotify:album:43J0HjXkN6emRsjexXID5y",
+      "name": "lost in the stars",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2743d0172074319c881f84",
+      "uri": "spotify:album:7fLUyDWo42A4Hx3QhrqZ8P",
+      "name": "the ancient garden",
+      "album_type": "single",
+      "release_date": "2023-11-02",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273844f0a71ad818caf0d35df53",
+      "uri": "spotify:album:0g9uPpFyzQUmq8mViyMBpz",
+      "name": "lost in the datastream",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c274f262178dc28707388fa9",
+      "uri": "spotify:album:3cgN4QB4N1mAfxqnDNYNCr",
+      "name": "waste my time",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737808ddc654b4ab86e5cedd1e",
+      "uri": "spotify:album:0KatqI6n0ALV8MS21RE0I1",
+      "name": "shadow of the drones",
+      "album_type": "single",
+      "release_date": "2023-05-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1d3847d4eae72fcc074fefc",
+      "uri": "spotify:album:5s5YHox6ffXYWCK1wgFt3J",
+      "name": "obsolete (feat. scandroid) [3force remix]",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6YAOorJSNGWyH8m9N7cDeX",
+          "name": "deadlife"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "0FHXyAFKLg02mIUpNApPgo",
+          "name": "3force"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371cd6206527db876ea553348",
+      "uri": "spotify:album:5awpGJxdLOmT7qAaDhj5XG",
+      "name": "save the queen (3force remix)",
+      "album_type": "single",
+      "release_date": "2022-03-09",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KxS1dL7Q7jxMkyb2ZvzXH",
+          "name": "fury weekend"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "0FHXyAFKLg02mIUpNApPgo",
+          "name": "3force"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735745540ad7e165b43f3f4139",
+      "uri": "spotify:album:1i9QYYhk0ooWhQALODYAoH",
+      "name": "dreams of darkness, visions of light (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2022-02-02",
+      "release_year": "2022",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ec37a667f90d773863a333c",
+      "uri": "spotify:album:1K6qxkPAKAt66sRwhUKhiU",
+      "name": "hark! the herald angels sing",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734af0ea305d64d1b10b0aa071",
+      "uri": "spotify:album:69V8ID5mrvb6t0hG2fbKIX",
+      "name": "abyss (gancher & ruin remix)",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0FHXyAFKLg02mIUpNApPgo",
+          "name": "3force"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "6IzjY421I2xp5UR4dkMDsU",
+          "name": "gancher & ruin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ba3d3a9aedcd90c57c40bdd",
+      "uri": "spotify:album:08nYzFtHikxi58C3AUt01C",
+      "name": "awakening",
+      "album_type": "single",
+      "release_date": "2020-09-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a33ed4bd9b4f59ac27637751",
+      "uri": "spotify:album:7n9bNJNvVOkqUAgobYfNuY",
+      "name": "empire of steel",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3vc0JWD1Nj1VLrgJ1x3cjE",
+          "name": "essenger"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273568466c10993ce7bc72ce116",
+      "uri": "spotify:album:3fJJH20dvjkKx0BfzEda7V",
+      "name": "abyss (feat. scandroid)",
+      "album_type": "single",
+      "release_date": "2020-01-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0FHXyAFKLg02mIUpNApPgo",
+          "name": "3force"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ff818c3c1751fdaa0546fcb",
+      "uri": "spotify:album:0kHC4dtVrEVtNuacqIzbRM",
+      "name": "the darkness and the light (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2020",
+      "release_year": "2020",
+      "total_tracks": 34,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359d6d920f69d438829cba3be",
+      "uri": "spotify:album:69clhMFnFcI0NqcfiBn7J6",
+      "name": "who you run to (scandroid remix)",
+      "album_type": "single",
+      "release_date": "2019-04-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "71Char2jLgXkG97fBjqNNY",
+          "name": "the bad dreamers"
+        },
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733823c2cf8b3191aa1f55fca2",
+      "uri": "spotify:album:6hAcmjh3tXi5WIT6PIAko7",
+      "name": "dreams in monochrome (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee246396ccee96b0640ff0c2",
+      "uri": "spotify:album:34AAv07g0lcBEzuTIT6Fdo",
+      "name": "monochrome (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-10-27",
+      "release_year": "2017",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739507004e3d95fb8ec59d804a",
+      "uri": "spotify:album:2oPVdEuJ8ykWCi1W5ySkZd",
+      "name": "thriller",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9fe2197eb35aa0f6728dcda",
+      "uri": "spotify:album:1IqX1WqkFL8vmcWthlQ4VV",
+      "name": "the force theme",
+      "album_type": "single",
+      "release_date": "2017-05-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381f98e65c9db99eedd560274",
+      "uri": "spotify:album:5jnvDvAuKfrqEEFlclMxrV",
+      "name": "dreams of neo-tokyo (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-03-31",
+      "release_year": "2017",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4b271f995922764f968e5d7",
+      "uri": "spotify:album:4ooMCtNgb73ygLxEud8ihF",
+      "name": "scandroid (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2016-11-11",
+      "release_year": "2016",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "27qG899eLldfpYtPr3S3NJ",
+          "name": "scandroid"
+        },
+        {
+          "spotify_id": "4BKyei61gtyDFxlKhcvBJJ",
+          "name": "celldweller"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:40.000Z"
+}

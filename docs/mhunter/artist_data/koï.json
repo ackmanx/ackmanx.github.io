@@ -1,0 +1,87 @@
+{
+  "name": "koï",
+  "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+  "uri": "spotify:artist:6MhwQdck5uQDaUUf0wI1kj",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb716adf89fb29fa4fe4c090a7",
+  "genres": [
+    "chillwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8c984f3fb60b08b29cca5a0",
+      "uri": "spotify:album:4aLYSjYGBThau1vfqepvJ5",
+      "name": "better now",
+      "album_type": "single",
+      "release_date": "2026-03-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+          "name": "koï"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273509c68f18b118b8bce603557",
+      "uri": "spotify:album:2OLe6qcDVH7zoXIIb3M4IE",
+      "name": "feel alive",
+      "album_type": "single",
+      "release_date": "2026-02-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+          "name": "koï"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ca8dcb2842943c21577400c",
+      "uri": "spotify:album:09karChCYWKGy6pzcil36V",
+      "name": "pacifica",
+      "album_type": "album",
+      "release_date": "2022-03-22",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+          "name": "koï"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c75ed8a540ecb68c6c0291c",
+      "uri": "spotify:album:4G4JieVNefJn2A1dIPxJM5",
+      "name": "maelstrom",
+      "album_type": "album",
+      "release_date": "2012-05-20",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+          "name": "koï"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f209d11f1fd4d27f683793a0",
+      "uri": "spotify:album:3GdkDgSUdupxT2QCLIIW0M",
+      "name": "beginnings",
+      "album_type": "single",
+      "release_date": "2012-04-21",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6MhwQdck5uQDaUUf0wI1kj",
+          "name": "koï"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:18.000Z"
+}

@@ -1,0 +1,733 @@
+{
+  "name": "minnesota",
+  "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+  "uri": "spotify:artist:4XIIdT0K7u7d1Tz5Vfx0JG",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebab8396895eb46d8a8e4e1819",
+  "genres": [
+    "chillstep",
+    "bass music",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec9f72b59d50852f163204b6",
+      "uri": "spotify:album:3DApjKuoLr9XfNARjSn0ev",
+      "name": "keep it moving",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5QB7KgZXBB1PAFA1P6wiNU",
+          "name": "big milk"
+        },
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738853772a02ca8b5e5810b1b7",
+      "uri": "spotify:album:5vCgAHr1KHvw5zJotTENvm",
+      "name": "solid state discoveries",
+      "album_type": "album",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 40,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739685b74344bf8532f10a26c9",
+      "uri": "spotify:album:5NqOERgVrwSI5UKyP9EJ5l",
+      "name": "drowning (in the drip)",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325c69a0192418184322d971c",
+      "uri": "spotify:album:3uTQfsCuIlkhpVsFyxWUSN",
+      "name": "geology",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f0d2703f5c61878a06a99c2",
+      "uri": "spotify:album:0sVLTGG0VWGagaZabScGbA",
+      "name": "beacon",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736aee6242e0ffbc31dbc631d4",
+      "uri": "spotify:album:3vwE3AuKEVB4eYfEskfEtm",
+      "name": "into the void",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737459cff9df0475af853341ec",
+      "uri": "spotify:album:7pqgxIeR43tX6uVPszmXSv",
+      "name": "reality (bricksquash remix)",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "2p86MlyUomQNCpi3vfPGYM",
+          "name": "bricksquash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a46b09545c51c974c7f55973",
+      "uri": "spotify:album:6LrNhozJC85nlzwmexl6Gp",
+      "name": "desolation peak (notlö remix)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "0UmpDfZvwJpXxsOBaKmW5Z",
+          "name": "notlö"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f399e3985a4c62296d233df",
+      "uri": "spotify:album:4zx7RwNeAbOfGDgR5hpBlZ",
+      "name": "confusion (idhs remix)",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "3zy45b1vqValWG3bMnzd70",
+          "name": "idhs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a54c336243c467232c263bb",
+      "uri": "spotify:album:1neQJkor8rRvMRxx5EhqHJ",
+      "name": "feel again",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273035896626e323eee05321da4",
+      "uri": "spotify:album:2ivG2zlHo7YwnTVGh3ev7l",
+      "name": "comfort zone",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324b75a5a73882dfd51cbb4ca",
+      "uri": "spotify:album:7xchV0dAB31iul6Cif2x2s",
+      "name": "desolation peak",
+      "album_type": "single",
+      "release_date": "2021-06-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273972b72fd50840898146d4f93",
+      "uri": "spotify:album:6ZiQ523zvQDqzR9RNYBfqb",
+      "name": "confusion",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b548d84d60a61caf9123571",
+      "uri": "spotify:album:5VpA9WOAKeCEoOwwMKGtzj",
+      "name": "not a trend",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "45B2tXcwmZXjfCbK6c3oqu",
+          "name": "vctre"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cddf5ebec8ffa42da1069d6",
+      "uri": "spotify:album:2ZPCSmdsBRpePC9KddsVYu",
+      "name": "too faced stylust remix",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300c1890d7c91bbcb8f3bcef5",
+      "uri": "spotify:album:3y915cbxK3FWTP5wPJtTA6",
+      "name": "devour",
+      "album_type": "single",
+      "release_date": "2020-01-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cf189d040b9030965367f22",
+      "uri": "spotify:album:5zqR4QZYrV3qu5o0Khn21j",
+      "name": "too faced",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad0efd5ceb8c94c50dee7c5a",
+      "uri": "spotify:album:5KnjWFkYj4exZ6ogKhMSkc",
+      "name": "technique (clockvice & vorso remix)",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "5Og6MsfuDPnFYd1asgHXdH",
+          "name": "vorso"
+        },
+        {
+          "spotify_id": "0KgVymhgHYfOMP13j78XsS",
+          "name": "clockvice"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fa6a3f12621fdf8a32dedc1",
+      "uri": "spotify:album:2Dqh8y8M5V7DE4Nz42SaJZ",
+      "name": "curio remixes",
+      "album_type": "single",
+      "release_date": "2018-11-20",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a1c1a58fe90595f5638c5be",
+      "uri": "spotify:album:2sS6rbTmbTaUgNyFqdnkCN",
+      "name": "curio remixes",
+      "album_type": "single",
+      "release_date": "2018-11-20",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273279a1742f0766dcab20d6eb0",
+      "uri": "spotify:album:1LVdurU9QJW5nf17BQztSC",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "2Y1LgWOVPz5m1qCuzkWEQu",
+          "name": "stylust"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314681ee5031e916372472e6e",
+      "uri": "spotify:album:6j2JkqjraynlQufrOKPhzu",
+      "name": "final frontier",
+      "album_type": "single",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320c7f4d23ce26b230218fed4",
+      "uri": "spotify:album:0gTRNfIkPGmhK7lh7jw7rx",
+      "name": "state song of minnesota",
+      "album_type": "single",
+      "release_date": "2018-06-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c3515fa37f93825c1889406",
+      "uri": "spotify:album:3LXfOkvJuA431ZAe7uQbaf",
+      "name": "snake charmer",
+      "album_type": "single",
+      "release_date": "2018-05-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae636fcca6d570b8a0dda964",
+      "uri": "spotify:album:2q8Muivq0gat1Wb1dD5DiC",
+      "name": "curio",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1032e4437b81a6adade4302",
+      "uri": "spotify:album:4YAcRvOqy4monu3r67s6Lh",
+      "name": "curio",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339dbe1fe892c20498ff44ba2",
+      "uri": "spotify:album:1ul6gSl1Rcrn8a5JCdeEmJ",
+      "name": "hilow (charlesthefirst remix)",
+      "album_type": "single",
+      "release_date": "2018-02-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339bf95b0e43e227d4a499340",
+      "uri": "spotify:album:2yngv2GLj3abJzpCLHI6up",
+      "name": "dark crystal",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7d70b5d58a61a0812c800f9",
+      "uri": "spotify:album:3i4I6XL8ZBFtpdUumPG24H",
+      "name": "hilow",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382e49df2c8dceaa01439d94e",
+      "uri": "spotify:album:5v2m1nDoSNJpZDIQtusKSz",
+      "name": "subterranean",
+      "album_type": "single",
+      "release_date": "2017-07-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732932e27df81b956eac494450",
+      "uri": "spotify:album:0DH0ZpI51DxWKlnbP05zmy",
+      "name": "another night (feat. karra)",
+      "album_type": "single",
+      "release_date": "2017-05-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273353d0c89ffc33770663b0d90",
+      "uri": "spotify:album:7zJRcZhCDpEc5HE3bgZ1Rh",
+      "name": "colors (xan griffin remix) [feat. jackie rain]",
+      "album_type": "single",
+      "release_date": "2016-02-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        },
+        {
+          "spotify_id": "3wkHMiy2I0PuYIh9JNyqVk",
+          "name": "xan griffin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d96bc67685bd82949dd76074",
+      "uri": "spotify:album:0SJaUwoD3uPzduxlVu9DrS",
+      "name": "push it / purple daze (2011)",
+      "album_type": "single",
+      "release_date": "2015-11-25",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e986387d398413a030724f3",
+      "uri": "spotify:album:2cSUaDzega7AZXGppiWVGJ",
+      "name": "colors (feat. jackie rain)",
+      "album_type": "single",
+      "release_date": "2015-10-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b32040362deaaafb3acda6d0",
+      "uri": "spotify:album:5r64tHV0WHNqLbZOSKDA0Y",
+      "name": "raw",
+      "album_type": "single",
+      "release_date": "2015-10-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fff322fe62f60d535459b2a",
+      "uri": "spotify:album:0MNldB4y2sJfIjWUtxvF81",
+      "name": "thunderdome remixes",
+      "album_type": "single",
+      "release_date": "2015-03-31",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273183543918d0013fd8f347116",
+      "uri": "spotify:album:4AvWThXzgilnmHTe09ImV5",
+      "name": "voyager",
+      "album_type": "single",
+      "release_date": "2014-05-20",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e3e2f3844aaac31c4197058",
+      "uri": "spotify:album:7KEQxj2Ldsi30A6uL9y7Xf",
+      "name": "eternal frequencies: equinox remixes",
+      "album_type": "album",
+      "release_date": "2013-09-11",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1df9ba227b5d3d9a2b56828",
+      "uri": "spotify:album:334tIQsMqEUwChUAmaSwqr",
+      "name": "eternal frequencies; equinox",
+      "album_type": "single",
+      "release_date": "2013-04-01",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4bf1b32236d5035a304d742",
+      "uri": "spotify:album:1NMrEdPj244o8VS3ksHYYy",
+      "name": "altered states",
+      "album_type": "single",
+      "release_date": "2012-11-23",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732aa46492bb2fee7e36997ddf",
+      "uri": "spotify:album:3IiN6UbHoh5VnRbhmAxYJT",
+      "name": "astral projection",
+      "album_type": "single",
+      "release_date": "2012-05-19",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273055544df1d00c10da2b0f8e7",
+      "uri": "spotify:album:7xlUpydpdr0R1CHHAjBnSb",
+      "name": "sunburst",
+      "album_type": "single",
+      "release_date": "2011-09-08",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4debdcf68f0f0e82650efe1",
+      "uri": "spotify:album:3clculbWpvlEQbHkvNsDxR",
+      "name": "ancient machines",
+      "album_type": "single",
+      "release_date": "2011-08-26",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edb3765a0bb7b0f5092f66f2",
+      "uri": "spotify:album:7G8ZVxc5gyiQA91xNE4Ze3",
+      "name": "bass power (the frim remix)",
+      "album_type": "single",
+      "release_date": "2010-12-01",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bb4341a09df243329b69c66",
+      "uri": "spotify:album:57q1Mpny7wMvVudsxhWL04",
+      "name": "auger, arleen - the art of arleen auger: larsen, schumann, purcell, mozart",
+      "album_type": "album",
+      "release_date": "1993-09-17",
+      "release_year": "1993",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "39gp1NxfhmLEyvNggMH4xg",
+          "name": "arleen auger"
+        },
+        {
+          "spotify_id": "3jxdSLcrsurRKoGzDn8l8i",
+          "name": "members of the st. paul chamber orch."
+        },
+        {
+          "spotify_id": "4XIIdT0K7u7d1Tz5Vfx0JG",
+          "name": "minnesota"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:40.000Z"
+}

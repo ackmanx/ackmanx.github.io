@@ -1,0 +1,853 @@
+{
+  "name": "ice paper",
+  "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+  "uri": "spotify:artist:35kMWGEVOOesE5U0CdP3Zo",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb027555722f36d9eb48d8f3bc",
+  "genres": [
+    "chinese r&b",
+    "chinese hip hop",
+    "c-pop",
+    "mandopop",
+    "gufeng"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368b3751ae22fce4fad69c375",
+      "uri": "spotify:album:2VH8gHm2uyPKRkSbJSZttQ",
+      "name": "月牙兒",
+      "album_type": "single",
+      "release_date": "2026-06-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db94c39f4689e160ccb05e22",
+      "uri": "spotify:album:5aWiOQOxEB7YCILweMiT3K",
+      "name": "鬼火獵人",
+      "album_type": "album",
+      "release_date": "2025-09-06",
+      "release_year": "2025",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edd1e3dcd361dc9ca650a692",
+      "uri": "spotify:album:1YQh4Fv2bvgpRohL7gBx6J",
+      "name": "河畔少年（紀錄片《我的家鄉我的河》主題曲）",
+      "album_type": "single",
+      "release_date": "2025-01-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0uAzttC80C43KjtN8HAYLQ",
+          "name": "王笠人"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1da222a3ba3a6caa31a38d4",
+      "uri": "spotify:album:50sI0julm2nWru7UPiRN52",
+      "name": "咿呀",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273897e69569f3743b1a872cddf",
+      "uri": "spotify:album:7KnUMTjIKfJVpsiefYK6ct",
+      "name": "孤獨的說唱歌手",
+      "album_type": "single",
+      "release_date": "2024-05-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fb60f1908d6da57a8daac59",
+      "uri": "spotify:album:40kSATo6uVkSaz6amX4fNq",
+      "name": "城裡的月光",
+      "album_type": "single",
+      "release_date": "2024-04-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "190bkHbFrRvEhcB7Zpuv3y",
+          "name": "waa wei"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273121035aa84160f4ba260fef6",
+      "uri": "spotify:album:5p2JhmZP7oMkqgCoCuKAs6",
+      "name": "開關",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "63tzlZxY9iaOeUnmGfwlyA",
+          "name": "sue"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaa47a8ee7f978b5c6d02256",
+      "uri": "spotify:album:4oGw8PtqICB6letgDrCU0A",
+      "name": "人",
+      "album_type": "single",
+      "release_date": "2024-01-11",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0uAzttC80C43KjtN8HAYLQ",
+          "name": "王笠人"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae42786d22e3cf193fd694d",
+      "uri": "spotify:album:4hxE6ubWIxXeitCdayBvNp",
+      "name": "樓頂",
+      "album_type": "single",
+      "release_date": "2023-05-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "2vyNonIT5ojQBgGIf5cWAa",
+          "name": "lil howcy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c476a3b02c54d9fd5ab65e2b",
+      "uri": "spotify:album:37NsZJdhr16nu70mLPnLq0",
+      "name": "若把你",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0XhIMmymK22yhm1mR56RGB",
+          "name": "kirsty刘瑾睿"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db2ac94d5af43746d537c1e1",
+      "uri": "spotify:album:2bcAU7PtH7aIY0PkPCJz7g",
+      "name": "水之幻想",
+      "album_type": "album",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cafed1902e1a9c35bb249d5",
+      "uri": "spotify:album:70BcmGNbM9uQK9ae3H2dpu",
+      "name": "黑洞之内",
+      "album_type": "single",
+      "release_date": "2022-12-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364166d0d249a0d89a0e8b2bf",
+      "uri": "spotify:album:2DaW3o6WHSva2716eFug7d",
+      "name": "地球最后一夜",
+      "album_type": "single",
+      "release_date": "2022-08-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6NhOMjzAYCjDFoLZ8mIyUg",
+          "name": "孤矢"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "3XhGQMBFEqucbYgN2VnEzs",
+          "name": "颠倒"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa26f62043bb62f74586394b",
+      "uri": "spotify:album:31ZerkXcWivmZqi1DwsEuP",
+      "name": "刀山火海",
+      "album_type": "single",
+      "release_date": "2022-05-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "2vyNonIT5ojQBgGIf5cWAa",
+          "name": "lil howcy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730209612d07edfa4854fda89c",
+      "uri": "spotify:album:0isJfwPLChJ5Wypi4ZYMll",
+      "name": "伏特加",
+      "album_type": "single",
+      "release_date": "2022-05-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f02bb1db86b0746bf23e985",
+      "uri": "spotify:album:1l8FiW2PBCStzsiQPtLvYR",
+      "name": "刺",
+      "album_type": "single",
+      "release_date": "2022-03-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "677jnsQUBLTq5YiPIjiZta",
+          "name": "高天佐trouble.z"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374a9328297cd1023a81b9ab9",
+      "uri": "spotify:album:4LKQsjudTGTVLzcKtjTZnH",
+      "name": "虛擬童話",
+      "album_type": "single",
+      "release_date": "2021-12-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "5O7OLxr1egMXJYPIEaHajv",
+          "name": "tiffany"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399ce02ad7a9881dd7a1e08ef",
+      "uri": "spotify:album:1ez7eld44txQtx2VSjf9su",
+      "name": "金陵九歌",
+      "album_type": "album",
+      "release_date": "2021-09-09",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302285af052f0e7c4ed763cf4",
+      "uri": "spotify:album:4ozJx9SVcv6USxWma8R5vb",
+      "name": "不死鳥",
+      "album_type": "single",
+      "release_date": "2021-05-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebb49b8919e537bc3578daff",
+      "uri": "spotify:album:7abE0CPNSSeS9TQXlnE2Bi",
+      "name": "冷門",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388be7392db4900b730949a17",
+      "uri": "spotify:album:7MXVaGvvwomKOjwhVdfwbO",
+      "name": "斷水流",
+      "album_type": "single",
+      "release_date": "2020-11-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399ba6935d147e15b437e30d8",
+      "uri": "spotify:album:6a24QulehUlQHV7hvvhuXV",
+      "name": "核能時代",
+      "album_type": "single",
+      "release_date": "2020-08-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730263f8a72959732a035af72d",
+      "uri": "spotify:album:5UUALKNK8eZfvn1MgP76hU",
+      "name": "小白船",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355f78e09f5c0dac071ddf5cc",
+      "uri": "spotify:album:5w1W2J85fTXBt38DJhdyLP",
+      "name": "寒木居士",
+      "album_type": "album",
+      "release_date": "2020-06-09",
+      "release_year": "2020",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f771d6f043c9e1d661b9e2f",
+      "uri": "spotify:album:0ZRysXGLtaFyCveKWTEIbR",
+      "name": "排雲掌",
+      "album_type": "single",
+      "release_date": "2020-03-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bbd262f417d0d622b577513",
+      "uri": "spotify:album:1mDURVoWD98N2ncAU3f7h6",
+      "name": "一擊男",
+      "album_type": "single",
+      "release_date": "2020-03-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c169d5f1e2c6adf20edf2173",
+      "uri": "spotify:album:7L36Idt4X4DwokIV3p0w14",
+      "name": "真實電視",
+      "album_type": "single",
+      "release_date": "2020-03-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a25fb44dedac975ab7553ac9",
+      "uri": "spotify:album:5JScGHLhdWF7bVZV9mvgXT",
+      "name": "冰雹",
+      "album_type": "single",
+      "release_date": "2020-02-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1476a2687356143966691d3",
+      "uri": "spotify:album:7pK1EoPcyW3m2mSxT0Iz8y",
+      "name": "人與自然<百般折磨>",
+      "album_type": "single",
+      "release_date": "2020-02-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa2407b9069ae47494037cbd",
+      "uri": "spotify:album:7go85UYEO0mRHCL3SHT7fH",
+      "name": "人與自然<止痛藥片>",
+      "album_type": "single",
+      "release_date": "2020-02-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a0f33e817139837cc9a3e78",
+      "uri": "spotify:album:5p5RpEzZHDtGrdhdoSusFq",
+      "name": "人与自然",
+      "album_type": "album",
+      "release_date": "2019-12-26",
+      "release_year": "2019",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273172c1ea57a8129db5c1d1771",
+      "uri": "spotify:album:6M3xMlcnPjnoGWxAJk7pyf",
+      "name": "超能力",
+      "album_type": "single",
+      "release_date": "2019-12-26",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d50f867654a86052d674744d",
+      "uri": "spotify:album:4axaOOIvErRwj430IztmdM",
+      "name": "we don't need a break",
+      "album_type": "single",
+      "release_date": "2019-12-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "1iGjr5UTUwanrkWu2H5GGX",
+          "name": "free-out"
+        },
+        {
+          "spotify_id": "15qd0rEeuIAY9LmYE5yXgz",
+          "name": "round2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2235ef8fd546f8cc4810c7e",
+      "uri": "spotify:album:2Tmzs5Ar6txRD7Aa7VhoTZ",
+      "name": "荒",
+      "album_type": "single",
+      "release_date": "2019-11-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8646fced01e6a584d71b1f0",
+      "uri": "spotify:album:4CVXwkrdbDALlo3uL5PlGd",
+      "name": "无雨",
+      "album_type": "single",
+      "release_date": "2019-10-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2vyNonIT5ojQBgGIf5cWAa",
+          "name": "lil howcy"
+        },
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a81c356b384a120bd59c38",
+      "uri": "spotify:album:6Zu1dWpTI0QihBdfQF1zKY",
+      "name": "失眠",
+      "album_type": "single",
+      "release_date": "2019-07-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273120b387757d242e3dff3f1c5",
+      "uri": "spotify:album:2mWhKJQeDqPOjXc6r74WXX",
+      "name": "777",
+      "album_type": "single",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273239a6fc2631a01ecac2cd99a",
+      "uri": "spotify:album:3dOvgGMFHT6nafkWxfUDBH",
+      "name": "心如止水",
+      "album_type": "single",
+      "release_date": "2019-04-18",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad8ce94bb8e01416cdbdb7f5",
+      "uri": "spotify:album:0wKKJLCOPLMITOdn5iBYgV",
+      "name": "成語接龍",
+      "album_type": "album",
+      "release_date": "2019-01-29",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7ff926aa81a38aa1d13b517",
+      "uri": "spotify:album:2YWJ9luSuCrkLuh3oiqDn2",
+      "name": "成語接龍",
+      "album_type": "single",
+      "release_date": "2019-01-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9c12af6dcfb06a42ca25686",
+      "uri": "spotify:album:1KXFiwE3am1fqxUHzr185e",
+      "name": "殺手修煉手冊",
+      "album_type": "single",
+      "release_date": "2019-01-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309d8294ebe379a589006391c",
+      "uri": "spotify:album:4AUBOD6yh4UzdQO3EPlRPK",
+      "name": "海之彼岸",
+      "album_type": "single",
+      "release_date": "2018-12-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273119e1bdbdbb5b7b6d438f1f3",
+      "uri": "spotify:album:6WLsUunOY7n7l68bL5y7Ov",
+      "name": "食色性也",
+      "album_type": "album",
+      "release_date": "2018-11-01",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de560b3bbf1c8458170306a1",
+      "uri": "spotify:album:1KMngYji2xbXL32KyRFHkG",
+      "name": "某人",
+      "album_type": "single",
+      "release_date": "2018-07-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "6a0zQJ8Wlv6NG6RlWG6iUK",
+          "name": "wizi."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273162337657fc37b7b0bf6a28a",
+      "uri": "spotify:album:0qlDQobPsp5kXiwltZmghP",
+      "name": "中间人",
+      "album_type": "single",
+      "release_date": "2018-07-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730003da518bbf879c08fa1e9c",
+      "uri": "spotify:album:31ErwUVUal6qKGRSkNwaju",
+      "name": "罗生门",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333aea399c701f55009035f7f",
+      "uri": "spotify:album:2DCqVkTQgCfossqEGk3EGs",
+      "name": "十二猴子",
+      "album_type": "single",
+      "release_date": "2018-03-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c3503fea3c7f81a431196de",
+      "uri": "spotify:album:14atDyIVDxm8lRdtrPAUVS",
+      "name": "caught my love",
+      "album_type": "single",
+      "release_date": "2018-01-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "4PQ9amn4KmwwX3UP5zCeig",
+          "name": "round_2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffa34d3d552c49547b809984",
+      "uri": "spotify:album:4JySUaf9bW3cQ48cO87btT",
+      "name": "mr.friday",
+      "album_type": "single",
+      "release_date": "2017-12-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "2vyNonIT5ojQBgGIf5cWAa",
+          "name": "lil howcy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0eb105290cd8e59b07ce70c",
+      "uri": "spotify:album:53IfKzmAQt00Qg0dDbeqY5",
+      "name": "一个样",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        },
+        {
+          "spotify_id": "3fS3fGsf7MsUkQVP9q3SiH",
+          "name": "trouble.z"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273871540339a13f97ee1203f50",
+      "uri": "spotify:album:5RUkurXbztDecA7HMkqTqQ",
+      "name": "灬",
+      "album_type": "single",
+      "release_date": "2017-11-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35kMWGEVOOesE5U0CdP3Zo",
+          "name": "ice paper"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:44.000Z"
+}

@@ -1,0 +1,825 @@
+{
+  "name": "swedish house mafia",
+  "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+  "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9614fcf985ad6fc5b4a7c3de",
+  "genres": [
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d57f7905de150af98b4ead57",
+      "uri": "spotify:album:4WLLacwBaBRtV0qOzpFPMW",
+      "name": "happiness is so sad",
+      "album_type": "single",
+      "release_date": "2026-07-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "6oBm8HB0yfrIc9IHbxs6in",
+          "name": "lykke li"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d62c57df0ac82a64890bfad",
+      "uri": "spotify:album:0mV7z6sxHvU3Cm3gCJRVJQ",
+      "name": "wait so long (why do i have to) [agents of time remix]",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "6Jbyd4qzEtbFtswZP1o6Ht",
+          "name": "agents of time"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c13e832ed3dea6002973fb0",
+      "uri": "spotify:album:26xNafbC2ESdSmzYMsr0S0",
+      "name": "wait so long (why do i have to) [re\\mind remix]",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "3V9dIUKIoVArPUrt30P4XX",
+          "name": "re\\mind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab717fcef91fa63b3a88614",
+      "uri": "spotify:album:0TfBtWtEYpSyUBTV4Gpn0e",
+      "name": "wait so long (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375a97c811d77a55c74cc0d8e",
+      "uri": "spotify:album:4iJYUempAYp2xtPrUX5qKl",
+      "name": "wait so long (why do i have to)",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1eb8a92108c01c53ea03959",
+      "uri": "spotify:album:0XTZvzer3KdFbsIx7YDgfg",
+      "name": "finally (remixes)",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "3DiDSECUqqY1AuBP8qtaIa",
+          "name": "alicia keys"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347e8371e39ce2c4ef58c60bc",
+      "uri": "spotify:album:5UdlVNeKvUDoaNmy9fhhft",
+      "name": "finally",
+      "album_type": "single",
+      "release_date": "2024-08-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "3DiDSECUqqY1AuBP8qtaIa",
+          "name": "alicia keys"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273447c2c242c364984a70c94b0",
+      "uri": "spotify:album:5VLQlvq14IiqQvLLQts7cj",
+      "name": "finally (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-08-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342dcf98bfeb44209316a7e5a",
+      "uri": "spotify:album:3PXHFsTDpYQyQe31jilqYr",
+      "name": "lioness (argy remix)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4hiLNlqr4vQdiuo1aQKSXS",
+          "name": "niki & the dove"
+        },
+        {
+          "spotify_id": "1NaQOKgddaJipUtmptb7GI",
+          "name": "argy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bc9ec58e3cf9b029b9371e9",
+      "uri": "spotify:album:3M4JloqZM4lhiM2TTEaeNf",
+      "name": "lioness (francis mercier remix)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4hiLNlqr4vQdiuo1aQKSXS",
+          "name": "niki & the dove"
+        },
+        {
+          "spotify_id": "44qAhQu52dYKcHOFQd3esf",
+          "name": "francis mercier"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732910ba339ea76aa6321dbee5",
+      "uri": "spotify:album:2IG3XIcW8Vzk6rWJh0UU2u",
+      "name": "lioness",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4hiLNlqr4vQdiuo1aQKSXS",
+          "name": "niki & the dove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4b8ee5ed1e005d842fe9946",
+      "uri": "spotify:album:2Ns65Eu5fihwvjwgwFcIrV",
+      "name": "lioness (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4hiLNlqr4vQdiuo1aQKSXS",
+          "name": "niki & the dove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273944e26202c6eb34a0f0d1b10",
+      "uri": "spotify:album:4AqQOomN8HsGJCM4gx9e6f",
+      "name": "ray of solar (b side edit)",
+      "album_type": "single",
+      "release_date": "2023-11-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393e80a0a2aba6e4653608aec",
+      "uri": "spotify:album:2wu3YZ0c80fgq9IcKhyDHH",
+      "name": "ray of solar (tiësto remix)",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb3832e7d536140398a243ed",
+      "uri": "spotify:album:42R9yItwNGM4B7dUnJQFW2",
+      "name": "ray of solar (anfisa letyago remix)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "7icoOm5fKKPo49jVxoj1Cq",
+          "name": "anfisa letyago"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733757812e5ccb7693d50b4305",
+      "uri": "spotify:album:70g6yAvShyriEefcuLiXxh",
+      "name": "ray of solar (mau p remix)",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "0w1sbtZVQoK6GzV4A4OkCv",
+          "name": "mau p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318a85ed4631270e1ea8b30d4",
+      "uri": "spotify:album:4LCdaNUBthKh1YeP7ouz7k",
+      "name": "ray of solar (alex wann & sasson remix)",
+      "album_type": "single",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7e3d3e58f2ad63a523075e0",
+      "uri": "spotify:album:4oKQeboZg2r2GVkCCZ4iFR",
+      "name": "ray of solar",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b7e47602eb846dfec7fd3c",
+      "uri": "spotify:album:235jLMet5mD21OIha0Q3av",
+      "name": "paradise again: the live album",
+      "album_type": "album",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8eef5ea3ca4025edfdb1c07",
+      "uri": "spotify:album:7BdKpDmPu8bUkHULFZp1Zi",
+      "name": "see the light",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6eb12578ce789d88173fc27",
+      "uri": "spotify:album:12QReDIwdko6xhcWoE1x93",
+      "name": "can u feel it (kodat remix)",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "1UA9ppk2wZSheAkpVil31J",
+          "name": "kodat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f525a2a84e7851b68bd3b31",
+      "uri": "spotify:album:2cCsdKjXUh5sA0HIAwEgot",
+      "name": "antidote (belgium edit)",
+      "album_type": "single",
+      "release_date": "2023-01-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9f65b670e56b16df72c14d6",
+      "uri": "spotify:album:4NGz0eu29SZV4CeJBgPLeg",
+      "name": "miami 2 ibiza (paradise again edit)",
+      "album_type": "single",
+      "release_date": "2023-01-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4d877a8cf1f2a8181aace06",
+      "uri": "spotify:album:1aXvq3aMIfaoYNAFxHGozB",
+      "name": "heaven takes you home (jacques lu cont remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4SINYGzldpKMExpCjseS9o",
+          "name": "jacques lu cont"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736600c4d2d25fa39b9071ef0f",
+      "uri": "spotify:album:71yJ0XH2iQA1uOk5CE95fx",
+      "name": "turn on the lights again.. (feat. future & fred again..) [remixes]",
+      "album_type": "single",
+      "release_date": "2022-09-12",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300e47322c16cb65d9a3b07bb",
+      "uri": "spotify:album:5uJJDoI0Kr5mmJKrPsStug",
+      "name": "turn on the lights again.. (feat. future & fred again..) [solomun remix]",
+      "album_type": "single",
+      "release_date": "2022-09-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "5wJK4kQAkVGjqM9x46KQOC",
+          "name": "solomun"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325e84fc62754a04ad6689805",
+      "uri": "spotify:album:7c65OgN46PvxnhD5vrEjGJ",
+      "name": "heaven takes you home (alternative mix)",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a812bacdaf59e037372e9336",
+      "uri": "spotify:album:0lyIECV269U9MTTCc3gOkC",
+      "name": "moth to a flame (adriatique remix)",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "02DWGcShQivFepRvGJ7xhB",
+          "name": "adriatique"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5906c7ef4a19e3d394f732c",
+      "uri": "spotify:album:2jiMeC1iUWVYmvXSIiO8ks",
+      "name": "turn on the lights again.. (feat. future)",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "fred again.."
+        },
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfa50e0627da41296bbc1451",
+      "uri": "spotify:album:2ARh3q995xuAJ9zomXKUNp",
+      "name": "heaven takes you home (moojo remix)",
+      "album_type": "single",
+      "release_date": "2022-07-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "4bU2sBWgXJtViut3q68o5m",
+          "name": "moojo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f9745f0399e60d84012ca7b",
+      "uri": "spotify:album:5MqjuaoBFvIlKA54h5BP7q",
+      "name": "heaven takes you home (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d9c6b5aaecc489038ed6bf8",
+      "uri": "spotify:album:7jWTA5wpKGcCWhSDTb6t4J",
+      "name": "can u feel it (brooklyn edit)",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaf1fcf8ef8a83441f36db99",
+      "uri": "spotify:album:61qsISJgeDXNNddKh9hDYb",
+      "name": "heaven takes you home (shm remake)",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d",
+      "uri": "spotify:album:2Dbe9L757CSQbhnbW5PVSH",
+      "name": "paradise again",
+      "album_type": "album",
+      "release_date": "2022-04-15",
+      "release_year": "2022",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1d146bde876bf560eb1a089",
+      "uri": "spotify:album:0sye9Q82C9Q4tTJN8b0aFq",
+      "name": "moth to a flame",
+      "album_type": "single",
+      "release_date": "2022-01-04",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "the weeknd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366858daca33990b506aa62d0",
+      "uri": "spotify:album:17cYF29ZBcDYoRkWUzFWfQ",
+      "name": "moth to a flame (moojo remix)",
+      "album_type": "single",
+      "release_date": "2022-01-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "the weeknd"
+        },
+        {
+          "spotify_id": "4bU2sBWgXJtViut3q68o5m",
+          "name": "moojo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b732deccb4a2cacc54cd008",
+      "uri": "spotify:album:4s7mDhDagSLPdw6GEka23m",
+      "name": "one symphony",
+      "album_type": "single",
+      "release_date": "2022-01-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "0P9g1ss8CfLwU62fzm8Ldf",
+          "name": "jacob mühlrad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cfe80c0c05ce104f7bab18e",
+      "uri": "spotify:album:3RKhRsifs4RWrqvWV1YpPY",
+      "name": "don't you worry child",
+      "album_type": "single",
+      "release_date": "2012-09-14",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "2auikkNYqigWStoHWK1Grq",
+          "name": "john martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f8230f06682f5326050dba3",
+      "uri": "spotify:album:3f8AVasr9bKad1wuiGmoiR",
+      "name": "don't you worry child (joris voorn dub)",
+      "album_type": "single",
+      "release_date": "2012-09-12",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9877df6e82ab7a6950e0d55",
+      "uri": "spotify:album:13pZenZfNOWlZc98ZazYSV",
+      "name": "don't you worry child (remixes)",
+      "album_type": "single",
+      "release_date": "2012-09-12",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738997747ca2022f8b311a770f",
+      "uri": "spotify:album:0IaSHcgwFych3YIScdBDyW",
+      "name": "until now",
+      "album_type": "album",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395696945285b5f317c6f8445",
+      "uri": "spotify:album:728voOLBbJUBgK2vooghcS",
+      "name": "save the world",
+      "album_type": "single",
+      "release_date": "2011-05-13",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398286cdaf74530fb6d5708cb",
+      "uri": "spotify:album:4lgZt3Eh34EqYy1SF7PuEi",
+      "name": "antidote",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "knife party"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738328b09a5db3a9a4eb7e2b6c",
+      "uri": "spotify:album:7kYHK7Vr4BLSiFWauoKgxE",
+      "name": "save the world (the remixes)",
+      "album_type": "single",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4da0883b9edd33b5b2ceabf",
+      "uri": "spotify:album:5aLY2ivPGXvFX770ihBnmd",
+      "name": "one (your name)",
+      "album_type": "single",
+      "release_date": "2010-07-23",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9271d08064fbdf4b44103ad",
+      "uri": "spotify:album:5RnD4zrXLU9vs0J81mTqu6",
+      "name": "miami 2 ibiza",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df84a4444fbae070cb5b4591",
+      "uri": "spotify:album:76bVYnArmuHDFGVijfzUef",
+      "name": "miami 2 ibiza",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1h6Cn3P4NGzXbaXidqURXs",
+          "name": "swedish house mafia"
+        },
+        {
+          "spotify_id": "0Tob4H0FLtEONHU1MjpUEp",
+          "name": "tinie tempah"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:39.000Z"
+}

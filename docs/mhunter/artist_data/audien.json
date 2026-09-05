@@ -1,0 +1,1882 @@
+{
+  "name": "audien",
+  "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+  "uri": "spotify:artist:4xnMDfgEmXZEEDdITKcGuE",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebdc41520ab6e466a1029e4fd2",
+  "genres": [
+    "edm",
+    "progressive house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324cc1544c803c20fbfc7052f",
+      "uri": "spotify:album:6NA93qFvs17J7ocjnryQz9",
+      "name": "high hopes (krakota remix)",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "6NkoAm5Dd1wguz0ATgZKlF",
+          "name": "krakota"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356154bd0ab0d9a25066035ae",
+      "uri": "spotify:album:0gZku9jgxUsWqDbjsLiNd0",
+      "name": "high hopes (remixes)",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4ukUyiEoZi8QxibfjuUsEw",
+          "name": "shaun farrugia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736acc3c21c337c88cc3a435e9",
+      "uri": "spotify:album:2Wb05jzBQLCwLdaYhrsYtv",
+      "name": "high hopes (steerner remix)",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1TMa2M8BSbJP1rqX83wALz",
+          "name": "steerner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caa01c985b5bb5a82ac3a3e4",
+      "uri": "spotify:album:0PPkKsSFTD42b1FFKyo6Zc",
+      "name": "high hopes (oncor remix)",
+      "album_type": "single",
+      "release_date": "2026-07-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "63xSD9oz9Y7hM7HXCSEydX",
+          "name": "oncor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346cd963bc35dc974aa93a081",
+      "uri": "spotify:album:5MqJh7SqNjyPGgDAQ1l3gK",
+      "name": "high hopes",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4ukUyiEoZi8QxibfjuUsEw",
+          "name": "shaun farrugia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273280c8b6696f252fdd887aa6f",
+      "uri": "spotify:album:33AKDLQBUKjg8Dcedi6iwm",
+      "name": "sacrifice (remixes)",
+      "album_type": "single",
+      "release_date": "2026-06-24",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b88bfdc696efcfbf9d94e2b5",
+      "uri": "spotify:album:6CyP0jRWkcV7KUP8dHyV2P",
+      "name": "sacrifice (emrys remix)",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4PZde7SBCGPIU6Zggn60OU",
+          "name": "emrys"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734617407e76224a20523a687c",
+      "uri": "spotify:album:6pVIriQjN9haudjRFELfrU",
+      "name": "sacrifice (lindsey stirling remix)",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "378dH6EszOLFShpRzAQkVM",
+          "name": "lindsey stirling"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c38c945377c654d771c8b969",
+      "uri": "spotify:album:4PpJLPlhAkeuA7dHFjSp1M",
+      "name": "sacrifice (lonely in the rain remix)",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "42KUul1wLmOdQCEYf3MweS",
+          "name": "lonely in the rain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273360fe282a9c39f5e1d5f1e30",
+      "uri": "spotify:album:0k4HRDI2heHd47Yfa1qara",
+      "name": "sacrifice (matrix & futurebound remix)",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "41iVQ05he8SrfIWbZQ58N7",
+          "name": "matrix & futurebound"
+        },
+        {
+          "spotify_id": "1HxzLy3xmo2yu77YUnAXgF",
+          "name": "matrix"
+        },
+        {
+          "spotify_id": "2Vqj1e2oloOKNqAT2gpoa5",
+          "name": "futurebound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9745c8b9a2a448d788b5034",
+      "uri": "spotify:album:6FIcuaZe4x4NU6JHrSIA1l",
+      "name": "sacrifice",
+      "album_type": "single",
+      "release_date": "2026-04-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "0czTwfZBBvlvlOiypvDvwe",
+          "name": "sam harper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a419aa424457ddc597048405",
+      "uri": "spotify:album:2XINs7peEDuvWsYMHNrnuy",
+      "name": "in every life (remixes)",
+      "album_type": "single",
+      "release_date": "2026-03-04",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6523b6e583313271441d2b1",
+      "uri": "spotify:album:1l2UBEBF9noI4Xtv206kvQ",
+      "name": "in every life (falden remix)",
+      "album_type": "single",
+      "release_date": "2026-03-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "6O5LAkus9iGG1vvMGu5mDo",
+          "name": "falden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273685098a48d74ac30307d1586",
+      "uri": "spotify:album:27OzHVG0dtEa2q6G1JWJKn",
+      "name": "in every life (koven remix)",
+      "album_type": "single",
+      "release_date": "2026-03-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3UCbp6D1lvILlxRJT9LnFa",
+          "name": "koven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0c15a86a73c40525cca49da",
+      "uri": "spotify:album:2fNiVtBrfi1G7Zc09Y2T4g",
+      "name": "in every life (silk version)",
+      "album_type": "single",
+      "release_date": "2026-03-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "01epL9hgF4G7guGkrnzR8a",
+          "name": "silk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c13c8924c23b97bb85f9925a",
+      "uri": "spotify:album:0xEjOYGalNW8eguoP9E6Bo",
+      "name": "in every life",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737545bb3ad6e8000d2fde887a",
+      "uri": "spotify:album:3SID4s2PWtKwG6T6A0iXqT",
+      "name": "one last dance",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "01epL9hgF4G7guGkrnzR8a",
+          "name": "silk"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bfe18fdc986fd1d1f761284",
+      "uri": "spotify:album:2wjn9mkCYKbfLzqPOGk9nP",
+      "name": "first love",
+      "album_type": "album",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c872cc01f800ac902a2babb",
+      "uri": "spotify:album:7Ha2Rt4oGxTWPEJYJt1tzg",
+      "name": "make me forget",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4utLUGcTvOJFr6aqIJtYWV",
+          "name": "skylar grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273725910e856ee0cb773f899a7",
+      "uri": "spotify:album:4Xi6uh4GOCzw7nl1EVpOKK",
+      "name": "i see you",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273362800f7e683d491fce8e60c",
+      "uri": "spotify:album:5wrYrywBsHkGIekBoScfG8",
+      "name": "love again",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7vWC03wqXwUqjPON8hc1tz",
+          "name": "telykast"
+        },
+        {
+          "spotify_id": "2s8bgT1CE6KOA0a2omeCDk",
+          "name": "lilly ahlberg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d02495a25a21d790b4ce41b",
+      "uri": "spotify:album:1l8LhEYHqO23fBaHyMJU8u",
+      "name": "it's okay",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        },
+        {
+          "spotify_id": "1WPEvpdkTpcT5R976cTAFJ",
+          "name": "ryvm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae5b3ba29f281464bc4baac5",
+      "uri": "spotify:album:22Vl5jbjhUKr5N2uWBX8KA",
+      "name": "lose it all",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "147kOGOemXIO7HPzrwoYSC",
+          "name": "rory hope"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300ff90d8e12d8536ad019a54",
+      "uri": "spotify:album:1lOXFpDfRnpr6MVkANJUs8",
+      "name": "slide away",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "makj"
+        },
+        {
+          "spotify_id": "4dHGNdVhBxCJUyMk9dR727",
+          "name": "julia church"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733450175d8cf81c807019fb99",
+      "uri": "spotify:album:2EdbXpXzHbNNn7zCgx8qs8",
+      "name": "leaving you",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "34q9Zt0mBwYXGMeRq9m94u",
+          "name": "summer is calling"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3jbqK4VihAncvAJWgcidZG",
+          "name": "m.bronx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733de4fe784f1c07b6342f6eea",
+      "uri": "spotify:album:2C2x4hNaL2w1uzwA4kqYsE",
+      "name": "one more thing",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        },
+        {
+          "spotify_id": "2XYDrXOdwhRiGSgo8NWKFW",
+          "name": "sara davis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736051759e29a340b5607fda03",
+      "uri": "spotify:album:2YBVdVWIfh2qMHIwczlmdE",
+      "name": "bittersweet",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7C3Cbtr2PkH2l4tOGhtCsk",
+          "name": "shallou"
+        },
+        {
+          "spotify_id": "6kDXH8d9LugUAsHIozzDAI",
+          "name": "rosie darling"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377eae18903683461bbdb36d3",
+      "uri": "spotify:album:2G8OZPlwKrzWxkEEfWbbFV",
+      "name": "cold",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "0k3dnuEr9LghUE4jxS0PT4",
+          "name": "fred v"
+        },
+        {
+          "spotify_id": "1X2sRzO3K7Uvry9JWbG2iO",
+          "name": "oaks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b444d0aad619ee7bfca14ef7",
+      "uri": "spotify:album:34c9VT0L8JNBwtOX0pAUzM",
+      "name": "so sad",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383b5390a2029a33beb107511",
+      "uri": "spotify:album:2mXd7GKfRyX2LyXMCmZKeE",
+      "name": "living in color",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "434nBUvWgd5pcPv2bmyKy4",
+          "name": "jeoff harris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dd92b9e9c1d081c7bb0853a",
+      "uri": "spotify:album:7saxVcuUbwQgQJzcgXy1yP",
+      "name": "21",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc4319f59de0700296afa34f",
+      "uri": "spotify:album:7lDSkdY847T3okpvwNrqvT",
+      "name": "one last dance (acoustic version)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e697d480a3660a365f89b712",
+      "uri": "spotify:album:6yPrbCNmo2dGEAN1VNZBb6",
+      "name": "superhero",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a16fbe735e1a04e6e53972b5",
+      "uri": "spotify:album:4BNrohSLaSA4ifKPJyzUts",
+      "name": "would you even know",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6fbIkBK4DW2IPnlKk9MLWS",
+          "name": "tia tia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d1a52959f3addcabf237aca",
+      "uri": "spotify:album:2eBWEtVvAtX1Ajoh0VKogz",
+      "name": "antidote",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0b0c74e2d61d79b19323fa8",
+      "uri": "spotify:album:4I4yBrnQO22XwUh0iUYiSO",
+      "name": "way back home",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3054cfac6b99fe7a0140bad",
+      "uri": "spotify:album:3WgmH7tOlVlAmGtRRlQpl7",
+      "name": "drifting away",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "6CfdbVxJuo31StQ21ffOer",
+          "name": "joe jury"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739746d439c5589e8ea0a53eb1",
+      "uri": "spotify:album:4KoLKfdhgex1PDrjfUriXJ",
+      "name": "one last dance (sound quelle remix)",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        },
+        {
+          "spotify_id": "5mdTuNl23tON1WlsVbvD18",
+          "name": "sound quelle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ac72f61ede31f87ea3a9adf",
+      "uri": "spotify:album:4MTSJjAoJdaaPFUjtm6n9g",
+      "name": "one last dance (farius remix)",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        },
+        {
+          "spotify_id": "76hZkywgIhbcrNft5bToXZ",
+          "name": "farius"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bd34cc237b29db57a164a2b",
+      "uri": "spotify:album:1oRTSVLcvqN8VHiLpX0wql",
+      "name": "one last dance (polar inc. remix)",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        },
+        {
+          "spotify_id": "5r2fdrpH44S8EdFXO4jWfI",
+          "name": "polar inc."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a3c2235f0b839b8ab13f53d",
+      "uri": "spotify:album:1AgyHcRwOcf0S0DahS869H",
+      "name": "one last dance",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7CWqlWlNqgpEYr4vwcVzCJ",
+          "name": "xira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e697807c31315dc2137601bc",
+      "uri": "spotify:album:0yAptgLu2ddA3kvK2gmzlr",
+      "name": "wish it was you (axis remix)",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3SHmKHBjw1ks5yXtblJWPn",
+          "name": "cate downey"
+        },
+        {
+          "spotify_id": "2KT7FKT1rFlBYXHzy91mjZ",
+          "name": "axis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ceb55d7fb03d02f9137f45e4",
+      "uri": "spotify:album:6KZhkn7ppeHwZrlaITEz6J",
+      "name": "wish it was you (nils hoffmann remix)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3SHmKHBjw1ks5yXtblJWPn",
+          "name": "cate downey"
+        },
+        {
+          "spotify_id": "6sOEMfvCfHQ9dhSWyamXVb",
+          "name": "nils hoffmann"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355d3fa8887a0f6424587ec63",
+      "uri": "spotify:album:75wWmFkPXHTTbw47RRvuvb",
+      "name": "wish it was you",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3SHmKHBjw1ks5yXtblJWPn",
+          "name": "cate downey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cff4d675fec641cd9d5d26d",
+      "uri": "spotify:album:77m2CAzG88DkuYbXZD6VM6",
+      "name": "blue",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a76d2756b04eeed92d97b701",
+      "uri": "spotify:album:442Ed4spkcuDL5gSFPwAjY",
+      "name": "learn to love again",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac9548570e26074e5dc1a252",
+      "uri": "spotify:album:3L0ADPRjqtXRhhkoPSV38d",
+      "name": "dropout boulevard (audien remix)",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0b59cVa1STVENq3i7wkcHV",
+          "name": "end of the world"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370483f11edd0d1896dfa04ae",
+      "uri": "spotify:album:4YhQOvQoCFymw2o7sAqNP5",
+      "name": "leaving you (riggi & piros remix)",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3jbqK4VihAncvAJWgcidZG",
+          "name": "m.bronx"
+        },
+        {
+          "spotify_id": "2paaWadjhhY3shymyR5TcH",
+          "name": "riggi & piros"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360e0d1f8a289ac36148fa9fe",
+      "uri": "spotify:album:1SWi9DbphPudi4WQ7UqEII",
+      "name": "audien presents: 20 years of anjunabeats",
+      "album_type": "album",
+      "release_date": "2021-03-04",
+      "release_year": "2021",
+      "total_tracks": 35,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7aqysYAN8bVjQuJSo9PyqR",
+          "name": "anjunabeats"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b2a1aaa7876687d935ce79f",
+      "uri": "spotify:album:2VhfltBV30bWQpHsYp9Drc",
+      "name": "craving",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "0mVpmPb8A2f3SZzLwsfY2N",
+          "name": "ellee duke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e6c2fb80b62732daf91222e",
+      "uri": "spotify:album:6IPU1eqHk5DMHdFEoUyUPd",
+      "name": "escapism remixes",
+      "album_type": "single",
+      "release_date": "2020-06-25",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f8e2750e21d37b2d54848a6",
+      "uri": "spotify:album:4eZSiWbzhWBfAY6vRR4bMP",
+      "name": "escapism",
+      "album_type": "album",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1f1e0420d0ff77020cdc01e",
+      "uri": "spotify:album:79K2y4PwKtvzdH123iq5kt",
+      "name": "favorite sound (remixes)",
+      "album_type": "single",
+      "release_date": "2019-05-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1PbBg2aYjWLKRk84zJK15x",
+          "name": "echosmith"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6a03e8093041d0be863e50d",
+      "uri": "spotify:album:1YP04hLFtYCzc3BYy7v4ne",
+      "name": "favorite sound",
+      "album_type": "single",
+      "release_date": "2019-03-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1PbBg2aYjWLKRk84zJK15x",
+          "name": "echosmith"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d374693d15af028f5061ed5b",
+      "uri": "spotify:album:4o3PixtntmntBCS06T6aKA",
+      "name": "rollercoaster",
+      "album_type": "single",
+      "release_date": "2018-11-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341118819e4ad330c109fd27f",
+      "uri": "spotify:album:7wufuX5VOkpdsAMxXIekGT",
+      "name": "never letting go",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738958425092ae7dc10947b6c5",
+      "uri": "spotify:album:7eHIJ9P6huqL2EitM5PUgr",
+      "name": "higher",
+      "album_type": "single",
+      "release_date": "2018-07-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1A1ZXMqcpElewwm16R0cmk",
+          "name": "cecilia gault"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273502b80c4cd8d198a91bba1c8",
+      "uri": "spotify:album:4uB6P6YyJNJMj0UNNTTJpU",
+      "name": "some ideas",
+      "album_type": "single",
+      "release_date": "2017-09-15",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273035e576d1217caa4c048c2b0",
+      "uri": "spotify:album:0pZNC0sTsuTIztOtpsarE4",
+      "name": "hot water (two friends remix)",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0be4d6cf7cf929981600d55",
+      "uri": "spotify:album:5DP1pPUViZFevYZLy5aJN0",
+      "name": "hot water (yookie remix)",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730786962ec11ec2de0a1f8de7",
+      "uri": "spotify:album:774RWDQgSumctbjqe5L17d",
+      "name": "hot water (3lau dnb remix)",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cab9b694335aa4c11f02fcee",
+      "uri": "spotify:album:3HtYhbSVkdUJYUPLVHHdFG",
+      "name": "one more weekend (it's different remix)",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "max"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335e5079730df4c015dfa30b1",
+      "uri": "spotify:album:5C5F2TaSY6JEkXNJuMI6AZ",
+      "name": "hot water",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "4YLQaW1UU3mrVetC8gNkg5",
+          "name": "3lau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273344d95430d92c16a32ceaec8",
+      "uri": "spotify:album:46gd3a0VDh86Y9Q1eoZc8F",
+      "name": "one more weekend",
+      "album_type": "single",
+      "release_date": "2017-03-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "max"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fce35b894d2acb4291b603c",
+      "uri": "spotify:album:2XDsmQ7XbaQV0bUrKZaYRs",
+      "name": "crazy love (moti remix)",
+      "album_type": "single",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0accc0ae0a77b858c9a1d01",
+      "uri": "spotify:album:3l5XYSM2pIwMagHgQ2zI0k",
+      "name": "crazy love (niko the kid remix)",
+      "album_type": "single",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e254de8ef4bcb0c30352c575",
+      "uri": "spotify:album:4Q68FnYm5mNmg8HGXsBGeF",
+      "name": "crazy love",
+      "album_type": "single",
+      "release_date": "2016-08-19",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3e29dc49e3a9575024a40ae",
+      "uri": "spotify:album:3EyXyBApHR3aGtHxRaCsJW",
+      "name": "something better (two friends remix)",
+      "album_type": "single",
+      "release_date": "2016-06-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733624d4a1bff72e4b2db4b16f",
+      "uri": "spotify:album:5Woaf8fOfXM9CaRdwjC8Ae",
+      "name": "something better (ferreck dawn remix)",
+      "album_type": "single",
+      "release_date": "2016-03-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7ee1690c54d662c71647333",
+      "uri": "spotify:album:5JTPMgCnmPCU26T6A0o1Jf",
+      "name": "something better (kayper remix)",
+      "album_type": "single",
+      "release_date": "2016-03-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387e22199cf65f3fd1c093e2f",
+      "uri": "spotify:album:5g44HnEOA44takolBd1xEc",
+      "name": "something better (mowe remix)",
+      "album_type": "single",
+      "release_date": "2016-03-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c99674ec176b804d7c6f846a",
+      "uri": "spotify:album:6j0o1ph1tPh0NCpcFI7GFl",
+      "name": "something better (alyson calagna extended mix)",
+      "album_type": "single",
+      "release_date": "2015-10-16",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273413c11227633ea6058a49a22",
+      "uri": "spotify:album:58WKY8Hq6ZnUifz2TXTBRB",
+      "name": "something better (shemce remix)",
+      "album_type": "single",
+      "release_date": "2015-10-16",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380759730b3c368fe54def1dd",
+      "uri": "spotify:album:5YAyfZ8ahc69f6bBjkdHkx",
+      "name": "daydreams",
+      "album_type": "single",
+      "release_date": "2015-08-28",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732495c30056e7d6f5720032da",
+      "uri": "spotify:album:2c4TLVEqnEEaOBv8wfOFzg",
+      "name": "insomnia (ashley wallbridge remix)",
+      "album_type": "single",
+      "release_date": "2015-06-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730afef8aa3c820b8e82542056",
+      "uri": "spotify:album:6fUKlvuJAjDSEkw9oWjmLJ",
+      "name": "insomnia",
+      "album_type": "single",
+      "release_date": "2015-03-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1113bb845d1a306ab33b1e4",
+      "uri": "spotify:album:4akgFjMxvSO4Ozm7VYd9VJ",
+      "name": "serotonin (radio mix)",
+      "album_type": "single",
+      "release_date": "2014-06-30",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "1mU61l2mcjEFraXZLpvVMo",
+          "name": "matthew koma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731abe7601e819376764e6fabd",
+      "uri": "spotify:album:4vV3cPaPTwQT7yw5J6kZF9",
+      "name": "hindsight",
+      "album_type": "single",
+      "release_date": "2014-05-19",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326f8001b0c7191ef28e00448",
+      "uri": "spotify:album:3GsGTAm45Gc6I8klSz0JZy",
+      "name": "elysium (radio edit)",
+      "album_type": "single",
+      "release_date": "2014-01-17",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6eae5738c67d6e20117f5a9",
+      "uri": "spotify:album:6kBEqAAhpa0Dg2hg05MFE2",
+      "name": "circles",
+      "album_type": "single",
+      "release_date": "2013-12-16",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "5FstVfk3PrX8URfpjUjqcp",
+          "name": "ruby prophet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739973336fbd241af5a334a6e2",
+      "uri": "spotify:album:06wngxHMJd8kIjtAwcxFkh",
+      "name": "leaving you (remixes - part 1)",
+      "album_type": "single",
+      "release_date": "2013-10-28",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3jbqK4VihAncvAJWgcidZG",
+          "name": "m.bronx"
+        },
+        {
+          "spotify_id": "66MrdPDHTjnnMOTBmC81q5",
+          "name": "thomas newson"
+        },
+        {
+          "spotify_id": "66B0qssqmVQXJGf9cmTNKi",
+          "name": "david gravell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273130d6da0d97f271f559ef8b5",
+      "uri": "spotify:album:0Xycmzpu47BlMfZh5rZist",
+      "name": "iris",
+      "album_type": "single",
+      "release_date": "2013-07-29",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334e7b6aaf5968ae2adda75f0",
+      "uri": "spotify:album:0OvhNdyqEFaZwFAWlONzCe",
+      "name": "ciao",
+      "album_type": "single",
+      "release_date": "2013-06-17",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f5c7befd2a4f826bca922d5",
+      "uri": "spotify:album:1QkRNSPk2pDxzILcU14yBG",
+      "name": "leaving you",
+      "album_type": "single",
+      "release_date": "2013-02-18",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "3jbqK4VihAncvAJWgcidZG",
+          "name": "m.bronx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ce44f4f8fc86288c562fc69",
+      "uri": "spotify:album:0yV1TBG5KQbdEWvyBZrOwK",
+      "name": "wayfarer",
+      "album_type": "single",
+      "release_date": "2013-02-11",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273993112cb8c10d7205eddfce8",
+      "uri": "spotify:album:498moBjllYQxC8IvQy6Gts",
+      "name": "sup",
+      "album_type": "single",
+      "release_date": "2012-12-10",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db9987ff6e3a91dbd05f6692",
+      "uri": "spotify:album:4EFqmEkmSUfmSAJiRIBIAE",
+      "name": "eventide / unity",
+      "album_type": "single",
+      "release_date": "2012-09-17",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dbd700c87b326fa6549f367",
+      "uri": "spotify:album:3UimpFeuQRi6BiAl9nZjnX",
+      "name": "the reach",
+      "album_type": "single",
+      "release_date": "2012-08-06",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c02f93cbc963e48e89fd952",
+      "uri": "spotify:album:64G8yyz1AsHuNAUyM6vjtV",
+      "name": "keep this memory",
+      "album_type": "single",
+      "release_date": "2012-06-21",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea29dee0cd95da96a84d984f",
+      "uri": "spotify:album:2vl5bJuSr8Kv7tHGoLScaH",
+      "name": "these are the days",
+      "album_type": "single",
+      "release_date": "2012-06-04",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "5FstVfk3PrX8URfpjUjqcp",
+          "name": "ruby prophet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/d6504394240698e2f3b059ae16fa37f8e47200f3",
+      "uri": "spotify:album:61PAHMEMCXibLJdkNNYMVZ",
+      "name": "thrust",
+      "album_type": "single",
+      "release_date": "2011-11-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3SDkw8q1P8u9jwJK8YMpEs",
+          "name": "nori n"
+        },
+        {
+          "spotify_id": "7CieUjfqrjgBkgKE4fYVQy",
+          "name": "rad"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/772de9e9e492cb2fa475d5428a539e8fd9139ec3",
+      "uri": "spotify:album:01U51FNuGUIzMM5zCXAd8B",
+      "name": "triumph",
+      "album_type": "single",
+      "release_date": "2011-08-11",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ulvx0t3fQ6wPczZNDgBD1",
+          "name": "norin"
+        },
+        {
+          "spotify_id": "7CieUjfqrjgBkgKE4fYVQy",
+          "name": "rad"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6eb18c0da5eb67442fb83bb",
+      "uri": "spotify:album:3vpwYySt7xUeDn4IbLBcMy",
+      "name": "people do not change",
+      "album_type": "single",
+      "release_date": "2011-06-23",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c07162452bd821b0962ef767",
+      "uri": "spotify:album:7sRiQkG8xBRAHYjd9csskE",
+      "name": "selective hearing",
+      "album_type": "single",
+      "release_date": "2011-06-06",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fbd0279b19cdafb7804f67c",
+      "uri": "spotify:album:5zPPUvAZzvtwTsVT4oKmS2",
+      "name": "someday",
+      "album_type": "single",
+      "release_date": "2011-04-18",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3UngSYUUWnDzCkW43pgKhI",
+          "name": "jason van wyk"
+        },
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396e7165d0923f35543e4635f",
+      "uri": "spotify:album:4wXUd82tzYylye4aCOA8rg",
+      "name": "nightfall / daybreak",
+      "album_type": "single",
+      "release_date": "2011-01-31",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dad95e4de9fb69717fdcc2bd",
+      "uri": "spotify:album:54BXWcsjHSSsICyNnEzSmW",
+      "name": "behind our thoughts",
+      "album_type": "single",
+      "release_date": "2010-12-27",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b55a443b6c9b2f97c13bdd0",
+      "uri": "spotify:album:3CEuYILD6ZGnON7Wmrexm8",
+      "name": "fall into place",
+      "album_type": "single",
+      "release_date": "2010-12-13",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273737d9da57c73715ec73a8535",
+      "uri": "spotify:album:2ngBPZ9Rj3R2ulqg2w3d9a",
+      "name": "what dreams may come",
+      "album_type": "single",
+      "release_date": "2010-11-15",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ade71683a6764039628a794",
+      "uri": "spotify:album:4lZ7K3j4hLsCgNMnqMpOAr",
+      "name": "mind over matter",
+      "album_type": "single",
+      "release_date": "2010-11-01",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273560e6fe656da04c77302bc82",
+      "uri": "spotify:album:1oEA4to65I89Gpot21RECO",
+      "name": "eleven eleven",
+      "album_type": "single",
+      "release_date": "2010-10-04",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c977653285f88e16f105293e",
+      "uri": "spotify:album:15T1BWBRfHlbYlko1OluCl",
+      "name": "november",
+      "album_type": "single",
+      "release_date": "2010-05-17",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1f6c093a7adbae558adca84",
+      "uri": "spotify:album:0fh0FFT2oXWqsKqqdzEo1k",
+      "name": "transition",
+      "album_type": "single",
+      "release_date": "2010-05-17",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:33.000Z"
+}

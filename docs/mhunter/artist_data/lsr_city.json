@@ -1,0 +1,567 @@
+{
+  "name": "lsr/city",
+  "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+  "uri": "spotify:artist:0YQ22xAzgefaKw8vKCAEp2",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf94f8e38cde6efc9d73b0f75",
+  "genres": [
+    "trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7b1774db223b51ab29ce740",
+      "uri": "spotify:album:2PcCRRJUUdtomTylskcyXE",
+      "name": "this is where it starts",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399946289b79a592ee4921d40",
+      "uri": "spotify:album:0eb3Mrmkox1VJ89Z1p4rSG",
+      "name": "burn it down",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273663012b680701583ee0bd712",
+      "uri": "spotify:album:1S76K60sXI7I0xoIqQPMx3",
+      "name": "there is a light that never goes out (unplugged)",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c14cda5b8fc3f379549d00cf",
+      "uri": "spotify:album:2dZoD5OLngqpN024WwiNn5",
+      "name": "without u (unplugged)",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c6d3028112a277444739666",
+      "uri": "spotify:album:2os1lJlwE5MoI2y7biOWbE",
+      "name": "without u (instrumental)",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273249abee0e202d80d1976f2c3",
+      "uri": "spotify:album:1WZuihBRe6eD1L5KIKE1Qy",
+      "name": "there is a light that never goes out",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387e04d075673d5362d10b1d0",
+      "uri": "spotify:album:47ccOmq7Zz859oJoPW9ChH",
+      "name": "b-sides #2",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c5022750f9790cc4479d799",
+      "uri": "spotify:album:23SXHYYlprK25SkiX8KGC3",
+      "name": "without u (steve allen remix)",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "5oM9MmVWGFrIcVyojUVwcJ",
+          "name": "steve allen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea9a58da03e4940f48dee5cb",
+      "uri": "spotify:album:36D6qlxWR0SiTNc8KoahVI",
+      "name": "b-sides #1",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a7ac3e19153d065884f6193",
+      "uri": "spotify:album:1uVUaOTUCQnexUqrHqvnM8",
+      "name": "zorro",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c4949f372bd730ae1ad6371",
+      "uri": "spotify:album:0bRvZ6flyoQTRHOfSB83WS",
+      "name": "before you go",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aedb43bee16eb800c85be13d",
+      "uri": "spotify:album:5BePg04gVbSdstdgD4L1ap",
+      "name": "come home",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9097d60dfa7bb1414f68daa",
+      "uri": "spotify:album:7K1DM5LcW2qpgEm9Y6c09D",
+      "name": "take me home, country roads",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739af29e081ab72d1e13c39d80",
+      "uri": "spotify:album:4o9BvaaFDTBLFxzK70GT1E",
+      "name": "cyberpunk (original motion concert soundtrack)",
+      "album_type": "album",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6df2fcc3cf7d265449f9819",
+      "uri": "spotify:album:3ypi02SznYmkEgUZzzzR0N",
+      "name": "you’ll be ok (cyberpunk reboot)",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348cac3d47baf6b1cb71ece22",
+      "uri": "spotify:album:6yEMd5NnvafCdRw5j1bcpq",
+      "name": "out of the sky",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273341adf0895f55ed0d3ecbfeb",
+      "uri": "spotify:album:5toJaA5ZDKhakB72OGPxm4",
+      "name": "counting on you",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "3utxjLheHaVEd9bPjQRsy8",
+          "name": "coheed and cambria"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a34e9db156edb8dd88edba96",
+      "uri": "spotify:album:76zmIai1VNeCOHJMmvR4ir",
+      "name": "shadow city",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b14bfe61e50b2a66a57e1226",
+      "uri": "spotify:album:0cKDHHglszLXCDQevKiOH1",
+      "name": "without u (remixes)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374e2df39a79fccbeaf59af82",
+      "uri": "spotify:album:69IL9BtvOJJpiLtQ30QCPf",
+      "name": "without u",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9857d119d584a69f580d19c",
+      "uri": "spotify:album:1u4GuDtERLgY7wSNk9x6pg",
+      "name": "don't leave",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bd0fab1d7934c773152cfb4",
+      "uri": "spotify:album:2pjYfe0UhKBXTdmVSm0aWV",
+      "name": "fck that",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c6c514dbdf4734fbbeeaabb",
+      "uri": "spotify:album:5ns2MXeOZuDn196ykWAP2n",
+      "name": "fable",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "2YVF0Ou5zIc4mpgtLIlGN0",
+          "name": "robert miles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c03bdbfd8b3469e71734286c",
+      "uri": "spotify:album:00g2iYR5AUPZF94pCCSlgU",
+      "name": "never going back",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273100e1d15507bbf679e9355b2",
+      "uri": "spotify:album:1ZYlb87eb0gexuXcYOU34V",
+      "name": "killshot",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d40c302dee45decd86e7a82",
+      "uri": "spotify:album:4ZFwY8augL822xcvrf0LL2",
+      "name": "ice moon",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f3b1d5889bacd2b69cc80e0",
+      "uri": "spotify:album:0zaBQVn70gLIwHrKto8ViF",
+      "name": "house in the streetlight",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367bebcd3d3a481094e9279d7",
+      "uri": "spotify:album:70O6yZt3bAPU1tUZJIhGTL",
+      "name": "black & white",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308fdb01e3efb4ba1be6b6800",
+      "uri": "spotify:album:0P0UAa1mOYWrKpuCFklA87",
+      "name": "like a prayer",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YQ22xAzgefaKw8vKCAEp2",
+          "name": "lsr/city"
+        },
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "4zR2t8bagib4ozydVgb93l",
+          "name": "annabel"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:33.000Z"
+}

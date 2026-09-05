@@ -1,0 +1,989 @@
+{
+  "name": "vava",
+  "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+  "uri": "spotify:artist:1apmSb6aeHZyr9zUsy1Z9q",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb9b4b743e06aa8e522c0036f",
+  "genres": [
+    "chinese hip hop",
+    "c-pop",
+    "chinese r&b",
+    "mandopop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273486fd349f310b9ad95998060",
+      "uri": "spotify:album:7j4lQMG9DWqoAvzvGdO7VW",
+      "name": "truth freestyle",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357c7c04ee81f2066ed5d1c14",
+      "uri": "spotify:album:5l9qXL5nxKf6Osso4pUY5G",
+      "name": "飘 no roots",
+      "album_type": "album",
+      "release_date": "2026-03-30",
+      "release_year": "2026",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7d8e3f99c160d517f52be9c",
+      "uri": "spotify:album:2HqWsnXlWrqPxtYQK97aCp",
+      "name": "sista (赛斯她)",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "6awXuxxrAMEeojYL6MOT6g",
+          "name": "王蓉"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273902733757cc79aa595625a99",
+      "uri": "spotify:album:2XbeMCwZcJWOMR9H576ERP",
+      "name": "c.o.m freestyle (feat.gali)",
+      "album_type": "single",
+      "release_date": "2025-01-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273beb5a7f90b3def9404ef4203",
+      "uri": "spotify:album:6n5LJpBBrL7T5KhPw4M71i",
+      "name": "我的 (feat. 李大奔benzo & gali)",
+      "album_type": "single",
+      "release_date": "2025-01-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8a6ff016801e6f1c024cdf0",
+      "uri": "spotify:album:0SbxnTB8hAkvKOtcDqFUOp",
+      "name": "傀儡",
+      "album_type": "single",
+      "release_date": "2025-01-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c9d563afe6e1347816dd979",
+      "uri": "spotify:album:4OaIxLCESZgo0lKk844cYa",
+      "name": "侬了阿里得（lonely island）",
+      "album_type": "single",
+      "release_date": "2024-09-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "2jGquYVg6oxsetfzxYNgkD",
+          "name": "step.jad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325bc8c74f5dbb179ad7f07b3",
+      "uri": "spotify:album:4L9wrIz6YquAzjCYJ7ZvUv",
+      "name": "自由",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f856d5a9aa1ebd8abbfc431",
+      "uri": "spotify:album:3BEt3PuUg0Tlw7Qf6zbLXI",
+      "name": "赴荆门",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "6G94zxdItl2GgmKVfoAGI0",
+          "name": "艾熱air"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa4cb51aa19568cf4fcca0a3",
+      "uri": "spotify:album:0fMR5PtIGgnM3pDvbVgEyr",
+      "name": "艾斯蒂亞",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f61249684ad8413cbe81454e",
+      "uri": "spotify:album:7wkJZwS3ly24bTT8LDJvUQ",
+      "name": "独一无二（one of a kind）",
+      "album_type": "single",
+      "release_date": "2024-06-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb8093aa82a9c76952046c2a",
+      "uri": "spotify:album:13beBsIQLTyKggzvhvt4iJ",
+      "name": "百川归海",
+      "album_type": "single",
+      "release_date": "2024-01-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6G94zxdItl2GgmKVfoAGI0",
+          "name": "艾熱air"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "5RTqth5xB5GfvdGszLE9YF",
+          "name": "早安"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305ae53c1d586219884cd1398",
+      "uri": "spotify:album:1EuBZ1ZxZUT0lc1BBNXLC3",
+      "name": "和影子跳舞 (feat. 毛不易)",
+      "album_type": "single",
+      "release_date": "2023-09-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337d163315a44377e1016e95a",
+      "uri": "spotify:album:2TvcchRN96YiZmgdUQgnpG",
+      "name": "wait a minute",
+      "album_type": "single",
+      "release_date": "2023-07-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "2h8Yy5xhlNbJsekoeiPhbb",
+          "name": "gina alice"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273226025605cfe8851bd1b2eaa",
+      "uri": "spotify:album:247JabCvxsMkibPmyfOMR6",
+      "name": "挂帅",
+      "album_type": "single",
+      "release_date": "2023-07-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732faed5b10b64a7941efbabd7",
+      "uri": "spotify:album:2hlwhldWxt6sdgEJdFTkoN",
+      "name": "new rules",
+      "album_type": "single",
+      "release_date": "2023-07-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0f672925048fdbcd51c7dc9",
+      "uri": "spotify:album:1sp8JdiXFi0jNuTuqIRDLI",
+      "name": "打起手鼓跳起舞",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733747e6d7537456e40b0820cf",
+      "uri": "spotify:album:7nleafvQv1LG7IgFUL8SfM",
+      "name": "午夜派对",
+      "album_type": "single",
+      "release_date": "2023-06-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3S8AMIOLOVBqXYCb1lK24f",
+          "name": "黄旭"
+        },
+        {
+          "spotify_id": "49CtkDvDlgQjW3ZoUySsMQ",
+          "name": "楊和蘇keyng"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273822aea4f97aa717360b95cd4",
+      "uri": "spotify:album:6PtCGmblcvfSkQZ33lJUgA",
+      "name": "城堡",
+      "album_type": "single",
+      "release_date": "2023-05-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "4MNnD4Mwz0PNZd3S8inVf6",
+          "name": "雾都l4wudu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733259808872974e6f22fed167",
+      "uri": "spotify:album:69vzhP99Ysi6GDggCjCR8e",
+      "name": "奔跑女孩",
+      "album_type": "single",
+      "release_date": "2023-05-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7cd15281931384b0eff5b8b",
+      "uri": "spotify:album:0hR6JmqMmO5Z695gcGc3Nk",
+      "name": "只能 (電視劇《女士的品格》推廣曲)",
+      "album_type": "single",
+      "release_date": "2023-02-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333ffaeae0ab4fdc0cad9aa8d",
+      "uri": "spotify:album:2AVXa2lVferGOtZeYTL2Sy",
+      "name": "日进斗金2023",
+      "album_type": "single",
+      "release_date": "2023-01-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374089f20756fdc3c9030c141",
+      "uri": "spotify:album:5PazKBFh4BV4hlqqePlQQn",
+      "name": "fist bump",
+      "album_type": "single",
+      "release_date": "2022-11-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322e13d05c942e2acc49850c3",
+      "uri": "spotify:album:2iN8I7TvC7nijxLtLN4SXR",
+      "name": "花木蘭",
+      "album_type": "single",
+      "release_date": "2022-08-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcdba73f0beee246682c07a9",
+      "uri": "spotify:album:2SqCpS2qRKs26J6zEkPHrl",
+      "name": "镜中人",
+      "album_type": "single",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "6G94zxdItl2GgmKVfoAGI0",
+          "name": "艾熱air"
+        },
+        {
+          "spotify_id": "6oYvpkS6pM9ts4nbXRaINg",
+          "name": "vinida weng"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273925fa7b0997af635efb5a0ff",
+      "uri": "spotify:album:2sgtqv39DrvOMHFVNBPZxq",
+      "name": "v解之謎 (full version)",
+      "album_type": "album",
+      "release_date": "2022-06-28",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c9f8b75d87c22b5c01066a3",
+      "uri": "spotify:album:4Npcpu7ViFzJu36WAXlwzI",
+      "name": "hundred times",
+      "album_type": "single",
+      "release_date": "2022-06-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5bqSaq38eVpgUktEQLcPNp",
+          "name": "lizzy wang"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a26a227204de64fa5bd0f0b",
+      "uri": "spotify:album:4UfPkWmhiV99cDxHqi1q4P",
+      "name": "v解之謎 i",
+      "album_type": "single",
+      "release_date": "2022-06-16",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef38a45d90ce0cbd524b57bb",
+      "uri": "spotify:album:58BVtYsndEwBs3vw2RJlSh",
+      "name": "cx330",
+      "album_type": "single",
+      "release_date": "2022-05-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e34d2ed16b75030145ab4c2",
+      "uri": "spotify:album:1PV67sCDzvgCz4qGwajxuF",
+      "name": "电视剧《也平凡》原声专辑",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6WDmkqq3o0HGLbwo8e1nt5",
+          "name": "郑恺"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "4voZ4L5zSIkiucQrbShqWD",
+          "name": "tbilisi children's capella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b66d009304c9b50b78bf696",
+      "uri": "spotify:album:4IGSO6Mj85f382AJSqvJGZ",
+      "name": "如果",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a0e0fc0ab9df68a7de68973",
+      "uri": "spotify:album:2yk3qnExGdP2JACwulCtXJ",
+      "name": "仲夏夜之梦",
+      "album_type": "single",
+      "release_date": "2021-09-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "2dahIVgpXLRGJFvAnuce0t",
+          "name": "赵露思"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273def77433a92421ae7386a771",
+      "uri": "spotify:album:5wVNAchdSwu0x5d1Y5LEI9",
+      "name": "lifestyle",
+      "album_type": "single",
+      "release_date": "2021-08-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3n2H1XlCyS1WQ0vyVUFEma",
+          "name": "yultron"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a162f8a33c48d13ae5d78aca",
+      "uri": "spotify:album:4wjKuKIYK1oLqe0tlwW4c7",
+      "name": "朝歌暮宴, 下卷",
+      "album_type": "single",
+      "release_date": "2021-08-12",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e300dca0d49c2f996ecb0d",
+      "uri": "spotify:album:01imX5IFF0uQ2CSwpQAzbp",
+      "name": "so bad (feat. 王嘉爾)",
+      "album_type": "single",
+      "release_date": "2021-03-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cae3aa3e20bb75fe57225e0",
+      "uri": "spotify:album:44HpbPy9zKsJgRCO8zMJRK",
+      "name": "red lipstick on",
+      "album_type": "single",
+      "release_date": "2021-02-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b642ffd6cfcf9ead0c131800",
+      "uri": "spotify:album:4SvQ5eioRC6NqlMSD4BfM6",
+      "name": "挺传统的娃娃菜",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "1lkQ19wso3tm26LNJN9KEm",
+          "name": "蔡明"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f156c4258929fd1b5de23d0",
+      "uri": "spotify:album:5svbgiyaQHNb6NaYbQeKUm",
+      "name": "朝歌暮宴, 上卷",
+      "album_type": "single",
+      "release_date": "2020-12-23",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ed539df872659e2b47619e5",
+      "uri": "spotify:album:27DS8eKz31ndbGuxDa4qXy",
+      "name": "let's go (feat. 周延)",
+      "album_type": "single",
+      "release_date": "2020-12-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be2a14fd7ce4e21992cc7a65",
+      "uri": "spotify:album:5uGDcp0TA1tWnfVm6ygpx4",
+      "name": "ganbei",
+      "album_type": "single",
+      "release_date": "2020-09-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f948c0448c09b981ce747327",
+      "uri": "spotify:album:5yAqegetZmgTRqcVzWRGBx",
+      "name": "vow",
+      "album_type": "single",
+      "release_date": "2020-06-11",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd4df66c353f5db9f0ca9f42",
+      "uri": "spotify:album:6ByZKaqW79Pmft7ruNXVTS",
+      "name": "vow",
+      "album_type": "single",
+      "release_date": "2020-06-11",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6e1fb10baf08a5c19304b48",
+      "uri": "spotify:album:6VyrxaQdsVHm3U3KsrjOzx",
+      "name": "life is beautiful",
+      "album_type": "single",
+      "release_date": "2020-02-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "3FpGegUfBRYiws8Ww49Y1j",
+          "name": "yitai wang"
+        },
+        {
+          "spotify_id": "0rW6fVd3yuW2CF2sLYWQtE",
+          "name": "dok2"
+        },
+        {
+          "spotify_id": "64k5e9kV9MdukXjFrR5R37",
+          "name": "jessi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360f934c873b0f5e8097f8f2d",
+      "uri": "spotify:album:2T45vWp5NqaR0nnJT98tUx",
+      "name": "別認慫",
+      "album_type": "single",
+      "release_date": "2019-12-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AJcTAMOLkRl3vf4syay8Q",
+          "name": "jam hsiao"
+        },
+        {
+          "spotify_id": "4mqzlmu0soWnmmDvBhoJB0",
+          "name": "潘瑋柏"
+        },
+        {
+          "spotify_id": "0nugXDFCnEl2svpX3l4OTc",
+          "name": "劉憲華"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e899b4819317a6130328275",
+      "uri": "spotify:album:3D6mJsiYnmtzF2ktR8hleP",
+      "name": "毛衍七",
+      "album_type": "album",
+      "release_date": "2019-11-06",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c56be48e81dbb60acd669c82",
+      "uri": "spotify:album:5WmfCsqlZLqquyGx1rALB3",
+      "name": "lie",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bb798d9706a693ac23dfc45",
+      "uri": "spotify:album:6hfl1Q4Z0HSaBbMrsuZD4t",
+      "name": "rainbow",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9ea2398f84178a02be92297",
+      "uri": "spotify:album:0Na8PRQsYJzTBURqtuIbFd",
+      "name": "queen is back",
+      "album_type": "single",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348246f2139175feb6d1d672c",
+      "uri": "spotify:album:1nn66znogcmDaSpAf5oNwK",
+      "name": "祝你爱我到天荒地老",
+      "album_type": "single",
+      "release_date": "2019-06-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5PNcqs6EtD6gSXgUiiJIUU",
+          "name": "颜人中"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351b95d10fdaef062a4fdfc6c",
+      "uri": "spotify:album:0T4AffSgvok8sGVTFoHzg7",
+      "name": "4",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732053b798192f7e87422afb95",
+      "uri": "spotify:album:5VJ92tT8K5fSjcGJ0a5Ia7",
+      "name": "21 part ii",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfb634fa33e8192355b51224",
+      "uri": "spotify:album:17eQ3uApRVcrHR14M3RZcK",
+      "name": "new world",
+      "album_type": "single",
+      "release_date": "2018-01-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388e1f70e23f0ce1ccd65868b",
+      "uri": "spotify:album:1xItCtCkRu0hKPxoemWWjX",
+      "name": "鏡像（電影《追捕》推廣曲）",
+      "album_type": "single",
+      "release_date": "2017-11-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2MOq4wdhVbkqa7TsiIrlIQ",
+          "name": "戚薇"
+        },
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376c32e12714107f865ce30ee",
+      "uri": "spotify:album:0FH4o2bAlobXae4Kpcgfwg",
+      "name": "21",
+      "album_type": "album",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b631819985fe3aa038c9a9db",
+      "uri": "spotify:album:27TCRRlqhTHOLFHYXosrqg",
+      "name": "300环之歌",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        },
+        {
+          "spotify_id": "6Co2QZUdxjINrW84av0QZp",
+          "name": "yoken"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348e15e82de67cda10586fe62",
+      "uri": "spotify:album:1ia3KzRN96F7NcOYZQuv5G",
+      "name": "我想对你说baby",
+      "album_type": "single",
+      "release_date": "2015-06-05",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0de920a71fc0a47b5dfb2bb",
+      "uri": "spotify:album:73vjtCHwiC4QyA35Ka766k",
+      "name": "我就是爱",
+      "album_type": "single",
+      "release_date": "2015-06-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273260f89728a6f93d6ee08bcc2",
+      "uri": "spotify:album:6bUpFXnlvOMzLicSOHMyFu",
+      "name": "你很low",
+      "album_type": "single",
+      "release_date": "2014-12-02",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1apmSb6aeHZyr9zUsy1Z9q",
+          "name": "vava"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:15.000Z"
+}

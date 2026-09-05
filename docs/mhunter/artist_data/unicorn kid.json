@@ -1,0 +1,145 @@
+{
+  "name": "unicorn kid",
+  "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+  "uri": "spotify:artist:42RxcqYrDSRQRV5AHozxwu",
+  "image_url": "https://i.scdn.co/image/deb420e5f2913fc91c6899cad43182cfeb084a2b",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352d013d3bd126c3f2f73a018",
+      "uri": "spotify:album:2kM8fDi9TvYO4VwQS7WmSJ",
+      "name": "brain wash",
+      "album_type": "album",
+      "release_date": "2014-09-15",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fed16c5cda49cba8a81e8c3",
+      "uri": "spotify:album:35XMORtfHWc1aniToXXysM",
+      "name": "feel so real",
+      "album_type": "single",
+      "release_date": "2013-07-23",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d1813e04f07a210553dd359",
+      "uri": "spotify:album:4waqYfWBEQP9XScaWj8ycP",
+      "name": "need u (remixes)",
+      "album_type": "single",
+      "release_date": "2013-07-23",
+      "release_year": "2013",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377c228dac0bafe17c8825c76",
+      "uri": "spotify:album:7Fiwecm7MlM2b6zPh1hTUx",
+      "name": "pure space",
+      "album_type": "single",
+      "release_date": "2013-07-23",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cda5766eeb4a915626085015",
+      "uri": "spotify:album:20jqkszsppUNasWjyObEAa",
+      "name": "tidal rave ep (feat. talk to animals)",
+      "album_type": "single",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f4b08905aa227e07e9e49e1",
+      "uri": "spotify:album:1Nx7KXwaKX9EmoYf1J8UsZ",
+      "name": "dream catcher",
+      "album_type": "single",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b753af6751808efa496cfdea",
+      "uri": "spotify:album:50akkY2PvWvegNQzB5Mco5",
+      "name": "wild life",
+      "album_type": "single",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd5a80e38044e3f81512da67",
+      "uri": "spotify:album:1cr11hRlEupno1L9PXbE4j",
+      "name": "wee monsters",
+      "album_type": "single",
+      "release_date": "2009-07-13",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f790a60adac6c9badb6a35d9",
+      "uri": "spotify:album:60RzhzOYeNP38Lmtoz4Pft",
+      "name": "lion hat",
+      "album_type": "single",
+      "release_date": "2009-01-12",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "42RxcqYrDSRQRV5AHozxwu",
+          "name": "unicorn kid"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:57.000Z"
+}

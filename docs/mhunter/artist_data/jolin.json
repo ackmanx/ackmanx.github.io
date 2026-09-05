@@ -1,0 +1,805 @@
+{
+  "name": "jolin",
+  "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+  "uri": "spotify:artist:1r9DuPTHiQ7hnRRZ99B8nL",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc4b4416e53fb403c4612a822",
+  "genres": [
+    "mandopop",
+    "c-pop",
+    "taiwanese pop",
+    "malay pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273781d37d73f36eec9e0806673",
+      "uri": "spotify:album:6ao25FUkeLe5HPECu78NtY",
+      "name": "emoji",
+      "album_type": "single",
+      "release_date": "2026-03-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3g7vYcdDXnqnDKYFwqXBJP",
+          "name": "sb19"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a805d4017036c2623ac2ec1",
+      "uri": "spotify:album:3jHOfMN5e5dcAgxQEZnodk",
+      "name": "布拉格廣場 (jolin version/ 星宇航空布拉格開航主題曲)",
+      "album_type": "single",
+      "release_date": "2026-02-25",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7d9adf75b47827fd7b8b2d3",
+      "uri": "spotify:album:0LbR39fJOYWdaJ7sHfcYtF",
+      "name": "pleasure",
+      "album_type": "album",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737169d5ed544da7bb1528b932",
+      "uri": "spotify:album:1OPQJNIhyAS8tGOe7nyy2b",
+      "name": "diy",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f749f85cb901e53c737ebed0",
+      "uri": "spotify:album:55xKiaSWQ1BABKnueyYsSN",
+      "name": "pleasure",
+      "album_type": "single",
+      "release_date": "2025-05-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d13e8edd10272d192e84bd46",
+      "uri": "spotify:album:4majV2qxRh9OPRkdBusd6z",
+      "name": "oh la la la (麥當勞40週年主題曲)",
+      "album_type": "single",
+      "release_date": "2023-11-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db99a6e3b15e6a70467927a0",
+      "uri": "spotify:album:3aaOh9ji7Qv97Lxfj9MOmu",
+      "name": "someday, somewhere (netflix影集《此時此刻》主題曲)",
+      "album_type": "single",
+      "release_date": "2023-10-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c012806d2bc1721708121a79",
+      "uri": "spotify:album:655zW7iobyhpQhXePSOCnh",
+      "name": "親愛的對象 - from the first take",
+      "album_type": "single",
+      "release_date": "2023-07-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739549a3b60b5c8fc29193e544",
+      "uri": "spotify:album:5o0kzdpGdsavvzBjhQTdkH",
+      "name": "玫瑰少年 - from the first take",
+      "album_type": "single",
+      "release_date": "2023-06-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359a820a69ee3860c3a36a48b",
+      "uri": "spotify:album:6ohthacCclaqEnO1xfEUu6",
+      "name": "親愛的對象 (《關於我和鬼變成家人的那件事》電影主題曲)",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273247340192b2052a753bf85ed",
+      "uri": "spotify:album:4cf04fwTl1y61OWLWEpWmf",
+      "name": "equal in the darkness (the remixes)",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b9a5c5fe1abface8089a91d",
+      "uri": "spotify:album:6a1z4eEfWAKMvYTxiRUorp",
+      "name": "equal in the darkness (steve aoki character x version)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9c0934e4e60662df02e4ccb",
+      "uri": "spotify:album:5tKBgRU0UldDs3CbfZQwIS",
+      "name": "equal in the darkness",
+      "album_type": "single",
+      "release_date": "2021-10-21",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "steve aoki"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        },
+        {
+          "spotify_id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "max"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317543f064422240f57bd3cf6",
+      "uri": "spotify:album:3GxU98ArKcm5NVeANn9QSX",
+      "name": "stars align (the remixes)",
+      "album_type": "single",
+      "release_date": "2021-05-20",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        },
+        {
+          "spotify_id": "49T8i1paijMAK9rYtjO4lu",
+          "name": "faulhaber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ba910196549bf500ef8ca63",
+      "uri": "spotify:album:79hQ8RdrbrZDjceDsdTYm5",
+      "name": "stars align (with jolin tsai)",
+      "album_type": "single",
+      "release_date": "2021-03-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273389151b7f4e964085d503c2c",
+      "uri": "spotify:album:5oy4TAALay9YdGkPP292sS",
+      "name": "心引力",
+      "album_type": "single",
+      "release_date": "2019-11-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0rVLyv4xouX9M4GCq3VuP5",
+          "name": "王俊凱"
+        },
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ced1aede9dad4cc7557ed914",
+      "uri": "spotify:album:7HFFEjrwzZNpbee44SJnn9",
+      "name": "ugly beauty",
+      "album_type": "album",
+      "release_date": "2018-12-25",
+      "release_year": "2018",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734366d6e9dd6537763dda164b",
+      "uri": "spotify:album:0eVy2indBSg2VJ8KAAcCil",
+      "name": "怪美的",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d694c066491ced8ed257524",
+      "uri": "spotify:album:0OoMR5pLX81q4aRHA4Feik",
+      "name": "蔡依林 play世界巡迴演唱會 (live)",
+      "album_type": "album",
+      "release_date": "2018-01-30",
+      "release_year": "2018",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deafc3a0c57eaaf747dab531",
+      "uri": "spotify:album:2tG4p9VJunu6oW8gQZSLCG",
+      "name": "我對我 (dnf 十週年主題曲)",
+      "album_type": "single",
+      "release_date": "2018",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecd1bdfe5e0ba6098db29eeb",
+      "uri": "spotify:album:37hXMc9AxFSHTe3yyyyCIX",
+      "name": "幸褔路上 (電影《幸福路上》主題曲)",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1d672302d74fcc91ebd8fee",
+      "uri": "spotify:album:1q0Vf1cyVN1OI2ITNYNTp2",
+      "name": "讓愛傳出去 (2017大愛電視\"1+1你加我\"主題曲)",
+      "album_type": "single",
+      "release_date": "2017-05-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed0edd6591e4b00a555b69c6",
+      "uri": "spotify:album:2HAbnjLz7O2KNfSNpk7y5a",
+      "name": "play我呸 (alesso remix version)",
+      "album_type": "single",
+      "release_date": "2016-10-02",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        },
+        {
+          "spotify_id": "4AVFqumd2ogHFlRbKIjp1t",
+          "name": "alesso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739bcd0563eda075aa9ab66649",
+      "uri": "spotify:album:4usIO3u7K4KGzQyMUZ8xJ5",
+      "name": "呸",
+      "album_type": "album",
+      "release_date": "2014-11-15",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3d52fec801db48e8d59937d",
+      "uri": "spotify:album:5ryYATK5teUXu6a2VE9lGL",
+      "name": "萬花瞳 (小時代3:刺金時代 - 電影主題曲)",
+      "album_type": "single",
+      "release_date": "2014-06-14",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732eba2955e46b2142f4cd90e2",
+      "uri": "spotify:album:6aXKOzYUiapHXMduF2P8Ef",
+      "name": "旅程 (施華洛世奇時尚音樂之旅主題曲)",
+      "album_type": "single",
+      "release_date": "2013-09-13",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d513db64002aa64c4546055",
+      "uri": "spotify:album:6qi72orb10gTm8uiKSJXV5",
+      "name": "muse",
+      "album_type": "album",
+      "release_date": "2012-09-12",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea390d82a5a8818882fbd703",
+      "uri": "spotify:album:0KVdkDD2f0jpRqXOFah1aI",
+      "name": "muse in live (deluxe version)",
+      "album_type": "album",
+      "release_date": "2012-09-12",
+      "release_year": "2012",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4287ee11f3b60ec0d4b89dd",
+      "uri": "spotify:album:4q6RjhAL2KynKitvrPzQmW",
+      "name": "大藝術家",
+      "album_type": "single",
+      "release_date": "2012-08-21",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c96777824d94665a7911968c",
+      "uri": "spotify:album:65NlimTE7sQgJIlHn3pGps",
+      "name": "jolin - myself remix",
+      "album_type": "album",
+      "release_date": "2010-11-19",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340ad954b5f2a3a083adb6eab",
+      "uri": "spotify:album:2DQKpudTLM69yjNu4Zza1v",
+      "name": "蔡依林 myself 2010概念專輯",
+      "album_type": "album",
+      "release_date": "2010-08-13",
+      "release_year": "2010",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733886cd32c4f3c2b9ab4ab936",
+      "uri": "spotify:album:1v58EMrZVYLyfHpNfKDBdk",
+      "name": "蔡依林 單身情歌 萬人舞台 2009特別紀念版",
+      "album_type": "single",
+      "release_date": "2009-10-30",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b7942064ed301cf678f6974",
+      "uri": "spotify:album:4vGWkGex9QdZCXwP5XM3HR",
+      "name": "花蝴蝶",
+      "album_type": "album",
+      "release_date": "2009-03-27",
+      "release_year": "2009",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adeacea8af71ae7802711e55",
+      "uri": "spotify:album:7igP2tEgX8RWTlYskIjxw6",
+      "name": "愛的練習語",
+      "album_type": "album",
+      "release_date": "2008-10-31",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc7e196d6ab8f981cdc387a1",
+      "uri": "spotify:album:4BqXyvXJMKPSqvZYZ62cBK",
+      "name": "cuxi 蔡依林特務j慶功演唱會現場實錄盤",
+      "album_type": "album",
+      "release_date": "2007-12-07",
+      "release_year": "2007",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afe34d360197814acaac7421",
+      "uri": "spotify:album:08hWCW4OOpyAqyYQDBealb",
+      "name": "特務j",
+      "album_type": "album",
+      "release_date": "2007-09-21",
+      "release_year": "2007",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ce4911c7b7fd59746ba8796",
+      "uri": "spotify:album:3PLKouCXePSV5YP6edHnn0",
+      "name": "絕版公主蔡依林-夢綺地精選",
+      "album_type": "album",
+      "release_date": "2007-09-19",
+      "release_year": "2007",
+      "total_tracks": 40,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730949d5e1e31175ddb31d3566",
+      "uri": "spotify:album:7IVSAa9zlrOIA4WPPm4olL",
+      "name": "地才 (live)",
+      "album_type": "album",
+      "release_date": "2007-06-08",
+      "release_year": "2007",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352c5d3ab25e60d56e3f8d02d",
+      "uri": "spotify:album:1frzHBflgAeBgUFhQy5cO7",
+      "name": "唯舞獨尊演唱會鮮聽版&特別混音專輯",
+      "album_type": "album",
+      "release_date": "2006-09-29",
+      "release_year": "2006",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273065275a40f524e345aaadd53",
+      "uri": "spotify:album:0L6RaiyJuoOQlDKiCY2nrd",
+      "name": "舞孃",
+      "album_type": "album",
+      "release_date": "2006-02-05",
+      "release_year": "2006",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2a4412fcf2c8bca145b8755",
+      "uri": "spotify:album:6nz5Yn1dnPylQJ17q5LV8a",
+      "name": "蔡依林j1首次個人演唱會影音全記錄",
+      "album_type": "album",
+      "release_date": "2005-10-24",
+      "release_year": "2005",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733755a9a227e6ee68bb44a0a6",
+      "uri": "spotify:album:72N7uJVLHH3TvKKqPs6Rvq",
+      "name": "music storybook - love castle",
+      "album_type": "album",
+      "release_date": "2005-07-22",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732997c72cc696f6956062358a",
+      "uri": "spotify:album:1uvzQMQiA1HzViKVA3WEx2",
+      "name": "野蠻遊戲",
+      "album_type": "album",
+      "release_date": "2005-04-25",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a7525a2b8f3b6062e4c14cf",
+      "uri": "spotify:album:6IvYCgz40bimHwQWy69vgC",
+      "name": "love love love",
+      "album_type": "single",
+      "release_date": "2004-12-01",
+      "release_year": "2004",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738067ec8cf1e676beeb817686",
+      "uri": "spotify:album:6OeSMtENnJV8FpGb1eZheV",
+      "name": "城堡",
+      "album_type": "album",
+      "release_date": "2004-02-27",
+      "release_year": "2004",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d22aa366dee2d49f9d4094ed",
+      "uri": "spotify:album:4QUmaboYGilFry5XZeeUi5",
+      "name": "看我72變",
+      "album_type": "album",
+      "release_date": "2003-03-07",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cf8eca7240c56834378103b",
+      "uri": "spotify:album:0wRTrbOYx9QvJvCWATi5U3",
+      "name": "lucky number",
+      "album_type": "album",
+      "release_date": "2001-07-01",
+      "release_year": "2001",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e164056d95a89ad10e707a3",
+      "uri": "spotify:album:5ZFm33tJdX8JBFpgV63VKd",
+      "name": "show your love",
+      "album_type": "album",
+      "release_date": "2000-12-01",
+      "release_year": "2000",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e2dbc21c7336632120174c4",
+      "uri": "spotify:album:5ilq8MJBztWGsVMNOaIxtR",
+      "name": "don't stop",
+      "album_type": "album",
+      "release_date": "2000-04-01",
+      "release_year": "2000",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347540038dc1a29b7f02cee1d",
+      "uri": "spotify:album:1zOxz5zLPEDQjXCu1Ta32f",
+      "name": "1019",
+      "album_type": "album",
+      "release_date": "1999-01-01",
+      "release_year": "1999",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "jolin"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:40.000Z"
+}

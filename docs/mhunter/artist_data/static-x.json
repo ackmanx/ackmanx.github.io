@@ -1,0 +1,378 @@
+{
+  "name": "static-x",
+  "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+  "uri": "spotify:artist:7JDSHlDdVTo7aZKdQZ53Vf",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7f4a72d9541571d430c157c7",
+  "genres": [
+    "industrial metal",
+    "nu metal",
+    "industrial rock",
+    "industrial",
+    "rap metal",
+    "metal",
+    "alternative metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273757f2a06bb39901b75fd6e0d",
+      "uri": "spotify:album:0vOqG6qLoZ7JPJ3vfRuajk",
+      "name": "project regeneration, vol. 2",
+      "album_type": "album",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273799a5adda24a9bb98f90487c",
+      "uri": "spotify:album:39Lu0IyoWvizdSECrOOTLE",
+      "name": "z0mbie",
+      "album_type": "single",
+      "release_date": "2023-10-05",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a9db164e75105512555988b",
+      "uri": "spotify:album:3ve34nenlyv6sFUjzyyzIx",
+      "name": "cult of static (expanded version)",
+      "album_type": "album",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd35c6b9f210dab793d45234",
+      "uri": "spotify:album:4SgYiHjpOwZ1EqweySZRun",
+      "name": "looks that kill",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319a194c620530c013413d890",
+      "uri": "spotify:album:4kBto7Pi6hidlyuBhPtWnG",
+      "name": "w.f.o.",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8fe4010a8a933ffd2819a26",
+      "uri": "spotify:album:6lguiZQ9OKhWfmgrxkpKTP",
+      "name": "project regeneration, vol. 1",
+      "album_type": "album",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732110382670c7be8e242e6be6",
+      "uri": "spotify:album:5sq6uf1uqdEFnw1oPGXsne",
+      "name": "all these years",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2f881158e0faefc64a504f0",
+      "uri": "spotify:album:2Istkur4ggU2hcahfC38Mf",
+      "name": "hollow (project regeneration)",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309ab89b4604f6d20930a3be4",
+      "uri": "spotify:album:0y6Kd9YGZidrlRqfYCcn96",
+      "name": "light it up",
+      "album_type": "single",
+      "release_date": "2019-05-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cb6517f5655a4a473da522b",
+      "uri": "spotify:album:3APT20IpEXeKH4oXdePrfZ",
+      "name": "cult of static",
+      "album_type": "album",
+      "release_date": "2009-03-13",
+      "release_year": "2009",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa32269c6d20ee4dc3bfc62e",
+      "uri": "spotify:album:5QwgdIQ3SWJjL86sNRZ7x0",
+      "name": "stingwray",
+      "album_type": "single",
+      "release_date": "2009-02-17",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a1265946c0d5fb424199d74",
+      "uri": "spotify:album:47qGsx6KcYnUQQToEkuuiZ",
+      "name": "cannibal killers live",
+      "album_type": "album",
+      "release_date": "2008-10-06",
+      "release_year": "2008",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273336f01a89575eac4b3ae9b63",
+      "uri": "spotify:album:5gbGxeUFeXbGPy3HgGEcd5",
+      "name": "cannibal",
+      "album_type": "album",
+      "release_date": "2007-04-02",
+      "release_year": "2007",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c76acaa062daabd3c6dc7c62",
+      "uri": "spotify:album:40rYdicN4MeRKtviCHmU9Q",
+      "name": "destroyer",
+      "album_type": "single",
+      "release_date": "2007-02-13",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a310a798576b33fa2bbce0e6",
+      "uri": "spotify:album:71j3INQJXy1sSQPkPiYxIO",
+      "name": "start a war",
+      "album_type": "album",
+      "release_date": "2005-06-14",
+      "release_year": "2005",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6a91e7647718f06a322a4d5",
+      "uri": "spotify:album:1dyH6h8Y8ymQl4QvoG7ExS",
+      "name": "i'm the one",
+      "album_type": "single",
+      "release_date": "2005-04-26",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273628cdfebd21f2380a1e7e6cd",
+      "uri": "spotify:album:5Gmv5JYxVuXAVexz5fTSdr",
+      "name": "beneath...between...beyond...",
+      "album_type": "album",
+      "release_date": "2004-07-13",
+      "release_year": "2004",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351e68094dd2b709d70f1778f",
+      "uri": "spotify:album:6ArsYtEDpoPxrCQXG4rHw3",
+      "name": "shadow zone",
+      "album_type": "album",
+      "release_date": "2003-10-07",
+      "release_year": "2003",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273372517e998be869ffa7e11fe",
+      "uri": "spotify:album:65uQRCO77mkK6RowsOklui",
+      "name": "destroy all",
+      "album_type": "single",
+      "release_date": "2003-09-02",
+      "release_year": "2003",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f25fd48d400639f808d911ad",
+      "uri": "spotify:album:1DPxCU4j6i0kKUkF4n1BEU",
+      "name": "the only",
+      "album_type": "single",
+      "release_date": "2003-09-02",
+      "release_year": "2003",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3e386c06a91479abdf1e248",
+      "uri": "spotify:album:4avOV3uvYbU9iL9KoTqiYL",
+      "name": "otsegolectric",
+      "album_type": "single",
+      "release_date": "2003-08-19",
+      "release_year": "2003",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b927f513e10808c785700eea",
+      "uri": "spotify:album:3qbnM6ou43R4GEWcIHhzhS",
+      "name": "machine",
+      "album_type": "album",
+      "release_date": "2001-05-22",
+      "release_year": "2001",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391e4f0f2bd13b636336d8632",
+      "uri": "spotify:album:2uKoZMZW6vohzkd5lnYeJ4",
+      "name": "machine (20th anniversary edition) [2022 remaster]",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730099efc7034c941135448e94",
+      "uri": "spotify:album:2WRLwr5MIIXr9gAWOOQ6J5",
+      "name": "wisconsin death trip",
+      "album_type": "album",
+      "release_date": "1999",
+      "release_year": "1999",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+          "name": "static-x"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:30:35.000Z"
+}

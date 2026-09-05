@@ -1,0 +1,135 @@
+{
+  "name": "hanzel und gretyl",
+  "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+  "uri": "spotify:artist:0cMQ1u5neB0RWhQiSCXjdH",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8503042800b102fb5619820a",
+  "genres": [
+    "industrial metal",
+    "industrial",
+    "industrial rock",
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335a6e267f625dd1c5916f622",
+      "uri": "spotify:album:46X0lqGpxbtjGQ9OVcJ5NW",
+      "name": "hexennacht",
+      "album_type": "album",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea0d29a0b3e57de0a025a9e3",
+      "uri": "spotify:album:6V1HB5KRqJkI30HniyWP94",
+      "name": "satanik germanik",
+      "album_type": "album",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328484318f0babf5baf5ccf2c",
+      "uri": "spotify:album:3VfsPn2gewUAcdf0tpaQUs",
+      "name": "black forest metal",
+      "album_type": "album",
+      "release_date": "2014-11-11",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3d777a2f3ee768b89d8949",
+      "uri": "spotify:album:651tphE1o6uBnHxnYA0RXc",
+      "name": "hanzel und gretyl fur immer (kyzrwolf remix)",
+      "album_type": "album",
+      "release_date": "2013-10-08",
+      "release_year": "2013",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737af0842b075fc50821b1001a",
+      "uri": "spotify:album:7ifur4Q8lCUba2wgk62c9H",
+      "name": "born to be heiled",
+      "album_type": "album",
+      "release_date": "2012-11-27",
+      "release_year": "2012",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273913f25e9cb1595211594daad",
+      "uri": "spotify:album:4ifDPjrlcNQME5OwNKf9Qt",
+      "name": "2012: zwanzig zwolf",
+      "album_type": "album",
+      "release_date": "2008-02-05",
+      "release_year": "2008",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b39ac5614fa0ca42cfd2366b",
+      "uri": "spotify:album:536BgX7amPUMEvjbAW3AaD",
+      "name": "scheissmessiah",
+      "album_type": "album",
+      "release_date": "2004-10-12",
+      "release_year": "2004",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4b88eea6d77eb9289e3f072",
+      "uri": "spotify:album:6yKmYGrPxDR7TdQNhyV7yA",
+      "name": "uber alles",
+      "album_type": "album",
+      "release_date": "2003-05-20",
+      "release_year": "2003",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0cMQ1u5neB0RWhQiSCXjdH",
+          "name": "hanzel und gretyl"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:49.000Z"
+}

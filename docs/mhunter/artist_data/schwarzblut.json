@@ -1,0 +1,232 @@
+{
+  "name": "schwarzblut",
+  "spotify_id": "6zblaObl3gdAtashjRlipl",
+  "uri": "spotify:artist:6zblaObl3gdAtashjRlipl",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27392bb1ddae6c7f159c2335b45",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3f26b36e0750f28fe9b7fd9",
+      "uri": "spotify:album:1PkhZDKzifbmqW4ZGd517F",
+      "name": "never let me down again",
+      "album_type": "single",
+      "release_date": "2019-09-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392bb1ddae6c7f159c2335b45",
+      "uri": "spotify:album:0kg5ZrCm7GAPCHCNgUIFQG",
+      "name": "idisi",
+      "album_type": "album",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323c0bdd6f39c455220d789b9",
+      "uri": "spotify:album:6sGM927x9BjuR134hu1fcj",
+      "name": "idisi (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c356feb69f1df9bd55d82515",
+      "uri": "spotify:album:42d6CB5tyEp29ojsgYR7MX",
+      "name": "wildes herz",
+      "album_type": "album",
+      "release_date": "2017-06-23",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        },
+        {
+          "spotify_id": "3UCLm2pSxKbuRa1sDRLbH4",
+          "name": "saeldes sanc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2a3cf42da9cda092e2f9e16",
+      "uri": "spotify:album:1n4ZJQksCuJkPc87W4hfBE",
+      "name": "judas - ep",
+      "album_type": "single",
+      "release_date": "2015-09-25",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9863daf6e8acc0272a4db9a",
+      "uri": "spotify:album:5FKUMlKbxx0QNozWfHI4RP",
+      "name": "virginis memoriae - single",
+      "album_type": "single",
+      "release_date": "2015-06-06",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3UCLm2pSxKbuRa1sDRLbH4",
+          "name": "saeldes sanc"
+        },
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273596573c384bed4a591b5ccd8",
+      "uri": "spotify:album:3wiSwNvs0KStEUoxAA5ZYP",
+      "name": "gebeyn aller verdammten",
+      "album_type": "album",
+      "release_date": "2014-04-26",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed84e0dc9494cd4d57279a46",
+      "uri": "spotify:album:4aX6EZyjKFu9tNT7xQr3xz",
+      "name": "gebeyn aller verdammten (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2014-04-26",
+      "release_year": "2014",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359c552df683973d33769ffee",
+      "uri": "spotify:album:4ja8KEBbzSliJzXYGEzSat",
+      "name": "bis aufs blut ep",
+      "album_type": "single",
+      "release_date": "2014-02-21",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b2b5f35491bb098b5c70fb8",
+      "uri": "spotify:album:35oajap0nh0meBpnxVcwDu",
+      "name": "maschinenwesen",
+      "album_type": "album",
+      "release_date": "2012-04-27",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331ded3a85555fb9bbffb80fd",
+      "uri": "spotify:album:53wvq5FPgExxRIx43SGkrn",
+      "name": "maschinenwesen (bonus tracks version)",
+      "album_type": "album",
+      "release_date": "2012-03-21",
+      "release_year": "2012",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273441051496b32eaddc617e066",
+      "uri": "spotify:album:1ywuhrpC6S7s8rXa3gEYJH",
+      "name": "die krypta",
+      "album_type": "album",
+      "release_date": "2010-03-26",
+      "release_year": "2010",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324cdb595ce6b1e7df869e24b",
+      "uri": "spotify:album:6o49Il0dTtsXI08ydhNEG0",
+      "name": "das mausoleum",
+      "album_type": "album",
+      "release_date": "2010-03-01",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d2d10c6dc0426185c8b1ac9",
+      "uri": "spotify:album:2qRkFy4pauELIgPPFg9zT9",
+      "name": "sehlenwolf",
+      "album_type": "single",
+      "release_date": "2009-04-28",
+      "release_year": "2009",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6zblaObl3gdAtashjRlipl",
+          "name": "schwarzblut"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:44.000Z"
+}

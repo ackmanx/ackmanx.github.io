@@ -1,0 +1,193 @@
+{
+  "name": "echo image",
+  "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+  "uri": "spotify:artist:135UnVjvSQVYps8S7iYKPH",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe5d98c437ed7579123f2164f",
+  "genres": [
+    "synthpop",
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1c34dea55db70398366d01b",
+      "uri": "spotify:album:7u88Vl1Vt3TNxxvSlDo3hI",
+      "name": "madsong",
+      "album_type": "single",
+      "release_date": "2024-02-29",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c02ce0c2c7816c50e6f0258",
+      "uri": "spotify:album:0jj94a15kzh49lchq7IBgh",
+      "name": "of truth",
+      "album_type": "single",
+      "release_date": "2023-06-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0fc085a9b2767ba87ac8cf5",
+      "uri": "spotify:album:3zgxie9nMbDr3CS79XsXKW",
+      "name": "mono no aware",
+      "album_type": "single",
+      "release_date": "2022-01-15",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ee62670e86c2d7acbc178c1",
+      "uri": "spotify:album:6hqtO53IZVyv96yDLa2ycw",
+      "name": "walk my mind",
+      "album_type": "single",
+      "release_date": "2021-03-01",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a20aa6bfe827ada0e1c42d9f",
+      "uri": "spotify:album:1oo3ZJ7vLwJx8JJY3Rc7Hk",
+      "name": "compulation",
+      "album_type": "album",
+      "release_date": "2016",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc366060fbb88fec14344e0e",
+      "uri": "spotify:album:3NsKh6PSK6l5PGHFj5PlQa",
+      "name": "endless day",
+      "album_type": "single",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731579fe9f92808c40a4c9bad0",
+      "uri": "spotify:album:0ZhSoNqxPOWNdWVUOfJrIZ",
+      "name": "compuphonic",
+      "album_type": "album",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730be2bd17898744421ed1c036",
+      "uri": "spotify:album:6JRNRbnWpoy3UQkFy8Juq7",
+      "name": "skulk",
+      "album_type": "single",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273406dabd172c96b9b7ee83951",
+      "uri": "spotify:album:5rNzWiTC0ul0tunbCcFvfK",
+      "name": "standing alone",
+      "album_type": "single",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed4771703393a9a9d973f4b5",
+      "uri": "spotify:album:4Et8Umekx97rS2VCGpOWjE",
+      "name": "need to be proud",
+      "album_type": "single",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730143434c18038236cb562e15",
+      "uri": "spotify:album:1skzqEvoGfWsW0VTQk6kUS",
+      "name": "iii (remastered)",
+      "album_type": "single",
+      "release_date": "1999-01-01",
+      "release_year": "1999",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737212e09c533d4e13a8d55e30",
+      "uri": "spotify:album:5mZ7AZ4G7xX0FQkKQr9Z35",
+      "name": "walkout (demo)",
+      "album_type": "single",
+      "release_date": "1998-12-01",
+      "release_year": "1998",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "135UnVjvSQVYps8S7iYKPH",
+          "name": "echo image"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:06.000Z"
+}

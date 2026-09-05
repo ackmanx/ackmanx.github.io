@@ -1,0 +1,729 @@
+{
+  "name": "suicide commando",
+  "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+  "uri": "spotify:artist:4N99bzdRBNRi7hGNCpMuhu",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb13e785a45253df91621e5f3c",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "industrial metal",
+    "industrial rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dff87cb91e177e41dc27df9e",
+      "uri": "spotify:album:4SJrc8yw44075nHHaEWNAH",
+      "name": "destroyer of worlds (sgnls version)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        },
+        {
+          "spotify_id": "4ISX2aRyZ10uoLtypdPNai",
+          "name": "dstrtd sgnl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391b249a52270db93fb8e9dc9",
+      "uri": "spotify:album:3xm2qXbqUjyvjzHyDorRZi",
+      "name": "collective suicide vol. 2",
+      "album_type": "album",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1216de159b47fd96aed67ed",
+      "uri": "spotify:album:1eoGmeTXXIV9iYZjiO62Cq",
+      "name": "come down with me (2025)",
+      "album_type": "single",
+      "release_date": "2026-04-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733eb0fd4a5700ffd829ca13e8",
+      "uri": "spotify:album:6VgXDAYBctswpc3WrFSZYz",
+      "name": "final stage",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c371669117f1da04b8277fc5",
+      "uri": "spotify:album:6JcpLInfVem9146KZoJ1d9",
+      "name": "de weg",
+      "album_type": "single",
+      "release_date": "2025-06-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310ae41a776f25a5978f4ef0a",
+      "uri": "spotify:album:2YlwxYhXsq2B3zSiWXphc9",
+      "name": "face of death (v2023)",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1d37288eb784d1bc5971a7b",
+      "uri": "spotify:album:4YnD45QIeSRaD99HwPPyoE",
+      "name": "god is in the rain",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ym3y8IkrEBZzXemtjY6OF",
+          "name": "fatal nightmare"
+        },
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c4268417c29238d2a472f08",
+      "uri": "spotify:album:4EjMki9It23ZJU6OxQQfbw",
+      "name": "god of destruction",
+      "album_type": "single",
+      "release_date": "2023-05-25",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306fefd6a1b4874975893f438",
+      "uri": "spotify:album:5TLK9qt8VSa3Kb0KRhxNtq",
+      "name": "goddestruktor",
+      "album_type": "album",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395b7d767e442922a07ac2f17",
+      "uri": "spotify:album:6cYIBhjsn7mOb6ddY1IsUo",
+      "name": "bang bang bang",
+      "album_type": "single",
+      "release_date": "2022-04-14",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e4e60badf79eaaeb9d9153a",
+      "uri": "spotify:album:3d3Le4LgRRVb4wd4H0fuPQ",
+      "name": "trick or treat",
+      "album_type": "single",
+      "release_date": "2021-10-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a884deb0b675b2057bbe1f3",
+      "uri": "spotify:album:3Ew4S1vsc2p7zmYh832QS4",
+      "name": "mindstrip redux",
+      "album_type": "album",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737476dd4b572a29b1084ff295",
+      "uri": "spotify:album:5FzscAqqHeRt1zRMHkyO1o",
+      "name": "dein herz, meine gier / bunkerb!tch",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c543646b36b95097e7967a3e",
+      "uri": "spotify:album:4i52TRXgH6L4NGhPrncIvp",
+      "name": "hellraiser 2019",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d171411e633f0c5369c88e2e",
+      "uri": "spotify:album:5wU9jPCzrYD4dmyGvLEV5z",
+      "name": "death will find you",
+      "album_type": "album",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324d68e95486fb6d886dc846a",
+      "uri": "spotify:album:0TkSSIccpXDshKZRXsRYnH",
+      "name": "forest of the impaled (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a43ac8ddbf6d05ba6caedcd4",
+      "uri": "spotify:album:1HTReXF18ODTrbejSgqt4R",
+      "name": "forest of the impaled",
+      "album_type": "album",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731162b85a915cc29b87321c3c",
+      "uri": "spotify:album:3XDMcn6pndv0sci2Q8bWkg",
+      "name": "the devil",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273598f9cc4ef027fcf4a570565",
+      "uri": "spotify:album:5KqijRoXhxZ5bg8svVCmNr",
+      "name": "collective suicide, vol. 1",
+      "album_type": "album",
+      "release_date": "2016-10-22",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273702e1d40fc091c3d3fcba25d",
+      "uri": "spotify:album:34Zg3gquKvH8RBaUksqkbB",
+      "name": "the pain that you like",
+      "album_type": "album",
+      "release_date": "2015-07-24",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b474b36df836d7c7a3f0324",
+      "uri": "spotify:album:1Jz3yLoTvUQgdQ5W2bCWX5",
+      "name": "unterwelt",
+      "album_type": "album",
+      "release_date": "2013-12-03",
+      "release_year": "2013",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7a46fa82a195a6b4045495e",
+      "uri": "spotify:album:4OHZWWPCcrZsqm4aJIhJmF",
+      "name": "rewind (live vintage set)",
+      "album_type": "album",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384d9da10cda9534a5fddd8a0",
+      "uri": "spotify:album:6emqpc0vLytSxLnzj1OO3u",
+      "name": "when evil speaks",
+      "album_type": "album",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372445201cc137798f0da5bf9",
+      "uri": "spotify:album:3TtmoDfS9qJj2ZFn43Gdsh",
+      "name": "when evil speaks (deluxe)",
+      "album_type": "album",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356b4ca5622465fb260c06063",
+      "uri": "spotify:album:7pSM9iqw6wHqzJyzt2hUWO",
+      "name": "attention whore",
+      "album_type": "album",
+      "release_date": "2012-07-24",
+      "release_year": "2012",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e46ef784f1be59c5418f251",
+      "uri": "spotify:album:1HlDzpPt1ZMNGEfb6ieH2r",
+      "name": "the suicide sessions 1",
+      "album_type": "album",
+      "release_date": "2011-09-06",
+      "release_year": "2011",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d1f5c81f0ae93dbdb2fe59c",
+      "uri": "spotify:album:6h0wTCRXfGhldZVoFVndba",
+      "name": "the suicide sessions 2",
+      "album_type": "album",
+      "release_date": "2011-09-06",
+      "release_year": "2011",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352164d98cb38c6ddd4c20cf2",
+      "uri": "spotify:album:3ioGKSULfE1Wz7lwNVKfK0",
+      "name": "the suicide sessions 3",
+      "album_type": "album",
+      "release_date": "2011-09-06",
+      "release_year": "2011",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb8d8bae9a637ac0e2110ffb",
+      "uri": "spotify:album:5WMyLHN3PvfQpKhgCoOMS4",
+      "name": "death cures all pain",
+      "album_type": "album",
+      "release_date": "2010-11-26",
+      "release_year": "2010",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399790912ffe29902719d3001",
+      "uri": "spotify:album:0aheJe5uN2IjW3Lgr9ERwR",
+      "name": "god is in the rain",
+      "album_type": "single",
+      "release_date": "2010-02-23",
+      "release_year": "2010",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2887d3982fccf713f76dce3",
+      "uri": "spotify:album:14nPGkltzrSZRGn73UdTMk",
+      "name": "implements of hell",
+      "album_type": "album",
+      "release_date": "2010-01-23",
+      "release_year": "2010",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354206f1c39de3d27ca84472f",
+      "uri": "spotify:album:6blRCzuRWZI6cgCDXhXdRw",
+      "name": "implements of hell (deluxe)",
+      "album_type": "album",
+      "release_date": "2010-01-23",
+      "release_year": "2010",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfec36da4f2962b5055b342d",
+      "uri": "spotify:album:0BIkimL6vuCe3uDLkofCiP",
+      "name": "die motherfucker die",
+      "album_type": "single",
+      "release_date": "2009-09-22",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387c4125a29d5c3338fc59612",
+      "uri": "spotify:album:4E9CBBzL0tteAMV3xKK1hI",
+      "name": "until we die/severed head",
+      "album_type": "single",
+      "release_date": "2009-08-04",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735df63c7d8c8a52fc302a20ba",
+      "uri": "spotify:album:2JKQjKy159xjVh7EIv6ruE",
+      "name": "x.20 (remixes)",
+      "album_type": "album",
+      "release_date": "2007-10-23",
+      "release_year": "2007",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273357ae2acc08fc73f36023b1f",
+      "uri": "spotify:album:3jZJnk46vWMxmGFpal1dYp",
+      "name": "x.20 (1986 >>>>> 2006)",
+      "album_type": "album",
+      "release_date": "2007-05-25",
+      "release_year": "2007",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c23465c35e38185b80143939",
+      "uri": "spotify:album:46Hz6fmfFJuJAjX2aHwXBA",
+      "name": "bind, torture, kill",
+      "album_type": "album",
+      "release_date": "2006-03-24",
+      "release_year": "2006",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360eb46d715dc1726c2895568",
+      "uri": "spotify:album:6epbP4OOHZYqlwRl7giEcr",
+      "name": "godsend / menschenfresser",
+      "album_type": "album",
+      "release_date": "2005-10-28",
+      "release_year": "2005",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273275b3f615be5403801a38a85",
+      "uri": "spotify:album:33Dh6uWgjQBgsyymhc008k",
+      "name": "cause of death: suicide",
+      "album_type": "album",
+      "release_date": "2004-05-24",
+      "release_year": "2004",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358b15f026632e2d33aa7f3af",
+      "uri": "spotify:album:6iGPHcZSIB1GLlsYkzfd1o",
+      "name": "disposable paradise",
+      "album_type": "single",
+      "release_date": "2004-04-01",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc5dc250f04b5a60dcf62548",
+      "uri": "spotify:album:6OHVHo6bYax1m8om9aulmv",
+      "name": "axis of evil",
+      "album_type": "album",
+      "release_date": "2003-10-13",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dc77b657c8df79bf4aebd62",
+      "uri": "spotify:album:1SOi1K2W7lYbOOuvSp6V2r",
+      "name": "face of death",
+      "album_type": "single",
+      "release_date": "2003-05-26",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c772e6e149da5439faa7d7ab",
+      "uri": "spotify:album:0RpMMj2ODZaJRtMiLPYJyN",
+      "name": "love breeds suicide",
+      "album_type": "album",
+      "release_date": "2001-09-17",
+      "release_year": "2001",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731930d00a33dbcb50c5d1bf96",
+      "uri": "spotify:album:13CNwNUtBgHkN2FJOKObg3",
+      "name": "mindstrip",
+      "album_type": "album",
+      "release_date": "2000-10-11",
+      "release_year": "2000",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd406a0cfed6af075638d41d",
+      "uri": "spotify:album:3kMRbTp27xkx5HGxUpo6Ft",
+      "name": "hellraiser",
+      "album_type": "single",
+      "release_date": "2000-09-25",
+      "release_year": "2000",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273390fe33163d53ffe762c05ea",
+      "uri": "spotify:album:7l4Zeq0oGhSmn0iDEcZbkx",
+      "name": "comatose delusion",
+      "album_type": "single",
+      "release_date": "2000-05-24",
+      "release_year": "2000",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d1d0d16f0ed405cc48023d4",
+      "uri": "spotify:album:49VKDbUf1BViG8le3S27Se",
+      "name": "anthology",
+      "album_type": "album",
+      "release_date": "1994",
+      "release_year": "1994",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4N99bzdRBNRi7hGNCpMuhu",
+          "name": "suicide commando"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:08.000Z"
+}

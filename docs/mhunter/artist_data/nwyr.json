@@ -1,0 +1,464 @@
+{
+  "name": "nwyr",
+  "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+  "uri": "spotify:artist:558dSyN1mMqsKrEBcKJ2p0",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb844fae5c93b9b868ecfb0ca",
+  "genres": [
+    "big room",
+    "trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317848d2c83ab5688402b7473",
+      "uri": "spotify:album:3kXFaivwuP3YZ3T9jlCwsR",
+      "name": "venom",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273248753f706e5c3e3b07e9ec2",
+      "uri": "spotify:album:3KeZuUYNhMfZtbzIFzeYE4",
+      "name": "eternal whispers of the universe",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd3bc7429c0aeb6b208b8ba9",
+      "uri": "spotify:album:3FxeAvksXQAcq9zFV42G7p",
+      "name": "fight club",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d468b6892fcd2f13ad89454",
+      "uri": "spotify:album:3uVzRplKnlKereBzUsE4zG",
+      "name": "spitfire",
+      "album_type": "single",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273946427a86132957660c64f63",
+      "uri": "spotify:album:1W4Ubpu9smoA6FK1AjM5Ui",
+      "name": "oblivion",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369325078eee5458e7770c855",
+      "uri": "spotify:album:7jkW983ZBjrKdtx5NFxdpN",
+      "name": "music in the air",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "5QWt56OIzFSPRpD7VeRkbc",
+          "name": "axmo"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273479bd8b505b49837305fafee",
+      "uri": "spotify:album:4TSOXgTFZqsDHTqYVLwZEM",
+      "name": "s1r1",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737767abe83e16eaadb329f311",
+      "uri": "spotify:album:3FCgEIMhNRdxLWB3Twi5SB",
+      "name": "cocoon",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "4b2v3PBjJJCF2BX14lIAsT",
+          "name": "wiwek"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387b0d8b6fa72de044ac81256",
+      "uri": "spotify:album:2bNV7uiPfIAcRhytj8gKmK",
+      "name": "zero gravity",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273512d9d915573c74c67c933c6",
+      "uri": "spotify:album:4dRU6vnG1rmVgBvXs8dIFd",
+      "name": "the lone ranger",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312ad36e22e5594fd3d8b5bfa",
+      "uri": "spotify:album:6xVY57ycFbNT2Bd93He2yh",
+      "name": "year of the dragon",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273822df82cd6c0fe57fe0cae35",
+      "uri": "spotify:album:305hdRkjFIVlgKwCdda5mP",
+      "name": "intergalactic",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rFDTrANDLzf78L6dJ4nPP",
+          "name": "flrntn"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eb72c00f09c2d0857619acf",
+      "uri": "spotify:album:1veJKFx1wVO5ltrej0q6cS",
+      "name": "shenron",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c323619098efb5575bb81f32",
+      "uri": "spotify:album:4HwUNh03kMOtBKsdngvK6Q",
+      "name": "drakaina",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e47d30ca0f16f038ef063740",
+      "uri": "spotify:album:2PvXZ7Dm1gkb3VG6N6JuF8",
+      "name": "gamer",
+      "album_type": "single",
+      "release_date": "2020-08-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273385c355a5a70f6fbfc8fe7f4",
+      "uri": "spotify:album:7vt49WaB8jZvnXfky4y0US",
+      "name": "heart eyes",
+      "album_type": "single",
+      "release_date": "2020-04-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313f4fc3cfc9d47630fa8a4e4",
+      "uri": "spotify:album:5sJaIi5pdUnIIdrqiinVij",
+      "name": "mind control",
+      "album_type": "single",
+      "release_date": "2019-12-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273852abf6ae2a8e90316af919e",
+      "uri": "spotify:album:6JdZ9KOTu2V5A5Uqrn3o6D",
+      "name": "artificial intelligence",
+      "album_type": "single",
+      "release_date": "2019-04-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bdd228894aad9bf2a815230",
+      "uri": "spotify:album:1rJCmHbLCPoOpcx6aKr9Tk",
+      "name": "the melody",
+      "album_type": "single",
+      "release_date": "2019-02-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c7548e205a46d41db28b576",
+      "uri": "spotify:album:2faoTIvDkBn77KdyJ4kM9y",
+      "name": "wormhole",
+      "album_type": "single",
+      "release_date": "2018-08-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e519f8b145288e623b22025",
+      "uri": "spotify:album:4JlO9Cyh1Z7TUIxPuqf7ls",
+      "name": "time spiral",
+      "album_type": "single",
+      "release_date": "2018-08-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370635e953bad8d468c48300a",
+      "uri": "spotify:album:5l5fGRyRADfHxMzyrSsbLS",
+      "name": "ends of time",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d9202abc3ad51772d680e46",
+      "uri": "spotify:album:3B0AYoKOYusF3YLaPgpWyR",
+      "name": "dragon",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af418ba62833109ade617738",
+      "uri": "spotify:album:3bfLtRooRKPjVzc679oGu5",
+      "name": "saving light (nwyr remix)",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "gareth emery"
+        },
+        {
+          "spotify_id": "6mLXfZ1OfXde8Iy9BfKoHE",
+          "name": "standerwick"
+        },
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a8e30c1899860f1cbb32661",
+      "uri": "spotify:album:5VR57JXxBzRE9eUXBGCZQ3",
+      "name": "voltage",
+      "album_type": "single",
+      "release_date": "2017-06-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:53.000Z"
+}

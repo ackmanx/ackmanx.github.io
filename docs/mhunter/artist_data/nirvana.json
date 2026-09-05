@@ -1,0 +1,328 @@
+{
+  "name": "nirvana",
+  "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+  "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+  "image_url": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+  "genres": [
+    "grunge",
+    "rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273455143dda05c7961b95b29bf",
+      "uri": "spotify:album:68uIz7DtgDoPUFTKxdzL9t",
+      "name": "in utero (30th anniversary super deluxe)",
+      "album_type": "album",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 72,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733be8ab3554337a974f4df436",
+      "uri": "spotify:album:59l8Nwhl8l7mmxiVv9Bzbk",
+      "name": "in utero 30th live",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739aa37e5baca62ca6cc98d056",
+      "uri": "spotify:album:5eA0qtE7Yu29XiMlwoby2G",
+      "name": "nevermind (30th anniversary super deluxe)",
+      "album_type": "album",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 75,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a7781dd4f494d71fa0abf51",
+      "uri": "spotify:album:4bvBe5ZmDyzjr2IXhAC89x",
+      "name": "smells like teen spirit / in bloom / on a plain / lithium / breed",
+      "album_type": "single",
+      "release_date": "2021-11-10",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ae67ffec35f4fe12549c4a4",
+      "uri": "spotify:album:4CQinikFcfjjSfiHZNAwkq",
+      "name": "in bloom / on a plain / lithium / breed",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304979d4c7eef6e4ea9cd85ff",
+      "uri": "spotify:album:6ymAdkpotvyqpc52PH8rHZ",
+      "name": "on a plain / lithium / breed (live)",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392bf765184a1a7409f85619a",
+      "uri": "spotify:album:431UlB4LLO6ctKniV74i5g",
+      "name": "lithium / breed (live)",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae8cf76c405c91dcd44ce97d",
+      "uri": "spotify:album:1oJo5rtdYiVobz9z1ERf2m",
+      "name": "breed (live in amsterdam, netherlands/1991)",
+      "album_type": "single",
+      "release_date": "2021-09-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b74f766214d58b11d076c447",
+      "uri": "spotify:album:4Sdfp3NL90GZoYYwLmhk0H",
+      "name": "live and loud",
+      "album_type": "album",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4a6f69950d2469e896226f",
+      "uri": "spotify:album:5A7qhg1w3J1GVoPPTChYCF",
+      "name": "live at the paramount",
+      "album_type": "album",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340c5b0a60c587bd0cee5ee0c",
+      "uri": "spotify:album:01Z1nufhjxJVXVDuMRmNEM",
+      "name": "live at reading",
+      "album_type": "album",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733adeb53f00664f7d0623768f",
+      "uri": "spotify:album:26paS1Rzj1L0d3Zr1WBTIj",
+      "name": "from the muddy banks of the wishkah (live)",
+      "album_type": "album",
+      "release_date": "1996-10-01",
+      "release_year": "1996",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:album:1To7kv722A8SpZF789MZy7",
+      "name": "mtv unplugged in new york",
+      "album_type": "album",
+      "release_date": "1994-11-01",
+      "release_year": "1994",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ae2c8a304cfb62d0e029fb5",
+      "uri": "spotify:album:1tsNAUQqofHrnlezRK8D5R",
+      "name": "mtv unplugged in new york (25th anniversary)",
+      "album_type": "album",
+      "release_date": "1994-11-01",
+      "release_year": "1994",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:album:7wOOA7l306K8HfBKfPoafr",
+      "name": "in utero",
+      "album_type": "album",
+      "release_date": "1993-09-21",
+      "release_year": "1993",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+      "uri": "spotify:album:6ohX7moZZnF1FwYrli1OJ6",
+      "name": "in utero (deluxe edition)",
+      "album_type": "album",
+      "release_date": "1993-09-21",
+      "release_year": "1993",
+      "total_tracks": 43,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316265821c125a5c5c601dfb1",
+      "uri": "spotify:album:14VVqBoDw1SxoNLW3Cj3mN",
+      "name": "in utero (super deluxe edition)",
+      "album_type": "album",
+      "release_date": "1993-09-21",
+      "release_year": "1993",
+      "total_tracks": 60,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
+      "uri": "spotify:album:6ICrBzsbHVluGHP8wGK4Y3",
+      "name": "incesticide",
+      "album_type": "album",
+      "release_date": "1992-12-14",
+      "release_year": "1992",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
+      "name": "nevermind (remastered)",
+      "album_type": "album",
+      "release_date": "1991-09-26",
+      "release_year": "1991",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342b32e43479b6aa2cdf93c92",
+      "uri": "spotify:album:0CqchZDaOxckvjnKKfJh1w",
+      "name": "bleach (deluxe edition)",
+      "album_type": "album",
+      "release_date": "1989-06-15",
+      "release_year": "1989",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+      "uri": "spotify:album:1KVGLuPtrMrLlyy4Je6df7",
+      "name": "bleach",
+      "album_type": "album",
+      "release_date": "1989-06-01",
+      "release_year": "1989",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "nirvana"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:28.000Z"
+}

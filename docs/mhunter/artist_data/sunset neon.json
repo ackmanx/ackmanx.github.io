@@ -1,0 +1,251 @@
+{
+  "name": "sunset neon",
+  "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+  "uri": "spotify:artist:7LpQ9EjCi2klKhDUhAUa1s",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4f630b697752b45d586a33c9",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e59f5cc4216ea187ff9ad57",
+      "uri": "spotify:album:6E6we4Vx47oWtdlsxYSOLu",
+      "name": "breaking the surface (inspired by ‘the outlaw ocean’ a book by ian urbina)",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "7miGJahGF5JYOunptmXsQz",
+          "name": "ian urbina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273136c7e3011fcb85c1a943f61",
+      "uri": "spotify:album:5tZ5SqNtSB9kmAuujkVh9O",
+      "name": "starlight (remixes)",
+      "album_type": "single",
+      "release_date": "2019-01-24",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7fa3bac5c13fe78c0894703",
+      "uri": "spotify:album:6jDdE88lpT5yajZVT48W97",
+      "name": "starlight (savoir adore remix)",
+      "album_type": "single",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "2weMnYqCmtNUrSLAJq5dD8",
+          "name": "savoir adore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d3968416651669ac08ed504",
+      "uri": "spotify:album:6h61ZdXdCnoTpTOMgKu5T5",
+      "name": "everything (televisor remix)",
+      "album_type": "single",
+      "release_date": "2018-06-22",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "5h4HpujvLoTaqy2tkrs2DC",
+          "name": "televisor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326a01c5ed2832262494cbe62",
+      "uri": "spotify:album:4DIWwnbeiHbyyVFzumvpfq",
+      "name": "never dance again (battle tapes remix)",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "2TdEIqWbLnZZHYRDWvVj67",
+          "name": "battle tapes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390e3ead99f50f121cbc15b70",
+      "uri": "spotify:album:4CMypFD0AftNBwjpNaITTa",
+      "name": "you are the sun (robots with rayguns remix)",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "6jssSjs4Y74tBRuXyMKiMu",
+          "name": "robots with rayguns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a47d29c57e1d21f566713db1",
+      "uri": "spotify:album:45EYpl5xhE8ptebpLs2xNx",
+      "name": "everything (josh money remix)",
+      "album_type": "single",
+      "release_date": "2018-03-30",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        },
+        {
+          "spotify_id": "1Wr0V8NrAzBp0ftehUXb19",
+          "name": "josh money"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732316bd167a19f70c75ada5f8",
+      "uri": "spotify:album:6o57o477VyFrubOJqTMwUV",
+      "name": "starlight (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273562f1bc9483383c70cbbae06",
+      "uri": "spotify:album:33z1dDOtv7tdaZt4uf6fRM",
+      "name": "tonight",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ed7675dd5d714ecc771597",
+      "uri": "spotify:album:61O9TOaXwQV6kaBY7SYVqy",
+      "name": "got you",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d7df8a40d65fed9cb7ae7d5",
+      "uri": "spotify:album:27FPwOv08GRvTHdzHFqfio",
+      "name": "metrocenter 84",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb20c618d77ee5cf2a4a6df2",
+      "uri": "spotify:album:4P6Hr83hH2H2pjAPAmvRtx",
+      "name": "into motion",
+      "album_type": "single",
+      "release_date": "2017-07-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "42XkI7wAR6XWksLCmQ5AwO",
+          "name": "teammate"
+        },
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf53ec894c7785140c3ef970",
+      "uri": "spotify:album:5QlVhHfDHZ3djp3U6fumW2",
+      "name": "never dance again",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef74d3c38991d90205d9552f",
+      "uri": "spotify:album:5qaT4ux4IDmP9xboKssxdt",
+      "name": "lazer pink",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7LpQ9EjCi2klKhDUhAUa1s",
+          "name": "sunset neon"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:22.000Z"
+}

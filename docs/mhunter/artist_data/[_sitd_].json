@@ -1,0 +1,312 @@
+{
+  "name": "[:sitd:]",
+  "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+  "uri": "spotify:artist:2McJOiKebPtBGqyEYyZQFN",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc5138bd9ae7c1c88e027b044",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b34bf861bf8562784909c539",
+      "uri": "spotify:album:4C95B8Y21PDIZtk7uZzKOd",
+      "name": "brieselang",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c03be2883cff6819d431e69d",
+      "uri": "spotify:album:6D1qkIzsmXjvpsqWkuOXJ4",
+      "name": "my boat (remix)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3wMhiQCoDb4IB6Hg0HIvi3",
+          "name": "elezoria"
+        },
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b95a75595f04d14642f66db",
+      "uri": "spotify:album:1OSSGEbEx1fdCsWUVrPzqQ",
+      "name": "split ([:sitd:] remix)",
+      "album_type": "single",
+      "release_date": "2023-04-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4qHZF44iMWAe41wVgfL1je",
+          "name": "super dragon punch!!"
+        },
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731aee0aec594f5a357e560994",
+      "uri": "spotify:album:5hiSGjpwDcbb411odgLvTh",
+      "name": "requiem x",
+      "album_type": "album",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fbfbee8748a4aa18910d11f",
+      "uri": "spotify:album:4CV7dDX6sl4CCO3z8VYoKP",
+      "name": "stunde x",
+      "album_type": "album",
+      "release_date": "2019-05-10",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4272f5ee47c3ff1a1c0fa11",
+      "uri": "spotify:album:1G110lFs0MECCRxtkruEjw",
+      "name": "sturmlicht",
+      "album_type": "single",
+      "release_date": "2019-04-26",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e67044e6fd425f4a2e93497b",
+      "uri": "spotify:album:3rbHxPYyfkDFE2ddU3zhbz",
+      "name": "trauma: ritual",
+      "album_type": "album",
+      "release_date": "2017-03-24",
+      "release_year": "2017",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273360b7212cc24e4f91152c8d0",
+      "uri": "spotify:album:1IrhvupVtwdu8yFYe7yaVV",
+      "name": "brother death",
+      "album_type": "album",
+      "release_date": "2016-10-14",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab02aa31b5641121a25cdbb",
+      "uri": "spotify:album:1usetFfqS93D53HA5TnGz1",
+      "name": "dunkelziffer",
+      "album_type": "album",
+      "release_date": "2014-10-31",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff5e760532baa6d2aea5ab1c",
+      "uri": "spotify:album:2fOpyGmuG81otsMJsnAeOb",
+      "name": "dunkelziffer (bonus edition)",
+      "album_type": "album",
+      "release_date": "2014-10-31",
+      "release_year": "2014",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dc2604aa3283d8f7e64e41e",
+      "uri": "spotify:album:43Jq5TadskOYXRcjbax2UB",
+      "name": "rot (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2009-10-30",
+      "release_year": "2009",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9cbb70254ed9e8da397815b",
+      "uri": "spotify:album:3Z2UNVaS6bC3rSXRl3jWbQ",
+      "name": "bestie:mensch",
+      "album_type": "album",
+      "release_date": "2007-09-07",
+      "release_year": "2007",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4af96700e6cb448476291af",
+      "uri": "spotify:album:3PHG0oT6Mqkm9OtCT8hgsd",
+      "name": "odyssey:13",
+      "album_type": "album",
+      "release_date": "2005-11-14",
+      "release_year": "2005",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df67631b48b6b0a14dd31d45",
+      "uri": "spotify:album:62frnf4fRWRCLiiVbGkimF",
+      "name": "coded message:12",
+      "album_type": "album",
+      "release_date": "2005-03-29",
+      "release_year": "2005",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369b359ad524eb43cc50faa7d",
+      "uri": "spotify:album:7ps6FcKuEuky3HECxT5Yyy",
+      "name": "richtfest",
+      "album_type": "album",
+      "release_date": "2005-02-21",
+      "release_year": "2005",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8892429513dfeaa5832524e",
+      "uri": "spotify:album:6TuuXmqqPEaVtStif1Mj03",
+      "name": "amnesia",
+      "album_type": "single",
+      "release_date": "2005",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "60OFBH3eDdUxP7ost2ul96",
+          "name": "frozen plasma"
+        },
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273018ba6c90b2e2ecf0d399fa3",
+      "uri": "spotify:album:76uRmvxfG27nGUgFB2qFzM",
+      "name": "stronghold",
+      "album_type": "album",
+      "release_date": "2003-09-12",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e79f234e7b94f48ebd84f80a",
+      "uri": "spotify:album:5BZmSnMpbWhq1YjHZwEC0v",
+      "name": "laughingstock",
+      "album_type": "single",
+      "release_date": "2003-06-13",
+      "release_year": "2003",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389613c4b189cae6352e7752b",
+      "uri": "spotify:album:5toGiavQ46S13PLw8hvAs7",
+      "name": "snuff",
+      "album_type": "album",
+      "release_date": "2002-05-10",
+      "release_year": "2002",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2McJOiKebPtBGqyEYyZQFN",
+          "name": "[:sitd:]"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:01:37.000Z"
+}

@@ -1,0 +1,591 @@
+{
+  "name": "datsik",
+  "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+  "uri": "spotify:artist:48q2mPVwlKnlSaCx07i6Ta",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebdfee6ea6d0238ac2623b4d84",
+  "genres": [
+    "dubstep",
+    "dub",
+    "drumstep",
+    "riddim",
+    "deathstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6b1b8a94f504b96a685441e",
+      "uri": "spotify:album:0uO9LEHtmytPCtlUXRh1Hw",
+      "name": "stolen",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7b638fac4c58fc3359493e5",
+      "uri": "spotify:album:4KivZsvMkyixM29nvluZaA",
+      "name": "freestyle",
+      "album_type": "single",
+      "release_date": "2024-07-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a429d9ebb1ae00261ad069d6",
+      "uri": "spotify:album:5wJqskozhXdJrWZjIVkUsm",
+      "name": "afterlife",
+      "album_type": "album",
+      "release_date": "2023-04-06",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737656ba48fb3a7d77fcd14479",
+      "uri": "spotify:album:3WOHqMZ6XjavzcZPCnd16k",
+      "name": "master of shadows",
+      "album_type": "single",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300c3e7e115de118fd7d4da02",
+      "uri": "spotify:album:5Cs5M1jaSNUmTokRKgoRBF",
+      "name": "monster (remixes)",
+      "album_type": "single",
+      "release_date": "2017-12-15",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "6MiWYUZOD7VJbJNSx8nUNW",
+          "name": "1000volts"
+        },
+        {
+          "spotify_id": "7xTKLpo7UCzXSnlH7fOIoM",
+          "name": "redman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273108e000839d5cd05e05c11c0",
+      "uri": "spotify:album:2ckOYSXHr34qh65ygMPsM7",
+      "name": "monster",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "6MiWYUZOD7VJbJNSx8nUNW",
+          "name": "1000volts"
+        },
+        {
+          "spotify_id": "7xTKLpo7UCzXSnlH7fOIoM",
+          "name": "redman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca197cd5f765441c09bb0d96",
+      "uri": "spotify:album:0VG4UdbVHvgqhnKRxEHSj0",
+      "name": "sensei",
+      "album_type": "album",
+      "release_date": "2016-12-16",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b96f1cfe525e7bcf8f2109a",
+      "uri": "spotify:album:7FshLyKgJvzCDPwJTfHGBV",
+      "name": "darkstar",
+      "album_type": "single",
+      "release_date": "2016-03-25",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8628f3e7ff78210317ee8a9",
+      "uri": "spotify:album:4hpY3aQhp6H73BqwYbg1Ca",
+      "name": "smoke bomb (feat. snoop dogg)",
+      "album_type": "single",
+      "release_date": "2015-11-06",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273849a464afd88b843279515f2",
+      "uri": "spotify:album:483YmWIDOluEQScpVXliGb",
+      "name": "the blastaz",
+      "album_type": "single",
+      "release_date": "2015-03-09",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5c3akKV3CUqAVOnGZqf4S3",
+          "name": "barely alive"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aadc1389cd92209d4795b60",
+      "uri": "spotify:album:3OCIVzEie7ZlwFpTiyEaSi",
+      "name": "down 4 my ninjas",
+      "album_type": "single",
+      "release_date": "2014-11-25",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eefe785a45ca529088d2bcd5",
+      "uri": "spotify:album:6t3gamuTFkWq7eOpA2nqAp",
+      "name": "wickedest wobble (feat. bryx)",
+      "album_type": "single",
+      "release_date": "2014-11-25",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "1dnB1vdNYX4omsJ79vFMZY",
+          "name": "bryx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730757c2086992553bedfd4750",
+      "uri": "spotify:album:1uU853pYY1kxXNB02Qh8q4",
+      "name": "hold it down remixes",
+      "album_type": "single",
+      "release_date": "2014-04-15",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "3FXrLac81QW9ftwjSShV1o",
+          "name": "georgia murray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320d83311a79892b5d6581033",
+      "uri": "spotify:album:6uFYB6DXcT3PQxGh64t7oq",
+      "name": "let it burn",
+      "album_type": "album",
+      "release_date": "2013-09-24",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361bca82a1cd4a4315be72466",
+      "uri": "spotify:album:1HSd9ZrSgkYMhkKi8NiGzg",
+      "name": "release me remixes",
+      "album_type": "single",
+      "release_date": "2013-05-21",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d18659da022678a32ad7049a",
+      "uri": "spotify:album:4jMr8Hhd5D9zdcLKKMuoaz",
+      "name": "cold blooded ep",
+      "album_type": "single",
+      "release_date": "2013-01-22",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396401c7b924df82b5f5c86cb",
+      "uri": "spotify:album:6OGv1W0sjS0engT40fWQlc",
+      "name": "vindicate",
+      "album_type": "single",
+      "release_date": "2013-01-08",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b4e209fba553901882ad834",
+      "uri": "spotify:album:2jefbI7BFKfZleuS1Uexfa",
+      "name": "the king kong experiment",
+      "album_type": "single",
+      "release_date": "2012-05-08",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5z0cXmY4mdKeUt2X2Wn48i",
+          "name": "bare"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123f2bb023c8ec6d0561d12b",
+      "uri": "spotify:album:3rDTWMsLcO1LB74OaxbtUD",
+      "name": "pick your poison remix ep",
+      "album_type": "single",
+      "release_date": "2012-01-17",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "diplo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394877ab2106c94150a34c1cf",
+      "uri": "spotify:album:003ZLalOUycwh84WNlnbT2",
+      "name": "crazy ep",
+      "album_type": "single",
+      "release_date": "2011-11-21",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "14SfUBlZLAR1xrTwEUCQ1o",
+          "name": "subvert"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "4pLGxDxNWIEhhLdfx3KjKE",
+          "name": "fat pat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b13580bb2276915956375e48",
+      "uri": "spotify:album:5Z6BF4aea6je7IQ3oyqDVN",
+      "name": "pick your poison feat. kay",
+      "album_type": "single",
+      "release_date": "2011-08-02",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "diplo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386a4f836f38b7a6bce73c7fc",
+      "uri": "spotify:album:2Dqq15LZH01oeqhjmSBVcp",
+      "name": "hydraulic / overdose",
+      "album_type": "single",
+      "release_date": "2011-06-20",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7c9e4d8dc81a5ae3c7eb374",
+      "uri": "spotify:album:6Lbls0bfe5CXhtmK2uC7HR",
+      "name": "firepower / domino",
+      "album_type": "single",
+      "release_date": "2011-06-13",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2d32e8fce7b7f2593b68b1a",
+      "uri": "spotify:album:2nuXhtkQJaTwZ5EzAnmKC6",
+      "name": "king kong",
+      "album_type": "single",
+      "release_date": "2011-05-11",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5z0cXmY4mdKeUt2X2Wn48i",
+          "name": "bare"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739db8aeb19d49429a54acf79d",
+      "uri": "spotify:album:5qYQ9oyTmCuDoAMJt3XsrZ",
+      "name": "tales",
+      "album_type": "single",
+      "release_date": "2010-07-09",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "2bOTjfapTORYxmHkjEKNxu",
+          "name": "mekor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273556e7e9e0061748c3e19631a",
+      "uri": "spotify:album:3JErDF252uFDPaaO5FOajH",
+      "name": "boom / swagga (remixes)",
+      "album_type": "single",
+      "release_date": "2010-07-05",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396b3921176f458ec7868b4eb",
+      "uri": "spotify:album:7ikhiXmY6TGlYbncn1rbTM",
+      "name": "retreat / no escape (remixes)",
+      "album_type": "single",
+      "release_date": "2010-06-28",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273093c9844c6c535a24efe8186",
+      "uri": "spotify:album:4lvsy2dWMgbE1J4bPjuYJ7",
+      "name": "texx mars ep",
+      "album_type": "single",
+      "release_date": "2009-11-10",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "3V1h3kAdiVDBiwlY2i6dJz",
+          "name": "12th planet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5fc3d77ef79546716266702",
+      "uri": "spotify:album:5uZVg2nAmzUeyb8bCdvzRa",
+      "name": "swagga / invaderz",
+      "album_type": "single",
+      "release_date": "2009-09-28",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273924452705e49eca75777e713",
+      "uri": "spotify:album:6e0KtKUgzUvi7DWh6kcVFn",
+      "name": "boom ep",
+      "album_type": "single",
+      "release_date": "2009-06-15",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5FKchcZpQOkqFvXBj1aCvb",
+          "name": "excision"
+        },
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d19d82d0efb7b67e11328b2",
+      "uri": "spotify:album:5Wz8845COZi3fnc8nBEVgx",
+      "name": "nmw r.t.c.",
+      "album_type": "single",
+      "release_date": "2007-07-07",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5197d5180bf8f01b7d9d108",
+      "uri": "spotify:album:1Db60fpbvFnFYDHQxX0l1y",
+      "name": "again",
+      "album_type": "single",
+      "release_date": "2005-07-01",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d13f5d9d523a48a0563638f",
+      "uri": "spotify:album:3i9a4MRb8SL930fR2ofBwC",
+      "name": "kiddin again",
+      "album_type": "single",
+      "release_date": "2003-07-04",
+      "release_year": "2003",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "48q2mPVwlKnlSaCx07i6Ta",
+          "name": "datsik"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:14.000Z"
+}

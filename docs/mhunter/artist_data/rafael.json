@@ -1,0 +1,153 @@
+{
+  "name": "rafael",
+  "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+  "uri": "spotify:artist:0YvoffAPpMxX5afQAsq7Zz",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebb900b2eb73373bd91075af64",
+  "genres": [
+    "melodic bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734879df469554d672d8bed095",
+      "uri": "spotify:album:2pcMIZzRC0W0j61ZvFklcD",
+      "name": "wish i never met you",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        },
+        {
+          "spotify_id": "2xBqbgyspDkDDP2C3YDfwO",
+          "name": "tu2zi"
+        },
+        {
+          "spotify_id": "76NLTi5WmCsLWxTJ9qnJWV",
+          "name": "maria ellis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731271d6d651a1520d9163c135",
+      "uri": "spotify:album:02PzeYIYEOkjSKV80qWj4s",
+      "name": "flat on my face (remix)",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fkfeksXohRMypM9kdYjNb",
+          "name": "able grey"
+        },
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        },
+        {
+          "spotify_id": "3fNJYQvnucBeI9BfNwMC5i",
+          "name": "gianni taylor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7a8fcf241f94fcec87e8b93",
+      "uri": "spotify:album:6l7CmdT7SOFXvxxSFK2vjD",
+      "name": "when no one's there",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        },
+        {
+          "spotify_id": "477tsxxnnHIlgh6oY6t9eq",
+          "name": "noah cunane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739248d7143d55c20d723f0c0c",
+      "uri": "spotify:album:3mdnHP8LX41hRMBF0E9u85",
+      "name": "hard to love",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273993a0a25af5d54df798a1823",
+      "uri": "spotify:album:4aNhxQdVvWoBoFWt0CTc2A",
+      "name": "off my mind",
+      "album_type": "single",
+      "release_date": "2023-01-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        },
+        {
+          "spotify_id": "2EgZbmrVmkjTMsR3tfY5aH",
+          "name": "rowan skye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1806f0fe8799eb54138403f",
+      "uri": "spotify:album:3evWLJqfH5pQqqHAGcFmvM",
+      "name": "only you (rafael remix)",
+      "album_type": "single",
+      "release_date": "2023-01-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ZR5GnPw0Jkb5M4hnBwzuZ",
+          "name": "avello"
+        },
+        {
+          "spotify_id": "2YgqLAnWn4nq4epnzMxQfe",
+          "name": "madeline austin"
+        },
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387d0b2b34b7ebd026b739ffc",
+      "uri": "spotify:album:30H56CVuKaS9EuhkqmJZBH",
+      "name": "make you mine",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0YvoffAPpMxX5afQAsq7Zz",
+          "name": "rafael"
+        },
+        {
+          "spotify_id": "495fhiSKmySxaKl9JDifOj",
+          "name": "segfault"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:18.000Z"
+}

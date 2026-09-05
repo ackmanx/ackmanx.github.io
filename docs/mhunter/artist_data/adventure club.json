@@ -1,0 +1,1219 @@
+{
+  "name": "adventure club",
+  "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+  "uri": "spotify:artist:5CdJjUi9f0cVgo9nFuJrFa",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb04dd26cc737ffd8385afa230",
+  "genres": [
+    "melodic bass",
+    "dubstep",
+    "edm",
+    "chillstep",
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbe4a116670d0f36f41e78b8",
+      "uri": "spotify:album:1CxcZow5xpjQgmyqCvNGWj",
+      "name": "stay",
+      "album_type": "single",
+      "release_date": "2026-06-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "1qPnPqJgsdITO3InYqGMhJ",
+          "name": "i'm yours"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d53b625d92999d89bc96dace",
+      "uri": "spotify:album:7GCI7qhAoZy3OjQrOAfQYv",
+      "name": "calling all heroes ii",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739935b1a059d1fff8dcd5c4c6",
+      "uri": "spotify:album:5PCDHK6YWAVHePq6pG2BOu",
+      "name": "all that's real",
+      "album_type": "single",
+      "release_date": "2026-05-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4tCRRxANqaE3qGSGLz0y3Q",
+          "name": "medii"
+        },
+        {
+          "spotify_id": "7ErksWhMMsmGtgT1l1e159",
+          "name": "britt lari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb586db5925c1a142d2261f0",
+      "uri": "spotify:album:04aPRBazOgeVdBsamNTQsv",
+      "name": "enough",
+      "album_type": "single",
+      "release_date": "2026-05-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4AO0IoqoaN0H4OVuMeR3EL",
+          "name": "3thos"
+        },
+        {
+          "spotify_id": "6AKiapdvTAXauBNZ7DxS3z",
+          "name": "gilliad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731171756945fef241406ce30b",
+      "uri": "spotify:album:4u7bcmCZfX37xaXVpvHDPp",
+      "name": "let it go (feat. nevve)",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1c8e5f906cab091fcdb68f0",
+      "uri": "spotify:album:26KY5Noaiuq6EZB5CTiEpC",
+      "name": "goddess",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "0tRFWXqKBBQcu5oFVOgVzX",
+          "name": "jaira burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273060f376f0ede63aed40d5f1b",
+      "uri": "spotify:album:7yyKVaRz7VtR6hPpbXgECP",
+      "name": "cry",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "1ZR5GnPw0Jkb5M4hnBwzuZ",
+          "name": "avello"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318258f5433df629da649c8dc",
+      "uri": "spotify:album:1jfgMCeL6ci1Cx4gQDtcEE",
+      "name": "as long as i got you",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2K9qsrYnsu1EWt7ZQkkuXb",
+          "name": "ray volpe"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5geN2OR9RjdTQKSqx5Mb9r",
+          "name": "dalton diehl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d5573a126c5cb1f0f3489e3",
+      "uri": "spotify:album:0lnpqZ2Tm9PDRI5eCUdHlu",
+      "name": "ordinary",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aeb89b2af64efacb4f8cac51",
+      "uri": "spotify:album:0JGmHfIjJ7OZWrPUtmZYyN",
+      "name": "light me up (feat. rêve)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "1fw6qimskalGQg0oSABmnX",
+          "name": "flight school"
+        },
+        {
+          "spotify_id": "06vEAqcicwoSBw85e8biJx",
+          "name": "rêve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd12f6d3f87a2325ce9c6a69",
+      "uri": "spotify:album:1SktQYPn7qNU8dJJEI9XFz",
+      "name": "nothing to lose",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1bf9dd66e89c1ac63d9ca4e",
+      "uri": "spotify:album:5MnhIRWiQ5SX6D5rCA4gzf",
+      "name": "move",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3q9nybxzbSHsesDBHUlP4c",
+          "name": "coleman hell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340d051996e321f2437c9bd49",
+      "uri": "spotify:album:2klUVqoqhJMLirioyC8DxX",
+      "name": "set me free",
+      "album_type": "single",
+      "release_date": "2025-01-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7dtX3ykcuyVmts2HQnWgSP",
+          "name": "kompany"
+        },
+        {
+          "spotify_id": "6jJS6oEAQ78VJ7RhG3KS4M",
+          "name": "sara benyo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364174ecf552c46a9862074cf",
+      "uri": "spotify:album:3MoeBhEJP75F5cS7oqxhmW",
+      "name": "play the game",
+      "album_type": "single",
+      "release_date": "2024-07-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "04vdWVjgi45nrMAxeCEVQe",
+          "name": "bear grillz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731186575dccb7cb6cce62660c",
+      "uri": "spotify:album:7I2VE1YSuYCXY4SzVzbojo",
+      "name": "hero",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4odLDriBk6oEZotzLPTSnD",
+          "name": "jessica audiffred"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388a46fca59c9eb9e602d376b",
+      "uri": "spotify:album:6kNbjMxKLsoplhgfPomGce",
+      "name": "voices",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7vbAs9frQTkhTyOWWIwsSL",
+          "name": "medyk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f56a01e9677129fd561ec32d",
+      "uri": "spotify:album:2BP6zvUEaHNqxyTCSUGXPZ",
+      "name": "how do i say goodbye (feat. delaney jane)",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3fuxStOqQv8TiytHeuGiE8",
+          "name": "delaney jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332d0b4a46d42d15dce4c830c",
+      "uri": "spotify:album:1EE0HJG6YJbTz2UPCVxdJI",
+      "name": "feels like you",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329af96562eb9217656ef82d1",
+      "uri": "spotify:album:6k7ASb40R8wBiQymSSwwh0",
+      "name": "you can't break me (feat. brandon saller of atreyu)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1CXuuw8HJhyN80HlNzvL1e",
+          "name": "sullivan king"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3LkSiHbjqOHCKCqBfEZOTv",
+          "name": "atreyu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737996b14187b4682031ce3218",
+      "uri": "spotify:album:0TNgUfGot6W2bnm9rvsGqu",
+      "name": "you found me",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4odLDriBk6oEZotzLPTSnD",
+          "name": "jessica audiffred"
+        },
+        {
+          "spotify_id": "7pNT2JErag4HzHSJk6z2w2",
+          "name": "clara park"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c6f70fbc5ea6d50d03c6dc2",
+      "uri": "spotify:album:38haxLY6t7eY3LJtd7cN8R",
+      "name": "next to you (feat. kane brown) [adventure club remix]",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6t1gpxYbY8OlLA7D2RiikQ",
+          "name": "loud luxury"
+        },
+        {
+          "spotify_id": "5X4LWwbUFNzPkEas04uU82",
+          "name": "dvbbs"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c753a1834e3aaf2d181a4029",
+      "uri": "spotify:album:0jhacMMo2oIXqV5TzSCdTf",
+      "name": "everything to me (adventure club remix)",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "2ZhePG2W9cLGMgTk7i6WZL",
+          "name": "lips"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc2acb2a7f9f6bc41eb41f55",
+      "uri": "spotify:album:6icWyduCnRXtFYlEBPgavf",
+      "name": "fuck your sunshine (adventure club remix)",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6jxGLrn1I14RIeRYodOpLN",
+          "name": "łaszewo"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366ae15842c8e4ab079090c2c",
+      "uri": "spotify:album:2Hskj4JWDAV8T8NhnPQ43o",
+      "name": "leviathan",
+      "album_type": "single",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5eNxx0VmxNINub3wOEzALm",
+          "name": "grumgully"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5afcd4e92b8e82efbdeb1d2",
+      "uri": "spotify:album:3Iz1TViTuDQ6C7Cyn5CD7k",
+      "name": "love // chaos",
+      "album_type": "album",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d5f991e06096a396057586b",
+      "uri": "spotify:album:4ax0dTR5OIWQzEl6Kxjf3U",
+      "name": "away from myself",
+      "album_type": "single",
+      "release_date": "2021-12-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4XH5qVwKcWRS0Z6tr85exf",
+          "name": "alrt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365c05c6f1373868210074788",
+      "uri": "spotify:album:0hYDxYfuKvXenzLDQCDDiT",
+      "name": "never surrender (feat. sarah de warren)",
+      "album_type": "single",
+      "release_date": "2021-11-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "7FZKXzbyCoai0fEh65kZKp",
+          "name": "codeko"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732312c163d39420a9c75b67d9",
+      "uri": "spotify:album:0Ses42ZeJqIBmo6wT7wHo0",
+      "name": "drive (feat. tilian)",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "2Wzb0u138rgoZQTK3ytknT",
+          "name": "beauz"
+        },
+        {
+          "spotify_id": "2hj2E6c3lMHm5QlqsQFI04",
+          "name": "tilian"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2fe9c34ca093a355b350a4f",
+      "uri": "spotify:album:4jMHLsSeA6AmzbuRDcd6a3",
+      "name": "here",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8cbab3784e7e08723f17e08",
+      "uri": "spotify:album:4fqs0EYl8B2xOULEAKgIMK",
+      "name": "colorblind (feat. dayseeker)",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "757FXqX0Osk2pqtgv4E5v4",
+          "name": "nurko"
+        },
+        {
+          "spotify_id": "5FjQVp1Lb0kltmwIuu5kfj",
+          "name": "dayseeker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347b70fce6e854ba3e3ac3743",
+      "uri": "spotify:album:0dTrJ6VR7k4dR6MfFIVLeq",
+      "name": "safe with me (feat. luma)",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3HCdCKVvXJakGRbVRO5OTa",
+          "name": "soar"
+        },
+        {
+          "spotify_id": "29siAJ78u7y79BYOyh0lbp",
+          "name": "luma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdab91d2fe737081be9823f5",
+      "uri": "spotify:album:2OXiPzX4OiL3CtHOdLzTfX",
+      "name": "you'll never be alone",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "55FVjkpZs1zuo3zqBgrKtC",
+          "name": "kaivon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273113b3d7889a2c939be425cae",
+      "uri": "spotify:album:6uDU3TCFkHhFEHZIgjkpdi",
+      "name": "anywhere",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "0P2bZXPyjHYRW4guHVAFl1",
+          "name": "armnhmr"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735619f6920612155e74199884",
+      "uri": "spotify:album:6lFeXNhsYbxSgR6tXV4hTB",
+      "name": "broken love (feat. cammie robinson)",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4CzzY9kG8C2BLOuTuy3oLe",
+          "name": "cammie robinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734269d7e8fbe294b139180f13",
+      "uri": "spotify:album:1cU7vhXZCi0Kd8yQbm7lYi",
+      "name": "where we are (with adventure club & jt roach)",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "04vdWVjgi45nrMAxeCEVQe",
+          "name": "bear grillz"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5CtI0OHj5x6rHQDqpM4JPy",
+          "name": "jt roach"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393e7bb9001393ad15e89a443",
+      "uri": "spotify:album:4YOKAwUQ3GgjdaAYTu9FRP",
+      "name": "high like this (feat. dia frampton)",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "23Ud9TI3CpiqMUY6tBZEb6",
+          "name": "squired"
+        },
+        {
+          "spotify_id": "3ppkM4QtM781APpaX7H9t7",
+          "name": "dia frampton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e45765576af9f905767cb45d",
+      "uri": "spotify:album:2dqI1rCKLTNGmA7IB82S8s",
+      "name": "back to you (feat. sara diamond)",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4azg4dtpH6PiewGHFzQEj0",
+          "name": "sara diamond"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380ab7abb32475c772d6e12ca",
+      "uri": "spotify:album:1sELGaIK2VriAg23UePIV2",
+      "name": "rebellious (feat. yuna)",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "3kHVioJpVxlazAAKQ64pC1",
+          "name": "yuna"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4ed293170bbec426d6b3b1c",
+      "uri": "spotify:album:3059LLrKquGH2WqHNsk38X",
+      "name": "already know (feat. caly bevier) [cinematic remix]",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        },
+        {
+          "spotify_id": "5jMdkF29epK5cTCeMV17fh",
+          "name": "caly bevier"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8e55797f6949bc26973a84b",
+      "uri": "spotify:album:7bUYpUXyH3hQGyazCvcABf",
+      "name": "the death or glory sessions",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309280207f6e10813772b70fa",
+      "uri": "spotify:album:1a79KvFTLAdsT1eHVq0SeG",
+      "name": "already know",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        },
+        {
+          "spotify_id": "5jMdkF29epK5cTCeMV17fh",
+          "name": "caly bevier"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8befda6a42ec3fb36b9706e",
+      "uri": "spotify:album:0HjclmJ4fNr7vvSmTnKnWR",
+      "name": "next life (feat. krewella) [byor remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0Upxnyh9nIUNSOmNE8WF4R",
+          "name": "byor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5ca4e57e0bda592fb2a74ed",
+      "uri": "spotify:album:231jkCKysiZ4rRVHdaq1Vc",
+      "name": "next life (feat. krewella) [mom n dad remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "1pIDhGVK4FmhaEZc3anyHC",
+          "name": "mom n dad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737223bf8b3b13c79d095f8bcf",
+      "uri": "spotify:album:4Xz2LRFui8S6BFJRvYV4Nw",
+      "name": "next life (feat. krewella) [yehme2 remix]",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "3kvnhwUU4VSXQqr2r9j6OO",
+          "name": "yehme2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e485f76e79dddc6ebbc9c993",
+      "uri": "spotify:album:2RIwNtR8DoHM4GlTxFNv39",
+      "name": "life long after death (feat. badxchannels)",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19EW4WBhl0fvZUQgi7wV5M",
+          "name": "quix"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "0OR5S6miBNzMyJG2JqUI9g",
+          "name": "badxchannels"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735193d1b87c95322af9d43466",
+      "uri": "spotify:album:0jMQukO1zbFAQFxXuV2UsM",
+      "name": "makedamnsure (flørals remix)",
+      "album_type": "single",
+      "release_date": "2019-04-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "0jixbi9GWL8XeSnc0qwIHb",
+          "name": "modern machines"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee2f952ca98fe37d3395f9f7",
+      "uri": "spotify:album:1qY8L7CXdYKIRlMbomzR5k",
+      "name": "next life",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd354baf4ba8fa12873e058e",
+      "uri": "spotify:album:0kIn0ITOheHAgKJrXHZ0wa",
+      "name": "makedamnsure",
+      "album_type": "single",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "0jixbi9GWL8XeSnc0qwIHb",
+          "name": "modern machines"
+        },
+        {
+          "spotify_id": "35rPDAvcHOnhrMVmqhQ6BM",
+          "name": "saint slumber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739aa85b19c1638e63523c78b2",
+      "uri": "spotify:album:41PDVeC32cZtfkSQOIIkkG",
+      "name": "follow me",
+      "album_type": "single",
+      "release_date": "2018-12-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa8199452ed2d706e061d91d",
+      "uri": "spotify:album:7cnScdZaINdVCzUj6bfwGM",
+      "name": "undercover (adventure club remix)",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0cGUm45nv7Z6M6qdXYQGTX",
+          "name": "kehlani"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a94ebe02c7de6b2faca4adc1",
+      "uri": "spotify:album:0K7Og050SbKXSKXijCofik",
+      "name": "red // blue",
+      "album_type": "album",
+      "release_date": "2016-12-02",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df4537dd0bf6db67943f38f5",
+      "uri": "spotify:album:15bZAgMvnRs1Uqz8Q1VAFo",
+      "name": "unleash (life in color anthem 2014) [feat. zak waters]",
+      "album_type": "single",
+      "release_date": "2014-04-16",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "1OdAFwSTKvyGUpcqcWiv8R",
+          "name": "david solano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332b27b54db2cc80024d5fdc2",
+      "uri": "spotify:album:3Wi7Mwc31hrN7WZCxKM9Ke",
+      "name": "calling all heroes",
+      "album_type": "single",
+      "release_date": "2013-10-29",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b5028b9160be5980ae37c4e",
+      "uri": "spotify:album:55Itl3hDhyFUhXQhdQedHd",
+      "name": "youth (adventure club remix)",
+      "album_type": "single",
+      "release_date": "2013-09-24",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7qRll6DYV06u2VuRPAVqug",
+          "name": "foxes"
+        },
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273872d36c847ab60b75f2aadc3",
+      "uri": "spotify:album:6WnWbtGUf34J3zNeqgN87q",
+      "name": "need your heart remixes",
+      "album_type": "single",
+      "release_date": "2012-12-18",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319e79808e21732da1c4a6a2f",
+      "uri": "spotify:album:7EFAbqe9dcHTkhVvACZKMu",
+      "name": "retro city",
+      "album_type": "single",
+      "release_date": "2012-08-01",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a036904d2eb70d192d8dc1c2",
+      "uri": "spotify:album:1YKm8P1Bx41IncAZfAljIY",
+      "name": "need your heart (feat. kai)",
+      "album_type": "single",
+      "release_date": "2012-06-22",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f98b496ec4feddeebb4ff8f",
+      "uri": "spotify:album:0p63kPRJaZVZF8NQJZmEIY",
+      "name": "rise & fall (krewella remix) (feat. krewella)",
+      "album_type": "single",
+      "release_date": "2012-06-11",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351e972dd24b50fb9b8d4b8c6",
+      "uri": "spotify:album:6DOFlwQ7wFs0YsG8hoK1EJ",
+      "name": "rise & fall (feat. krewella)",
+      "album_type": "single",
+      "release_date": "2012-05-31",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac50041a508695644ebd63b3",
+      "uri": "spotify:album:3ts0TeqYP2nd15uzDr84CT",
+      "name": "do i see color (big gigantic remix)",
+      "album_type": "single",
+      "release_date": "2012-05-11",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314bed3e4dd03cc4c19bae494",
+      "uri": "spotify:album:1mQf3j7qaUMlsvfKOzuRMG",
+      "name": "do i see color - single",
+      "album_type": "single",
+      "release_date": "2012-02-14",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:01:48.000Z"
+}

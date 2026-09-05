@@ -1,0 +1,1267 @@
+{
+  "name": "krewella",
+  "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+  "uri": "spotify:artist:0Cd6nHYwecCNM1sVEXKlYr",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1c53621c18aea84298018a25",
+  "genres": [
+    "edm",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cc2ad0685d217ff03aaa65c",
+      "uri": "spotify:album:2NET7sWOvYpiFKtrQwpWLc",
+      "name": "the blueprint",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273495ef731fc8a64117c501533",
+      "uri": "spotify:album:69VqvgJmhI2M7C8c1REEmj",
+      "name": "something sacred",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6b7a8fac7abcbb7e35bb4e4",
+      "uri": "spotify:album:1p8NwUCRGnRQ5SPgZb9lNT",
+      "name": "crying on the dancefloor (matrix & futurebound remix)",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0752583588df712a51f8cce",
+      "uri": "spotify:album:0198aXZconibXvFhUMXx3x",
+      "name": "eternal (satoshi remix)",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c24dcf248caa573d192fd9cc",
+      "uri": "spotify:album:5JbnxSY7fjom9WaIFwCZOV",
+      "name": "moondance",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4dISa0JRkcDejaBcsloVin",
+          "name": "mercy. mercy. mercy."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e0c6d4d8e1c8eef216ccbdf",
+      "uri": "spotify:album:2wUoe5FrQIOGxdta7BY56D",
+      "name": "without you",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6e37a8c82f83389bb341c47",
+      "uri": "spotify:album:5t7aJa1PS3F4sIoEwiXjhm",
+      "name": "eternal",
+      "album_type": "single",
+      "release_date": "2025-11-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d649edffebfc8c9feae504e9",
+      "uri": "spotify:album:2eBcYBlG9vIfWxJRgupw1R",
+      "name": "crying on the dancefloor",
+      "album_type": "single",
+      "release_date": "2025-06-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332a8c42ce9918de4809dde51",
+      "uri": "spotify:album:40pY1JPprNZ1DaFPV2LeJR",
+      "name": "drive away (the remixes)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320776f5606aae58b46f54af4",
+      "uri": "spotify:album:4I8fZ7nj2Et31S3KncBbxk",
+      "name": "drive away (the remixes)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f57a927fc820fc7b1b478bb",
+      "uri": "spotify:album:4f5xCHKOJaAPEMGTrgFRPg",
+      "name": "drive away (retrovision remix)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "6heMlLFM6RDDHRz99uKMqS",
+          "name": "retrovision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733af26fb901190e2248e2bb22",
+      "uri": "spotify:album:2PGTGjm8FJef8xQFFwKEwT",
+      "name": "never been hurt (remixes)",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "2Wzb0u138rgoZQTK3ytknT",
+          "name": "beauz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbe13bde5c77924a67816682",
+      "uri": "spotify:album:6rV030aZ3rL1vqEbUBoodD",
+      "name": "never been hurt (remixes)",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "2Wzb0u138rgoZQTK3ytknT",
+          "name": "beauz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f643a99561866e3bcba2603",
+      "uri": "spotify:album:0p6PZU8xBYM1YgxxX1zlRc",
+      "name": "the body never lies",
+      "album_type": "album",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273602719781620240897cb03a9",
+      "uri": "spotify:album:1TILMmAAKEWArxesHlrqOU",
+      "name": "i'm just a monster underneath, my darling",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a82c94229351ef4554de2af8",
+      "uri": "spotify:album:4kfYq4PhFlLxL86Qv86jFK",
+      "name": "no control",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "5kDQRbBoi2kxCHuR3YXzaX",
+          "name": "madgrrl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa5c838ad40e39705af5864f",
+      "uri": "spotify:album:4LVKpfclWejfD1FMfGgdDr",
+      "name": "never been hurt",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "2Wzb0u138rgoZQTK3ytknT",
+          "name": "beauz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390e8c24e5cecc71ed6a26c4f",
+      "uri": "spotify:album:3fZDnKkS2DmheNbxkSADFg",
+      "name": "runaway (coke studio season 11)",
+      "album_type": "single",
+      "release_date": "2021-06-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "7xL0WrnmFNsnjfgCcXvdLS",
+          "name": "riaz qadri"
+        },
+        {
+          "spotify_id": "0xnOwJXmtgiBD61tB1sJzg",
+          "name": "ghulam ali qadri"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e870dea3ee425b6dc94c60ef",
+      "uri": "spotify:album:4U2FAIKFi08KtTnBCdArxj",
+      "name": "goddess (sippy remix)",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "4LLYqe8ogaK9wC1xHlvR5S",
+          "name": "sippy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736954d418a136986b1565ba4f",
+      "uri": "spotify:album:5HwEwCHxkqp8mZN5GszPM1",
+      "name": "goddess (holly t remix)",
+      "album_type": "single",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "5cBFMoMgcAt03YL2r0tS25",
+          "name": "raja kumari"
+        },
+        {
+          "spotify_id": "1r5lkGxVUvzfpxk4iuSYmX",
+          "name": "holly t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af0b5392f848820f49ea4976",
+      "uri": "spotify:album:6ZiM7deUfUFH70tMSluHqv",
+      "name": "goddess (brooke evers remix)",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "7KkfsUfXaB3RNWHKczS6s1",
+          "name": "brooke evers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735897bba4c73e08d1c00bab52",
+      "uri": "spotify:album:5gtdvhoC6ES3HeeS84UlzE",
+      "name": "rewind",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "yellow claw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e3b93e233020f27cb292827",
+      "uri": "spotify:album:34a72beTRCPtigmNlHdy3G",
+      "name": "goddess",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "5cBFMoMgcAt03YL2r0tS25",
+          "name": "raja kumari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff45c1d0e51047a27f00c3ac",
+      "uri": "spotify:album:6nGMaB1IEmSXV6UIacR8Ov",
+      "name": "greenlights (acoustic)",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da09f8eada5b01bd2de97805",
+      "uri": "spotify:album:70sF29QpYGVUTHX8MLZFPJ",
+      "name": "zer0 (the remixes, pt. 2)",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea2d9a5de6b4d9a56e6aac28",
+      "uri": "spotify:album:129FJwJsZF4LCCw6oTdRIQ",
+      "name": "zer0 (the remixes, pt. 1)",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eae90af421b5b1f99b7f8933",
+      "uri": "spotify:album:1tKNZiieRvhgkQce7FufKC",
+      "name": "zer0 (the remixes, pt. 1)",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7c15c62b24ddc4f869a309e",
+      "uri": "spotify:album:543lzQmNfU2ej1J4gPvdwV",
+      "name": "zer0",
+      "album_type": "album",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324f1ceba4d02b09a21f02495",
+      "uri": "spotify:album:1TbwIdPeQqQ33nu87XsDtA",
+      "name": "greenlights",
+      "album_type": "single",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f73510b3eed4485ff92f7b54",
+      "uri": "spotify:album:3Bl0eEowcVYR5cZFEa1mRb",
+      "name": "good on you",
+      "album_type": "single",
+      "release_date": "2019-12-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "2CkrXQPoBz8jTQ3u0ZeLPh",
+          "name": "nucleya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e24711743e283c498abec4ce",
+      "uri": "spotify:album:39u5DPNSkdlKv0EbB88jrO",
+      "name": "ghost",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387f48a4c6a53757fc65f6147",
+      "uri": "spotify:album:202ZonAyqUYRYAaHizS4tQ",
+      "name": "mana (remixes)",
+      "album_type": "single",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f732c92ecfc0db90abd42648",
+      "uri": "spotify:album:2vsVqrI29rjV4KCBnROH0v",
+      "name": "mana",
+      "album_type": "single",
+      "release_date": "2019-08-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344fa66e5b12afd427cd6fd1b",
+      "uri": "spotify:album:6Fc767MWBVksSLL0Au46yZ",
+      "name": "no regrets (feat. krewella) [kaaze remix]",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee2f952ca98fe37d3395f9f7",
+      "uri": "spotify:album:1qY8L7CXdYKIRlMbomzR5k",
+      "name": "next life",
+      "album_type": "single",
+      "release_date": "2019-04-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CdJjUi9f0cVgo9nFuJrFa",
+          "name": "adventure club"
+        },
+        {
+          "spotify_id": "5lCekoJW9jNq01B1wiqdAb",
+          "name": "crankdat"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ff8646b393f97f8c30ed372",
+      "uri": "spotify:album:15JbJKXrnx0PinFy7e5e7D",
+      "name": "no regrets (feat. krewella)",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324b81716f3f1f40cf7ee7b45",
+      "uri": "spotify:album:2vM48bdBKltEFYUSOEQ8EG",
+      "name": "bad liar",
+      "album_type": "single",
+      "release_date": "2018-06-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273061d3a10d294c15330209953",
+      "uri": "spotify:album:4qXtNwgqDpeFQqrg2o46EC",
+      "name": "alibi & runaway (remixes)",
+      "album_type": "single",
+      "release_date": "2018-06-19",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5b8cb599c370c38d7512667",
+      "uri": "spotify:album:5ioo2i0AGbVcxuoWViqJ6u",
+      "name": "gold wings",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0BBwlSQvHHtahgYpLj1wJE",
+          "name": "shaun frank"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcedf8312a0e2a9de7224ba9",
+      "uri": "spotify:album:0RyjdQaK2JuVmvoLTS7xc4",
+      "name": "runaway",
+      "album_type": "single",
+      "release_date": "2018-04-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730696b8527a03a9f191920c89",
+      "uri": "spotify:album:4CXlzM5U8VUpkQUk6JazmV",
+      "name": "ain't that why (skytech remix)",
+      "album_type": "single",
+      "release_date": "2018-03-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "4CrDEHL7ysNabeYvL3xjUX",
+          "name": "skytech"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eed97fcb3be1788ea4009912",
+      "uri": "spotify:album:05a6CC8xdLhTaFOOcfumr2",
+      "name": "bitch of the year",
+      "album_type": "single",
+      "release_date": "2018-03-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273615bdc68ffb62513eb65c79f",
+      "uri": "spotify:album:0wvDl1rzpamwXDi4OR6bDd",
+      "name": "alibi",
+      "album_type": "single",
+      "release_date": "2018-02-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad1e8d51038bb64b34d474ab",
+      "uri": "spotify:album:3yuS4HRGrd5y6D8SQW9kzV",
+      "name": "new world",
+      "album_type": "single",
+      "release_date": "2018-01-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "yellow claw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf4a1b78a68a60a7dd07cf5f",
+      "uri": "spotify:album:564v0D6gDFPH6dj5WadgKu",
+      "name": "ain't that why",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c72ce21bf39c6de7b4565b6",
+      "uri": "spotify:album:6CCEPNPiwlWdgs571YhWf5",
+      "name": "alarm",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27fy6rHPC58Eo2VUu0iJSG",
+          "name": "lookas"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e71fa2e0a7870e83c10174ee",
+      "uri": "spotify:album:6kvTuqAHYDlZFCQtP2UJpV",
+      "name": "dead af",
+      "album_type": "single",
+      "release_date": "2017-10-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273692aefa88b77bd674f708d2a",
+      "uri": "spotify:album:4rPDJFirJqJ9bvpOrpdv63",
+      "name": "new world",
+      "album_type": "single",
+      "release_date": "2017-09-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        },
+        {
+          "spotify_id": "47z7ZrgFoBvVpCnElCE3Zh",
+          "name": "yellow claw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a138325180db0b0a1a2971d",
+      "uri": "spotify:album:11WN2WSpV2syKixUdhhc39",
+      "name": "new world pt. 1: the remixes",
+      "album_type": "single",
+      "release_date": "2017-08-14",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273faeb8663b6b8285a80fb8529",
+      "uri": "spotify:album:1IfatHYnm2FZ6ytyIB2fkJ",
+      "name": "new world pt. 1: the remixes",
+      "album_type": "single",
+      "release_date": "2017-08-14",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f61be7bb0c05bcb2d3692b5c",
+      "uri": "spotify:album:4zY4kGbnc6KLxqpwqr48QW",
+      "name": "parachute (justin caruso remix)",
+      "album_type": "single",
+      "release_date": "2017-08-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306dd7a9d8f8c7d26a499ab4d",
+      "uri": "spotify:album:6i2MJnekqc9AmRLhnzQbIN",
+      "name": "th2c (dyro remix)",
+      "album_type": "single",
+      "release_date": "2017-08-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bcee6656524ed165a9807ca",
+      "uri": "spotify:album:2Ar8jEA2FlEofQbzLZAcXz",
+      "name": "new world pt. 1",
+      "album_type": "album",
+      "release_date": "2017-06-08",
+      "release_year": "2017",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273021dc4efa291c78e8c6c17a3",
+      "uri": "spotify:album:3IBcrt87PjBFmTjAEtXUN8",
+      "name": "love outta me",
+      "album_type": "single",
+      "release_date": "2017-05-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d3bf8218cee2e8d94c4e4b7",
+      "uri": "spotify:album:7x28jzzSgstfc6bKNPFSp9",
+      "name": "be there",
+      "album_type": "single",
+      "release_date": "2017-05-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273814e4d3aefd94c875838a5cf",
+      "uri": "spotify:album:4egttCfKypFMnO6eE3OT2R",
+      "name": "team",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739decc1bb34623cc535795c32",
+      "uri": "spotify:album:3iDJuaDQHMyK77LBWCdXD5",
+      "name": "ammunition: the remixes",
+      "album_type": "album",
+      "release_date": "2016-09-02",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330b3a4732fcf4641fce9ca0b",
+      "uri": "spotify:album:7HJ37iqOMKgK3YwzGw4nHd",
+      "name": "broken record (remixes)",
+      "album_type": "single",
+      "release_date": "2016-06-08",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f210d43b2fd587de72bd4cc",
+      "uri": "spotify:album:2F1dgnWAcVnBlX6Qp0MlBG",
+      "name": "ammunition",
+      "album_type": "single",
+      "release_date": "2016-05-20",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4501181a7a3cf26b4a2826b",
+      "uri": "spotify:album:5AXtsF71yw0NerJehZ15Dw",
+      "name": "somewhere to run - lost kings (remixes)",
+      "album_type": "single",
+      "release_date": "2015-07-22",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273354d05d9a782630ee2e3f54d",
+      "uri": "spotify:album:0ncAjnBlT0NZERLH9m0VsR",
+      "name": "somewhere to run",
+      "album_type": "single",
+      "release_date": "2015-03-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b5b33320bed58dfbc96347c",
+      "uri": "spotify:album:5qKmiYTrzLRMw2DgqxdcGZ",
+      "name": "say goodbye",
+      "album_type": "single",
+      "release_date": "2014-11-24",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350fca290745c794f326040cd",
+      "uri": "spotify:album:1TtRn7FnVH3WtVTpDJ23Sw",
+      "name": "enjoy the ride",
+      "album_type": "single",
+      "release_date": "2014-03-03",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273941c480f40485a7cfb2e4a51",
+      "uri": "spotify:album:6F2CZ70iztGzPEMiGPTvHX",
+      "name": "legacy (mike candys edit)",
+      "album_type": "single",
+      "release_date": "2014-01-28",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9dd9c65effccf6ca612840a",
+      "uri": "spotify:album:6lI6Vf5Ki7OusJn7kF8CjH",
+      "name": "legacy (kryder remix)",
+      "album_type": "single",
+      "release_date": "2013-12-17",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8767b43c60fb63141c30a52",
+      "uri": "spotify:album:7F3GoNFcyAIK28vQSm6kAW",
+      "name": "legacy (remixes)",
+      "album_type": "single",
+      "release_date": "2013-11-19",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2c346922fc074215f1c49d3",
+      "uri": "spotify:album:0r5F3m08m52bXjEoVkFAod",
+      "name": "live for the night (remix ep)",
+      "album_type": "single",
+      "release_date": "2013-11-04",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2b1c2ed52674e40d14cd6c4",
+      "uri": "spotify:album:1Y7A8ZaZ9QyeeOa3uWQJqc",
+      "name": "get wet",
+      "album_type": "album",
+      "release_date": "2013-09-20",
+      "release_year": "2013",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dd0a3493ac226ba46222d37",
+      "uri": "spotify:album:6kvZtz2suhkn1ugtY4263i",
+      "name": "live for the night (deniz koyu & danny avila remix)",
+      "album_type": "single",
+      "release_date": "2013-09-19",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273907d7ef5f29a8b7a5cd8a7ff",
+      "uri": "spotify:album:1HbbLX5HgVZS3l3JADKBg7",
+      "name": "legacy",
+      "album_type": "single",
+      "release_date": "2013-09-12",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bcbd87ac21e9582c2e497be",
+      "uri": "spotify:album:014AAoYyrs6hIUq1oHuTIV",
+      "name": "alive (hardwell remix)",
+      "album_type": "single",
+      "release_date": "2013-05-21",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da8e31be32d14ec8103b941a",
+      "uri": "spotify:album:5euywwz2goQ5spX4qg4zxv",
+      "name": "play harder remix ep",
+      "album_type": "single",
+      "release_date": "2012-12-10",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b888e770762211f1cf21866",
+      "uri": "spotify:album:7IVhs9pnZw5YeqOqnea3oh",
+      "name": "one minute (dotexe's dopest dope remix)",
+      "album_type": "single",
+      "release_date": "2012-09-08",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c237ac1410ffd6cfef5ac8e6",
+      "uri": "spotify:album:5EQQiOF2nQibGXo7a9vZ7m",
+      "name": "play hard ep",
+      "album_type": "single",
+      "release_date": "2012-06-18",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:26.000Z"
+}

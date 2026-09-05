@@ -1,0 +1,2343 @@
+{
+  "name": "röyksopp",
+  "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+  "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6bc3053447db6b61f3fe444c",
+  "genres": [
+    "downtempo",
+    "electronica",
+    "trip hop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c726722cc4615f4e62e731c8",
+      "uri": "spotify:album:2PO8Itl4zpHsUWvY8Z3KDc",
+      "name": "this must be it (alan dixon remix)",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0yEnnivHzCPxaTfNbWjV7x",
+          "name": "alan dixon"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329b9d44066f5211cc732f491",
+      "uri": "spotify:album:05U0USUzKB8vLfdOWggfqC",
+      "name": "everywhere i go (remind me) feat. kid cudi",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6os1temnovzJIEGRUmn3fG",
+          "name": "bnyx®"
+        },
+        {
+          "spotify_id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "kid cudi"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d249d223a8dc53d30d1921c5",
+      "uri": "spotify:album:66KvBA2PseULDjHOqoMhug",
+      "name": "i had this thing (colyn remix)",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5vr1GvUstxr6nwxniKqLOh",
+          "name": "colyn"
+        },
+        {
+          "spotify_id": "1kq2ZvBA7AX9mdZTk9SkpU",
+          "name": "jamie irrepressible"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd4eb9bdcd4eb13f032f9c5e",
+      "uri": "spotify:album:4q4VKPG6ZcwkzRVYzt1skm",
+      "name": "adversity & hope (from \"facing war\")",
+      "album_type": "single",
+      "release_date": "2025-09-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371f8d85eab128ea3f7bf23a3",
+      "uri": "spotify:album:2MFczVpl2XhEXXu5FPxqqL",
+      "name": "what else is there? (true electric remixes)",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe22369c1def0507807c0aa5",
+      "uri": "spotify:album:5bi4iIpR1b6WvjkiASc7Wi",
+      "name": "what else is there? (wh0 remix)",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "132Hhe61bhvXtkygENHZHA",
+          "name": "wh0"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f241d3980a894489573cd3cf",
+      "uri": "spotify:album:5Gub6wHosCUhHM8Cx3LVTT",
+      "name": "what else is there? (andhim remix)",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6XJeFzmI6vrWyHcdB7EImP",
+          "name": "andhim"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4a7e0f192c2759c8128184",
+      "uri": "spotify:album:1dNJ2hhMPOC269uOIK9Xc5",
+      "name": "do it again (affkt remix)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1VCo9PBRImHKuQyiubNSqF",
+          "name": "affkt"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f09e366253756afc3856832",
+      "uri": "spotify:album:09nKzFOGgNSOf0Od37Q2Lr",
+      "name": "do it again (joplyn remix)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "32Jt1AK733JbFR82hEZ0Ih",
+          "name": "joplyn"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273028ea0f6d09ebacf97586144",
+      "uri": "spotify:album:3eEujzS6lZ9LBc1nnWSoF3",
+      "name": "do it again (true electric remixes)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d65909b3833c729c5edd865e",
+      "uri": "spotify:album:4cdU11gp849ttMj3ivJ8pI",
+      "name": "here she comes again (ivory remix)",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xV63jmbyIZHxXCt0GGL1a",
+          "name": "ivory"
+        },
+        {
+          "spotify_id": "1kq2ZvBA7AX9mdZTk9SkpU",
+          "name": "jamie irrepressible"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367b02ab34caafbb5ecf9a648",
+      "uri": "spotify:album:78ROUA3D2zN97xu5VHT91a",
+      "name": "running to the sea (oliver koletzki remix)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1WjBIvYAnZTkTh5UiZNwlR",
+          "name": "oliver koletzki"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d86b01383d3d541ef0b1662",
+      "uri": "spotify:album:0CTL3NzDgOxwkHjqt9KZCC",
+      "name": "running to the sea (true electric remixes)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcd5e665fc51cf8fbe6532c4",
+      "uri": "spotify:album:1fG9Iop2822n2hnXRwPmyn",
+      "name": "running to the sea (anamē remix)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3sZvCZHU2V2idOYyUl3fBi",
+          "name": "anamē"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273191c4b77a058e742504f7003",
+      "uri": "spotify:album:40VhSWNwm8dR9SHxbYZlnt",
+      "name": "find xanadu (röyksopp remix)",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "72f5AR6hMeL3BwtcO7HqhS",
+          "name": "alison goldfrapp"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb7ba9e8b4bb0e5b79a75230",
+      "uri": "spotify:album:3Ep3lFZJvaZRkRUhUGT8pg",
+      "name": "what else is there? (jennifer loveless collage of time remix)",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "2Vsiki0qM11ADccRwwvS1c",
+          "name": "jennifer loveless"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eca46d05f64919ee73695ced",
+      "uri": "spotify:album:1Bm8E6epSyi4tZ0ScJvbbG",
+      "name": "sordid affair (notre dame remix)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6Q1Ps2F5LkdxLAM6S7KPpt",
+          "name": "notre dame"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "00b3RKsk2pv5VWSnYAKW8u",
+          "name": "man without country"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ed4fe7faa3a7f0343dce06e",
+      "uri": "spotify:album:6oRrHMS8bed6KfIguF11e9",
+      "name": "running to the sea (disfreq remix)",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "2r6S8dhE6TLxyYJndSd345",
+          "name": "disfreq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331399baaa5e69ffd55e40dcd",
+      "uri": "spotify:album:3w9v7AIScW1t24NtKfVMDq",
+      "name": "what else is there? (dj tennis remix)",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        },
+        {
+          "spotify_id": "6vJvFV1A2CpT8s5B1oUN6t",
+          "name": "dj tennis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735be7517e0e08b89b6aeba1eb",
+      "uri": "spotify:album:1W0n7wveEKHP3yqZjrbJCg",
+      "name": "true electric",
+      "album_type": "album",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 38,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fc04ef62417a36c040b15cd",
+      "uri": "spotify:album:0UpP0m7TRCsa2J5ErzyiFW",
+      "name": "running to the sea (true electric)",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6Fg9F10CbylhQPMLd4EqLy",
+          "name": "barker & baumecker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff44206818e97771b487c72a",
+      "uri": "spotify:album:3dIj0rDD6mTuDNdxe7ZhOK",
+      "name": "do it again (true electric)",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c52d385871fed7c3b4ee1a03",
+      "uri": "spotify:album:7idK48CvP5p9AwTsDPNZ98",
+      "name": "what else is there? (true electric)",
+      "album_type": "single",
+      "release_date": "2025-01-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "5hE6NCoobhyEu6TRSbjOJY",
+          "name": "fever ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303d5a27c41287cec44526d7a",
+      "uri": "spotify:album:4q3JcToGd900RL1cdpiTJ0",
+      "name": "beacons",
+      "album_type": "single",
+      "release_date": "2025-01-03",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340b850ae22734c84bcc68373",
+      "uri": "spotify:album:2eURiJZ78LAnjGMdxG0XG1",
+      "name": "nebulous nights - an ambient excursion into profound mysteries",
+      "album_type": "album",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 30,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d885efe7d74e19fcf8f4b91",
+      "uri": "spotify:album:3f47I7yy6ylqKEXrcABqve",
+      "name": "stay awhile (fideles remix)",
+      "album_type": "single",
+      "release_date": "2023-09-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "39RaU9BN81x3KBo299bwXs",
+          "name": "fideles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393418560fc4404e95f4fa2ee",
+      "uri": "spotify:album:2VtiPU1ZTrc5g6PylX3MEw",
+      "name": "me&youphoria (le frequency, ino, & fille de minuit remix)",
+      "album_type": "single",
+      "release_date": "2023-08-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "4rrc1isYKnG6LhG0DTuFc4",
+          "name": "ino"
+        },
+        {
+          "spotify_id": "08chNh4DM57dlXiMYRGgC0",
+          "name": "fille de minuit"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5802a3cea17d860832ce3ff",
+      "uri": "spotify:album:4Jei6CI4ivoBaEDGdpRmwT",
+      "name": "control (massano remix)",
+      "album_type": "single",
+      "release_date": "2023-07-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6htWLP8aiuf19FYMA4VQAZ",
+          "name": "massano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273285763965e7b0930d6cf07cb",
+      "uri": "spotify:album:6V4nIJUvEoG5fXXK5wyYKX",
+      "name": "like an old dog (enrico sangiuliano remix)",
+      "album_type": "single",
+      "release_date": "2023-06-29",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6QDPfX2YaZAGJnhpClg8Jo",
+          "name": "pixx"
+        },
+        {
+          "spotify_id": "1u7DsNFbakULvxnDGtMm90",
+          "name": "enrico sangiuliano"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331e61787b3da83bac7e83cf0",
+      "uri": "spotify:album:0eKC58ZvlGo6Xge3vAASYZ",
+      "name": "like an old dog (maceo plex remix)",
+      "album_type": "single",
+      "release_date": "2023-06-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6QDPfX2YaZAGJnhpClg8Jo",
+          "name": "pixx"
+        },
+        {
+          "spotify_id": "3TXQ1ddouwQAI78hV4hXDj",
+          "name": "maceo plex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e90a8cb85e4fc4d0ccef089d",
+      "uri": "spotify:album:2HFxfcOIs46A3g0JOlApW7",
+      "name": "feel it (lp giobbi remix)",
+      "album_type": "single",
+      "release_date": "2023-06-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "2VZfxVHA2JsWss2mJCYmv1",
+          "name": "maurissa rose"
+        },
+        {
+          "spotify_id": "3oKnyRhYWzNsTiss5n4Z1J",
+          "name": "lp giobbi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c1546e32a55f77cadb9d89a",
+      "uri": "spotify:album:4MN3BZYcrN1jgvHtRPoXaE",
+      "name": "how the flowers grow (jan blomqvist remix)",
+      "album_type": "single",
+      "release_date": "2023-05-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6QDPfX2YaZAGJnhpClg8Jo",
+          "name": "pixx"
+        },
+        {
+          "spotify_id": "5wMlMjOLeJfS5DfxqGfm83",
+          "name": "jan blomqvist"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d03a24c8a40b0c2d9a5a775f",
+      "uri": "spotify:album:6NUXw4uXY76jPrD2aJIK3z",
+      "name": "me&youphoria (mees salomé remix)",
+      "album_type": "single",
+      "release_date": "2023-05-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3vcY5vaGqSQF6UA9N2iC4L",
+          "name": "mees salomé"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf43242f95fd9f6a0a3dc0ae",
+      "uri": "spotify:album:5XMexJ4o6afIln09lNmEs7",
+      "name": "the next day ft. jamie irrepressible (mind against remix)",
+      "album_type": "single",
+      "release_date": "2023-04-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1kq2ZvBA7AX9mdZTk9SkpU",
+          "name": "jamie irrepressible"
+        },
+        {
+          "spotify_id": "48LWLoeY0dhwaiX1FRsn72",
+          "name": "mind against"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348bc53b61267f2a3ce37f528",
+      "uri": "spotify:album:7fm1NdtHHLPJK6wAFZLekR",
+      "name": "let's get it right (innellea remix)",
+      "album_type": "single",
+      "release_date": "2023-04-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        },
+        {
+          "spotify_id": "71rqI5HtraA3qXBwatyG6e",
+          "name": "innellea"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6705d46eb9a14d0eaf5c324",
+      "uri": "spotify:album:6LKxj7FE42DoP3BzuaVcMw",
+      "name": "unity (baauer remix)",
+      "album_type": "single",
+      "release_date": "2023-03-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1QOHbhVRpDoNtRkz79si6b",
+          "name": "karen harding"
+        },
+        {
+          "spotify_id": "25fqWEebq6PoiGQIHIrdtv",
+          "name": "baauer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b59d2ba37a07d35a2c88d16a",
+      "uri": "spotify:album:4WRWKCn5j0VcFzCLSxSx1s",
+      "name": "unity (salute remix)",
+      "album_type": "single",
+      "release_date": "2023-02-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1QOHbhVRpDoNtRkz79si6b",
+          "name": "karen harding"
+        },
+        {
+          "spotify_id": "1np8xozf7ATJZDi9JX8Dx5",
+          "name": "salute"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c0708db92a767f6fac16c1d",
+      "uri": "spotify:album:3nxMZIyDSIKPcH2kuo7EWF",
+      "name": "unity (anfisa letyago remix)",
+      "album_type": "single",
+      "release_date": "2023-02-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1QOHbhVRpDoNtRkz79si6b",
+          "name": "karen harding"
+        },
+        {
+          "spotify_id": "7icoOm5fKKPo49jVxoj1Cq",
+          "name": "anfisa letyago"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a681b81eca63a55fcce29076",
+      "uri": "spotify:album:7sCU7QpAGHxxqvekykCm2N",
+      "name": "oh, lover (nto remix)",
+      "album_type": "single",
+      "release_date": "2023-01-26",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "7ry8L53T4oJtSIogGYuioq",
+          "name": "nto"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed20e3ab496baf34deccdf61",
+      "uri": "spotify:album:5t0fkdOmBKTj7MzjkTuQHF",
+      "name": "breathe (qrion remix)",
+      "album_type": "single",
+      "release_date": "2023-01-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        },
+        {
+          "spotify_id": "0bGDTQ78MVgI5Snqo9KJZw",
+          "name": "qrion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ecf5a352ec962eaae9e75a2",
+      "uri": "spotify:album:6u9KIeN3HGS6gZIwzogb5x",
+      "name": "profound mysteries iii",
+      "album_type": "album",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273680db06c86bcfb6019404d11",
+      "uri": "spotify:album:2q6RGFe2ZnsWwZP7mJKklm",
+      "name": "stay awhile",
+      "album_type": "single",
+      "release_date": "2022-11-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320401fb43ee9f2d0249647c7",
+      "uri": "spotify:album:3khiFvo7qCQ2CDyKD7UP4g",
+      "name": "feel it",
+      "album_type": "single",
+      "release_date": "2022-10-19",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "2VZfxVHA2JsWss2mJCYmv1",
+          "name": "maurissa rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273644bb1ed6879800a3d03add6",
+      "uri": "spotify:album:317kaEvPQsOSktJiZfG6mw",
+      "name": "just wanted to know",
+      "album_type": "single",
+      "release_date": "2022-10-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbaee6749dd8e60cb804e82f",
+      "uri": "spotify:album:6nWFF4TwahWiZsxFoOP1wy",
+      "name": "me&youphoria",
+      "album_type": "single",
+      "release_date": "2022-09-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737426c3998760fbc267582b0e",
+      "uri": "spotify:album:4tcynk4uZZOErApTQxqGI4",
+      "name": "the night",
+      "album_type": "single",
+      "release_date": "2022-08-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "72f5AR6hMeL3BwtcO7HqhS",
+          "name": "alison goldfrapp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa0927ded9057e0748b5d845",
+      "uri": "spotify:album:1XIpESQiT426pr6dvBgZRf",
+      "name": "speed king",
+      "album_type": "single",
+      "release_date": "2022-08-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3e669da7f392b16cd7ddf76",
+      "uri": "spotify:album:3TeJxmNzWgJ5Z5gyUkHBJS",
+      "name": "profound mysteries ii",
+      "album_type": "album",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273871aafb482aec7bd98a22942",
+      "uri": "spotify:album:3gk7WjSt7KKF6SNezrQc4I",
+      "name": "oh, lover",
+      "album_type": "single",
+      "release_date": "2022-08-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e6aec990eff704bcdc004d1",
+      "uri": "spotify:album:2ddb06dZsTW898KP4SKhXd",
+      "name": "let's get it right",
+      "album_type": "single",
+      "release_date": "2022-07-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389c03fbeda272dc57f0b7ee1",
+      "uri": "spotify:album:5qRgoyaOBrrscesIipuThi",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2022-07-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f06491894cfd0fcb7c939183",
+      "uri": "spotify:album:7udMmf4rMWzz3BeIFphddX",
+      "name": "profound mysteries remixes",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de30264943b4018d07121124",
+      "uri": "spotify:album:4fUfWn0B6OIMyVnyYFtmSe",
+      "name": "how the flowers grow (rodriguez jr. remix)",
+      "album_type": "single",
+      "release_date": "2022-07-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6QDPfX2YaZAGJnhpClg8Jo",
+          "name": "pixx"
+        },
+        {
+          "spotify_id": "6Th7POyVfZgiHJQ64ddV5Y",
+          "name": "rodriguez jr."
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734345c188f8ed6ecc54ce91b4",
+      "uri": "spotify:album:4HmgIUcdgMfWDJYQdxhy6o",
+      "name": "impossible (&me remix)",
+      "album_type": "single",
+      "release_date": "2022-07-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "72f5AR6hMeL3BwtcO7HqhS",
+          "name": "alison goldfrapp"
+        },
+        {
+          "spotify_id": "5mIowAJMp7RKNheelruV5z",
+          "name": "&me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d94db9906138611bd2780122",
+      "uri": "spotify:album:3pbMrxIcpzzUk7uiyUI4Oz",
+      "name": "this time, this place (henry saiz mixes)",
+      "album_type": "single",
+      "release_date": "2022-07-06",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "4z9AKehWvtxINEbu8aQGO6",
+          "name": "beki mari"
+        },
+        {
+          "spotify_id": "1f5QPXLfjlzlG77lCkdl0W",
+          "name": "henry saiz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db835f85e75b987f0defb238",
+      "uri": "spotify:album:4XNbFBpQr3XsH1Y1Qq27T8",
+      "name": "this time, this place (township rebellion remix)",
+      "album_type": "single",
+      "release_date": "2022-07-06",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "4z9AKehWvtxINEbu8aQGO6",
+          "name": "beki mari"
+        },
+        {
+          "spotify_id": "4gGD7nrLZRnnCSz3KGEu4R",
+          "name": "township rebellion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2b311b2cfb33b7470e7a7dc",
+      "uri": "spotify:album:2WbKsEdA7Agdo1Q0e7qPCk",
+      "name": "unity",
+      "album_type": "single",
+      "release_date": "2022-06-15",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1QOHbhVRpDoNtRkz79si6b",
+          "name": "karen harding"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731616fcb4063fae90e673a307",
+      "uri": "spotify:album:1mPCAPwrrUCYSeozHhv1Gi",
+      "name": "sorry",
+      "album_type": "single",
+      "release_date": "2022-06-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1kq2ZvBA7AX9mdZTk9SkpU",
+          "name": "jamie irrepressible"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273814078add47e522ed6313bb3",
+      "uri": "spotify:album:01XkFCSjU0XOqzOf4gcrEY",
+      "name": "breathe (röyksopp remix)",
+      "album_type": "single",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e229afb5ba06365b83caf17e",
+      "uri": "spotify:album:3CPVa0a5QGqxkuiGqNQjSp",
+      "name": "profound mysteries",
+      "album_type": "album",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273035bec00defe57b332b2f51a",
+      "uri": "spotify:album:2bJeWm3knu48d3AhVLifrX",
+      "name": "if you want me",
+      "album_type": "single",
+      "release_date": "2022-04-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307a88ba192ffb3d57dadb0be",
+      "uri": "spotify:album:6cpfWSy3Tw6ZJtmbO4j7qC",
+      "name": "breathe",
+      "album_type": "single",
+      "release_date": "2022-03-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3AVfmawzu83sp94QW7CEGm",
+          "name": "astrid s"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fcd9e7deaae8748a1889c38",
+      "uri": "spotify:album:0C8AjuFDeY8LVpEMH3DR25",
+      "name": "this time, this place…",
+      "album_type": "single",
+      "release_date": "2022-02-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "4z9AKehWvtxINEbu8aQGO6",
+          "name": "beki mari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db7dfba54d85aac220a1827d",
+      "uri": "spotify:album:7nVorCP3wTcYLnvJHtURKX",
+      "name": "impossible",
+      "album_type": "single",
+      "release_date": "2022-02-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "72f5AR6hMeL3BwtcO7HqhS",
+          "name": "alison goldfrapp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273895c69223fdf9e0fb08100cc",
+      "uri": "spotify:album:42EOGihk8LGxmFHtTHPLSi",
+      "name": "the ladder",
+      "album_type": "single",
+      "release_date": "2022-01-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362f0016197b2b9a9c96f5d09",
+      "uri": "spotify:album:7AZlcn2VibpxoILIjlqeoa",
+      "name": "(nothing but) ashes…",
+      "album_type": "single",
+      "release_date": "2022-01-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273543b3b41c59c8502a15e30d5",
+      "uri": "spotify:album:3oGj4EH7ZqAAQBkZZm3Ww3",
+      "name": "what else is there? (artbat remix)",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273866f0f6ddcd7a4540bfcd40f",
+      "uri": "spotify:album:4Mnpt1ywfI3tMzLqkPNzXy",
+      "name": "monument (olof dreijer remix)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "robyn"
+        },
+        {
+          "spotify_id": "1Wxx3yxd6gZsNiAF1OwLk0",
+          "name": "olof dreijer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321d8464067958e7662759807",
+      "uri": "spotify:album:0z52xWneX3v6JiOgAErkro",
+      "name": "alpha male (lost tapes) [live]",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a3dc32c131302a195491fc1",
+      "uri": "spotify:album:4Ar3ZDGPbeaCoZ1ajKYqqI",
+      "name": "here she comes again",
+      "album_type": "single",
+      "release_date": "2020-07-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dede63e68a7bca23545e6b63",
+      "uri": "spotify:album:0nbgunKwYImooTE0FZoPtl",
+      "name": "oblique thrills (lost tapes)",
+      "album_type": "single",
+      "release_date": "2020-06-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f2b63f3ecfdeff6c37e9720",
+      "uri": "spotify:album:5MJum5elACpSZEmaA4NBvI",
+      "name": "shine on like the stars (lost tapes)",
+      "album_type": "single",
+      "release_date": "2020-05-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737620205c7b9141ccc49bafd9",
+      "uri": "spotify:album:5r6Awm0U1gsQ3rBq8USeFa",
+      "name": "gentle movement (lost tapes)",
+      "album_type": "single",
+      "release_date": "2020-04-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273153a0a2fa3dc33f0f10df794",
+      "uri": "spotify:album:5HcVzi0BCVHrpK0ICxzXCA",
+      "name": "andromeda (lost tapes)",
+      "album_type": "single",
+      "release_date": "2020-03-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae351bb0c5f491c558fa7c5d",
+      "uri": "spotify:album:1qqlYIdjyjd49yX9raqCIn",
+      "name": "were you ever wanted (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-12-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344e32706ec4d4f71610cbf39",
+      "uri": "spotify:album:5s7oPu0FwHVMiHUTizrENi",
+      "name": "shores of easy (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aa16f5162aa6ac1af408009",
+      "uri": "spotify:album:4T5spsuvZcqxNomRyVP2yY",
+      "name": "ice machine (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273288e886f5a352bad3a271d9d",
+      "uri": "spotify:album:2ngMYCHU3c2XCl0B6GEpsx",
+      "name": "i just don't understand you (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357c1846f45e622a0d5623724",
+      "uri": "spotify:album:6CFuqaaelehoXwOjFf5muo",
+      "name": "to minutter",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3f8ujTspJT6Voq6HYEv3i2",
+          "name": "lars vaular"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0ee1cc1a373186ed5bc604f",
+      "uri": "spotify:album:46NTfOAfT6dSpCtBePJHcO",
+      "name": "rescue (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273407106d5189032cfafd43e49",
+      "uri": "spotify:album:4B6V2V4wH8otKZbHKGIGNJ",
+      "name": "across the graveyard (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-06-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3ffbc7287071dd52da9888e",
+      "uri": "spotify:album:1hg3JE4uv6zazGhYZSuSLn",
+      "name": "church (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-05-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372c36e75177231dc1ea3140e",
+      "uri": "spotify:album:13kkNOtZzxG9zDq4IMUdjd",
+      "name": "in the end (lost tapes)",
+      "album_type": "single",
+      "release_date": "2019-04-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "00b3RKsk2pv5VWSnYAKW8u",
+          "name": "man without country"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d805450c7132853aecef40b7",
+      "uri": "spotify:album:2AwYYYsHengy1rCE4YvUnA",
+      "name": "i wanna know (lost tapes) [original]",
+      "album_type": "single",
+      "release_date": "2019-02-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273faa06b8601e4d7dbc50bbc91",
+      "uri": "spotify:album:2d6veFrbZmMkQucorw6HhG",
+      "name": "rising urge (lost tapes) [original]",
+      "album_type": "single",
+      "release_date": "2019-02-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369df87d6bc981e3b81c51187",
+      "uri": "spotify:album:4qkdrghkWTD8Vm4J8DQCch",
+      "name": "never ever (ryxp club mix)",
+      "album_type": "single",
+      "release_date": "2017-03-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b92edb8d9bcf1385ec9a3b64",
+      "uri": "spotify:album:6JhvKObGXZozV0z2Ru9t99",
+      "name": "never ever (remixes)",
+      "album_type": "single",
+      "release_date": "2017-03-10",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733513b2fc15cbf804849574b7",
+      "uri": "spotify:album:0DoP6lTljSKgNkSMOmztBu",
+      "name": "never ever",
+      "album_type": "single",
+      "release_date": "2016-10-26",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8adb9c7c04080223387e14a",
+      "uri": "spotify:album:752809sxfvz3NNT83l9SWL",
+      "name": "never ever (edit)",
+      "album_type": "single",
+      "release_date": "2016-09-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273214bc00e4046cd968207f9ef",
+      "uri": "spotify:album:3FCvoF41Na7bZspoBOpGim",
+      "name": "here she comes again (dj antonio remix)",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f288f3992ccb960b473ee8c",
+      "uri": "spotify:album:3xPDKi0jEGp99WZ20ufUMp",
+      "name": "bounty hunters",
+      "album_type": "single",
+      "release_date": "2016-02-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309f9a447c66164aebf3c71e0",
+      "uri": "spotify:album:2AzaMO7WXewxSlUAzAfFVh",
+      "name": "i had this thing (am2pm bundle)",
+      "album_type": "single",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739fdf5b626d1718ab6975545d",
+      "uri": "spotify:album:33sqWyLKe7ysMzMkZ7CmTf",
+      "name": "sordid affair (maceo plex remix)",
+      "album_type": "single",
+      "release_date": "2015-05-12",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355e2757bfc026e63a84dae40",
+      "uri": "spotify:album:16E4PWCcN8ddetfXU5wfoQ",
+      "name": "i had this thing (remixes)",
+      "album_type": "single",
+      "release_date": "2015-04-03",
+      "release_year": "2015",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ae2fecb4ee562a1328d25ae",
+      "uri": "spotify:album:6PAMwY0o2ES8WwZ2BY0maI",
+      "name": "i had this thing (radio mix & dub)",
+      "album_type": "single",
+      "release_date": "2015-03-23",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de9f371defc62731ddb94652",
+      "uri": "spotify:album:0kfTPprKQsL9odGNZHO9Qr",
+      "name": "i had this thing (joris voorn remix)",
+      "album_type": "single",
+      "release_date": "2015-03-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316d002881c8fda1a3cd58f20",
+      "uri": "spotify:album:7aBwLeGj4bb6W7dEeDuMKf",
+      "name": "i had this thing (remixes pt. 2)",
+      "album_type": "single",
+      "release_date": "2015-01-30",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "1kq2ZvBA7AX9mdZTk9SkpU",
+          "name": "jamie irrepressible"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f1a7f2be36ad628b63e07f2",
+      "uri": "spotify:album:5xgzgwqJyLYv1EdZdL8mpG",
+      "name": "sordid affair (remix bundle)",
+      "album_type": "single",
+      "release_date": "2015-01-05",
+      "release_year": "2015",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eef8b32b8d368e2ba5aaac00",
+      "uri": "spotify:album:6Bhu56YWm3QEucp37p5JWe",
+      "name": "monument dance (marcus marr mix)",
+      "album_type": "single",
+      "release_date": "2014-11-17",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a59ae6662bb7610e99d7fdb4",
+      "uri": "spotify:album:3ZBCxww5l2GuPEtOmhP73N",
+      "name": "the inevitable end",
+      "album_type": "album",
+      "release_date": "2014-11-10",
+      "release_year": "2014",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe0aea435331306f7743edf3",
+      "uri": "spotify:album:14VRko1sRlr1wIM3UYB6R5",
+      "name": "sordid affair (remixes)",
+      "album_type": "single",
+      "release_date": "2014-10-13",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbb0d78753c6e9083ec64705",
+      "uri": "spotify:album:3baLaId4qxkQQtR9nnvlbW",
+      "name": "skulls",
+      "album_type": "single",
+      "release_date": "2014-09-29",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734767a29fcdd17f7a0b5b9563",
+      "uri": "spotify:album:2sJ5egF3hIeWwgVXuzkzJC",
+      "name": "monument (the inevitable end version)",
+      "album_type": "single",
+      "release_date": "2014-09-08",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337aa0a25f2dc7ca338056d65",
+      "uri": "spotify:album:238d1LcGrhxB1EUNfIMbEG",
+      "name": "monument (remixes)",
+      "album_type": "single",
+      "release_date": "2014-08-18",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "robyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e870252cdf5d8bd519337d07",
+      "uri": "spotify:album:6AuAszzn5TU9yCXfdfaYoj",
+      "name": "do it again (remixes)",
+      "album_type": "single",
+      "release_date": "2014-05-27",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "robyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e1f1849109984638707fbee",
+      "uri": "spotify:album:3l71oQhghX2VrheAWsEh5B",
+      "name": "do it again",
+      "album_type": "album",
+      "release_date": "2014-05-23",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "robyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360c7c7b30e31e9b2c655d749",
+      "uri": "spotify:album:4bSwlM1BY3gOMjRQnYIpsP",
+      "name": "twenty thirteen",
+      "album_type": "single",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273277c3b76c4e2d35b17991b5a",
+      "uri": "spotify:album:5MFcFUdSqzZTuk3jzAZt2K",
+      "name": "daddy's groove",
+      "album_type": "single",
+      "release_date": "2013-06-17",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365a11d347752376a68457833",
+      "uri": "spotify:album:2Wx8gqwsCKCkH383FEDZhY",
+      "name": "running to the sea",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364d6dfd729df66d8e7417e74",
+      "uri": "spotify:album:5q8ffowa7jVffTnxt6xlZV",
+      "name": "running to the sea (remixes)",
+      "album_type": "single",
+      "release_date": "2013-01-01",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273359b393b5b4f6fa5e5c5fa4f",
+      "uri": "spotify:album:4GzuoMDI3AJdV33SbFZyC1",
+      "name": "tricky tricky (remix)",
+      "album_type": "single",
+      "release_date": "2010-12-17",
+      "release_year": "2010",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bd621897ed15b038321ca4e",
+      "uri": "spotify:album:498UdNJ8Djn2KzoBXzI886",
+      "name": "senior",
+      "album_type": "album",
+      "release_date": "2010-08-08",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3c429037b271c1889896a0e",
+      "uri": "spotify:album:3mQO06vaWkypiTIpFiUZ6I",
+      "name": "forsaken cowboy",
+      "album_type": "single",
+      "release_date": "2010-02-25",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388ef4fcd68324239fbfd9133",
+      "uri": "spotify:album:10KwcsaC3L02GEiwf5VHgv",
+      "name": "this must be it",
+      "album_type": "single",
+      "release_date": "2009-10-23",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327cb69328bf2acb91ae1f936",
+      "uri": "spotify:album:5fC36DbFAVbGGv2CpAM44g",
+      "name": "this must be it",
+      "album_type": "single",
+      "release_date": "2009-10-23",
+      "release_year": "2009",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273176dd0daed0c0a36a3a2a199",
+      "uri": "spotify:album:3j9uZWz5cXmabLTJxkgkp1",
+      "name": "the girl and the robot",
+      "album_type": "single",
+      "release_date": "2009-06-12",
+      "release_year": "2009",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a86e0621ea28bd8360a92e8",
+      "uri": "spotify:album:1CTymOIErXYOu8kFtp7DUJ",
+      "name": "happy up here [remix holy fuck]",
+      "album_type": "single",
+      "release_date": "2009-05-29",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeb108803c978443c19205b5",
+      "uri": "spotify:album:0hXtsn2P0fQOcjo7dYTCW1",
+      "name": "happy up here [marching band version]",
+      "album_type": "single",
+      "release_date": "2009-05-22",
+      "release_year": "2009",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273061dfbdfdd7d963d1eac3194",
+      "uri": "spotify:album:6vQMbwthchxuSioACn2hcE",
+      "name": "junior",
+      "album_type": "album",
+      "release_date": "2009-03-18",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273110b02acd2eaf37f71d368d9",
+      "uri": "spotify:album:7wn6APY1wuGf9ALmG6Mbdh",
+      "name": "happy up here",
+      "album_type": "single",
+      "release_date": "2009-03-13",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6efd36d0939c4d02abb8af1",
+      "uri": "spotify:album:0EjmAaKaRGL9vmnzQHde9w",
+      "name": "beautiful day without you",
+      "album_type": "single",
+      "release_date": "2006-04-28",
+      "release_year": "2006",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ea3335dd48639ba9c5b11eb",
+      "uri": "spotify:album:1ITxvWYRY1G9e0NiG2YVAV",
+      "name": "beautiful day without you",
+      "album_type": "single",
+      "release_date": "2006-04-28",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730497e6e6657d2f0bce5ec323",
+      "uri": "spotify:album:4E0opWM1FjWmjFXajOIn5r",
+      "name": "röyksopp's night out",
+      "album_type": "album",
+      "release_date": "2006-02-06",
+      "release_year": "2006",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb715b08bfa3892ee3fd8ec2",
+      "uri": "spotify:album:33BQGwywIquZMN26cozXnl",
+      "name": "what else is there?",
+      "album_type": "single",
+      "release_date": "2005-10-14",
+      "release_year": "2005",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273875ff6e25b6c633e7ada52af",
+      "uri": "spotify:album:2WWkLJS1TgI7Q04tu9T6oV",
+      "name": "curves",
+      "album_type": "single",
+      "release_date": "2005-09-30",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316d49d16799fb3e43a37e34f",
+      "uri": "spotify:album:1FjqxFm7Fd4yB0UDHHH0KT",
+      "name": "what else is there?",
+      "album_type": "single",
+      "release_date": "2005-09-23",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d762bc863fd582659c4f646",
+      "uri": "spotify:album:3yeCVevHiluo5X322IG95g",
+      "name": "49 percent",
+      "album_type": "single",
+      "release_date": "2005-09-16",
+      "release_year": "2005",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b26e354c5b9b9e0a72bcfe26",
+      "uri": "spotify:album:38Zbx3EGN9EDvmdZ5DNUe2",
+      "name": "only this moment",
+      "album_type": "single",
+      "release_date": "2005-07-01",
+      "release_year": "2005",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5e135b791c1d7182e202398",
+      "uri": "spotify:album:2eU47WpN00mdTlgK2Svh7V",
+      "name": "the understanding",
+      "album_type": "album",
+      "release_date": "2005-06-22",
+      "release_year": "2005",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311a25052dd53cb761fd97d16",
+      "uri": "spotify:album:4yGYKNWgAGMJrhxv7OVWia",
+      "name": "clocks (royksopp trembling heart mix)",
+      "album_type": "single",
+      "release_date": "2003-07-21",
+      "release_year": "2003",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "coldplay"
+        },
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386674bdab80e3bd54cc1460e",
+      "uri": "spotify:album:2vWM0hiX0LO4AINZpwoAVg",
+      "name": "sparks",
+      "album_type": "single",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e5655cd8db911dc48ea57df",
+      "uri": "spotify:album:4WOZU9evfEO7eI6ICsoGN0",
+      "name": "melody a.m.",
+      "album_type": "album",
+      "release_date": "2001-08-22",
+      "release_year": "2001",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fc5b1cff5eef035a4818858",
+      "uri": "spotify:album:1bawL7kSvC9Hll7kgRHg23",
+      "name": "eple",
+      "album_type": "single",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e59d2153c0eee6549690da37",
+      "uri": "spotify:album:2g3z48DF7xaGwaDZrm89TQ",
+      "name": "poor leno",
+      "album_type": "single",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273476c6a18113964e5188ac28d",
+      "uri": "spotify:album:7HbsTHRJHp0S3dl2n16jgb",
+      "name": "remind me",
+      "album_type": "single",
+      "release_date": "2001",
+      "release_year": "2001",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:19.000Z"
+}

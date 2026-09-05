@@ -1,0 +1,1043 @@
+{
+  "name": "unknown brain",
+  "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+  "uri": "spotify:artist:0okpgBQamDqOZazBeH0J3I",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6a1fbe842b26c53d8ada53da",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c390410b91218f78d6ba778a",
+      "uri": "spotify:album:5Q16UDX0IkvzeUtlskoYb5",
+      "name": "spaceship",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273327be127432db746f63da739",
+      "uri": "spotify:album:0zrVd3kfc448sdEwXScKGI",
+      "name": "blackout patterns",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1iK2JSfjc4dSkHmmXPKELV",
+          "name": "jesse tellem"
+        },
+        {
+          "spotify_id": "51oSEWt72CjJkCYIOQRzbN",
+          "name": "frederico"
+        },
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370e052d784568d782383f0ec",
+      "uri": "spotify:album:26sZ4HvaT8y8fAk2u4s9FQ",
+      "name": "sos",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4EsPdQD7LDT8meZpX0MX4p",
+          "name": "isaak"
+        },
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb0c867ca6306643678db7ca",
+      "uri": "spotify:album:60oewKbiRXvSFNpQXgi6jS",
+      "name": "blessed",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "1M5jchd0rXJneek1xALRFW",
+          "name": "piers james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a5b48e026d616a47d37f23a",
+      "uri": "spotify:album:3MSSK5x1proLEPPXxReCcz",
+      "name": "wonder",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321eef69ac3407b1ad59469d6",
+      "uri": "spotify:album:5yIV5fOsy7FfODoedLH6tm",
+      "name": "don't go",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "4a5dX5Y0Q6ib3nR6zzpHwX",
+          "name": "dt james"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeb6afb384b1012b8a44ebcf",
+      "uri": "spotify:album:6SnKr11bPIIpX5dC7pWek9",
+      "name": "outta my head",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "1ng2cH6hJIOSYxQMk6pEux",
+          "name": "woodie smalls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273512dd86c42882268cca28bc0",
+      "uri": "spotify:album:5pVlW2xVLYmgOY6f4ZJbig",
+      "name": "song for you",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5JqvosTRPE7gN9xSXUoT1S",
+          "name": "sebastian krenz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731be5816eae1873f192f05ff3",
+      "uri": "spotify:album:1jX2gY0FSPjwHzRtDBFa70",
+      "name": "fuck it (feat. deathbyromy)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "7aWpPjjgItUnXljFxYYKZI",
+          "name": "deathbyromy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273308daff959bd08f85961e490",
+      "uri": "spotify:album:2fRMFTkFrDtFtat8wheGEO",
+      "name": "let's drink bleach",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5yhR0OqJhkbQ2y76XUte3R",
+          "name": "kyle reynolds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312e20a20392851e5c94e8e75",
+      "uri": "spotify:album:2cv2SXZNm68KZWsRQuyQqV",
+      "name": "rooftop (feat. iyaz & shiah maisel)",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5tKXB9uuebKE34yowVaU3C",
+          "name": "iyaz"
+        },
+        {
+          "spotify_id": "7wGFrLo9v8FKS2iWyYx75t",
+          "name": "shiah maisel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d0a9221b4e48d4149f5c80e",
+      "uri": "spotify:album:3p4QSfXdy4Nx6vYVxTSVgf",
+      "name": "dancing on the moon (acoustic version)",
+      "album_type": "single",
+      "release_date": "2020-12-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "76JR66y9YIbwd92enbWxLv",
+          "name": "luke burr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af0b1ff84ac000aa9ab2f757",
+      "uri": "spotify:album:2HCkhZ8YgnEogOfiVhCcRx",
+      "name": "faceless",
+      "album_type": "album",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6032ff9d0ff2bf76d0cc7b5",
+      "uri": "spotify:album:02ZToaBz4LgHkz58XZIiKD",
+      "name": "hollywood perfect",
+      "album_type": "single",
+      "release_date": "2020-11-26",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "2FS6z8pQbDMXrscqKiw983",
+          "name": "noteventanner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bee95f56ce6198869c4ad8c0",
+      "uri": "spotify:album:0n6GENNM2QP8Re8PRdpBy9",
+      "name": "jungle of love",
+      "album_type": "single",
+      "release_date": "2020-11-24",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273608dac4778eacbb962d8e040",
+      "uri": "spotify:album:07eMAQ3Ilk48JrX1QE8zMK",
+      "name": "phenomenon",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eef0e954d4c2c4567b5cbaa5",
+      "uri": "spotify:album:6qLItvpRESeBGSvYNSNE4G",
+      "name": "i'm sorry mom",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b73db0c103e7288f6ec9290",
+      "uri": "spotify:album:0u4bffFCbUN6Oi9Vqn4GzJ",
+      "name": "dead",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5GTYEYJqmYH3VlaRRnkaWj",
+          "name": "kazhi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d407c9dd15971f06be56dd68",
+      "uri": "spotify:album:1qtE2MSMXkSBrKptJVI1GT",
+      "name": "dancing on the moon",
+      "album_type": "single",
+      "release_date": "2020-09-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "76JR66y9YIbwd92enbWxLv",
+          "name": "luke burr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c5d0614deaa7c093086166d",
+      "uri": "spotify:album:4rJXa6G1mmCMsGKjKlxZJE",
+      "name": "slow (feat. laurell & haj)",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5cgrJ6S2UcstdytAs5PQz6",
+          "name": "steve andreas"
+        },
+        {
+          "spotify_id": "69Pm1OWlxk1tbYphlkcKHR",
+          "name": "laurell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273930831c39c6ae848e5f21ef1",
+      "uri": "spotify:album:15mcATwmrfWWA3qaU5SsC6",
+      "name": "slow (feat. laurell & haj) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5cgrJ6S2UcstdytAs5PQz6",
+          "name": "steve andreas"
+        },
+        {
+          "spotify_id": "69Pm1OWlxk1tbYphlkcKHR",
+          "name": "laurell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb28edd173051781bb7a31c9",
+      "uri": "spotify:album:5MjppyxG6XiIzWkuSgwZb0",
+      "name": "say goodbye",
+      "album_type": "single",
+      "release_date": "2019-11-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "2ipbBHbU59PKSeDXAgMpkd",
+          "name": "marvin divine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec0933df2ab785095a168b27",
+      "uri": "spotify:album:6znOcKa8Pg8GD1fZnTj6n1",
+      "name": "say goodbye (sped up/slowed)",
+      "album_type": "single",
+      "release_date": "2019-11-09",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "2ipbBHbU59PKSeDXAgMpkd",
+          "name": "marvin divine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6935376ed4269315e35ecec",
+      "uri": "spotify:album:50gZBbUykldwLmocVQ4TGS",
+      "name": "take it",
+      "album_type": "single",
+      "release_date": "2019-09-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5t9XxQeHFQ0dXRbbEK7MjB",
+          "name": "thatbehavior"
+        },
+        {
+          "spotify_id": "0xD6n0wj7aqV5g5LcRNBUd",
+          "name": "riell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ba213584d12787eb5981fc7",
+      "uri": "spotify:album:0gRA7enr50aqfBfVz6b36D",
+      "name": "war dream",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733883f462aabcb297c7bd4ca1",
+      "uri": "spotify:album:69ngGWu8olEN1iNtYL7WZh",
+      "name": "begin again",
+      "album_type": "single",
+      "release_date": "2019-08-08",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "32rfvsXfn7YDlDhG7Hh7Zd",
+          "name": "hoober"
+        },
+        {
+          "spotify_id": "0xD6n0wj7aqV5g5LcRNBUd",
+          "name": "riell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739422b368a7a764e4169a6781",
+      "uri": "spotify:album:67cLBP67zgsFSwYl2bqCee",
+      "name": "war zone",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "1RdQK73ZgvXjkaBJkibE6X",
+          "name": "m.i.m.e"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2bb9672a900adcd5f5d083b",
+      "uri": "spotify:album:6CxvHBo4nr8Q6Bq9EHfcHz",
+      "name": "war game",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d370dbdfaebc93d3acf7e35",
+      "uri": "spotify:album:6pdzHldUIlu04x79QaKX9i",
+      "name": "perfect 10",
+      "album_type": "single",
+      "release_date": "2019-04-26",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "0EHYuPn9Xng2lZP2cfz4cV",
+          "name": "heather sommer"
+        },
+        {
+          "spotify_id": "7hf6L4LN1RTVN66IdBVpPr",
+          "name": "rudelies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b9ba611e359fc7cb7843649",
+      "uri": "spotify:album:66y0i2T5PxW6NrxfY1MBZZ",
+      "name": "undefined",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "73Zr2t8mHIMaq0qe4XUF15",
+          "name": "tylah winyard"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d490fa8b7f0019c4b1169af",
+      "uri": "spotify:album:7xr350T7mP2iRyUExMbpmR",
+      "name": "waiting",
+      "album_type": "single",
+      "release_date": "2018-12-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba52c6deffd3582b7298e675",
+      "uri": "spotify:album:3etPTj9GklKoaEI0BDwESr",
+      "name": "fired up",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306d67a42fd7b27b94e5b9d94",
+      "uri": "spotify:album:2fzMAkuh9AV0jPIZIILWal",
+      "name": "inpulsif (with sirkus accident) [markasabbey remix]",
+      "album_type": "single",
+      "release_date": "2018-11-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Q4e30VqLl6c3weO723C0Q",
+          "name": "uji coba nuklir"
+        },
+        {
+          "spotify_id": "6ct5Ctq1Ii8VdPLMy2jpoQ",
+          "name": "markasabbey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732118c10716cb94654744bc94",
+      "uri": "spotify:album:3PScfYISMYH5HBO4u0yo7n",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2018-10-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "4u1nYxjl132D6rcMeYQ6Zz",
+          "name": "rival"
+        },
+        {
+          "spotify_id": "0NO8SsF6umjI3iQJzTycVF",
+          "name": "jex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363c64ccc671c466cb9bfad11",
+      "uri": "spotify:album:1QpJTspc6rWjXtEaRyIwhL",
+      "name": "stay the same",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "4u1nYxjl132D6rcMeYQ6Zz",
+          "name": "rival"
+        },
+        {
+          "spotify_id": "3xIHOffeC188QWHIiCaLXr",
+          "name": "veronica bravo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f80feed54468782302a0b4f",
+      "uri": "spotify:album:7aMB8vAE95H6zC7iXPsQtJ",
+      "name": "like home",
+      "album_type": "single",
+      "release_date": "2018-08-01",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273464258e02e1f2a2d125a7584",
+      "uri": "spotify:album:2VS8DWveFON4BywaCnTEBA",
+      "name": "circles",
+      "album_type": "single",
+      "release_date": "2018-05-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "7ddnIV2r4SLjuwyGlgLIWt",
+          "name": "laura brehm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed3b265a9496bac112abdbb3",
+      "uri": "spotify:album:1izaNybcqFIB7w3V5Gu3bG",
+      "name": "why do i?",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "1n3vQMwMRpRdCo5zq8huw0",
+          "name": "bri tolani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a3caf7fbf404ce4b9d95fc7",
+      "uri": "spotify:album:4wmbVKGxdzmoVq1mYk3tPz",
+      "name": "why do i? (sped up/slowed)",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "1n3vQMwMRpRdCo5zq8huw0",
+          "name": "bri tolani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273975f6b2dc5843c738cae9006",
+      "uri": "spotify:album:1fFgk2LD0fu0rGrl3gDPKB",
+      "name": "lost",
+      "album_type": "single",
+      "release_date": "2018-02-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PXxLuFWYloysK2URVqZzu",
+          "name": "sinner's heist"
+        },
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeb7e5567ed11da776931aeb",
+      "uri": "spotify:album:0c1fbfq340Ok6rx8mkakcu",
+      "name": "distortion",
+      "album_type": "single",
+      "release_date": "2018-01-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "529u9zgl5vNNv3q3RgTXKB",
+          "name": "rfen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314a9e0c82eba3da4ff195590",
+      "uri": "spotify:album:0cuCIUf4vl8uqd1R83FFPd",
+      "name": "holding you",
+      "album_type": "single",
+      "release_date": "2017-12-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "0wJDbxpqtwjA2FxfU6KI0E",
+          "name": "max landry"
+        },
+        {
+          "spotify_id": "21XsCg8K5LT9pJzzGKSUWr",
+          "name": "spce cadex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739032dcd3988d7aad04eb486e",
+      "uri": "spotify:album:1oecMIpHOeDYu2Hhw2Kd4u",
+      "name": "twisted reality",
+      "album_type": "single",
+      "release_date": "2017-10-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Ndq6RparrhEoceel7LC4Z",
+          "name": "anna yvette"
+        },
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273303062bee310797f50b1b21f",
+      "uri": "spotify:album:2wuFw1cYGafw8sqKnjzqCi",
+      "name": "roots",
+      "album_type": "single",
+      "release_date": "2017-09-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736030adf25d45bb4fde5002cf",
+      "uri": "spotify:album:60ZPu2J0wL5VBtSVlq6Afa",
+      "name": "forgive me",
+      "album_type": "single",
+      "release_date": "2017-08-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "7kXDaUD3imvM6el5qK6tAu",
+          "name": "harley bird"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739335d97d2f279ee644aa3975",
+      "uri": "spotify:album:1LoQOftVsyraE8ldUpgPlg",
+      "name": "kuyenda",
+      "album_type": "single",
+      "release_date": "2017-08-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2X0ndI9nIkbMvJE9YlLQr4",
+          "name": "lennart schroot"
+        },
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "4E2VAmF3PSqniSS03cDoAw",
+          "name": "sru"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e70b3c729783b3e05a8afab",
+      "uri": "spotify:album:21wx1RY7536g9AHU1CD7ls",
+      "name": "looking for nothing",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "2ataiNAVxzwf5Wkld45rTT",
+          "name": "avril amber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735425354c6ab8e12d2e1ebb02",
+      "uri": "spotify:album:6yXSLca3LEdTtSjp7IeZbT",
+      "name": "inspiration",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736023250197ae7ca612465d6e",
+      "uri": "spotify:album:2azf6jJZK7HTepnSVuTIkh",
+      "name": "wassup",
+      "album_type": "single",
+      "release_date": "2017-05-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "6bHwp2C57MsAhbqsfI76yB",
+          "name": "sushii boiis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfed945bad1f3b088a42d5a2",
+      "uri": "spotify:album:1nrpbDXmDcM1SUYOqXYIeq",
+      "name": "matafaka",
+      "album_type": "single",
+      "release_date": "2017-05-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "2ipbBHbU59PKSeDXAgMpkd",
+          "name": "marvin divine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273853ea5eb61a4e4b517bdcd83",
+      "uri": "spotify:album:3MwDpbJI6trjcHpwn5JQkF",
+      "name": "perseus",
+      "album_type": "single",
+      "release_date": "2017-03-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5Wpn7BDRJ8oq7CcF1EufWI",
+          "name": "chris linton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5d711e76889564eb7a6de76",
+      "uri": "spotify:album:0ykXk8RRFFeg7FFKbmtQqY",
+      "name": "saviour",
+      "album_type": "single",
+      "release_date": "2017-01-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5Wpn7BDRJ8oq7CcF1EufWI",
+          "name": "chris linton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321a71b38b0f8070c7caaa17d",
+      "uri": "spotify:album:1fVaCHKW84HNJK0JKcN4A2",
+      "name": "superhero",
+      "album_type": "single",
+      "release_date": "2016-11-26",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5Wpn7BDRJ8oq7CcF1EufWI",
+          "name": "chris linton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f383925da916c815b706448",
+      "uri": "spotify:album:4R7XLkaCdX7sf7XEi6xU6i",
+      "name": "superhero (sped up/slowed)",
+      "album_type": "single",
+      "release_date": "2016-11-26",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        },
+        {
+          "spotify_id": "5Wpn7BDRJ8oq7CcF1EufWI",
+          "name": "chris linton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d765e8124bc6c58115bf6183",
+      "uri": "spotify:album:6Xhu7eIV0facFKc2Fkyor2",
+      "name": "separate ways",
+      "album_type": "single",
+      "release_date": "2016-11-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "unknown brain"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:00.000Z"
+}

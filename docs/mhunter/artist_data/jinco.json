@@ -1,0 +1,890 @@
+{
+  "name": "jinco",
+  "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+  "uri": "spotify:artist:2AsCNMhgUuqhs3Sx9Ko5Vq",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebbd734e55c6397e02fd67f31c",
+  "genres": [
+    "future bass",
+    "edm trap"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e57d7dadb09e49baa5e1ca1f",
+      "uri": "spotify:album:4o4voFgmCgBvNzwVG0hHqF",
+      "name": "best friends",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "2PpDGurwTlyoxIJdQBlpwx",
+          "name": "toy box"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1fa09ae00a12e6799984285",
+      "uri": "spotify:album:1CoIIAHihWf7GdOpcftjR7",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "20ZeznQHUGorY2fyAoZ1Ie",
+          "name": "holly jade"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8d958cf7562fc06179a1154",
+      "uri": "spotify:album:05qmVvrebHSpZuIUggIqh6",
+      "name": "wolf",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f69722dbab3ca0c47c2b45b",
+      "uri": "spotify:album:0W5RZSzhbk6JwflGiCPX25",
+      "name": "we live and we learn",
+      "album_type": "album",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305e62726cb1babc11d0ecb36",
+      "uri": "spotify:album:6N1iSPxU4fwmMbkirlUzX0",
+      "name": "diamond eyes",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6GQx1heM2wyI3iHpAC5P8X",
+          "name": "dabow"
+        },
+        {
+          "spotify_id": "61ehajEjCepvX1LehNWtKt",
+          "name": "gracie van brunt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f490a32e590482d5429c9c6f",
+      "uri": "spotify:album:3v1oLj0VNYuwX4Pu3rFH27",
+      "name": "who's who",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6USsKcAGvRZJwoKdvMznWr",
+          "name": "y2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273117bb8817ee8d68c77633ef8",
+      "uri": "spotify:album:5HTrLMQUxog5cg6QD2lN9P",
+      "name": "we live and we learn",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736210f85e293aa612aa054f31",
+      "uri": "spotify:album:5q5BCIoPPWYHCNYBpMo9oC",
+      "name": "farewell",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273431ae4e7f760c15e0e03cbb7",
+      "uri": "spotify:album:4snRfrPmrlJYuPu377EtsW",
+      "name": "banksy",
+      "album_type": "single",
+      "release_date": "2022-06-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0iDBD558yJl5IfRXg9Yfwt",
+          "name": "etc!etc!"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3fb92c3f94a029d0ba8b66d",
+      "uri": "spotify:album:0W1sDAjqcec3C5YV7zZkzN",
+      "name": "hush hush",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730cb2b05f52db6f99295d0d89",
+      "uri": "spotify:album:3YPxKPBlsxrt0Twv7hxwTp",
+      "name": "touch the sky",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6USsKcAGvRZJwoKdvMznWr",
+          "name": "y2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734670b65221bb16fb00c44e3a",
+      "uri": "spotify:album:0zSq9bvvJyI73ksQBKijMZ",
+      "name": "camouflage",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a902fac7e318f7e857139aa",
+      "uri": "spotify:album:6qeqZAI9E5c8yOjTBMmcdW",
+      "name": "hometown",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "5IBaWC4oHRu3NBJkWdVWNC",
+          "name": "toy box"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bfe04192bce5270e11cec48",
+      "uri": "spotify:album:3s0epVDZm5uOn1GVMBLczz",
+      "name": "oceanic",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273148f15950f61d7f5d0752767",
+      "uri": "spotify:album:5TmsbmUpfnowbuDnFmxhMb",
+      "name": "quarantivity",
+      "album_type": "album",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346f963c2818da4906bd24782",
+      "uri": "spotify:album:4OGxGYYrYpzcE2u41Gk1Cd",
+      "name": "planet earth",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6JhGKodTmiYN6mXldxwRBL",
+          "name": "lucchii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d13db1c3dcba2c7efd53e81",
+      "uri": "spotify:album:14jqKhCixcdRM0mzmS1HOD",
+      "name": "wild life",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "2PgOtERwe37cW1U9z7zAHb",
+          "name": "sam bruno"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2da04dae8628fabb92ffd04",
+      "uri": "spotify:album:7K6JnIIdpzAL3I44O6I4CP",
+      "name": "where we goin'",
+      "album_type": "single",
+      "release_date": "2019-07-26",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6JhGKodTmiYN6mXldxwRBL",
+          "name": "lucchii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fd0d2c9c5fed3069af96db8",
+      "uri": "spotify:album:5PXh0xdrqncXtjhAEU81nq",
+      "name": "somebødy else",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6JhGKodTmiYN6mXldxwRBL",
+          "name": "lucchii"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a74e4a9c029fb0be35eda1b3",
+      "uri": "spotify:album:1xJWYiftXOeHqTbob4fYlC",
+      "name": "dojo",
+      "album_type": "single",
+      "release_date": "2019-04-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "464itU0zCBaWNGoPMzkM1Z",
+          "name": "crave"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b570e4e99ca41ffac7eb49f",
+      "uri": "spotify:album:6wJU7cYFOmkwUJdqB2rf7A",
+      "name": "what's good for me",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b9d249cbed0e4b55e20d9a3",
+      "uri": "spotify:album:7i9Pp5ATiGxuYQzyBU9vCD",
+      "name": "ava",
+      "album_type": "single",
+      "release_date": "2019-02-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae731113198507633bf36e44",
+      "uri": "spotify:album:4C8rLzVfmRqn5oXCjOjw1p",
+      "name": "love is a miracle",
+      "album_type": "single",
+      "release_date": "2019-02-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374930126399dcd68b8b70dc9",
+      "uri": "spotify:album:2WmJ99hq4nt5EL2J84V2n5",
+      "name": "monster party",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "6USsKcAGvRZJwoKdvMznWr",
+          "name": "y2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d59b8853f67f3c9fe5ae7696",
+      "uri": "spotify:album:09LsRlCgksRunPgcspqSbh",
+      "name": "joy. (fransis derelle & jinco remix)",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3sDbKMebVH2VYcRSl7u1VC",
+          "name": "for king & country"
+        },
+        {
+          "spotify_id": "0SjiMVVtcOsDAOb4fKCCLn",
+          "name": "fransis derelle"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356eb325362af981d40f3e487",
+      "uri": "spotify:album:5Pe8JNWL4hDqQ2j2RSP3Dl",
+      "name": "bad for you",
+      "album_type": "single",
+      "release_date": "2018-10-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc6db181fc6a53f53d7ceaa4",
+      "uri": "spotify:album:70nGBUJzvVXZoXoD18MvDy",
+      "name": "breathe (the remixes)",
+      "album_type": "single",
+      "release_date": "2018-08-15",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379690e554438914ff2aca956",
+      "uri": "spotify:album:5r9QmLlokTuvVZcDoDDXKC",
+      "name": "haven't said (the remixes)",
+      "album_type": "album",
+      "release_date": "2018-07-11",
+      "release_year": "2018",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736eb393c1c9a76f697ff3e07c",
+      "uri": "spotify:album:5I2LiHjwNvzW318OVRJejf",
+      "name": "believer",
+      "album_type": "single",
+      "release_date": "2018-06-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733617a8812f4524f84147eccd",
+      "uri": "spotify:album:4Dq2vP2c391STNpb1jc3Lv",
+      "name": "hitch",
+      "album_type": "single",
+      "release_date": "2018-04-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f89f03617ef74e45ea8a3c8f",
+      "uri": "spotify:album:7jpgXv6bwrhKOdWmb4iLs9",
+      "name": "high tide",
+      "album_type": "single",
+      "release_date": "2018-03-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf5822711420d42b6ba2cf4f",
+      "uri": "spotify:album:7zvYLzfF3dMunf8WrqOtEX",
+      "name": "breathe",
+      "album_type": "single",
+      "release_date": "2018-03-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273054102d81bf05d0bc309c0d0",
+      "uri": "spotify:album:7dKKBUCkCMiogcIzr8loER",
+      "name": "scherzo in e-minor",
+      "album_type": "single",
+      "release_date": "2018-03-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5ed92d8c080075df2fd0e3b",
+      "uri": "spotify:album:02OCLjFkcbO7WGSMwdPJE1",
+      "name": "gotham",
+      "album_type": "single",
+      "release_date": "2018-02-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "0IjH4bQIXzUAGqpVekBtPl",
+          "name": "dialedin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c6740ac3a609b310b9efc1b",
+      "uri": "spotify:album:2KY1gYhOC2QsKXDm2Jvawi",
+      "name": "haven't said",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cb970af213fefb082101a6b",
+      "uri": "spotify:album:2v6HxqJdCWHDzOjnP40rg3",
+      "name": "my girl (feat. burnheart) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "3Ppk7mLzKS4YRP3L0Xq8G8",
+          "name": "adgrms"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcd957f93c17b96c9130586f",
+      "uri": "spotify:album:0RN0yWl5xRVwELIY8NCrGM",
+      "name": "my girl (feat. burnheart)",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "3Ppk7mLzKS4YRP3L0Xq8G8",
+          "name": "adgrms"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e65ebc16051972e39d42ebe",
+      "uri": "spotify:album:7zE1FtLYNT6xER2gVuH099",
+      "name": "dream machine ep",
+      "album_type": "single",
+      "release_date": "2017-04-28",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c115ace2062e814fb83b5fa",
+      "uri": "spotify:album:7wRWDhak6H9gHUY9rS0wCl",
+      "name": "dream machine ep",
+      "album_type": "single",
+      "release_date": "2017-04-14",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6b73c1f020c134faa38f03e",
+      "uri": "spotify:album:0UCqvuUp4WEGffJkAsEb0k",
+      "name": "i'm waiting",
+      "album_type": "single",
+      "release_date": "2017-03-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6842590d97896cfd53a0c5c",
+      "uri": "spotify:album:7xKEWm37iPr5DCZyu4Asf0",
+      "name": "clear souls",
+      "album_type": "single",
+      "release_date": "2017-01-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "65stAzefvkwLeulY8215Zo",
+          "name": "holly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273859232fd27ceb534061cf2d4",
+      "uri": "spotify:album:4KtxGO69KMruGRRzuGys7v",
+      "name": "far sight",
+      "album_type": "single",
+      "release_date": "2016-12-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "44Wi4QHWK4CzACCqCyxo3x",
+          "name": "we are fury"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b102fabdd60e90ba817fbeb8",
+      "uri": "spotify:album:6BABPJ3zZCGSUuVZ1Pq0CF",
+      "name": "crown",
+      "album_type": "single",
+      "release_date": "2016-10-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "4lfzmHxJUmbTMeg2OlnBNN",
+          "name": "svnah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6f1a75af30f6e92b2224e5e",
+      "uri": "spotify:album:1waEBPw7t4Wo5zUEXHLvcs",
+      "name": "clocktower",
+      "album_type": "single",
+      "release_date": "2016-10-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b5175ce3308760c53b9996f",
+      "uri": "spotify:album:4nVWF4IttSJFYTiShAVzns",
+      "name": "ain't no sunshine (feat. titi stier)",
+      "album_type": "single",
+      "release_date": "2016-09-13",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5rf1u63C6OLwqIk4hHlkhv",
+          "name": "jawster"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735aecae620f87e96aee0e52da",
+      "uri": "spotify:album:1fnU90X218G7sFnMVHFm5v",
+      "name": "follow me",
+      "album_type": "single",
+      "release_date": "2016-08-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "1CXuuw8HJhyN80HlNzvL1e",
+          "name": "sullivan king"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9716730703384e2981c160f",
+      "uri": "spotify:album:1P0qWgyyPnrLHNf8nRUcYr",
+      "name": "what they want",
+      "album_type": "single",
+      "release_date": "2016-07-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        },
+        {
+          "spotify_id": "19EW4WBhl0fvZUQgi7wV5M",
+          "name": "quix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b580b9a2ad5130935324ede6",
+      "uri": "spotify:album:1sXWshPot79BxfQ6YtVOZf",
+      "name": "tokyo",
+      "album_type": "single",
+      "release_date": "2016-06-30",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c89af00555f2b312b32aab5",
+      "uri": "spotify:album:1NW0ejl2qXIMPRqdfWEIhP",
+      "name": "i wonder",
+      "album_type": "single",
+      "release_date": "2016-04-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8e358ab0028ef2c7927549b",
+      "uri": "spotify:album:4lVFFA0GSAoJl2XaiTSxFM",
+      "name": "raj revenge",
+      "album_type": "single",
+      "release_date": "2015-08-21",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2g7WWQ12c4FLTtdk0z5mwI",
+          "name": "goshfather"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3790455f479c79a2869352b",
+      "uri": "spotify:album:6lQPB5auEJkGeAUnqagDg5",
+      "name": "crush",
+      "album_type": "single",
+      "release_date": "2015-02-10",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1AlMOfS6T5s24LsrLZ2Eji",
+          "name": "jaykode"
+        },
+        {
+          "spotify_id": "2g7WWQ12c4FLTtdk0z5mwI",
+          "name": "goshfather"
+        },
+        {
+          "spotify_id": "2AsCNMhgUuqhs3Sx9Ko5Vq",
+          "name": "jinco"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:15:33.000Z"
+}

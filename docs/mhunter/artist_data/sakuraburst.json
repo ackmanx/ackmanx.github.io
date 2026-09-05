@@ -1,0 +1,294 @@
+{
+  "name": "sakuraburst",
+  "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+  "uri": "spotify:artist:4gW5XDeiXQJY7Lpdp8TXKv",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b98efcf9ccc64532b42e19",
+  "genres": [
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af6c191a52017cc2e87e7d98",
+      "uri": "spotify:album:4NwdD60esBtBtdFLHKe02j",
+      "name": "verdancy",
+      "album_type": "single",
+      "release_date": "2020-03-24",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273499a7d868da6faf8e9d09e02",
+      "uri": "spotify:album:1oPEfZDFY9jagU1UcHrqud",
+      "name": "harpsinger",
+      "album_type": "album",
+      "release_date": "2019-06-29",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8a8f97afaf6608b8fd8d402",
+      "uri": "spotify:album:4ySK8M4dTFisTHnkX3Vbl7",
+      "name": "glacierfall (paark remix)",
+      "album_type": "single",
+      "release_date": "2019-03-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4eaa223569b5e1852b63d3c",
+      "uri": "spotify:album:4hS4YBUk6o9sI5Al7Ohgei",
+      "name": "s5",
+      "album_type": "single",
+      "release_date": "2019-03-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1WqKPRIyc3iLqATQR0DGYc",
+          "name": "paark"
+        },
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c93a971b59543f1fef93e2e",
+      "uri": "spotify:album:4j0zokWEwVX36mbwilOPFO",
+      "name": "s5",
+      "album_type": "single",
+      "release_date": "2019-03-10",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1WqKPRIyc3iLqATQR0DGYc",
+          "name": "paark"
+        },
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373771adf795b2f4eb64016a5",
+      "uri": "spotify:album:5RNJYZgKSM3k8ZO7jDaj0s",
+      "name": "self destruct",
+      "album_type": "single",
+      "release_date": "2019-01-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5b8c25370535a374e58387d",
+      "uri": "spotify:album:2pn9Su1TAdDSE2sHaWbdmN",
+      "name": "aethersong",
+      "album_type": "single",
+      "release_date": "2018-11-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339b084116e1ff9fc972a94fc",
+      "uri": "spotify:album:2h1yZLoDGxexl5LDyusRUs",
+      "name": "aquaria",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5da8f347aa28096a8cafa9a",
+      "uri": "spotify:album:2wKZBcqNIilij8DqBI8Vo2",
+      "name": "glacierfall",
+      "album_type": "single",
+      "release_date": "2018-08-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2ea44090cf989432f75b158",
+      "uri": "spotify:album:2ymsEtgagsDdwlInNE7vFD",
+      "name": "the skies open",
+      "album_type": "single",
+      "release_date": "2018-07-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5869f4655294fdf015cb4fd",
+      "uri": "spotify:album:3T9JmoEFIe4hX2gF7jBNju",
+      "name": "glass river",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba5965b0f415deb51a20eb6d",
+      "uri": "spotify:album:1YkPBvJtKY5VETd2R6ktxq",
+      "name": "galaxy cutter",
+      "album_type": "single",
+      "release_date": "2017-08-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3fHyH5IvOTWYnDXDCjST9y",
+          "name": "hyleo"
+        },
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aaa28287fa6c38610cf159ec",
+      "uri": "spotify:album:2TtpAG0ZQAr915lfb4WwxU",
+      "name": "downfall",
+      "album_type": "single",
+      "release_date": "2017-06-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d05b5708f22bdc1447ddf384",
+      "uri": "spotify:album:0AK7zriBUeehFvlRO7OKVs",
+      "name": "deconstructing nature",
+      "album_type": "album",
+      "release_date": "2016-12-18",
+      "release_year": "2016",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b3365ee8714ad80f0f52ebb",
+      "uri": "spotify:album:628zxWzzhInVfttJ13OCQg",
+      "name": "biodome",
+      "album_type": "single",
+      "release_date": "2016-12-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2c32bd0dc866b94b7d85c3d",
+      "uri": "spotify:album:2W3WQGDRbmrdw5Opc2AUYN",
+      "name": "blood orange ep",
+      "album_type": "single",
+      "release_date": "2016-12-18",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731edafc6de38eed2849462c25",
+      "uri": "spotify:album:1GolFLnaiAKh9TgnQGB8P7",
+      "name": "dragonlands",
+      "album_type": "single",
+      "release_date": "2016-12-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336d0c0b1f995d74491dd010a",
+      "uri": "spotify:album:170bYmCqoD9oFts7Ul7oYj",
+      "name": "sunstreams",
+      "album_type": "single",
+      "release_date": "2016-12-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4gW5XDeiXQJY7Lpdp8TXKv",
+          "name": "sakuraburst"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:28:26.000Z"
+}

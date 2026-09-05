@@ -1,0 +1,4091 @@
+{
+  "name": "kshmr",
+  "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+  "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd6375815b4e8a04d9863c22c",
+  "genres": [
+    "big room",
+    "edm",
+    "slap house",
+    "electronica"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5b277576c7f1487cc872cad",
+      "uri": "spotify:album:1UMBduXCceZatC2NBLvzJQ",
+      "name": "oasis",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3NfKPE32SVWXMM4T6HUKAa",
+          "name": "ampermut"
+        },
+        {
+          "spotify_id": "2w0J6UmL0Unhj5yqE7rlfp",
+          "name": "gobi desert collective"
+        },
+        {
+          "spotify_id": "4DgCdCHRYRjMSYtH2nWu72",
+          "name": "teja"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273763361127a380ac7931343d2",
+      "uri": "spotify:album:1QFEurpNFobpWBTjSyo2di",
+      "name": "mirage",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3NfKPE32SVWXMM4T6HUKAa",
+          "name": "ampermut"
+        },
+        {
+          "spotify_id": "2w0J6UmL0Unhj5yqE7rlfp",
+          "name": "gobi desert collective"
+        },
+        {
+          "spotify_id": "4DgCdCHRYRjMSYtH2nWu72",
+          "name": "teja"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6f0b4067994be06d0b4e7f2",
+      "uri": "spotify:album:7aiVOw626yHX9o9hNkrqp6",
+      "name": "ultra love (ryos remix)",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        },
+        {
+          "spotify_id": "5tpQ8DM8YGZRtBI0zyxTwg",
+          "name": "brieanna grace"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273162a35485260f261c89d6678",
+      "uri": "spotify:album:3wLOljLlZt7B41pAZks4QJ",
+      "name": "khoye yahaan reimagined",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6sfYz369rzZ7hxEh5Kb4tF",
+          "name": "otiot"
+        },
+        {
+          "spotify_id": "7tYjk2vuV96DmlpEHLlw05",
+          "name": "kel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b354414c31ddc7a2cd5f3942",
+      "uri": "spotify:album:4Uh4CwIOGDKCnYXEXoNInQ",
+      "name": "bass down low (feat. dev)",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7ui1kBUIbujvJnIXxDjoWz",
+          "name": "niiko x swae"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+          "name": "dev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bc626ab93ef7a0aee9a6189",
+      "uri": "spotify:album:4dKHRZWgzq2SueFiiZ7UPy",
+      "name": "ultra love",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        },
+        {
+          "spotify_id": "5tpQ8DM8YGZRtBI0zyxTwg",
+          "name": "brieanna grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4f6b647dab215f130d98c7",
+      "uri": "spotify:album:3SJ142wxlTvqOqpjJasqXO",
+      "name": "tu pehli tu aakhri remix",
+      "album_type": "single",
+      "release_date": "2026-03-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7xN2ufjWKVWZnhZJu8DKDn",
+          "name": "dj ganesh bombay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4ddafc4b4de5adf5feb0cd0",
+      "uri": "spotify:album:3bi9DlUjl64Rcd6gMddtek",
+      "name": "bass down low (feat. dev) [trap version]",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7nJNuftnqwrFGFs3ZRRe0u",
+          "name": "memba"
+        },
+        {
+          "spotify_id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+          "name": "dev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dd934f6a0865fe3833cbdae",
+      "uri": "spotify:album:1FogdMMgodRlRvaZ9WXzS8",
+      "name": "bass down low (feat. dev) [go version]",
+      "album_type": "single",
+      "release_date": "2025-11-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "2LvoCyCKPikfIOquhBqRce",
+          "name": "avancada"
+        },
+        {
+          "spotify_id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+          "name": "dev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333ad008dd322ae263960545b",
+      "uri": "spotify:album:21IS6JKY4bHsX82VemUKoq",
+      "name": "pretender",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "20gsENnposVs2I4rQ5kvrf",
+          "name": "sam feldt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c34ddbec8d1a22a3acae33",
+      "uri": "spotify:album:0qhB3pwU5CkZJ9LT7wBHRg",
+      "name": "radiate (feat. hayley may)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "00S0dnexJEwjUFTEMTUC9I",
+          "name": "nilsix"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        },
+        {
+          "spotify_id": "1WcwbtAnG5HWNbPPK84ued",
+          "name": "hayley may"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735865536addffe4bd23cadb31",
+      "uri": "spotify:album:1RJOptnhicG5FsZRzpT5YF",
+      "name": "wild ride (ryos remix)",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273372bc2fe7b74da45fa00b640",
+      "uri": "spotify:album:0Gvqxk76tbtQaIDySOUpaT",
+      "name": "wild ride",
+      "album_type": "single",
+      "release_date": "2025-06-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce8792caf7b7906c465ecdc3",
+      "uri": "spotify:album:3dpwY24QK5adMTsTs6mmOI",
+      "name": "no regrets (feat. krewella) [yussi remix]",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "1IwkSL4i4wIu40Cej0a997",
+          "name": "yussi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273287c5ffa7ca4c9631d962258",
+      "uri": "spotify:album:14cDD5QjVN1LxYtiS5bzHI",
+      "name": "the chant",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7us9kFadl2fztbHSvlNk6M",
+          "name": "ryos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f38404a3163b39ff60183e2f",
+      "uri": "spotify:album:1cRyktguIgul8ImPudSqwf",
+      "name": "bad",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273278c9d08426c496ffc082e85",
+      "uri": "spotify:album:5OkTkv5HihCPXVTzPOGu1q",
+      "name": "diamond in the rough",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6b5YOgXIliAozdo49vUCJQ",
+          "name": "izzy bizu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273065074809f3543ae3ca68990",
+      "uri": "spotify:album:5Kz22Zrnda8PPdUs0ibQB1",
+      "name": "diamond in the rough (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6b5YOgXIliAozdo49vUCJQ",
+          "name": "izzy bizu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739002b981e843225ff46745b2",
+      "uri": "spotify:album:43DE9skvypnCF4t2bLaSOh",
+      "name": "indigo child (feat. michael bernard fitzgerald)",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7qugSH6OA23DE6I5v4kpdv",
+          "name": "michael bernard fitzgerald"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af653c38568a72c1dc8f011c",
+      "uri": "spotify:album:4MKYI7Ofd3HSm4OGuODlGh",
+      "name": "indigo child (feat. michael bernard fitzgerald) [extended mix]",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7qugSH6OA23DE6I5v4kpdv",
+          "name": "michael bernard fitzgerald"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efe14edee2f5b24b7306689d",
+      "uri": "spotify:album:0PUR6EyFylp9ScdueGEBuk",
+      "name": "7 days a freak",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1P43aPJUVcI2XzVJ9QtK2j",
+          "name": "shy niko"
+        },
+        {
+          "spotify_id": "0QJjhIiIMNvHGyltsojy5Q",
+          "name": "datti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ee593a212987bad0c2d3bdb",
+      "uri": "spotify:album:45998LY17D2tQnJOXFrWI0",
+      "name": "7 days a freak (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1P43aPJUVcI2XzVJ9QtK2j",
+          "name": "shy niko"
+        },
+        {
+          "spotify_id": "0QJjhIiIMNvHGyltsojy5Q",
+          "name": "datti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cc929afd5c82772f26cc462",
+      "uri": "spotify:album:249hhHmNxiQ4pGfLGRXbQt",
+      "name": "sun goes down",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733371962c8fcbbdece72caba1",
+      "uri": "spotify:album:7LIPAlMifeJrHZKAOQBsLW",
+      "name": "sun goes down (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273023fd7ab5737a32e519ae525",
+      "uri": "spotify:album:13K9ALiVMRRqwCCx1SBZma",
+      "name": "more than a feeling",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f885e8c83d38406c5901ede",
+      "uri": "spotify:album:5FF534Lpl5C4zsNqVNQwwi",
+      "name": "more than a feeling (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273730301d3358b877e4ae4c6c6",
+      "uri": "spotify:album:4esL2rkKn37eYxKxdg07c0",
+      "name": "taambdi chaamdi (kshmr remix)",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3Gowc3dedLQgQAt4y0gPBo",
+          "name": "kratex"
+        },
+        {
+          "spotify_id": "65qLuo5zSTqg8Qb17OCnLu",
+          "name": "shreyas"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b323582ef64628f2982d61f",
+      "uri": "spotify:album:31ES2CT49njWC2ltokpdVt",
+      "name": "taambdi chaamdi (kshmr remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3Gowc3dedLQgQAt4y0gPBo",
+          "name": "kratex"
+        },
+        {
+          "spotify_id": "65qLuo5zSTqg8Qb17OCnLu",
+          "name": "shreyas"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ff1d870f309dfd02f6e19cb",
+      "uri": "spotify:album:2mlNgi2YyH7VU4oUeXlc25",
+      "name": "khoye yahaan (official sunburn goa 2024 anthem)",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6sfYz369rzZ7hxEh5Kb4tF",
+          "name": "otiot"
+        },
+        {
+          "spotify_id": "7tYjk2vuV96DmlpEHLlw05",
+          "name": "kel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358308361ea4fc8bd5ac186bd",
+      "uri": "spotify:album:2jB60PymZFjzuTU8DBEvLW",
+      "name": "khoye yahaan (official sunburn goa 2024 anthem) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6sfYz369rzZ7hxEh5Kb4tF",
+          "name": "otiot"
+        },
+        {
+          "spotify_id": "7tYjk2vuV96DmlpEHLlw05",
+          "name": "kel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad91234de5cb7a4679b7c5f5",
+      "uri": "spotify:album:421QWBCNHDoQTqDk41JYfj",
+      "name": "kolkata (techno version)",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7oqJesfsNfHYYN6bEKR6UP",
+          "name": "jdg"
+        },
+        {
+          "spotify_id": "2cFzYhiHqYS7o8ZIM9WD22",
+          "name": "mariana bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbb85bcaac1f107106e699c2",
+      "uri": "spotify:album:4c90JGzu4E0xUfqTxPM2IG",
+      "name": "kolkata (techno version) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7oqJesfsNfHYYN6bEKR6UP",
+          "name": "jdg"
+        },
+        {
+          "spotify_id": "2cFzYhiHqYS7o8ZIM9WD22",
+          "name": "mariana bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739467744d9bc77b7a05266047",
+      "uri": "spotify:album:293qHAJCL1zaqYDLQpPC3d",
+      "name": "my best life (feat. mike waters) [psy mix]",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "35rZNMlMkBs7ghHmGKt0xq",
+          "name": "mike waters"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1b0864038c99470810022ad",
+      "uri": "spotify:album:5lvJFugs1Hxr5ZdrYNMZA5",
+      "name": "my best life (feat. mike waters) [psy mix] [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330f3f90b4119e84990a4916c",
+      "uri": "spotify:album:1lKabEz08F0w7UOmMsu8Wm",
+      "name": "bada",
+      "album_type": "single",
+      "release_date": "2024-09-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2RS1R0tueoL8EJXTSBAt2F",
+          "name": "karma"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca0e9cd5e7add7c9a2cae443",
+      "uri": "spotify:album:09WB6ev1KyKXszq0kCvK9q",
+      "name": "out of control",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2mmqhYDTD0weseyXUf1QJ5",
+          "name": "7 skies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a73647acf8c8fd4c3734a419",
+      "uri": "spotify:album:2RDtOu3PyPJvtvDgmtw7X9",
+      "name": "out of control (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2mmqhYDTD0weseyXUf1QJ5",
+          "name": "7 skies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739955621438fa93dbe0f7d55f",
+      "uri": "spotify:album:4j4FvdCqehgLaiNVBdA3jW",
+      "name": "take me home, country roads",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d968510e8b15041aeb026922",
+      "uri": "spotify:album:3oUwgesVOTmlmlkqclzRYa",
+      "name": "take me home, country roads (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a588b4e6aa724fb15b8dee70",
+      "uri": "spotify:album:3ocRwxucX3212g29vOg7je",
+      "name": "satisfaction",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273996b08e3f048fa23b08de36d",
+      "uri": "spotify:album:6mL3jAb9S5nAA7j92GHays",
+      "name": "satisfaction (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344ed67919718803b0e3af8d5",
+      "uri": "spotify:album:0ozDtV4O2m5tCnbCXMWpWc",
+      "name": "close your eyes (rolipso & foínix remix)",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        },
+        {
+          "spotify_id": "1EtBmvqGOtWnjDgCUFQRqI",
+          "name": "rolipso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac5d5b4491b86e5257d9109f",
+      "uri": "spotify:album:2S7PToCOScafdzpKQ0CrP6",
+      "name": "close your eyes (rolipso & foínix remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        },
+        {
+          "spotify_id": "1EtBmvqGOtWnjDgCUFQRqI",
+          "name": "rolipso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363b7c0fc960e48716a479f2a",
+      "uri": "spotify:album:5eAhfbZTsjfCGWcAyEtcAM",
+      "name": "juice",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5cBFMoMgcAt03YL2r0tS25",
+          "name": "raja kumari"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273498453cec65d8e1db56acde3",
+      "uri": "spotify:album:19JTuhercisDkcrejs4eFu",
+      "name": "devotion",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "18006kpQI473m1ICcpimQ9",
+          "name": "22bullets"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323dade3b47582a2ed79065ea",
+      "uri": "spotify:album:6JYtxiOhyXHWnW9P1dl2qy",
+      "name": "devotion (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "18006kpQI473m1ICcpimQ9",
+          "name": "22bullets"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0dc1c6a46eb08de762ebe91",
+      "uri": "spotify:album:0ToAGCrXd9BNigVoIIoj0s",
+      "name": "aawara",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5NHm4TU5Twz7owibYxJfFU",
+          "name": "king"
+        },
+        {
+          "spotify_id": "5lMNphVhMLvhFmTWiKiLA2",
+          "name": "zaeden"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273623aa9009a0c73a0668900c9",
+      "uri": "spotify:album:7JbXWrz529d0L25gU7yju5",
+      "name": "happy (feat. tiina)",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6GVBNOQURiHG9apNXi9fE8",
+          "name": "tiina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273879256de50e19ba98e535a20",
+      "uri": "spotify:album:1fvnz5sx16eNZbqYf6RsoE",
+      "name": "happy (feat. tiina) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338a6b3ce09e1b53bcc82323b",
+      "uri": "spotify:album:7mlbnclHjUsHGkk0Ga8jIZ",
+      "name": "all night",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4ffsVdOEMAqvXPPePkgP5d",
+          "name": "gritney"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d441a4dd9f0e923bdba9b97c",
+      "uri": "spotify:album:490fB5O89PXcTwo8FCSzVD",
+      "name": "all night (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4ffsVdOEMAqvXPPePkgP5d",
+          "name": "gritney"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c2b9aa1c04e30649f61faf0",
+      "uri": "spotify:album:3ZTNZLchGn3DaAFUsFiv6q",
+      "name": "tears on the dancefloor (feat. hannah boleyn) [night mode]",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6EP96GaItADv1rNqR2oGIR",
+          "name": "hannah boleyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d40ab3de89a4a210cfb33eab",
+      "uri": "spotify:album:0IPAqCfLfsDauO2huFSnGt",
+      "name": "tears on the dancefloor (feat. hannah boleyn)",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6EP96GaItADv1rNqR2oGIR",
+          "name": "hannah boleyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de0be4cfbf7cb3727e2c134b",
+      "uri": "spotify:album:6BPjPKhoGuyZBYw9V3Z9Vu",
+      "name": "la vida",
+      "album_type": "single",
+      "release_date": "2023-11-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2JJKoRrK7Eec7jlcjFB7sc",
+          "name": "dabzee"
+        },
+        {
+          "spotify_id": "1Clwe5e4xyRasANUVlpcCf",
+          "name": "vedan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273187fbd661ad71b06d9e2e75c",
+      "uri": "spotify:album:6lmjyMZTJmkJuQrXo79HM1",
+      "name": "karam",
+      "album_type": "album",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734165d61acff18635399ce733",
+      "uri": "spotify:album:3CFwY9KmYgFjOCv1Zgvsvy",
+      "name": "zero after zero",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5C1S9XwxMuuCciutwMhp5t",
+          "name": "kr$na"
+        },
+        {
+          "spotify_id": "5Yh3qHDUeUiyQqn1jmNhT1",
+          "name": "talay riley"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307c6cc982203abd4af939173",
+      "uri": "spotify:album:139tE0AGe2onXyEQAJKvaw",
+      "name": "eternity (with timmy trumpet) [club mix]",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6c63920d98e524d9acbf37a",
+      "uri": "spotify:album:7ziEtFlfczZibZMcCOLqbz",
+      "name": "eternity (with timmy trumpet) [tungevaag remix]",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4f6e56d539efe075cc97a5b",
+      "uri": "spotify:album:4f6hP9KBR7Sm6ACbWTYQGc",
+      "name": "close to you (audiotricz remix)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "52I8HbScEEvgwiiSDaM7gP",
+          "name": "audiotricz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcfed264af2a29db440e07f7",
+      "uri": "spotify:album:1cfP2hvla4AyCynac61ehL",
+      "name": "legacy",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5UdFr0GeO7jKIaNIJgwB36",
+          "name": "raftaar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374af813981485832ddb1b0ac",
+      "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY",
+      "name": "eternity",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9954db9fe2c0af1383e70ec",
+      "uri": "spotify:album:5IQSHIPD6Z8EBTTjHI8uUM",
+      "name": "close to you",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e79110c61d9e02f3587f06e2",
+      "uri": "spotify:album:1bRdFGU7FkyGzJdODQz3dj",
+      "name": "bhussi",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2oBG74gAocPMFv6Ij9ykdo",
+          "name": "seedhe maut"
+        },
+        {
+          "spotify_id": "5mZ0Ee8OG1U9c4Wv2FKqvs",
+          "name": "karan kanchan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7b9d5f04dd91ffab0716aad",
+      "uri": "spotify:album:1m9yJKRtE9s5V3Q27m8Vys",
+      "name": "heartbeat",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ace17b16eb5749becf2c4b31",
+      "uri": "spotify:album:6H44Nod2PTvbTuu7PnUZWg",
+      "name": "haath varthi",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5uemEEtB1ZC3s1KM7gReeH",
+          "name": "mc stan"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "03hG7s3MUquIZwa4OvtLD7",
+          "name": "phenom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebc18a74f4102d764b8758d1",
+      "uri": "spotify:album:0UEHDWpxry0Wh4xKjGKLg0",
+      "name": "major lazer (bhavv vip mix)",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2h6hAChW74hB9HvrNoK1RY",
+          "name": "quarterhead"
+        },
+        {
+          "spotify_id": "0f8gPEWF6oJ7Gt3DfwawJT",
+          "name": "bhavv"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9e0cc6359c652ff670c377f",
+      "uri": "spotify:album:0lvEoELFjNxivRwSoSBLb3",
+      "name": "major lazer",
+      "album_type": "single",
+      "release_date": "2023-03-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2h6hAChW74hB9HvrNoK1RY",
+          "name": "quarterhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb983a571256dc6a46949ab6",
+      "uri": "spotify:album:283G1ZCo2HfhODAV87X2j1",
+      "name": "anywhere's home (klingande extended remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1L9i6qZYIGQedgM9QLSyzb",
+          "name": "klingande"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273646972da0415cefdd63d7734",
+      "uri": "spotify:album:2d3t5k4axWfjZvyVtceCNx",
+      "name": "anywhere's home (klingande remix)",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1L9i6qZYIGQedgM9QLSyzb",
+          "name": "klingande"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4143f5cfb9cf15598b8a371",
+      "uri": "spotify:album:5maWcarbPD7B93zV5o6DCr",
+      "name": "get with nobody (feat. baimz)",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5Hg39B4SZlegOjpTNzaclT",
+          "name": "baimz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273548f7ea233b8777707d2757e",
+      "uri": "spotify:album:0GC0x3mD6dOPuWeQd2d4Hu",
+      "name": "get with nobody (feat. baimz) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732beab1eeb9196fcc1a1afede",
+      "uri": "spotify:album:42PJrf36sVECeasPyOxVSL",
+      "name": "the devil you know (feat. micky blue)",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "74RDfhi3g8pfpmMCrQUtpF",
+          "name": "micky blue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e652b4db71e24072c05498cc",
+      "uri": "spotify:album:3uLGtsdnnrNrEVBF2nQRKg",
+      "name": "the devil you know (feat. micky blue) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273912b4347351db19bd60dbe76",
+      "uri": "spotify:album:3fCAB6BgbO0qF5OTXcP8k7",
+      "name": "anywhere's home (chill mix)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba3040433d3356896ee9e09b",
+      "uri": "spotify:album:2N3z0uAIymVNcJIbl1JeCj",
+      "name": "anywhere's home (extended chill mix)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce93a8a8f89860019ed6604f",
+      "uri": "spotify:album:2SDsu8LVOohQw3YBjNlaI0",
+      "name": "dharma sounds of summer vol. iv",
+      "album_type": "album",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736150d1603a7ea7e56f64d50c",
+      "uri": "spotify:album:4XyiPpNnQfnyGOzOwfDq6n",
+      "name": "close your eyes (bangun tidur selfi x go sampe bawah) [dj kunam remix]",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        },
+        {
+          "spotify_id": "4vV19ElfLapJe680iXVKGe",
+          "name": "dj kunam"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab8480bd16137e55b91dcf2",
+      "uri": "spotify:album:7s8g5nvFg2wa6a5wFWW0N3",
+      "name": "anywhere's home",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e3fc02068cacece5eaa9ac2",
+      "uri": "spotify:album:2RfqGL9Nsh8M2R9m88aqcV",
+      "name": "anywhere's home (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273759d4cc8e03276ac11b17505",
+      "uri": "spotify:album:1zR7dGlwSYBvfbPQum2JbO",
+      "name": "maria maria",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396ed1262bedff5b57d8a556c",
+      "uri": "spotify:album:2VL87fFGJk5iL88yBp756y",
+      "name": "maria maria (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "13NpuESz6tlK819yBs0PuS",
+          "name": "azteck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737151eb8ba626eda144b72a15",
+      "uri": "spotify:album:2EXPBbrWHILHbqVSZzzO9N",
+      "name": "bed (with kshmr)",
+      "album_type": "single",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6n9XmMc3mX18mrTHYOCPIq",
+          "name": "henri pfr"
+        },
+        {
+          "spotify_id": "6jsjhAEteAlY0vCiLvMLBA",
+          "name": "rozes"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730247cb71813513478fc93494",
+      "uri": "spotify:album:5at4UMpAW5bTh8d4jLeUmz",
+      "name": "it isn't me (with kshmr)",
+      "album_type": "single",
+      "release_date": "2022-04-15",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "18006kpQI473m1ICcpimQ9",
+          "name": "22bullets"
+        },
+        {
+          "spotify_id": "70paW48PtCtUjtndElrjrL",
+          "name": "tia ray"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0b631d83d222fcc4c6b1265",
+      "uri": "spotify:album:62oEG3Jyw8Pgp9HfUnzY0G",
+      "name": "ininna tora",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733cbc79aa2055d701b2a63306",
+      "uri": "spotify:album:6tBOKZaXQDcpsktPMAwtFp",
+      "name": "ininna tora (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1fzjSsvVUpGt2W0itpcTKP",
+          "name": "mildenhaus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273667dd147f7aaabcadaadcfc4",
+      "uri": "spotify:album:47FKp5JlZ1xGOEHIWHX14Z",
+      "name": "lion heart (feat. jeremy oceans & karra)",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4Ai0pGz6GhQavjzaRhPTvz",
+          "name": "divine"
+        },
+        {
+          "spotify_id": "1vqR17Iv8VFdzure1TAXEq",
+          "name": "lit killah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339cc3c5a8e37884c1bf2b985",
+      "uri": "spotify:album:68jLAOlZOMCbsX4yuOfPlw",
+      "name": "lion heart (feat. jeremy oceans & karra) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4Ai0pGz6GhQavjzaRhPTvz",
+          "name": "divine"
+        },
+        {
+          "spotify_id": "1vqR17Iv8VFdzure1TAXEq",
+          "name": "lit killah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273659958f6071daafabe01f4b4",
+      "uri": "spotify:album:4qOE55keoXAwieElnUUQzj",
+      "name": "close your eyes (extended vip mix)",
+      "album_type": "single",
+      "release_date": "2021-12-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6c4796e11df7ab5b94c8b62",
+      "uri": "spotify:album:4kBxlgszc29didRvY9xWVV",
+      "name": "close your eyes (vip mix)",
+      "album_type": "single",
+      "release_date": "2021-12-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735644e9037a436715e3a1b9aa",
+      "uri": "spotify:album:2nhQIxy5I5vLZZc5jPLiJP",
+      "name": "close your eyes",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb82597bf24967316e37db68",
+      "uri": "spotify:album:5bWE1VDwvHXe35eyrWPteA",
+      "name": "close your eyes (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "49CE2ffZ6Z3zeYSDauSKck",
+          "name": "tungevaag"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c2af55216e8047463027913",
+      "uri": "spotify:album:2LVHnGD0b6KrJvyGmOuG8Q",
+      "name": "over you (feat. lovespeake)",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0svmVqwlzmbBfwofH6uGbk",
+          "name": "lovespeake"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6e3ca4bb98b38eee9810520",
+      "uri": "spotify:album:13rBVlDc7aCzHmHhb9iqJ4",
+      "name": "over you (feat. lovespeake) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737342bcf0a724b8750a814586",
+      "uri": "spotify:album:2ITE6WwNqWTiLkPiAa8YV3",
+      "name": "reunion (free fire 4th anniversary theme song) [with alok & zafrir]",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a022cf41fd49dd003398ca9e",
+      "uri": "spotify:album:6sZP9x8AhspVX5E6rZjLUZ",
+      "name": "winners anthem",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dde1e7365ea732e112665038",
+      "uri": "spotify:album:2DZEdOT8Y9knkZAUjpG7mT",
+      "name": "ready to love",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273704e09973b87e03fdb2f3d47",
+      "uri": "spotify:album:1XdWBNdkAJWQgfVFO198KR",
+      "name": "you don't need to ask (feat. tzar)",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6oMBHWDRue76zAGaT8Rxw0",
+          "name": "tzar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b91d6e06291ba7b2a448b25",
+      "uri": "spotify:album:4Pqc9IVg6YRJPKakVOuZ2R",
+      "name": "echo (with kshmr)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4IKVDbCSBTxBeAsMKjAuTs",
+          "name": "armaan malik"
+        },
+        {
+          "spotify_id": "2FLqlgckDKdmpBrvLAT5BM",
+          "name": "eric nam"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c77fd471855d57c796e654ae",
+      "uri": "spotify:album:2nhAtXeLgszdlYmg5ynPFH",
+      "name": "harmonica andromeda",
+      "album_type": "album",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a6854a0a9c41d99b79ba5d5",
+      "uri": "spotify:album:0Y6aeC29PCS6MNymIDM74g",
+      "name": "harmonica andromeda (deluxe)",
+      "album_type": "album",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273172e3cede52d22ef46aa071b",
+      "uri": "spotify:album:5mbOLvo8EOsUyuKStqC0aY",
+      "name": "around the world (feat. noumenn) [official sunburn goa anthem 2021]",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7bFQpPcrEXYDQDcVPVahyC",
+          "name": "noumenn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da13398baef8f339131bbbac",
+      "uri": "spotify:album:1FwicSx5OGhuVx68A6oH2s",
+      "name": "the world we left behind (feat. karra)",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "24CzPFC4y3bM4AkUnZfuAU",
+          "name": "karra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c011378bc5858aa4b9d164e",
+      "uri": "spotify:album:1SJlxV7aTqAzev2roUQNeK",
+      "name": "scare me (feat. karra) [71 digits arcade mix]",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TKFPt9w0AAEnhB9bd0pLy",
+          "name": "lum!x"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d664a3ee069a3b0abb2c73e4",
+      "uri": "spotify:album:37QHm10rH7gS5VDDH6nfVC",
+      "name": "one more round (free fire booyah day theme song)",
+      "album_type": "single",
+      "release_date": "2020-10-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "68JQHAhLjcIjEpResOAVrf",
+          "name": "jeremy oceans"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d723992f219a8669682614f5",
+      "uri": "spotify:album:4douEsIUMR7BG5pIs0lQW7",
+      "name": "scare me (feat. karra)",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TKFPt9w0AAEnhB9bd0pLy",
+          "name": "lum!x"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b60e1ed85b3f278ab715427d",
+      "uri": "spotify:album:6sfiq9XzQfE0HGzEVrKkDH",
+      "name": "let me go (with mkla)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "57Vnemieu10x71jR2UWc4o",
+          "name": "mkla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa7da12269b584a1d978fbb9",
+      "uri": "spotify:album:3iYUmg1PpY33KH7QW0goe1",
+      "name": "kids (feat. mkla)",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5v3JgLiZtNnw6ablRjjNKK",
+          "name": "stefy de cicco"
+        },
+        {
+          "spotify_id": "57Vnemieu10x71jR2UWc4o",
+          "name": "mkla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f60cecc5335533d211cf5a82",
+      "uri": "spotify:album:6Rl243zfbA6yzCSwS22316",
+      "name": "kids (feat. mkla) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5v3JgLiZtNnw6ablRjjNKK",
+          "name": "stefy de cicco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273516cc2b0d34bb8e23f788d29",
+      "uri": "spotify:album:5hzBCf1HMZpBpaYnu2XgvW",
+      "name": "casual",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6YSARjop0j3F7TzOTNcFIm",
+          "name": "dreamz"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed26f08714b62e0577413c95",
+      "uri": "spotify:album:4yyZ2YClfFV6ZyttcxYXwa",
+      "name": "the prayer (feat. zafrir)",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d25a9821adcb3267055e337",
+      "uri": "spotify:album:03DuUrUXVrDi7c5jp0u0Ec",
+      "name": "devil inside me (feat. karra) [kaaze remode]",
+      "album_type": "single",
+      "release_date": "2020-06-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a8bc2abe2f5aeda57ed2aba",
+      "uri": "spotify:album:11bZPXUTpZ8RsEpZMZOKKR",
+      "name": "voices (feat. tzar)",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4mHAu7NX2UNsnGXjviBD9e",
+          "name": "brooks"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6oMBHWDRue76zAGaT8Rxw0",
+          "name": "tzar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387086117dd58f44d55fba8db",
+      "uri": "spotify:album:6BwqziuB0lzjNi8Xw9DpdB",
+      "name": "alone (feat. anjulie & jeffrey jey) [triangle remix]",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4DTbdShHu2RPYEEMUp2XWV",
+          "name": "anjulie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0ae64a7a53816022416e63f",
+      "uri": "spotify:album:696wZWXfscdFjxQxK06WgP",
+      "name": "bruk it down (feat. txtheway)",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "15jrieCvf3EklAScnD9kKl",
+          "name": "sak noel"
+        },
+        {
+          "spotify_id": "1G8r1xxQVLm8AXRI2iohhe",
+          "name": "txtheway"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273358ce5f9cad5d1198cf26810",
+      "uri": "spotify:album:68nmCotYWaE9VRjMGZsHAy",
+      "name": "bruk it down (feat. txtheway) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "15jrieCvf3EklAScnD9kKl",
+          "name": "sak noel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356d044762f5b92bab43b4d93",
+      "uri": "spotify:album:2dIC72zTqx8zkVKRcfyetv",
+      "name": "over and out (feat. charlott boss) [marnik edit]",
+      "album_type": "single",
+      "release_date": "2020-04-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3tLvKk2N4IGhT3aZceW2Hy",
+          "name": "hard lights"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e45813974e97ca21ad06f6d",
+      "uri": "spotify:album:35NGvCNRwl2NiWfcai5k4G",
+      "name": "my bad (feat. julie bergan) [kshmr edit]",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "72nLe76yBFSlP6VBzME358",
+          "name": "shaun"
+        },
+        {
+          "spotify_id": "3PQZ01Mrp3HaVVUJ976fMY",
+          "name": "advanced"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273505317eab6166c345c8e45e6",
+      "uri": "spotify:album:5za7CSpZn1iK5Io2TraGO5",
+      "name": "over and out (feat. charlott boss)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3tLvKk2N4IGhT3aZceW2Hy",
+          "name": "hard lights"
+        },
+        {
+          "spotify_id": "2qXlwHI0XFxS3SC8NiUjI1",
+          "name": "boss"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7ae4316798014fef0064f97",
+      "uri": "spotify:album:4hSTJWMuGIfQ8w2Y2VfVSK",
+      "name": "alone (feat. anjulie & jeffrey jey) [club mix]",
+      "album_type": "single",
+      "release_date": "2020-01-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bfddc417c882a8212126517",
+      "uri": "spotify:album:79jjwsCEHnERz3CEMJEm93",
+      "name": "alone (feat. anjulie & jeffrey jey)",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4DTbdShHu2RPYEEMUp2XWV",
+          "name": "anjulie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afa2e7790c68a3a8a383d521",
+      "uri": "spotify:album:7dB9untthbVlubv5RbcwUd",
+      "name": "alone (feat. anjulie & jeffrey jey) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f7c50fa5cc420ee7355e376",
+      "uri": "spotify:album:0Tvfsa4WH95rNK3zcxUMdA",
+      "name": "the people (dimatik remix)",
+      "album_type": "single",
+      "release_date": "2019-11-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "2Zvo5BEkHyaHD1zk180kMz",
+          "name": "dimatik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347c57f375beaaa53eb2fafb6",
+      "uri": "spotify:album:5ROsdG0SOOmr2yFdmpp4lB",
+      "name": "the spook",
+      "album_type": "single",
+      "release_date": "2019-10-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7F9ssbVoINTUx9yAq8X9is",
+          "name": "basskillers"
+        },
+        {
+          "spotify_id": "2ykUp1K8tRaOUFd8vvcwXl",
+          "name": "b3nte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301dd045a81d751b0bcce4659",
+      "uri": "spotify:album:3BAigRfKg2iyWJuWlZCZZQ",
+      "name": "do bad well (feat. nevve)",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b290d58af4c4ff17fb2ca33e",
+      "uri": "spotify:album:5YPf7glIt2MvEM5pLJXONz",
+      "name": "do bad well (feat. nevve) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313cd88a9ce921d2fb44b2fb7",
+      "uri": "spotify:album:5EyIytU4jYrTCuf8Xy49M3",
+      "name": "bombay dreams (feat. kavita seth)",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4RCALXqxv2udxtuLatKPSi",
+          "name": "lost stories"
+        },
+        {
+          "spotify_id": "3nQ125TJobosBH446Dsvvv",
+          "name": "kavita seth"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326703608f43541da70bd204b",
+      "uri": "spotify:album:4aYjf8CaMr4bsD33TgQn44",
+      "name": "bombay dreams (feat. kavita seth) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4RCALXqxv2udxtuLatKPSi",
+          "name": "lost stories"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bc6bf611b7907bef4a9a45a",
+      "uri": "spotify:album:3cjRkHWJa3VQWS3WQJMAik",
+      "name": "paradesi ep",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a80c8e08d6b85c46a172de44",
+      "uri": "spotify:album:03Tua5QgKWGsj4oyXFJ2CO",
+      "name": "no regrets (feat. krewella) [randall extended mix]",
+      "album_type": "single",
+      "release_date": "2019-08-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "7EIEvxpeoLo0qpHFpSrxOr",
+          "name": "randall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0490a4718d26ae1853e6f02",
+      "uri": "spotify:album:5z9rV71COAvykxfbO5YSSm",
+      "name": "no regrets (feat. krewella) [randall remix]",
+      "album_type": "single",
+      "release_date": "2019-08-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "7EIEvxpeoLo0qpHFpSrxOr",
+          "name": "randall"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e730643a1b52c6622edfeaa",
+      "uri": "spotify:album:499pxoME8SyDn5lwogpwrE",
+      "name": "my best life (feat. mike waters) [club mix]",
+      "album_type": "single",
+      "release_date": "2019-08-05",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "35rZNMlMkBs7ghHmGKt0xq",
+          "name": "mike waters"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ee67aabba057c53a55172b8",
+      "uri": "spotify:album:3ge9bHCB32Si5sqMCyHDzU",
+      "name": "my best life (feat. mike waters)",
+      "album_type": "single",
+      "release_date": "2019-07-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ffe00c5bc230742be36a060",
+      "uri": "spotify:album:4nNksjZWCxzBZBY90SD8tc",
+      "name": "lies (feat. luciana)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5ZPOTkvjvSGqj6F8JTqd8m",
+          "name": "b3rror"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bf6344a2e839ac8a40c6016",
+      "uri": "spotify:album:39tnRnxuGzV4d9r8HzDy6K",
+      "name": "the people",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e3366f257a8cecfded48e73",
+      "uri": "spotify:album:2EhdK1vgHWtLvH3AJwlMmr",
+      "name": "the people (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e0c3cc7d1ef93f41e05014b",
+      "uri": "spotify:album:3mRy28o1W34ymF1kH23AFM",
+      "name": "no regrets (feat. krewella) [kaaze extended remix]",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344fa66e5b12afd427cd6fd1b",
+      "uri": "spotify:album:6Fc767MWBVksSLL0Au46yZ",
+      "name": "no regrets (feat. krewella) [kaaze remix]",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b39d63ca52fa6cebf77b194",
+      "uri": "spotify:album:16atc3AvJkUr5W5HonmIQs",
+      "name": "devil inside me (feat. karra)",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        },
+        {
+          "spotify_id": "24CzPFC4y3bM4AkUnZfuAU",
+          "name": "karra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d02f911bfc3ca232e8bf598",
+      "uri": "spotify:album:06LpykdXwlKAj5nFRIHbdE",
+      "name": "devil inside me (feat. karra) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ff8646b393f97f8c30ed372",
+      "uri": "spotify:album:15JbJKXrnx0PinFy7e5e7D",
+      "name": "no regrets (feat. krewella)",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        },
+        {
+          "spotify_id": "0Cd6nHYwecCNM1sVEXKlYr",
+          "name": "krewella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f44be7fa9b8dd23a541c1ca",
+      "uri": "spotify:album:0XaXePc46Z7im4Zi44frJ2",
+      "name": "no regrets (feat. krewella) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-03-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "47BEc2RoW53owMyxacXWdV",
+          "name": "yves v"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732881e14058bdc8525b96cd1b",
+      "uri": "spotify:album:1xJZxr2Dre6QadkiI0Ecod",
+      "name": "lucky chances (feat. kshmr)",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1GcKPo3HglflWJSV683pHx",
+          "name": "bali bandits"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce53edc082909a31345ad92f",
+      "uri": "spotify:album:14ZsKj1rl24WEdgJ5RhTLX",
+      "name": "magic",
+      "album_type": "single",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2461015978bbdc4707d8b20",
+      "uri": "spotify:album:3WyiqN0lSPskTkmztPT2os",
+      "name": "magic (extended mix)",
+      "album_type": "single",
+      "release_date": "2018-11-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d7afc66aa2b7bc8df7587fc",
+      "uri": "spotify:album:1BdSJEaKxOcf87uNjS6sLG",
+      "name": "good vibes soldier (feat. head quattaz)",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354dd2bc4c0114675e13ea0ca",
+      "uri": "spotify:album:6G92Y8oP7TiWYUr8mYjAqF",
+      "name": "good vibes soldier (feat. head quattaz) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca996a00524d749eb9cc1d50",
+      "uri": "spotify:album:42M7EWiwT8GqdtgwU7FqPv",
+      "name": "neverland",
+      "album_type": "single",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2mmqhYDTD0weseyXUf1QJ5",
+          "name": "7 skies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3f8261007e315f8e34454cb",
+      "uri": "spotify:album:6bJDq8nFOqWmo7ryvddGKS",
+      "name": "neverland (extended mix)",
+      "album_type": "single",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2mmqhYDTD0weseyXUf1QJ5",
+          "name": "7 skies"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a49e7eb518b0d9ba1b913c15",
+      "uri": "spotify:album:6Ds82KME1uLRZBx1V2JI5E",
+      "name": "opa",
+      "album_type": "single",
+      "release_date": "2018-07-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6002ff0f08cf279cee7a2ef",
+      "uri": "spotify:album:102DnoxN7Wrs46tdgNI080",
+      "name": "carry me home (feat. jake reese)",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736391f4c5e7117aabbe79ba0c",
+      "uri": "spotify:album:07EZBDbKzIyV9lgTWbq8CL",
+      "name": "carry me home (feat. jake reese) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a05f506549ee1301b117e9a",
+      "uri": "spotify:album:0K5KAPBW6OlYb6UM4Sbgss",
+      "name": "power (the remixes)",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc38b87f28c49895a50fb797",
+      "uri": "spotify:album:4NcSr9WZLb3CTSt1iaX30g",
+      "name": "house of cards (feat. sidnie tipton)",
+      "album_type": "single",
+      "release_date": "2018-02-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5f7e4b4fd75a328039882b4",
+      "uri": "spotify:album:62dpPnY4YpyfIxhVbtC6rJ",
+      "name": "shiva (sunburn 2017 anthem) [feat. the golden army]",
+      "album_type": "single",
+      "release_date": "2017-12-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        },
+        {
+          "spotify_id": "0WirkzcH4M2ciZUIrsbjzE",
+          "name": "the golden army"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2a0a9502159c7f95f558d5c",
+      "uri": "spotify:album:17CDTSG14Jlxh60ZGshHao",
+      "name": "shiva (sunburn 2017 anthem) [feat. the golden army] [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-12-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273629bc92333ef1c0799cb2bcb",
+      "uri": "spotify:album:3XfngpAGAIoldKT7NkFy9R",
+      "name": "power (lucas & steve extended remix)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273770442804b55d1af2eb8cbc3",
+      "uri": "spotify:album:6dxJbll13jyLuSMk4l2Uvm",
+      "name": "dharma (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0KWmCdqrLU2LzzWBPbOy",
+          "name": "headhunterz"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736fe1e48ce2629e549ba62492",
+      "uri": "spotify:album:4nPjGqCXCc42HbUeueXe8L",
+      "name": "islands",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fd1775a3300882045ea73b1",
+      "uri": "spotify:album:1ex8GDQ1vo1foR2gwvPeg0",
+      "name": "islands (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f12827ce7b0122cf772932b",
+      "uri": "spotify:album:37LjSxPwIZowpzC1g2FY6V",
+      "name": "power (lucas & steve remix)",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338b02b9e762f4db134e2435b",
+      "uri": "spotify:album:35ZbwSasp4ogWg5kv5bF7l",
+      "name": "harder (feat. talay riley) [maurice west remix]",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c96fbee495bdfb6a1e8e49de",
+      "uri": "spotify:album:0dFHaeQsSOkVqHq7YvZCC7",
+      "name": "harder (feat. talay riley) [yoel lewis remix]",
+      "album_type": "single",
+      "release_date": "2017-11-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cca88c12567424b72f75fdc9",
+      "uri": "spotify:album:4GaXc3j2jVZpDNYPn7W6iB",
+      "name": "underwater (feat. sonu nigam)",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273145b135c010e0b1b35ceb8c3",
+      "uri": "spotify:album:460ceDxpUmkGN8EowdU98X",
+      "name": "underwater (feat. sonu nigam) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb82bbdbc232f1de5b7ba8e5",
+      "uri": "spotify:album:30smUX8lJJC4Wff19vimDD",
+      "name": "power (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cad863bad16e08a93a3fd5fb",
+      "uri": "spotify:album:4G19LdhYXHY60QJepiSVbE",
+      "name": "power",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b69717231c378b5473a3517",
+      "uri": "spotify:album:44ICyAp1UNTZP1W7cy7XsX",
+      "name": "materia ep",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6918909028da58dc7d05449",
+      "uri": "spotify:album:0uJJ3ydXPN6SADtCSMkvLI",
+      "name": "divination",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7cSIDO4sCKFSTHP4Soan5t",
+          "name": "no mondays"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ca419f1f7a6ba748578b9db",
+      "uri": "spotify:album:6P21NOXe9LXZAzuvP0Xaq7",
+      "name": "materia ep",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d9f73453fbe8515f2cb5d62",
+      "uri": "spotify:album:50fCphUEm6BGUatRPN1l6g",
+      "name": "the serpent",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273160f6f33431c1a0b1536b333",
+      "uri": "spotify:album:6E6M1SvTfhTZKGL1dVgfQa",
+      "name": "the serpent (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273442b3ddeb28fecd73559458b",
+      "uri": "spotify:album:2hhrdB351eo3phsVBMLmca",
+      "name": "kolkata",
+      "album_type": "single",
+      "release_date": "2017-07-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7oqJesfsNfHYYN6bEKR6UP",
+          "name": "jdg"
+        },
+        {
+          "spotify_id": "2cFzYhiHqYS7o8ZIM9WD22",
+          "name": "mariana bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368ffac372f5fe47a6c14b0bf",
+      "uri": "spotify:album:0o4wksw8QiKnjFcFan3yp4",
+      "name": "festival of lights",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1qF8DC6uIBjskqP0hyw1Gk",
+          "name": "maurice west"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d75ed17bec42bd76fd6d8b0",
+      "uri": "spotify:album:5d543rApFKtE98MigkM1lN",
+      "name": "harder (feat. talay riley)",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377563fc322b280de25b4d096",
+      "uri": "spotify:album:0vQVte8jJx4r9zBkjKRsOc",
+      "name": "back to me (feat. micky blue) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-03-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0SFycBapbIhuPacbhzDxI2",
+          "name": "crossnaders"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738163b94f2bf846d15d5322c7",
+      "uri": "spotify:album:54DIQgL6atOohsAqqYhxwS",
+      "name": "back to me (feat. micky blue)",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0SFycBapbIhuPacbhzDxI2",
+          "name": "crossnaders"
+        },
+        {
+          "spotify_id": "74RDfhi3g8pfpmMCrQUtpF",
+          "name": "micky blue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733faf9334857931c30b75be6d",
+      "uri": "spotify:album:2XNccCPEfBK7yc83eewkYP",
+      "name": "mandala (feat. mitika) [official sunburn 2016 anthem extended]",
+      "album_type": "single",
+      "release_date": "2017-01-06",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ed102a757929517feb57e6d",
+      "uri": "spotify:album:3eB4A9DTfopYuasU1XnyqE",
+      "name": "the spook returns",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2ykUp1K8tRaOUFd8vvcwXl",
+          "name": "b3nte"
+        },
+        {
+          "spotify_id": "40oI86vaTUHgkSGlYkEiLM",
+          "name": "badjack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b2dc21e9ec1406ec1589b8c",
+      "uri": "spotify:album:4ljKJgBrnpsLABDH0QHNCh",
+      "name": "the spook returns (extended mix)",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "2ykUp1K8tRaOUFd8vvcwXl",
+          "name": "b3nte"
+        },
+        {
+          "spotify_id": "40oI86vaTUHgkSGlYkEiLM",
+          "name": "badjack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398ae553aa65d29d1995c591f",
+      "uri": "spotify:album:2ytfwv7txCoVBrJGgbzelq",
+      "name": "extreme (feat. sidnie tipton)",
+      "album_type": "single",
+      "release_date": "2016-10-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feb939a528bf000bf4e8cd30",
+      "uri": "spotify:album:4CVvhV60wfu3d3z2b4ZphZ",
+      "name": "voices",
+      "album_type": "single",
+      "release_date": "2016-09-26",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7ef096267abdde43726ce8c",
+      "uri": "spotify:album:2g4IrZltSXgzuaS8eYUwuW",
+      "name": "invisible children",
+      "album_type": "single",
+      "release_date": "2016-09-16",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "48xCatjXaoohtyOHrHTijG",
+          "name": "tigerlily"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ce63385cccc0ae84c2ca26c",
+      "uri": "spotify:album:2c4be4SGbBUg5kWGbYck1d",
+      "name": "touch (feat. madi)",
+      "album_type": "single",
+      "release_date": "2016-07-01",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1qskAseW7apRxJBpYAO9Yk",
+          "name": "felix snow"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395d475b2b899893a2725e285",
+      "uri": "spotify:album:5OtaAD9Ix0nOi5JYJL9mwm",
+      "name": "dharma",
+      "album_type": "single",
+      "release_date": "2016-06-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6C0KWmCdqrLU2LzzWBPbOy",
+          "name": "headhunterz"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee36721e85e7fbef178390cf",
+      "uri": "spotify:album:3msGe0afD76M99r3qEF3RA",
+      "name": "the lion across the field",
+      "album_type": "album",
+      "release_date": "2016-05-13",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d06bab519b6011cbdcc1769d",
+      "uri": "spotify:album:5i1c0s8arB0FaWNDHEaLCL",
+      "name": "wildcard (feat. sidnie tipton) [extended mix]",
+      "album_type": "single",
+      "release_date": "2016-04-22",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a765bcee7ae12e7c09523f3e",
+      "uri": "spotify:album:35VgpLWPMuKuPnklBgpK1N",
+      "name": "wildcard (feat. sidnie tipton)",
+      "album_type": "single",
+      "release_date": "2016-04-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bd4df640259a62476af2da3",
+      "uri": "spotify:album:3efVnmGDjxO2vfDwXZZe5M",
+      "name": "touch (feat. madi)",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1qskAseW7apRxJBpYAO9Yk",
+          "name": "felix snow"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2515079a7a5393c279f9eba",
+      "uri": "spotify:album:3EiEKfrzCmdIo8rCwcNyRj",
+      "name": "heaven (feat. delaney jane) [the remixes]",
+      "album_type": "single",
+      "release_date": "2016-02-19",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0BBwlSQvHHtahgYpLj1wJE",
+          "name": "shaun frank"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f959aa2b1b9a1f997bd71c4",
+      "uri": "spotify:album:36pFTdtEssQWiApMZ7J30m",
+      "name": "bazaar (official sunburn goa 2015 anthem)",
+      "album_type": "single",
+      "release_date": "2015-12-25",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6S3KljEiIOWoLMUyZrkQUc",
+          "name": "marnik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273531fd01fcfcb88ce7a991226",
+      "uri": "spotify:album:36mndhBuuHmIwEnjjd3VPI",
+      "name": "deeper",
+      "album_type": "single",
+      "release_date": "2015-12-23",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "1VF81Q4Usmpf2fgjEV3HPJ",
+          "name": "zaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be1009fdda47b721bcfcfc4b",
+      "uri": "spotify:album:55Hll4wRYqiKB3kMm6Hl7n",
+      "name": "strong",
+      "album_type": "single",
+      "release_date": "2015-11-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecfb340ba87b8652f24c22b1",
+      "uri": "spotify:album:2OmqtgURdFzeUtuXPJ7hfb",
+      "name": "heaven (feat. delaney jane) [extended mix]",
+      "album_type": "single",
+      "release_date": "2015-10-30",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0BBwlSQvHHtahgYpLj1wJE",
+          "name": "shaun frank"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309ca442987ef69cbd44d4099",
+      "uri": "spotify:album:0nEU1CZqItNtxek2HxmxEK",
+      "name": "heaven (feat. delaney jane) [radio edit]",
+      "album_type": "single",
+      "release_date": "2015-10-30",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0BBwlSQvHHtahgYpLj1wJE",
+          "name": "shaun frank"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a33884eeb97c2a0c7674ee1c",
+      "uri": "spotify:album:0DbLOHjEfdUQQMnEPm6FfP",
+      "name": "memories (feat. sirah)",
+      "album_type": "single",
+      "release_date": "2015-09-11",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aa6eb9085d95bf576f9915d",
+      "uri": "spotify:album:1WjTrbx3M0EM78Qszms8i9",
+      "name": "memories (feat. sirah) [radio edit]",
+      "album_type": "single",
+      "release_date": "2015-09-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "6xQvQwZQQuq9R3TdPNbcR8",
+          "name": "bassjackers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731130ca573e3ba342ac1337eb",
+      "uri": "spotify:album:3ThfhLboVKP3PFsTLKJwlC",
+      "name": "secrets (remixes)",
+      "album_type": "single",
+      "release_date": "2015-08-28",
+      "release_year": "2015",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7HqEmV7FeCi16bQyHMpIrF",
+          "name": "vassy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdd0e9795b00102c8cca1c9e",
+      "uri": "spotify:album:3nLfS7zfHJkgNpiLIZdB5N",
+      "name": "imaginate",
+      "album_type": "single",
+      "release_date": "2015-08-14",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "5Ip2ecnyGpNyZvPuuYU8Ai",
+          "name": "dzeko & torres"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344acad9c4bf1c16d9d54cb35",
+      "uri": "spotify:album:2DB4Mh9QK5ACuuI4sQptUs",
+      "name": "lazer love (feat. francisca hall)",
+      "album_type": "single",
+      "release_date": "2015-07-24",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7fCzwqo4VPpXk6w6r0fOyi",
+          "name": "vaski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8c941cf9f5d4b2184e22fd7",
+      "uri": "spotify:album:5WFbdK3AFC5mSu4VYMMIaa",
+      "name": "secrets (diplo remix)",
+      "album_type": "single",
+      "release_date": "2015-07-10",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7HqEmV7FeCi16bQyHMpIrF",
+          "name": "vassy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312bdf2864ebd767acbb0b0f4",
+      "uri": "spotify:album:2vxoMHhCDJzDqmuTdQxVsU",
+      "name": "jammu (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-06-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273370074ce24e61526daf0c25f",
+      "uri": "spotify:album:4p3CULd5VeCSikL0PYkoP3",
+      "name": "secrets (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-04-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7HqEmV7FeCi16bQyHMpIrF",
+          "name": "vassy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b0b74ddfccee9030ea57926",
+      "uri": "spotify:album:6Ge0sTvsG2N3QfBCxt4eIM",
+      "name": "dead mans hand",
+      "album_type": "single",
+      "release_date": "2015-02-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d076543e015f5b54723a347",
+      "uri": "spotify:album:2d08mANNHmeIsJLnbqE6NU",
+      "name": "karate",
+      "album_type": "single",
+      "release_date": "2014-12-29",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d32909d84b473bbc1133196",
+      "uri": "spotify:album:45vUwNnHg0kTRWsjvaVEJa",
+      "name": "karate (radio edit)",
+      "album_type": "single",
+      "release_date": "2014-12-29",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330ed3dbd412c42beaa5fcf6a",
+      "uri": "spotify:album:46QO6Ux6TAzOHJU8OfLNC9",
+      "name": "burn",
+      "album_type": "single",
+      "release_date": "2014-10-06",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "7uas0F5EhsZg6KDJ7yy7rW",
+          "name": "dallask"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337e194e14819a9822e6c8354",
+      "uri": "spotify:album:0o5FMj2LepZb7fZ6CNAxe3",
+      "name": "no heroes (feat. luciana)",
+      "album_type": "single",
+      "release_date": "2014-09-05",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fca3ea970a2860452ffec647",
+      "uri": "spotify:album:0dSx6MSJesTMqGdcZkrY4R",
+      "name": "megalodon",
+      "album_type": "single",
+      "release_date": "2014-03-10",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:30.000Z"
+}

@@ -1,0 +1,3781 @@
+{
+  "name": "moguai",
+  "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+  "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eba3b35b373d87e7ebb11bc46e",
+  "genres": [
+    "big room"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb779d3c64a3a771eae35ce0",
+      "uri": "spotify:album:1G7zVZyqIhrsv23mcXhNXQ",
+      "name": "vivaldi rave (moguai remix)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Uz3WcIlks19ypNOBPM4hi",
+          "name": "nico cartosio"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733288b95346eab59c7d25f64a",
+      "uri": "spotify:album:6cPShxrQgs3MDSZ7tkMZEk",
+      "name": "be ready",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0jonnXQOBmGlspn4wYl2vM",
+          "name": "marcel freestyle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731249c5ce420405ba74dbb700",
+      "uri": "spotify:album:0wb6Hqu39XmXrLMTiEyDhI",
+      "name": "monolith",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2ZuweXv0TkfsidZOLZZoM2",
+          "name": "hedegaard"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7p2aOXY5bfHyjujI3fCWTu",
+          "name": "brandon beal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d9f522079da7ef8f16bc33b",
+      "uri": "spotify:album:72exCveySvkpYJ07XwyhdC",
+      "name": "shimmy shake",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0JqP06xsTN1rmZVgV7cEm8",
+          "name": "stupid goldfish"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b79fedf66397e5697626b9e5",
+      "uri": "spotify:album:7j2bfbPa9SfdPLRGLOuNG1",
+      "name": "sympathy for the devil",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "5wMlMjOLeJfS5DfxqGfm83",
+          "name": "jan blomqvist"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331bd3666efeb025a6a1047d2",
+      "uri": "spotify:album:1xfVOCu0g0saqugQHA7rqI",
+      "name": "metropolis",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0Dzj2bn9ivDSjvJVSKL4q7",
+          "name": "luca testa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349676702924327c7bf995f4e",
+      "uri": "spotify:album:5kEtJqllNlr58kNwjZSg3l",
+      "name": "mother",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4n87X0j7v2W2G3HXmFgTjS",
+          "name": "cassmae"
+        },
+        {
+          "spotify_id": "2odc9r3Utp0yWZkPcexIdi",
+          "name": "max niklas"
+        },
+        {
+          "spotify_id": "153wxN1mEz167KM0a34zss",
+          "name": "hel:sløwed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736681dbd904554178252828df",
+      "uri": "spotify:album:6un1AU75VRthJTbMwYzfc8",
+      "name": "coming up",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c248d824fb7cee29576fb783",
+      "uri": "spotify:album:0dZNT6EBkDwihQ0TcK3Zpd",
+      "name": "rage",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da99b8cc4c6a9f98851fa2d3",
+      "uri": "spotify:album:0Nck6y2Ulx1RozHfYmzFcF",
+      "name": "for real",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "659qXyHaiMTKxFjBMMDpo8",
+          "name": "mr. v"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4609e0e2628cd2fd4a4b17c",
+      "uri": "spotify:album:7FvI1vJiC1bqNx9oiU1QOI",
+      "name": "deep",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394cd227bb28fe121a88c8e4b",
+      "uri": "spotify:album:1WZAmS9G6HiNm0vHm5oLBH",
+      "name": "4ever is now",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac8fea2986ce25afca80b628",
+      "uri": "spotify:album:3qnqqbuxy3SuQLyZv03VXB",
+      "name": "ay ay",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b290a6b26cd7bd9f026b7430",
+      "uri": "spotify:album:2j1sXezfrzKcz4bv9iSAK1",
+      "name": "insomnia",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "5X1JzPIIonP3u9lA580pPT",
+          "name": "francesco yates"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342bc1e60c1bf7f7925d310b2",
+      "uri": "spotify:album:2YZxRnCqanN1yM3CohHDrw",
+      "name": "in the air tonight",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6B72wjgAkhvxTVCL6xS6mC",
+          "name": "stephen puth"
+        },
+        {
+          "spotify_id": "3ereOrrDplpipPoEhHYFeI",
+          "name": "kiara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312d6419d8e16e3a0e6f78d19",
+      "uri": "spotify:album:7tB7l66f93JKCNpwnP04Go",
+      "name": "wake",
+      "album_type": "single",
+      "release_date": "2025-06-19",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1t4zXUOD1mDn5Ng5cBe9oy",
+          "name": "unread"
+        },
+        {
+          "spotify_id": "7b48KVEzrlVcLLLBAGHBuj",
+          "name": "thandi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315f33d20f62483914a58461a",
+      "uri": "spotify:album:1bu1Y5sIxOtLfvnuYWKq4O",
+      "name": "geht's noch? (moguai remix)",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2GvwZbDjH1DbQpodGKENDw",
+          "name": "roman flügel"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a9b4443767a11c9f91ea058",
+      "uri": "spotify:album:3MerhYJIDFp07JonXLYhgy",
+      "name": "wonderful",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3k4SNFb1zYveSh6uZiAO3O",
+          "name": "ainer"
+        },
+        {
+          "spotify_id": "1i7pn6TmxAvinQmsmeUQby",
+          "name": "vrality"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732481877524e8f5392aa86138",
+      "uri": "spotify:album:1WZQgERLkOFYrgtaCIdLe8",
+      "name": "ready steady go",
+      "album_type": "single",
+      "release_date": "2025-05-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732dc9d7b527ce27865102b0f5",
+      "uri": "spotify:album:6XGXUpp957Rs0Sh7sZLnyj",
+      "name": "found your love",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0HeG2fU31u2dMh2K82WqLc",
+          "name": "veldor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730908be152b18ed3ff911010f",
+      "uri": "spotify:album:1eu1A7YonJ179fsElOuKs6",
+      "name": "hold up, i'm doing something (moguai remix)",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3VVLqeEqQQqTgT8YhfY9Z6",
+          "name": "emmit fenn"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304d845696cc4cfd7da8aeca1",
+      "uri": "spotify:album:3lnw05U8NMCqyjBdm3Hbka",
+      "name": "move you",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7JRFoFyS4MsVkW2XGJ6P7A",
+          "name": "champagne kenny"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aa9f941790078405776820f",
+      "uri": "spotify:album:5Hn9mD0WyqNWHlg4SfyXJf",
+      "name": "rest of your life (lohrasp kansara remix)",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0sUz3y3TQ9UlD5qehZHfwT",
+          "name": "dhali"
+        },
+        {
+          "spotify_id": "33puj2nZF4OKSccBLaf1oy",
+          "name": "lohrasp kansara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ea8da6278428f5bc557fbe2",
+      "uri": "spotify:album:4cj21qGNDdIz9hIo00cysU",
+      "name": "rest of your life",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0sUz3y3TQ9UlD5qehZHfwT",
+          "name": "dhali"
+        },
+        {
+          "spotify_id": "4PIv3Lyk3erxjcwBZFVNgi",
+          "name": "dominic neill"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5810ca5123b6c26815d41ba",
+      "uri": "spotify:album:1wgP1aIhcNdi0bFLkgifFo",
+      "name": "now",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350e81322726ffe614b7a6a5a",
+      "uri": "spotify:album:0F2lBgnTU0ws7Zh3HYKO5u",
+      "name": "deaf by stereo",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d180923254339e0a881a954",
+      "uri": "spotify:album:2fusnEZEDm7LxV1xsJo8xp",
+      "name": "deaf by stereo (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362ab0df7e1e00552fb249fe6",
+      "uri": "spotify:album:5LzIj2MRXKtedH11tDfROo",
+      "name": "mother",
+      "album_type": "single",
+      "release_date": "2025-02-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4n87X0j7v2W2G3HXmFgTjS",
+          "name": "cassmae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273614400cf03c577bab4c33659",
+      "uri": "spotify:album:0JnZ8C1CLq9pOwIc306v65",
+      "name": "reflected",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "2IKWO17lkL7nUKTzd9opi0",
+          "name": "three 'n one"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382bf4769b856b4368953fd8e",
+      "uri": "spotify:album:4UNDP4vUFl4sh0Fjj0AMkR",
+      "name": "insanity",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1pmwwNA38kkkJwEMWe8hLD",
+          "name": "djs from mars"
+        },
+        {
+          "spotify_id": "4RKP5zfiRWMMtF4xMcyvw0",
+          "name": "alex lndn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9d8b70d0364d0b776b59b92",
+      "uri": "spotify:album:2cmfAbghjE2lR8JnsVcJMg",
+      "name": "getting lost (big tim remix)",
+      "album_type": "single",
+      "release_date": "2025-01-02",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1zLMhO4zzzxt5PMV4wMS3y",
+          "name": "keanu silva"
+        },
+        {
+          "spotify_id": "6pWcSL9wSJZQ9ne0TnhdWr",
+          "name": "k-391"
+        },
+        {
+          "spotify_id": "5vLZlXIqghQxwSIiq3lgnh",
+          "name": "gratify"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a08c489ea0f9221a2ef4bd91",
+      "uri": "spotify:album:7FsEnvpxv2o4PZmfmDEVS2",
+      "name": "my immortal (crazy donkey vip mix)",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6AtgLd3rwVPep5RSPWRQ1T",
+          "name": "wukong"
+        },
+        {
+          "spotify_id": "4FFIm6lcL4VDCTWteKwspi",
+          "name": "crazy donkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737df9623287bc8f99b59e424d",
+      "uri": "spotify:album:0Udav2uRlGGjq4UImk2DTg",
+      "name": "getting lost",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1zLMhO4zzzxt5PMV4wMS3y",
+          "name": "keanu silva"
+        },
+        {
+          "spotify_id": "5vLZlXIqghQxwSIiq3lgnh",
+          "name": "gratify"
+        },
+        {
+          "spotify_id": "6pWcSL9wSJZQ9ne0TnhdWr",
+          "name": "k-391"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1e9fd6743811c17e79ea37b",
+      "uri": "spotify:album:3Kblmsa6gyxnRA22cg7TJD",
+      "name": "here to you",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bc8e92a4c946cdb1a04144d",
+      "uri": "spotify:album:7JBy8hiGCEw6mdI5MCIs92",
+      "name": "in between (moguai remix)",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bKy7Tu2BNmfoFnDC5mncZ",
+          "name": "yvonne catterfeld"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e6b2ba85461f4637ed48d32",
+      "uri": "spotify:album:0vsYzVY9OWrOBGZcpm2saS",
+      "name": "my immortal",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6AtgLd3rwVPep5RSPWRQ1T",
+          "name": "wukong"
+        },
+        {
+          "spotify_id": "4FFIm6lcL4VDCTWteKwspi",
+          "name": "crazy donkey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fd8017f17fe85e37ed1bf56",
+      "uri": "spotify:album:63pFNfLn8epv6pQhlnfxvc",
+      "name": "willow tree",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "19mMHUyLK5uYyg9D14yJP6",
+          "name": "enisa"
+        },
+        {
+          "spotify_id": "3FNE7NTCO0WdPhvoAxPpnm",
+          "name": "jean-noël"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338da5cff4ecd70affbd5b5cb",
+      "uri": "spotify:album:58fwgLAj5skN1IZFZidRkg",
+      "name": "our love",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "00dwwnz3V4kRfu3UFYpJLz",
+          "name": "cherub"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273754c133212fa3dd71a5b68ca",
+      "uri": "spotify:album:6QnRilDSTq82ZGPapX4L06",
+      "name": "fly with you (moguai remix)",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0kPwR1JIJIWDSLsvkMg3mi",
+          "name": "boi angel"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738474602e083ef2122da237b0",
+      "uri": "spotify:album:3KT1DkXK9iZwmRF3YiJsej",
+      "name": "free your mind",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6lRSFHWN5ncD1S7JP1G6k5",
+          "name": "pizzata & klein"
+        },
+        {
+          "spotify_id": "4LVJtOjpXBAj6kRVQQultK",
+          "name": "salvatore mancuso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db84d7feebb6975f714e2698",
+      "uri": "spotify:album:5WdJATAiDecQYLUpEOx75Z",
+      "name": "where do i go (moguai extended remix)",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6yTYR09WCvsgdnurDW4WQo",
+          "name": "dj antoine"
+        },
+        {
+          "spotify_id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "aloe blacc"
+        },
+        {
+          "spotify_id": "5FRJL1Agthaj5R9gwbOPvw",
+          "name": "infinity"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce8cd85a2448a6d6d426de99",
+      "uri": "spotify:album:2JmUAPekkGMPayTHydp0Ea",
+      "name": "where do i go (moguai remix)",
+      "album_type": "single",
+      "release_date": "2024-08-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6yTYR09WCvsgdnurDW4WQo",
+          "name": "dj antoine"
+        },
+        {
+          "spotify_id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "aloe blacc"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7bc71af17dc7a4db81da298",
+      "uri": "spotify:album:4pwqLu8yUALKfBxI300qGh",
+      "name": "your love (short version)",
+      "album_type": "single",
+      "release_date": "2024-08-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4gSsv9FQDyXx0GUkZYha7v",
+          "name": "david puentez"
+        },
+        {
+          "spotify_id": "4LVJtOjpXBAj6kRVQQultK",
+          "name": "salvatore mancuso"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fe8e70175db42211f19cf32",
+      "uri": "spotify:album:1nbc1FRYFJwgHMzwjZtgp8",
+      "name": "a beautiful place",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3RloA7E4XMItSP4FjMBv3L",
+          "name": "illusionize"
+        },
+        {
+          "spotify_id": "4OGlp2UdUQGPJVbvJ82Cz5",
+          "name": "roland clark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334acdcb5e0565288bbffb996",
+      "uri": "spotify:album:6OvUYePEj03lCQMvrR8wCH",
+      "name": "a beautiful place",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3RloA7E4XMItSP4FjMBv3L",
+          "name": "illusionize"
+        },
+        {
+          "spotify_id": "4OGlp2UdUQGPJVbvJ82Cz5",
+          "name": "roland clark"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327907c618864ecff13448f28",
+      "uri": "spotify:album:0v8ywYmB4gWZP050EaCTk8",
+      "name": "ultimate seduction",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc94ff0e4708a780913a4400",
+      "uri": "spotify:album:6PlqsS0firvxsrefOvbUOc",
+      "name": "explode",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "tiësto"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac6c68ec7a795556111d1756",
+      "uri": "spotify:album:2lUHi2wFO2uAAgwyHLZMao",
+      "name": "like this",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7JRFoFyS4MsVkW2XGJ6P7A",
+          "name": "champagne kenny"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732966739f2bad200a6e8e8da4",
+      "uri": "spotify:album:2PPtZTJplsJdfXAFWH88IF",
+      "name": "like this (extended mix)",
+      "album_type": "single",
+      "release_date": "2024-03-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7JRFoFyS4MsVkW2XGJ6P7A",
+          "name": "champagne kenny"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2d825cfb1ecabc1a82b9270",
+      "uri": "spotify:album:2xDtbyFH7o2pxqh6h56cO4",
+      "name": "redemption (ian storm remix)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4YXOQZR6WVMNXaQ5e72DnG",
+          "name": "rmb"
+        },
+        {
+          "spotify_id": "6fllSzvyC7OruOFZisOELq",
+          "name": "ian storm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cff917b2e5b6fac19539b3ed",
+      "uri": "spotify:album:3GubOcTgIpQlM2qbs3dZ57",
+      "name": "redemption (mylø remix)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4YXOQZR6WVMNXaQ5e72DnG",
+          "name": "rmb"
+        },
+        {
+          "spotify_id": "5TpsDaHB9KPoIzkWpub8Zh",
+          "name": "mylø"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ea1f472d87202bf81e204e8",
+      "uri": "spotify:album:0ZfMFST945ACvl5EhV2sKz",
+      "name": "redemption (remixes)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4YXOQZR6WVMNXaQ5e72DnG",
+          "name": "rmb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273943475e09a42629c6a5e8b64",
+      "uri": "spotify:album:4va5qWLfVNxguSE1qGC2WO",
+      "name": "new day",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "04m3oUGzjO3EJTQidFzTgM",
+          "name": "nora van elken"
+        },
+        {
+          "spotify_id": "33puj2nZF4OKSccBLaf1oy",
+          "name": "lohrasp kansara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f583b1cff830b5a4a38748f",
+      "uri": "spotify:album:1wiFQnnaxpEsDI5A4EhzY1",
+      "name": "the world is on fire (moguai remix)",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Oo2oH7yeWplGx3dc5kOm7",
+          "name": "roy stroebel"
+        },
+        {
+          "spotify_id": "0bIvvfPnM3YeHeORD57sAE",
+          "name": "westbam/ml"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f42373b201a518b15a39631",
+      "uri": "spotify:album:2uy91QEOLtNigoebYUXknj",
+      "name": "lsd",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "619CzMJPPWrCeZwx5qw6ko",
+          "name": "besomorph"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6jsjhAEteAlY0vCiLvMLBA",
+          "name": "rozes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379ba5bc3a8aff568c3c42cda",
+      "uri": "spotify:album:0KGa2QtnZ9RrP8eOKoQ2JR",
+      "name": "hold on (mixes)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738248cf4c0ee74feb685b49ea",
+      "uri": "spotify:album:36yBTpHsnqgITsCvUolFgN",
+      "name": "hold on (mixes) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e18c7ad88456afbf4d4a5cc6",
+      "uri": "spotify:album:2ADDoikAqh2UDf4y4cmpwn",
+      "name": "suicide commando (feat. no more) [moguai edit]",
+      "album_type": "single",
+      "release_date": "2023-10-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6lWELdsxymXAzsmGwh2PzJ",
+          "name": "echoopark"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c90a9e5408ea536dcbe90aaf",
+      "uri": "spotify:album:6MqrBXOlsSQ2U9pg0Rlo14",
+      "name": "the power the change (the official nature one anthem 2023)",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4oKt0SXvXeiNnlvbugRzWY",
+          "name": "lili pistorius"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379fcba68c1878e800a364516",
+      "uri": "spotify:album:0DC1qER7OczaSRCZ75bULZ",
+      "name": "redemption",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4YXOQZR6WVMNXaQ5e72DnG",
+          "name": "rmb"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273573d52fe6feb2ccb5cb10cac",
+      "uri": "spotify:album:3tTeSHCir9v6YFqZgeUpoK",
+      "name": "crowd control",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4RfTXjK9aiiIKDaKUHpL57",
+          "name": "busy signal"
+        },
+        {
+          "spotify_id": "33puj2nZF4OKSccBLaf1oy",
+          "name": "lohrasp kansara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9d3207fdce0f87e39f81a90",
+      "uri": "spotify:album:3GaRGIbg3kk7GnvpJRxsFS",
+      "name": "you're not alone",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "09agIJMxCD2k87ys9Al0f0",
+          "name": "vize"
+        },
+        {
+          "spotify_id": "5SFwozJTdBZNUFYYrAqH4q",
+          "name": "anna grey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b319a57077e7bb2b61b1956b",
+      "uri": "spotify:album:03xvimLaRo9is4NHRfPEuN",
+      "name": "90's kids/ only in chicago",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "50rD5iXXJY35zmuYs2POjk",
+          "name": "lucas butler"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733617c58cdbc8563924702727",
+      "uri": "spotify:album:1r5PtU2WCu7y4pQ2DfB00m",
+      "name": "no secret (short edit)",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "554qDHSwsDfX0qOfyxQjWs",
+          "name": "kromi"
+        },
+        {
+          "spotify_id": "7Cf1QhdtHmjlckbnmUeC6l",
+          "name": "kairos grove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273087318e30e2d3f8b8b2627ba",
+      "uri": "spotify:album:2nrY8OoyPYxy0rm5VXzhgE",
+      "name": "celebration",
+      "album_type": "single",
+      "release_date": "2022-12-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353e6dee7bbbaf89fb0c931c7",
+      "uri": "spotify:album:2s9p73FuCiqa0XBz3jtevC",
+      "name": "lost generation",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6kT18gnkVrCz8xJQcrib7L",
+          "name": "bhaskar"
+        },
+        {
+          "spotify_id": "1Dn88PoQjnQgLTOaokePFz",
+          "name": "bright sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac3fa903703f8bc36e7f9101",
+      "uri": "spotify:album:2mMjN1q6t5EoUTmL4Afzla",
+      "name": "how we do it",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3q2dSq7VZnj8TmoJUyRm40",
+          "name": "cat dealers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311400ff3f322e7af2b5ffe83",
+      "uri": "spotify:album:7MNibaSYTxJOqvlOKxlvU9",
+      "name": "beatbox",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1xfLBmx0n8DQri9HxJsq9O",
+          "name": "kryder"
+        },
+        {
+          "spotify_id": "1dA7pt23MNLlDsLpABATtG",
+          "name": "cassimm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9f725c1cb58000207072f94",
+      "uri": "spotify:album:6Edq2i6eQhPJRa2mhVeGCl",
+      "name": "hokuspokus (fred falke remix)",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4a9sClW4YpYQE5jUMAWx5W",
+          "name": "watermät"
+        },
+        {
+          "spotify_id": "0AfNNw1LS2i9KW4icd7inD",
+          "name": "fred falke"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ae74838f316e9f7403d799",
+      "uri": "spotify:album:0obpvQAxKpEVOQNhInn4WI",
+      "name": "hokuspokus",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4a9sClW4YpYQE5jUMAWx5W",
+          "name": "watermät"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319c06bbd524450827ef202c3",
+      "uri": "spotify:album:5I9GLVMh1M1G3HSbrRfbtG",
+      "name": "freaks (remixes)",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737892ac7b67458dbdaad37118",
+      "uri": "spotify:album:5CyeQ5JAA5HDQHEXp8FVDn",
+      "name": "space table symphony (moguai remix)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2R4P3KjPVOwJljwLSu0Plb",
+          "name": "bernd breiter"
+        },
+        {
+          "spotify_id": "33k6kPYIS5TgseAc70LZjy",
+          "name": "david garrett"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb709933e5d799bb7bde95e6",
+      "uri": "spotify:album:00YCeTLwOYZcsrfwMQtZ0q",
+      "name": "let's go",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "30ut8L4gmEz4vNr1zNhpbh",
+          "name": "ida corr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305882850458175ff730082b6",
+      "uri": "spotify:album:2QppzjWG87Ptjc8eMY2suh",
+      "name": "get down",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "2BlkvS9gorfA8g1p9rAcXk",
+          "name": "maui"
+        },
+        {
+          "spotify_id": "6eke2ECTHhJgqVsArc8t5z",
+          "name": "terri b!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7ed2cc7dee4ad8ca55f1c77",
+      "uri": "spotify:album:4WmRMsm2Vsitc232LA3YGm",
+      "name": "get down (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "2BlkvS9gorfA8g1p9rAcXk",
+          "name": "maui"
+        },
+        {
+          "spotify_id": "6eke2ECTHhJgqVsArc8t5z",
+          "name": "terri b!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d6fff6cda78a500daddc3e1",
+      "uri": "spotify:album:3ZOWw69NYYve1puQ1nHplx",
+      "name": "spaces (remixes)",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0Bdyam7rtOjqj4m1PfpeUy",
+          "name": "madds"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357fbc504dcc53225b5c61635",
+      "uri": "spotify:album:5J88zfSkBoQ7RyWXAlMGad",
+      "name": "adventures of babylon (feat. dissolut)",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "00qEejZyY0fO6WFTRtuCVO",
+          "name": "dissolut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3dd2878ae54cbf1cecdba48",
+      "uri": "spotify:album:1GWc1DS2CILyAcWWS8KBHc",
+      "name": "nitro (acoustic)",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1Ejjxuav6kpsSyb6QIhjHa",
+          "name": "selva"
+        },
+        {
+          "spotify_id": "1Dn88PoQjnQgLTOaokePFz",
+          "name": "bright sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273025751bb858b269d2a9cd4ef",
+      "uri": "spotify:album:6uhw5SnjSw9VGjjYEhlZuB",
+      "name": "colors",
+      "album_type": "album",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338f0312bad5fefd31e6154c2",
+      "uri": "spotify:album:59l0Lq0LGbLJ59jXqFA4yP",
+      "name": "go home",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382b6beea4a60778d863367e7",
+      "uri": "spotify:album:5wyLxW5M1c8WBKAP5VE7ia",
+      "name": "spices",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3QQxqHoGqC3LE2LLHopfD8",
+          "name": "niino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386be96d6ef1d924ca3cbb0c8",
+      "uri": "spotify:album:0VADBUVUOkOyvXYQbNkk8b",
+      "name": "southside island",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3QQxqHoGqC3LE2LLHopfD8",
+          "name": "niino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273957d342d5862a3327c9f48c9",
+      "uri": "spotify:album:69Jn9bqxwchRB5e06u0rLI",
+      "name": "from dusk till dawn",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1PWLRaLj3BjJ5L8iUkRJqa",
+          "name": "georgie keller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739159efae366f8727d39a17f1",
+      "uri": "spotify:album:3MatcY9cN8uqb7mtOLtsVK",
+      "name": "shadows (with bhaskar)",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ca5813e756e6c4d717a151c",
+      "uri": "spotify:album:6LhsHDbs3cMOIm6ZC40Z0c",
+      "name": "shadows (with bhaskar) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc5a80d6f490cb05730b8b10",
+      "uri": "spotify:album:1bNm6W7HuWvE4lgOcDcJy0",
+      "name": "next to you",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4cdyqaBREB68H77QKCrKP1",
+          "name": "dubdogz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5457a2174fe093bbf2bd129",
+      "uri": "spotify:album:1E8CfkSdFjcE54bymA2lOS",
+      "name": "nitro",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1Ejjxuav6kpsSyb6QIhjHa",
+          "name": "selva"
+        },
+        {
+          "spotify_id": "1Dn88PoQjnQgLTOaokePFz",
+          "name": "bright sparks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301f82fa94d5517c78a42fc93",
+      "uri": "spotify:album:5w8vGwgpu5R42T5qdTsxhy",
+      "name": "a little bit of faith (le shuuk remix)",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7bH17jyjkwMPMh9AS8EH0u",
+          "name": "le shuuk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ca88725eafd532b041bfc8",
+      "uri": "spotify:album:6fjDArVPml2Umj3bht0tmc",
+      "name": "call on me",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "721T2PETMLaAkijbYu05VD",
+          "name": "junge junge"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4q8SjmBr5X7DUmVvrnNrsd",
+          "name": "nathan nicholson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731628f52aeee5ba65487c332a",
+      "uri": "spotify:album:6xomHmF48SihaCpXoW5K2E",
+      "name": "a little bit of faith",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "71KlQX0q5wz5f9iytwPfou",
+          "name": "graham candy"
+        },
+        {
+          "spotify_id": "4odBqe9WOqpaQWwokqQyyt",
+          "name": "my parade"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ff6767df0ec46f516b0e6f5",
+      "uri": "spotify:album:3mPEyQ2r40ZhoZrfuUAaOS",
+      "name": "laser beams",
+      "album_type": "single",
+      "release_date": "2021-01-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4oDkont73KiwJOLTDJuSHV",
+          "name": "future kings"
+        },
+        {
+          "spotify_id": "7EyM0gQyMeaeQzslOFZaCq",
+          "name": "moya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ec65291e90332cf586e5372",
+      "uri": "spotify:album:1V76ejCa8IDmpPuN75e83N",
+      "name": "laser beams (extended mix)",
+      "album_type": "single",
+      "release_date": "2021-01-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4oDkont73KiwJOLTDJuSHV",
+          "name": "future kings"
+        },
+        {
+          "spotify_id": "7EyM0gQyMeaeQzslOFZaCq",
+          "name": "moya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273189be1b050cf4a33bff5e9fd",
+      "uri": "spotify:album:46LZk2XJ7aLpZjNdEQyzMu",
+      "name": "freaks",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376332b5847f11797de6cc36a",
+      "uri": "spotify:album:5V1XNiJR0gU6FD6lk35diu",
+      "name": "happiness (nightfunk extended remix)",
+      "album_type": "single",
+      "release_date": "2020-11-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6mzs66iVW15C5iLt0JLt41",
+          "name": "ilira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b2f3d647965794cc548b9ea",
+      "uri": "spotify:album:5SDhwNLmrz9B0XCf7zHMlr",
+      "name": "happiness (nightfunk remix)",
+      "album_type": "single",
+      "release_date": "2020-11-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6mzs66iVW15C5iLt0JLt41",
+          "name": "ilira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735fa1069b56c2e4d1dc2eda24",
+      "uri": "spotify:album:5qjmjXOhpaAXD49rEbbdGG",
+      "name": "blue monday",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "64ydm7vEEBjvH4AeC1slRM",
+          "name": "tim hox"
+        },
+        {
+          "spotify_id": "0MDfMKBf1cV65pnQ1ZRm9O",
+          "name": "iggy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0e0dd21ba3671a645692db7",
+      "uri": "spotify:album:7bioTTAoIfJDKndK4fITTt",
+      "name": "happiness",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6mzs66iVW15C5iLt0JLt41",
+          "name": "ilira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f290e19668444f75430105bc",
+      "uri": "spotify:album:5oCwDQH6WvbetdB6vd3yrw",
+      "name": "happiness (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2E4lzxgBnCEqLawsXeRKWp",
+          "name": "tomcraft"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6mzs66iVW15C5iLt0JLt41",
+          "name": "ilira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733affa07781b9e443e9fcf1df",
+      "uri": "spotify:album:6lEJi9ABcUWXcaEM1CLxy5",
+      "name": "sad boy, happy girl / lyfe lyne",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6rgEPiKjowlMKZC1DF6W75",
+          "name": "rebecca & fiona"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398da58c0e7b81255f3a8ea19",
+      "uri": "spotify:album:4N2YV1V2nEZPR1QwhIZzou",
+      "name": "hold on (feat. cheat codes) [vize remix]",
+      "album_type": "single",
+      "release_date": "2020-07-01",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "09agIJMxCD2k87ys9Al0f0",
+          "name": "vize"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343ca65b521be3f02cbdbb445",
+      "uri": "spotify:album:64x2LEBTG71jSiPBda6jmr",
+      "name": "fire (moguai edit)",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TVpqaYCmOzuOU7peRx83V",
+          "name": "one day hero"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273627d271aebc308df6623f21a",
+      "uri": "spotify:album:4y488LWz6kzozzoIRFcGaD",
+      "name": "fire (moguai edit) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0TVpqaYCmOzuOU7peRx83V",
+          "name": "one day hero"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273214d51cdb8ef20ca79040222",
+      "uri": "spotify:album:3fFJhYkgVKZv9Y843PKAfm",
+      "name": "commander for the night",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f1fe9e741f1316961ef78f9",
+      "uri": "spotify:album:5Oc2p4VOeg7VrKbwtJfXX8",
+      "name": "commander for the night (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f02b31c3d431fd9a6134b4f",
+      "uri": "spotify:album:3OwyT7DJN0qSlrtzsesWer",
+      "name": "everybody's got to learn sometime (daddy's groove remix)",
+      "album_type": "single",
+      "release_date": "2020-05-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "3kcQ94iDBwumLfddrCrse8",
+          "name": "daddy's groove"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d0ec22742e8f4e241a72cc2",
+      "uri": "spotify:album:7DBZmjwfMhHxfKsXPLODSf",
+      "name": "faith (macon remix)",
+      "album_type": "single",
+      "release_date": "2020-05-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        },
+        {
+          "spotify_id": "2Tubog1fy1Lw5OXVFOpgfJ",
+          "name": "macon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273248a0e7eefe7c88274f48027",
+      "uri": "spotify:album:2GUOY0LLpV7p4AGbXJ3jQY",
+      "name": "cucumba (ilan bluestone remix)",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1yoZuH2j43vVSWsOwYuQyn",
+          "name": "ilan bluestone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273120ee9e650305b496dbf036d",
+      "uri": "spotify:album:4ks5LhkUNrnJzJWsChBh2k",
+      "name": "hold on (feat. cheat codes) [2020 edit]",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db081777a513fdf8163ac054",
+      "uri": "spotify:album:1466cD6ee8a8LXUvyiPTgK",
+      "name": "hold on (feat. cheat codes) [extended 2020 edit]",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b8b97d25d419cb9ca6d53c1",
+      "uri": "spotify:album:5R39eASkg4TLhHvfi54Wwh",
+      "name": "dt64",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0frSMmZSEdr8pVRi8PBSwF",
+          "name": "kai tracid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb1d96723e169ca05f99a579",
+      "uri": "spotify:album:11LvsXMbH2HmZCkT1icKMk",
+      "name": "commander",
+      "album_type": "single",
+      "release_date": "2019-12-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3adbdcddc5ac6c862287d98",
+      "uri": "spotify:album:4Cy1gWblAiWEPd2RZecXlZ",
+      "name": "aciiid (kryder x benny benassi remix)",
+      "album_type": "single",
+      "release_date": "2019-11-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4Ws2otunReOa6BbwxxpCt6",
+          "name": "benny benassi"
+        },
+        {
+          "spotify_id": "1xfLBmx0n8DQri9HxJsq9O",
+          "name": "kryder"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf8aacb4ea2d15f58dc7c299",
+      "uri": "spotify:album:3RDHtGOyvsYYib04Aiauo1",
+      "name": "green sally up",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273535eea5688aa263e1e6f6d79",
+      "uri": "spotify:album:4z0oOadWwi5KwiI7CbXDrE",
+      "name": "everybody's got to learn sometime",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3f8997170ff60f061c89e80",
+      "uri": "spotify:album:4Y7rAvCxYNe8c1zmki9UB3",
+      "name": "break my broken heart (moguai extended mix)",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XC57xz74X3xUi1hv4mge1",
+          "name": "winona oak"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6263c9aabd5ecf65e24fefb",
+      "uri": "spotify:album:61hzi7fez6uCS6RF2t8geA",
+      "name": "break my broken heart (moguai remix)",
+      "album_type": "single",
+      "release_date": "2019-09-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XC57xz74X3xUi1hv4mge1",
+          "name": "winona oak"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332b4d48861e480434d2a2029",
+      "uri": "spotify:album:28wrSy8PaKWCxUAW32GRVq",
+      "name": "don't stop (feat. moe mitchell)",
+      "album_type": "single",
+      "release_date": "2019-07-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "1Cf2rAiu34MxNqC7BZ2xjH",
+          "name": "moe mitchell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db1d7bf3ea37f8da827e9731",
+      "uri": "spotify:album:2eUcAAdsGtuHhKoLkUKusQ",
+      "name": "don't stop (feat. moe mitchell) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-07-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d9ff5b247b5f7f1cd0c4e00",
+      "uri": "spotify:album:7w82NzY2ZaBHdRTEhq9jZu",
+      "name": "summer lover (moguai remix) (feat. devin & nile rodgers)",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733077e999c36f91d0e585a0b1",
+      "uri": "spotify:album:4MvNtmOxtodKjp7FsVmscN",
+      "name": "cucumba",
+      "album_type": "single",
+      "release_date": "2019-05-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273205a56eff2f47fdcadf400a2",
+      "uri": "spotify:album:0IS69tn73wBzFxba7IEuMJ",
+      "name": "faith",
+      "album_type": "single",
+      "release_date": "2019-03-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273443d55a4ca285ed87307506f",
+      "uri": "spotify:album:1MoYzOzVyzDCX2PUEOntvc",
+      "name": "this mountain (moguai remix)",
+      "album_type": "single",
+      "release_date": "2019-01-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5NhgsV7qPWHZqYEMKzbYvo",
+          "name": "faouzia"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304a05f70ebc43e18e186ba78",
+      "uri": "spotify:album:6pRzzpBqsuAOgWbFKaRQlF",
+      "name": "nyce (remixes)",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a3d724f0b89f1859996e058",
+      "uri": "spotify:album:41D7PBhthJU5eA3sao3DtT",
+      "name": "tetra",
+      "album_type": "single",
+      "release_date": "2018-10-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324a4053db1b7604f0aa289a6",
+      "uri": "spotify:album:61uopuAi6ygHua7CR1iWlA",
+      "name": "the greatest speech (feat. the great dictator)",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0DH2O8Nvb5KxMaI9jCZUqW",
+          "name": "raumakustik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bdc71ccbab7024716270308",
+      "uri": "spotify:album:3tj7olH9hW9DGe8SquNrg4",
+      "name": "home (remixes)",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "64fjAjykuM8Oc3Bqup4g72",
+          "name": "aka aka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b59ae3aa00577d8b04273ffe",
+      "uri": "spotify:album:0ZjbizL9WmSVMs7AOJjslq",
+      "name": "arcade mammoth",
+      "album_type": "single",
+      "release_date": "2018-07-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "w&w"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273449001d1a59769ac76fbf94f",
+      "uri": "spotify:album:6yy3OzkZg16NymK0hc2rQC",
+      "name": "i like it",
+      "album_type": "single",
+      "release_date": "2018-07-23",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "2Tubog1fy1Lw5OXVFOpgfJ",
+          "name": "macon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394f6e15e9c857344c524b158",
+      "uri": "spotify:album:1JlvecVpp5raRshjGNUTAJ",
+      "name": "sometimes",
+      "album_type": "single",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0DH2O8Nvb5KxMaI9jCZUqW",
+          "name": "raumakustik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372214618cbd9b81ce891bb67",
+      "uri": "spotify:album:57GMV9fbRaLzKQeJqrEPyz",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2018-04-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "64fjAjykuM8Oc3Bqup4g72",
+          "name": "aka aka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335b61d6b1673370f65296052",
+      "uri": "spotify:album:008TQm8Oym0LeG0ruU7hvE",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2018-04-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "64fjAjykuM8Oc3Bqup4g72",
+          "name": "aka aka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c248605f311fcb96f59b2ac5",
+      "uri": "spotify:album:0xujfVNIQyaS2REnYZXXZD",
+      "name": "lee",
+      "album_type": "single",
+      "release_date": "2018-01-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0bMKf3lIYR9GaNTdFKkTOr",
+          "name": "zonderling"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8e30bb3728257a7c551096b",
+      "uri": "spotify:album:3LW5ejelEVXGrYN7uUZHoO",
+      "name": "pray (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a19a809aa3ded3ce31d7048",
+      "uri": "spotify:album:2sSrDRH0X0L0OHYaO3YTXs",
+      "name": "say a little prayer",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6pWL05Wc94cpoX7eS8VhZB",
+          "name": "polina"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378cc425260cacc135c79eb36",
+      "uri": "spotify:album:5M4GEbgxGCXrkpjyxZsH5p",
+      "name": "satisfied",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "64fjAjykuM8Oc3Bqup4g72",
+          "name": "aka aka"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731627b15a536eb16ef09b586a",
+      "uri": "spotify:album:2kKpNwnaNlGCje0Jmrq5KH",
+      "name": "lessons",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "67ghKnycRX6VM1xfqJSMlH",
+          "name": "younotus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273593238eb67de4ffeab336f0a",
+      "uri": "spotify:album:0bHQRAtzI6L54JsVx4AiL2",
+      "name": "lessons (parookaville 2017 anthem)",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "67ghKnycRX6VM1xfqJSMlH",
+          "name": "younotus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7e2591c1ac317c40bc3f63c",
+      "uri": "spotify:album:5fLaaDEor2LY5RF3xCKHFX",
+      "name": "tinhauser (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-04-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c25e159b95215871c4964dbf",
+      "uri": "spotify:album:5qm2bRLeLhY2TMHyXmdKLT",
+      "name": "tinhauser",
+      "album_type": "single",
+      "release_date": "2017-03-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736adecb57ce2d81a25effed0f",
+      "uri": "spotify:album:3lNaP3h5cQkmKwKUUEg9HM",
+      "name": "hold on (feat. cheat codes) [alle farben remix]",
+      "album_type": "single",
+      "release_date": "2016-12-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "7DMveApC7UnC2NPfPvlHSU",
+          "name": "cheat codes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273daf0cc95a620e35538b1ae8a",
+      "uri": "spotify:album:3bg01qNS1il8Pjbhy2gFVi",
+      "name": "pray for rain (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-11-04",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355b9e0aaf2bc33f31a6bcf79",
+      "uri": "spotify:album:6ZoTp37vsTqhkbfwq5vIao",
+      "name": "pray for rain",
+      "album_type": "single",
+      "release_date": "2016-09-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcfd0b52ed41cadc91a7d61a",
+      "uri": "spotify:album:595B2M14cJsFOVXS0iKP9A",
+      "name": "you'll see me (feat. tom cane) [the remixes]",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c061213b516e8930c334d267",
+      "uri": "spotify:album:0UEVyQqHGZQmQk2dz1M3sM",
+      "name": "you'll see me (feat. tom cane)",
+      "album_type": "single",
+      "release_date": "2016-04-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273171e87a99c4474ff8dbf9ba2",
+      "uri": "spotify:album:3EiyMQHfyGrFq9V0xX47ES",
+      "name": "hold on (feat. cheat codes) [mr. belt & wezol remix]",
+      "album_type": "single",
+      "release_date": "2016-01-11",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4bb46e8a06f5e011ede6736",
+      "uri": "spotify:album:1EjjDNQPChXV3Fa2cQxPCd",
+      "name": "hold on (feat. cheat codes)",
+      "album_type": "single",
+      "release_date": "2015-09-28",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e2c1a81982ab0ea10948707",
+      "uri": "spotify:album:0Ikh1R5ALPX8waKZnJv6VI",
+      "name": "hold on (feat. cheat codes) [radio edit]",
+      "album_type": "single",
+      "release_date": "2015-09-11",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b94dde118b863a1b5995ad02",
+      "uri": "spotify:album:4h6f0OhxGZtNl29riqjgtN",
+      "name": "portland (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-08-28",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4a9sClW4YpYQE5jUMAWx5W",
+          "name": "watermät"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d759a3790a77c79b254868b2",
+      "uri": "spotify:album:2wC5uKID60WDW1DPEGXpNJ",
+      "name": "the zound (energy flash)",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4OW0w5K2UNaWtbpRqzWqI0",
+          "name": "joey beltram"
+        },
+        {
+          "spotify_id": "1OQqnxsfFoETMEByBIQvHK",
+          "name": "cobra effect"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebb63e7a8ebec0281ef12015",
+      "uri": "spotify:album:0dlcdSliyh8ZDPaQoOrWQX",
+      "name": "hold on (feat. cheat codes) [the remixes]",
+      "album_type": "single",
+      "release_date": "2015",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7f469d5f958208d126d1479",
+      "uri": "spotify:album:3cJz7Ftrv5mEV1qzefhkuo",
+      "name": "k i x s",
+      "album_type": "single",
+      "release_date": "2014-12-15",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc5c7613c50eb8ec082747c2",
+      "uri": "spotify:album:21GUL43OaGJZ8URtACa0EZ",
+      "name": "gangsta (radio edit)",
+      "album_type": "single",
+      "release_date": "2014-10-07",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4Ws2otunReOa6BbwxxpCt6",
+          "name": "benny benassi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732900d8f9be8162d1e657d8c9",
+      "uri": "spotify:album:3hEIGWiiuyVPEBFQdUjAED",
+      "name": "body talk (feat. julian perretta)",
+      "album_type": "single",
+      "release_date": "2014-09-15",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2HkAI0YrEcgoR8QdaURqhO",
+          "name": "dimitri vegas"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4pwXiI7Z5ZStkgKowZyoKi",
+          "name": "like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376f60ecc51b6264a52068f68",
+      "uri": "spotify:album:35ChCze8Hc3GUppxoBFC3L",
+      "name": "real life",
+      "album_type": "single",
+      "release_date": "2014-07-28",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1Q5wmgUdwSVAKa7VZsGckB",
+          "name": "tst"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deba03b82d1201b02d8d199e",
+      "uri": "spotify:album:07hMIyKrhtCuSalt36rYVT",
+      "name": "the future",
+      "album_type": "single",
+      "release_date": "2014-06-30",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738844793d00ee661df254391b",
+      "uri": "spotify:album:6ZdqRnjXE7wgNICAeLZ1Ep",
+      "name": "aciiid",
+      "album_type": "single",
+      "release_date": "2014-05-26",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da8b2ff2e54c547def89e515",
+      "uri": "spotify:album:128oVxR05kYIsfiPd9NV1o",
+      "name": "mammoth (coone instrumental remix)",
+      "album_type": "single",
+      "release_date": "2013-12-02",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6e7e17274ebadb02c103f08",
+      "uri": "spotify:album:2I0u7MOosBxTsUKOvb9jT2",
+      "name": "can't stop (feat. niles mason)",
+      "album_type": "single",
+      "release_date": "2013-10-28",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5314049e5fba96676fb37ef",
+      "uri": "spotify:album:0AFbnIRTiUkFizfafN1yDe",
+      "name": "mammoth (heroes x villains & carnage remix)",
+      "album_type": "single",
+      "release_date": "2013-09-06",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273563b7632a5755cae7e386d1e",
+      "uri": "spotify:album:01XI3h9tLN9ossV7J5L0NN",
+      "name": "something something champs (feat. zip zip through the night) [radio edit]",
+      "album_type": "single",
+      "release_date": "2013-08-04",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6TQj5BFPooTa08A7pk8AQ1",
+          "name": "kaskade"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fc26a2eeba1c0d5d0fa081b",
+      "uri": "spotify:album:2uXG8jw6HzNPOy4Isc1Qs0",
+      "name": "punkomat",
+      "album_type": "single",
+      "release_date": "2013-07-08",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c20213a7803b338e20a1e7d7",
+      "uri": "spotify:album:7uOPfeeLeT0n1TbSpvwGXg",
+      "name": "mammoth",
+      "album_type": "single",
+      "release_date": "2013-05-06",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2HkAI0YrEcgoR8QdaURqhO",
+          "name": "dimitri vegas"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "4pwXiI7Z5ZStkgKowZyoKi",
+          "name": "like mike"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390ab33ffd18011c0e79e3479",
+      "uri": "spotify:album:3d5E7XFKXyhZCqdhdChcQe",
+      "name": "champs",
+      "album_type": "single",
+      "release_date": "2013-03-22",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e36db2b0f01fbb70e099810",
+      "uri": "spotify:album:5BM0rvprB1NP8P5lqO0IST",
+      "name": "in n' out (tommy trash club mix)",
+      "album_type": "single",
+      "release_date": "2012-05-28",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273757ea9655ee6832c171ad07b",
+      "uri": "spotify:album:6UgL2nmNyrvn60qVWgCpiY",
+      "name": "lyme (moguai's crushed lyme mix)",
+      "album_type": "single",
+      "release_date": "2012-04-30",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b585651cdec435f3e247fdaf",
+      "uri": "spotify:album:35URxfkpsqxAHkAkYEfXIe",
+      "name": "mpire",
+      "album_type": "album",
+      "release_date": "2012-02-28",
+      "release_year": "2012",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6fd8f6203501f49370e9896",
+      "uri": "spotify:album:4yOtfoPBYOW5VKPSy3zbO0",
+      "name": "oxygen",
+      "album_type": "single",
+      "release_date": "2011-12-15",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "2r7POU2f5jV6x3k4vsNwrM",
+          "name": "fiora"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331d8237a7bf12375f1fe84c7",
+      "uri": "spotify:album:69Ttv417fZZYEyCi9J5KA8",
+      "name": "sex secret",
+      "album_type": "single",
+      "release_date": "2011-07-01",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3Si91z6Kb2J259v0Z3SN4w",
+          "name": "raumwohnung"
+        },
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8f908edfab7870d6bc60815",
+      "uri": "spotify:album:6vBaFI4YJV9kATCPlc5nB2",
+      "name": "optinuum",
+      "album_type": "single",
+      "release_date": "2011-05-16",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736343fc84da66ae061819609f",
+      "uri": "spotify:album:4f5guCdjoZmsYpFvOj8ewW",
+      "name": "beat of the drum (club mix)",
+      "album_type": "single",
+      "release_date": "2011-04-25",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bbe7f77d3284563934b0e7e",
+      "uri": "spotify:album:50h5GH3NtOq1Z9u2SsDcGZ",
+      "name": "beat of the drum",
+      "album_type": "single",
+      "release_date": "2011-03-25",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "5JQzXeT8vXc1N4Y6tGenCb",
+          "name": "sofi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395e4ea4c9397d955f1d452a7",
+      "uri": "spotify:album:43aJapzj7PwADzIGoRUsMO",
+      "name": "original hardcore",
+      "album_type": "single",
+      "release_date": "2011-02-14",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "0bIvvfPnM3YeHeORD57sAE",
+          "name": "westbam/ml"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ab3476a5ed7c054fb154c2b",
+      "uri": "spotify:album:3yh7yowPFxphrZKla8OKmQ",
+      "name": "we want your soul",
+      "album_type": "single",
+      "release_date": "2010-12-20",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e449d0fc1b94a79a109d12c",
+      "uri": "spotify:album:2L5RkvVFdNWpxL0OZr1PmG",
+      "name": "get fresh",
+      "album_type": "single",
+      "release_date": "2010-12-12",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333138d1e5018bcb567963e2b",
+      "uri": "spotify:album:7us5mGwzjeeuUQ80niNDbQ",
+      "name": "8001 / stay planetary",
+      "album_type": "single",
+      "release_date": "2010-11-01",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381b2d223693257159d931742",
+      "uri": "spotify:album:0XRC5zzsz0mbltLuMomdgn",
+      "name": "oyster",
+      "album_type": "single",
+      "release_date": "2010-08-23",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ac4235380fdb42da0c8c09e",
+      "uri": "spotify:album:0pxALnEaXNSavSHtNtc6No",
+      "name": "we ar lyve",
+      "album_type": "album",
+      "release_date": "2010-04-26",
+      "release_year": "2010",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd9a92a95b3ab8082e8a3d4a",
+      "uri": "spotify:album:5bSbIqObsO6zSodCqweMaB",
+      "name": "nyce / blau",
+      "album_type": "single",
+      "release_date": "2010-03-15",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c31fe9168929bdf5e925d294",
+      "uri": "spotify:album:5fek5W4SU5765bn8LBDsGb",
+      "name": "the trip",
+      "album_type": "single",
+      "release_date": "2009-12-04",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340a57abc6bafc19650284bd2",
+      "uri": "spotify:album:19m4PZHGIRyKPckXWRUVgZ",
+      "name": "zyvox",
+      "album_type": "single",
+      "release_date": "2009-09-14",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ec6344cc8d06d1abf2c96c2",
+      "uri": "spotify:album:2VoLWjfPnm6BOvXPHhdFbE",
+      "name": "wild thing (moguai vs. tone-loc /punx squad remix)",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "5Y8EphH8Vdqu5SLj6K5vjj",
+          "name": "tone-loc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300a2d00098c21db9bd235de2",
+      "uri": "spotify:album:6FYvaf3JGdvTs5f74Znfmo",
+      "name": "diamond back / ray",
+      "album_type": "album",
+      "release_date": "2008-09-18",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "5VK8SZ3ANPLsvUQY9UhpWl",
+          "name": "ramon zenker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b191b67dbe320259bf8120f0",
+      "uri": "spotify:album:3bcA6ArXKzdCcelh8fdbws",
+      "name": "sittin' on chrome",
+      "album_type": "single",
+      "release_date": "2008-05-30",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d1af71053de67fbc263b165",
+      "uri": "spotify:album:1PhpQxoa8ha90K4BwopefR",
+      "name": "kick out the jams",
+      "album_type": "single",
+      "release_date": "2008-05-02",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8385e70cb1f856dc6063e5d",
+      "uri": "spotify:album:5xokhYLs1XMSIHz5aj7fU0",
+      "name": "ataque",
+      "album_type": "single",
+      "release_date": "2007-06-04",
+      "release_year": "2007",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a587aaf1e9b2b79ddb2cb342",
+      "uri": "spotify:album:7LEqtM2fdXkCStMjxUKJUn",
+      "name": "i want, i need, i love",
+      "album_type": "single",
+      "release_date": "2006-06-30",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a180fb09f84c2a5ca3807ef3",
+      "uri": "spotify:album:5r0M9BxlFXdqcskh9wfSr0",
+      "name": "tonight",
+      "album_type": "single",
+      "release_date": "2006-06-24",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d225c4523dd8189de23e952c",
+      "uri": "spotify:album:13Qm8UtJ5dpuBFmgVkGVLz",
+      "name": "y.e.a.h / h.e.a.y.",
+      "album_type": "single",
+      "release_date": "2005-11-30",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6Z6tYlPW6lzIOdbttcGajh",
+          "name": "punx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b4762939633c9557c8e45e8",
+      "uri": "spotify:album:3iwURkGTm0so2XMkoI7OSP",
+      "name": "tanz mit",
+      "album_type": "single",
+      "release_date": "2005-05-01",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f4579550d32555a9470974f",
+      "uri": "spotify:album:7esO3qMZtS7D7EZAcR8hlv",
+      "name": "old ´n´new / go ahead",
+      "album_type": "single",
+      "release_date": "2004-09-12",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273159e490608374e42570fc7aa",
+      "uri": "spotify:album:5rGhExeZ1ubNyu3TKRCSc4",
+      "name": "freaks",
+      "album_type": "single",
+      "release_date": "2004-03-29",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c5ee3da703106c75d3f7bdd",
+      "uri": "spotify:album:1nIcHxTitt8pcLtDCnt5aD",
+      "name": "get:on",
+      "album_type": "single",
+      "release_date": "2003-07-21",
+      "release_year": "2003",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376c6955c34e9fa310eed6fcd",
+      "uri": "spotify:album:0D99luhxDcJgXxWE5gGMZ9",
+      "name": "get on",
+      "album_type": "single",
+      "release_date": "2003-07-03",
+      "release_year": "2003",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcf729ab6f124ae8bb6ff8c0",
+      "uri": "spotify:album:65cpJipuZPcqxbTjUxeq6V",
+      "name": "get:on",
+      "album_type": "single",
+      "release_date": "2003-07-03",
+      "release_year": "2003",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e425b542f086cfb3655aa4",
+      "uri": "spotify:album:4TM6kEAuhZq52Dpwa8H0cL",
+      "name": "u know y",
+      "album_type": "single",
+      "release_date": "2003-01-27",
+      "release_year": "2003",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a81aca551ffd0ad1920e74b5",
+      "uri": "spotify:album:4vpZ39wRovw0LOIDRPCXM2",
+      "name": "u know y",
+      "album_type": "single",
+      "release_date": "2003-01-27",
+      "release_year": "2003",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735edb91780889b750d68ca132",
+      "uri": "spotify:album:6sgOVh3gg70MKSQv74OCVB",
+      "name": "u know y",
+      "album_type": "single",
+      "release_date": "2002-06-10",
+      "release_year": "2002",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337d444ab92318f5c27e3db99",
+      "uri": "spotify:album:5R2l14zTTZplzgF3CpJUxU",
+      "name": "the rock (moguai presents punx)",
+      "album_type": "single",
+      "release_date": "2001-10-01",
+      "release_year": "2001",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        },
+        {
+          "spotify_id": "6Z6tYlPW6lzIOdbttcGajh",
+          "name": "punx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dcd81e68058782f2759a575",
+      "uri": "spotify:album:3NdMWaGFsupulWm3WStR6j",
+      "name": "go high",
+      "album_type": "single",
+      "release_date": "2000-03-01",
+      "release_year": "2000",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af58a503ca814156f05c24ce",
+      "uri": "spotify:album:5OW2oXVIbgFernff39cl8K",
+      "name": "bang the drum",
+      "album_type": "single",
+      "release_date": "1999-04-02",
+      "release_year": "1999",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339ef29422ff0fa5968b80efe",
+      "uri": "spotify:album:1tlkpebgPJpvCm3xvdqH2y",
+      "name": "beatbox",
+      "album_type": "single",
+      "release_date": "1998-07-20",
+      "release_year": "1998",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b2fde4576f861b95b9ff088",
+      "uri": "spotify:album:5fzGRLtmpxVDbJalVzkLE6",
+      "name": "lowgo",
+      "album_type": "single",
+      "release_date": "1995-03-05",
+      "release_year": "1995",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736436a2dbe8e0eef1cdf3f079",
+      "uri": "spotify:album:3sCWzeq0GcT31Fhhznn7Yv",
+      "name": "torqueflight",
+      "album_type": "single",
+      "release_date": "1995-03-03",
+      "release_year": "1995",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "moguai"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:59.000Z"
+}

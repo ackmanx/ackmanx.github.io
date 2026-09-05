@@ -1,0 +1,153 @@
+{
+  "name": "zalza",
+  "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+  "uri": "spotify:artist:2Z8uw0b49TctXxO4yLX6GM",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc3f5663f988a7583a423c8fa",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b8565432dd947cf6bd6e385",
+      "uri": "spotify:album:7hbyIQtHf30Do2M27vNoMd",
+      "name": "bye",
+      "album_type": "single",
+      "release_date": "2021-01-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0KKQ2k7ZQ2S78cFHE40rSy",
+          "name": "trey"
+        },
+        {
+          "spotify_id": "5AH6UMOLGCtk7nJhcIaXJz",
+          "name": "nömad"
+        },
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b53c4314eac84c09dca867d",
+      "uri": "spotify:album:5pj9WqiMrng2f9ymn8EYkw",
+      "name": "high roller",
+      "album_type": "single",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be32e3f08ad6c96a4b991d75",
+      "uri": "spotify:album:0AmWzEjEsncdcao2fhgZEi",
+      "name": "out of memory",
+      "album_type": "album",
+      "release_date": "2016-12-24",
+      "release_year": "2016",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a1a7b8d715b63c0c3c88f01",
+      "uri": "spotify:album:4IIWMBurkg55ICSK6l3N2E",
+      "name": "superposition",
+      "album_type": "album",
+      "release_date": "2015-03-28",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b65c52f22ef0852bc28ce08e",
+      "uri": "spotify:album:466RvAB4NohJ8pTyCUiv1b",
+      "name": "zalza vs. the world vol. 2",
+      "album_type": "single",
+      "release_date": "2012-11-22",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273844a70f200d3c2ab1b0dec5f",
+      "uri": "spotify:album:3LY4oAqavJbael8afI29Rj",
+      "name": "zalza vs. the world vol. 3",
+      "album_type": "single",
+      "release_date": "2012-10-26",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f5c0def6e2d7435bdec3655",
+      "uri": "spotify:album:7pWx1v7B8aDhp9jvDZKZkU",
+      "name": "zalza vs. the world vol. 1",
+      "album_type": "single",
+      "release_date": "2012-09-28",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351c22ec1b0f179044df0d81e",
+      "uri": "spotify:album:7lpwr04kQRYkXpyVc1Cmc5",
+      "name": "the original 2204355 song - single",
+      "album_type": "single",
+      "release_date": "2012-09-25",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273707f96b62585014ccda64898",
+      "uri": "spotify:album:4TPBVt5qwpe1wYELvmRGrl",
+      "name": "back to the chipland",
+      "album_type": "album",
+      "release_date": "2010-06-10",
+      "release_year": "2010",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "2Z8uw0b49TctXxO4yLX6GM",
+          "name": "zalza"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:36:32.000Z"
+}

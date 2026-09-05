@@ -1,0 +1,913 @@
+{
+  "name": "zomboy",
+  "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+  "uri": "spotify:artist:0ycHhPwPvoaO4VGzmMnXGq",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5643f477e79c915bc776500a",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "riddim",
+    "dub",
+    "deathstep",
+    "bass music",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b826d5bdadfc380c4dc0a67b",
+      "uri": "spotify:album:3Kb47F0gQPZSqtfeKcg7nQ",
+      "name": "fallout (stoned to death remix)",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4a88oLYeDp88PT1XCAxGXd",
+          "name": "stoned level"
+        },
+        {
+          "spotify_id": "6TWscSE05GH5UvJpVq8y7y",
+          "name": "muerte"
+        },
+        {
+          "spotify_id": "1hN1MV9MlHjN7WXdNikCvm",
+          "name": "stoned to death"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358fc2353b1ebcf0b653c8441",
+      "uri": "spotify:album:6zFLKBNw1kEKJSbJPBL4Co",
+      "name": "valley of violence (borgore remix)",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "7u160I5qtBYZTQMLEIJmyz",
+          "name": "borgore"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360ad7a2ef86222324350c72f",
+      "uri": "spotify:album:05zJQKAbt3kgOrCCUZOnun",
+      "name": "bromance is dead",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2d4ec8ccae18ff668e10aa4",
+      "uri": "spotify:album:21t6qH7SVwrYoubXmxhyE2",
+      "name": "time machine",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "5c3akKV3CUqAVOnGZqf4S3",
+          "name": "barely alive"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcb5a76207196c90dc5066ea",
+      "uri": "spotify:album:4CaivjK6B36PMmfcBZxklC",
+      "name": "doomsday",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273398acb8720d61a6033c3a03d",
+      "uri": "spotify:album:7MucxnzoVlbYHceEqtXkQu",
+      "name": "royal blood",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f6f9bdbaf85aa49e06cc65a",
+      "uri": "spotify:album:102nAiD4mM3xmAJKPXZ9zs",
+      "name": "wish i could forget (zomboy remix)",
+      "album_type": "single",
+      "release_date": "2025-01-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b4181d544c9d9965ac73252",
+      "uri": "spotify:album:3qMvqbU8YpFQkRit1vWatZ",
+      "name": "dead man walking pt. 2",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b823eb7ca3b73dab162c94a8",
+      "uri": "spotify:album:6h04HyX6APITqu3K1JptQl",
+      "name": "project z",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384ca252625fe012878811283",
+      "uri": "spotify:album:4gLtEjpQonZ0UQ8jdd6IFq",
+      "name": "fallout",
+      "album_type": "single",
+      "release_date": "2024-08-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e05cf91801b4c54a198f328d",
+      "uri": "spotify:album:4qXffjq3tUUvaJx7pmfSld",
+      "name": "big boss (zomboy remix)",
+      "album_type": "single",
+      "release_date": "2024-02-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1cd32e33a661382a04f3783",
+      "uri": "spotify:album:1uPIDdNWYuULWaqdl1JuQg",
+      "name": "monsters",
+      "album_type": "single",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a208957ef26869debaa9083a",
+      "uri": "spotify:album:0gsxZi6h5iW7KVxud5W2AV",
+      "name": "dead man walking pt. 1: remixed",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c00e390a542589bc5ed86b8",
+      "uri": "spotify:album:0tdfUM7pIZPnjIbz8m5OpF",
+      "name": "dead man walking (laxx remix)",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "2kDv96OSt2CHxn9zx3pBwx",
+          "name": "laxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b58d50e37d459930a9ff022",
+      "uri": "spotify:album:6SSc2LKPmVaCVZKwDBo4V6",
+      "name": "desperado (eddie remix)",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381b067e252477b5d7934227a",
+      "uri": "spotify:album:3F4PZjgJLXX8fuBh5AspYd",
+      "name": "flatlined (reaper remix)",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        },
+        {
+          "spotify_id": "24kY0bUku58QhWv5WFFXaf",
+          "name": "reaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1a9a46b01550f8e7396d495",
+      "uri": "spotify:album:0oaPiQBOy6KkiwfCDTtMo8",
+      "name": "last one standing (ace aura remix)",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        },
+        {
+          "spotify_id": "5o2KBzYUFierWmBhSemAhq",
+          "name": "ace aura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273815904ad6320c068275243e0",
+      "uri": "spotify:album:5Rulijsb8lWwqPSFbzEHgD",
+      "name": "dead man walking pt. 1",
+      "album_type": "single",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d668714488ccf1acfc60d29e",
+      "uri": "spotify:album:378W0F6qYxBYkINDywxZz6",
+      "name": "desperado",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f95e955ed786e23b7a0464f",
+      "uri": "spotify:album:2sK83xEbolOa7q6ZcyOC7W",
+      "name": "flatlined",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce560f2d4a6c592c9edaffd9",
+      "uri": "spotify:album:3fblenkjskYmPpOOAm58My",
+      "name": "valley of violence",
+      "album_type": "single",
+      "release_date": "2021-12-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ffffa71ee3ef246d768713",
+      "uri": "spotify:album:4BaInrxpN9Bey7O1LGhVDp",
+      "name": "shell shock (feat. georgia ku)",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "5mYakBbBzPMQTfkVMIgiDM",
+          "name": "georgia ku"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733553b42c768fefb02b4587ab",
+      "uri": "spotify:album:2oGvype2gUOkpas1IPN2ZZ",
+      "name": "battlefields",
+      "album_type": "single",
+      "release_date": "2020-01-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273748c9940e9cf37312343e2d5",
+      "uri": "spotify:album:0mwivCL6HqwYV22duJC0ly",
+      "name": "archangel",
+      "album_type": "single",
+      "release_date": "2019-11-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343d0fde29d41a148d3ea8cd8",
+      "uri": "spotify:album:7FfWMm2XsMtK7xz0WF4PKF",
+      "name": "rott n' roll pt. 2: remixed",
+      "album_type": "album",
+      "release_date": "2019-10-11",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273109023cbf925784f4d250406",
+      "uri": "spotify:album:7HPdd60z6CElj1TnrLW0m2",
+      "name": "end game (tynan remix)",
+      "album_type": "single",
+      "release_date": "2019-10-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "5oiSxivTCIoOk5UlMSwzWM",
+          "name": "tynan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273051de50fbe20b88e01dff0ec",
+      "uri": "spotify:album:5zWyMvuAvb2YuXtxssGesH",
+      "name": "lone wolf (oliverse remix)",
+      "album_type": "single",
+      "release_date": "2019-10-07",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "3fFMSweDNwFGyHcxjN7MWp",
+          "name": "oliverse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c563b47f1329050b710dd292",
+      "uri": "spotify:album:3phtj8TCa9iKF2ajTP9z90",
+      "name": "born to survive (wooli & ray volpe remix)",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "2K9qsrYnsu1EWt7ZQkkuXb",
+          "name": "ray volpe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318a05ef4f18065707d11bb67",
+      "uri": "spotify:album:47KIS7mtjSEIhfUkMmo30e",
+      "name": "rott n' roll pt. 2",
+      "album_type": "single",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc7624fca582ed4d9c384aec",
+      "uri": "spotify:album:4csQT02kyJYu7euR5OvJw1",
+      "name": "born to survive",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dfd5d4bbc3a8370e90139e7",
+      "uri": "spotify:album:7sKxYho8LyWZONGXGz4CMq",
+      "name": "hide n' seek",
+      "album_type": "single",
+      "release_date": "2018-12-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f04829b14cbfac9b8969d77",
+      "uri": "spotify:album:0ZOHOmSoA2F394OWEqvAIY",
+      "name": "lone wolf",
+      "album_type": "single",
+      "release_date": "2018-11-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b52c3f4ff25a3428cb55b84",
+      "uri": "spotify:album:5aUJ2GjylZF0JqgHOnzNEw",
+      "name": "rebel bass",
+      "album_type": "single",
+      "release_date": "2018-08-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d37c09c52db8e58d1c47b31a",
+      "uri": "spotify:album:5gkQpohokxubzSX7FN4ftJ",
+      "name": "bop it",
+      "album_type": "single",
+      "release_date": "2017-12-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346f3472bd0bf95a410687f3e",
+      "uri": "spotify:album:1elOddJDNfefvHhgXauob5",
+      "name": "rott n' roll pt. 1: remixed",
+      "album_type": "album",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324ace6e66f2d3810a9bb5158",
+      "uri": "spotify:album:35BvvvqW65i7pHCuZenz6b",
+      "name": "saints & sinners (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ab0ae195dcf3f57d52debce",
+      "uri": "spotify:album:1EKzmr6FvOYoEXp2JFpeT0",
+      "name": "rott n' roll pt. 1",
+      "album_type": "single",
+      "release_date": "2017-08-07",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355b7ee9bb5bcef2ad7b4fa33",
+      "uri": "spotify:album:7zQVMwPLJQSeTejCpSuG2b",
+      "name": "young & dangerous",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273552619eabc7c7b5be0f5011c",
+      "uri": "spotify:album:1m0nJcZjHlGlbdyo4ogj55",
+      "name": "rotten",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730238be9903af02cb61589a28",
+      "uri": "spotify:album:63vHjC62STVIXqGTQMo7BR",
+      "name": "follow (zomboy remix)",
+      "album_type": "single",
+      "release_date": "2017-02-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        },
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326672c6f772ea6aff0ec2950",
+      "uri": "spotify:album:3TLRocDTw1F3s2qt60MucM",
+      "name": "neon grave remixed",
+      "album_type": "single",
+      "release_date": "2017-02-06",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ab12eeaabb7e88fdb8517cd",
+      "uri": "spotify:album:6aFVzkIzv364rmkFuj1G37",
+      "name": "invaders",
+      "album_type": "single",
+      "release_date": "2016-08-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273613b4a5e07d97864fcc11c88",
+      "uri": "spotify:album:0OooME7xUZgSSkBKwzl5X4",
+      "name": "neon grave",
+      "album_type": "single",
+      "release_date": "2016-03-11",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733db8ad227c2fce24744f1e7f",
+      "uri": "spotify:album:1LevFVj1QIEYPUgKxzdlPf",
+      "name": "resurrected",
+      "album_type": "album",
+      "release_date": "2015-05-25",
+      "release_year": "2015",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e3b170e41ccb6e93d2b595b",
+      "uri": "spotify:album:1hIXAkVowpaY33ebsZHzw4",
+      "name": "paradiso (festival mix)",
+      "album_type": "single",
+      "release_date": "2014-09-22",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be2f2dac059e34db2db70aaf",
+      "uri": "spotify:album:2vQMOIjgv3a2iBDtwygfgL",
+      "name": "the outbreak",
+      "album_type": "album",
+      "release_date": "2014-08-04",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ab259d7721bd10ebc01b40e",
+      "uri": "spotify:album:39LSFIbxC9esSDXR99hVRA",
+      "name": "survivors",
+      "album_type": "single",
+      "release_date": "2014-05-26",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a2c4cafd5abd5b5c0213dd9",
+      "uri": "spotify:album:2a2nVcaGu9qcZyjfrPdfoJ",
+      "name": "wtf!?",
+      "album_type": "single",
+      "release_date": "2014-05-19",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273296332108ed9d57ff4feb45d",
+      "uri": "spotify:album:0pvo5DotmMpj4hvnWAYkwJ",
+      "name": "reanimated ep",
+      "album_type": "single",
+      "release_date": "2013-09-09",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f7e672b82e3cb05a0573602",
+      "uri": "spotify:album:4M8S3RmLHuhsWTyTeWEWd2",
+      "name": "here to stay (feat. lady chann) [remixes]",
+      "album_type": "single",
+      "release_date": "2013-05-27",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b0ba05ff4391facdac37d8d",
+      "uri": "spotify:album:4Kg5M7whyuJyjUgUCOpXTd",
+      "name": "here to stay (feat. lady chann)",
+      "album_type": "single",
+      "release_date": "2013-03-04",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365afd721f59124fc7cfb06a9",
+      "uri": "spotify:album:1ZNZLZchcCknPc3Cq4CeoG",
+      "name": "the dead symphonic ep",
+      "album_type": "single",
+      "release_date": "2012-09-03",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382c705dbf513844494128cbe",
+      "uri": "spotify:album:07aAyO7CyO7b4QqDQzroiY",
+      "name": "game time ep",
+      "album_type": "single",
+      "release_date": "2011-08-22",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:36:51.000Z"
+}

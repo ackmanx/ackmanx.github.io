@@ -1,0 +1,362 @@
+{
+  "name": "sturm café",
+  "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+  "uri": "spotify:artist:3CLmUQKEDD6Ksc9bUS5nai",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6024de9666d61712a7139915",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "synthpop",
+    "cold wave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ad21aef20afb111a8010cbf",
+      "uri": "spotify:album:1WmR0SfrJhr1M2lDYvn4Lq",
+      "name": "europa (instrumental)",
+      "album_type": "single",
+      "release_date": "2025-08-16",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "62AXrx5XWACiLT3Cjn2SjW",
+          "name": "ninjaspark"
+        },
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273137da90a7458b6281d052333",
+      "uri": "spotify:album:2cHb0ed0xX9WFspPKiKuFd",
+      "name": "sturm diesel hands: svensk-amerikansk vänskap",
+      "album_type": "single",
+      "release_date": "2024-11-27",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        },
+        {
+          "spotify_id": "4EKSiDDkBWgVd8k8i5dRA8",
+          "name": "diesel dudes"
+        },
+        {
+          "spotify_id": "20XxNo4FRvOPNEfmZXyxlU",
+          "name": "morning hands"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350cb91bca72b52163dad1a2e",
+      "uri": "spotify:album:3Nwy09RSkUYH30FnbWOzKn",
+      "name": "zeitgeist",
+      "album_type": "album",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317d0da369d681fbfa9a51027",
+      "uri": "spotify:album:1wxWBZgVJ9YfkOwHA2RAfP",
+      "name": "zeitgeist",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c50f25b8e3f600c20cc7a50c",
+      "uri": "spotify:album:5z7H6EjeNP5xSd5lPyPf2b",
+      "name": "des kaisers neue kleider",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dab0d9909a13655220a1c4cb",
+      "uri": "spotify:album:2BLIjPMsEMZ4qeQlzxRZAU",
+      "name": "der löwe aus dem norden",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fe505d5c1045416319c5c06",
+      "uri": "spotify:album:1cICl1Kqfmt9dJ7K1qJ1UJ",
+      "name": "disco imperium",
+      "album_type": "single",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b2679504fd056d63fe5ba15",
+      "uri": "spotify:album:3Op0KRIMSoIBn6WBI6urlE",
+      "name": "hymne für die ewigkeit",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eb3a9ddb8d43f230933ec47",
+      "uri": "spotify:album:3PW4JtIIRdx69CSwHuvdFQ",
+      "name": "fernes land 1987",
+      "album_type": "single",
+      "release_date": "2021-12-11",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e7191b26da33b18322de6a6",
+      "uri": "spotify:album:5PvGcop6N1PF1VASK6ycnA",
+      "name": "fernes land",
+      "album_type": "album",
+      "release_date": "2021-02-24",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311af6d78fe721397ded49b89",
+      "uri": "spotify:album:1FlO4WUFJ1x6IjBncrcGZi",
+      "name": "fernes land",
+      "album_type": "single",
+      "release_date": "2020-12-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339fee772b1cdbd1568d9757f",
+      "uri": "spotify:album:0Ot1ZlbpGcd1YIg7ppMmGk",
+      "name": "discolied",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebf706dfdaeb7dfdfec61b95",
+      "uri": "spotify:album:1uI0SJifLWdxOusMwoNANk",
+      "name": "rarities 3",
+      "album_type": "album",
+      "release_date": "2020-05-03",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        },
+        {
+          "spotify_id": "1ewqAur8ZWUUEG85M5eXcE",
+          "name": "john steiner explosion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341a4022e93193d242b129498",
+      "uri": "spotify:album:7KIgzGYy1OoXo67Sbdow4T",
+      "name": "rarities 2",
+      "album_type": "single",
+      "release_date": "2020-03-22",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322496b1cd70d4bf54233342a",
+      "uri": "spotify:album:1CFF44LbGJycsp5IyITklI",
+      "name": "so seelisch, so schön! (2019 reissue)",
+      "album_type": "album",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa652bf72b565f380f150600",
+      "uri": "spotify:album:2zL7ALFymVkQuSpf3xgYod",
+      "name": "es geht",
+      "album_type": "single",
+      "release_date": "2017-05-15",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cc07ef69efa9df7adf322ae",
+      "uri": "spotify:album:7Km4Rbb7IwX3MyJgXShow8",
+      "name": "europa!",
+      "album_type": "album",
+      "release_date": "2015-03-16",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736372a25930ba0c1a0a59ac77",
+      "uri": "spotify:album:2ZpvaHtSUw6bnywjiDDCTC",
+      "name": "koka kola freiheit (thomas p. heckmann remix)",
+      "album_type": "single",
+      "release_date": "2015",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbc31546931bee58324c5e05",
+      "uri": "spotify:album:1W4h7DMIMhQ7a8788YKG6x",
+      "name": "rarities",
+      "album_type": "album",
+      "release_date": "2011-11-26",
+      "release_year": "2011",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb6683f2b4560a967687f4ce",
+      "uri": "spotify:album:0cqHFAXBOfXllELAyiO4iD",
+      "name": "koka kola freiheit (7 inch edit)",
+      "album_type": "single",
+      "release_date": "2011-11-17",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a68c464d2dc09c9a0547ac17",
+      "uri": "spotify:album:4GJiRhJViy4CGX4DcVb1q8",
+      "name": "tot ep",
+      "album_type": "single",
+      "release_date": "2008-03-23",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a73cc4b1e92125b55c7107a",
+      "uri": "spotify:album:2Wzrq0h7mO06VpwmRQSnGo",
+      "name": "so seelisch, so schön!",
+      "album_type": "album",
+      "release_date": "2005-11-02",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3CLmUQKEDD6Ksc9bUS5nai",
+          "name": "sturm café"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:01.000Z"
+}

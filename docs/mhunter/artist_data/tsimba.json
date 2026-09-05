@@ -1,0 +1,482 @@
+{
+  "name": "tsimba",
+  "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+  "uri": "spotify:artist:2oyQAB31BN7QLPUBNpLg88",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb90850e8491b23e0a9a8a7baf",
+  "genres": [
+    "bass music",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273211ce27b262c1108c48237b5",
+      "uri": "spotify:album:5OkVAAk1moqMfRVf7rKpH2",
+      "name": "out for the count",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0663ucUX5KdVY18dEYe0KC",
+          "name": "shanghai doom"
+        },
+        {
+          "spotify_id": "6j78LtFLqDG65Ju57NUM5N",
+          "name": "wreckno"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330e3254fb7f29b8e50355c8a",
+      "uri": "spotify:album:67tHPvbK7L93ABM7SaVpde",
+      "name": "vicious (tsimba remix)",
+      "album_type": "single",
+      "release_date": "2025-10-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bPqy3SBVMCgtclkBwNQDD",
+          "name": "indobeats"
+        },
+        {
+          "spotify_id": "2FrRBIW5Y8JaSM9GXIWZaj",
+          "name": "mantra sounds"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b26b14cee33052121fbfca39",
+      "uri": "spotify:album:0mXIY9xKCB7D7pQmX4tEja",
+      "name": "potofgreed",
+      "album_type": "single",
+      "release_date": "2025-09-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b46df3af6d6a6ab029c8afc3",
+      "uri": "spotify:album:0N5w7l7tcfwAk5m6dVoGFG",
+      "name": "reboot ep",
+      "album_type": "single",
+      "release_date": "2025-08-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "54boH3Y6zIo85meQdggMcE",
+          "name": "drewidd"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730343c68b006483a88d7ea0d0",
+      "uri": "spotify:album:32L23sL6JdCtzQJXTLgLmp",
+      "name": "dragoon (dark magician vip)",
+      "album_type": "single",
+      "release_date": "2025-01-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273740e4bd9430a691ae75ea3cd",
+      "uri": "spotify:album:3PBXKuF09U8LlZ5qg13b5b",
+      "name": "letting go",
+      "album_type": "single",
+      "release_date": "2024-08-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "5XTkMnYlZgQqFDRyb8uvrz",
+          "name": "mikayli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307d599e874494e596938a19c",
+      "uri": "spotify:album:4AFmJrx9rMmA2f9SSiCgIg",
+      "name": "booster pack",
+      "album_type": "single",
+      "release_date": "2024-07-30",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec4cc8d5b7d69b75809a8dc0",
+      "uri": "spotify:album:2bXzG5WjIpvebQaALdciii",
+      "name": "dark magician",
+      "album_type": "single",
+      "release_date": "2024-07-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bc31ef845ee94ddb2833a7e",
+      "uri": "spotify:album:5zhE0AlF0mdRhKOZYDVHC4",
+      "name": "bodega dreams",
+      "album_type": "single",
+      "release_date": "2024-07-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738058f81c3666c1fcd0cab8f8",
+      "uri": "spotify:album:0JzfdOpOjFcdoiP8UIoGfi",
+      "name": "need some",
+      "album_type": "single",
+      "release_date": "2024-05-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a7d597224137e81fbbc7a7b",
+      "uri": "spotify:album:7feiC67MxutrNGIYJC9vD7",
+      "name": "dip",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59DcOmdlmKUgsUrb2S7Nb6",
+          "name": "dmvu"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395799ed16d8afa0b3d45fa0a",
+      "uri": "spotify:album:6tqianmKnxJwnCZn5qGyCO",
+      "name": "i turn into a telescope (remixes)",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc3ec05ff203fdcb80fa5e2d",
+      "uri": "spotify:album:6VURH4QfP9nmmvgOh1B1fD",
+      "name": "i turn into a telescope (deez remix)",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "5WzBxU6nCFSR1EHstQGdZP",
+          "name": "deez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a0330ff74ce29a172272ac2",
+      "uri": "spotify:album:26xdD5Gj1OdRFYkQH8aPCY",
+      "name": "i turn into a telescope (protohype remix)",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "7KG6QgP9Xb87ybAr9C24qw",
+          "name": "protohype"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f777597ba7bacb0a0122555f",
+      "uri": "spotify:album:0qnfN6m8te28frzRtqmyWr",
+      "name": "i turn into a telescope (shanghai doom remix)",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "0663ucUX5KdVY18dEYe0KC",
+          "name": "shanghai doom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343bbf22167209a8586bf4c22",
+      "uri": "spotify:album:2tjb5URhngE8xTvxmxu3xX",
+      "name": "i turn into a telescope (smigonaut remix)",
+      "album_type": "single",
+      "release_date": "2023-12-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "3CuqxAtnxoMwdi6VtHVb20",
+          "name": "smigonaut"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399d220dbd8485bb3186c960f",
+      "uri": "spotify:album:5IZxzArurLZIzAIsPcx6D6",
+      "name": "lemon-lime ep",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e40874286c45c7027ced3dbc",
+      "uri": "spotify:album:0B0wkydaaWJj8Shvkr7ihK",
+      "name": "useless",
+      "album_type": "single",
+      "release_date": "2022-02-24",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273495ac4b562b11482018e668b",
+      "uri": "spotify:album:4yAByO9knhbLGLeDYZBLxp",
+      "name": "way to you feat. dani senior (tsimba remix)",
+      "album_type": "single",
+      "release_date": "2021-07-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375c65f1460d2c7d9a51e862b",
+      "uri": "spotify:album:6IYOIdl4vt4OWXafeHqPD4",
+      "name": "invisible enemies",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "27mChCxMpfmLnXhdD07DLZ",
+          "name": "esseks"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d4a057f81a65bd78cc872a6",
+      "uri": "spotify:album:36ttfMbPoWH0bNWJSLDZzT",
+      "name": "shambles ep",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d4c72490b6a29a6b4801326",
+      "uri": "spotify:album:5G7hbMMYyK4mv6CwqqdJFN",
+      "name": "i turn into a telescope",
+      "album_type": "single",
+      "release_date": "2020-02-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef95762671ea9a0bbfe50c59",
+      "uri": "spotify:album:6BkmL3PuJFFnTmmJ01jXAQ",
+      "name": "particle collider",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "1yxgjoiYczfFDnh4YYp4t1",
+          "name": "g-space"
+        },
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273350c7a2531963bae0b1904c9",
+      "uri": "spotify:album:3qKOUIGGCMn20oDTeSZTdl",
+      "name": "dématérialiser remixes",
+      "album_type": "single",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c11fe31c97d8a2ca75d85c96",
+      "uri": "spotify:album:2CpDFi0fL3dPEZNNCVG2tp",
+      "name": "dématérialiser ep",
+      "album_type": "single",
+      "release_date": "2018-04-30",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ca45d59287c2ded0df8c65b",
+      "uri": "spotify:album:0xbICtrbZIhtUXOXQ6PKuj",
+      "name": "goju",
+      "album_type": "single",
+      "release_date": "2017-03-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ee00fae1c1031c6eeb964fb",
+      "uri": "spotify:album:4m0kbx8wmqIbKssl6PjMag",
+      "name": "tsimba x deez - formless ep",
+      "album_type": "single",
+      "release_date": "2016-11-21",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2oyQAB31BN7QLPUBNpLg88",
+          "name": "tsimba"
+        },
+        {
+          "spotify_id": "5WzBxU6nCFSR1EHstQGdZP",
+          "name": "deez"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:27.000Z"
+}

@@ -1,0 +1,519 @@
+{
+  "name": "priest",
+  "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+  "uri": "spotify:artist:6niO7WSbw5n0nD58jPi2Mx",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb93329a1caefcb75127187038",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d88e94bd57accfe4a2f883a0",
+      "uri": "spotify:album:7gsRf6exQOka6wbXUMw2J1",
+      "name": "live in hollywood",
+      "album_type": "album",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        },
+        {
+          "spotify_id": "6a82pdlhS6SsAq7HDUSZKN",
+          "name": "julien-k"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae07030dd010720a9c7d5cf9",
+      "uri": "spotify:album:2Wt07OmG76ah7mhfRx88cF",
+      "name": "vaudeville (live in hollywood)",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273982dc3997e386d193f0efccd",
+      "uri": "spotify:album:008DFnAXjySe2Ml2FymOf2",
+      "name": "chaos ep",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c66c96b1eb623599a7732b1",
+      "uri": "spotify:album:3h5FC1Ht7KrQ1Z4OS4Hb0n",
+      "name": "world on a wire",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c68b0e18874c1663bd3ab78",
+      "uri": "spotify:album:0uwht2OZoydyNTJzP9F6OI",
+      "name": "my lonely heart",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e98e09a63f847efe49c2ce3",
+      "uri": "spotify:album:3KmuqsRUlaDSRUiwqfYmBn",
+      "name": "wicked game",
+      "album_type": "single",
+      "release_date": "2025-04-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c97cfc49651703be797e9ed7",
+      "uri": "spotify:album:7cdkpiFFe7OfubFTBXVPRx",
+      "name": "black hole sun",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273634eea72f3714fbf0538c569",
+      "uri": "spotify:album:5ra6SUvzAHx71OfvASxlV5",
+      "name": "say my name (priest remix)",
+      "album_type": "single",
+      "release_date": "2025-01-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3KLbGM3Iy6epGX9tzX1Rm5",
+          "name": "prophette"
+        },
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e01710dcd93076269ea0add9",
+      "uri": "spotify:album:42AooZEzK0xFuZghdAjC4o",
+      "name": "carol of the bells",
+      "album_type": "single",
+      "release_date": "2024-09-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4a98ef848fc8f9cd96662b2",
+      "uri": "spotify:album:30Qtzy71TqT47IS4kf2qny",
+      "name": "black venom (rhys fulber remix)",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        },
+        {
+          "spotify_id": "3aswb2tJV8Qys1Xufxn59P",
+          "name": "rhys fulber"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739491d2acfa10a374310eaaed",
+      "uri": "spotify:album:6zMmsUrGAFBrjPukEt1YU0",
+      "name": "dead ringer ep",
+      "album_type": "single",
+      "release_date": "2024-07-04",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da445c67acf5a7e65f3151d0",
+      "uri": "spotify:album:6evtb1zgG2r9gt1BfogaTU",
+      "name": "a million lives (priest remix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4PAH2hYK4vEvxLEwCg9zQ2",
+          "name": "reach"
+        },
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c082f0c1fcb7e27f1e1714",
+      "uri": "spotify:album:6mgNgRtyvCEVxLHUxReMTg",
+      "name": "dark pulse",
+      "album_type": "album",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cde5d36e0fe2ecf34e410342",
+      "uri": "spotify:album:2vWQkTkixTNfiMuJLTFriF",
+      "name": "black venom",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f216eef3ec12d30b1855a0f9",
+      "uri": "spotify:album:7qrOkWpsXwuC7Z9G6fTRb2",
+      "name": "just a game",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adca22b89e4169b43623b48b",
+      "uri": "spotify:album:1Mbnb3SnfbQBV1YfJZGcIN",
+      "name": "burning love",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbeb6a525c1a8d60d7065409",
+      "uri": "spotify:album:0NR4a5oOVZsejDbT1q76Rm",
+      "name": "engel",
+      "album_type": "single",
+      "release_date": "2023-08-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273359111f88e79c6f654f31411",
+      "uri": "spotify:album:1BY0TJa7jpQ6tRV480Hhs6",
+      "name": "personal jesus",
+      "album_type": "single",
+      "release_date": "2023-01-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273732679b94b614d7450bcdd30",
+      "uri": "spotify:album:4SeJCO0nIxLb62jwVt2HmK",
+      "name": "deceptio",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2RRiWA04WUVrXj2JfH0mrO",
+          "name": "airghoul"
+        },
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273074ac324d102d14de7facc5d",
+      "uri": "spotify:album:6s3wefGMwAXUN6ZQJF1RwR",
+      "name": "already a queen",
+      "album_type": "single",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ade877c2368d8fe1b5b7f8f",
+      "uri": "spotify:album:67N8DltI3qsWORnGMMU2Ul",
+      "name": "body machine",
+      "album_type": "album",
+      "release_date": "2022-07-15",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f60672f4507cd6f977f72bb3",
+      "uri": "spotify:album:4SqwOmf0rHN8JwiCIcmvI4",
+      "name": "blacklisted",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347c4d8b27feb6183553c41c7",
+      "uri": "spotify:album:6Bljq5wxJphqMSKkXcbVrK",
+      "name": "techno girl",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302ea0410a48f58113e8f1fd1",
+      "uri": "spotify:album:0TeinNWCaNMTQVOoMNsoty",
+      "name": "a signal in the noise",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731066f260c830e991a6deaff0",
+      "uri": "spotify:album:7LufDLnNisgYifpbQ12Yh0",
+      "name": "perpetual grin (priest remix)",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6m9fysdVTyH0KxNhG3DDaT",
+          "name": "pure obsessions & red nights"
+        },
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf71838797e6a9ddea6c8e93",
+      "uri": "spotify:album:7kMuZI1d0gTvS9lmKltBLl",
+      "name": "let your body go",
+      "album_type": "single",
+      "release_date": "2021-07-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373b66d9ee8151af8c427e67a",
+      "uri": "spotify:album:0HjrsE3joKTycSDaBBndFD",
+      "name": "lonely mansion",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfb90d9e046b626db373ff5c",
+      "uri": "spotify:album:65qPoms7WgkDT3vpjVmFpu",
+      "name": "cyberhead",
+      "album_type": "album",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323f2ca50dab48f1b5901778f",
+      "uri": "spotify:album:0OI2hGphWoNjHqYBhvJcHE",
+      "name": "thieves",
+      "album_type": "single",
+      "release_date": "2020-11-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388b13339f83f07f2324d949f",
+      "uri": "spotify:album:7jwCnsbdLGcMBKLZ9MBJVB",
+      "name": "time traveler",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273790810e3daf06711538c1116",
+      "uri": "spotify:album:4eYSO93ou7d1GOVOHVflfg",
+      "name": "obey",
+      "album_type": "single",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e00bf9690e622c9215a837f2",
+      "uri": "spotify:album:0wjMmGjKkCWAoQP0GRpWVu",
+      "name": "new flesh",
+      "album_type": "album",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6niO7WSbw5n0nD58jPi2Mx",
+          "name": "priest"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:28.000Z"
+}

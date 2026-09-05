@@ -1,0 +1,1031 @@
+{
+  "name": "eddie",
+  "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+  "uri": "spotify:artist:0LgrViZrCyMgg5MfTc33bd",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb62fe178488135fe53315299a",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eaa267893cfe65a58ef51644",
+      "uri": "spotify:album:4WJfnU4X6Jqm6rG1QuukU7",
+      "name": "dismantle",
+      "album_type": "single",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "5U1eJDpMKZiQustw16e0g2",
+          "name": "wasiu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312543d672e067eb27ba7d057",
+      "uri": "spotify:album:2DDKyJJoR5p3ZXdzuSXFJT",
+      "name": "step on it",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de25567de325e0debbe61a86",
+      "uri": "spotify:album:7C8pJDrZvHs3c36NtzAT1X",
+      "name": "the pit",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0o9qzOHuHkGZ3xMFKpMFkC",
+          "name": "black tiger sex machine"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739836a2f5f6f7deb5b9fc4db4",
+      "uri": "spotify:album:2ZoyTOh0gAznj2dr9xxPz3",
+      "name": "again",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "1mbM2HRSAFPgomMnUSNSvP",
+          "name": "nikademis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5cb589118cf8d4b74652515",
+      "uri": "spotify:album:3KctfGyHYmkrDctBXWf3yR",
+      "name": "zone",
+      "album_type": "single",
+      "release_date": "2025-09-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732aa4eb9f4b684a2f4dea949a",
+      "uri": "spotify:album:1eqjNSHKPIoJt6gOoBo6n7",
+      "name": "ken",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "6AxbrEv8tfYDYlm82VXe0R",
+          "name": "x1-y2"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac72175d18c6a6efa0d26200",
+      "uri": "spotify:album:7eLZjirVbDwpzqEuirQbAT",
+      "name": "like this",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce62e6421d987146e48f42e2",
+      "uri": "spotify:album:6pZis4OIMoEiY9yMEmi1Ck",
+      "name": "switchblade",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0o9qzOHuHkGZ3xMFKpMFkC",
+          "name": "black tiger sex machine"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273900afaaf75c799b7de77f974",
+      "uri": "spotify:album:1XUKP3ZAJFxvc2umxJVOkM",
+      "name": "rip (eddie remix)",
+      "album_type": "single",
+      "release_date": "2024-12-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a53becce38b1e2750085160",
+      "uri": "spotify:album:4C2c7zji1Fi3xPHwn7NJ7M",
+      "name": "one click headshot (eddie remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9e8148e4648654064ea8e7e",
+      "uri": "spotify:album:46jUkMUuElhsH8145CpV1R",
+      "name": "demons",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35Of0m0cvpLYrmQ6qd5ocp",
+          "name": "one true god"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ed63fbfbac161853dbe77de",
+      "uri": "spotify:album:6jU5BRvsHFuEmIt00ePEwV",
+      "name": "onzeker kraft vol. 1.5",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed7236d20cb8bfaba79d0e93",
+      "uri": "spotify:album:3tuRzYthWtWZB3BsqBYQWA",
+      "name": "caffeine induced psychosis",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "1srU7GzSGHwG1ewjSv6ztq",
+          "name": "quackson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2b58337b129fb270ec87bb4",
+      "uri": "spotify:album:44Eaag0CZ6opP7S8ykhpys",
+      "name": "maleficent",
+      "album_type": "single",
+      "release_date": "2024-03-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be2874a7b865b54c0c6223c1",
+      "uri": "spotify:album:2IeRYN1LkyHEnQo1PSWyph",
+      "name": "damned",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "111JwppXVMZExQqKn3o0h4",
+          "name": "fise"
+        },
+        {
+          "spotify_id": "1QURUQjhi5b4mntALhEhoQ",
+          "name": "colleen d'agostino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdd7abf7373b825f7b52a687",
+      "uri": "spotify:album:1HOT0HOpQ9LXsmGVanpznD",
+      "name": "not enough",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35Of0m0cvpLYrmQ6qd5ocp",
+          "name": "one true god"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ef18592ff4c9d69d54d9ff9",
+      "uri": "spotify:album:4lTX4wzj2eGBNea9XzILMe",
+      "name": "up/down",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffb45c4b0af3c318ab3e62c2",
+      "uri": "spotify:album:3tS6hhl22D2BWjA7Y0Vf35",
+      "name": "nonstop",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5uiDE9y1o7EEyDbNBo6vl9",
+          "name": "drezo"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baf9592c626c26472f517aff",
+      "uri": "spotify:album:2dAJpqKsJv9xiWMAH1z0k0",
+      "name": "pocketknife",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "5pdyjBIaY5o1yOyexGIUc6",
+          "name": "lights"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273366f8a081cbe2ff5381c3a5c",
+      "uri": "spotify:album:4keLA18A4X5cJ3wTbDC2kI",
+      "name": "la puta ama (eddie remix)",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5xwd7lKJeb2opUvYZnXFut",
+          "name": "the funk hunters"
+        },
+        {
+          "spotify_id": "44RV4NtG7667JQNtX6iDZc",
+          "name": "lūn"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d134d38636f4716fddd01233",
+      "uri": "spotify:album:1mQe7spPoUQn0O8ygiPRBM",
+      "name": "torn open",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1wvo1Xor4CLS2ySK1HywfH",
+          "name": "kill script"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380ccb32572b8b0fe8d675b71",
+      "uri": "spotify:album:5YjyH1QQ20buSHnLJ3xm65",
+      "name": "onzeker kraft vol.1",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bd808a2c1a2f82ece3ad628",
+      "uri": "spotify:album:30HXtVrHxww4WwnRgHQf5m",
+      "name": "post-rave heist",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "44RV4NtG7667JQNtX6iDZc",
+          "name": "lūn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de757b7c79e449adc6cba5f4",
+      "uri": "spotify:album:7dI7AvrDZLpVVwsvw2wRui",
+      "name": "incubator",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b58d50e37d459930a9ff022",
+      "uri": "spotify:album:6SSc2LKPmVaCVZKwDBo4V6",
+      "name": "desperado (eddie remix)",
+      "album_type": "single",
+      "release_date": "2022-10-27",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391391e9c228b8bdc487d8259",
+      "uri": "spotify:album:2cYsiuYP1rpKpLWjwSBvaL",
+      "name": "think about",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "35Of0m0cvpLYrmQ6qd5ocp",
+          "name": "one true god"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c727cf559c0c4cd8d6beb8a",
+      "uri": "spotify:album:1O1g42RVjVvlQyxQLEf40k",
+      "name": "terrorbite",
+      "album_type": "single",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d9803f30e676f06629be06f",
+      "uri": "spotify:album:1fnRYXb9yHTi8CJ7tbfzGI",
+      "name": "megabite",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343e08d99ece315ffef1722d0",
+      "uri": "spotify:album:3ZMFV5FVNvtpkX1zDZHQOr",
+      "name": "killerbite",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5e84f3528e91715ce134f52",
+      "uri": "spotify:album:0Edvg0BE9wcHHYxxCs916O",
+      "name": "nanobite",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e629067f791171d5c5f1244",
+      "uri": "spotify:album:22KaBXJ8QU2uK6u6AmqDO2",
+      "name": "cake control",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368570edf1a629c9b99e56c7a",
+      "uri": "spotify:album:3fsOwYGw6bYwIMeEZeLxFm",
+      "name": "electro forever",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6jA8k4be7dk1xdAhnJl2uB",
+          "name": "bad disk"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733de0d47cab92915f9556c7b0",
+      "uri": "spotify:album:4Iyl4SGyClOf1szp85qDl6",
+      "name": "a remix pack",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302f051efaf4552e29ba2d0e2",
+      "uri": "spotify:album:27GIlBXIGyT7jR4VrbxOel",
+      "name": "abandon (blanke remix)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332f00746bf93a3e3c45b10c2",
+      "uri": "spotify:album:5lE73bCg8YjO0mpSuZ0dAz",
+      "name": "shine (no mana remix)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e8b632602e8bed45fe61bc1",
+      "uri": "spotify:album:4PiYiSNGZd4enu6XuL6wvH",
+      "name": "somewhere in between (dirty south remix)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368eee56f819b0357dd2e4f14",
+      "uri": "spotify:album:3BSMIjvRbxqapPbBXklMoZ",
+      "name": "still healed",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fec00123a45cc095a2b3909",
+      "uri": "spotify:album:0vB8QipIgoF60WjKuu5bwB",
+      "name": "night runners",
+      "album_type": "single",
+      "release_date": "2021-06-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "5DNApAt05XowaylsOJo1eW",
+          "name": "voicians"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273381ca4718413be5b80d8e79c",
+      "uri": "spotify:album:6dqLalFvuO9tCu6M0HwVXI",
+      "name": "waiting",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342e84e5196f1784e666d6e71",
+      "uri": "spotify:album:6pgy0XKWXMy9q4NQ0rjcGe",
+      "name": "a better place",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca081e7ccd5ee764e700d069",
+      "uri": "spotify:album:0I12dhU0EZmByC0z7qHJvX",
+      "name": "boondoggle",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1a2e777409c7b7bbfa99fed",
+      "uri": "spotify:album:3orrpXfMVvSLGODVeF4vpf",
+      "name": "just a riff",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bpzpALZwOoKXzwMg2i8WB",
+          "name": "dirty south"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eed96235f4ae32f2b39ed3ca",
+      "uri": "spotify:album:69bD8r3CSWom02AVPXEdLg",
+      "name": "blueprints",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343dbfd0b6cace3431be76ccb",
+      "uri": "spotify:album:6mxNkY0198qwiwGgpaY0oq",
+      "name": "somewhere in between",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "1QURUQjhi5b4mntALhEhoQ",
+          "name": "colleen d'agostino"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346b3e16fff356310c7f05d16",
+      "uri": "spotify:album:2oyqdFKMNr18Zz7XbevtWv",
+      "name": "fragile violence (eddie remix)",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edc11f51ade1503ddc289327",
+      "uri": "spotify:album:2JgmHbrfcqwALXjm8qI2x9",
+      "name": "shine",
+      "album_type": "single",
+      "release_date": "2020-04-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bbc7629cb7d7bd8caa7ba10",
+      "uri": "spotify:album:7Gghm679sWRzeEzuKHsD2D",
+      "name": "untitled forever",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20yuGdfbRkW0HH3OfG1Nkg",
+          "name": "no mana"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273684d0026ae2f7170dfa55045",
+      "uri": "spotify:album:2PyjN78PVmocLNGtRDq8Yk",
+      "name": "closer",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "74RET4rCZPTGzhsLjD0i3g",
+          "name": "atliens"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad250fdcabe9c6f0765eaf24",
+      "uri": "spotify:album:0YxIgtzcXkUSf0OHfFjaZH",
+      "name": "disembodied",
+      "album_type": "single",
+      "release_date": "2019-05-07",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdfe44732f77add409df15b5",
+      "uri": "spotify:album:1PyabusItHNHIJXEvPtEVD",
+      "name": "spiritual contraband",
+      "album_type": "single",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3db79b1180d8a9a2ba7cd28",
+      "uri": "spotify:album:4lruCSIqoraNZWiSfjdPUt",
+      "name": "numb",
+      "album_type": "single",
+      "release_date": "2018-09-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ebdd9bdedcb6af2e3d2b3757",
+      "uri": "spotify:album:6S8ZlpY5f0D8QsENgi6c9B",
+      "name": "nasty. (eddie remix)",
+      "album_type": "single",
+      "release_date": "2018-09-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0HliW6lfc4iMAhAmLSgwD8",
+          "name": "blair rouge"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc3806299467e73ab7900045",
+      "uri": "spotify:album:7eN9hfP2x5GiGbDTy8MIti",
+      "name": "bad habits",
+      "album_type": "album",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f90ee431cc93f68346c5011",
+      "uri": "spotify:album:0GDpWsE4sRSQtYtlx4VfJR",
+      "name": "mechanical disbalance",
+      "album_type": "single",
+      "release_date": "2017-08-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        },
+        {
+          "spotify_id": "0HliW6lfc4iMAhAmLSgwD8",
+          "name": "blair rouge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395b5ff598a2cef80d135f27c",
+      "uri": "spotify:album:4yNle2KgoHzJrp5yc9H986",
+      "name": "mystery woman",
+      "album_type": "single",
+      "release_date": "2017-07-15",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3KF7anPKoBvMZSJEFvZDN9",
+          "name": "zac waters"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7a5f92f4fe60b938a708b67",
+      "uri": "spotify:album:0cW647fN1pCkSAtIqBDllg",
+      "name": "claiming souls",
+      "album_type": "single",
+      "release_date": "2017-07-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358959663e1591da138cb5870",
+      "uri": "spotify:album:5jTuksPYvRIv2SAxXeMNvT",
+      "name": "high velocity kicker",
+      "album_type": "single",
+      "release_date": "2017-07-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3KF7anPKoBvMZSJEFvZDN9",
+          "name": "zac waters"
+        },
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273934f06ef6104b36dbf065fd3",
+      "uri": "spotify:album:1fEMswBTYXsDMkIceqVmJl",
+      "name": "pipe dream",
+      "album_type": "single",
+      "release_date": "2017-06-02",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4e45ec20a83e100d2335561",
+      "uri": "spotify:album:5DyuAHFFn9VndNZ6uNpno8",
+      "name": "awful lawton",
+      "album_type": "single",
+      "release_date": "2017-01-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0LgrViZrCyMgg5MfTc33bd",
+          "name": "eddie"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:10:10.000Z"
+}

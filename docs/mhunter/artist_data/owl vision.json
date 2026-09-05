@@ -1,0 +1,554 @@
+{
+  "name": "owl vision",
+  "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+  "uri": "spotify:artist:5bC2AQ49NEL0cWpev4dgnw",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6678191436339de5920b8ec4",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0bfa0e121284923f5f88701",
+      "uri": "spotify:album:460xtas7Y4a5FUO43RtuVj",
+      "name": "the morbs",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377edf6c24c596e671ecf0c6e",
+      "uri": "spotify:album:2BUkW98p1ATDdPjlrLdDc9",
+      "name": "sungod",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4MDRNxNtr5Zwyhgk6TC0ur",
+          "name": "matteo tura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d324e9c0cfd3991789b9bc2",
+      "uri": "spotify:album:2L4Wdk9JgNlW1ljbP7tVRD",
+      "name": "book of shadows",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7c5f19fc6a7fdb860198fbd",
+      "uri": "spotify:album:0vnzKM693cWiZAJNeNtwBg",
+      "name": "sunk",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f63aeaf4065577750ee618a",
+      "uri": "spotify:album:12e1V7rZqaA1oxiPxlsY8H",
+      "name": "kink city",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c408eb8d019900f07df5679c",
+      "uri": "spotify:album:6sRYznNzA9m44Ns83gIHXm",
+      "name": "fleshsuit",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f729507e5522608e72215cf4",
+      "uri": "spotify:album:1C7Eoaw67m1CFTKxnSngvs",
+      "name": "life sucks",
+      "album_type": "album",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b790e5c51a74a48cd9ef163",
+      "uri": "spotify:album:5Ab6nQ9lH6UsBy3IenRuly",
+      "name": "downward",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
+          "name": "rezz"
+        },
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734386acf84b4d4e349d0f973e",
+      "uri": "spotify:album:4e5dxIGtajnaLdMDSqxTrD",
+      "name": "nightbreed ii (the new breed)",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ef7bd84531697248a2e7559",
+      "uri": "spotify:album:6oIO71ALsOelJpfMWkjx0S",
+      "name": "zeroboy (slowed + reverb)",
+      "album_type": "album",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe9b1a3d1c64d9208842cf61",
+      "uri": "spotify:album:5qErVkpL6AvB3z7gumDuHj",
+      "name": "nightbreed (slowed + reverb)",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273080617fe298a1d5c13d41f06",
+      "uri": "spotify:album:0F3E8sriNHPv9oUHZcSxIv",
+      "name": "nightbreed",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3d771a3cc883da2c63fc562",
+      "uri": "spotify:album:2fYmfDNKDi7B4QHydsTZOF",
+      "name": "zeroboy",
+      "album_type": "album",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731123bbc453483e4dea009773",
+      "uri": "spotify:album:25hlJT4cwf7V47N2KjVFDx",
+      "name": "joykill (instrumental)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382b4c0582c5f05c4cf244284",
+      "uri": "spotify:album:5UV0G5rNulFBAnWeqVxfQI",
+      "name": "permal0w",
+      "album_type": "album",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c1ec8d852cea354679f8c6e",
+      "uri": "spotify:album:4EiiygcWETw9cQktdzQnUQ",
+      "name": "nocturnal",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        },
+        {
+          "spotify_id": "4N55TE3vFODMR4BX5B9fnM",
+          "name": "waveshaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368b3b90b151b6669783df333",
+      "uri": "spotify:album:1HgxeTohKDKDRqJ97MjdHo",
+      "name": "nightlord (slowed + reverb)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffdedd98455c886642af7212",
+      "uri": "spotify:album:782DqqVvIUrOKJVPmKpAnS",
+      "name": "pale demon (slowed + reverb)",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed4258ef32d861ba81cfbf2b",
+      "uri": "spotify:album:2gouCTiD9EDAyoUEYHjPcT",
+      "name": "fatal error",
+      "album_type": "album",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da11b2fa75f70adc7fdf6d40",
+      "uri": "spotify:album:73Hq9gvpR0CKElNxHb8W83",
+      "name": "h0rr0r",
+      "album_type": "album",
+      "release_date": "2021-09-02",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a2a70b28e7d1ca6b1dd8043",
+      "uri": "spotify:album:1zd9RZVtVJCHdz2XOh0PNz",
+      "name": "pain.exe",
+      "album_type": "album",
+      "release_date": "2020-10-31",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339ac3b1566c78bd4db7c0158",
+      "uri": "spotify:album:4I8if3q8lwdBO2CIJ3Rve1",
+      "name": "chainz",
+      "album_type": "single",
+      "release_date": "2020-02-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3kwoPkICT4iPkNjr6mL13N",
+          "name": "tokyo rose"
+        },
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301479daa209dc545bb66ea5f",
+      "uri": "spotify:album:2df9N3mXE6Ews3IQC1rCUE",
+      "name": "hurtz",
+      "album_type": "album",
+      "release_date": "2019-04-28",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b97af2b6d9010afeed0dba40",
+      "uri": "spotify:album:5WmOTTFyMiCqclhqAKx03Y",
+      "name": "fozzor",
+      "album_type": "album",
+      "release_date": "2018-05-13",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273661ea838913ccc4debd94df1",
+      "uri": "spotify:album:0bGjk2tjVfFktlVJyCFqoA",
+      "name": "downlord",
+      "album_type": "album",
+      "release_date": "2016-03-01",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e72f2d72e4cef0c3641152d4",
+      "uri": "spotify:album:7MBqKQrwclSjuYaAdoIqXX",
+      "name": "shelter",
+      "album_type": "single",
+      "release_date": "2016-02-12",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "44hMtyteVdHHM7QYy7FDms",
+          "name": "sbcr"
+        },
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d8d7a58fad4514b6a51868c",
+      "uri": "spotify:album:0fPe0meQPjcXIieoRjSoo2",
+      "name": "doomster",
+      "album_type": "album",
+      "release_date": "2014-04-27",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6505867a63d21912858f18b",
+      "uri": "spotify:album:5ByxMz7yJMv9T0kc4jQGQ1",
+      "name": "dystopia",
+      "album_type": "album",
+      "release_date": "2013-03-26",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b071408d5d2c63ea8f0e266",
+      "uri": "spotify:album:7L4ogUvS6LfHOjeo3opLVL",
+      "name": "zeremony",
+      "album_type": "single",
+      "release_date": "2012-10-26",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ebcf0d5407d0782ec751dad",
+      "uri": "spotify:album:6wTiKZ03xjcBVVYSKFGug7",
+      "name": "zybersect",
+      "album_type": "album",
+      "release_date": "2011-10-25",
+      "release_year": "2011",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e135310dbad66ba330530925",
+      "uri": "spotify:album:5jx2FqQqULtJ0CtmKFW2ZE",
+      "name": "dead shall rise",
+      "album_type": "single",
+      "release_date": "2011-02-14",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385e5c73748d349685bf31064",
+      "uri": "spotify:album:6jtL6JqdZwVq7iiQgecvqL",
+      "name": "fields of corpses",
+      "album_type": "single",
+      "release_date": "2010-03-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273184b755ef1807c736612725c",
+      "uri": "spotify:album:1eHGUqPBXZ3umjvvtEofYv",
+      "name": "leprozy",
+      "album_type": "album",
+      "release_date": "2009-11-25",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273505ccb0d9dbff20f05d816d4",
+      "uri": "spotify:album:6b0FWc1CUhEbGjwL2ImsDj",
+      "name": "comorbid",
+      "album_type": "single",
+      "release_date": "2009-07-03",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5bC2AQ49NEL0cWpev4dgnw",
+          "name": "owl vision"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:28.000Z"
+}

@@ -1,0 +1,1228 @@
+{
+  "name": "kill the noise",
+  "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+  "uri": "spotify:artist:3qnMl4DHT4gndzFAcG4FlM",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb47d6ca1ea7795273556c6a75",
+  "genres": [
+    "dubstep",
+    "drumstep",
+    "melodic bass",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc08fa9302d8b6eba29727e4",
+      "uri": "spotify:album:4moyV2ZbmUuaUjexhCNssK",
+      "name": "stink mode / belong to me",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3Hrqjumb6WHg2aAUHJHLND",
+          "name": "lsdream"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273412dcbf9984fce7cbd1acbf3",
+      "uri": "spotify:album:1mDAIaOkXn6c05dfk4zZUh",
+      "name": "running away",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6Cqy862jSCV7qdNrCDqvNK",
+          "name": "hairitage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a667db4245aadaa1db27979",
+      "uri": "spotify:album:2nmhNKAThhuizsnGdbFudJ",
+      "name": "kill safari",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736563259d59591ae047e5fbdc",
+      "uri": "spotify:album:4zUpe1Vv3aMgFyfcdBDASZ",
+      "name": "chrome",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e621665bed153bc4cb7debd",
+      "uri": "spotify:album:4luqHf5qHnCsWHtvTiUgv5",
+      "name": "another level",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393baf2e0b6845c2d7bb75dcc",
+      "uri": "spotify:album:4mgCFqTuQgvGjNudy86J9L",
+      "name": "b2b2b",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db135e21d110347adb11b6f2",
+      "uri": "spotify:album:6N7oni77x7EOaVhu026Y0M",
+      "name": "ugs",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a64923a9055fc709b58456f5",
+      "uri": "spotify:album:1Y535jD7n9XiLuReZxCarU",
+      "name": "nothing at all (kill the noise x trivecta remix)",
+      "album_type": "single",
+      "release_date": "2025-09-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273140ddb7e830c3dabb1c21e2d",
+      "uri": "spotify:album:44usSyo15p08SzjVQ4eSCP",
+      "name": "chaos (kill safari remix)",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        },
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bb9efc7fbb7645091d421fd",
+      "uri": "spotify:album:5d8SMMZdjc9mWtzC3ZeLfv",
+      "name": "boss (kill safari remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3c0nrfhZe6afmto5cvYodR",
+          "name": "kill safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa44ee45843050a019264f52",
+      "uri": "spotify:album:0nZLuKEu2XCLQOyJitEctX",
+      "name": "echo chamber",
+      "album_type": "single",
+      "release_date": "2024-11-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "3koHmmPvpgZWHcVmK8AKDq",
+          "name": "hvdes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d138421989684270fe9c7e75",
+      "uri": "spotify:album:5jxheKcwzt8oJtktWB6BTG",
+      "name": "taste like hell",
+      "album_type": "single",
+      "release_date": "2024-10-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "54pgkpWVgQYbQXD8bkUP8n",
+          "name": "gg magree"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273490f1092c82e76e375a4fd52",
+      "uri": "spotify:album:4tRarXePJFcMzidbxjp5CG",
+      "name": "scumbag (kill safari remix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27362757445b5f164fcee1e7a38",
+      "uri": "spotify:album:6nR50e6oP3rZ2KA0MKsFZy",
+      "name": "where's the score (evol intent remix, kill safari reremix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        },
+        {
+          "spotify_id": "1VJckWeb9pxyAtESOoF8Xc",
+          "name": "evol intent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d41db66185d27bd8632fa6d",
+      "uri": "spotify:album:1eaeKjfJlyjGczAaCABTsl",
+      "name": "under pressure",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273550dd5c9447ac0843a2867ee",
+      "uri": "spotify:album:048kCUVEpagJeqIleNJFSh",
+      "name": "one minute (feat. nikal fieldz, q the music, burnboy, quannum logic) [kill the noise remix]",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "1vikktFhCp72oGjIAnlQnm",
+          "name": "dope by association"
+        },
+        {
+          "spotify_id": "6L6VjBcf06AK6boIxqIEit",
+          "name": "bobby saint"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348f847890628f14dd74ec2c5",
+      "uri": "spotify:album:5nkOB8DcXWTFow16FBUUF0",
+      "name": "feel the vibe",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "4AT7XlLBevgZIiKvZQ83ye",
+          "name": "trivecta"
+        },
+        {
+          "spotify_id": "39Oq22GIYJKzgCbCDbOnRl",
+          "name": "doktor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb2e34845c3dbc8a670507d2",
+      "uri": "spotify:album:79abEB92z3mFYWUIMcgEBa",
+      "name": "make it wobble (feat. takura)",
+      "album_type": "single",
+      "release_date": "2024-03-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "4n81jTX3LJ7zxNr6Ss8PkQ",
+          "name": "takura"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fed66d226e7c5860a9be5988",
+      "uri": "spotify:album:4F7ytP1OskKKK7K4jPwADS",
+      "name": "hollow world reanimated",
+      "album_type": "album",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f4cb4c9e7523dbaf5cf3232",
+      "uri": "spotify:album:0yh24NxO2UZP0imo4OLy13",
+      "name": "moonlight",
+      "album_type": "single",
+      "release_date": "2023-10-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737124ffe817960867dd565ec9",
+      "uri": "spotify:album:0gNkSyRRwmxQKProfvVw46",
+      "name": "hollow world",
+      "album_type": "album",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a34fc0138fe82b4d09c3ba28",
+      "uri": "spotify:album:7gMIYNidVYiYgZSVEcOB7x",
+      "name": "give out / broken panes",
+      "album_type": "single",
+      "release_date": "2023-07-28",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb50aa59989b9d30150ec853",
+      "uri": "spotify:album:7CF0ZHnQxWK0dtE6DYaAXj",
+      "name": "drive / afraid of the dark",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa1b369f19d8ff85d9d7989b",
+      "uri": "spotify:album:2uwZLRe2sKP6j6foGDMY0P",
+      "name": "mirage",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "7sLv4bED064cYa2XhF85og",
+          "name": "tasha baxter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325c028b5cb42a21567384efe",
+      "uri": "spotify:album:6npvQEmUO01Et1oT3zDIzt",
+      "name": "ultraviolent",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "3MwmjpfJvIoCarmc1eehbu",
+          "name": "shadow cliq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eba6bbe0c49690592b7e7a4d",
+      "uri": "spotify:album:7LDZEuBiE6mViMQm7m4e02",
+      "name": "song of the year",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737743200539fd412c57b5fb1d",
+      "uri": "spotify:album:2By3NmvlF4tAZZNhNBqw2V",
+      "name": "the blood - vip",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334a9a48eb8009293ba0126a2",
+      "uri": "spotify:album:6j1udIsSaKuON0zhGBFsu9",
+      "name": "embrace reanimated",
+      "album_type": "album",
+      "release_date": "2022-08-12",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376a74c386fcc339580db5e87",
+      "uri": "spotify:album:5lQZtKE1vwo1DgZnDzJln0",
+      "name": "don't look back (moore kismet remix)",
+      "album_type": "single",
+      "release_date": "2022-07-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "11yQZ1YJaQopAkKdRFEL4O",
+          "name": "moelle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6c5e7ccca734aae32709f26",
+      "uri": "spotify:album:3D6LhNfcd3lRFw0T2qHbsw",
+      "name": "embrace",
+      "album_type": "album",
+      "release_date": "2022-03-31",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a2db553c43980db1a8d316f",
+      "uri": "spotify:album:5LhuN71DJKmZqQjPs7qvuO",
+      "name": "without you",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "6fOD5mThYrqHe1cyTrKcyu",
+          "name": "julia ross"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365fcece17fbc769b46a7b742",
+      "uri": "spotify:album:5bBj7661kGnxk1IEQoRHyW",
+      "name": "how ya like me now",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "3534yWWzmxx8NbKVoNolsK",
+          "name": "wolfgang gartner"
+        },
+        {
+          "spotify_id": "3mlE1ilnSHt92U8W3TQwqF",
+          "name": "ericka guitron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306937c907d7d984073a2efae",
+      "uri": "spotify:album:7mbE80DUNvE8kHppXJZ2tg",
+      "name": "as above so below",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "7sLv4bED064cYa2XhF85og",
+          "name": "tasha baxter"
+        },
+        {
+          "spotify_id": "6d9SnuHI2bRer7c76d8sLq",
+          "name": "bro safari"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc5895d3d4f5eb2677dd997a",
+      "uri": "spotify:album:0hR7A8lPuOnpsQr5ERIWCl",
+      "name": "don't look back",
+      "album_type": "single",
+      "release_date": "2021-12-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "11yQZ1YJaQopAkKdRFEL4O",
+          "name": "moelle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308af18d5e8d4ded9dd50784c",
+      "uri": "spotify:album:4bz8uPByzbQDZmD5g6RUnd",
+      "name": "battlestations",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3534yWWzmxx8NbKVoNolsK",
+          "name": "wolfgang gartner"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fda0c7bcdd88dce12bcc4e9",
+      "uri": "spotify:album:2G41PbgV2UUVFkropOL4fU",
+      "name": "front 2 back",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356c24288afb61ec4a90da6b1",
+      "uri": "spotify:album:3wgHTmLB6Yob7fYD6mpYA9",
+      "name": "salvation (from \"captive state\" soundtrack)",
+      "album_type": "single",
+      "release_date": "2019-05-17",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "1NpKmfDYMhw1KJIIUCsX4O",
+          "name": "mija"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334cd4de83880e27ea20b511d",
+      "uri": "spotify:album:3WUZuygHRtn8Jehp2Fjbjh",
+      "name": "the blood",
+      "album_type": "single",
+      "release_date": "2019-03-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a27d90de4d96cacee000a422",
+      "uri": "spotify:album:3hHxJ9u07Tt7xjECg0LcYz",
+      "name": "only want u (kill the noise remix)",
+      "album_type": "single",
+      "release_date": "2018-08-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe666b335e92ba635883667a",
+      "uri": "spotify:album:0ncKqqRG20pomFHhjZPfPK",
+      "name": "shake the ground",
+      "album_type": "single",
+      "release_date": "2018-06-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273222399e40ed997ac87b9a83d",
+      "uri": "spotify:album:2OdbF2z0cwkiF69tB0SO9F",
+      "name": "horizon",
+      "album_type": "single",
+      "release_date": "2018-05-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "521qvhdobR0GzhvU6TFw76",
+          "name": "tritonal"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735128f21ef0278a622845955b",
+      "uri": "spotify:album:739XC5TOAiWXogTE92BtRw",
+      "name": "don't give up on me",
+      "album_type": "single",
+      "release_date": "2018-02-13",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375e22d1315724f8aaa47f006",
+      "uri": "spotify:album:4cXEBA3htwg6e3MbfjjhJ0",
+      "name": "crazy maybe no mana remix",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327842d47575283696e146948",
+      "uri": "spotify:album:6mzfBUnwe3cNOqLl8fKqtZ",
+      "name": "cold hearted",
+      "album_type": "single",
+      "release_date": "2017-10-25",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "seven lions"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5a57e03c20dc197ef385649",
+      "uri": "spotify:album:5xyXxkbSrEc1wVXs6zTJAq",
+      "name": "got the love (feat. jennifer hartswick) [kill the zo remix]",
+      "album_type": "single",
+      "release_date": "2017-08-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7o7mC95EDbJKTcPAAs8C3r",
+          "name": "big gigantic"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "2n7USVO8fO8FF8zq4kG2N1",
+          "name": "mat zo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739834eb762371b243712a8698",
+      "uri": "spotify:album:3EbG6AWJvbut8e6qw4elWO",
+      "name": "kill the noise and mat zo present: kill the zo, pt. i",
+      "album_type": "single",
+      "release_date": "2017-08-11",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "2n7USVO8fO8FF8zq4kG2N1",
+          "name": "mat zo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da006fa6b3dd8bbc263abae4",
+      "uri": "spotify:album:02oxpTamlyXWTfBm6m9gMk",
+      "name": "divebomb (music from the motion picture \"xxx: return of xander cage\" (feat. tom morello)",
+      "album_type": "single",
+      "release_date": "2017-02-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "23rBupd4zSysh9lAzsSFb0",
+          "name": "madsonik"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a07f9b678cf4511598bec8a3",
+      "uri": "spotify:album:5J1PKdGqzetpVBcFORqacS",
+      "name": "fuk ur mgmt (nghtmre remix)",
+      "album_type": "single",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ba47996786b029063f5285e",
+      "uri": "spotify:album:7ebDRw5s7FyOpwVXWKHsPa",
+      "name": "kill it 4 the kids (feat. awolnation & r.city) [slander remix]",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273919dd2a023cbc0db3f4663ab",
+      "uri": "spotify:album:4RtoHBv4UiRrebeKRTKqeZ",
+      "name": "without a trace (feat. stalking gia) [rezz remix]",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310c7decc489ca4f80a07dce5",
+      "uri": "spotify:album:7BR4aEWZu01ddrAxAfLNUE",
+      "name": "alt classic",
+      "album_type": "album",
+      "release_date": "2016-05-13",
+      "release_year": "2016",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a19c14d2b2ff6f1812b8174",
+      "uri": "spotify:album:2xCNIURBZpbjPLoaxSRujw",
+      "name": "occult classic",
+      "album_type": "album",
+      "release_date": "2015-10-09",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273762dcd22e66490386f3a9236",
+      "uri": "spotify:album:6sUlBcVU7IL6gYarruDEBq",
+      "name": "fuk ur mgmt",
+      "album_type": "single",
+      "release_date": "2015-09-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737886a7a301abab9a97e03319",
+      "uri": "spotify:album:6zxafwkBHqvwo10UlyGNis",
+      "name": "spitfire riddim (feat. twoton)",
+      "album_type": "single",
+      "release_date": "2015-09-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "23rBupd4zSysh9lAzsSFb0",
+          "name": "madsonik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273742bb3f0cad2585dffbe17dc",
+      "uri": "spotify:album:1eLb2afYRkYB4vAR7mHp5e",
+      "name": "dolphin on wheels",
+      "album_type": "single",
+      "release_date": "2015-09-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "5R3Hr2cnCCjt220Jmt2xLf",
+          "name": "dillon francis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ba7371d46a6ff239235b194",
+      "uri": "spotify:album:4YH1NVT35c6WbbmoJVEKXk",
+      "name": "kill it 4 the kids (feat. awolnation & r.city)",
+      "album_type": "single",
+      "release_date": "2015-09-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b41514100026ba85729e8c3",
+      "uri": "spotify:album:5Dn8zoLVAB38w2sGxLmrTf",
+      "name": "louder (feat. r.city)",
+      "album_type": "single",
+      "release_date": "2015-05-12",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "1tBU8jUEdVR3mqSsAqEGfD",
+          "name": "tommy trash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384601f18a9318208b05151f2",
+      "uri": "spotify:album:1AatHcCzngEJQLjABCtqcG",
+      "name": "far away",
+      "album_type": "single",
+      "release_date": "2014-10-23",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336b7f45889893011e2653a13",
+      "uri": "spotify:album:1bIBY3nSANQovqHnQ12xPR",
+      "name": "far away",
+      "album_type": "single",
+      "release_date": "2014-10-23",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        },
+        {
+          "spotify_id": "5FWi1mowu6uiU2ZHwr1rby",
+          "name": "feed me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e7f89c92c3e9c174fdf3158",
+      "uri": "spotify:album:0BrBRhZp5DDgIThTc1vl8n",
+      "name": "recess remixes (feat. fatman scoop and michael angelakos)",
+      "album_type": "single",
+      "release_date": "2014-07-07",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        },
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef0790512fa1d25f3031419d",
+      "uri": "spotify:album:78lRWNElPBPUSlhoqGyhhl",
+      "name": "black magic remixes ep",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c74efd27154106abec8f0772",
+      "uri": "spotify:album:5PYjFQsKJ0QixFmweAiC7I",
+      "name": "blvck mvgic ep",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0e7e7889f90e7bd46586d08",
+      "uri": "spotify:album:1muptqJoBgiXWXilTgsqkz",
+      "name": "kill kill kill ep",
+      "album_type": "single",
+      "release_date": "2011-11-22",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3qnMl4DHT4gndzFAcG4FlM",
+          "name": "kill the noise"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:30.000Z"
+}

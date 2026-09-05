@@ -1,0 +1,735 @@
+{
+  "name": "orange sector",
+  "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+  "uri": "spotify:artist:0nxMaqbFU9W3dPV9TchWlc",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe010a20771773d9b9e3f9f4d",
+  "genres": [
+    "ebm",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d9cb9dc68260f9bc8928b54",
+      "uri": "spotify:album:6dajdXPn8wD4TIkBdejJfr",
+      "name": "tanz den teufel",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4ISX2aRyZ10uoLtypdPNai",
+          "name": "dstrtd sgnl"
+        },
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "2VcPw8V5gpRIMAp1iwWfQP",
+          "name": "blind vision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a81937b60f569918415a8b36",
+      "uri": "spotify:album:6EMOBikd5wj0y2ZTzzX504",
+      "name": "ein neues kleid (kollektion 26)",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff198143c62ddfe2ee53269a",
+      "uri": "spotify:album:15N9xntwqmrWqoABbkIM8G",
+      "name": "reworx",
+      "album_type": "album",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deb2a14777b1eb0720d69082",
+      "uri": "spotify:album:0Q99XL81kzy70sfZQoEe25",
+      "name": "treat of life",
+      "album_type": "single",
+      "release_date": "2026-03-13",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "6cvCDRPZ9FuHNAlisu7IIg",
+          "name": "rob dust"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735090c2cc22a19e203ef9b9e7",
+      "uri": "spotify:album:1efCnaE3zn7U3D86U39UWa",
+      "name": "treat of life",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7b48cc30715413fb3fe1c48",
+      "uri": "spotify:album:7ztMjS4Pgki3qucCoOsucy",
+      "name": "niemand (rob dust remix)",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386af86f29ec78ee143a887a5",
+      "uri": "spotify:album:2tqSovRPu1Jnu1K3MgktNS",
+      "name": "der maschinist (funker vogt remix)",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "6OSOjC1W6jRkFKKS35TnkK",
+          "name": "funker vogt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361103623c04688ccc038d57a",
+      "uri": "spotify:album:4FuByMBus0CtwSjyUizNbb",
+      "name": "cold as steel",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "0PfV0FHtoG94Pv3vedaUKE",
+          "name": "nz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738679c9143ac655d915c60b11",
+      "uri": "spotify:album:5ul1mKhfdVE1VbU5dS5yUs",
+      "name": "orange sector - farben (reverk remix)",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "5sS6AbdXTQ9L0GV9TOVeP6",
+          "name": "reverk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738520460053f044c55cd48653",
+      "uri": "spotify:album:3h0EC2VTwzIpj9w8pA3Y5G",
+      "name": "schmerz",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f741845a43d4398c5429516",
+      "uri": "spotify:album:12vlxgNAP5Kxdadqe5nhMn",
+      "name": "feuer & flamme",
+      "album_type": "album",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b508ccab12389172c87e1d3",
+      "uri": "spotify:album:6GalGwjcmeTSlUhr9l7ryB",
+      "name": "wo bist du",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d190d5c458b656959d335408",
+      "uri": "spotify:album:1qLJYhsq1ODcOqsmaYL1R3",
+      "name": "tanzfabrik",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a34c3ad19cc304aa631bdce",
+      "uri": "spotify:album:0jXVDJ8g4PlOaCqDxNkVQ8",
+      "name": "der maschinist (tak tik mix)",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "4ISX2aRyZ10uoLtypdPNai",
+          "name": "dstrtd sgnl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273779edbfeaf24814088cc6bdb",
+      "uri": "spotify:album:5yDGejyMgS7EB3VANRM8OI",
+      "name": "farben (tak tik mix)",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        },
+        {
+          "spotify_id": "4ISX2aRyZ10uoLtypdPNai",
+          "name": "dstrtd sgnl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273315305ea8e6622972e22a69d",
+      "uri": "spotify:album:0TNS10EMHCDij4gzs0Jpyh",
+      "name": "der totmacher",
+      "album_type": "album",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0023f79c92b8725a3785781",
+      "uri": "spotify:album:63jQHbHk6JBmPKLMtrC5SF",
+      "name": "join the nation",
+      "album_type": "single",
+      "release_date": "2022-04-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738851763b1a3dea0929b04931",
+      "uri": "spotify:album:563wAaQeTeTrYA34J3N3WK",
+      "name": "the work is done",
+      "album_type": "album",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f54bc3c89da9f99c9bc5f009",
+      "uri": "spotify:album:73k63HBzdvcSJx1afb3Lbz",
+      "name": "alles wird gold",
+      "album_type": "album",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378695432af385fb878ed4317",
+      "uri": "spotify:album:3n4HO8BXSmsKgertpHQfZv",
+      "name": "angstmann",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2625d25c3e964b9fab0c4b4",
+      "uri": "spotify:album:3kZtvGEBvxdq9xcL9lnI3D",
+      "name": "war of the religions",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d16258bfdcc71e956c6b819",
+      "uri": "spotify:album:7xWJeVLaUSVZyfdSwwrKxO",
+      "name": "zerstörer",
+      "album_type": "album",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b256bf80a34ec0d9eb00b89b",
+      "uri": "spotify:album:2s3tCnZkS78YDTMI41vJRP",
+      "name": "alarm",
+      "album_type": "album",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eb6b04c3f7306e712cb3c42",
+      "uri": "spotify:album:59IsB27SuCoLc5sScnMPlN",
+      "name": "die fahne",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d438a956e24334edfb46354",
+      "uri": "spotify:album:7paa1whisDLjKWrugsPOHA",
+      "name": "endzeit",
+      "album_type": "album",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 33,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316bb093a403163c0b2aa4c9c",
+      "uri": "spotify:album:3QP6zanVZWz5Sqz8DDeBvE",
+      "name": "farben",
+      "album_type": "album",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6ec855652f3e42e52deb856",
+      "uri": "spotify:album:7A39rLAD5GIczoj4jhO7Yw",
+      "name": "stahlwerk",
+      "album_type": "album",
+      "release_date": "2016-06-03",
+      "release_year": "2016",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9bca2c163469de25f68be94",
+      "uri": "spotify:album:7tz8PqgUtqPvJ61K7WmZce",
+      "name": "monoton",
+      "album_type": "album",
+      "release_date": "2015-10-30",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273303cf1c257ae9781b86838e6",
+      "uri": "spotify:album:16iKyE9fbBpB9bvTzgmoSK",
+      "name": "night terrors",
+      "album_type": "album",
+      "release_date": "2015-05-08",
+      "release_year": "2015",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c992781339b54605dd898eb3",
+      "uri": "spotify:album:1s0rggAHBZang8Y9XBE4RN",
+      "name": "glasmensch",
+      "album_type": "album",
+      "release_date": "2015-01-30",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738eba4d6f44bc64695f46faef",
+      "uri": "spotify:album:4podeZ4Ubp87oBVwdjUGv1",
+      "name": "geile zeit",
+      "album_type": "album",
+      "release_date": "2013-11-22",
+      "release_year": "2013",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319ef1610679d0a96a764daca",
+      "uri": "spotify:album:7cbQIcjAFt1v0lzhgvXdwQ",
+      "name": "vorwärts nach weit",
+      "album_type": "album",
+      "release_date": "2013-04-19",
+      "release_year": "2013",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b98d7d5d5dc56f0f7bb6f1cb",
+      "uri": "spotify:album:5BmqXjMWLqKmKu5fuJe2aC",
+      "name": "der maschinist",
+      "album_type": "album",
+      "release_date": "2012-12-15",
+      "release_year": "2012",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4cf3421551da48fc3568b7f",
+      "uri": "spotify:album:2sMcQNBdRPqzPzNPS0RMCx",
+      "name": "krieg & frieden",
+      "album_type": "album",
+      "release_date": "2010-07-13",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733603e8da5cd298af3ea9e31d",
+      "uri": "spotify:album:4vZcKkuoyhO9NWeO1OeRvV",
+      "name": "mindfuck",
+      "album_type": "album",
+      "release_date": "2009-04-03",
+      "release_year": "2009",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e473d07d7ab6f8dcb0c41de",
+      "uri": "spotify:album:5EwenVrW2Efzfx9Fn79Y3e",
+      "name": "masquerade",
+      "album_type": "album",
+      "release_date": "2008-12-22",
+      "release_year": "2008",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273781c0692651a9af6ec7c33cd",
+      "uri": "spotify:album:1MpqAhOL2K8AzUxcVgYU2U",
+      "name": "love it!",
+      "album_type": "album",
+      "release_date": "2008-12-20",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733134e5df07ad2b3a82177113",
+      "uri": "spotify:album:1sIdeo8RxdRSvJacsiFdfI",
+      "name": "faith",
+      "album_type": "album",
+      "release_date": "2008-12-18",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738159271d9d7d8cdc98442cad",
+      "uri": "spotify:album:6yeClsaqq4iYsrZ846RlWO",
+      "name": "flashback",
+      "album_type": "album",
+      "release_date": "2008-12-18",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0a1ea54b854b5274f580545",
+      "uri": "spotify:album:5XM7F9pLydP7XIad8JT6Ih",
+      "name": "scars of love",
+      "album_type": "album",
+      "release_date": "2008-12-18",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319937f99625e338439b55f8d",
+      "uri": "spotify:album:1QBu0cFZwbaAyIZBvpn2N1",
+      "name": "kids in america",
+      "album_type": "single",
+      "release_date": "2008-12-18",
+      "release_year": "2008",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bcc3e5138055782dfd69f20",
+      "uri": "spotify:album:1LxWs6gwamE3GTn3KyCqVK",
+      "name": "untertage",
+      "album_type": "album",
+      "release_date": "2008-10-31",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db5826c4e3a52d5c1c25648f",
+      "uri": "spotify:album:1SALKg0sljS5Qr27pjavCW",
+      "name": "für immer kalt wie stahl",
+      "album_type": "album",
+      "release_date": "2008-07-18",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390796ee147e41fd9cf46970f",
+      "uri": "spotify:album:18s8DAh4HT5Jj3y2JJj1I7",
+      "name": "profound",
+      "album_type": "album",
+      "release_date": "2008-07-11",
+      "release_year": "2008",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730edaf7ac09b5ae79bdb3a6d3",
+      "uri": "spotify:album:70CFJnuC7dRJxLbGltpZaq",
+      "name": "bassprodukt",
+      "album_type": "album",
+      "release_date": "2006-01-27",
+      "release_year": "2006",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e25eb9164c05bfe9fc1b8851",
+      "uri": "spotify:album:0OtWuP6CF0UgiNXari5ai5",
+      "name": "here we are (back again)",
+      "album_type": "album",
+      "release_date": "2005-12-16",
+      "release_year": "2005",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "0nxMaqbFU9W3dPV9TchWlc",
+          "name": "orange sector"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:07.000Z"
+}

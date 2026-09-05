@@ -1,0 +1,3147 @@
+{
+  "name": "andrew rayel",
+  "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+  "uri": "spotify:artist:1UtBjqMZBAmqIPlDrKu7Tr",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf3efdde6362dc88f3d15f072",
+  "genres": [
+    "trance",
+    "progressive trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27322f37bdd01836cc35caab520",
+      "uri": "spotify:album:3NOdafD2tYPEUR8cfT47B6",
+      "name": "paparuda",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "24uAdKaf9xT9Y2Bp8UEN6L",
+          "name": "surorile osoianu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d6dcc02a38bb775f7c7a28c",
+      "uri": "spotify:album:0SPoVGHc2txflZT2Unh4Sq",
+      "name": "till forever",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0IYTdG3kSqaozW2xSPA6GL",
+          "name": "sara phillips"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e7e87459536112aa41a0cae",
+      "uri": "spotify:album:73FduZ8TDD71ksYAx2d7sI",
+      "name": "universal harmony [fyh 500 anthem]",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d03352e37d19e6aaf932e89c",
+      "uri": "spotify:album:6pT9ihKmcRSexQPWwDQGta",
+      "name": "sandstorm (andrew rayel & extasia remix)",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4CrDEHL7ysNabeYvL3xjUX",
+          "name": "skytech"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a332c654a3de4fe9f7769924",
+      "uri": "spotify:album:27dXPNTEVMxPpfrs04bCvA",
+      "name": "viva, moldova! (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0kTRvNtdn5mubSQfVoZffv",
+          "name": "satoshi"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a44b915d2511666b719066b2",
+      "uri": "spotify:album:1yvUoAtQCOSTmRi7NazEPt",
+      "name": "how do we know",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5B9q1NRokzWYB7nSgnlHyv",
+          "name": "giuseppe ottaviani"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3znJOYi3CDM5ZQkbo6kmjd",
+          "name": "alessia labate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730dfa640ca5dd72efb0b39118",
+      "uri": "spotify:album:6me7wEekunrxUzXjjJdDhx",
+      "name": "extasia - part one",
+      "album_type": "album",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a84e3d3c4475df971fcbaade",
+      "uri": "spotify:album:3WGDBzvyRgpOmDoJg5Kkje",
+      "name": "my ocean",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        },
+        {
+          "spotify_id": "5gdYdbKxGw2Mq25TfsmH6q",
+          "name": "diandra faye"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a030791b6e9899a64a1e34",
+      "uri": "spotify:album:4k7i0kiRj1W9AdmqxnMwYi",
+      "name": "can we still feel (extasia mix)",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3ZejoaXlP3oqmmTseylLDY",
+          "name": "adara"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fec1b0f15a061243b6635f4c",
+      "uri": "spotify:album:4hNWaniy9ESOGo26SF2bEI",
+      "name": "never be the same",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        },
+        {
+          "spotify_id": "2C51Wbu4q389aUw2Vy8IA4",
+          "name": "alan morris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b472c888b794d99aeb2695b",
+      "uri": "spotify:album:778qWseNbQsGkExBPcdisa",
+      "name": "human technology",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309351262a8dd2397c2103858",
+      "uri": "spotify:album:0WBrTSWJXZ1iwqdrCvsDgq",
+      "name": "sun never rose",
+      "album_type": "single",
+      "release_date": "2026-01-23",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        },
+        {
+          "spotify_id": "7cwm843vv3YM0XvGAf5zgL",
+          "name": "angel city"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735910e48b29bcd60a1fe4a7b3",
+      "uri": "spotify:album:6XlzB28P3l1B0J0YnUA3Ld",
+      "name": "chasing the unknown",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0yfUG8p1uhkTrjDYcpFEIH",
+          "name": "extasia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b9efcb7b73c727ad9d6d15d",
+      "uri": "spotify:album:01kvSGrumsDkPaEbek7ERN",
+      "name": "acid on the train",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342438b23fadf78b26113f8fc",
+      "uri": "spotify:album:4yzFQbC7JMnotDAVUb1uud",
+      "name": "promise me (club mix)",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f96bf27e9f919899bee51615",
+      "uri": "spotify:album:2siu5YgGq7teykTdfDzlKu",
+      "name": "reverie",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "76XdtT24UoOpK3VozOIiv1",
+          "name": "arisey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378a081ad5c21a5364c2090e1",
+      "uri": "spotify:album:0MMps0buQIyvLvKOeal4m3",
+      "name": "rave angel",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ff6c6c999742bec142cdf0d",
+      "uri": "spotify:album:26aUjpb7oQhmDr8SpwrCzV",
+      "name": "promise me",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c1c7791617192278a478b22",
+      "uri": "spotify:album:15fngW8tl6sKSi5thLrArL",
+      "name": "for a feeling",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7KK5z5gfYj2vrLRZeeH7Py",
+          "name": "lea key"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735026ca7b0dfaa8ce735d67f6",
+      "uri": "spotify:album:5ymdZCU57nc31FmQYQ2IcG",
+      "name": "euphoria (skytech remix)",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "51BgE8J8VoDwG5Ee8tt3D8",
+          "name": "emilya buchan"
+        },
+        {
+          "spotify_id": "4CrDEHL7ysNabeYvL3xjUX",
+          "name": "skytech"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27329c835bd2d4135cdb3d2ceb9",
+      "uri": "spotify:album:2IXB2tAEhZvAXzWaXwxgU8",
+      "name": "eternal harmony [fyh 450 anthem]",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5B9q1NRokzWYB7nSgnlHyv",
+          "name": "giuseppe ottaviani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389d0741e4fc2e4e3b8c6fc6e",
+      "uri": "spotify:album:7Fe8eCGDi500F9Szqg9cVW",
+      "name": "a love like you (uplifting mix)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        },
+        {
+          "spotify_id": "5T8x61HRsjZo0CwH1rs6Kf",
+          "name": "susana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef5b06d93afbfdc276ae8d00",
+      "uri": "spotify:album:1I6COIY4KtHYGA4RdvYyLJ",
+      "name": "trance is the rhythm",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4e4376b63f257a95192bd25",
+      "uri": "spotify:album:2yWJE35QrYR7meLKxVmB4l",
+      "name": "infinity",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76XdtT24UoOpK3VozOIiv1",
+          "name": "arisey"
+        },
+        {
+          "spotify_id": "0MbNVlhZXJ8Yg1EsYpkinG",
+          "name": "vassmo"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e50e633ab2910fd1af23116",
+      "uri": "spotify:album:0JP7MmkQdZEOgkzDz0RCSH",
+      "name": "a love like you",
+      "album_type": "single",
+      "release_date": "2025-03-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        },
+        {
+          "spotify_id": "5T8x61HRsjZo0CwH1rs6Kf",
+          "name": "susana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324f455ad8ea12702a3ba1333",
+      "uri": "spotify:album:7GiQrvDzCg0n3Ge5jcjbRa",
+      "name": "illuminate",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "76XdtT24UoOpK3VozOIiv1",
+          "name": "arisey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337dc47c7295f92e0c518bb86",
+      "uri": "spotify:album:0LNNAc41Is2Sl4eMYZB6dK",
+      "name": "the prophet",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ece927065bbc89489969ed6",
+      "uri": "spotify:album:32UHwOerbmugIXi0yvhZ0m",
+      "name": "dudadu (remix)",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "76XdtT24UoOpK3VozOIiv1",
+          "name": "arisey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f760a40e372bcbf312003b53",
+      "uri": "spotify:album:4xrMGSUsqFpPhz860U3Gdp",
+      "name": "kids",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7LjoOGD9rMWkR8clGUu2Id",
+          "name": "fahjah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357e787b8f3f476c8ce01dbfa",
+      "uri": "spotify:album:5PzjnmJ6nwYHJKmZWuH93r",
+      "name": "euphoria (club mix)",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "51BgE8J8VoDwG5Ee8tt3D8",
+          "name": "emilya buchan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4e8090ffd9fca56f42b9aa0",
+      "uri": "spotify:album:6Z8IMYRdfZtSu3w8XmtZ8F",
+      "name": "can we still feel",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3ZejoaXlP3oqmmTseylLDY",
+          "name": "adara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c7b895771eef2d9c8df587e",
+      "uri": "spotify:album:0GUhpHXyHwDJh3fzaHOBFS",
+      "name": "get you down (feat. francis waves)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2UP3E5PuFYs6mRpeuXJUq4",
+          "name": "takis"
+        },
+        {
+          "spotify_id": "2MtNvH6rCmF6fZW5FhIzlo",
+          "name": "francis waves"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ca0e9bf68a0b8210494a0b",
+      "uri": "spotify:album:4RiZ5MRGIHjydfeuBkxj3u",
+      "name": "i need some lasers",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7gIEIIwEUPxZmScP2JCkPU",
+          "name": "tensteps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739758d1512f6f7fb61705a45a",
+      "uri": "spotify:album:49ZQXegIl1NxIsZgkpcCUs",
+      "name": "the abyss",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa43945e21e5aed9f6fd323f",
+      "uri": "spotify:album:0LsXTpAnO0Amo8pLyfG8GS",
+      "name": "one more memory (uufo remix)",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6kzds0MHGhlYiJBOBeS9dQ",
+          "name": "uufo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c29eb383a7bc792aae25a39",
+      "uri": "spotify:album:32tsnfP35TNo3f1N8y3Mw3",
+      "name": "the way of harmony (fyh 400 anthem)",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab54ebb13f74903d969bbe46",
+      "uri": "spotify:album:5fMcmDSfACAFgHhO8YJJFd",
+      "name": "euphoria",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "51BgE8J8VoDwG5Ee8tt3D8",
+          "name": "emilya buchan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273025dad2afa1cd501dc56a489",
+      "uri": "spotify:album:67MvBZidQVloKR0apkep7Y",
+      "name": "memoria eterna",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371782c173ac1db4c85a68039",
+      "uri": "spotify:album:0fAVJyzfy7Tt4VBeWH3EYT",
+      "name": "let me love you",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7gIEIIwEUPxZmScP2JCkPU",
+          "name": "tensteps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c152a50eedc58c0f3953153b",
+      "uri": "spotify:album:2Xvv4ddune0hxsoX9646Zf",
+      "name": "rescue me (den kayo remix)",
+      "album_type": "single",
+      "release_date": "2023-12-22",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bdb3617372a29ff9da647b5",
+      "uri": "spotify:album:5txP0AowRvEvwoQljq616P",
+      "name": "all falls down (smr lve remix)",
+      "album_type": "single",
+      "release_date": "2023-11-24",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4h5iVy88coDjOop3wM2wTp",
+          "name": "florentin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308e35d07c4d2b4859e89ab2b",
+      "uri": "spotify:album:0VXFRwsNfCefemsrx9dMUU",
+      "name": "alone (ilan bluestone remix)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318e032fceac7224a1307f827",
+      "uri": "spotify:album:4Do03K1iGcRHwLgtr5uVcJ",
+      "name": "one more memory",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313169dbcf525dbf6b9453aa4",
+      "uri": "spotify:album:20ofbJKvMiCjEzxxcjvDrc",
+      "name": "electron",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7wVdHjM4odGF5lGsqVSHJT",
+          "name": "saberz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734442d6f36deb3aa8f59f94f8",
+      "uri": "spotify:album:7HrcX0abyUxFmgpVpFPN9y",
+      "name": "feel alive",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "06t1RxKOvEjISHqQBquslE",
+          "name": "smr lve"
+        },
+        {
+          "spotify_id": "4TSqSBlGY1wV5qhnX6vVwB",
+          "name": "eric lumiere"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f81845049d3b0224d9b485c3",
+      "uri": "spotify:album:1ii7HFZqB3TQTwVnm5xoVf",
+      "name": "from this day on (ben gold remix)",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6UAyCjS0OPMd1Ham8bvs9g",
+          "name": "jes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315efdb8d45185d348df8c78a",
+      "uri": "spotify:album:2XREgStTxESxteE6zjSq93",
+      "name": "lifeline (fisherman remix)",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ea276367d39a0491a323e57",
+      "uri": "spotify:album:4IskRlDi5nv1zrDgNvL9Lf",
+      "name": "the source of harmony (fyh 350 anthem)",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738dd6b248ae0d190fb4ba4202",
+      "uri": "spotify:album:5K08ReQG2h8OKy8U0SDYEZ",
+      "name": "silence (andrew rayel & achilles remix)",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0IUq1plF3ON4Fboj1bE6kN",
+          "name": "delerium"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1BgLi10FdtjQtMigV9Ddka",
+          "name": "achilles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735585b02152e1e65dfb14889a",
+      "uri": "spotify:album:0zH92PAr8kgi2Nu6y0AJUX",
+      "name": "lifeline",
+      "album_type": "album",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 34,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733567c548d2b7cc515491cbe8",
+      "uri": "spotify:album:2igoMxoo36sYPFkhiN5vky",
+      "name": "shine like you",
+      "album_type": "single",
+      "release_date": "2023-01-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6StTE02qIwbcJjGEDSZgg5",
+          "name": "avian grays"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f3fa8d43c2c589aed22c6ca",
+      "uri": "spotify:album:4buYDZRhhahsMpdfw5Lfnc",
+      "name": "sleepwalking",
+      "album_type": "single",
+      "release_date": "2023-01-06",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0pnxrtBsRrvxeBTjHduofB",
+          "name": "mike schmid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273426d84584b55e7ad0fd93ef0",
+      "uri": "spotify:album:438goI77A2qaRr5NiOGyeN",
+      "name": "find your harmony radio year mix 2022",
+      "album_type": "album",
+      "release_date": "2023-01-04",
+      "release_year": "2023",
+      "total_tracks": 188,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734708e040ddb16d1ebe76ce7b",
+      "uri": "spotify:album:3Qm5ATstJ39ESEemCQIP0d",
+      "name": "i wish",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        },
+        {
+          "spotify_id": "6btaXnQC9Dn7HpqVderpBh",
+          "name": "jimmy chou"
+        },
+        {
+          "spotify_id": "7AF04fxdnfv9qKODrd0poh",
+          "name": "that girl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab8632da71040462475316e1",
+      "uri": "spotify:album:04tTkRV1SlSRzbVT8ffSUH",
+      "name": "shades",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e1fb9940db39a4ea3a55d94",
+      "uri": "spotify:album:29CpxxzogtOtTZyyRXsxAM",
+      "name": "lifeline",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9b2bbed36401e48a9ad3cb8",
+      "uri": "spotify:album:6kOKVanj7FIaCU0WnW8OmR",
+      "name": "feels like home",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ac8bcfa797f38503601fcbb",
+      "uri": "spotify:album:4CV2dOzolYcY4WFNBAxlF5",
+      "name": "get down",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "25DnzR3jtrD8StkyyRCvHR",
+          "name": "roman messer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf358d136f804ab89a89f695",
+      "uri": "spotify:album:2ZJf7gfgTweZH2lWKOz6a8",
+      "name": "wild feelings (club mix)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4sW5R5XKTge9Vwv44p9p18",
+          "name": "sam gray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c249bca75f5eaded0a91aeb2",
+      "uri": "spotify:album:17TGEm4wMlnsBYHyuiq4tB",
+      "name": "wild feelings",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4sW5R5XKTge9Vwv44p9p18",
+          "name": "sam gray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d246e9b0ed92d02df7ca3d",
+      "uri": "spotify:album:5AB3WaFN1toVfXKZIPlGEs",
+      "name": "elements of harmony (fyh 300 anthem)",
+      "album_type": "single",
+      "release_date": "2022-04-01",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d373ac44b15afd9872f0bf95",
+      "uri": "spotify:album:5zwKhodHyJEp5xysahPX0U",
+      "name": "do it to it (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4pnp4w9g30yLfVIAFnZMRd",
+          "name": "acraze"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8360affb55e91a54290f64d",
+      "uri": "spotify:album:2v82jZqNlMDsmlbXs5Zj5j",
+      "name": "closer (remixes)",
+      "album_type": "single",
+      "release_date": "2022-02-16",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2UP3E5PuFYs6mRpeuXJUq4",
+          "name": "takis"
+        },
+        {
+          "spotify_id": "0t1AIXeal0Ft3mI8ML89JZ",
+          "name": "zagata"
+        },
+        {
+          "spotify_id": "7rznn3BVOuA5jyPB275jmS",
+          "name": "avira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abdb145616a11526755ec1fc",
+      "uri": "spotify:album:4Mkk9E6bIQiyGU1Ng0LOf2",
+      "name": "closer (avira remix)",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2UP3E5PuFYs6mRpeuXJUq4",
+          "name": "takis"
+        },
+        {
+          "spotify_id": "0t1AIXeal0Ft3mI8ML89JZ",
+          "name": "zagata"
+        },
+        {
+          "spotify_id": "7rznn3BVOuA5jyPB275jmS",
+          "name": "avira"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273802ed44378b0d31fd6e546a7",
+      "uri": "spotify:album:2aTeWU9c4zvgtFcbTwnvUx",
+      "name": "horizon (da tweekaz remix)",
+      "album_type": "single",
+      "release_date": "2021-12-10",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3n1yZfKIQhSaPjF1LZBhxy",
+          "name": "lola blanc"
+        },
+        {
+          "spotify_id": "6UOk7DmvqlzWmo6gjhZvn6",
+          "name": "da tweekaz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321fe85371a5fb04c8036c72e",
+      "uri": "spotify:album:5JtNirVAEcCeiUdZzrdnTK",
+      "name": "closer",
+      "album_type": "single",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2UP3E5PuFYs6mRpeuXJUq4",
+          "name": "takis"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325a67b7c9c684f871098bf6d",
+      "uri": "spotify:album:3RGksKfyC9zmpjoXYuU5ue",
+      "name": "blue roses",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351180fc56e61cc0fa08e9f43",
+      "uri": "spotify:album:4krrBEqlmIjFq6ck94pcJ9",
+      "name": "ascendit ad paradisum",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308d8616529023c181222110f",
+      "uri": "spotify:album:55OTSR8a7JFIXS4cuCNhvX",
+      "name": "river",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a5481d60b3c8c96048c05ab",
+      "uri": "spotify:album:5BfCPeC07U2njo9T7qZfzh",
+      "name": "carry you home (ashley wallbridge remix)",
+      "album_type": "single",
+      "release_date": "2021-07-02",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7gIEIIwEUPxZmScP2JCkPU",
+          "name": "tensteps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c86397c99fea42f765518b3",
+      "uri": "spotify:album:255PbZx1TF61eXHPTWtmaa",
+      "name": "big sky (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6H2JQ8igAAa5UBr2u496mb",
+          "name": "john o'callaghan"
+        },
+        {
+          "spotify_id": "0RC0nC8QI7l4NXAOqDsamQ",
+          "name": "audrey gallagher"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a4e28e73220f5aa56570976",
+      "uri": "spotify:album:7GCPRTxDOSruhkaFpmCuoH",
+      "name": "silver lining (remixes)",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739be012aa11634597960ae250",
+      "uri": "spotify:album:6Nx2oOLRv21bvrrwqQLKpm",
+      "name": "my harmony (fyh 250 anthem)",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f341ca70353e036117a38ff4",
+      "uri": "spotify:album:3mgNoGMZYQBpMaenW0VVBc",
+      "name": "silver lining (dubvision remix)",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f75a34ab738cf95dab43b10c",
+      "uri": "spotify:album:2qfO6bE4Wg35A0vmG27FJd",
+      "name": "you'll be ok - andrew rayel remix",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b37569998e9c87b66795540",
+      "uri": "spotify:album:2AtVwllTsvuXlFKUvu9lCU",
+      "name": "silver lining",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5baf6edf711e049081923dd",
+      "uri": "spotify:album:55eRmv7hkXUNm1uObyaQr1",
+      "name": "carry you home",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "7gIEIIwEUPxZmScP2JCkPU",
+          "name": "tensteps"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397558aa8f5d0b48c16c8e7f3",
+      "uri": "spotify:album:2BSZXtkN7Me07hkPdtzEBF",
+      "name": "everything everything (cosmic gate remix)",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0DCRUk25XIiRFiNtiuR8OR",
+          "name": "olivia sebastianelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312603b388a1038f668492470",
+      "uri": "spotify:album:4axw7Ofefm7d6aeXS0QKTz",
+      "name": "never going down (richard durand remix)",
+      "album_type": "single",
+      "release_date": "2020-09-25",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273884ce91a561ef64d2d2c462f",
+      "uri": "spotify:album:3V7jfhcfEWFSYqzDgq9f3E",
+      "name": "everything everything",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0DCRUk25XIiRFiNtiuR8OR",
+          "name": "olivia sebastianelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734acfeb45c2390b3a473a64d4",
+      "uri": "spotify:album:4PWtkPId5lcGGeGDtuABpT",
+      "name": "stars collide (remixes)",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e0d27271118f463e04726a6",
+      "uri": "spotify:album:2VCBdJ3w6GgnK3d8Xogfup",
+      "name": "dark warrior (chris schweizer remix)",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2OEfOu8gvperJc2LcqGsjc",
+          "name": "chris schweizer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a03a6bb9b8387385d9f56881",
+      "uri": "spotify:album:3xs2OmNqtkd9BZYGjvB6C6",
+      "name": "dark warrior (chris schweizer remix)",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2OEfOu8gvperJc2LcqGsjc",
+          "name": "chris schweizer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a15e72de57722c64b5593dc",
+      "uri": "spotify:album:6rNHkZrrkA3Qn1SB1GmWYR",
+      "name": "never going down",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "70bIIPbBQeaFzRrIfahMEM",
+          "name": "roxanne emery"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5de327b7c221a8e8e954fdf",
+      "uri": "spotify:album:7r5Lc8Pu6txZ7U8Yl3uRZZ",
+      "name": "a state of trance classics - mix 003: andrew rayel",
+      "album_type": "album",
+      "release_date": "2020-04-14",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315faebc6f6c2f46a0cbb1653",
+      "uri": "spotify:album:08Wpwh7UfgWCcRTJqhwkYd",
+      "name": "stars collide",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6jbM9dszTY66L2Q7E1U0ll",
+          "name": "robbie seed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732aa7119ed24dcdb28e9e0cba",
+      "uri": "spotify:album:4ZcQwk0Et3xdw3Q4wvMHxU",
+      "name": "find your harmony volume 1 (mixed by andrew rayel)",
+      "album_type": "album",
+      "release_date": "2020-02-24",
+      "release_year": "2020",
+      "total_tracks": 36,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d70e779572df0130347561f",
+      "uri": "spotify:album:2Hg0OpoMX4Sb3abbJiMv3y",
+      "name": "dark side of the harmony (fyh 200 anthem)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273659187ca3616b87d26adb1eb",
+      "uri": "spotify:album:40HvKolzic0O6swSeEp4Cx",
+      "name": "light side of the harmony (fyh 200 anthem)",
+      "album_type": "single",
+      "release_date": "2020-01-31",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f714c4c66c73f6e5df5a245d",
+      "uri": "spotify:album:3iNXZhAhuRQnbZjft6d4x6",
+      "name": "andrew rayel mini mix 1",
+      "album_type": "album",
+      "release_date": "2019-11-08",
+      "release_year": "2019",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b872da20e3654d0700250a99",
+      "uri": "spotify:album:0QXrGOBOojox30XI3hJKCp",
+      "name": "kick, bass & trance",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4RmAhGivMUHqfvIj7yNzY2",
+          "name": "chukiess & whackboi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ecaa8abce5182e8f603fc41",
+      "uri": "spotify:album:5AH6VDZQMPbNHay7E4Nb2W",
+      "name": "take all of me (eric senn remix)",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        },
+        {
+          "spotify_id": "3KmL93JzMgef05UbqiquED",
+          "name": "eric senn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366b4eb4a612e7171f6a28ab7",
+      "uri": "spotify:album:5v9uiareTAr8kNIVnzBB6b",
+      "name": "originem (fyh 150 anthem) [husman remix]",
+      "album_type": "single",
+      "release_date": "2019-08-23",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "38IfmizrHTCxFjd8UKhWnp",
+          "name": "husman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc26435fef6a6d92eac7dad0",
+      "uri": "spotify:album:2WAP9JhhziDD3BCrqIfAbd",
+      "name": "take all of me",
+      "album_type": "single",
+      "release_date": "2019-07-19",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb19c7fbd9291e5f2eb58970",
+      "uri": "spotify:album:6yxPKH7T6smRGMTA3sb1a6",
+      "name": "tambores (blastoyz remix)",
+      "album_type": "single",
+      "release_date": "2019-06-07",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2hb8TTJ9ti4jl8sMasI3Dv",
+          "name": "graham bell"
+        },
+        {
+          "spotify_id": "6WLP1sraOcF3Gaxp7xBa4p",
+          "name": "blastoyz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733956549e905a5e51d36d7b17",
+      "uri": "spotify:album:3L7KoBgGt43a5dhksVxAIe",
+      "name": "originem (fyh 150 anthem)",
+      "album_type": "single",
+      "release_date": "2019-03-22",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364b3ba6db60e54f3b5675500",
+      "uri": "spotify:album:5vjeDrbP2z9eFTeL5RKStR",
+      "name": "lifting you higher (asot 900 anthem) [andrew rayel remix]",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bdd228894aad9bf2a815230",
+      "uri": "spotify:album:1rJCmHbLCPoOpcx6aKr9Tk",
+      "name": "the melody",
+      "album_type": "single",
+      "release_date": "2019-02-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "558dSyN1mMqsKrEBcKJ2p0",
+          "name": "nwyr"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcf9fb5c5ff19627b78099bc",
+      "uri": "spotify:album:0N162G7vbYbb9jgB3mccCo",
+      "name": "horizon (aether mix)",
+      "album_type": "single",
+      "release_date": "2018-11-23",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a580f424f0cd4cde0cfe734",
+      "uri": "spotify:album:000TLEQ44jz9hNveByvlgj",
+      "name": "miracles / how do i know",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3fee3b2dceb5270c6ebe705",
+      "uri": "spotify:album:1OmEcfWhws3HGhtDczW4vi",
+      "name": "last summer (andrew rayel & drym club mix)",
+      "album_type": "single",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5aP2E8K4LY86fUERVzZlnX",
+          "name": "garibay"
+        },
+        {
+          "spotify_id": "0kDuIuxZhlgE9XYRy6NVSq",
+          "name": "drym"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c7eb78970f0e2121bf3b9e2",
+      "uri": "spotify:album:5dDBIeTG5ycqBUh1ufcxfV",
+      "name": "my reflection (roman messer remix)",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "25DnzR3jtrD8StkyyRCvHR",
+          "name": "roman messer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732463fa9d71bb235244b2678f",
+      "uri": "spotify:album:1ndfsmNtIDSCLrDluebkk1",
+      "name": "trance reborn (fyh100 anthem) [mark sixma remix]",
+      "album_type": "single",
+      "release_date": "2018-09-14",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "66B0qssqmVQXJGf9cmTNKi",
+          "name": "david gravell"
+        },
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273201200c73e064ee7651e2a55",
+      "uri": "spotify:album:7xObK6KgW3Pr7zjQqHFq69",
+      "name": "last summer",
+      "album_type": "single",
+      "release_date": "2018-08-03",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5aP2E8K4LY86fUERVzZlnX",
+          "name": "garibay"
+        },
+        {
+          "spotify_id": "6nm4djgpdFFLFs9QvU7cqq",
+          "name": "jake torrey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d81d84fb17dee33c829543d0",
+      "uri": "spotify:album:3bNZq63P9JATcvrj9uwEU7",
+      "name": "new dawn",
+      "album_type": "single",
+      "release_date": "2018-07-06",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0v0dCyLQpm5BcEL90AcnBK",
+          "name": "corti organ"
+        },
+        {
+          "spotify_id": "4OL00QwpARYXnPtZCoHygu",
+          "name": "max cameron"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273797b3d358e6f8e0603c6e25a",
+      "uri": "spotify:album:30Y4D9JD4BFP5ubBJOUhU8",
+      "name": "in the dark",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330f2de685901ecdd68e1e3b9",
+      "uri": "spotify:album:6oXAH2z4OdmRdgR96OSxFT",
+      "name": "dark resistance",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321bfa2655a16ff9967126240",
+      "uri": "spotify:album:22quIuhxzeAnA13aEstn92",
+      "name": "tambores",
+      "album_type": "single",
+      "release_date": "2018-04-20",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2hb8TTJ9ti4jl8sMasI3Dv",
+          "name": "graham bell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738133de3db9da4f47789d903c",
+      "uri": "spotify:album:5aZHc02cjzmIqAwj3qm5xH",
+      "name": "moments (remixes - ep3)",
+      "album_type": "single",
+      "release_date": "2018-03-23",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738440394acbac5da813b9817e",
+      "uri": "spotify:album:4S3O5xsOnfi5CJX2yZX6mT",
+      "name": "trance reborn (fyh100 anthem)",
+      "album_type": "single",
+      "release_date": "2018-03-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "66B0qssqmVQXJGf9cmTNKi",
+          "name": "david gravell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737282f13ae06edd14135a8e82",
+      "uri": "spotify:album:157a5t3pfRrjhKakkCkiij",
+      "name": "horizon",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3n1yZfKIQhSaPjF1LZBhxy",
+          "name": "lola blanc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c60760ba0f6532b8964cb55b",
+      "uri": "spotify:album:4yWrloP0L4M0ULRcqj4KYw",
+      "name": "moments (remixes - ep2)",
+      "album_type": "single",
+      "release_date": "2018-01-12",
+      "release_year": "2018",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379a74e170be1b03da71b0506",
+      "uri": "spotify:album:5efaXYt8CdS3pjUK1SOB4g",
+      "name": "moments (remixes - ep1)",
+      "album_type": "single",
+      "release_date": "2017-12-15",
+      "release_year": "2017",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e40c8340772e6024fe33a36",
+      "uri": "spotify:album:0o6DLCuumbo6DNnDlWsKVS",
+      "name": "soul on the run",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6fMpfNgqaXdCWbsnXS9hCo",
+          "name": "bogdan vix"
+        },
+        {
+          "spotify_id": "7H78sYLylk6qS6b8ZuPuFo",
+          "name": "keyplayer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a29a05099a3dabe8d4e7a3c2",
+      "uri": "spotify:album:0ABBAR7i7QkOD0WyrNcxpS",
+      "name": "missing (andrew rayel & mark sixma remix)",
+      "album_type": "single",
+      "release_date": "2017-11-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b79a664b3c0c6d697d1600d",
+      "uri": "spotify:album:7jH4i7pHuJ9D2fWEnXMmBq",
+      "name": "dark warrior (willem de roo remix)",
+      "album_type": "single",
+      "release_date": "2017-10-09",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6uIQlsfvEEff8QASl5FAf3",
+          "name": "willem de roo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be975d2e6ddfbf1baeb83cab",
+      "uri": "spotify:album:3h89AhJjVL73xmeK13bxY6",
+      "name": "mass effect",
+      "album_type": "single",
+      "release_date": "2017-09-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735323a24a6a45b72fbce3c7bd",
+      "uri": "spotify:album:2ZBKbZSIih4oVts9U63Mak",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8e737b316ad6cb82d530fc4",
+      "uri": "spotify:album:5VAIDD9QQfu2fF9jCiytsf",
+      "name": "i need you (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2017-08-10",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "5aP2E8K4LY86fUERVzZlnX",
+          "name": "garibay"
+        },
+        {
+          "spotify_id": "7Fb4bPwUT0mrtDXt2qmJEp",
+          "name": "olaf blackwood"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e975382b06af8316f2780395",
+      "uri": "spotify:album:2BGQDcXVpeOef9XcxUyvqL",
+      "name": "never let me go",
+      "album_type": "single",
+      "release_date": "2017-07-21",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b67f90098da1277e188616",
+      "uri": "spotify:album:7DJmTFCdSAhZBzE3HEStim",
+      "name": "heavy love",
+      "album_type": "single",
+      "release_date": "2017-06-19",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "6Tu9KiWKN5ENQ2VjGCVN18",
+          "name": "max vangeli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318c435c2245df35bc2d815a3",
+      "uri": "spotify:album:70ZZdikTYFqLMp1IqVxP0M",
+      "name": "lighthouse",
+      "album_type": "single",
+      "release_date": "2017-05-22",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1dbzT291PCwwYJK0l3Tr1n",
+          "name": "christina novelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ed39bb11751997b9ea560b9",
+      "uri": "spotify:album:4x7dloXwgTr3YWl0lRCDEM",
+      "name": "moments",
+      "album_type": "album",
+      "release_date": "2017-05-05",
+      "release_year": "2017",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319d2e5bf4217bf89536e7702",
+      "uri": "spotify:album:58amlzJrZxLUOKEQDaFMtc",
+      "name": "my reflection",
+      "album_type": "single",
+      "release_date": "2017-04-14",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "emma hewitt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c1406856d0caf090660dc70",
+      "uri": "spotify:album:7DAJjEkmNal9Phu0105RyO",
+      "name": "tacadum",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310f423b42dce93fa1234cc73",
+      "uri": "spotify:album:5awsfIlOCtHAbzyHic1eOj",
+      "name": "connected",
+      "album_type": "single",
+      "release_date": "2017-02-23",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "atb"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ff67887653269257accce7b",
+      "uri": "spotify:album:2ZVES7xUbAZJT6ne4jjvRM",
+      "name": "i'll be there",
+      "album_type": "single",
+      "release_date": "2017-02-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0380f2aefd7a54569f5b07d",
+      "uri": "spotify:album:2BC5bBMhMnydMC92TA8Jto",
+      "name": "take it all",
+      "album_type": "single",
+      "release_date": "2016-12-02",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4I22x3YxEveEfbtVDj54H3",
+          "name": "jochen miller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273140536b87837744a4b1b06a5",
+      "uri": "spotify:album:38MDUzivNTa9ivIIXTDX6M",
+      "name": "once in a lifetime love (deem remix)",
+      "album_type": "single",
+      "release_date": "2016-10-21",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5SAoKrnGj0ih1pnEUKpx10",
+          "name": "deem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732941214b9754aa92e815390f",
+      "uri": "spotify:album:6WX1YX8555ngXB5zlCJnBh",
+      "name": "all systems down",
+      "album_type": "single",
+      "release_date": "2016-08-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4ngwbMFTQKrLkLfREBYrvW",
+          "name": "khomha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731911d44dd86156988d9399f8",
+      "uri": "spotify:album:6ZsQCmjDNxcCem1QReag93",
+      "name": "winterburn (remixes)",
+      "album_type": "single",
+      "release_date": "2016-07-29",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3Dtxw1PMmpzH5QFy0lf95c",
+          "name": "digital x"
+        },
+        {
+          "spotify_id": "0DhprLDFQGaundr4WVi9P1",
+          "name": "sylvia tosun"
+        },
+        {
+          "spotify_id": "6NuXlqTU1RF0aIoyD46z5v",
+          "name": "jorn van deynhoven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390614468d6ab4f1c34d75caf",
+      "uri": "spotify:album:1shtFnPFHvVLQ0PvqkdDhq",
+      "name": "embrace (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2016-07-10",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "0GJnVOotvnAmZvUYL8Kpmx",
+          "name": "eric vloeimans"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c353c91e54a84ad22845861",
+      "uri": "spotify:album:2ShCHVtcR1ObPRjL67Xtk6",
+      "name": "epiphany",
+      "album_type": "single",
+      "release_date": "2016-05-20",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385b82e4dd576ee18de591a49",
+      "uri": "spotify:album:6Bg5EMkKZ0YYEkj9xt5bvA",
+      "name": "once in a lifetime love",
+      "album_type": "single",
+      "release_date": "2016-04-08",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733bf5b809367b80c8e1f410b6",
+      "uri": "spotify:album:7wEw4ml16tZM7JkLGH8SmX",
+      "name": "winterburn (geert huinink orchestral version)",
+      "album_type": "single",
+      "release_date": "2016-03-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3Dtxw1PMmpzH5QFy0lf95c",
+          "name": "digital x"
+        },
+        {
+          "spotify_id": "6ncG5N8m6aJt82ZKsQ1YpZ",
+          "name": "geert huinink"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c01b71bc80903645a675ef6e",
+      "uri": "spotify:album:39yINRdDuzbB34fpiMtY7I",
+      "name": "winterburn",
+      "album_type": "single",
+      "release_date": "2016-01-15",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3Dtxw1PMmpzH5QFy0lf95c",
+          "name": "digital x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e60eeb861a49b1351f373d37",
+      "uri": "spotify:album:4cqPmJNO8RetELnv0BMg3s",
+      "name": "rise of the era",
+      "album_type": "single",
+      "release_date": "2015-12-18",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337f50b4fe5c95cb69618520b",
+      "uri": "spotify:album:1Dks2uuypEb7z8UVS8fiY8",
+      "name": "chased",
+      "album_type": "single",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "mark sixma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273126cba86af75a85493029f7b",
+      "uri": "spotify:album:3FIhkz50MMJcVgSzQR83Ed",
+      "name": "mimesis",
+      "album_type": "single",
+      "release_date": "2015-08-21",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4zNhfG6i4QlfUuzt1hBGu2",
+          "name": "alexander popov"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bfa8c41678e0d0e4ac47fbf",
+      "uri": "spotify:album:4UoUVDKDPzGxHmgD37k8zh",
+      "name": "daylight (club mix)",
+      "album_type": "single",
+      "release_date": "2015-08-07",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eef01a666f0cbec11a36300",
+      "uri": "spotify:album:2DHGWEZmspTTCFhHDkKMjG",
+      "name": "find your harmony (deluxe edition)",
+      "album_type": "album",
+      "release_date": "2015-05-22",
+      "release_year": "2015",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738201d9b9183d85daba9a0436",
+      "uri": "spotify:album:5RulLZkzk9aThR6uHGwuoq",
+      "name": "daylight",
+      "album_type": "single",
+      "release_date": "2015-05-18",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eee19aec5179ca58998d2158",
+      "uri": "spotify:album:79ilcIxRu8q1Aq7P2MN7zL",
+      "name": "until the end (marlo remix)",
+      "album_type": "single",
+      "release_date": "2015-05-08",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5Ft69LRmkksL2qyqsQ9XXp",
+          "name": "jwaydan"
+        },
+        {
+          "spotify_id": "2kd1zg9ZyGG6WjZO2dAsFd",
+          "name": "marlo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d0bf5d8288a6b481faefa05",
+      "uri": "spotify:album:5zgtvWhjU5bnnBK1135B9n",
+      "name": "how do i know (arston remix)",
+      "album_type": "single",
+      "release_date": "2015-05-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "2bEpVkue70dmlcE7obIGW2",
+          "name": "arston"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9fdccee079f5ce8c9f2b3ea",
+      "uri": "spotify:album:3ZWY8a9EgUQlPRRuq81eZ3",
+      "name": "impulse (omnia remix)",
+      "album_type": "single",
+      "release_date": "2015-04-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "0XZkeCAlpiO5qcIlAJzZaA",
+          "name": "omnia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a683277a6d614cf3a5c80fe9",
+      "uri": "spotify:album:6nKz2anGafZaUzuGd9tP9Q",
+      "name": "we bring the love",
+      "album_type": "single",
+      "release_date": "2015-04-17",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386f34180d9488341221731fc",
+      "uri": "spotify:album:4sBbrAaRyDEIN7k0VU2M6Q",
+      "name": "dark warrior (dannic remix)",
+      "album_type": "single",
+      "release_date": "2015-04-13",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "dannic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c25ed5b8ae4be2a3abd7610",
+      "uri": "spotify:album:7pG93DgBit2tddpbyjtzPS",
+      "name": "miracles",
+      "album_type": "single",
+      "release_date": "2015-02-23",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1hu8RDN5gKsi2YYvWTOAqY",
+          "name": "christian burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3e0c8401873925acef56fb1",
+      "uri": "spotify:album:6TlIj6Tdbaq0g0nir6KDSU",
+      "name": "save my night (andrew rayel remix)",
+      "album_type": "single",
+      "release_date": "2015-02-09",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c02333e07c8ee4e15a2ff8b5",
+      "uri": "spotify:album:2N2lyeiqgyyqP9QUyS8TGm",
+      "name": "eiforya (bass modulators remix)",
+      "album_type": "single",
+      "release_date": "2014-11-28",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "1Uk4IDpF1OIuTzANugS5JC",
+          "name": "bass modulators"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a146e193b26b5ad1d57323c",
+      "uri": "spotify:album:5XiulDPlwdYsAtto9WK1mC",
+      "name": "followed by darkness",
+      "album_type": "single",
+      "release_date": "2014-11-24",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0406fa9557a3a021473d391",
+      "uri": "spotify:album:0JaRvf9xPoLHbxxjicgayW",
+      "name": "one in a million",
+      "album_type": "single",
+      "release_date": "2014-08-18",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5d1oOpLkM76Tgr2zWMTYkm",
+          "name": "jonathan mendelsohn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371b94f6e483330f9e647d898",
+      "uri": "spotify:album:5PRJTUvEh6MfJAp1fLXWCv",
+      "name": "find your harmony",
+      "album_type": "album",
+      "release_date": "2014-05-30",
+      "release_year": "2014",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739adb3624c749bc406f3aa79b",
+      "uri": "spotify:album:3gJWnnK2FmDCBM7gS2jTXj",
+      "name": "eiforya (talla 2xlc 140 remix)",
+      "album_type": "single",
+      "release_date": "2014-05-05",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4cc7cII4mEQqKtczWKQVjJ",
+          "name": "talla 2xlc"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273098a314140fc433be0cc0703",
+      "uri": "spotify:album:49Np9pd2JDLr7BcYYgeKU8",
+      "name": "goodbye",
+      "album_type": "single",
+      "release_date": "2014-05-02",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "4HoXJ3c9TIwcRwnEjIj4a7",
+          "name": "alexandra badoi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4d8e0fde2eb015d68cf502c",
+      "uri": "spotify:album:40IMv2dwOU1C6ZSuuolZzk",
+      "name": "eiforya",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea0cf39a50befaa0e3f418e4",
+      "uri": "spotify:album:3vQ3k7WRKnaNuPdOEUkIQJ",
+      "name": "dark warrior",
+      "album_type": "single",
+      "release_date": "2013-12-16",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273708876a1d30a6ae6aa24cba0",
+      "uri": "spotify:album:52w637aDwbWWOir29kROGo",
+      "name": "until the end",
+      "album_type": "single",
+      "release_date": "2013-09-30",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "5Ft69LRmkksL2qyqsQ9XXp",
+          "name": "jwaydan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ec38ed48db3237179ac5fe9",
+      "uri": "spotify:album:2RFzquuupDgDcqD5MJWKs1",
+      "name": "we are not afraid of 138",
+      "album_type": "single",
+      "release_date": "2013-09-09",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        },
+        {
+          "spotify_id": "67ZSnsSlSHDh8BU9BVHChm",
+          "name": "alexandre bergheau"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273681152fcafb3830fd7e42c6c",
+      "uri": "spotify:album:4NzAsa7gg62bukWKYjCubu",
+      "name": "sacramentum",
+      "album_type": "single",
+      "release_date": "2013-06-24",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7H63wD8xWXAKdYVjZmE90B",
+          "name": "bobina"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fbb710ba587956559ec6887",
+      "uri": "spotify:album:3Vnv0RIL17DSItfPwv3Djz",
+      "name": "zeus / musa",
+      "album_type": "single",
+      "release_date": "2013-04-15",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737173da91280c612b196aea00",
+      "uri": "spotify:album:6DpToFKxTgJOLtvbe2Tgii",
+      "name": "how do i know",
+      "album_type": "single",
+      "release_date": "2012-10-29",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332f88aa4823ab0354f7774e5",
+      "uri": "spotify:album:2M1t6jQIgw1zlE5bMlsFwR",
+      "name": "the space track (andrew rayel stadium remix)",
+      "album_type": "single",
+      "release_date": "2012-10-08",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7H63wD8xWXAKdYVjZmE90B",
+          "name": "bobina"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27378504e12d32d7dec891c0bda",
+      "uri": "spotify:album:0BIx6CQ0NWMWZsj079FWsl",
+      "name": "exponential / coriolis",
+      "album_type": "single",
+      "release_date": "2012-08-27",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fb9c60ffa6471ccd5410ab9",
+      "uri": "spotify:album:4CaWOJyrafdl2xnjFJ9vJo",
+      "name": "aeon of revenge / source code",
+      "album_type": "single",
+      "release_date": "2012-06-25",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737760bca5705bd32954fb176d",
+      "uri": "spotify:album:3053SKCWLXx5xD5y7VEwfI",
+      "name": "550 senta / believe",
+      "album_type": "single",
+      "release_date": "2012-01-02",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c79c797e689f6bb4aecda834",
+      "uri": "spotify:album:47Kf6KskERSK1QagHzxQmr",
+      "name": "an angel's love (andrew rayel aether remix)",
+      "album_type": "single",
+      "release_date": "2011-11-14",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "478tAnskSff0wa0XxnpwmW",
+          "name": "alex m.o.r.p.h."
+        },
+        {
+          "spotify_id": "0DhprLDFQGaundr4WVi9P1",
+          "name": "sylvia tosun"
+        },
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f80426c8dd8066098fb0065b",
+      "uri": "spotify:album:1CKTyLeoOuGtU7Rc4xnIOl",
+      "name": "globalization",
+      "album_type": "single",
+      "release_date": "2011-10-24",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6878c603df184bef59046de",
+      "uri": "spotify:album:0hj22dFu0IluwfqNyGAhOo",
+      "name": "drapchi / deflagration",
+      "album_type": "single",
+      "release_date": "2011-08-08",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371cd61d31c35572fb645eb53",
+      "uri": "spotify:album:0UrC6W9QZlgBc4QGBoMwnv",
+      "name": "we never come back",
+      "album_type": "single",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1UtBjqMZBAmqIPlDrKu7Tr",
+          "name": "andrew rayel"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:02:39.000Z"
+}

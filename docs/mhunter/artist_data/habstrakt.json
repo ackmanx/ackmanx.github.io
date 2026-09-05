@@ -1,0 +1,1566 @@
+{
+  "name": "habstrakt",
+  "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+  "uri": "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd4f9e0206342d45ab98840c2",
+  "genres": [
+    "bass house",
+    "g-house",
+    "dubstep",
+    "bassline"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318e28e2fccd4ed621715bfac",
+      "uri": "spotify:album:5u8LAtgQ9vcp6vTiONUYyJ",
+      "name": "everyday (vip)",
+      "album_type": "single",
+      "release_date": "2026-07-22",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731625dbc44f5a5c6320e38d6a",
+      "uri": "spotify:album:4tTcXAsn8F5urtjioTpHK4",
+      "name": "right here (silcrow remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "4zE0NW3CyaxTBIulekUFMD",
+          "name": "badjokes"
+        },
+        {
+          "spotify_id": "0OKnuRfEYSuoNidEyL52bk",
+          "name": "silcrow"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b720fa76b8f475f82efec998",
+      "uri": "spotify:album:2yNQqnLlFhN1hIltm6tDAC",
+      "name": "mine",
+      "album_type": "single",
+      "release_date": "2026-06-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "4iF8VQ9Avxe5RM3A4ddlvF",
+          "name": "simona shao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edb41ea2a09344d27bdb4a94",
+      "uri": "spotify:album:4H70CGBhsNvP6pAkOQZcsK",
+      "name": "old school",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273029ec08916c9fcd23ce7f276",
+      "uri": "spotify:album:0w70TDSfkeqRlCoHEutHZe",
+      "name": "surge",
+      "album_type": "single",
+      "release_date": "2026-05-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "65Kq02oh0g3gRqfZ0fo8eG",
+          "name": "lizdek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b22c44040a78d19a21c7083",
+      "uri": "spotify:album:36poUrVEJVkcHABIVxlqv3",
+      "name": "everyday",
+      "album_type": "single",
+      "release_date": "2026-04-13",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea6a2e07507930a344348464",
+      "uri": "spotify:album:10pJch7joGi7t4vkd29m84",
+      "name": "4theboys",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734be7be3039b30e55fe55c9e3",
+      "uri": "spotify:album:2C5tVvgXXmaPP6sV2XEkM0",
+      "name": "won't you",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2rxubOde1svVDYAVDy7PDS",
+          "name": "asdek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c4cf1979e9f8bff213295e3",
+      "uri": "spotify:album:2H1tZkDlhFnYzBL4rHmDxs",
+      "name": "off my head",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "3HE2rmc5yd27lV668hRPEV",
+          "name": "elmyx"
+        },
+        {
+          "spotify_id": "4iF8VQ9Avxe5RM3A4ddlvF",
+          "name": "simona shao"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375cf5462fc661f84d7f00ea3",
+      "uri": "spotify:album:6KDoxtsp3kGaBUoBylyvwY",
+      "name": "don't let me down (remixes)",
+      "album_type": "single",
+      "release_date": "2025-11-03",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "4aUyfJwzLfhVjBUIYmGsg5",
+          "name": "julienne by"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273258c99e8ca0f68fdc3b2a738",
+      "uri": "spotify:album:6ioWntlf8RGLq4lhALY9J8",
+      "name": "stay with the tempo",
+      "album_type": "single",
+      "release_date": "2025-09-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac185eb5e240f1dc68e5cbd",
+      "uri": "spotify:album:10bvUyJngTY0LXd7HymOFV",
+      "name": "inwards",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308f12017a0aa8abded67fe2e",
+      "uri": "spotify:album:3wlir7YSKanoErLGZDGg8k",
+      "name": "don't let me down / fade away",
+      "album_type": "single",
+      "release_date": "2025-07-31",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "4aUyfJwzLfhVjBUIYmGsg5",
+          "name": "julienne by"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342fa43132282ff939f1b2352",
+      "uri": "spotify:album:7DlWai8Onmpnr4y69cbazb",
+      "name": "baby (remix)",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "0fVqst4UD6o7SKW6SsWPfU",
+          "name": "nxsty"
+        },
+        {
+          "spotify_id": "64TQUhovZNp3Vt3N49yGTZ",
+          "name": "rya"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d7ae113e46f5e796a16fe87",
+      "uri": "spotify:album:3OGQOeNbg5RwkeMftYy5s9",
+      "name": "from within (part 1)",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f360aeb4e78af0615c51dfc",
+      "uri": "spotify:album:77gXvW2iS5L5dqYTx3JLj6",
+      "name": "alone",
+      "album_type": "single",
+      "release_date": "2025-03-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc679c0d97b173113141a42b",
+      "uri": "spotify:album:1cIH3IuuuiEODW9cEFtufp",
+      "name": "baby",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733159f415acf28a838c320e41",
+      "uri": "spotify:album:5CWX8Gbb9qAuAYCnUIMhfB",
+      "name": "zero200",
+      "album_type": "single",
+      "release_date": "2025-02-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e280a7aefb5bcfd106dd96af",
+      "uri": "spotify:album:52JTe0CSuwJajuH1fWTm2o",
+      "name": "catch me (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2024-12-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "apashe"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d0175df0409ad8e6817b48d4",
+      "uri": "spotify:album:4JNwJJVKB8xlIAVeyrnH1g",
+      "name": "don't stop",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de1947aaa879acdfe173ea25",
+      "uri": "spotify:album:1Ih0ZdvWVSmNmVt14zLCbT",
+      "name": "anita",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "357dDcxIE2hkKGn03PClIF",
+          "name": "yng martyr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734825b9f5ce90bd8891c82b78",
+      "uri": "spotify:album:5yPmLk3SMzOtbkHp9jnivj",
+      "name": "cash",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fb3640192cb65c3b54416f1",
+      "uri": "spotify:album:1ak05kVWCtEdvlCRS5EeZF",
+      "name": "enemy",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "1htHgbGwgCWJBfGiQwcRqC",
+          "name": "dr. fresch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273186220f4c9a9d740c3b1d852",
+      "uri": "spotify:album:17wPkubknanH0ZGF8uB79C",
+      "name": "point (nvadrz & wink remix)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6iPbI11utXY9CVhX6SPXEg",
+          "name": "nitepunk"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "3BsJD0TUVtn1sv29duwMrw",
+          "name": "nvadrz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e69f454a4004a0ea8392097a",
+      "uri": "spotify:album:6j7yO2m7uhjqdUOS0iGpaI",
+      "name": "heritage (remixes)",
+      "album_type": "album",
+      "release_date": "2023-09-01",
+      "release_year": "2023",
+      "total_tracks": 40,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c267693b4e73ac3dec42e476",
+      "uri": "spotify:album:45HaOTtvWfAW7TcI5caSYt",
+      "name": "libre (honey & badger remix)",
+      "album_type": "single",
+      "release_date": "2023-08-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "5R5qNSYFn04J9jF8UnmYbK",
+          "name": "honey & badger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392a51f06d92a0f1a58bfda38",
+      "uri": "spotify:album:2VljxTmjwL6AvehbFSDN1j",
+      "name": "outer space (remixes)",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "7Lcln0AXqNHMahrca8KVpy",
+          "name": "roderick porter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e35c4b78e0357f5027dd17b1",
+      "uri": "spotify:album:6AjMyBpMC6rPryBLp4SuuZ",
+      "name": "furious (feat. habstrakt)",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1GtUSudmcirmaUqcgBzu3u",
+          "name": "illegal music"
+        },
+        {
+          "spotify_id": "6NhJ3byRXx7HJzpryxi8w7",
+          "name": "kohmi"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea129eddfb1e1303b4878d63",
+      "uri": "spotify:album:4hO0xNT3cqylkfL5Raw3zG",
+      "name": "heritage",
+      "album_type": "album",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731653ccdb7c70a21ca9a4d3df",
+      "uri": "spotify:album:1EdnERTVSGKrVPNq7tb44e",
+      "name": "molotov",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "7w1eTNePApzDk8XtgykCPS",
+          "name": "malaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b329c27dd982c99bb8c5930c",
+      "uri": "spotify:album:7FIjCxHSC5N63alQv0LcYV",
+      "name": "vision",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313cd3a74a4dfe6b6ec936172",
+      "uri": "spotify:album:3MIrhsxTtEXfqgzRkvU5DY",
+      "name": "outer space",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "7Lcln0AXqNHMahrca8KVpy",
+          "name": "roderick porter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273422876d145f97fbfd652801a",
+      "uri": "spotify:album:1a81fdUnXrroiWdtDUW5Lg",
+      "name": "do it to it (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4pnp4w9g30yLfVIAFnZMRd",
+          "name": "acraze"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f02b460d9886e117eb64143",
+      "uri": "spotify:album:2yVM47Pm3THWtF7L81Vz88",
+      "name": "like before",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec917d9fd1f1ccc7d80c3ddb",
+      "uri": "spotify:album:6376mlu6hpzzK3L5guOrgO",
+      "name": "like before (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ttgIeUVka6FLyi00Uu5h8",
+          "name": "jauz"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab893f06f9ec58e74d580fe5",
+      "uri": "spotify:album:4W6rWljoSC1mmaYNqn4g6W",
+      "name": "point",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "6iPbI11utXY9CVhX6SPXEg",
+          "name": "nitepunk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7cb81fc6e95b156751ccb21",
+      "uri": "spotify:album:7GCNORiwcCUo9UY3fXskh6",
+      "name": "eternity (honey & badger remix)",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1KpCi9BOfviCVhmpI4G2sY",
+          "name": "tchami"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "5R5qNSYFn04J9jF8UnmYbK",
+          "name": "honey & badger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307963674aba22a84c6b58a14",
+      "uri": "spotify:album:4WIGCmzIl9iKcRqhQdnuDA",
+      "name": "high",
+      "album_type": "single",
+      "release_date": "2022-02-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273575a1b5dc7b3f117ea9b851e",
+      "uri": "spotify:album:1dPq0Oe4HL1hxMSUpvEjx4",
+      "name": "eternity",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1KpCi9BOfviCVhmpI4G2sY",
+          "name": "tchami"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273344b2f652494712da40d869a",
+      "uri": "spotify:album:5uryIKKcDFMgjsv7tW9dgp",
+      "name": "lol ok (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2021-08-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4aBx7mA6lUOVhEsjokZrXb",
+          "name": "must die!"
+        },
+        {
+          "spotify_id": "01GwQuZRU4oG83fF2ZOyQs",
+          "name": "akeos"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d77cbce8fd3f66b312e3f18",
+      "uri": "spotify:album:67lAh03iXy9UxP5KiIOytE",
+      "name": "the sound",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739728e4b7e4aab4a806bfa2d4",
+      "uri": "spotify:album:31DLCEOurAffyshNQY2LZr",
+      "name": "ice cold (feat. karra)",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "24CzPFC4y3bM4AkUnZfuAU",
+          "name": "karra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273123672c371f281fdf230a38c",
+      "uri": "spotify:album:1vK6RcV9kcf0z3ihH5snbN",
+      "name": "ice cold (feat. karra) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aed416de7d1c916605e5976",
+      "uri": "spotify:album:7035xeZUhXwRkCYL7hARNQ",
+      "name": "gotta be (remixes)",
+      "album_type": "single",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730767f85c2856a509375ab7c0",
+      "uri": "spotify:album:5Pu0dN7JwdwnZfO0wwJOyN",
+      "name": "flow (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6iPbI11utXY9CVhX6SPXEg",
+          "name": "nitepunk"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca9f848afd7223a7918f1d89",
+      "uri": "spotify:album:1AIZUnYfTMKXBlDLChdN6M",
+      "name": "riot gear",
+      "album_type": "single",
+      "release_date": "2020-12-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7w1eTNePApzDk8XtgykCPS",
+          "name": "malaa"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5a53a08c4e6265fe04d5bce",
+      "uri": "spotify:album:09BGeeK5BQConE5WcBFxaf",
+      "name": "gotta be",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7997adbfea22206e02db095",
+      "uri": "spotify:album:0aZB02gCsMDtV3gg8f2O9N",
+      "name": "right here",
+      "album_type": "single",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "4zE0NW3CyaxTBIulekUFMD",
+          "name": "badjokes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ce806524506502f08444ecd",
+      "uri": "spotify:album:1O93bTwzCMtc0cgc0PHku2",
+      "name": "show me (remixes)",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd2463400d33fa25be284f7b",
+      "uri": "spotify:album:1zpFRSV2Bn8P1CJ1bFEVk3",
+      "name": "trust nobody (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "540vIaP2JwjQb9dm3aArA4",
+          "name": "dj snake"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f116d5a527a8dca0861b8ffc",
+      "uri": "spotify:album:4Cdct5Mn5wRiLZ9YVoALI3",
+      "name": "ya think",
+      "album_type": "single",
+      "release_date": "2020-06-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "0EdUwJSqkMmsH6Agg3G8Ls",
+          "name": "marten hørger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358c26c8b5700b5862acae206",
+      "uri": "spotify:album:2XdXl9qH6paCiJGUzDWV5T",
+      "name": "show me",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a86bf5b9e7f03a0fda9d2b0",
+      "uri": "spotify:album:6BqrmiU1EkCKfecgKZ9jYN",
+      "name": "es isso",
+      "album_type": "single",
+      "release_date": "2020-02-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2rxubOde1svVDYAVDy7PDS",
+          "name": "asdek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735db654e4b55245d2cd7e56f0",
+      "uri": "spotify:album:4Kf68HB7IAGo9lBDOiivzK",
+      "name": "free",
+      "album_type": "single",
+      "release_date": "2020-01-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a6989e4e94c8a389d4206d9",
+      "uri": "spotify:album:114yHzuUBcobvY6PfldjJn",
+      "name": "real",
+      "album_type": "single",
+      "release_date": "2019-11-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b254326bbc40a2b8b016ea0",
+      "uri": "spotify:album:1pZ4Bycse2Ck26SkSZHNGS",
+      "name": "the one (the remixes)",
+      "album_type": "single",
+      "release_date": "2019-10-30",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b95a603b1a65b51e4844c6f5",
+      "uri": "spotify:album:7i1y3M1yMiixRhD6lV3qou",
+      "name": "gud vibrations (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2019-09-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bde613ddb5c27db12f4ce22",
+      "uri": "spotify:album:7jTjkekiP10wcRMtmcDLm8",
+      "name": "the one",
+      "album_type": "single",
+      "release_date": "2019-08-26",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273894f03d9f491d15e6d43ef41",
+      "uri": "spotify:album:0CkMfA8Tda04xveaYrpzku",
+      "name": "lasagne",
+      "album_type": "single",
+      "release_date": "2019-07-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "1PiNBMw3iIaG021gWeidUY",
+          "name": "bellecour"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d101276beefeef59e4e2b662",
+      "uri": "spotify:album:3OQ1Icr4olYhblm0E0sXRQ",
+      "name": "de la street",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b32b9247cdbcc1a2c207921a",
+      "uri": "spotify:album:3fFIxq1Qho0ZX5VhhH6k6s",
+      "name": "movie (sqwad remix)",
+      "album_type": "single",
+      "release_date": "2019-06-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2sfSQ1BOzaFQa3LZj6OGwD",
+          "name": "josh pan"
+        },
+        {
+          "spotify_id": "46z8E62fwg6cqxCLNB1FrI",
+          "name": "sqwad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5f19a31da921801fa73e397",
+      "uri": "spotify:album:1Sm6KUWtB2ThzdSbyaP0Sr",
+      "name": "infinite",
+      "album_type": "single",
+      "release_date": "2019-06-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273139d118b070ea013d3ef314b",
+      "uri": "spotify:album:0gHcNFRa90tsM2U46M8zt5",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2019-05-10",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e14479e6b7d36d9301a883d",
+      "uri": "spotify:album:3bSuLYbXGeHgyfjAlxy9uA",
+      "name": "all night",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd59876c8977f63d5b1db3fc",
+      "uri": "spotify:album:3WiknoyBdJdKo4BQIj5f94",
+      "name": "all night (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d8ce7ab48219178cf90388b",
+      "uri": "spotify:album:3P2mrQw2ocyNpCCjPRFYT9",
+      "name": "darkness",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313532ff174b20052f14bcc34",
+      "uri": "spotify:album:7MWalE1McfgoKgMARR1EZ4",
+      "name": "darkness (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-01-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735730a2eb8a7ca5db66f28546",
+      "uri": "spotify:album:3CaRXwcvApz1dYUcUykmIM",
+      "name": "about you",
+      "album_type": "single",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305d222f7dddc0acfaa2439b5",
+      "uri": "spotify:album:4OQqxllqlZ5I3LuMByAMvO",
+      "name": "vibin",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bf0769279376c8594c8e116",
+      "uri": "spotify:album:381rDd6BZu1JpNFjROVXGy",
+      "name": "movie",
+      "album_type": "single",
+      "release_date": "2018-03-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2sfSQ1BOzaFQa3LZj6OGwD",
+          "name": "josh pan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273748425af85a3e091dd480015",
+      "uri": "spotify:album:7G0nDizxlXgA4730dXvOjL",
+      "name": "antigone",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2GVtgxcx7jg5xVCZsIHSGN",
+          "name": "dombresky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324ace6e66f2d3810a9bb5158",
+      "uri": "spotify:album:35BvvvqW65i7pHCuZenz6b",
+      "name": "saints & sinners (habstrakt remix)",
+      "album_type": "single",
+      "release_date": "2017-10-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ycHhPwPvoaO4VGzmMnXGq",
+          "name": "zomboy"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfecb10a0c725246f6c60135",
+      "uri": "spotify:album:0v4ht6ioQOJLnHZeePjDl8",
+      "name": "i wanna",
+      "album_type": "single",
+      "release_date": "2017-08-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "67dClEyrx8SQ6gqe7r8PR4",
+          "name": "jace mek"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc9ce4b6f3b49752aaabccf2",
+      "uri": "spotify:album:7y3aK20RdfvhBgKVzNMShu",
+      "name": "french press",
+      "album_type": "single",
+      "release_date": "2016-10-03",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735324baa1b2659ada02ea896d",
+      "uri": "spotify:album:5sRwsYnRVkVxobn0OJ5C5H",
+      "name": "lazor 3000",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bbf02cba9e871398734413e",
+      "uri": "spotify:album:3GRWurjl4C60YdEI62qT4L",
+      "name": "my people ep",
+      "album_type": "single",
+      "release_date": "2015-12-14",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbc617ffff100c0b2048fdbb",
+      "uri": "spotify:album:0lyscBKE5Nv1eKgWkYY2aY",
+      "name": "on the block",
+      "album_type": "single",
+      "release_date": "2015-07-29",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4dvZ0abeUaiHm7Fu9Gj0PQ",
+          "name": "eptic"
+        },
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373341da9f14daa94320e15ae",
+      "uri": "spotify:album:53bw3QFjhx2KkzGvehALlU",
+      "name": "cool cats never die ep",
+      "album_type": "single",
+      "release_date": "2015-03-16",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e3a38c735b027f085f6d2eb",
+      "uri": "spotify:album:2a1N2PtFtdao1NDXK9zmjx",
+      "name": "forward",
+      "album_type": "single",
+      "release_date": "2014-10-20",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273422bcc115fc1ae1f552e7bbe",
+      "uri": "spotify:album:7ac6vNMIMynA9XYKFFVwH0",
+      "name": "the storm ep",
+      "album_type": "single",
+      "release_date": "2014-09-29",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "2tXUcirItGbDNvLpApQT3z",
+          "name": "megalodon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eea6043c47ba6318f292847",
+      "uri": "spotify:album:50KfbTDzRtiU2wKZKuXjkp",
+      "name": "listen (sub antix remix)",
+      "album_type": "single",
+      "release_date": "2014-03-31",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a823129c78689d72591c061b",
+      "uri": "spotify:album:2wi8NQoTO6VJLvj1ZdqzaB",
+      "name": "listen",
+      "album_type": "single",
+      "release_date": "2014-03-24",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273970832579b7a3e1c595717fe",
+      "uri": "spotify:album:6IGvQbvdGpy5IT7ayvAPST",
+      "name": "eat me ep",
+      "album_type": "single",
+      "release_date": "2013-06-27",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273614cfaa6e2a2440125a28ea1",
+      "uri": "spotify:album:3fGOPgYwmXavaO8AjJNOjL",
+      "name": "tension ep",
+      "album_type": "single",
+      "release_date": "2013-02-05",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0c37457512c1cb8f45541c0",
+      "uri": "spotify:album:4awGTs2xPCSluWYES5eT7n",
+      "name": "sick style ep",
+      "album_type": "single",
+      "release_date": "2012-07-02",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b187383654c8a2fec04f4e2",
+      "uri": "spotify:album:5pblDSbszhSeCJ2rQjw5R1",
+      "name": "funk ep",
+      "album_type": "single",
+      "release_date": "2012-02-27",
+      "release_year": "2012",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731deff6afb680c0406573a1f4",
+      "uri": "spotify:album:6dW4vzJUxyxXbadjg6QVlk",
+      "name": "rough",
+      "album_type": "single",
+      "release_date": "2011-12-19",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        },
+        {
+          "spotify_id": "1fwbNA9Ymk7hPxcxx67paW",
+          "name": "brown and gammon"
+        },
+        {
+          "spotify_id": "4A4DLIzk4WM7PTBmmvuwJL",
+          "name": "addergebroed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe293c134a34fa7fdc7d03f9",
+      "uri": "spotify:album:4ikBoGCF167zV803zBTpa9",
+      "name": "nasty ep",
+      "album_type": "single",
+      "release_date": "2011-10-10",
+      "release_year": "2011",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356134964ebeaa4280e81d2d3",
+      "uri": "spotify:album:3tvd2TrSsypLs57ddiy6TA",
+      "name": "elephants / insomnia",
+      "album_type": "single",
+      "release_date": "2011-08-15",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1YYJxpOXYk1z1WtqdeLMkn",
+          "name": "habstrakt"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:42.000Z"
+}

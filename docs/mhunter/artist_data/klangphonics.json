@@ -1,0 +1,366 @@
+{
+  "name": "klangphonics",
+  "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+  "uri": "spotify:artist:0UoXOPQo2BAZ3pSfkt5XZA",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc69b71368c7d67229911d608",
+  "genres": [
+    "melodic techno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273240c647f7be8a76c20838495",
+      "uri": "spotify:album:6xqNO1gtLpZaAr1biwJBEE",
+      "name": "got 2 b u",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734eea205ad643b49ed64c2a03",
+      "uri": "spotify:album:1K8tg0V48Z5h0FYu42TRuV",
+      "name": "beyond my mind",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312d28698b76fab4018284da7",
+      "uri": "spotify:album:3ebrW4UCgkvLYlLGH64ZDO",
+      "name": "dying candle",
+      "album_type": "single",
+      "release_date": "2026-05-29",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361df694dfc7d926e63d66c45",
+      "uri": "spotify:album:3I1BdEN1OeXfjUTMnxjx9T",
+      "name": "song for the quiet ones",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302b3faa6d18ee631d910f8df",
+      "uri": "spotify:album:6iRdonYiyhraaqSGrdkc9i",
+      "name": "better now",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273800da628b074e301eee3ec06",
+      "uri": "spotify:album:51D3PwRHBbTVejiQ8w79H9",
+      "name": "let's get mixed up",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273468b5b152b949beb21031c5c",
+      "uri": "spotify:album:0cApE2fc6hv7BGrwngr4DB",
+      "name": "fairytale of berlin",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c75a7573a2b896faea5ab756",
+      "uri": "spotify:album:7tfW0uYdwTz3QcTAILyrHY",
+      "name": "perfect opposure",
+      "album_type": "album",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a674f6698ae380893237d2f",
+      "uri": "spotify:album:5oW2ih6QKCAlvFT1FYhuFi",
+      "name": "ghost (find me again)",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "5tRkZWpev6swx7Nl5cRe2r",
+          "name": "anna metko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d177a41ea4869b16f1e72d95",
+      "uri": "spotify:album:3q61TPn9Xi9X055hoNHZ1E",
+      "name": "nighttime feeling (weekend love)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318eef0c1df538216fabdc5a8",
+      "uri": "spotify:album:0Pvy8zkVenMBdOQH6cdEjZ",
+      "name": "you and me (we owned it)",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "5tRkZWpev6swx7Nl5cRe2r",
+          "name": "anna metko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310533dab915242569e7e10fe",
+      "uri": "spotify:album:4Z3p2fGC88qnOfQJPVZMUd",
+      "name": "in between (memories and dreams)",
+      "album_type": "single",
+      "release_date": "2024-06-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "4pYgti9cm1t0gPHRJ5wtMI",
+          "name": "lucie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273519922f26fb2ecd2f2e9649a",
+      "uri": "spotify:album:3dAf5QMQ6TKbU617P3nA1A",
+      "name": "ich brauch mehr bass",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399387487d99e4f43821cd77b",
+      "uri": "spotify:album:49NTTunB0HYDSrSOcnPy6O",
+      "name": "great plains (franky klassen remix)",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "3e4RLmsGQOYIdeXnRTvygH",
+          "name": "franky klassen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273222ca9280425ff5224b3638e",
+      "uri": "spotify:album:7n7kSE9XjNNF7vz6amVv1C",
+      "name": "shapes in the spray",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "4pKLG10xJBXQ5SWhBmcT8J",
+          "name": "gone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399e43a2e671aa9e20a379032",
+      "uri": "spotify:album:7DA4ZrU054qfRF0AONS3KB",
+      "name": "feeling pressure",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d74dd535901c440718b8da29",
+      "uri": "spotify:album:4yED6qv5FOnQuqw7bmmPPD",
+      "name": "laminar (moonbootica remix)",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        },
+        {
+          "spotify_id": "1YkHCcMgZ6fTQMeEQyYKTf",
+          "name": "moonbootica"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e79c22c9a8e71dfe4cfae7bb",
+      "uri": "spotify:album:0tR8cyT01xwg5DDuMdQCys",
+      "name": "holocene, pt. ii",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ee616952dec96737283babc",
+      "uri": "spotify:album:5OL2ld2GERvCSirYeFkWJi",
+      "name": "laminar",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c64d051b5a8d2bcb17892332",
+      "uri": "spotify:album:5NDAV6JkmGHYp9B9VqVqdV",
+      "name": "separate paths",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf7ea524c356e8cac013aba6",
+      "uri": "spotify:album:4Gy6ybk7wQ7Veb40QHZHAX",
+      "name": "songs to try",
+      "album_type": "album",
+      "release_date": "2021-08-15",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273369edf50fad13a29297a4620",
+      "uri": "spotify:album:6S1XOLLBU6QiVmuUWH45bH",
+      "name": "ethereal",
+      "album_type": "single",
+      "release_date": "2020-05-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0UoXOPQo2BAZ3pSfkt5XZA",
+          "name": "klangphonics"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:33.000Z"
+}

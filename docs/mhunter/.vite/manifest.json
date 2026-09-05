@@ -1,0 +1,11 @@
+{
+  "virtual:solid-ssr-entry-client.tsx": {
+    "file": "assets/virtual_solid-ssr-entry-client-DODOAmhp.js",
+    "name": "virtual_solid-ssr-entry-client",
+    "src": "virtual:solid-ssr-entry-client.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/virtual_solid-ssr-entry-client-CTAiHabm.css"
+    ]
+  }
+}

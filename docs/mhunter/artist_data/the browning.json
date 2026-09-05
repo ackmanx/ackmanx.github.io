@@ -1,0 +1,639 @@
+{
+  "name": "the browning",
+  "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+  "uri": "spotify:artist:4DSNcg40nf6T3eNAObq1Lo",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb43493246e66f6e7641067204",
+  "genres": [
+    "deathcore",
+    "metalcore",
+    "deathstep",
+    "metal",
+    "djent"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1a2275da065e3d1a009a484",
+      "uri": "spotify:album:3MwK3YMu8EYrMSiZpoSLFO",
+      "name": "burn this world [evolved]",
+      "album_type": "album",
+      "release_date": "2026-02-11",
+      "release_year": "2026",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c0c0d7ff245c0d3e8e20dc3",
+      "uri": "spotify:album:5KkBSP6WxFT0XWaOcUiTVb",
+      "name": "dominator [evolved]",
+      "album_type": "single",
+      "release_date": "2026-01-14",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df594cff70a9230bef3134ae",
+      "uri": "spotify:album:1uZM5v0mH8mmmSuBgMitNL",
+      "name": "i choose you [evolved]",
+      "album_type": "single",
+      "release_date": "2025-12-17",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273547ebf7db74d0e887b64e606",
+      "uri": "spotify:album:4vG5UZ0kj6764ER5e3extj",
+      "name": "not alone [evolved]",
+      "album_type": "single",
+      "release_date": "2025-11-10",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c9b6bfb08c553194784eb5c",
+      "uri": "spotify:album:52jS26ckoo4FxrDuzH75JV",
+      "name": "evolve",
+      "album_type": "single",
+      "release_date": "2025-10-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7b275e343452e25337973f6",
+      "uri": "spotify:album:4geU30bbaMwRbo5kk98Ybk",
+      "name": "omni (ultra)",
+      "album_type": "album",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e97d29b97c65031b1bb84f0d",
+      "uri": "spotify:album:1iBvZ8GH3JBxVUsRsstDOo",
+      "name": "come to grips with death and the end (machinyst remix)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "3RepKGODhreAGGHs8fsXGP",
+          "name": "machinyst"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b710fdaf820934327c09124e",
+      "uri": "spotify:album:1q2mbaeeWx2wg9LMd0Knnl",
+      "name": "hivemind (darksiderz remix)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "1XwoaxvFx5Y67ZdLQt2TMa",
+          "name": "darksiderz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733303c6d3bb8588b58e696a72",
+      "uri": "spotify:album:5G3R3D3vSj57h3G5XaqN3m",
+      "name": "hivemind (zardonic remix)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "7BqEidErPMNiUXCRE0dV2n",
+          "name": "zardonic"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273367105a515600900862e5254",
+      "uri": "spotify:album:0q73hkEHypEQMQC6h6jF9Z",
+      "name": "omni (kodeseven remix)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "1evFjl4E6CgPNPjSpN2wzA",
+          "name": "the defect"
+        },
+        {
+          "spotify_id": "7p2BO3LjNFVHY8gkcfWrLL",
+          "name": "kodeseven"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd5b6b38fac5fbf9847ac42f",
+      "uri": "spotify:album:5Z8F7hVH4oeHjnbiz07Bj9",
+      "name": "soul drift (kaixo remix)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "2Zy6UkNYPIRrW56Iu8z9CG",
+          "name": "kaixo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbcbc9889688c4c05a91cd64",
+      "uri": "spotify:album:0tPqEnaouvuURrGRPGMpTo",
+      "name": "fed up (biohex & jonny mcbee remix)",
+      "album_type": "single",
+      "release_date": "2025-08-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "5Jvg8iT8I42az3GisNiaVd",
+          "name": "biohex"
+        },
+        {
+          "spotify_id": "5p71qqd5TkcqY3wTzTIK03",
+          "name": "jonny mcbee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ffd6209970c372428ba590a",
+      "uri": "spotify:album:1bYiUrDCuehOLILjO0dJSl",
+      "name": "poison (biohex & jonny mcbee remix)",
+      "album_type": "single",
+      "release_date": "2025-07-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "5Jvg8iT8I42az3GisNiaVd",
+          "name": "biohex"
+        },
+        {
+          "spotify_id": "5p71qqd5TkcqY3wTzTIK03",
+          "name": "jonny mcbee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb16f3b1e7981dbcb6955491",
+      "uri": "spotify:album:4slmrCVBk8qutQtAnJRPym",
+      "name": "overlord",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "07OF36h5y4S6s9ckQliaj3",
+          "name": "swarm"
+        },
+        {
+          "spotify_id": "1evFjl4E6CgPNPjSpN2wzA",
+          "name": "the defect"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273003df2f06d8472de1d4af38f",
+      "uri": "spotify:album:1GA2NTC8KhpwkEe1yvBI6W",
+      "name": "back from hell (feat. the browning)",
+      "album_type": "single",
+      "release_date": "2025-01-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1oeo6cC9Fqa2bxxv67qBQL",
+          "name": "caliban"
+        },
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324b82faa9381df9a88f032da",
+      "uri": "spotify:album:7Dj12JCOTDbYM44RYHu1nb",
+      "name": "blue (da ba dee)",
+      "album_type": "single",
+      "release_date": "2025-01-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be120e2135a1bd5b7a7ea84a",
+      "uri": "spotify:album:1tonfgaPbCrY757RwIR65M",
+      "name": "omni",
+      "album_type": "album",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301a9338399ef964cb9606f3d",
+      "uri": "spotify:album:0sDxBcJFfznA5ExRjlkGto",
+      "name": "misery.exe",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "1Gc5ZiJhqjQQcfvMTSCa3q",
+          "name": "nik nocturnal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa126e49fbd558c135302f03",
+      "uri": "spotify:album:0zwvtydzKXvP3T0kTBN6Zx",
+      "name": "omni",
+      "album_type": "single",
+      "release_date": "2024-09-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "1evFjl4E6CgPNPjSpN2wzA",
+          "name": "the defect"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b95a93550f56fb53c566446f",
+      "uri": "spotify:album:4lk6bAqlabAANlIA2uxs2h",
+      "name": "deceiver",
+      "album_type": "single",
+      "release_date": "2024-06-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732481c4d478542eb8c89cc129",
+      "uri": "spotify:album:14zncTDSerZCF2LqW9R5wX",
+      "name": "hivemind",
+      "album_type": "single",
+      "release_date": "2024-02-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343530f6ec3184d57d5b51206",
+      "uri": "spotify:album:4nCbTpC5CviSH7xR1RzY5d",
+      "name": "poison",
+      "album_type": "single",
+      "release_date": "2023-09-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c864a6c19b741fbbf14c16c",
+      "uri": "spotify:album:6T8MIyugaYCRKsTMPdqs7K",
+      "name": "eoe remixed",
+      "album_type": "album",
+      "release_date": "2023-06-15",
+      "release_year": "2023",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2f2ba542ec1d62edfac84e5",
+      "uri": "spotify:album:1OWwPL3cUVBWn3Ol7GAx9C",
+      "name": "no man can become a god (jonny mcbee remix)",
+      "album_type": "single",
+      "release_date": "2023-06-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "5p71qqd5TkcqY3wTzTIK03",
+          "name": "jonny mcbee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dfab99630b047addc4f6c9e",
+      "uri": "spotify:album:4Hc1TIf4GdgDcfSAZVes4l",
+      "name": "fearless (jonny mcbee remix)",
+      "album_type": "single",
+      "release_date": "2023-05-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        },
+        {
+          "spotify_id": "5p71qqd5TkcqY3wTzTIK03",
+          "name": "jonny mcbee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273291b0c8da56ab5c2a504ca6a",
+      "uri": "spotify:album:3ryYKsrRsHsqlWzdYZ3aUJ",
+      "name": "chaos reigns",
+      "album_type": "single",
+      "release_date": "2021-12-11",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363b7c392f146e99651464871",
+      "uri": "spotify:album:6YgQMYxlOn1kD2MlPFyaxu",
+      "name": "end of existence",
+      "album_type": "single",
+      "release_date": "2021-08-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a14a06964024486e2ea489de",
+      "uri": "spotify:album:69OWwAT3a244xtQhmHn16e",
+      "name": "end of existence",
+      "album_type": "album",
+      "release_date": "2021-03-12",
+      "release_year": "2021",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2761affcecc196bb3217a3b",
+      "uri": "spotify:album:3vqgcHB4X2rEYORzCDuxUm",
+      "name": "geist",
+      "album_type": "album",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3210bfd91035203f825488f",
+      "uri": "spotify:album:0GSLVHKx2NBFj7afofOOTY",
+      "name": "geist",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318cfd116247ba3809f05973b",
+      "uri": "spotify:album:78donshVYjJcGtJww1Luhw",
+      "name": "final breath",
+      "album_type": "single",
+      "release_date": "2018-09-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389ef47cb52ab1df19798b5ce",
+      "uri": "spotify:album:1iHjryUq4jZ94lPk8KCPeZ",
+      "name": "carnage",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b25921a5592eb6acba101bd",
+      "uri": "spotify:album:2eNFYXvjcKgBJc9HenS0Tv",
+      "name": "isolation",
+      "album_type": "album",
+      "release_date": "2016-03-06",
+      "release_year": "2016",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730046393ecc8d0a78b8782887",
+      "uri": "spotify:album:32rco9jWFqjLavo8n97Zdp",
+      "name": "hypernova",
+      "album_type": "album",
+      "release_date": "2013-10-01",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b38ecc7e57b684d58aae5434",
+      "uri": "spotify:album:3LCQaNaYOBhkEsez61SLFx",
+      "name": "burn this world (tour edition)",
+      "album_type": "album",
+      "release_date": "2011-10-03",
+      "release_year": "2011",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae4d0135b8c98713519d9223",
+      "uri": "spotify:album:1YRh273CVXJkGJohoQnbPb",
+      "name": "time will tell",
+      "album_type": "single",
+      "release_date": "2011-01-24",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351aad1fdd78e7091a9b403c7",
+      "uri": "spotify:album:59o2msT06TIvWP7Jn3P7Bp",
+      "name": "standing on the edge",
+      "album_type": "single",
+      "release_date": "2010-11-01",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4DSNcg40nf6T3eNAObq1Lo",
+          "name": "the browning"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:32:04.000Z"
+}

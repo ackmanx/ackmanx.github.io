@@ -1,0 +1,89 @@
+{
+  "name": "add n to (x)",
+  "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+  "uri": "spotify:artist:3pcItz4w7h7fpTDgnTYIUn",
+  "image_url": "https://i.scdn.co/image/ce5d23f560bfc073bd5b1ff3dbcea9288883a7db",
+  "genres": [
+    "electroclash",
+    "space rock",
+    "musique concrète"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2d35b5e711a00c27ab1221b",
+      "uri": "spotify:album:2zhN7Bz0lSkgXQ5nOYsjL1",
+      "name": "loud like nature",
+      "album_type": "album",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+          "name": "add n to (x)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730de41bd7609f31bf4bf40a76",
+      "uri": "spotify:album:4uE2XqptEndSFTnbmSTjGV",
+      "name": "add insult to injury",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+          "name": "add n to (x)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731cb4198839f6683b85946474",
+      "uri": "spotify:album:4i4u4qrfMJOJN5USQYgzx1",
+      "name": "avant hard",
+      "album_type": "album",
+      "release_date": "1999-04-20",
+      "release_year": "1999",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+          "name": "add n to (x)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364c4be458546165fe6e3e191",
+      "uri": "spotify:album:05a8UAWC9nLW2ANwzaMmEW",
+      "name": "on the wires of our nerves",
+      "album_type": "album",
+      "release_date": "1998-01-01",
+      "release_year": "1998",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+          "name": "add n to (x)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303731a3181de0ebefc69b557",
+      "uri": "spotify:album:5DnUPCyDckjCnyKs28xuii",
+      "name": "vero electronics",
+      "album_type": "album",
+      "release_date": "1996-01-29",
+      "release_year": "1996",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3pcItz4w7h7fpTDgnTYIUn",
+          "name": "add n to (x)"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:01:44.000Z"
+}

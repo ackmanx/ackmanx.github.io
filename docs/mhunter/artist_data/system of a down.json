@@ -1,0 +1,136 @@
+{
+  "name": "system of a down",
+  "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+  "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
+  "genres": [
+    "nu metal",
+    "metal",
+    "alternative metal",
+    "rap metal",
+    "rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fd9c2888b762a335154fd0c",
+      "uri": "spotify:album:00OQIrRjQgZmacSnjK8L7M",
+      "name": "protect the land / genocidal humanoidz",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "uri": "spotify:album:3QxX3NbWyLlLG6lP1xveL3",
+      "name": "hypnotize",
+      "album_type": "album",
+      "release_date": "2005-11-22",
+      "release_year": "2005",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273353f5624c79de33285f3d006",
+      "uri": "spotify:album:0g7rLswEejduKye2DF7EfI",
+      "name": "hypnotize",
+      "album_type": "single",
+      "release_date": "2005-10-11",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71",
+      "uri": "spotify:album:0cn6MHyx4YuZauaB7Pb66o",
+      "name": "mezmerize",
+      "album_type": "album",
+      "release_date": "2005-05-17",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737cf4c0d42c5b62c9deebdcd8",
+      "uri": "spotify:album:6lA1sGw7eCv27bcpd5E0wT",
+      "name": "steal this album!",
+      "album_type": "album",
+      "release_date": "2002-11-26",
+      "release_year": "2002",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+      "uri": "spotify:album:6jWde94ln40epKIQCd8XUh",
+      "name": "toxicity",
+      "album_type": "album",
+      "release_date": "2001-09-04",
+      "release_year": "2001",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fc454734a3d19585bc12dd1",
+      "uri": "spotify:album:7p5mnxLTjbvs4kInkK8za9",
+      "name": "system of a down",
+      "album_type": "album",
+      "release_date": "1998-06-30",
+      "release_year": "1998",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cf276813d20f7e7c2085d59",
+      "uri": "spotify:album:1GIv3kOvMfS5xGh6hNs0kb",
+      "name": "system of a down (deluxe)",
+      "album_type": "album",
+      "release_date": "1998-06-30",
+      "release_year": "1998",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "system of a down"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:43.000Z"
+}

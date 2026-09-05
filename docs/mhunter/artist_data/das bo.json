@@ -1,0 +1,522 @@
+{
+  "name": "das bo",
+  "spotify_id": "0lP5aPV834goEtT6asKAek",
+  "uri": "spotify:artist:0lP5aPV834goEtT6asKAek",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4d97c1e12659a1e5eb0a1d67",
+  "genres": [
+    "german hip hop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a1abaacdbd4cc61d1246919",
+      "uri": "spotify:album:0I6fhoDdlRsaG4QKvIl0Cx",
+      "name": "leute sind leute",
+      "album_type": "single",
+      "release_date": "2025-12-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "2q8kWGBtPhcjKWzRP7BJXz",
+          "name": "schmiddlfinga"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ff03b0717d2bb6522a534f9",
+      "uri": "spotify:album:2Ef8MFEeRMsZeN2TQcCrJC",
+      "name": "herbst",
+      "album_type": "single",
+      "release_date": "2025-11-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342145b8a57cf13eb768bda00",
+      "uri": "spotify:album:3FCgL2aFbZqMxo8Nn0WWrz",
+      "name": "türlich,türlich (sicher dicker) [die remixe]",
+      "album_type": "single",
+      "release_date": "2025-07-04",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734546942cc0d25a7fa226f1e4",
+      "uri": "spotify:album:3ZUf4qHCricCNAyujkToT5",
+      "name": "rest of - willkommen im club",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380678ede2dc1a97d620a53be",
+      "uri": "spotify:album:3iePm06HJOvt8zqvyMzdoP",
+      "name": "rest of - gefühlsecht",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7f58852ced435d74c6c1b76",
+      "uri": "spotify:album:4zZwYPBTKKxGOQITu9pFQp",
+      "name": "rest of - muss man mögen",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d9521595cd0ad1ef79b79f8",
+      "uri": "spotify:album:6C2mpIqbnggSvk9JDTBN0I",
+      "name": "rest of - rückspiegel",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb83ea112c5b290f1232a816",
+      "uri": "spotify:album:5a6NaClhe5IC7wWrnJ6HBT",
+      "name": "rest of - fingerübungen",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e61b3ea2fab912270027236",
+      "uri": "spotify:album:29bupDQcQnmPqw1sAnd1GZ",
+      "name": "das muss´n klarer (posse version)",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2q8kWGBtPhcjKWzRP7BJXz",
+          "name": "schmiddlfinga"
+        },
+        {
+          "spotify_id": "0lCIf7rlZEMULTkKq5nBZp",
+          "name": "dj robert smith"
+        },
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733782dbe7dd0d3c2c8a75166c",
+      "uri": "spotify:album:1Sw00FmYi3xbExOc2RQToQ",
+      "name": "das muss´n klarer",
+      "album_type": "single",
+      "release_date": "2022-08-19",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2q8kWGBtPhcjKWzRP7BJXz",
+          "name": "schmiddlfinga"
+        },
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "30P5yg9VVhXVkc7Xboj4Dx",
+          "name": "vollka putt"
+        },
+        {
+          "spotify_id": "0lCIf7rlZEMULTkKq5nBZp",
+          "name": "dj robert smith"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6f6188a1d24e885ab08aae2",
+      "uri": "spotify:album:2FcU58Z95quyoZWnbhF1LJ",
+      "name": "weltbild",
+      "album_type": "single",
+      "release_date": "2021-09-18",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7a19564bddda0bedc5007fc",
+      "uri": "spotify:album:5AJOLXptEvuNeJy93cYxer",
+      "name": "das kloster",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2e10639e5f7f7e1049cd583",
+      "uri": "spotify:album:0FH2W8neuSoGx8GjbugxiM",
+      "name": "titelsong \"die olchis. willkommen in schmuddelfing\"",
+      "album_type": "single",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "48aPJeQvThwU0unel73oDG",
+          "name": "fayzen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27365dabc2569d084a06e6a5f0c",
+      "uri": "spotify:album:1GaiC3DHIFnZsgx7ugISI0",
+      "name": "ein neuer freund (titelsong \"die olchis. willkommen in schmuddelfing\")",
+      "album_type": "single",
+      "release_date": "2021-07-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "48aPJeQvThwU0unel73oDG",
+          "name": "fayzen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355af9fe25d43961cdb8c059d",
+      "uri": "spotify:album:3CX3vBRPduKw53hf4pmo1t",
+      "name": "a new friend (theme song \"the ogglies. welcome to smelliville\")",
+      "album_type": "single",
+      "release_date": "2021-07-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "48aPJeQvThwU0unel73oDG",
+          "name": "fayzen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347567caa16c70d80ad8b8f25",
+      "uri": "spotify:album:7jGlzrt01eMY10fd7VQft5",
+      "name": "live young, die old.",
+      "album_type": "album",
+      "release_date": "2021-07-02",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b55467ab066d31cd83353969",
+      "uri": "spotify:album:635oHaYc1teBse0MAYnqby",
+      "name": "downgelockt",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a55aa8491c3e1b887559db6c",
+      "uri": "spotify:album:0XnJnsxtVYQOoY516WtTKr",
+      "name": "\"song aus fett und bass (s.a.f.u.b.)\"",
+      "album_type": "single",
+      "release_date": "2021-05-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "56pni9QQ16DxDgCbdEvtmn",
+          "name": "rasmes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e83af9783484aad0d5bee8e",
+      "uri": "spotify:album:5fCl7tisuylNSiJl1d4iqU",
+      "name": "neu",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d96dfb29575df7984eab38b",
+      "uri": "spotify:album:0zJT4Aib9BGU8Sx6RWwrIO",
+      "name": "du",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1bb6576a4c378b6ccbd679f",
+      "uri": "spotify:album:4cnZ3D45t44dRcYiuzrDz9",
+      "name": "urlaub am mare (interstellar supernova remix)",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "1a0S5hnIGQXJ5HUrykSmjr",
+          "name": "interstellar supernova"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e2596194215d9ef184f3e82",
+      "uri": "spotify:album:1E8S2Htxy7vHjI07kgPKKj",
+      "name": "urlaub am mare (erobique & speckman remix)",
+      "album_type": "single",
+      "release_date": "2020-09-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "2Gde0DBcgb2YE6AV1lqLxH",
+          "name": "erobique"
+        },
+        {
+          "spotify_id": "6HMaWR5x7y2AYCWydAipj7",
+          "name": "speckman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed822103d47e20e66a364bd6",
+      "uri": "spotify:album:1LjRtcngaTuAiybTOfKUfz",
+      "name": "urlaub am mare (rio de janeiro remix)",
+      "album_type": "single",
+      "release_date": "2020-09-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "1jLDkUI8A27fUL8uvUW7J4",
+          "name": "david paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349c22a9314444c30e661dc40",
+      "uri": "spotify:album:1QhwctFV20HOWIemvwUpfj",
+      "name": "urlaub am mare",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309eee879a712b7fc1ae1ae09",
+      "uri": "spotify:album:3F6hV9rJbDNY1oCXBf9J5R",
+      "name": "auf jeden fall vielleicht",
+      "album_type": "single",
+      "release_date": "2017-03-24",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d43c813a06add37d5764ea4e",
+      "uri": "spotify:album:3bsWT0ClwDn0HOmF2V5X0l",
+      "name": "fuck off !!! ich bin privat hier, du affe.",
+      "album_type": "single",
+      "release_date": "2015-12-11",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e787170aa556c26a12c0f7e",
+      "uri": "spotify:album:3FYN2aL1mTxOADtIPzJlc5",
+      "name": "fanfest",
+      "album_type": "single",
+      "release_date": "2014-05-30",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d7cfecc5f4e3735a74c53e3",
+      "uri": "spotify:album:3oAmzN8n4AZO7TMJwkE6gn",
+      "name": "fumbananana",
+      "album_type": "album",
+      "release_date": "2013-11-08",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        },
+        {
+          "spotify_id": "08PIVUXwnTV32NlbhA8YHX",
+          "name": "hängergäng"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6523aad0ec6219b0a356506",
+      "uri": "spotify:album:61bL7UuokB1wLPKIS4IB4p",
+      "name": "best of iii alleine",
+      "album_type": "album",
+      "release_date": "2004-06-07",
+      "release_year": "2004",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737766db5bc1084342090c2410",
+      "uri": "spotify:album:7MQflOs6ZFUYJyqWlf5qPu",
+      "name": "nur der zorn zählt",
+      "album_type": "single",
+      "release_date": "2000-07-03",
+      "release_year": "2000",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0lP5aPV834goEtT6asKAek",
+          "name": "das bo"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:03.000Z"
+}

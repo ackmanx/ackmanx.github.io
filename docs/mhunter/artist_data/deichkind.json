@@ -1,0 +1,495 @@
+{
+  "name": "deichkind",
+  "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+  "uri": "spotify:artist:49eo9xE4yGzJLWkOndiODs",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebddd5cda45ef6e9e32886bda2",
+  "genres": [
+    "german pop",
+    "german hip hop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f91f372fabc147726ec9e57f",
+      "uri": "spotify:album:7foWkP9letYkAlIyoE2tEQ",
+      "name": "könnt ihr noch? (atric & frida darko remix)",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        },
+        {
+          "spotify_id": "5JGnzT3iv4izDNPbH8cUj3",
+          "name": "atric"
+        },
+        {
+          "spotify_id": "5nvhpnFpC7rsQ0mWDNx4bn",
+          "name": "frida darko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733259b8cc31873c81cbc83d40",
+      "uri": "spotify:album:7y014N6mO06jQ8zQFaJRtO",
+      "name": "könnt ihr noch?",
+      "album_type": "single",
+      "release_date": "2024-06-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334c6c5adc1a45bc2d875aded",
+      "uri": "spotify:album:3AvXImIfyInCRDw4dk0h2r",
+      "name": "niveau weshalb warum - live in berlin",
+      "album_type": "single",
+      "release_date": "2024-04-04",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27394116dfe92dc250f679aef1e",
+      "uri": "spotify:album:0c1aPk591R6Qm55u0ydw1K",
+      "name": "wutboy - live in berlin",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        },
+        {
+          "spotify_id": "4RrMoKqTVd3FhpfoYU0DKb",
+          "name": "roger rekless"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d20f81c250cba8d39ec0ac59",
+      "uri": "spotify:album:5NIeDLEi8YN4SD5gQnfL2b",
+      "name": "kids in meinem alter, teil 2",
+      "album_type": "single",
+      "release_date": "2023-10-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9b0cfbbbda72a9f11597b93",
+      "uri": "spotify:album:2VrTLyVTBQodj363IqDmeK",
+      "name": "drucker",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        },
+        {
+          "spotify_id": "0cUMeX7DFLIvLy0q8uqp6q",
+          "name": "drunken masters"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae5dfa3cf2882a1a10834efa",
+      "uri": "spotify:album:7zY5u4tWAvhX80mtwN1I0Y",
+      "name": "neues vom dauerzustand",
+      "album_type": "album",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386f904fe911de0e3f4061fb5",
+      "uri": "spotify:album:1YYr69u73RAtJBDhl3O6z7",
+      "name": "kids in meinem alter",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a098ba531896e9d5e6baaefe",
+      "uri": "spotify:album:4LrYnp2qZOMvhwf7XVGOMT",
+      "name": "auch im bentley wird geweint",
+      "album_type": "single",
+      "release_date": "2023-01-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0iFq8SzyZaaQ2Fn6CLDxqW",
+          "name": "clueso"
+        },
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c8568aaf69444f3815683fe",
+      "uri": "spotify:album:0gCznpwgZwRnvV8umJi0Qs",
+      "name": "geradeaus",
+      "album_type": "single",
+      "release_date": "2022-12-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        },
+        {
+          "spotify_id": "4RrMoKqTVd3FhpfoYU0DKb",
+          "name": "roger rekless"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348808713073fbad118a24cd6",
+      "uri": "spotify:album:4Ep0PApEyOyvC3WVSHHLJk",
+      "name": "in der natur",
+      "album_type": "single",
+      "release_date": "2022-08-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273001c37ed2dd16d2200e783d0",
+      "uri": "spotify:album:1SITYKBKo8F76zhRH7H26k",
+      "name": "wer sagt denn das?",
+      "album_type": "album",
+      "release_date": "2019-09-26",
+      "release_year": "2019",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db3b587fa3b4504ed7f5102c",
+      "uri": "spotify:album:5uSFnobsG1hOwzen7PvVN3",
+      "name": "wer sagt denn das? (instrumentals)",
+      "album_type": "album",
+      "release_date": "2019-09-25",
+      "release_year": "2019",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387e1438bffbe52ff2aaf734a",
+      "uri": "spotify:album:30lm8VDQm3Vj3MFZwVpRAF",
+      "name": "dinge",
+      "album_type": "single",
+      "release_date": "2019-09-19",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a86bafb4e4a87850d707b841",
+      "uri": "spotify:album:6jVmvHcCU4RpUI8Gsfhw7X",
+      "name": "keine party",
+      "album_type": "single",
+      "release_date": "2019-08-16",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354ff105ed6de294de8c31064",
+      "uri": "spotify:album:4GQ40JeVDhdMEILeOIvAN9",
+      "name": "richtig gutes zeug (dj hell remix)",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        },
+        {
+          "spotify_id": "4WgFczZafuUFBvsCuSK44C",
+          "name": "dj hell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c93c955b41a2ed0c0fea0702",
+      "uri": "spotify:album:1Av58Iuk1VpgJoy3bfxIAM",
+      "name": "porzellan und elefanten (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-12-01",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be087b1f28d644dfedec0540",
+      "uri": "spotify:album:3Ac4rRRnxfV4amwokoM2z6",
+      "name": "live at telekom street gigs",
+      "album_type": "single",
+      "release_date": "2015-04-10",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e0d3c63db2027e498abf48c",
+      "uri": "spotify:album:518DgcU61lKSSVTIhyg2HY",
+      "name": "niveau weshalb warum (deluxe)",
+      "album_type": "album",
+      "release_date": "2015-02-05",
+      "release_year": "2015",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ae5b2e1d1821bf770308f02",
+      "uri": "spotify:album:5RQfGOLkh01cXp2GfMuTNg",
+      "name": "niveau weshalb warum",
+      "album_type": "album",
+      "release_date": "2015-01-30",
+      "release_year": "2015",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dc4c7be509c84070f4dbf60",
+      "uri": "spotify:album:3z6YNEWsaquIZPlmLghTTr",
+      "name": "ich habe eine fahne",
+      "album_type": "single",
+      "release_date": "2014-01-01",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d736330e794c36bcab004cf6",
+      "uri": "spotify:album:0wEkdq97q9ZRbpUTzvOD9s",
+      "name": "leider geil (leider geil)",
+      "album_type": "single",
+      "release_date": "2012-04-20",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a99f5df626e6f1f8af2e1ac",
+      "uri": "spotify:album:5KD3xJ04ta4XyrBaqpOwe2",
+      "name": "befehl von ganz unten",
+      "album_type": "album",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a932241632543958536ddf",
+      "uri": "spotify:album:34Wxn7tcuySYBZGIZCvEs0",
+      "name": "endboss (deichkind st pauli rmx)",
+      "album_type": "single",
+      "release_date": "2010-08-13",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3nDNDLcZuSto4k9u4AbcLB",
+          "name": "marteria"
+        },
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273597b3f45a9d22970f1dfc5cf",
+      "uri": "spotify:album:51UyRTvma73vWDMMQfNP0h",
+      "name": "arbeit nervt",
+      "album_type": "album",
+      "release_date": "2008-01-01",
+      "release_year": "2008",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9914a212082c1057f7e9257",
+      "uri": "spotify:album:6qpr04YAYC6FCk7J7EmkBW",
+      "name": "aufstand im schlaraffenland",
+      "album_type": "album",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733663c30e8925cfed946243d2",
+      "uri": "spotify:album:5QxF9FaTV2ixRnVnj2hOQ7",
+      "name": "noch fünf minuten mutti",
+      "album_type": "album",
+      "release_date": "2004-08-30",
+      "release_year": "2004",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5cfb7711f1ab79699b4a081",
+      "uri": "spotify:album:0hxL7yknlQMmmiyPKDTajN",
+      "name": "noch fünf minuten mutti (jubiläums-edition)",
+      "album_type": "album",
+      "release_date": "2002-09-30",
+      "release_year": "2002",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27345a825b37742cfe2f110d9df",
+      "uri": "spotify:album:0j8DlpqWnANKbzvE4nethA",
+      "name": "bitte ziehen sie durch (jubiläums-edition)",
+      "album_type": "album",
+      "release_date": "2000-05-29",
+      "release_year": "2000",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4cfc9a0cfa7a112bf21e8be",
+      "uri": "spotify:album:2AZNRmYwTikPWYSz766esn",
+      "name": "bitte ziehen sie durch",
+      "album_type": "album",
+      "release_date": "2000",
+      "release_year": "2000",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "49eo9xE4yGzJLWkOndiODs",
+          "name": "deichkind"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:35.000Z"
+}

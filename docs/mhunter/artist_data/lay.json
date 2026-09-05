@@ -1,0 +1,985 @@
+{
+  "name": "lay",
+  "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+  "uri": "spotify:artist:4o7tWrzQOqarDtTMWD2HV9",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7585d303d8a9abea8459fafa",
+  "genres": [
+    "c-pop",
+    "chinese hip hop",
+    "malay pop",
+    "mandopop",
+    "k-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e58a662b480d0fa233da892b",
+      "uri": "spotify:album:6wJCMTzT9cQMMRlROACHCS",
+      "name": "crossfire",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7a8bbfeaff03bf3097e3ab6",
+      "uri": "spotify:album:7I2uJI5jTCuEG5xKIUqgZb",
+      "name": "斗战胜佛 (flawed crown)",
+      "album_type": "album",
+      "release_date": "2026-07-03",
+      "release_year": "2026",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327cf39b19001f3dbb4d22576",
+      "uri": "spotify:album:0ObUNzaPUnfqLsZbJaf4d6",
+      "name": "call my name",
+      "album_type": "single",
+      "release_date": "2026-06-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323688608c01496ac9b4a8a28",
+      "uri": "spotify:album:4PFOOGtr2p4Tya0uh7xiQh",
+      "name": "吾辈当自强 (五四青年节特别企划主题曲)",
+      "album_type": "single",
+      "release_date": "2026-05-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0614b051998a9c28f66e9ac",
+      "uri": "spotify:album:0PXZWnBgIcidYNoYVQzHLk",
+      "name": "pak-cheen dosti zindabad",
+      "album_type": "single",
+      "release_date": "2026-05-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "2R8t8JuhekewFBqE8OhBq8",
+          "name": "natasha baig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aab972ca8237b906cceb2cbe",
+      "uri": "spotify:album:7Luo2FPvVrldbQYqB2Xki0",
+      "name": "大花轿 (feat.火风)",
+      "album_type": "single",
+      "release_date": "2026-01-11",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffb8962285f8a2669d4ea546",
+      "uri": "spotify:album:190kEPhhy3oJyxdhzQ63X5",
+      "name": "为你揭晓",
+      "album_type": "single",
+      "release_date": "2025-10-02",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "7Dx7RhX0mFuXhCOUgB01uM",
+          "name": "jj lin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a01ee9019923e1a401f2238f",
+      "uri": "spotify:album:2m8WT41xw7vuAVsn3CbHme",
+      "name": "rock the heavenly palace",
+      "album_type": "album",
+      "release_date": "2025-09-07",
+      "release_year": "2025",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b6746b573ea3f81ddb56c3b",
+      "uri": "spotify:album:6dvFbVMwwqmnCeeU7VrGvr",
+      "name": "easy",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "164Uj4eKjl6zTBKfJLFKKK",
+          "name": "jvke"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0f5a92da1fbd24ee40cc07b",
+      "uri": "spotify:album:22nkSNKTUHXSVsMj1H4y9i",
+      "name": "听不见的歌 (电影《不说话的爱》宣传曲)",
+      "album_type": "single",
+      "release_date": "2025-04-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736fc732854af020e251ce3ae0",
+      "uri": "spotify:album:0b8odQXmSCw7omSmco0J71",
+      "name": "开天",
+      "album_type": "single",
+      "release_date": "2025-01-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273352a94010f14be0d5f038505",
+      "uri": "spotify:album:1JAO6pZMn9SEl4sT2c1z77",
+      "name": "this must be love",
+      "album_type": "single",
+      "release_date": "2024-12-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273355fe7a22bc6e0bb7e4ccd7b",
+      "uri": "spotify:album:2mlf0X97mHtrwfLl0jZtZC",
+      "name": "what about love",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334225567a38cf41d6f88f8f1",
+      "uri": "spotify:album:2fzOroxIkIOdySUVFr8joL",
+      "name": "我的主場（愛奇藝運動少年勵志成長類節目《我的主場》同名主題曲）",
+      "album_type": "single",
+      "release_date": "2024-10-26",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273440b7e3a3ef3aa5697eab0fb",
+      "uri": "spotify:album:1Q58jE4cuR8BCcgcfIIeoa",
+      "name": "step (deluxe version)",
+      "album_type": "album",
+      "release_date": "2024-06-25",
+      "release_year": "2024",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5c4bbec8a4c17633fbf1d4f",
+      "uri": "spotify:album:7ouKhEyy9jcnDeg9KNnXe9",
+      "name": "step",
+      "album_type": "album",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d61baaf36d03047d911fb63",
+      "uri": "spotify:album:0SJAG95v9GdmEIJRFRwYa1",
+      "name": "shuffle",
+      "album_type": "single",
+      "release_date": "2024-05-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3285c0896d8a682f87071e9",
+      "uri": "spotify:album:0aX0YIL3L77ORlC60LxKW9",
+      "name": "psychic (chinese version)",
+      "album_type": "single",
+      "release_date": "2024-04-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f67904a5131a200793bb293",
+      "uri": "spotify:album:4uqK3r60uam9Qy1a1KPZ2r",
+      "name": "psychic",
+      "album_type": "single",
+      "release_date": "2024-04-17",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739768141efc47741af5e7fd2d",
+      "uri": "spotify:album:71LMx3IG3zfAcYXdzTfb6r",
+      "name": "run back to you (vidi remix)",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "5JZ7CnR6gTvEMKX4g70Amv",
+          "name": "lauv"
+        },
+        {
+          "spotify_id": "4crs55NFrnArSpE78rohLS",
+          "name": "vidi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382815ae960efa3e284e0b2a0",
+      "uri": "spotify:album:1OEWnZJ9NPQ1U5mpWLPLza",
+      "name": "run back to you",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "5JZ7CnR6gTvEMKX4g70Amv",
+          "name": "lauv"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f27f5399c3dd8cecd0436649",
+      "uri": "spotify:album:4pLyc57YTVOwqJ3A6aTytX",
+      "name": "做自己的太陽 (電影《熱辣滾燙》熱辣充電曲)",
+      "album_type": "single",
+      "release_date": "2024-02-13",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb8b02636de417a62717247",
+      "uri": "spotify:album:4KpY6cMN9N2roUiRQ1mQCi",
+      "name": "the direction",
+      "album_type": "single",
+      "release_date": "2023-12-03",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273628516889b4917ca52f3c284",
+      "uri": "spotify:album:59jIvkLJGsdAS4cuNMIdPN",
+      "name": "racks on me",
+      "album_type": "single",
+      "release_date": "2023-08-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1oepyvIp0DGLIwkRxXEUmK",
+          "name": "d.n.a"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "3fkwbLdzv3rzPg19f2YHOL",
+          "name": "彈殼danko"
+        },
+        {
+          "spotify_id": "6JdWTP0GWa4bIM98LSFN0F",
+          "name": "王子异"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273203bc8552bf5e332f7eb29a0",
+      "uri": "spotify:album:3Yq6wBJlEi2J5NoTiQX1Hc",
+      "name": "right back",
+      "album_type": "single",
+      "release_date": "2023-08-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1oepyvIp0DGLIwkRxXEUmK",
+          "name": "d.n.a"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273899e00c4142890bff2d416d3",
+      "uri": "spotify:album:3AoK6lDRQIDNTyO13UouxO",
+      "name": "break my heart",
+      "album_type": "single",
+      "release_date": "2023-06-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1oepyvIp0DGLIwkRxXEUmK",
+          "name": "d.n.a"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "6oYvpkS6pM9ts4nbXRaINg",
+          "name": "vinida weng"
+        },
+        {
+          "spotify_id": "5RtnVWT1qYQHMxM3IVkqnu",
+          "name": "gali"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a72ed6b2d038cca697a08b4",
+      "uri": "spotify:album:7M3s4j0hV3m0f0ztWJ0CaY",
+      "name": "alive",
+      "album_type": "single",
+      "release_date": "2023-05-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e545b5faba0ac0ccd842247c",
+      "uri": "spotify:album:5HWHsxbyklQeTtxER3jJe5",
+      "name": "星星海",
+      "album_type": "single",
+      "release_date": "2023-04-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa171fe68950ad8f652d1690",
+      "uri": "spotify:album:4arOS1rImeMUZd859MyG4X",
+      "name": "all in",
+      "album_type": "single",
+      "release_date": "2023-04-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1oepyvIp0DGLIwkRxXEUmK",
+          "name": "d.n.a"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "5JeG2s3c6lfmx7S0ifZAO6",
+          "name": "馬伯騫"
+        },
+        {
+          "spotify_id": "7rXM91kSsqGzvYANukdQJD",
+          "name": "單依純"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f56d902e40751c39e9b451cf",
+      "uri": "spotify:album:0WWYy7jNM7S9pmh8i9YG2A",
+      "name": "小小大爱",
+      "album_type": "single",
+      "release_date": "2023-01-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc4ac03b87c4edcb1689862a",
+      "uri": "spotify:album:7Id27hoZ9cJNpaqPwEfwwb",
+      "name": "沒什麼能給你 (nothing with me)",
+      "album_type": "single",
+      "release_date": "2022-12-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367fc8fd85739ae2fac5e108e",
+      "uri": "spotify:album:7IHGd2XH72C5lrCvmvCJmR",
+      "name": "西",
+      "album_type": "single",
+      "release_date": "2022-09-24",
+      "release_year": "2022",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e57254891caaa947e0661dd7",
+      "uri": "spotify:album:0DTOkybWlgvGdVURysoQrZ",
+      "name": "面纱 (中文版)",
+      "album_type": "single",
+      "release_date": "2022-09-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba7d847f5dc5a101455d8af4",
+      "uri": "spotify:album:172OQvYZ6yuouqU0IPYUK7",
+      "name": "热爱(time to shine)",
+      "album_type": "single",
+      "release_date": "2022-05-31",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "1H7U8mpUmfLmpRBCzQbluR",
+          "name": "尼克·杨"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e8435ea4ec2e5b16bea2c0c",
+      "uri": "spotify:album:78Yo8PKLNKJsVuqFQylA9l",
+      "name": "酒 (jiu)",
+      "album_type": "single",
+      "release_date": "2022-04-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273521d5ef194ecfcb1f43a388c",
+      "uri": "spotify:album:2y4Lybj9lGfsKxoWsK0sNJ",
+      "name": "陪著你",
+      "album_type": "single",
+      "release_date": "2021-11-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27344f00920610073a9f853d764",
+      "uri": "spotify:album:5mwMJmjJuCAz27X8rn1zw8",
+      "name": "東",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f50dd5d3234ee304e51a9857",
+      "uri": "spotify:album:5zcB6CfeyFYhJrvINpzOOx",
+      "name": "三昧真火",
+      "album_type": "single",
+      "release_date": "2021-10-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "5RtnVWT1qYQHMxM3IVkqnu",
+          "name": "gali"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b43a153bfae9f9fff5229d5f",
+      "uri": "spotify:album:7KVVfotZYLbM4rYaSGLrMX",
+      "name": "producer",
+      "album_type": "album",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738859fd5125fcee86c82005cf",
+      "uri": "spotify:album:5ihkLKYe0A9iRu6RbLS0WM",
+      "name": "descendants of the dragon (remix)",
+      "album_type": "single",
+      "release_date": "2020-10-04",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cd3f5800a9186db761895ece",
+      "uri": "spotify:album:1R4JHh85LKUpIsUzyhAH5L",
+      "name": "boom (r3hab remix)",
+      "album_type": "single",
+      "release_date": "2020-09-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd63a3fe62e35a5f24eae044",
+      "uri": "spotify:album:0c6Xk5SmzXix6ZcyipZ0D5",
+      "name": "gluttony",
+      "album_type": "single",
+      "release_date": "2020-09-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335725c6347f28d7345ca29d8",
+      "uri": "spotify:album:0RC2WnrP7RwfII4HTX4vPM",
+      "name": "蓮",
+      "album_type": "album",
+      "release_date": "2020-07-21",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731083e365405644b02afa7bd7",
+      "uri": "spotify:album:0pjTVlyFLA9Rc07VReYpdA",
+      "name": "蹦",
+      "album_type": "single",
+      "release_date": "2020-07-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c679b2d4cf9426b8e537949",
+      "uri": "spotify:album:5QXQZ3iBGygvNV8prDTggC",
+      "name": "蓮",
+      "album_type": "single",
+      "release_date": "2020-05-31",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f29652d719ac7ac1b37dc66",
+      "uri": "spotify:album:1gWPazBSOed457qwhsL9g8",
+      "name": "玉",
+      "album_type": "single",
+      "release_date": "2020-05-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397425c2d8cc64ba68c9bb077",
+      "uri": "spotify:album:6avR8PGvjeNiHbbKNH6lJq",
+      "name": "namanana (remix)",
+      "album_type": "single",
+      "release_date": "2020-01-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb1f1bdde29478d98dba290b",
+      "uri": "spotify:album:2WB8mlucWHQeC3CAFXGaCj",
+      "name": "外婆",
+      "album_type": "single",
+      "release_date": "2019-12-16",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dc20fe295b23feef7e7e7bd",
+      "uri": "spotify:album:16I8QzqlfQFUJmjvkMRATp",
+      "name": "honey",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ebcffa9629a4375f74fa9c7",
+      "uri": "spotify:album:1UFF3YEixJrTqoKctR5e7Z",
+      "name": "when it's christmas",
+      "album_type": "single",
+      "release_date": "2018-12-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c422053e16343561105feab3",
+      "uri": "spotify:album:2OUayZ4Jvtv4zT6uxRdREl",
+      "name": "namanana - the 3rd album",
+      "album_type": "album",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ad8a7e3ec8a297325e7a731",
+      "uri": "spotify:album:1D8ziLcedBmzGZsLqaUSUl",
+      "name": "give me a chance",
+      "album_type": "single",
+      "release_date": "2018-10-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731676ab780e793f24b6a34cdc",
+      "uri": "spotify:album:2ZsCn6RLSuJ1Fsh6arzcus",
+      "name": "sheep (alan walker relift)",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        },
+        {
+          "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+          "name": "alan walker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c7c0f6deeeeadc1bd94f424",
+      "uri": "spotify:album:5clpTfgrUfTg4EoJ2eWMSe",
+      "name": "winter special gift",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ff3fbd7ba89d30b3242b1cf",
+      "uri": "spotify:album:18IRk3vprPVqDkOnrA3LAf",
+      "name": "lay 02 sheep",
+      "album_type": "album",
+      "release_date": "2017-10-07",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307445262aa684c5e331a1fba",
+      "uri": "spotify:album:056cMKYvYTtk35XrYRooLq",
+      "name": "健康动起来",
+      "album_type": "single",
+      "release_date": "2017-01-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BJAJVcwKlhMY94sZ4HGTI",
+          "name": "jing bo ran"
+        },
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aacfeb053e70735bb0d2d30e",
+      "uri": "spotify:album:6tO92JJQsdLp6NX0JGvRJa",
+      "name": "lose control – the 1st mini album",
+      "album_type": "single",
+      "release_date": "2016-10-28",
+      "release_year": "2016",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f353c111db308eb834e51ed1",
+      "uri": "spotify:album:3662XGzxLUvsVnhIMHxACs",
+      "name": "what u need?",
+      "album_type": "single",
+      "release_date": "2016-10-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273649fbe03a3e0b51109d5fd81",
+      "uri": "spotify:album:7xyTfd0rWjxdLLqNtvqayI",
+      "name": "모노드라마 monodrama - sm station",
+      "album_type": "single",
+      "release_date": "2016-05-27",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4o7tWrzQOqarDtTMWD2HV9",
+          "name": "lay"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:19:54.000Z"
+}

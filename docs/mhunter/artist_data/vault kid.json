@@ -1,0 +1,342 @@
+{
+  "name": "vault kid",
+  "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+  "uri": "spotify:artist:3dmJJcwx5LqaQza7aKwNZZ",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7338d33134868da133a02b8a",
+  "genres": [
+    "vocaloid"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba7b871c9286d2fe56c91acd",
+      "uri": "spotify:album:0aqNL2eKqkcNx2wnUDknik",
+      "name": "new dance every night",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398090b3833788b1a1f96e86e",
+      "uri": "spotify:album:67vVDN8yxCNYAcPkLV6dNF",
+      "name": "rave racer",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e93edfe5524e99f444ca27a",
+      "uri": "spotify:album:29I8gIvJLip2a0w7ycMyNY",
+      "name": "thousand little voices (vault kid remix)",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "0jPCckL8NA2gFhcFkYz6mE",
+          "name": "flanger moose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373180219bd1316494159503e",
+      "uri": "spotify:album:3SAjmKooD12qoNU3VYin6J",
+      "name": "remember",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "2dOruIQhdUjjaU5PCUyc5h",
+          "name": "rishie-p"
+        },
+        {
+          "spotify_id": "23jgcXKtFkFBbXW3M1aRI4",
+          "name": "signal from afar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273507f54076e5903ed432b0c8e",
+      "uri": "spotify:album:1owsP2cgUFKVNSrTd1IDdz",
+      "name": "chiptune friends",
+      "album_type": "single",
+      "release_date": "2024-07-23",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "57iIR5vpZBnnUkueVLyaEE",
+          "name": "laamaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273452aa0ed0ab8e4738f16b2d4",
+      "uri": "spotify:album:50fdWvw2fd6SQVZYIIXOMt",
+      "name": "loser (vault kid remix)",
+      "album_type": "single",
+      "release_date": "2022-03-09",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2X9zSVoTOil87XIIUi6dHW",
+          "name": "koge"
+        },
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f9c0cdeacdf4325ca6cf9cc",
+      "uri": "spotify:album:3jehd70o5z7vsJ1a1Sit1u",
+      "name": "i can't sleep",
+      "album_type": "single",
+      "release_date": "2022-02-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "4RXqrh1hFQXLOroqkVL91u",
+          "name": "empathp"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bcb0f7847a7836e46656cc9",
+      "uri": "spotify:album:07pcvGJSzZQMDDmuCk6bju",
+      "name": "starborn (vault kid remix)",
+      "album_type": "single",
+      "release_date": "2021-12-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2Xgyzve6QUIIcIY78vdBVx",
+          "name": "throno crigger"
+        },
+        {
+          "spotify_id": "2gssycmCzPfVvEfhaYYRjp",
+          "name": "breakbeat heartbeat"
+        },
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381b66aa10e96d9a5a71adf1a",
+      "uri": "spotify:album:7vrvpuhAUuOawYMEot3abv",
+      "name": "board wipe",
+      "album_type": "single",
+      "release_date": "2021-11-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "6DZ9D3kN5GntIaTLC7sTxp",
+          "name": "add ten"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4c70ea9c8ee3c23a1c0c904",
+      "uri": "spotify:album:7H0p81LkWdBJB0voGOkVui",
+      "name": "sleeping forest",
+      "album_type": "single",
+      "release_date": "2021-09-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "5HztcK51UsmGEEXzrLVS5k",
+          "name": "party-p"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304414fbda99f94051c8060c8",
+      "uri": "spotify:album:6G3vImHeM2wCumyF3s3dvw",
+      "name": "late night coffee",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c77d91f3efacab68cb7bc93",
+      "uri": "spotify:album:7MTz1Iuj8AMD7UZF7KghgI",
+      "name": "good old times",
+      "album_type": "single",
+      "release_date": "2021-01-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37RcshibgUeUWcUJzhXAV5",
+          "name": "3xblast"
+        },
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b277f32a1658aff9c0da1fc",
+      "uri": "spotify:album:3SyVrYP097G7sIkj6m5nDb",
+      "name": "thousand little voices",
+      "album_type": "single",
+      "release_date": "2021",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "1ygJLvJSdB8wgE0B1fZHPf",
+          "name": "flangermoose"
+        },
+        {
+          "spotify_id": "6pNgnvzBa6Bthsv8SrZJYl",
+          "name": "hatsune miku"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed72769206978fad89b61227",
+      "uri": "spotify:album:4SGsBmBUgVd6EB99ytHRsX",
+      "name": "childhood universe",
+      "album_type": "single",
+      "release_date": "2020-11-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273883d7b21011305216933bc79",
+      "uri": "spotify:album:21fzlTmCLIEMH2vZAHLKoU",
+      "name": "where are the game boys?",
+      "album_type": "album",
+      "release_date": "2020-08-27",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273437bfbb92d778bbce64fa9a7",
+      "uri": "spotify:album:7EwNUj7Btewznrap8FndFM",
+      "name": "shifting gears",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        },
+        {
+          "spotify_id": "7lkYpn12x44PL2o19q4IVZ",
+          "name": "telling tales"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2ef77c00e13b875c1c1b800",
+      "uri": "spotify:album:5tu0Mmh7xf8k8VLK4d4y7e",
+      "name": "space magic (vault kid remix)",
+      "album_type": "single",
+      "release_date": "2020-05-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5tXUIbGjW1uqXoy8cPW8MB",
+          "name": "meganeko"
+        },
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371b17e79d2a873fe12a7c550",
+      "uri": "spotify:album:2iwEb7zjcXi8uC5rwP2lzh",
+      "name": "into the vault",
+      "album_type": "album",
+      "release_date": "2018-08-18",
+      "release_year": "2018",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3dmJJcwx5LqaQza7aKwNZZ",
+          "name": "vault kid"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:11.000Z"
+}

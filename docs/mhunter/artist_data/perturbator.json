@@ -1,0 +1,437 @@
+{
+  "name": "perturbator",
+  "spotify_id": "244uLu9lkdw39BJwlul3k8",
+  "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7aa1171baef93e682ceb9ea8",
+  "genres": [
+    "synthwave",
+    "darkwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d681adf0becaafefa2d21404",
+      "uri": "spotify:album:3ZXd4o2kk2UjDcfpQnZjMN",
+      "name": "age of aquarius",
+      "album_type": "album",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfcde82470bc9470eb18d1af",
+      "uri": "spotify:album:24hRCjojA1EHDr2bfHEboC",
+      "name": "mors ultima ratio",
+      "album_type": "single",
+      "release_date": "2025-09-03",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377f685a1d18532c1d68057b6",
+      "uri": "spotify:album:3w0OKp2NNrdqIgOcp4PjkY",
+      "name": "the swimming pool",
+      "album_type": "single",
+      "release_date": "2025-07-29",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a13fcabc424458a8979fcade",
+      "uri": "spotify:album:2mOc5AyUWrGfqkvLZxXePv",
+      "name": "apocalypse now",
+      "album_type": "single",
+      "release_date": "2025-06-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e743721611d042f9951b09f",
+      "uri": "spotify:album:4u62wKZUvpzQJ9K1mcCgjd",
+      "name": "the art of war",
+      "album_type": "single",
+      "release_date": "2025-04-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393272d503b6503e9aa2ad602",
+      "uri": "spotify:album:3UhSZeaDhl8KwRu2HYsmMx",
+      "name": "bloodlust (inspired by the motion picture \"divinity\")",
+      "album_type": "single",
+      "release_date": "2024-01-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fa8fe99225e591592ed8fd3",
+      "uri": "spotify:album:4Alm04NrNTGpOUayIxt09r",
+      "name": "dangerous (from the “american psycho” comic series soundtrack)",
+      "album_type": "single",
+      "release_date": "2023-12-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        },
+        {
+          "spotify_id": "0TX5hBElWz9SLYgI7IGUvO",
+          "name": "american psycho"
+        },
+        {
+          "spotify_id": "5QMc0PrMg17fVZ5etnNGqu",
+          "name": "sumerian comics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c73e8690ade086386167f191",
+      "uri": "spotify:album:3nRO4FuJV1PGP9PfhVoY0Z",
+      "name": "final light",
+      "album_type": "album",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        },
+        {
+          "spotify_id": "3xV1nzks756iynRSEAN2ux",
+          "name": "johannes persson"
+        },
+        {
+          "spotify_id": "4Uiua0tWypGcttzUkddFMH",
+          "name": "final light"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332494094bf155a609d7764c6",
+      "uri": "spotify:album:3VuPP5jCAcuZh0PWIVVeZm",
+      "name": "final light",
+      "album_type": "single",
+      "release_date": "2022-05-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        },
+        {
+          "spotify_id": "3xV1nzks756iynRSEAN2ux",
+          "name": "johannes persson"
+        },
+        {
+          "spotify_id": "4Uiua0tWypGcttzUkddFMH",
+          "name": "final light"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b527c3bc290124d5cd1ab198",
+      "uri": "spotify:album:5aiIy9BVEoDh7AdP3PoDbf",
+      "name": "in the void",
+      "album_type": "single",
+      "release_date": "2022-04-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        },
+        {
+          "spotify_id": "3xV1nzks756iynRSEAN2ux",
+          "name": "johannes persson"
+        },
+        {
+          "spotify_id": "4Uiua0tWypGcttzUkddFMH",
+          "name": "final light"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737738de08744799e2a07206f9",
+      "uri": "spotify:album:3FECS09j7RIWgBgtfSpzsO",
+      "name": "lustful sacraments",
+      "album_type": "album",
+      "release_date": "2021-05-26",
+      "release_year": "2021",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390f639bc7b69b1311972ecd7",
+      "uri": "spotify:album:662lJS2xFuSMlJNmEC1TTI",
+      "name": "excess",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        },
+        {
+          "spotify_id": "4QtqJ5KVIhBruJWEhWjnsv",
+          "name": "author & punisher"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349b81f750bd0103b2b8035a4",
+      "uri": "spotify:album:1Au1EhZJg35sUrSVm1W2Ej",
+      "name": "death of the soul",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3d4959a134fc642faf4039b",
+      "uri": "spotify:album:2ReUNPc0bHIXNm89oKqjf9",
+      "name": "sapphire (perturbator version)",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+          "name": "alcest"
+        },
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368487f98c96e80d0e62e13ea",
+      "uri": "spotify:album:7nAbdfy4wo0NxqM8WrhHs4",
+      "name": "cygnus (remix)",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7E7fJJpdVgr1F3pfAfRtHe",
+          "name": "cult of luna"
+        },
+        {
+          "spotify_id": "4rHZDNrVu2XkdO7eysOHei",
+          "name": "julie christmas"
+        },
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4ce539a7dbd6f7813788eb2",
+      "uri": "spotify:album:6m0H7ddkyUtgx00WphQCwB",
+      "name": "new model",
+      "album_type": "album",
+      "release_date": "2017-10-19",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c4d73f41735ceaf670875f3",
+      "uri": "spotify:album:267ZxWDVHsYQy06JzXSZRf",
+      "name": "tactical precision disarray",
+      "album_type": "single",
+      "release_date": "2016-12-13",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bd7c7c0b0b0e4e38d2feafc",
+      "uri": "spotify:album:1P0XIILJzTc9SzkZe4QutA",
+      "name": "the uncanny valley",
+      "album_type": "album",
+      "release_date": "2016-05-06",
+      "release_year": "2016",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5b633fa01c7b005f56e37f8",
+      "uri": "spotify:album:6T9D87cBW0VXfmGdwzlK5Q",
+      "name": "the uncanny valley (expansion)",
+      "album_type": "single",
+      "release_date": "2016-05-06",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737be0bdb1f8731f9af3e95812",
+      "uri": "spotify:album:0GzBfwarPFhAdfLNHfgaRT",
+      "name": "dangerous days",
+      "album_type": "album",
+      "release_date": "2014-06-17",
+      "release_year": "2014",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273006d9b44a69519b1f1a82b88",
+      "uri": "spotify:album:7CI3Xo1GH6aiU7GRlHz0bu",
+      "name": "sexualizer ep",
+      "album_type": "single",
+      "release_date": "2013-06-01",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ad33daf40abe2f1d6512cef",
+      "uri": "spotify:album:1boANaRfN0OSTEiQaEuFMd",
+      "name": "i am the night",
+      "album_type": "album",
+      "release_date": "2012-12-21",
+      "release_year": "2012",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b8835366e419d606cd6ec015",
+      "uri": "spotify:album:0GzrOGG0vhAarA7XOYIBKk",
+      "name": "nocturne city",
+      "album_type": "single",
+      "release_date": "2012-08-02",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7df429d9ef2242bfac00656",
+      "uri": "spotify:album:7D8HvJ0hLhwsCSWdvftLnR",
+      "name": "terror 404",
+      "album_type": "album",
+      "release_date": "2012-05-01",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b647ad64a70396dda26514e3",
+      "uri": "spotify:album:4RPZwe7DRyQd805dyzs1pC",
+      "name": "night driving avenger ep",
+      "album_type": "single",
+      "release_date": "2012-03-12",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "244uLu9lkdw39BJwlul3k8",
+          "name": "perturbator"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:53.000Z"
+}

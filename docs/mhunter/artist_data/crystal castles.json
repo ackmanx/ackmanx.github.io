@@ -1,0 +1,165 @@
+{
+  "name": "crystal castles",
+  "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+  "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+  "image_url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+  "genres": [
+    "witch house",
+    "electroclash",
+    "new rave",
+    "alternative dance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735702c637df43dc412b2c4c16",
+      "uri": "spotify:album:6HZXm2dU64M93qJYqJvG3b",
+      "name": "char",
+      "album_type": "single",
+      "release_date": "2016-12-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8",
+      "uri": "spotify:album:60f7DBZ5BIKTlaGak6ooUU",
+      "name": "amnesty (i)",
+      "album_type": "album",
+      "release_date": "2016-08-19",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0e5e032fffcd503078d13c4",
+      "uri": "spotify:album:3wA3qETT8erIgLUki7BbSi",
+      "name": "fleece",
+      "album_type": "single",
+      "release_date": "2016-08-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a5d807dfb18c4499bfcff29f",
+      "uri": "spotify:album:1XsNpmfSvqKPyjCYZfE4YC",
+      "name": "concrete",
+      "album_type": "single",
+      "release_date": "2016-06-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
+      "uri": "spotify:album:1NIfkZIYVAO6vnfmFOilHc",
+      "name": "(iii)",
+      "album_type": "album",
+      "release_date": "2012-01-01",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2f9325c07a81c55a7f3e5e",
+      "uri": "spotify:album:5nHvMBqwzqQIFdVFE1BIcx",
+      "name": "(ii)",
+      "album_type": "album",
+      "release_date": "2011-01-01",
+      "release_year": "2011",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b",
+      "uri": "spotify:album:3VsZ5nZGgyH30IDaCP4GeQ",
+      "name": "crystal castles (ii)",
+      "album_type": "album",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c906680e6dc98c18746aef9",
+      "uri": "spotify:album:69Zz5BPaaIklmFHwPnE3Eq",
+      "name": "celestica",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdbeeb28dd23267ebaeca746",
+      "uri": "spotify:album:1L67mvXiI9saihlfnF0e8F",
+      "name": "not in love",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi",
+      "name": "crystal castles",
+      "album_type": "album",
+      "release_date": "2008-03-18",
+      "release_year": "2008",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "crystal castles"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:07:30.000Z"
+}

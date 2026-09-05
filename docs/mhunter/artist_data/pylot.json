@@ -1,0 +1,473 @@
+{
+  "name": "pylot",
+  "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+  "uri": "spotify:artist:3ZLe7OttXFn3JOPVZ9Vrr0",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3724bd00f4d39a8d051e0d69",
+  "genres": [
+    "synthwave",
+    "vaporwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360d88d48a8d75e551d221af5",
+      "uri": "spotify:album:7h4hx7S1vSnoRdMyD0SRrV",
+      "name": "the carbon ghost",
+      "album_type": "single",
+      "release_date": "2026-07-31",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316f51eae66c190979f9948a0",
+      "uri": "spotify:album:0wQAmln55iRSysZWNhNraL",
+      "name": "faded light",
+      "album_type": "single",
+      "release_date": "2025-04-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        },
+        {
+          "spotify_id": "5WwVE1UtiLGcfAStm26V9I",
+          "name": "ezra hyte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cb6f0e6c121a2e9069ae493",
+      "uri": "spotify:album:4aUjwqHinp9X9FlN77Y37u",
+      "name": "the return (rework)",
+      "album_type": "single",
+      "release_date": "2024-09-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a37b644899f10f5daf094e4",
+      "uri": "spotify:album:1TvVp8YyZoymMXHNepKpl8",
+      "name": "axiom",
+      "album_type": "album",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f83e3617199ec3b28ab1359",
+      "uri": "spotify:album:2czGXK8dmyg00vFgULtZd5",
+      "name": "time bomb",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        },
+        {
+          "spotify_id": "1ORiJUi5AjtGFH0obNFyOo",
+          "name": "tyler lyle"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301755fb98255bac6685c38de",
+      "uri": "spotify:album:5A624L3aNoTqg6jlMw0B9W",
+      "name": "the law",
+      "album_type": "single",
+      "release_date": "2023-09-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1ldNdtZX38LAsOk0ciLvb2",
+          "name": "f.o.o.l"
+        },
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a6af3cb1ed6403f43fa49bc",
+      "uri": "spotify:album:1fBZq2orMp95IAeQy3ZDl9",
+      "name": "bloodgown",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314659c60fb1be359232a1112",
+      "uri": "spotify:album:73FfSttGPciqP1Z5XKj9pC",
+      "name": "invisible",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac21373c76d14795e5e69f11",
+      "uri": "spotify:album:4tAtP3CO5LVmvdkygvziJK",
+      "name": "upgrades",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a050c2a2dc15cf108ff58b90",
+      "uri": "spotify:album:6Ml0baIxoldVxxhRHILocv",
+      "name": "out of luck",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3kwoPkICT4iPkNjr6mL13N",
+          "name": "tokyo rose"
+        },
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        },
+        {
+          "spotify_id": "3vc0JWD1Nj1VLrgJ1x3cjE",
+          "name": "essenger"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3185e3cdba86b009a8b15f9",
+      "uri": "spotify:album:0eXhTN81ZKK3kKh8b3A0s2",
+      "name": "brawl",
+      "album_type": "single",
+      "release_date": "2021-06-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        },
+        {
+          "spotify_id": "3ajU0FztvIxRclcrrq3LR5",
+          "name": "mcrocklin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0c68acc9de9d643985e703b",
+      "uri": "spotify:album:7nTkU9kVq3OAwW5ckjqd8d",
+      "name": "the return",
+      "album_type": "single",
+      "release_date": "2020-08-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313fb77f84fbb0b43e9dd8d53",
+      "uri": "spotify:album:3iOXS33Q1nTpTOncGVmtdv",
+      "name": "aeon",
+      "album_type": "single",
+      "release_date": "2020-06-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0dalJaAT80lKfkZsC86lnW",
+          "name": "power glove"
+        },
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf1dbf3fffbe9486af60209b",
+      "uri": "spotify:album:1jpQrGA71uihj9FfHn4BWI",
+      "name": "out of luck",
+      "album_type": "single",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3vc0JWD1Nj1VLrgJ1x3cjE",
+          "name": "essenger"
+        },
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        },
+        {
+          "spotify_id": "3kwoPkICT4iPkNjr6mL13N",
+          "name": "tokyo rose"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dab11c43ff932ee54b107be",
+      "uri": "spotify:album:4ToumAqAUcylBiAf3QP7ug",
+      "name": "offworld",
+      "album_type": "single",
+      "release_date": "2020-01-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3vc0JWD1Nj1VLrgJ1x3cjE",
+          "name": "essenger"
+        },
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e12fea79bece686ccb1fafad",
+      "uri": "spotify:album:749OU5r8BfRhY6caGdzRo4",
+      "name": "fearless",
+      "album_type": "single",
+      "release_date": "2019-06-28",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c49f452bc41a9ddb4e55828",
+      "uri": "spotify:album:1bYzU5vcNDHjnsJIpBtPvf",
+      "name": "solai",
+      "album_type": "single",
+      "release_date": "2019-03-21",
+      "release_year": "2019",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b92f244db4c47ed6a40c738",
+      "uri": "spotify:album:2WpWTOPRjcOfOWUS8XSu6R",
+      "name": "lost",
+      "album_type": "single",
+      "release_date": "2019-03-04",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273184604f1beb5f0a603f2a454",
+      "uri": "spotify:album:3wwjDBE8eNzgNVIxnWuwwc",
+      "name": "alice",
+      "album_type": "single",
+      "release_date": "2019-02-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b69bf33e00df1e3d738d601",
+      "uri": "spotify:album:2kA9x0fT7uFi87Haw8QkSt",
+      "name": "cruising",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738412914a3fe3a4ad94ed12cd",
+      "uri": "spotify:album:73arbUMpzqubt49GdBO1O4",
+      "name": "welcome",
+      "album_type": "single",
+      "release_date": "2017-10-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bba523cb618e9e186ddf1ad",
+      "uri": "spotify:album:1h0FMSGyYILzxoBaJj9cMx",
+      "name": "duel",
+      "album_type": "single",
+      "release_date": "2017-08-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff12277114743fef37f483b9",
+      "uri": "spotify:album:1wads7lyvAA6Vp17adgQLt",
+      "name": "shadowtask",
+      "album_type": "single",
+      "release_date": "2017-01-23",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d53d4c762e2f4342dc54ba3",
+      "uri": "spotify:album:6qyxP5qq5U1Wkubx3WM4Hi",
+      "name": "the place i once knew",
+      "album_type": "single",
+      "release_date": "2016-04-13",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273286b8074240d06eda2b912a7",
+      "uri": "spotify:album:5fMtNDdNeHBeAigUNYKmbS",
+      "name": "a race against time",
+      "album_type": "single",
+      "release_date": "2016-01-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730020e47352f2181069b301e9",
+      "uri": "spotify:album:620cxIjuBfx7SC7940Ux9T",
+      "name": "blurred vision",
+      "album_type": "single",
+      "release_date": "2015-08-26",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273870f87e44582c67c00a866c3",
+      "uri": "spotify:album:2rYlppBhYK0YaUOB1NAf5u",
+      "name": "flashbacks",
+      "album_type": "single",
+      "release_date": "2015-03-03",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273402d484ec54a3e8af27988b0",
+      "uri": "spotify:album:3Hb9vEOWe09LMCiNeroYvm",
+      "name": "after dark",
+      "album_type": "single",
+      "release_date": "2015-01-07",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3ZLe7OttXFn3JOPVZ9Vrr0",
+          "name": "pylot"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:27:07.000Z"
+}

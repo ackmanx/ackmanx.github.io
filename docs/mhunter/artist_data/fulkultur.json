@@ -1,0 +1,72 @@
+{
+  "name": "fulkultur",
+  "spotify_id": "5nDbivjnpds6YhiPu8UY61",
+  "uri": "spotify:artist:5nDbivjnpds6YhiPu8UY61",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2739ad617d30a46054723aded61",
+  "genres": [
+    "swedish pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739b3b2937a2c37e7fa26ffaaf",
+      "uri": "spotify:album:1QLrgvnrIsXwQL6cYpScO8",
+      "name": "the ugly dance",
+      "album_type": "single",
+      "release_date": "2011-11-28",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nDbivjnpds6YhiPu8UY61",
+          "name": "fulkultur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ef35f939edc2b4004598f92",
+      "uri": "spotify:album:6VGuRBvrc99NMQvc3wrymP",
+      "name": "masshypnos",
+      "album_type": "single",
+      "release_date": "2011-05-09",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nDbivjnpds6YhiPu8UY61",
+          "name": "fulkultur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273915fbadd9e07dc833f83ffc0",
+      "uri": "spotify:album:0vCYhfR8OVYv1VAvyKqj6p",
+      "name": "grrr",
+      "album_type": "single",
+      "release_date": "2010-10-28",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5nDbivjnpds6YhiPu8UY61",
+          "name": "fulkultur"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ad617d30a46054723aded61",
+      "uri": "spotify:album:5YcaaJrcifln8BIU0BBGVr",
+      "name": "fuldans",
+      "album_type": "single",
+      "release_date": "2010-09-20",
+      "release_year": "2010",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5nDbivjnpds6YhiPu8UY61",
+          "name": "fulkultur"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:11.000Z"
+}

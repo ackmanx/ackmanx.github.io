@@ -1,0 +1,74 @@
+{
+  "name": "shutdown",
+  "spotify_id": "4yIQl6B6ngQHbxZl9y19Yj",
+  "uri": "spotify:artist:4yIQl6B6ngQHbxZl9y19Yj",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb359c53fffc72d588b0876094",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382a8df47dabb9e208695cf96",
+      "uri": "spotify:album:09JESHhkqhd1YHXx0ySoXl",
+      "name": "moonshot",
+      "album_type": "single",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1bZ1GEpzyytDbqxF97tJ0e",
+          "name": "wrthy"
+        },
+        {
+          "spotify_id": "4yIQl6B6ngQHbxZl9y19Yj",
+          "name": "shutdown"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c268ff938e3c3e00bde007e2",
+      "uri": "spotify:album:3IfA6DOQSJa4yYGsaPc9y3",
+      "name": "conspiracy",
+      "album_type": "single",
+      "release_date": "2021-04-23",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4yIQl6B6ngQHbxZl9y19Yj",
+          "name": "shutdown"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e42206baae0ff5bc13d17e3",
+      "uri": "spotify:album:1qHaE0yknwRxtiHpOUhI5e",
+      "name": "weird science",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4yIQl6B6ngQHbxZl9y19Yj",
+          "name": "shutdown"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9d2bc75a738cd1cf3b60bdb",
+      "uri": "spotify:album:1BR1guVd8T8KXFBdibtAP4",
+      "name": "antimatter",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4yIQl6B6ngQHbxZl9y19Yj",
+          "name": "shutdown"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:29:38.000Z"
+}

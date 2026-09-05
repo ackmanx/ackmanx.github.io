@@ -1,0 +1,399 @@
+{
+  "name": "hills",
+  "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+  "uri": "spotify:artist:3r1crp6G0IKYW21wO5h7dB",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3fb74b28829b8377d6edd51e",
+  "genres": [
+    "tech house",
+    "bassline"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e690c5dead628ed3af78db9",
+      "uri": "spotify:album:4T00mkIgPqtWezHxLCf3By",
+      "name": "lift me up",
+      "album_type": "single",
+      "release_date": "2026-07-17",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a1e638e093fbe5ab4fe3779",
+      "uri": "spotify:album:54w9gYExo1XdLl0pe3UWvD",
+      "name": "blow your mind",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "4PFWrk1gURzx5KuGSSLO19",
+          "name": "esse"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731de8b32fa0526a7a74536123",
+      "uri": "spotify:album:0JD8sFcQhjXwK68RrGrh5Y",
+      "name": "break it",
+      "album_type": "single",
+      "release_date": "2026-05-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "2UMKCxDFAAy154VgUJHKN9",
+          "name": "juntaro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bb569772d6fa54debb35131",
+      "uri": "spotify:album:0gU87xAnw2Qf8BC3QRWTnu",
+      "name": "affection ep",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "4puWXySdNLeDetOFeTmdjS",
+          "name": "polovich"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341c2e20a4270973c433758f5",
+      "uri": "spotify:album:3T3KhUtiNch8N1TN9WhhuD",
+      "name": "clarity",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "2jeqYJH4s0yEiqBpfer8s9",
+          "name": "wave wave"
+        },
+        {
+          "spotify_id": "3Lhhz2OmsLzPNnSrhij4XB",
+          "name": "mary jensen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ed7e4cbd7ef697a0060a2ed",
+      "uri": "spotify:album:2fLt4wiP7yqAxkhUup1sbD",
+      "name": "right now",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "46RRZQejikNAQDn87KvrmE",
+          "name": "shilla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbec64ae215934c3d050d485",
+      "uri": "spotify:album:4JwRHfdtLukHjy0CiezO0A",
+      "name": "right now",
+      "album_type": "single",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f867ba07c8867edf169c31ca",
+      "uri": "spotify:album:0B7bXDBpSaOWEL4yASImrW",
+      "name": "swagger",
+      "album_type": "single",
+      "release_date": "2026-02-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "2cKII1nypeEZZ1JsRSPs3t",
+          "name": "welker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731197e10f7902784770ac7079",
+      "uri": "spotify:album:2NRbHo7WXkTYorgCnz3r0T",
+      "name": "turn the lights off (with jaxstyle) [hills & dansyn remix]",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0LWUxoJXKsDsPenrHZ0key",
+          "name": "justė"
+        },
+        {
+          "spotify_id": "1WD5Hdopwbbx8OdDR6jRZI",
+          "name": "jon"
+        },
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "1VnFvf8K01AoqryDdQzitv",
+          "name": "dansyn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9c71d167935744a6a152d43",
+      "uri": "spotify:album:480B8XeNqYu1lsaSyOGgqp",
+      "name": "bullseye",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738613cbacd337342b34a34e48",
+      "uri": "spotify:album:5CgZ8ciPp1h8DCdovWTQ0p",
+      "name": "afterparty",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        },
+        {
+          "spotify_id": "26KdrZAs1OJbJNI6QOLnVP",
+          "name": "gaddi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c87b1a782dfb105820333d38",
+      "uri": "spotify:album:3XnwQ88D5UqWNYXpRQw5ji",
+      "name": "cry (just a little)",
+      "album_type": "single",
+      "release_date": "2025-09-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f33fdb63ee9f34cdd70b2d96",
+      "uri": "spotify:album:5QUACIGHeyuon8k4ARWdju",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1VnFvf8K01AoqryDdQzitv",
+          "name": "dansyn"
+        },
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de881d15cf01999ef5f1fc21",
+      "uri": "spotify:album:3NVEKTgRjY5F2cjNiEeu4Q",
+      "name": "wtf",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731550b3d50c994551918154b0",
+      "uri": "spotify:album:3WOfpLYrcSowPNT5XGUb5I",
+      "name": "teardrops",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb76bb077c76576b28a378a7",
+      "uri": "spotify:album:6s78AM7PeDLKleftb1LgyL",
+      "name": "teardrops (extended)",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307054d334f2354211f163d8e",
+      "uri": "spotify:album:3URwEJGF4PEt0wjxudHoCS",
+      "name": "talk to me",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359e5a86892c6dcbacb03e5d2",
+      "uri": "spotify:album:1MN3wQfWuQuq03vMqdtUXl",
+      "name": "rack city",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349915ab2808d94b68b068172",
+      "uri": "spotify:album:67mdVbF5GykYcxqXhTHagp",
+      "name": "coolin",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9df648f7aa091e7dd13d8db",
+      "uri": "spotify:album:0nXzCSeJjnKAmfhkHzRwoq",
+      "name": "expensive taste",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a6ea1169168ee4afe5d3229",
+      "uri": "spotify:album:5yCv14qQ2LnExXXPU6dsXM",
+      "name": "let's go (hills remix)",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1eUSEIGd3eCEUOeLFgJACg",
+          "name": "jaden bojsen"
+        },
+        {
+          "spotify_id": "6V6BALByk0ltXfNPJPvwSK",
+          "name": "sami brielle"
+        },
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3437c22826972560673d5a1",
+      "uri": "spotify:album:1QCqMM5wF867kXVgmW3bKH",
+      "name": "the booth",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3r1crp6G0IKYW21wO5h7dB",
+          "name": "hills"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:16.000Z"
+}

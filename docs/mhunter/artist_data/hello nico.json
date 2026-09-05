@@ -1,0 +1,151 @@
+{
+  "name": "hello nico",
+  "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+  "uri": "spotify:artist:7x9dgKNOqskk2exnmjOEKo",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb402f88cb121c66ebf0259c2b",
+  "genres": [
+    "taiwanese indie",
+    "chinese indie",
+    "taiwanese pop",
+    "chinese rock",
+    "mandopop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381847347adaa409efe5f9d43",
+      "uri": "spotify:album:2Ja0kdz5ys4MMEKbKZVr5v",
+      "name": "滾石撞樂隊2 - 愛的初體驗",
+      "album_type": "single",
+      "release_date": "2026-01-14",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0b538986422c167df96016e",
+      "uri": "spotify:album:5BkVQHa1hyuZJGVQYlZZdh",
+      "name": "plan b：如果回來，我們一起看海",
+      "album_type": "single",
+      "release_date": "2024-09-10",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340f4ef9ab0b3a1b7918bd24f",
+      "uri": "spotify:album:6tOELOPL9pewQiA3cFk4Nh",
+      "name": "親愛的自己 (gill chang remix)",
+      "album_type": "single",
+      "release_date": "2018-12-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325dfb0ccddd71264969793d6",
+      "uri": "spotify:album:01NjevldKyA83nsKWyBP2a",
+      "name": "親愛的自己",
+      "album_type": "single",
+      "release_date": "2018-06-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1922cffdeef014082919340",
+      "uri": "spotify:album:3oeXAjC87vOpPuqj0QrfAk",
+      "name": "光塵",
+      "album_type": "single",
+      "release_date": "2018-05-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273135ef61df3ea1ae092d62f1e",
+      "uri": "spotify:album:4EhwDFdTirDdmMWsPCii8y",
+      "name": "你是被抹去的那一段風景 (tour mix)",
+      "album_type": "single",
+      "release_date": "2018-02-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273485c1d055c42fac355782539",
+      "uri": "spotify:album:7gnRD67zoSonDjTGynPKLF",
+      "name": "閉上眼睛",
+      "album_type": "single",
+      "release_date": "2016-07-30",
+      "release_year": "2016",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aa16bafc2a56c6d40b7a1e0",
+      "uri": "spotify:album:2F8NmuQpBw8tAuusp7w3v5",
+      "name": "熟悉的荒涼",
+      "album_type": "album",
+      "release_date": "2015-03-01",
+      "release_year": "2015",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370d1d978b14939b54f50c59f",
+      "uri": "spotify:album:7sJnxHjFhzyeMd0zTz5TA8",
+      "name": "浮游城市",
+      "album_type": "single",
+      "release_date": "2014-06-27",
+      "release_year": "2014",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7x9dgKNOqskk2exnmjOEKo",
+          "name": "hello nico"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:09.000Z"
+}

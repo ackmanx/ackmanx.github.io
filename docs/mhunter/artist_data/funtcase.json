@@ -1,0 +1,1181 @@
+{
+  "name": "funtcase",
+  "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+  "uri": "spotify:artist:6v1BAWFVNPbPJlnFHWR78D",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6194558ba9aeca684526d3b2",
+  "genres": [
+    "dubstep",
+    "riddim",
+    "deathstep",
+    "drumstep",
+    "bass music",
+    "dub"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304f90d22922b155728c956a0",
+      "uri": "spotify:album:1k7T0C8JPKxD2ytCllOabq",
+      "name": "run your mouth",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mO3Yf5XIPHfAbHh8yWLFk",
+          "name": "phaseone"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc7d315699c06c3d1c639838",
+      "uri": "spotify:album:5djwSRvHddVknHwfAxdHjZ",
+      "name": "funtcase & c**ts",
+      "album_type": "album",
+      "release_date": "2025-12-10",
+      "release_year": "2025",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323ed5c759e94951028cb2949",
+      "uri": "spotify:album:6XEqYRItNoiNs8F6xilfPN",
+      "name": "50 calibre (decimate remix)",
+      "album_type": "single",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6JvIjkaONqopTk15bnpLjz",
+          "name": "decimate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5c4a3826cbc2bc70f8bce71",
+      "uri": "spotify:album:6crOtqyXOgwYopX5eW1b0e",
+      "name": "suffering",
+      "album_type": "single",
+      "release_date": "2025-10-15",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6LYIuGrcT49VN5VTDIqo80",
+          "name": "master error"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b228d6a7113cfbed37fe739",
+      "uri": "spotify:album:3OdI3CjJSt9rzxRbPOA4pD",
+      "name": "terminated on sight",
+      "album_type": "single",
+      "release_date": "2025-09-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "0SBg5iDWiLS9MHx2Co2vrt",
+          "name": "persist"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb18e0de9b4a3bc0210c2fb7",
+      "uri": "spotify:album:7cFc3A2YwCqY6jmpEj66PQ",
+      "name": "get fukd",
+      "album_type": "single",
+      "release_date": "2025-08-13",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "4AoPvuN5X1A5xeCfZXRQY3",
+          "name": "mvrda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d46a0152ac3fba104d3fb87",
+      "uri": "spotify:album:4f0rsThtwA3GxNJov7sN4n",
+      "name": "f*ckin lovely",
+      "album_type": "single",
+      "release_date": "2025-07-16",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "3hMTYaexWgGkXqvbkt6EIS",
+          "name": "chime"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c977587556b91ad2a62295cb",
+      "uri": "spotify:album:05dANeHsC95TuubhqHB2NN",
+      "name": "death stomp (vip)",
+      "album_type": "single",
+      "release_date": "2025-06-18",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "7lm6PfYsdEvxXIqA5LaCA3",
+          "name": "versa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe6ab11d12b1bf55ded06166",
+      "uri": "spotify:album:6UXuNqqIBesBHwsCkitqow",
+      "name": "semtex (funtcase remix)",
+      "album_type": "single",
+      "release_date": "2025-06-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5POUA3KoQ9Y20hzBuikqim",
+          "name": "shiverz"
+        },
+        {
+          "spotify_id": "6oG74IIg7c1L9xfAvpQmeV",
+          "name": "ad"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733edf6d60ce72a10195672b6d",
+      "uri": "spotify:album:2w023GNsE0n8EmJ3syZvl5",
+      "name": "bitch",
+      "album_type": "single",
+      "release_date": "2025-05-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "3sS9RKjrDJMl7zpG3cWHk7",
+          "name": "aweminus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373c39c6695aca29606621f24",
+      "uri": "spotify:album:6iQqnL4IKQL1yzo19iwyZC",
+      "name": "rewind (funtcase remix)",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3I6KMDdmPiLE5UQ4XF8Kpl",
+          "name": "infekt"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738385dafa358bfa63761c5d0b",
+      "uri": "spotify:album:1PrRC5ym6SN5LQZbcFyhRy",
+      "name": "job for a dj",
+      "album_type": "single",
+      "release_date": "2024-10-23",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e3d361cd2c0d61b5d472578",
+      "uri": "spotify:album:3P36OiBXDkQaROVJXTBiMW",
+      "name": "drown",
+      "album_type": "single",
+      "release_date": "2024-09-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fa427222fa1eacdca48e144",
+      "uri": "spotify:album:61T7NAOWKTG0Bw5kqALWvh",
+      "name": "without (sharlitz web remix)",
+      "album_type": "single",
+      "release_date": "2024-07-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "1mkHiLPYdqC9nWgVgwmqMk",
+          "name": "sharlitz web"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1ff16105165c14e4c6f3085",
+      "uri": "spotify:album:45dxyCN7Y4NCR8zbSnuHpY",
+      "name": "go f*ck yourself",
+      "album_type": "single",
+      "release_date": "2024-06-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "4AoPvuN5X1A5xeCfZXRQY3",
+          "name": "mvrda"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306d0ede852b5b49a5b67dae5",
+      "uri": "spotify:album:6y4vldBxwlBkgDU6EEk1m3",
+      "name": "slow jams",
+      "album_type": "single",
+      "release_date": "2024-05-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "15uvoIS6p9Gs3QZSjSqIMG",
+          "name": "merky ace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273245470b6e5ffac880bfdf8dd",
+      "uri": "spotify:album:2EjoEzFjozUl4WtgqEGHls",
+      "name": "next chapter - part 2",
+      "album_type": "single",
+      "release_date": "2023-09-28",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f43b2693c703db9c706770fc",
+      "uri": "spotify:album:5Z823k0Nv8i3jxYnmbudbs",
+      "name": "get em (vip)",
+      "album_type": "single",
+      "release_date": "2023-08-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "7tsNUABqVgEPeLUd1Zdnw7",
+          "name": "flakzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273753231cae2448275046351c7",
+      "uri": "spotify:album:4saFBx9L1hUQfM7snasjRu",
+      "name": "asylum",
+      "album_type": "single",
+      "release_date": "2023-07-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273497dc59a6da4909c88ca4e93",
+      "uri": "spotify:album:3rpuLGYpFWynBEu3mpHXoo",
+      "name": "all stars vol. 2",
+      "album_type": "single",
+      "release_date": "2023-06-15",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e72faedbe2b2426e6395b38d",
+      "uri": "spotify:album:3QnwdIPQpGnCysm8yzXcBp",
+      "name": "flames feat. dia frampton (famous spear remix)",
+      "album_type": "single",
+      "release_date": "2023-02-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "30QzUT0paOqthrO79lh3Re",
+          "name": "famous spear"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273363b91c87a2488602468f520",
+      "uri": "spotify:album:3825uH0nJdpAvAVC70t3Fb",
+      "name": "flames",
+      "album_type": "single",
+      "release_date": "2022-10-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "5bcHS2ka2clJ3PGdvUGuxD",
+          "name": "lost wolves"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730113edc0119f38c5f59b461d",
+      "uri": "spotify:album:0SWSnbKmr3l6OEwiuZtGMV",
+      "name": "flames feat. dia frampton (sanjay remix)",
+      "album_type": "single",
+      "release_date": "2022-07-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "5I2e7BbJkpZikRdxSgeLyO",
+          "name": "sanjay"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738931ce48d34d873095d044bf",
+      "uri": "spotify:album:3P9etZSR56fvt9eaR25qTW",
+      "name": "flames feat. dia frampton (remixes)",
+      "album_type": "single",
+      "release_date": "2022-06-07",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360cdfa73b59869d3d056dbd7",
+      "uri": "spotify:album:5B7ZLz04M5yEy3kV9MoSND",
+      "name": "malfunction (remixes)",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6NnqC2KLeT6C7kgY3MvdGX",
+          "name": "crissy criss"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "1dDzlLlakr2JyoK4EtRv5L",
+          "name": "neonlight"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273981a004a912e98dd980e4df4",
+      "uri": "spotify:album:6WVnsgbLJ2WkiA616PCdwu",
+      "name": "funtcase presents: dpmo, vol. 4",
+      "album_type": "album",
+      "release_date": "2021-11-17",
+      "release_year": "2021",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ffd81db44636d17453dc7bf",
+      "uri": "spotify:album:1UhE0NM6YXK1B1F2mQ1h3J",
+      "name": "fear",
+      "album_type": "single",
+      "release_date": "2021-11-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "3uSdOouuT7NoUXdDSeJnky",
+          "name": "chassi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be868ac6c09bb6daa76cca79",
+      "uri": "spotify:album:4pbFMTWVRgvmnm2usCsTVp",
+      "name": "stompi boi",
+      "album_type": "single",
+      "release_date": "2021-11-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6rAYLpYH7blCH8exP3DboL",
+          "name": "dr. lobster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e53f0c4c894e3760287f716",
+      "uri": "spotify:album:6eQbMLoPxhgn148J82aR4G",
+      "name": "without (vip)",
+      "album_type": "single",
+      "release_date": "2021-11-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c1383e17577ecde02c94542",
+      "uri": "spotify:album:5Lcs6CJw9klh5L78Q6ncCl",
+      "name": "raid",
+      "album_type": "single",
+      "release_date": "2021-10-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "4AgEF49juDBIfJUoPCPncc",
+          "name": "badklaat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273301d745dd98676eadb017b8d",
+      "uri": "spotify:album:3MxrpzVBvts8GL1xMrF3WH",
+      "name": "arcade fire",
+      "album_type": "single",
+      "release_date": "2021-09-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tgjwsn1Lpjj8kKEvWm0KQ",
+          "name": "doctor p"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5cf03b4097177bc202542c9",
+      "uri": "spotify:album:7lm98UmSCKA1TdepEFQV6E",
+      "name": "flames",
+      "album_type": "single",
+      "release_date": "2021-06-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "3ppkM4QtM781APpaX7H9t7",
+          "name": "dia frampton"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273caa825c1536e4b56d6ed4889",
+      "uri": "spotify:album:7DkowtGsmsXBGTOX1zT3at",
+      "name": "corruption",
+      "album_type": "single",
+      "release_date": "2020-12-02",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273342a5c2a24061d6228ad5413",
+      "uri": "spotify:album:2g0aRfAVHh1Gl40HyeGkeg",
+      "name": "without (millennial trash remix)",
+      "album_type": "single",
+      "release_date": "2020-05-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "2QelCpyRKtvplFEFLcLUZz",
+          "name": "millennial trash"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b0a36889af22b7bcdf7a114",
+      "uri": "spotify:album:5yCMH0ekwHvKG21XyhOPkc",
+      "name": "funtcase presents: dpmo, vol. 3",
+      "album_type": "album",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 24,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7d6bb402037fc0411fa8dba",
+      "uri": "spotify:album:7htojtu3CkcFDeQn23rF4g",
+      "name": "wasteman",
+      "album_type": "single",
+      "release_date": "2020-02-25",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "2ZppcH5NCmZmzoHzAepLcD",
+          "name": "ravva"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273638ed11d407b759914707a4c",
+      "uri": "spotify:album:2JTwejIYkWP8Awmvvzkgcb",
+      "name": "to death",
+      "album_type": "single",
+      "release_date": "2019-12-27",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50eGtIAFDRBxXgFZd1Shv4",
+          "name": "nitti gritti"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b25deefa0f6385c1fea7fdfe",
+      "uri": "spotify:album:3yh630VkgAJFWO4Borg8Ix",
+      "name": "without (gld remix)",
+      "album_type": "single",
+      "release_date": "2019-12-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "3GKA5lU2ENKafTV9t3NH1p",
+          "name": "gld"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b7442f4974d17bc8fae5718",
+      "uri": "spotify:album:5EHr3aejyc82qPh3hjYcQB",
+      "name": "next chapter",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733740943d89ec95f8402e6509",
+      "uri": "spotify:album:0hj5dKWVXaMbjuyqOrMhkM",
+      "name": "death stomp",
+      "album_type": "single",
+      "release_date": "2019-08-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "7lm6PfYsdEvxXIqA5LaCA3",
+          "name": "versa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adc51865b6876efcd58561a9",
+      "uri": "spotify:album:3wmwhnOMN3LBllWg7l3opM",
+      "name": "get em",
+      "album_type": "single",
+      "release_date": "2019-06-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "7tsNUABqVgEPeLUd1Zdnw7",
+          "name": "flakzz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f41644d3d6be8fa3a48bf442",
+      "uri": "spotify:album:6pgHShrWswDcmyi9007nlB",
+      "name": "malfunction",
+      "album_type": "single",
+      "release_date": "2019-02-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6NnqC2KLeT6C7kgY3MvdGX",
+          "name": "crissy criss"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306ef28dd707c122ed0b95740",
+      "uri": "spotify:album:3wbmkWeHpB3JUhedrCycIp",
+      "name": "boom! / zombie",
+      "album_type": "single",
+      "release_date": "2018-11-30",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4xaF2VIGwhWyEMbM6GuLdm",
+          "name": "teddy killerz"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "2Pdhwac5oHsY95PeUq6VBS",
+          "name": "nymfo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9c010fce54b34609b663b9f",
+      "uri": "spotify:album:4saixf3bInG8jAxZjlKG6H",
+      "name": "dpmo, vol. 2",
+      "album_type": "album",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 23,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfc2b5465b0572f15738e89e",
+      "uri": "spotify:album:7mlwEzdNYlfdVFJkVNE8mY",
+      "name": "4 barz of fury (definitive remix)",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "54jJseP0c0ahtWnKyV58gl",
+          "name": "definitive"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e151410ad545a73bb913d0e",
+      "uri": "spotify:album:0krpBUziUy8CKYv6T5BmUp",
+      "name": "you must comply (bass culture 4)",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xaF2VIGwhWyEMbM6GuLdm",
+          "name": "teddy killerz"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739704cca7c8a69df96c6be2d7",
+      "uri": "spotify:album:2fhPcxWhf70tqfY5dnJsN2",
+      "name": "man don't want war",
+      "album_type": "single",
+      "release_date": "2018-09-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "0DMEZLiozBGN9v24wCvbmO",
+          "name": "clipson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730da6e7280264801be733edb8",
+      "uri": "spotify:album:0k4BZmujBGbHyVFYIqe3Ha",
+      "name": "snake (funtcase remix)",
+      "album_type": "single",
+      "release_date": "2018-08-31",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1S8Luyqrkee2JvFd9mPJau",
+          "name": "dead exit"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273683ca845e1ab15c20e8ef9c5",
+      "uri": "spotify:album:51Y6B6COCzgno5MAWQAreU",
+      "name": "forever (funtcase remix)",
+      "album_type": "single",
+      "release_date": "2018-07-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730498b932b11eda04bbfc4396",
+      "uri": "spotify:album:0nGKZ8Jzc9r08YgMBTHPNo",
+      "name": "dpmo, vol. 1",
+      "album_type": "album",
+      "release_date": "2017-09-01",
+      "release_year": "2017",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0072c81f07393a1605e7e70",
+      "uri": "spotify:album:4qKVcrCKD6WkKijt3ygsfJ",
+      "name": "4 barz of fury (barely alive remix)",
+      "album_type": "single",
+      "release_date": "2017-05-19",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "5c3akKV3CUqAVOnGZqf4S3",
+          "name": "barely alive"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ada990e1ebaea3cb7f3a6959",
+      "uri": "spotify:album:5B4yYmFmIGonKBZTYfJMvo",
+      "name": "4 barz of fury",
+      "album_type": "single",
+      "release_date": "2017-04-04",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bbe01a0a111ed169e45b6b2",
+      "uri": "spotify:album:3luxS3iLuikdZM6UylItBl",
+      "name": "warfare / bad selection",
+      "album_type": "single",
+      "release_date": "2017-02-28",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6PQ20UDiY0QGXY4IRJJkTq",
+          "name": "trolley snatcha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397d93b7f7f1f44b3e2b56534",
+      "uri": "spotify:album:0PuB1ARcDmEpck9lBYHM83",
+      "name": "scary yikes grrz",
+      "album_type": "single",
+      "release_date": "2016-11-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dd392a97ca059be895a3e7e",
+      "uri": "spotify:album:3SE5ZvUb1GmOKJBtAfGc8Y",
+      "name": "neckbreaker",
+      "album_type": "single",
+      "release_date": "2016-04-15",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zymhxzJ0UJc74tMHGyoWs",
+          "name": "dirtyphonics"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d48ab6d61c865db7f1ee86d5",
+      "uri": "spotify:album:3TDGYIsaQhcS6uebB4PfRQ",
+      "name": "let's do it",
+      "album_type": "single",
+      "release_date": "2013-10-21",
+      "release_year": "2013",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273517d0c2e35128d35b3efe62c",
+      "uri": "spotify:album:4cFTLNIVWHZdE3lETKQc8Y",
+      "name": "squid attack (funtcase remix)",
+      "album_type": "single",
+      "release_date": "2013-07-15",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3OHKuQPvPuS6bUfKoorBYY",
+          "name": "genetix"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730981f20eba8ecc13e7f6d0f4",
+      "uri": "spotify:album:1g6ExbKg8JbQHCEN8vbtWR",
+      "name": "circus two",
+      "album_type": "album",
+      "release_date": "2013-05-13",
+      "release_year": "2013",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "6ZuVz0OuJlW9B717b5bL7R",
+          "name": "circus records"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352464a7e5862f18464775f42",
+      "uri": "spotify:album:0HN25pufzUvhxMg1j20cBW",
+      "name": "gorilla flex / make our day",
+      "album_type": "single",
+      "release_date": "2013-03-18",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273005ad78b22dc815112877d2d",
+      "uri": "spotify:album:2AhKpX71qBHeMt4qz8ljbC",
+      "name": "don't p*ss me off",
+      "album_type": "single",
+      "release_date": "2013-03-10",
+      "release_year": "2013",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2f25bdce30da2375cd7c8bf",
+      "uri": "spotify:album:6D3tOrwhcws2j85xdQgYKt",
+      "name": "the shady bunch",
+      "album_type": "single",
+      "release_date": "2012-12-16",
+      "release_year": "2012",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+          "name": "flux pavilion"
+        },
+        {
+          "spotify_id": "2uGNBmaWvxF6HAcWuhK7OP",
+          "name": "cookie monsta"
+        },
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273174f323f10532206b406998f",
+      "uri": "spotify:album:7zLuY7X8nJAMhNhjCu2DXT",
+      "name": "doomed",
+      "album_type": "single",
+      "release_date": "2012-08-27",
+      "release_year": "2012",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398a3a283e259b845ced6ba98",
+      "uri": "spotify:album:03Ahxm4yqQWqjnWNPkIaeZ",
+      "name": "dubsteppa - single",
+      "album_type": "single",
+      "release_date": "2011-12-07",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        },
+        {
+          "spotify_id": "45FTG3Opzkjj1xCiBMFgw1",
+          "name": "southbound hangers"
+        },
+        {
+          "spotify_id": "3G0VlbwfjmeZO33pyp09IY",
+          "name": "neptune project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735960cc016b0c83026c89e5b3",
+      "uri": "spotify:album:4vLlBsWi64Z1axsFt9mhyY",
+      "name": "so vexed / mattress punch",
+      "album_type": "single",
+      "release_date": "2010-04-19",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6v1BAWFVNPbPJlnFHWR78D",
+          "name": "funtcase"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:12:22.000Z"
+}

@@ -1,0 +1,927 @@
+{
+  "name": "hyper",
+  "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+  "uri": "spotify:artist:6DFJfhZxwWe1yKQvRDJmdl",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb5acd137192021f1bab8f2098",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273546b402d4e5f64bac7f3402c",
+      "uri": "spotify:album:0tu2FM68UjZcTb9trRmq7S",
+      "name": "until the night fades",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0cEYWjXOtLgwSHA19YwPSk",
+          "name": "etty lau farrell"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303e33ec8577fac45aa3a7e32",
+      "uri": "spotify:album:7nNtvUAVWWO0QlLkTx5D2F",
+      "name": "i want everything",
+      "album_type": "single",
+      "release_date": "2023-10-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273767c3db0631b7cb61e091310",
+      "uri": "spotify:album:0HBk3KcQhbfSM4OeVKdQKQ",
+      "name": "i believe in goddess (the crystal method and hyper remix)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "11N77UeZHsR4XnoGVyuhIB",
+          "name": "melvinator"
+        },
+        {
+          "spotify_id": "5eKLa1xyHLq8ERWmT1CRHj",
+          "name": "the crystal method"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301285dbb96cf21a69f1b0ba6",
+      "uri": "spotify:album:2C9sfqQCzZoVBj1qWiuv2U",
+      "name": "break and enter",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "4DWnSG0RYPAds8EIKY26q3",
+          "name": "blue stahli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aea2ffbea13a4c6f149092a6",
+      "uri": "spotify:album:1h2M0rkiXsxDmoIrGycQXy",
+      "name": "steal from the rich, give to myself (rewired by hyper)",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3vw3rUYxM1crXSVziyGOJ0",
+          "name": "simon viklund"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5b8dd8382b5aba90eeebe22",
+      "uri": "spotify:album:1BTd6v1AiNuXja6uSwc5jv",
+      "name": "hurts like hell (hyper remix)",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7IEyUxk8jyEVz9Zm9H8bfg",
+          "name": "new years day"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df78db76db05f90a2f371696",
+      "uri": "spotify:album:5k1SJPgvCkTS9JFSs8d74p",
+      "name": "post punk (rewired by hyper)",
+      "album_type": "single",
+      "release_date": "2022-06-24",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5eKLa1xyHLq8ERWmT1CRHj",
+          "name": "the crystal method"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "33EUXrFKGjpUSGacqEHhU4",
+          "name": "iggy pop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d61ebc11f884883b8afd6b91",
+      "uri": "spotify:album:0qUlyFr3wrBwF8yef1s3Yh",
+      "name": "smells like teen spirit (hyper's seattle deconstruction)",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1gbgOYIuCfU3kfsk5iaJ3r",
+          "name": "jack trammell"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273203724cb8d3a6cabc3b5355d",
+      "uri": "spotify:album:6sl0F7alKr5VWHTpdSRXZS",
+      "name": "post punk (feat. iggy pop)",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5eKLa1xyHLq8ERWmT1CRHj",
+          "name": "the crystal method"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "33EUXrFKGjpUSGacqEHhU4",
+          "name": "iggy pop"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273892d099c22119347342def41",
+      "uri": "spotify:album:6bNGss5QuVFNj5YbhOdhWA",
+      "name": "future collapsing",
+      "album_type": "single",
+      "release_date": "2021-10-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "1gbgOYIuCfU3kfsk5iaJ3r",
+          "name": "jack trammell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738219d133e52dc36b05cc5c02",
+      "uri": "spotify:album:0l46W9ifZauUxprW3PMumc",
+      "name": "control",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273627dd4c334483b16bc91a73b",
+      "uri": "spotify:album:5oXvCCwUbBO8okpzu8LTZy",
+      "name": "impact weapon",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273060c6aa207bb65b00de6c8fe",
+      "uri": "spotify:album:4kHC7Gb3Lc9TcjAk2FjzHU",
+      "name": "spoiler (recoil)",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "1NRudBLaT84LXxfsYdFMhB",
+          "name": "wargasm (uk)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d16c7b50cadace8449f2de67",
+      "uri": "spotify:album:2YK4NCP0XcC9e6Lryn1TG9",
+      "name": "spit. (hyper's deconstruction remix)",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NRudBLaT84LXxfsYdFMhB",
+          "name": "wargasm (uk)"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359d754fec23bdedbbc234437",
+      "uri": "spotify:album:2IVSeEXkFvcExsrr8uL6OB",
+      "name": "spoiler (recoil) - underground remixes",
+      "album_type": "single",
+      "release_date": "2021-02-01",
+      "release_year": "2021",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273078c22d0307334b6c73606e7",
+      "uri": "spotify:album:14pd33WS5SyLgGPZiwIp5n",
+      "name": "spoiler (recoil) - drum & bass remixes",
+      "album_type": "single",
+      "release_date": "2021-01-25",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370e445e5fa700582d3348da8",
+      "uri": "spotify:album:50HYzQMF0hHWobdCLHTshJ",
+      "name": "overconfidence (hyper's cyberpunk deconstruction)",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273884b1cf46bf0d27a1572cab5",
+      "uri": "spotify:album:2VamJcaN7ZPg5mhs1oozbT",
+      "name": "helloween (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-10-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c4e276c8cfd58a9a117ea94",
+      "uri": "spotify:album:2YcmmzgNgKZcrAbwScDKpc",
+      "name": "pray for my enemies",
+      "album_type": "single",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2KrXlzpSX4wWvJ2555FWLv",
+          "name": "le castle vania"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381193031de7ddd8e846ec336",
+      "uri": "spotify:album:21oLiMXHQ3gBC31MR5TJBI",
+      "name": "control response (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f2299822555895c5e5a59b8",
+      "uri": "spotify:album:7pAH5fBWoIGoQoSTEHQieS",
+      "name": "enter the hyper scape (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d156d52f1405a4c267f822de",
+      "uri": "spotify:album:1uMv3q1r7XaStgPSsUouNq",
+      "name": "exit the hyper scape (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e16689affdab8f7e2b4bc0fd",
+      "uri": "spotify:album:0ctPil1jUNxysjevDqoKTQ",
+      "name": "fragmented memories (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731608a6ffe9937aa08017b2ea",
+      "uri": "spotify:album:2N0pxc1TInK2XslzC0ANH1",
+      "name": "the data vortex (hyper scape: original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2020-08-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ac0653b754420038042d0e4",
+      "uri": "spotify:album:7tcsSyvGwCansaY1arcbmE",
+      "name": "a darker secret (hyperscape game trailer song)",
+      "album_type": "single",
+      "release_date": "2020-07-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b898edb5cd07a99820a33050",
+      "uri": "spotify:album:7i8tKtIKPpKUo8LfilzRFc",
+      "name": "cyberpunk ep",
+      "album_type": "single",
+      "release_date": "2019-04-22",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360aa20f6700edb92acf98cc7",
+      "uri": "spotify:album:2QalLLeMOASxVbFQIq0nvD",
+      "name": "fan babbu maan da",
+      "album_type": "single",
+      "release_date": "2019-03-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "2WJBAL3GFX2OeSKd59xhur",
+          "name": "lv94"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a290758742daf0f1590ba2e6",
+      "uri": "spotify:album:7cUOTyffzso0c1HUT83FRP",
+      "name": "davip remixes",
+      "album_type": "single",
+      "release_date": "2018-04-30",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ad77be993eeb63a773b222de",
+      "uri": "spotify:album:6bzkfa9YvEApTLjyhWsbL5",
+      "name": "the adventures of the android kid - part 2",
+      "album_type": "single",
+      "release_date": "2017-12-25",
+      "release_year": "2017",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273216b8c4589741305871c9d0d",
+      "uri": "spotify:album:0f9E00Flg9ags5ctcNPLzQ",
+      "name": "the adventures of the android kid - remixes 1",
+      "album_type": "single",
+      "release_date": "2017-12-11",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dc1cdd6c5e91ddce4acd8bf",
+      "uri": "spotify:album:1RZEe1M2zdFpjYEHKNtBVc",
+      "name": "new age",
+      "album_type": "single",
+      "release_date": "2017-10-23",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6foUkSFsx12SFxWDAkfIgi",
+          "name": "high max"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe79412f58d8c0be4659a489",
+      "uri": "spotify:album:2wyNZExYFoqyKe7MsC1IVj",
+      "name": "bully - the remixes",
+      "album_type": "single",
+      "release_date": "2015-12-11",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "29vXvRArvRnl6mD4jy1C5R",
+          "name": "neil ormandy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6d6cb8519865ec4330d3028",
+      "uri": "spotify:album:6BJbi298cful6Wzzgfk3tj",
+      "name": "bully",
+      "album_type": "album",
+      "release_date": "2015-11-06",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "29vXvRArvRnl6mD4jy1C5R",
+          "name": "neil ormandy"
+        },
+        {
+          "spotify_id": "12Ys5daHa7vHBiLQmKfqOn",
+          "name": "shirt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd2f142465dfd6f64c1b7785",
+      "uri": "spotify:album:69OxqFu5B9FypwHJ3bulvN",
+      "name": "bully - the single",
+      "album_type": "single",
+      "release_date": "2015-10-09",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "4e3dkPcyps1LVGvdRcqw6Z",
+          "name": "shirt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309471b1c4125aaaf25bc66c1",
+      "uri": "spotify:album:2jXEvJuY26wEk1vj0krAC1",
+      "name": "symphony of lies",
+      "album_type": "album",
+      "release_date": "2014-05-12",
+      "release_year": "2014",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273706fc281653857e2f12f1b28",
+      "uri": "spotify:album:3eR3Ferx7zOXZixWN03o26",
+      "name": "lies remixes 1",
+      "album_type": "single",
+      "release_date": "2014-05-05",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8daee787d1de4a14406f5eb",
+      "uri": "spotify:album:6uvquJHxA2D9KmHR6oJgXB",
+      "name": "lies",
+      "album_type": "album",
+      "release_date": "2014-01-03",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e5810a7f363ba7f9d1380973",
+      "uri": "spotify:album:2IxMd1cSJw5GzWnNRQsXJ3",
+      "name": "lights",
+      "album_type": "single",
+      "release_date": "2013-08-24",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Krc0nqZiWJ5SwngwZrbZm",
+          "name": "beatman"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "0sZAFQhjMyOCrYmzZhuffk",
+          "name": "ludmilla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736eab0638ada7733a6c32efcc",
+      "uri": "spotify:album:01TcmvlTzwlpBnVbvO8BWJ",
+      "name": "lights (refracture remix)",
+      "album_type": "single",
+      "release_date": "2013-02-18",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Krc0nqZiWJ5SwngwZrbZm",
+          "name": "beatman"
+        },
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "0sZAFQhjMyOCrYmzZhuffk",
+          "name": "ludmilla"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399a40f6549b8ea8be7f91376",
+      "uri": "spotify:album:0QOgg7P9iKwyDKtoMNDPU2",
+      "name": "the panic (instrumentals)",
+      "album_type": "album",
+      "release_date": "2012-11-26",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f6cf4ce851af3ad21ea5a47b",
+      "uri": "spotify:album:3zUaPJmIACrRSuKk0p7fEf",
+      "name": "machine",
+      "album_type": "single",
+      "release_date": "2012-11-06",
+      "release_year": "2012",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df5ada2ca938b9b667bd0ed1",
+      "uri": "spotify:album:1dpQrLgZCTpUeKIOTtmBAW",
+      "name": "my world",
+      "album_type": "single",
+      "release_date": "2011-11-21",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e041415bb5be6bbed44ec85",
+      "uri": "spotify:album:73WpusrysrDqF7EOheRCUV",
+      "name": "the panic",
+      "album_type": "album",
+      "release_date": "2011-04-18",
+      "release_year": "2011",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732187548397a1bc9e492128c7",
+      "uri": "spotify:album:5NUStdx3gN8KRL3wN4mzlk",
+      "name": "the end",
+      "album_type": "single",
+      "release_date": "2011-03-28",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333f55402f6a748cda8a33385",
+      "uri": "spotify:album:2ay64u6KKk22f5BPU4tebS",
+      "name": "low level",
+      "album_type": "single",
+      "release_date": "2010-05-04",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "50AhjwXDfvyu9caVdjqcBw",
+          "name": "grayarea"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a77caf02b1f0aca105cb639",
+      "uri": "spotify:album:4yyTXJaiWtEDZm6El4Qx6r",
+      "name": "saviours of rock n' roll",
+      "album_type": "single",
+      "release_date": "2009-12-10",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "6f40BzyRJr6FnX24RtTbDh",
+          "name": "jhz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ed530386ff95717f541188b",
+      "uri": "spotify:album:6NIhRnsCRhN4BuPKbcP8vz",
+      "name": "fugazi",
+      "album_type": "single",
+      "release_date": "2009-07-13",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "0pHDOIYIMjYtncJPNxQU23",
+          "name": "vandal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d16c08280c4125b83f254d9",
+      "uri": "spotify:album:5oZSTm4EQVrEXIDH3D69KD",
+      "name": "pitch bitch",
+      "album_type": "single",
+      "release_date": "2009-05-25",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "6f40BzyRJr6FnX24RtTbDh",
+          "name": "jhz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732dfedab9404c2a9961b154b6",
+      "uri": "spotify:album:3mybrHmBztrWiBCbxfJosd",
+      "name": "centre attraction",
+      "album_type": "single",
+      "release_date": "2008-11-08",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be1889f10ccc8b1c1f9acc23",
+      "uri": "spotify:album:5cxO7ZR4vMez6IO8tgKvDT",
+      "name": "suicide tuesday",
+      "album_type": "album",
+      "release_date": "2008-10-13",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ba94e6c78720fdb2a07edbc",
+      "uri": "spotify:album:4TLBdcGqDXXGITdanhRNuE",
+      "name": "no rockstars",
+      "album_type": "single",
+      "release_date": "2007-08-27",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273db20cca44870eef61c335315",
+      "uri": "spotify:album:5qNO5SRvZ4CiEOYA5WGFj3",
+      "name": "computer says no!",
+      "album_type": "single",
+      "release_date": "2007-03-12",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        },
+        {
+          "spotify_id": "6f40BzyRJr6FnX24RtTbDh",
+          "name": "jhz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370d9fedb964ec02475a25b83",
+      "uri": "spotify:album:59pdJQ7pQFeJczFO5Y5TZR",
+      "name": "we control",
+      "album_type": "album",
+      "release_date": "2006-06-06",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6DFJfhZxwWe1yKQvRDJmdl",
+          "name": "hyper"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:37.000Z"
+}

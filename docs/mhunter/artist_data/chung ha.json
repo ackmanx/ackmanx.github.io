@@ -1,0 +1,818 @@
+{
+  "name": "chung ha",
+  "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+  "uri": "spotify:artist:2PSJ6YriU7JsFucxACpU7Y",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb7540e44553a10ae139124d79",
+  "genres": [
+    "k-pop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f5ee50c66c612d9c2997afe",
+      "uri": "spotify:album:0RUo3HqDbrgs2AZlpVc616",
+      "name": "save me",
+      "album_type": "single",
+      "release_date": "2026-02-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d6bd30f2e22b91048348564",
+      "uri": "spotify:album:43Um9uaJlaTeXM82oDod86",
+      "name": "change street episode 4",
+      "album_type": "single",
+      "release_date": "2026-01-10",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "12AUp9oqeJDhNfO6IhQiNi",
+          "name": "lee seung gi"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "1kpVcaBKejm2ZrLYZkKdM8",
+          "name": "taehyun"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdbd3b1113b87ed7c4da252e",
+      "uri": "spotify:album:2fTTNZphQDEx6lGdelCIOd",
+      "name": "change street episode 2",
+      "album_type": "single",
+      "release_date": "2025-12-27",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0fwfMuz3AmWRy2pyM5fDRo",
+          "name": "ryeowook"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "1kpVcaBKejm2ZrLYZkKdM8",
+          "name": "taehyun"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b23f236f28fc5cf4e6f13095",
+      "uri": "spotify:album:1KDJXCugPcg4Qqr6F3VomM",
+      "name": "change street episode 1",
+      "album_type": "single",
+      "release_date": "2025-12-20",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "12AUp9oqeJDhNfO6IhQiNi",
+          "name": "lee seung gi"
+        },
+        {
+          "spotify_id": "0fwfMuz3AmWRy2pyM5fDRo",
+          "name": "ryeowook"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f86581fc0f97b70f63d95ba8",
+      "uri": "spotify:album:4PvAlkoDM29aJSfx2BLcpu",
+      "name": "christmas promises: again",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef7db5a1cb2d178bddbb4485",
+      "uri": "spotify:album:61LVXje36haNTn7BJdEI2t",
+      "name": "find love",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5fywYLnKJi950Y5yMqavxm",
+          "name": "etham"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733da7daeca62ebfa2cf28a2db",
+      "uri": "spotify:album:5NzrdLdqF0ZuAt51eSIORo",
+      "name": "alivio",
+      "album_type": "single",
+      "release_date": "2025-02-12",
+      "release_year": "2025",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f29295af438692fe60bde1fb",
+      "uri": "spotify:album:17v4k2kHnaVSMDHD4Mnym1",
+      "name": "christmas promises",
+      "album_type": "single",
+      "release_date": "2024-12-03",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e9bb030182f53cfb3c73a16",
+      "uri": "spotify:album:00kSKNZvt98GG3WK8dBml0",
+      "name": "move remove",
+      "album_type": "single",
+      "release_date": "2024-10-04",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "57Rbh9mF8Peu1jOPRawGHW",
+          "name": "lee eun mi"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f77512c669b4fcb0fd1e872f",
+      "uri": "spotify:album:4xQ47QdTOo2aQZoadlhRS0",
+      "name": "[algorithm (remixes)]",
+      "album_type": "single",
+      "release_date": "2024-09-23",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a31bdc2f91075dceca4917b2",
+      "uri": "spotify:album:2jvfjweOGDWg2P8VuPCp4G",
+      "name": "algorithm",
+      "album_type": "single",
+      "release_date": "2024-08-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b65c399ef6b8adf2c798033",
+      "uri": "spotify:album:5pViClRtFnnMBoRwfGS2rh",
+      "name": "hair down (with chung ha)",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3R80OE4RViOWbnuvqh0j8a",
+          "name": "thủy"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e",
+      "uri": "spotify:album:1q2RNzz09Vx3bOKK1yTyyg",
+      "name": "eenie meenie",
+      "album_type": "single",
+      "release_date": "2024-03-11",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300a2c6a27f4fb154ee761bbe",
+      "uri": "spotify:album:3mJMHqT2w0HwjQkneNVE14",
+      "name": "when i get old",
+      "album_type": "single",
+      "release_date": "2022-10-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zDRCqOhJXJfS2YWOEwGMC",
+          "name": "christopher"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ee65cba9ee6772cba342356",
+      "uri": "spotify:album:2UzjkhSZCXkHjcvd16Hggh",
+      "name": "bare&rare, pt. 1",
+      "album_type": "album",
+      "release_date": "2022-07-11",
+      "release_year": "2022",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d3b9b98d3dd2581e91d78025",
+      "uri": "spotify:album:5mUdKodxv172t3aB4AhrWy",
+      "name": "bloody heart, pt. 4 (original television soundtrack)",
+      "album_type": "single",
+      "release_date": "2022-05-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371ddf3f5d0b600a19b374fbf",
+      "uri": "spotify:album:4sBO5xbe5KXQGcAYD5Fe3z",
+      "name": "seoul check-in ost part 4",
+      "album_type": "single",
+      "release_date": "2022-04-30",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6f5a72617119044351f165a",
+      "uri": "spotify:album:4nPAsx1hIu90mUY4Bo6p8E",
+      "name": "killing me",
+      "album_type": "single",
+      "release_date": "2021-11-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392f9276429580277f9072130",
+      "uri": "spotify:album:7G2Cp4kJD8VZdfIgJmeBGU",
+      "name": "one the woman (original television soundtrack, pt. 3) - single",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1a0f3998e22645735fdcb91",
+      "uri": "spotify:album:5RsWNGFreBwwHCHln5CL6D",
+      "name": "my lips like warm coffee",
+      "album_type": "single",
+      "release_date": "2021-06-08",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "3VQDqjQ4wJyw8PzpGdlZpB",
+          "name": "colde"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324478b536a53d02d071e981c",
+      "uri": "spotify:album:34UtTP3m1ZsRsdKzonTZEZ",
+      "name": "demente (spanish version)",
+      "album_type": "single",
+      "release_date": "2021-03-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "0BqURncJM5B1BBu7UM51eq",
+          "name": "guaynaa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65",
+      "uri": "spotify:album:3ZifpmJjOEkpYCNSIq352p",
+      "name": "querencia",
+      "album_type": "album",
+      "release_date": "2021-02-15",
+      "release_year": "2021",
+      "total_tracks": 21,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3f67b31be3e04489aea4100",
+      "uri": "spotify:album:4IRuxkSbw7iZZmnr6Rly2Q",
+      "name": "bad boy",
+      "album_type": "single",
+      "release_date": "2020-09-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "3zDRCqOhJXJfS2YWOEwGMC",
+          "name": "christopher"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9f6907057014f2ca3fc1fe9",
+      "uri": "spotify:album:3YlTiz3mgIUok8P9bgFA6U",
+      "name": "record of youth (original television soundtrack) pt. 2",
+      "album_type": "single",
+      "release_date": "2020-09-15",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273537d06d031fd8789841c0a84",
+      "uri": "spotify:album:1qXEwadpMUuNwByliKWdbc",
+      "name": "be yourself.newwav",
+      "album_type": "single",
+      "release_date": "2020-06-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f76ea1687747a74e066a70e6",
+      "uri": "spotify:album:0FBwobo00ZRJRZzPvpWRyj",
+      "name": "my friend",
+      "album_type": "single",
+      "release_date": "2020-05-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc1bd9d002c11b382d795d4d",
+      "uri": "spotify:album:2Q4odNN9PkWIfjlpTuKcBw",
+      "name": "romantic doctor 2 (original television soundtrack) pt.8",
+      "album_type": "single",
+      "release_date": "2020-02-04",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387ec3d71f79dc9291a8ade8f",
+      "uri": "spotify:album:6bwWdBKK3YGxgFJkZ8BYVQ",
+      "name": "loveship",
+      "album_type": "single",
+      "release_date": "2020-01-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4qRXrzUmdy3p33lgvJEzdv",
+          "name": "paul kim"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396bb2cce78fc9a3f90940d67",
+      "uri": "spotify:album:08ZoLhWvjgrqjQUPGTxkrm",
+      "name": "these nights",
+      "album_type": "single",
+      "release_date": "2019-10-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1AhjOkOLkbHUfcHDSErXQs",
+          "name": "88rising"
+        },
+        {
+          "spotify_id": "2IDLDx25HU1nQMKde4n61a",
+          "name": "rich brian"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e78521cc88fac9ccffcd9375",
+      "uri": "spotify:album:1tnhaRf0aRqIrmdyCPPIYc",
+      "name": "fast",
+      "album_type": "single",
+      "release_date": "2019-09-08",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "5xWKWXamxbujIdti9xpnI1",
+          "name": "mommy son"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d3847d4dac1bd0909de1ce2",
+      "uri": "spotify:album:3InV3MFJGMdVRb6NOUprPm",
+      "name": "run",
+      "album_type": "single",
+      "release_date": "2019-08-22",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Egus6b1x9pYOnqsG7y1f4",
+          "name": "grizzly"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cb21b5ee12641257cfc6ec8",
+      "uri": "spotify:album:2cEEiqSz3X02jQ5QpqYmFU",
+      "name": "hotel del luna (original television soundtrack) pt. 6",
+      "album_type": "single",
+      "release_date": "2019-08-03",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9",
+      "uri": "spotify:album:5rHnbSUBaflJgCLlZfDnzt",
+      "name": "flourishing",
+      "album_type": "single",
+      "release_date": "2019-06-24",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49",
+      "uri": "spotify:album:3WgHekDElv10Kam9aCMwnx",
+      "name": "gotta go",
+      "album_type": "single",
+      "release_date": "2019-01-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355a37c19d7d3d36b12dab5ba",
+      "uri": "spotify:album:5ZqrNpvlfW0qeZ6bDCjmaU",
+      "name": "whatcha doin'",
+      "album_type": "single",
+      "release_date": "2018-12-17",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4hyF8Vtc73RYJr3RgTE2Zf",
+          "name": "yesung"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c33ea8c297036504cdc66727",
+      "uri": "spotify:album:1N9KW3IGeiBXrLLSYbPXwQ",
+      "name": "여우각시별 ost, pt.1",
+      "album_type": "single",
+      "release_date": "2018-10-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957",
+      "uri": "spotify:album:3xEPyp7h78uULpDPuKvokH",
+      "name": "wow thing",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2QM5S4yO6xHgnNvF0nbZZq",
+          "name": "seulgi"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "0tZl5OAXf9jYXFmfRGejs2",
+          "name": "sinb"
+        },
+        {
+          "spotify_id": "6Xg22wJOAcnvPUfk5WvODH",
+          "name": "soyeon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f596043d88e4ea9907d48bf2",
+      "uri": "spotify:album:6Np41VY6robn2MhsVhl9Z2",
+      "name": "blooming blue",
+      "album_type": "single",
+      "release_date": "2018-07-18",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a87e42889d807b4cdb824f85",
+      "uri": "spotify:album:65yLgmtj5l7cKU1NOfu7Rw",
+      "name": "연애포차 ost part.3",
+      "album_type": "single",
+      "release_date": "2018-04-18",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c239f06ce7e1c9f22424e021",
+      "uri": "spotify:album:04TsF8IFb70DdBYDT8egvw",
+      "name": "offset",
+      "album_type": "single",
+      "release_date": "2018-01-17",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce3eb674753352bcaa0ec45b",
+      "uri": "spotify:album:7KM1Yi5xYv3O6OcKsEeV83",
+      "name": "hands on me",
+      "album_type": "single",
+      "release_date": "2017-06-07",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383aa90426e11cbb236f7e3b3",
+      "uri": "spotify:album:0i3GmrB7DW4keoTd53g3AP",
+      "name": "week",
+      "album_type": "single",
+      "release_date": "2017-04-21",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eba2cfd4937596401ab132e5",
+      "uri": "spotify:album:4GtC7qje1WWJKkc9tUEPCZ",
+      "name": "strong woman do bong soon, pt. 4 (original television soundtrack)",
+      "album_type": "single",
+      "release_date": "2017-03-17",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cb1948345865e73e16e364e",
+      "uri": "spotify:album:3kFh2vDvydavEOJty5f58R",
+      "name": "오 마이 금비 (original television soundtrack) pt. 9",
+      "album_type": "single",
+      "release_date": "2017-01-05",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1rQXZ6nNLlpEt4YC6JAHBp",
+          "name": "허정은"
+        },
+        {
+          "spotify_id": "4e2Qt9pWJg8daglQ38phPE",
+          "name": "황지아"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "5TczKZHQca5mBA3mW149ei",
+          "name": "ooon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c65bc6444b95b87f84481622",
+      "uri": "spotify:album:0SujEdZHQZ7SbT6pGBrp4C",
+      "name": "오 마이 금비 (original television soundtrack) pt. 6",
+      "album_type": "single",
+      "release_date": "2016-12-28",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        },
+        {
+          "spotify_id": "295glUeBYb1uqpNrSeYs1d",
+          "name": "halo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731706255c179264f0632dd64c",
+      "uri": "spotify:album:0XpFINzlaldECkMlMGOLVO",
+      "name": "꽃, 바람 그리고 너",
+      "album_type": "single",
+      "release_date": "2016-08-29",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4vt2MkmRaUTgErVpgkZFhd",
+          "name": "ki hui hyeon"
+        },
+        {
+          "spotify_id": "7zYj9S9SdIunYCfSm7vzAR",
+          "name": "jeon somi"
+        },
+        {
+          "spotify_id": "1ygbGmBWGTX0llbLrD9648",
+          "name": "choi yoojung"
+        },
+        {
+          "spotify_id": "2PSJ6YriU7JsFucxACpU7Y",
+          "name": "chung ha"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:32.000Z"
+}

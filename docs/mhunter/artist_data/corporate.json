@@ -1,0 +1,161 @@
+{
+  "name": "corporate",
+  "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+  "uri": "spotify:artist:0MyHfWjRKQIecnhLJfJay7",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebafaeb2d3510d64901101302a",
+  "genres": [],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ed13cca61f5e02c0cadaa96",
+      "uri": "spotify:album:5xqQwwZSdQNW6JiGzfgikI",
+      "name": "speak (whowhenwhy remix)",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        },
+        {
+          "spotify_id": "2ZI5SpSI3z4jWeaFXr0WlC",
+          "name": "mickey shiloh"
+        },
+        {
+          "spotify_id": "5RiXLHmJCEhojilpOaK6FL",
+          "name": "whowhenwhy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732873b3b703e6a1541fedd340",
+      "uri": "spotify:album:0jx6bbo2WRkgWdYYHYvjkw",
+      "name": "collateral ep",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732fa16a64194a5ab45618a87e",
+      "uri": "spotify:album:3OX7CDlxg3fMF5WcWqU0HH",
+      "name": "culture shock",
+      "album_type": "single",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b811313ffd19cc482f32871c",
+      "uri": "spotify:album:7p19IvW0QMzVbbK1GtzDuN",
+      "name": "system ep",
+      "album_type": "single",
+      "release_date": "2019-11-11",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        },
+        {
+          "spotify_id": "6TFOalvhHRXh8JmQTVSoyY",
+          "name": "pedestrian tactics"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377c7eb25c522f43d1b5d70fa",
+      "uri": "spotify:album:0G0VZ4M72X2AUaOofx3qWl",
+      "name": "a6 ep",
+      "album_type": "single",
+      "release_date": "2016-10-07",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a15482f9e485350f92903e51",
+      "uri": "spotify:album:0St8SNDBq3SXZr2ahO1Pgh",
+      "name": "speak",
+      "album_type": "single",
+      "release_date": "2016-09-05",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        },
+        {
+          "spotify_id": "2ZI5SpSI3z4jWeaFXr0WlC",
+          "name": "mickey shiloh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0cbef21d9ebd415d65e0af1",
+      "uri": "spotify:album:39Gr0XqYlEJE03sxAWOamd",
+      "name": "a5 ep",
+      "album_type": "single",
+      "release_date": "2016-04-18",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375d89a2755f9d56a514efd4a",
+      "uri": "spotify:album:7b0hxIB9dgfmXUok85YXWR",
+      "name": "t13",
+      "album_type": "single",
+      "release_date": "2016-02-01",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387732f1ba04943e5cb63864c",
+      "uri": "spotify:album:2ml3TFehi32eRRcqLWUmSU",
+      "name": "ice",
+      "album_type": "single",
+      "release_date": "2013-11-04",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0MyHfWjRKQIecnhLJfJay7",
+          "name": "corporate"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:06:53.000Z"
+}

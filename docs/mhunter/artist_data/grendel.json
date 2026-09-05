@@ -1,0 +1,333 @@
+{
+  "name": "grendel",
+  "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+  "uri": "spotify:artist:28D0LIS1y01QS8fbh9dXVk",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebc76c7a2e21ef46bc86c02bf8",
+  "genres": [
+    "ebm",
+    "industrial",
+    "industrial metal",
+    "darkwave",
+    "industrial rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300c8ec191fdfdaec912cb926",
+      "uri": "spotify:album:4XExkO0Dv4CwyGcr9Fgg8U",
+      "name": "sweet nothings (grendel remix)",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "16gi6CU7X1YfV4BIVbjZXo",
+          "name": "metamorph"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386ffd3e67793e0a5e295b111",
+      "uri": "spotify:album:2HRE3HlyyKEYfyjirk1L9g",
+      "name": "the ranidae",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3FS65UMgc6stD2PLYYmt86",
+          "name": "antibody"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bd71d2b95987b50a9a5caaf",
+      "uri": "spotify:album:65DFjML5lf404arlXuhqTX",
+      "name": "split (grendel remix)",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4qHZF44iMWAe41wVgfL1je",
+          "name": "super dragon punch!!"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273222941cf8e9ba9b0525af84d",
+      "uri": "spotify:album:2LZXYR9GeDNbjyWvdUNRXm",
+      "name": "no one survives (grendel version)",
+      "album_type": "single",
+      "release_date": "2023-03-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7iSOswSjKEtjKmPXSkV8EJ",
+          "name": "spankthenun"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390685500fcfbda48672462c4",
+      "uri": "spotify:album:0DoI610ij5VL48GpnpXnok",
+      "name": "house of black + white (grendel remix)",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0MIXqJTzEdqxtggC1GsfHy",
+          "name": "amulet"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273967fe79ac8aa9b1cee41b8dc",
+      "uri": "spotify:album:0eT67CcDwdc896xpnzuVoh",
+      "name": "dose (grendel remix)",
+      "album_type": "single",
+      "release_date": "2021-01-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1t9u7EEZdnodgGRYPmZJ73",
+          "name": "ophelia"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a49f7b5b686a2c58e512d5b4",
+      "uri": "spotify:album:41gn0UcVg3JBtmoa0M0jO3",
+      "name": "commemorate",
+      "album_type": "single",
+      "release_date": "2020-09-02",
+      "release_year": "2020",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7axp614rqaTEKnaeQJ8F3V",
+          "name": "witch of the vale"
+        },
+        {
+          "spotify_id": "7BqEidErPMNiUXCRE0dV2n",
+          "name": "zardonic"
+        },
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f4448e270679d79c449e1a2a",
+      "uri": "spotify:album:78VhLnW6JcvnznWivbp3xx",
+      "name": "ascending the abyss",
+      "album_type": "album",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6f214a768bf0981ab450172",
+      "uri": "spotify:album:67Xzwr0egrSBBywr0wVgs3",
+      "name": "age of the disposable body",
+      "album_type": "album",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f52a2c7003bd92bc2967669",
+      "uri": "spotify:album:5zInKaDq66IlrNR9XEGNxY",
+      "name": "age of the disposable body (deluxe)",
+      "album_type": "album",
+      "release_date": "2017-11-03",
+      "release_year": "2017",
+      "total_tracks": 22,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c48020fb9b26177d1d8f647",
+      "uri": "spotify:album:4w4lTdpia289l9E41QX0vE",
+      "name": "soilbleed redux, vol. 2",
+      "album_type": "album",
+      "release_date": "2014-05-09",
+      "release_year": "2014",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273567d11e01183981bb973a3c4",
+      "uri": "spotify:album:0anofyr1geZ8HHDKiDjgsw",
+      "name": "timewave : zero",
+      "album_type": "album",
+      "release_date": "2012-04-24",
+      "release_year": "2012",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273445efc8ef778c3e4d4498334",
+      "uri": "spotify:album:0eWHFzC1G7jDOJOnzu7tX8",
+      "name": "timewave : zero (limited edition)",
+      "album_type": "album",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 25,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343d7d7d2ad6ee37f1be179f4",
+      "uri": "spotify:album:6z9JOJHpkDbkeR5P0pJU7H",
+      "name": "chemicals + circuitry",
+      "album_type": "album",
+      "release_date": "2010-01-12",
+      "release_year": "2010",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a87f2c117b5d06b02bca5d2a",
+      "uri": "spotify:album:3QHMYtGLbBqiZsSPlVU0qL",
+      "name": "harsh generation",
+      "album_type": "album",
+      "release_date": "2007-06-05",
+      "release_year": "2007",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273984e8e7d766aec2a525ba1a2",
+      "uri": "spotify:album:5uL1826SepJHi7qjlo4Snm",
+      "name": "soilbleed redux",
+      "album_type": "album",
+      "release_date": "2006-05-12",
+      "release_year": "2006",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d33c84ad5340c1901b5930dd",
+      "uri": "spotify:album:6qAp1CaVbefxaGHDOKSVF2",
+      "name": "soilbleed",
+      "album_type": "album",
+      "release_date": "2005-05-10",
+      "release_year": "2005",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb8e03aeb3c8280d5f9a2efb",
+      "uri": "spotify:album:3ukGmAlpbJjVcEIja2MeQs",
+      "name": "prescription:medicide",
+      "album_type": "album",
+      "release_date": "2004-08-10",
+      "release_year": "2004",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273566b1a9fa3d206623ab59334",
+      "uri": "spotify:album:3ZJ3LL2HFqIpH7WKQgjmlK",
+      "name": "prescription:medicide (redux)",
+      "album_type": "album",
+      "release_date": "2004-08-10",
+      "release_year": "2004",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "28D0LIS1y01QS8fbh9dXVk",
+          "name": "grendel"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:24.000Z"
+}

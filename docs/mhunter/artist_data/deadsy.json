@@ -1,0 +1,60 @@
+{
+  "name": "deadsy",
+  "spotify_id": "1RBQSFgtcUFw4LXSw0tUBq",
+  "uri": "spotify:artist:1RBQSFgtcUFw4LXSw0tUBq",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb9e44dea272fe53432f8ead11",
+  "genres": [
+    "industrial rock",
+    "industrial metal",
+    "nu metal",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1e149bdd2b0adddf79ac30d",
+      "uri": "spotify:album:06p8DaHDXAV3NRaALqze7X",
+      "name": "(study for a portrait of) napolean in rags",
+      "album_type": "single",
+      "release_date": "2024-02-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1RBQSFgtcUFw4LXSw0tUBq",
+          "name": "deadsy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae063206a195712e3b0f17ac",
+      "uri": "spotify:album:3wikNtQQI9fVSPH4rhSoEU",
+      "name": "phantasmagore (remastered)",
+      "album_type": "album",
+      "release_date": "2006-08-22",
+      "release_year": "2006",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1RBQSFgtcUFw4LXSw0tUBq",
+          "name": "deadsy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308d1ca2926b466dc598d301e",
+      "uri": "spotify:album:2kBPVOM0vVUlihWChxqWMD",
+      "name": "commencement",
+      "album_type": "album",
+      "release_date": "1999",
+      "release_year": "1999",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "1RBQSFgtcUFw4LXSw0tUBq",
+          "name": "deadsy"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:08:25.000Z"
+}

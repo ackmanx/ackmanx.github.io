@@ -1,0 +1,802 @@
+{
+  "name": "volkor x",
+  "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+  "uri": "spotify:artist:5Us4fLalowFjzrjC85k4Xq",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebe8c193ca969a6609ff1d3cd2",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355c71b605981989e47317eb3",
+      "uri": "spotify:album:4SyjPGCgmDejfDllHQy8JG",
+      "name": "mass effect: uncharted worlds",
+      "album_type": "single",
+      "release_date": "2025-12-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273921ec714bf09bde047bb6e64",
+      "uri": "spotify:album:2GrsE2etLoQgRw4VuX6A36",
+      "name": "beacon x",
+      "album_type": "single",
+      "release_date": "2025-09-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fb2db91362558d5e1d9c8c9b",
+      "uri": "spotify:album:7vgkZKVs2FNsZxkdwq71er",
+      "name": "deathtower archives: 0x03",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273025c1348e9c1d12bf7929b38",
+      "uri": "spotify:album:5icjwhP8SVbSQLinYbZaga",
+      "name": "deathtower archives: 0x02",
+      "album_type": "single",
+      "release_date": "2025-05-02",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f849f15af0852b0ff3078364",
+      "uri": "spotify:album:52hjvDWrFOB3YDgTD3zk4S",
+      "name": "deathtower archives: 0x01",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b58f1726a8de77e1b7622b7",
+      "uri": "spotify:album:2kogU7fVhRXhquW1BrsESP",
+      "name": "sunshine",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfbd6a1f79713535ae3e8000",
+      "uri": "spotify:album:5YU6uT8OSItDYhYSJGrPOn",
+      "name": "gone",
+      "album_type": "single",
+      "release_date": "2024-06-12",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333d288895e5dbc0d631ee8b6",
+      "uri": "spotify:album:3nWxtcXID9gZi5y8jOUnck",
+      "name": "the loop (instrumental version)",
+      "album_type": "album",
+      "release_date": "2023-12-03",
+      "release_year": "2023",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730410afb9ec6253e31bad23d5",
+      "uri": "spotify:album:6MrfCRugUq2cSGfECa3TgK",
+      "name": "the loop",
+      "album_type": "album",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb2ba5926aafcea459f43f91",
+      "uri": "spotify:album:14TBW5vnKohZWddmZ1Znsw",
+      "name": "expanse",
+      "album_type": "single",
+      "release_date": "2023-10-12",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332827935403553c476dfcf48",
+      "uri": "spotify:album:01XznyIBdTZrcqkcu0fZW4",
+      "name": "one with the void",
+      "album_type": "single",
+      "release_date": "2023-09-20",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b18f64c6876c97ddb59d2f5",
+      "uri": "spotify:album:2rw499jAiqC9IoxvCDL1Hb",
+      "name": "adrift",
+      "album_type": "single",
+      "release_date": "2023-08-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc6c08540236b5abc56643ee",
+      "uri": "spotify:album:2jkB6q15WDxfZzSBcZ1MhA",
+      "name": "another way",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "0HA5xUfOC7tVwJVzwvFUg3",
+          "name": "drdisrespect"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349a311cbfae52945e2ecc03a",
+      "uri": "spotify:album:2aFRlKAKLUEmiGEgnKH5Yv",
+      "name": "atomic live",
+      "album_type": "single",
+      "release_date": "2023-01-13",
+      "release_year": "2023",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301bd8bc4ca43fc75518e4002",
+      "uri": "spotify:album:3YZoLzycwXiMIVKW1GVI43",
+      "name": "gravity",
+      "album_type": "single",
+      "release_date": "2022-11-30",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734556838df0660ef409735b47",
+      "uri": "spotify:album:4cNl10lUEP8owJoaDMjqI6",
+      "name": "godwave rises",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9628c278d56156b49791950",
+      "uri": "spotify:album:30gWBCckPo2RBTBd8Mt7hv",
+      "name": "gateway (from “in search of tomorrow”)",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f08c775b3be1720132105b00",
+      "uri": "spotify:album:5jdxZtqYvvoQWv5073VZLe",
+      "name": "interstellar main theme",
+      "album_type": "single",
+      "release_date": "2021-10-31",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731409137ca55d14b14d6fb133",
+      "uri": "spotify:album:4TMeLSX3GtPMh4t2zDzfTA",
+      "name": "signals (volkor x remix)",
+      "album_type": "single",
+      "release_date": "2021-10-01",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KxS1dL7Q7jxMkyb2ZvzXH",
+          "name": "fury weekend"
+        },
+        {
+          "spotify_id": "5DNApAt05XowaylsOJo1eW",
+          "name": "voicians"
+        },
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273949bc712ef0f81897914ff09",
+      "uri": "spotify:album:4QM4Ejy1HhzhJLsOkZC1yI",
+      "name": "this means more war",
+      "album_type": "album",
+      "release_date": "2021-09-03",
+      "release_year": "2021",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdd0b5bcc234fb34542cabff",
+      "uri": "spotify:album:1eWlqbcUvywdDVhMrVBoMp",
+      "name": "hypersleep (carbon killer remix)",
+      "album_type": "single",
+      "release_date": "2021-08-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "73CHtFYTjplBsprAdBl0cQ",
+          "name": "carbon killer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c315e327c76dc1b6b6c4ae65",
+      "uri": "spotify:album:28yySVdSWFumKL3KPUxCl6",
+      "name": "the bomb (boucle infinie remix)",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "1GHPb8Q7BpKy5BDf59XvSF",
+          "name": "boucle infinie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fce152031644cb9213cfb976",
+      "uri": "spotify:album:4ujSn0DebC4XuHig4lxpBj",
+      "name": "beacon (street cleaner remix)",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "5JZgp0VC1pINQXHLU3tuEW",
+          "name": "street cleaner"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734df86ec0dbe37298c8353d92",
+      "uri": "spotify:album:0cS8TiQmsaT0bXmbID8N1z",
+      "name": "run away (the algorithm remix)",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "14u4KXVp0iXQil79EpxXGc",
+          "name": "the algorithm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335e47cef400da1d73bfeafc4",
+      "uri": "spotify:album:1hGcYLM7vCmsaodR6nFARK",
+      "name": "masked death (electric dragon remix)",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "5SUvXyFcsFsYH0WQ2cNFJb",
+          "name": "electric dragon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bec0d87efeb201d1aa881c8a",
+      "uri": "spotify:album:2mmIAdGaZ1X1i5nNL1kr0S",
+      "name": "prelude to war (hollywood burns remix)",
+      "album_type": "single",
+      "release_date": "2021-06-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        },
+        {
+          "spotify_id": "0m8rUYGZIXTo8knUYP7uB9",
+          "name": "hollywood burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a7912c8d1ae5d92ef81dcf1",
+      "uri": "spotify:album:6zk9VwsAPxDCT4p5rXLfVF",
+      "name": "the brothers (from road 96)",
+      "album_type": "single",
+      "release_date": "2021-06-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d15760dea586d0a018bb2041",
+      "uri": "spotify:album:6FVVNkD1mo6zZdsMJyK6uQ",
+      "name": "for victory!",
+      "album_type": "single",
+      "release_date": "2021-04-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27317a7b05f4142b29ffcd5bbcd",
+      "uri": "spotify:album:62DUAEwXVco35WbuBGtAEK",
+      "name": "monument (remix)",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1GHPb8Q7BpKy5BDf59XvSF",
+          "name": "boucle infinie"
+        },
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737877f87f9d4608ec8a48f944",
+      "uri": "spotify:album:2PIvAhvSgwJ7DHr9PYcnez",
+      "name": "aquatic ambience",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb657af3fb96e3630501908d",
+      "uri": "spotify:album:0CFfzdFp3RMlW0PwkIsBlq",
+      "name": "turrican ii: the final fight",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e036ac0300475549588b97d3",
+      "uri": "spotify:album:6eBTlPPi3c4AR98lPDudAs",
+      "name": "aftermath",
+      "album_type": "single",
+      "release_date": "2020-07-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2db84e99aadba6aa7514f6c",
+      "uri": "spotify:album:3EnFJh108C0ZWgtlt0Pd0F",
+      "name": "heart wired, pt. 2 (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2020-05-30",
+      "release_year": "2020",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a8145e9aba403d597c77961",
+      "uri": "spotify:album:1yJB6Nxwrzm2V9AKn7e9Hv",
+      "name": "this is our planet now",
+      "album_type": "album",
+      "release_date": "2020-04-10",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736be49a2200843413c69e5391",
+      "uri": "spotify:album:7FCYDLppo05FFZN6QOqUNO",
+      "name": "shoot them up",
+      "album_type": "single",
+      "release_date": "2020-03-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384e62ca72fd3ca888d25d46a",
+      "uri": "spotify:album:44hBKnZ0o16A9t3MWwEDa5",
+      "name": "stratos",
+      "album_type": "single",
+      "release_date": "2020-02-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389026d119b8bfe801c30f304",
+      "uri": "spotify:album:3e6WHhX65R1FrdraBNi9Gb",
+      "name": "in the house - in a heartbeat",
+      "album_type": "single",
+      "release_date": "2019-11-11",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273868ff9de57ee1240b628fc18",
+      "uri": "spotify:album:2E7ULInjSoqYXOwaxbZsvi",
+      "name": "heart wired, pt. 1 (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2019-04-19",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef8afba2ba1e127bfa9f4f62",
+      "uri": "spotify:album:1Xv4tip23eKhq6wvF2p6DQ",
+      "name": "heart wired (extended version)",
+      "album_type": "single",
+      "release_date": "2019-01-31",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273089f5576f3f8cc0acf7cf9fa",
+      "uri": "spotify:album:5oBKWQ8HzvMmXh2pjrfPMz",
+      "name": "beam",
+      "album_type": "single",
+      "release_date": "2018-07-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732c5a6866f8118b245362eb48",
+      "uri": "spotify:album:79mqSuejGc0EBlndVbM98L",
+      "name": "masked death",
+      "album_type": "single",
+      "release_date": "2018-06-27",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4c99f4b36e891526500b77d",
+      "uri": "spotify:album:0s2Xy3lfeHSwh4TeNXQ4D6",
+      "name": "shift quantum, vol. 2 (original game soundtrack)",
+      "album_type": "single",
+      "release_date": "2018-05-29",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273702b0e3bd3bdd58216f0199e",
+      "uri": "spotify:album:25ovBIPY04bK5BBvFay9FW",
+      "name": "apidya",
+      "album_type": "single",
+      "release_date": "2018-05-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395422c1845d189d5f57d6052",
+      "uri": "spotify:album:40ZTChn4BIhk1aqqNqjOkr",
+      "name": "enclave",
+      "album_type": "single",
+      "release_date": "2017-10-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368b5b2e43443b5ece29b39c2",
+      "uri": "spotify:album:2TxO5KT1zPXJALiYlUu4gk",
+      "name": "desync (original soundtrack, vol. 2)",
+      "album_type": "single",
+      "release_date": "2017-02-28",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a204879afac28dcd38726489",
+      "uri": "spotify:album:0Z6KfyCE5OV3wWdoE7Pf7v",
+      "name": "this means war (radio edit)",
+      "album_type": "single",
+      "release_date": "2016-09-09",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf944516fb9d1136694947ef",
+      "uri": "spotify:album:0qjphx6OQM9oCJjBShecqb",
+      "name": "this means war",
+      "album_type": "album",
+      "release_date": "2016-06-03",
+      "release_year": "2016",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27363080013aa91629888b99ee5",
+      "uri": "spotify:album:6m5GXVc8T2jUBWGkOHEBWf",
+      "name": "beacon",
+      "album_type": "single",
+      "release_date": "2015-09-15",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c4faa5a922aef734a3bcfe7",
+      "uri": "spotify:album:3iDZ12SR0MEhz5RucjsrYt",
+      "name": "badass inc.",
+      "album_type": "single",
+      "release_date": "2015-06-09",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b59d1020ffc018091905aab",
+      "uri": "spotify:album:52U3FkTL7hxd287y9mfRYN",
+      "name": "the portal",
+      "album_type": "single",
+      "release_date": "2015-06-09",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Us4fLalowFjzrjC85k4Xq",
+          "name": "volkor x"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:34:51.000Z"
+}

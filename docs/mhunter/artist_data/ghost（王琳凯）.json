@@ -1,0 +1,744 @@
+{
+  "name": "ghost（王琳凯）",
+  "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+  "uri": "spotify:artist:1NzIfDPUv5QYRXOtv13PRI",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf1ba594a00448adf7d562eca",
+  "genres": [
+    "chinese r&b",
+    "c-pop",
+    "chinese hip hop",
+    "mandopop",
+    "chinese rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273876612df52514ce394ad26fd",
+      "uri": "spotify:album:09UlWmxu6QzLEOhI6ZhdLa",
+      "name": "魁",
+      "album_type": "album",
+      "release_date": "2026-05-08",
+      "release_year": "2026",
+      "total_tracks": 17,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ffa56f06d7dec154866a789b",
+      "uri": "spotify:album:2nvD9lAFPvQufnPKug8kbx",
+      "name": "saturday night (mandarin version)",
+      "album_type": "single",
+      "release_date": "2026-03-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc568568074869bd404e63b1",
+      "uri": "spotify:album:4hBntyYVPQHL2c2MVdXN1o",
+      "name": "in your eyes",
+      "album_type": "single",
+      "release_date": "2026-01-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa7ae40fb17e0e185d570dc0",
+      "uri": "spotify:album:5po0SKuBsrqYCAOAgq0LU9",
+      "name": "月和星 水和鱼 我和你",
+      "album_type": "single",
+      "release_date": "2026-01-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736fbd2791e274def8bc43c566",
+      "uri": "spotify:album:3vqtXbZ58Smru09zemy1xH",
+      "name": "time of my life",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "6Y64EaNqpqcZYTgs4c76gF",
+          "name": "jxdn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bea36e35531c20c9760191b",
+      "uri": "spotify:album:52fwgaulG0WL7FYci58acp",
+      "name": "dancing till i die",
+      "album_type": "single",
+      "release_date": "2025-11-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366279424afd2b2eca9020ddf",
+      "uri": "spotify:album:40tcRX9ydr17AINenVbDLG",
+      "name": "kiss (english version)",
+      "album_type": "single",
+      "release_date": "2025-10-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d326b67e310e93476aedaab",
+      "uri": "spotify:album:0A7pBfSsIZNtnGw2lT7BBj",
+      "name": "对是错的",
+      "album_type": "single",
+      "release_date": "2025-09-15",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f838a2032c704924899cb1d5",
+      "uri": "spotify:album:60C14eF38pKAcHxPuuu5T4",
+      "name": "你是我向流星许愿的原因",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730854d826c9d0aa39cf4e9637",
+      "uri": "spotify:album:7f3oPlXbJC9aaW5M5pURVR",
+      "name": "音药.i",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a200d72411273c1ff7589159",
+      "uri": "spotify:album:08v1jiipY2vUCDju15DNxR",
+      "name": "音药",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273699340f910120f148e473949",
+      "uri": "spotify:album:3Efq6kRqCSKjsz9VexEGyO",
+      "name": "david&lucy",
+      "album_type": "single",
+      "release_date": "2024-12-10",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fba43dfb75b8916e276114a0",
+      "uri": "spotify:album:5UYOMkrpYkuVGlEbvZnFK5",
+      "name": "鹰击长空",
+      "album_type": "single",
+      "release_date": "2024-11-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3UiqJjqXYHLGV112adqGgk",
+          "name": "hyf"
+        },
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "2CeJdeBlin3ZBUi0GffMxR",
+          "name": "juggshots"
+        },
+        {
+          "spotify_id": "1DP8UdiXZB5OaXN8z3gKVU",
+          "name": "杭异凡"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336268ebba33d35c6e2aac50e",
+      "uri": "spotify:album:7DBr7BrjF4gJH1XAL09hD2",
+      "name": "倦鸟",
+      "album_type": "single",
+      "release_date": "2024-10-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be7833ee5d621b31ded3dd4e",
+      "uri": "spotify:album:0Zr8wX169wgs45tnWGsXBA",
+      "name": "the beauty of the broken",
+      "album_type": "single",
+      "release_date": "2024-09-16",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7sBtBCNVRujQhaHDODkfTN",
+          "name": "miyavi"
+        },
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348a76a7e7fd1a14a9dcc131d",
+      "uri": "spotify:album:2DpUyJR94AOAJOZqF6CWE1",
+      "name": "《云南虫谷》电视剧原声带",
+      "album_type": "single",
+      "release_date": "2024-09-01",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "4FNd3eRmNwFDeOTAXfTjov",
+          "name": "张雨绮"
+        },
+        {
+          "spotify_id": "0JJxb0rA2ei1tIvdCwTnPF",
+          "name": "潘粤明"
+        },
+        {
+          "spotify_id": "3zOtvFICT8d5VZHyF5Z4H4",
+          "name": "蒋超"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397dd2e7ec6edcc51c49dcede",
+      "uri": "spotify:album:5o6Xe0iZDyTB8SMDKploVn",
+      "name": "sweater (杰克wilven remix)",
+      "album_type": "single",
+      "release_date": "2024-08-31",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273200ea6962b70db58859cb1f0",
+      "uri": "spotify:album:5vIusnyLWl7KHDDGOGM5Xr",
+      "name": "sweater",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "4iDroUFo89Y7YBsdDTBmTD",
+          "name": "sueco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fecd9030c5bb0d01091dfb9",
+      "uri": "spotify:album:3VLpyCKF2UWt0cfjYgk0cd",
+      "name": "last day",
+      "album_type": "single",
+      "release_date": "2023-05-19",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6c181b7eb5258c27e7e9ba8",
+      "uri": "spotify:album:3hnu9UshmlFr6MQJGnqpCY",
+      "name": "天赐的声音第四季 (第3期live)",
+      "album_type": "single",
+      "release_date": "2023-05-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2dIGGnfI63aDJNR6eL50AZ",
+          "name": "jike junyi"
+        },
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ce67dc4079ee3eca2ebbc62",
+      "uri": "spotify:album:44O20Tf11QlpVVbePKtvCI",
+      "name": "hadn't met you",
+      "album_type": "single",
+      "release_date": "2023-02-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec59a4f3c2fdda055634cacd",
+      "uri": "spotify:album:0R5DkCbkgDfFBcM7d1oeUD",
+      "name": "没有你的冬天",
+      "album_type": "single",
+      "release_date": "2023-01-12",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340a2d170b6f8133daefc77df",
+      "uri": "spotify:album:6KVVMw5IllApexSL6pZlEh",
+      "name": "追迹（《博物馆之城》主题曲）",
+      "album_type": "single",
+      "release_date": "2023-01-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732383fddf13a9e5436bc6069c",
+      "uri": "spotify:album:5asjnMT1MRU14Mlf0aqRLL",
+      "name": "时时刻刻",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f1a7a396176a953af6b6d9fe",
+      "uri": "spotify:album:5Aa0aa08UiuBPq5WEsuJhd",
+      "name": "元音大冒险 (live)",
+      "album_type": "single",
+      "release_date": "2022-12-23",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4VfQ11oBpTAmQqlh2CP8s3",
+          "name": "梁龙"
+        },
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "2oa6wKP9Qr9sRLkORjZWSg",
+          "name": "张雨绮"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355eea84bff073ad19e8cf308",
+      "uri": "spotify:album:3RLhz0Q35lt7e2DOwc2UAp",
+      "name": "毕业记",
+      "album_type": "single",
+      "release_date": "2022-11-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "7n6JzP9GxGVVzXG0t0gLu3",
+          "name": "zhang bichen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737299ee97ec36a0d048d57f52",
+      "uri": "spotify:album:70235YGldSLQqBJ18hGgX4",
+      "name": "deadline",
+      "album_type": "album",
+      "release_date": "2022-07-29",
+      "release_year": "2022",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cc970f75731f8f5ed0c5217",
+      "uri": "spotify:album:7HJgpVk3x21soCJEE1T5SL",
+      "name": "super villain",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "009SHiJ9rvFm3vNwL4SjZx",
+          "name": "nyk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364977ba6effd8494dd64757d",
+      "uri": "spotify:album:0UI7GDjXPKRXEM4hUxYYuN",
+      "name": "不良少年",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381470ec1b28bb8f1f434c96f",
+      "uri": "spotify:album:00yYoi3QctLzrUxznHG2sh",
+      "name": "拜托了世界",
+      "album_type": "single",
+      "release_date": "2021-05-20",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae853e7d376928d0ce286d5",
+      "uri": "spotify:album:69koA9byXUezjhkkt05J0h",
+      "name": "别叫我达芬奇 (punk version)",
+      "album_type": "single",
+      "release_date": "2021-05-07",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab232beb255dd99f678be275",
+      "uri": "spotify:album:443ggAkp8BBLGfhMVok5vf",
+      "name": "what's wrong with me (punk version)",
+      "album_type": "single",
+      "release_date": "2021-04-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ecb89d3b3bdfe4cf20395bb",
+      "uri": "spotify:album:3GYV56qSkXGWzm5TehCfk3",
+      "name": "mood (lil ghost 小鬼 remix) feat. iann dior & lil ghost",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6fWVd57NKTalqvmjRd2t8Z",
+          "name": "24kgoldn"
+        },
+        {
+          "spotify_id": "6ASri4ePR7RlsvIQgWPJpS",
+          "name": "iann dior"
+        },
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27398fce06ae28ce524e29a17c0",
+      "uri": "spotify:album:2As2hx1LABrt0CeInhtjDr",
+      "name": "what's wrong with me",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327919403dbf3656466fcfac4",
+      "uri": "spotify:album:3aE3ye1laq90c6LvkQwkdA",
+      "name": "no 808",
+      "album_type": "single",
+      "release_date": "2020-10-16",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        },
+        {
+          "spotify_id": "009SHiJ9rvFm3vNwL4SjZx",
+          "name": "nyk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fe1767b43fa87dd90875075",
+      "uri": "spotify:album:5kaWs0zJb10TSlOr5bJf6D",
+      "name": "pinky murder",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731dd852083017a5adfcee5b2f",
+      "uri": "spotify:album:2wtWwPlPcyFi2OXnyNSeb7",
+      "name": "lil ghost 2.0",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384cc1bd0e156e70bea597c71",
+      "uri": "spotify:album:4wXIU0PA9uzi8CsTPkX1zL",
+      "name": "ready now",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738180c1c8cb8a34f173577917",
+      "uri": "spotify:album:2yox8aVnNxv1rNmvzTe6ou",
+      "name": "从m到w的高速公路",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d3c974eb37fa4e653e5d2fd",
+      "uri": "spotify:album:0tIzM3Pq6nfhatEDWxwFfJ",
+      "name": "偏爱",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bca0b673a2e70049f40835c",
+      "uri": "spotify:album:2UGyPmGT2uMA4Vyv9VVbPd",
+      "name": "good night",
+      "album_type": "single",
+      "release_date": "2018-03-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273317f331fd9ff1476d2de168e",
+      "uri": "spotify:album:0L47XQ3ciY6JyBowvdWScK",
+      "name": "i.w.a.b.n",
+      "album_type": "single",
+      "release_date": "2018",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0e8960eebbc9b44f4be50df",
+      "uri": "spotify:album:0BYIH8azaMVjPVVpHT7rIp",
+      "name": "pusher",
+      "album_type": "single",
+      "release_date": "2018",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba050095ba3cfeeb4d0cc66c",
+      "uri": "spotify:album:6oj27NRUeuHWFvXfDYIhBL",
+      "name": "unicorn",
+      "album_type": "single",
+      "release_date": "2018",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NzIfDPUv5QYRXOtv13PRI",
+          "name": "ghost（王琳凯）"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:13:00.000Z"
+}

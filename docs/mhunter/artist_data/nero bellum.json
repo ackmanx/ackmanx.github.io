@@ -1,0 +1,45 @@
+{
+  "name": "nero bellum",
+  "spotify_id": "4xo3jXN0qflZWFC84IBeLO",
+  "uri": "spotify:artist:4xo3jXN0qflZWFC84IBeLO",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2",
+  "genres": [
+    "noise music",
+    "industrial",
+    "ebm",
+    "industrial metal"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730403f6e4fcbf0cf3100c3e3f",
+      "uri": "spotify:album:5ds7hmzf9LdqMDU1hgiSML",
+      "name": "the voice of your blood cries to me from the soil",
+      "album_type": "album",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4xo3jXN0qflZWFC84IBeLO",
+          "name": "nero bellum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306296482b0698121d751b7c2",
+      "uri": "spotify:album:3w41e7R76TBST08zpLeHzt",
+      "name": "nfrnº",
+      "album_type": "album",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4xo3jXN0qflZWFC84IBeLO",
+          "name": "nero bellum"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:23:51.000Z"
+}

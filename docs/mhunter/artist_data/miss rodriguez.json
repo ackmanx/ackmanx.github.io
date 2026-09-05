@@ -1,0 +1,118 @@
+{
+  "name": "miss rodriguez",
+  "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+  "uri": "spotify:artist:4yZGU0gzItG1ItNaTGKhiP",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb648b858de95e7376dec614eb",
+  "genres": [
+    "progressive trance",
+    "trance"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351d8f7563fc58fdf53a21371",
+      "uri": "spotify:album:5M7fL4Kmiv0bHuDFiEGtii",
+      "name": "never say goodbye",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1c2d8e31defdf601fbb6c6c",
+      "uri": "spotify:album:3nmCNOEdaGW5XkbiWq95mg",
+      "name": "concentrate",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325bf4dc1c2f562fe86e8833f",
+      "uri": "spotify:album:6Psdra2fN8AP88yu7eMf6P",
+      "name": "stay",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a970a1b05137f7e4cc7b982f",
+      "uri": "spotify:album:3slfGhHuLegfmWA36kUqk9",
+      "name": "space & mind",
+      "album_type": "single",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372d6f159f0727688d3099c08",
+      "uri": "spotify:album:4yXWH8xps154Qv7GSnMi4Q",
+      "name": "apollo",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4b15b8ce2f4cba6746b8c33",
+      "uri": "spotify:album:7AGTwuLES8WnfjKG9LqkVy",
+      "name": "your eyes",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325d4c8dee39b037417e4a772",
+      "uri": "spotify:album:0FJjmd2ap2Z5jDQMqJcHTj",
+      "name": "carrousel",
+      "album_type": "single",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4yZGU0gzItG1ItNaTGKhiP",
+          "name": "miss rodriguez"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:22:44.000Z"
+}

@@ -1,0 +1,504 @@
+{
+  "name": "dubmood",
+  "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+  "uri": "spotify:artist:4D2G48IdJKhcdZ5c1dqp5Z",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebacfd68cbfcb63e9a7f80e907",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385e574d24b81228723cb4f49",
+      "uri": "spotify:album:45c4V16i1JprNuHGonOxMy",
+      "name": "lost floppies, vol 3",
+      "album_type": "album",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325c7d1187a3edc78af416f4f",
+      "uri": "spotify:album:3lcozzWu2WzUA4dTawjmTh",
+      "name": "fighting words",
+      "album_type": "single",
+      "release_date": "2026-04-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4F3HexeHluucrmJhIP4PbE",
+          "name": "bright white lightning"
+        },
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351d53e6785c7956885451b55",
+      "uri": "spotify:album:6CfXSfVOX73TEDbhX034Fg",
+      "name": "e1m777",
+      "album_type": "single",
+      "release_date": "2025-05-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ef2a73d4607ef10bb0efba8",
+      "uri": "spotify:album:353igLx8pC5CHf45pogOGA",
+      "name": "track tracking",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        },
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385e1f979d14f8184b580fa60",
+      "uri": "spotify:album:2lWA1bMPAmNRHdQQLSeeYY",
+      "name": "keygen 31",
+      "album_type": "single",
+      "release_date": "2024-07-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eeec5e183ce301e6690d9497",
+      "uri": "spotify:album:0UASUUBiZRdWqk8T3jcD4e",
+      "name": "the scene is dead (ft2 demo)",
+      "album_type": "single",
+      "release_date": "2024-07-07",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc78704355d351fe7715b4ce",
+      "uri": "spotify:album:6t6P9eXbejeoUbMQSVYoi3",
+      "name": "keygen 21 (razor 1911 installer edit)",
+      "album_type": "single",
+      "release_date": "2024-06-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273788586c238f6ed4374d3b63f",
+      "uri": "spotify:album:0JZog8TRqLCVhOUFeBuBcg",
+      "name": "comply (razor 1911 installer)",
+      "album_type": "single",
+      "release_date": "2024-06-11",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399e5db25c8b88ad58385b283",
+      "uri": "spotify:album:3zEJ0jeIc5OapBgVzOTXnd",
+      "name": "una sera a riccione",
+      "album_type": "single",
+      "release_date": "2024-05-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fd37a6757407d96a3d4d2aa",
+      "uri": "spotify:album:2tADiiYzU4IjhNKlblgUU2",
+      "name": "cosmoteer, pt. 1 (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2022-10-24",
+      "release_year": "2022",
+      "total_tracks": 28,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27306dc79d5da616b7a1699d4df",
+      "uri": "spotify:album:5Wk3Cr5avhuKaepdupNlAj",
+      "name": "cosmoteer, pt. 2 (original game soundtrack)",
+      "album_type": "album",
+      "release_date": "2022-10-24",
+      "release_year": "2022",
+      "total_tracks": 32,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba89e34c27a792ffe9c8dcb2",
+      "uri": "spotify:album:4r9HEszOAbfhRfT1n1QPLF",
+      "name": "bloodbags and downtube shifters",
+      "album_type": "album",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dad2153e4fa7576c1f05d802",
+      "uri": "spotify:album:0sd9MUPo8633cLWPcK8u74",
+      "name": "votedisk // scene is dead",
+      "album_type": "single",
+      "release_date": "2019-05-24",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321423d6c88725cd1db3610f0",
+      "uri": "spotify:album:1Hv0pkydL9l0rybwimNDa8",
+      "name": "breaker (original video game soundtrack)",
+      "album_type": "album",
+      "release_date": "2019-03-04",
+      "release_year": "2019",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cc26f943fc5673baede2c4a",
+      "uri": "spotify:album:3n4eyLaPdojFcprhFOz7e5",
+      "name": "overshoot days",
+      "album_type": "album",
+      "release_date": "2018-09-16",
+      "release_year": "2018",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e23399fb94922cba23c0eb8e",
+      "uri": "spotify:album:5UlvhrjweEYAHFvwyzuV6U",
+      "name": "bad television",
+      "album_type": "single",
+      "release_date": "2017-04-30",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        },
+        {
+          "spotify_id": "3z9XCKFZ4a6xxvMK9haQy5",
+          "name": "zabutom"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390c8d376503e5913cfeac39e",
+      "uri": "spotify:album:74w7d97unBKnXv4Fronhvw",
+      "name": "force de frappe",
+      "album_type": "album",
+      "release_date": "2015-12-21",
+      "release_year": "2015",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d56a26c0dc4aca2bbf9770f6",
+      "uri": "spotify:album:1znIojU5cH3dv2kuheHR2L",
+      "name": "machine",
+      "album_type": "album",
+      "release_date": "2014-01-08",
+      "release_year": "2014",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d0e262491544d3d04146eca",
+      "uri": "spotify:album:32vCan8ZJkdmYfFHSnXwEl",
+      "name": "the sun and moon (original soundtrack)",
+      "album_type": "album",
+      "release_date": "2014",
+      "release_year": "2014",
+      "total_tracks": 32,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdcdaebaf352a35dd5de01f0",
+      "uri": "spotify:album:5dwUCdIWlno9iMQMpIMrFv",
+      "name": "lost floppies vol 2",
+      "album_type": "album",
+      "release_date": "2013-07-03",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273499e4c156a28094f5280fcc6",
+      "uri": "spotify:album:6j7KvvyNj4fMfZm4Q98Mfy",
+      "name": "ma version",
+      "album_type": "single",
+      "release_date": "2013-06-06",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3588c91543fe5c2699a40e4",
+      "uri": "spotify:album:604uaVg2C6we2gH2FmU8jB",
+      "name": "chiptune/power without the price",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c8ca839866253810dd43ee8",
+      "uri": "spotify:album:5ZUps4q2HlKqBpYHlnVfnP",
+      "name": "overlander",
+      "album_type": "single",
+      "release_date": "2012",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734362ae2ea67cae25fcfcaa5a",
+      "uri": "spotify:album:7soOh0VaVCschigBauSMjr",
+      "name": "badlands",
+      "album_type": "album",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c1d52555376dd0f3794fb7db",
+      "uri": "spotify:album:0Xa6Plmk3HbCdwXzIstX2J",
+      "name": "cetait mieux en rda remixes",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273835a115dc83ae64112646e6b",
+      "uri": "spotify:album:3UPHtRCPgTzJWgVTxX2VSN",
+      "name": "transregional des pyrenees",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735991d600eac7bb2cbbea28aa",
+      "uri": "spotify:album:2RRwH0peb36FRFytGj3ED5",
+      "name": "transregional remixes",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b71ec4cb94a57e85cf0f60b",
+      "uri": "spotify:album:5M3UKvw1TY5bifaSF93Ein",
+      "name": "toffelskater remixes",
+      "album_type": "single",
+      "release_date": "2008",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d015dd5e97398e4f721b8d6",
+      "uri": "spotify:album:3ICrlao57BGScCAvTJjheZ",
+      "name": "traverse de rn85",
+      "album_type": "single",
+      "release_date": "2008",
+      "release_year": "2008",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375ba7b71f8bd08e978820608",
+      "uri": "spotify:album:0KBeJqypfUIn2PHKhUxEsB",
+      "name": "atari-ska l'atakk",
+      "album_type": "single",
+      "release_date": "2007-08-10",
+      "release_year": "2007",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273430faa3759ab2c69b351b8d9",
+      "uri": "spotify:album:1Xxj00z9p6kEfNrKQjCj5x",
+      "name": "c'etait mieux en rda",
+      "album_type": "album",
+      "release_date": "2007",
+      "release_year": "2007",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cc5751eb3196b168c5a92ba",
+      "uri": "spotify:album:74NH3oYFaxKSZYDFtzyXir",
+      "name": "lost floppies vol 1",
+      "album_type": "album",
+      "release_date": "2006",
+      "release_year": "2006",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "4D2G48IdJKhcdZ5c1dqp5Z",
+          "name": "dubmood"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:09:56.000Z"
+}

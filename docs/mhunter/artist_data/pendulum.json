@@ -1,0 +1,753 @@
+{
+  "name": "pendulum",
+  "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+  "uri": "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb4a45def215a47635d17d8a7b",
+  "genres": [
+    "drum and bass",
+    "drumstep",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392f52ccc60c8b34fc77c1ba0",
+      "uri": "spotify:album:2hanu4qreVBLfHuojMCT4F",
+      "name": "fade (too biased remix)",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4AVFqumd2ogHFlRbKIjp1t",
+          "name": "alesso"
+        },
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "5VGAt0ZerQ6qjF4eWDDwui",
+          "name": "too biased"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dcbb69d4be6c29c0be851f32",
+      "uri": "spotify:album:5n4l9QpvnozMdhrdxRQIHU",
+      "name": "fade",
+      "album_type": "single",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4AVFqumd2ogHFlRbKIjp1t",
+          "name": "alesso"
+        },
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731a1f9194f4f906aaafbcb8db",
+      "uri": "spotify:album:0ABVcWFqeuzlCL1feJjPjs",
+      "name": "inertia",
+      "album_type": "album",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbac00b0fb1b517dce3a4bed",
+      "uri": "spotify:album:5Igd3P0Jm4UXTOBB15YToZ",
+      "name": "guiding lights",
+      "album_type": "single",
+      "release_date": "2025-08-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "4njdEjTnLfcGImKZu1iSrz",
+          "name": "awolnation"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732928d191085a69528082c9de",
+      "uri": "spotify:album:4sdOB0zTTdmqLyPs8tHXAJ",
+      "name": "cannibal",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c31a08c011986285ecf7bde",
+      "uri": "spotify:album:3lF11dYBA2aml6FwhXBh5k",
+      "name": "save the cat",
+      "album_type": "single",
+      "release_date": "2025-05-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e89a9683dd7b721f148a43bf",
+      "uri": "spotify:album:6J4wHgqUO4f0mqp0Cfy3mG",
+      "name": "sound of you",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "2SNg8nqwOHF1eZgRnL9zes",
+          "name": "rob swire"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b73705a084af40981a05da",
+      "uri": "spotify:album:2vwB6SbE20uH2iaDpFb4Rc",
+      "name": "napalm",
+      "album_type": "single",
+      "release_date": "2024-08-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "1q4618qKswelCGLoanFKQh",
+          "name": "joey valence & brae"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731fd73eae224d39344bb4eb9a",
+      "uri": "spotify:album:3KTTUxR5BNdc6CO42AxJtA",
+      "name": "anti-hero (triple j like a version)",
+      "album_type": "single",
+      "release_date": "2023-12-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "2ztWo9ZI0S6mzpQVmmMcE1",
+          "name": "triple j"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376c7cc0605450978395cd122",
+      "uri": "spotify:album:6LukXAcCDegiMMo0B5ebvM",
+      "name": "anima",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304f3257a82f619c21aa9371b",
+      "uri": "spotify:album:2zpMB0CBeBuQu15Mx2bZIX",
+      "name": "mercy killing",
+      "album_type": "single",
+      "release_date": "2023-11-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "6rYogEVj60BCIsLukpAnwr",
+          "name": "scarlxrd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374d974c1f6c4b5a272d3ef76",
+      "uri": "spotify:album:1Rln7JVD0fSfbpBDzl2ylq",
+      "name": "colourfast",
+      "album_type": "single",
+      "release_date": "2023-09-08",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b05b22b89b13e0941b70601",
+      "uri": "spotify:album:7DYy9HvRUwMJEhze8qNW6I",
+      "name": "halo (urbandawn remix)",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "7iWiAD5LLKyiox2grgfmUT",
+          "name": "bullet for my valentine"
+        },
+        {
+          "spotify_id": "4Kjl91bg9I6TuhrEC0NQgX",
+          "name": "urbandawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738896828b011216fb981d735c",
+      "uri": "spotify:album:2vdZRoWcUvGPmQn37NMYTk",
+      "name": "halo (matt tuck rework)",
+      "album_type": "single",
+      "release_date": "2023-08-09",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "7iWiAD5LLKyiox2grgfmUT",
+          "name": "bullet for my valentine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7f0a0800902c597750e0be4",
+      "uri": "spotify:album:4f9UGlRncIgchuFWcMhkef",
+      "name": "halo",
+      "album_type": "single",
+      "release_date": "2023-06-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "7iWiAD5LLKyiox2grgfmUT",
+          "name": "bullet for my valentine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b3da86f9411e753a7965e1d",
+      "uri": "spotify:album:6EXZ4HAMqVGQ1QHGnnDHZx",
+      "name": "elemental (the remixes)",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b941dc69d287fcfc0f4dfd3f",
+      "uri": "spotify:album:7kbCCMwXxLWQYevRcGtR3U",
+      "name": "elemental",
+      "album_type": "single",
+      "release_date": "2021-06-17",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ac26e81ee22c927d09c18dc",
+      "uri": "spotify:album:3QZHRDBNh1GHDY6MCBULQp",
+      "name": "the reworks",
+      "album_type": "album",
+      "release_date": "2018-06-29",
+      "release_year": "2018",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736402ae5d1b680facfc54241d",
+      "uri": "spotify:album:582DszgyCd6TSUXhBUNNZX",
+      "name": "the island, pt. 1 (dawn) [skrillex remix]",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "skrillex"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d325230d4cf75e92be866553",
+      "uri": "spotify:album:0c7Lys6ZWqwtlre9WHZJmX",
+      "name": "tarantula (feat. dj fresh, $pyda, & tenor fly) [icarus remix]",
+      "album_type": "single",
+      "release_date": "2018-05-11",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "0nUF7iT0e6D5xEl743Jfu3",
+          "name": "icarus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347f92e9b0b346d4ac5b25b25",
+      "uri": "spotify:album:7CdAe3ZVVP08Td8zQOibNe",
+      "name": "hold your colour (noisia remix)",
+      "album_type": "single",
+      "release_date": "2018-03-16",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        },
+        {
+          "spotify_id": "4YWj8sohRDjL9deiuRvEEY",
+          "name": "noisia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab7bb863bfe412b25b9fbf3",
+      "uri": "spotify:album:1a8rVmNG7K2ct01bK2qT5x",
+      "name": "crush (radio edit)",
+      "album_type": "single",
+      "release_date": "2011-01-14",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e085662d4860793cfe6c6a08",
+      "uri": "spotify:album:76TlPoqPLiYJJ2sjgHb9vE",
+      "name": "the island (steve angello, an21 & max vangeli remix)",
+      "album_type": "single",
+      "release_date": "2010-11-24",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273598605f9031e541dd9778bbf",
+      "uri": "spotify:album:6mruWsKBUnLIxqDzBoX5r4",
+      "name": "the island",
+      "album_type": "single",
+      "release_date": "2010-09-17",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3a1149f4446f465e6d6e20d",
+      "uri": "spotify:album:3KZ8Aw6rcxsAivtLgma2pk",
+      "name": "witchcraft",
+      "album_type": "single",
+      "release_date": "2010-07-16",
+      "release_year": "2010",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27330f8e0f777376780c4077507",
+      "uri": "spotify:album:3XtEGVx9uh7J46nBzEc1VS",
+      "name": "immersion",
+      "album_type": "album",
+      "release_date": "2010-05-21",
+      "release_year": "2010",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf2c154096868347485bfeaa",
+      "uri": "spotify:album:3bdC6SSUENC7jNrybImFDu",
+      "name": "live at brixton academy",
+      "album_type": "album",
+      "release_date": "2009-06-12",
+      "release_year": "2009",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273053407abde3118a2559741ad",
+      "uri": "spotify:album:3FdmUwbJAbNyatRefrFreD",
+      "name": "showdown",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d1f3de222dfd4a21fd9c548",
+      "uri": "spotify:album:4R97gXEzy8pnmwSNF58sks",
+      "name": "the other side",
+      "album_type": "single",
+      "release_date": "2008-07-07",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27361d099fde6c64dc5a90742a4",
+      "uri": "spotify:album:6eRDE48ttoLqN2VfkEpPOJ",
+      "name": "in silico",
+      "album_type": "album",
+      "release_date": "2008-05-09",
+      "release_year": "2008",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d36cc2774fec3bd5655ee955",
+      "uri": "spotify:album:1E6EP31hR9NAnv1rDUMfIL",
+      "name": "in silico showcase",
+      "album_type": "single",
+      "release_date": "2008-04-28",
+      "release_year": "2008",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27386939f66c195213519927f0d",
+      "uri": "spotify:album:1mxR8Xa8GRQCMk4CGnH4Q6",
+      "name": "propane nightmares",
+      "album_type": "single",
+      "release_date": "2008-04-18",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b7aaa358feb8613789c5a372",
+      "uri": "spotify:album:31OWhckCo87EVGJLA0F8g0",
+      "name": "propane nightmares",
+      "album_type": "single",
+      "release_date": "2008-04-18",
+      "release_year": "2008",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739abbc897802a56db5fb37fd2",
+      "uri": "spotify:album:39zkcLbYudALRLvABLLSuW",
+      "name": "granite",
+      "album_type": "single",
+      "release_date": "2007-12-02",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301890505bd7711f119a768e5",
+      "uri": "spotify:album:3neHRlcj6wV26hLod9Wywc",
+      "name": "granite",
+      "album_type": "single",
+      "release_date": "2007-11-26",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efce4139c892c7c0a516f3c2",
+      "uri": "spotify:album:3GqtDPBSz6OSICnWHJ3Eg6",
+      "name": "blood sugar / axel grinder",
+      "album_type": "single",
+      "release_date": "2007-06-07",
+      "release_year": "2007",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396bdaeb1e48a312ae3859ebe",
+      "uri": "spotify:album:5wHNla8BT8KcqMhAbvqoPU",
+      "name": "hold your colour",
+      "album_type": "album",
+      "release_date": "2007-05-19",
+      "release_year": "2007",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309f780d6b887abd865a24486",
+      "uri": "spotify:album:5zzsbMVPpA0Djc3yknfuce",
+      "name": "hold your colour (deluxe)",
+      "album_type": "album",
+      "release_date": "2007-05-19",
+      "release_year": "2007",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273299156ae64370e20c1136b3c",
+      "uri": "spotify:album:0inC7kbrqzgAwtTDyTnoxV",
+      "name": "tarantula (original mix)",
+      "album_type": "single",
+      "release_date": "2007-05-19",
+      "release_year": "2007",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f9cccfaeeffedb40feb5c2c",
+      "uri": "spotify:album:2eqHlWNST2dKtC8Il3m8oQ",
+      "name": "hardware limited, vol. 3",
+      "album_type": "single",
+      "release_date": "2006-05-01",
+      "release_year": "2006",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d4978ce9bbb0fc2ed016e3cc",
+      "uri": "spotify:album:5ejAwZmDaRb9tWbsACSbN2",
+      "name": "hold your colour (bi-polar remixes)",
+      "album_type": "single",
+      "release_date": "2006-03-15",
+      "release_year": "2006",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c96d0bfcd82885b5fed0418c",
+      "uri": "spotify:album:4mW6jUiSJmehT30irP8uaI",
+      "name": "slam/out here",
+      "album_type": "single",
+      "release_date": "2005-09-19",
+      "release_year": "2005",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f17d90f723e7a2c8fd441047",
+      "uri": "spotify:album:4ih2obe1DQNXs3wB6m6iyN",
+      "name": "another planet/voyager",
+      "album_type": "single",
+      "release_date": "2004-05-01",
+      "release_year": "2004",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b3b9a60cb21c93bc1a72701",
+      "uri": "spotify:album:7kGIQIbLyt8jddmWTFkjQ7",
+      "name": "back 2 you",
+      "album_type": "single",
+      "release_date": "2004-03-22",
+      "release_year": "2004",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27303f15987e033fe80532097f9",
+      "uri": "spotify:album:2MNxGqjKSs9nbBZSER1y3i",
+      "name": "spiral / ulterior motive",
+      "album_type": "single",
+      "release_date": "2003-07-10",
+      "release_year": "2003",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7MqnCTCAX6SsIYYdJCQj9B",
+          "name": "pendulum"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:25:50.000Z"
+}

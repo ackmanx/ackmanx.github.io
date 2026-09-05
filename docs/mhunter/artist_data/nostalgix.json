@@ -1,0 +1,838 @@
+{
+  "name": "nostalgix",
+  "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+  "uri": "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb34732aec2a83b6d91e36226b",
+  "genres": [
+    "bass house",
+    "g-house",
+    "bassline"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273789111568f61ab27130fbb6d",
+      "uri": "spotify:album:6dCpnvdq8U4plaAKwFJ52M",
+      "name": "inferno",
+      "album_type": "album",
+      "release_date": "2026-03-27",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273217f7591f41ca95e335f5325",
+      "uri": "spotify:album:0sBFTmC0IfoBN9zAiXmsVb",
+      "name": "dancing through it all",
+      "album_type": "single",
+      "release_date": "2026-03-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "4zxvC7CRGvggq9EWXOpwAo",
+          "name": "kiesza"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733734b9db331966c7d83e6396",
+      "uri": "spotify:album:7E0xnIHATdZ8HHkNMkiHJt",
+      "name": "fall apart",
+      "album_type": "single",
+      "release_date": "2026-01-22",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af65666e2a4ae445efca9461",
+      "uri": "spotify:album:5rQQ6nrZo1AH4HfmGkPq2b",
+      "name": "holy",
+      "album_type": "single",
+      "release_date": "2025-11-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "0VijmgKPGaaOsmM6jWgbQJ",
+          "name": "kyra mastro"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2b2b0c966b0e5d689194b82",
+      "uri": "spotify:album:4fb1FjRzLhGhweK3Dg0dae",
+      "name": "on my own",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "4XH5qVwKcWRS0Z6tr85exf",
+          "name": "alrt"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fb42470c739ce503d7aa99b",
+      "uri": "spotify:album:1meGf7IwRXYnL2Ge9IoK4r",
+      "name": "1000 bpm",
+      "album_type": "single",
+      "release_date": "2025-04-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53cQZtWDwDJwVCNZlfJ6Qk",
+          "name": "laidback luke"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb7d5c5e8b7e10a97f296f1d",
+      "uri": "spotify:album:4Z1Uc35AUT6obJsquZnI7Q",
+      "name": "power (feat. bipolar sunshine) [remixes]",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f35cdd7c4d493095f5e942c",
+      "uri": "spotify:album:5ABYnU3Ti5L4028bwNtKSp",
+      "name": "power (feat. bipolar sunshine)",
+      "album_type": "single",
+      "release_date": "2025-01-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "0CjWKoS55T7DOt0HJuwF1H",
+          "name": "bipolar sunshine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da62a15766728b5d2ca1cebe",
+      "uri": "spotify:album:5phKEujkaPJqyzbqCpnRIs",
+      "name": "show me love",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388451fe8435efdd277d4515b",
+      "uri": "spotify:album:6hShYQVPRaC1nnn0UkZzDA",
+      "name": "don’t keep me waiting (feat. mila falls) [remixes]",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "5m1yocXnIqkhC8dyQQd6Ve",
+          "name": "mila falls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f01c238a1863932d0499af2",
+      "uri": "spotify:album:6IQ6Bt4HuUqE8MXZS9hwMk",
+      "name": "i am a god",
+      "album_type": "single",
+      "release_date": "2024-08-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5CMaNobmJYgXcfiT0zYOwi",
+          "name": "whipped cream"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ff6cb0797e593fec070de17",
+      "uri": "spotify:album:2Zm55SQeHeeK2fK9UBJlrE",
+      "name": "don’t keep me waiting (feat. mila falls)",
+      "album_type": "single",
+      "release_date": "2024-07-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "5m1yocXnIqkhC8dyQQd6Ve",
+          "name": "mila falls"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e352c443f0820c4e362f1c4",
+      "uri": "spotify:album:1dzxMhanj9kriQCS1PDwzU",
+      "name": "look at me",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738efe65307c3747302c0ca099",
+      "uri": "spotify:album:4jPLbIb5TphH4e97lE6Bmv",
+      "name": "star city",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bab8194fc95356ef09e65892",
+      "uri": "spotify:album:408b5jf6C0c5Jfmr4FIXFA",
+      "name": "war (chyl remix)",
+      "album_type": "single",
+      "release_date": "2023-12-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "15HOfHbNWedCAcJ3Cm1mbc",
+          "name": "chyl"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735213e687688e812ae64b15e4",
+      "uri": "spotify:album:6C2ezhjaFoS7V1GdHD3gbK",
+      "name": "lockdown",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "3JmGsgVoGUN1Ro1jLfi7k1",
+          "name": "scrufizzer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb947d17ee9a8f14d78cd95a",
+      "uri": "spotify:album:7vtYc3w0egjBboxXiKArmD",
+      "name": "war",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739163596c80148f373720a86b",
+      "uri": "spotify:album:1gG2DU3odPahWbeJyA9jKU",
+      "name": "limit",
+      "album_type": "single",
+      "release_date": "2023-06-30",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0D6BtvIkN3P9GHTa8KR24t",
+          "name": "evan giia"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eecbe43900ba0f5caf8a4f71",
+      "uri": "spotify:album:4oBkrsdifIQQu8woMAEOGE",
+      "name": "gimme bass",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5jm3x1qIibWdKSEMw2G011",
+          "name": "moksi"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730d36193a103af9bd79bf7648",
+      "uri": "spotify:album:77cGlrjC62YXn9wHJK0xRW",
+      "name": "ghost - cloverdale remix",
+      "album_type": "single",
+      "release_date": "2023-06-04",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1htHgbGwgCWJBfGiQwcRqC",
+          "name": "dr. fresch"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "27RdRVoIwtB1CAhLwuPrbB",
+          "name": "cloverdale"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273730896f874c49fd6df0595d5",
+      "uri": "spotify:album:2L8DBsnUXZTi2R9y0BTzjI",
+      "name": "step back",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a1b27cd281b990f90eab7a7",
+      "uri": "spotify:album:3ycyE0c0oFAWFgkJnSACVg",
+      "name": "supah fly",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b13f904a3d8c60ebdcdf337d",
+      "uri": "spotify:album:1GM79UNMOt7rukV4rl6p9V",
+      "name": "ghost - dustycloud remix",
+      "album_type": "single",
+      "release_date": "2022-10-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1htHgbGwgCWJBfGiQwcRqC",
+          "name": "dr. fresch"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "5O9MafawyW4O2WhJQKXj2d",
+          "name": "dustycloud"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734391944a38bd418907409a35",
+      "uri": "spotify:album:7tO6SQlloYj1KJqOUbIc42",
+      "name": "options",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375b53a0ac70e45339de5144b",
+      "uri": "spotify:album:11srcc3f4TvwQCnR0rql1J",
+      "name": "heat rush",
+      "album_type": "single",
+      "release_date": "2022-07-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375deb2690c7851a748f075da",
+      "uri": "spotify:album:5ipzYBwvopsrPgaH6r7a5e",
+      "name": "my type",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b1129c65a3cf07aa9fbc718",
+      "uri": "spotify:album:5SKpPSIQ3BLwzmZB3fmL0D",
+      "name": "ghost (remixes)",
+      "album_type": "single",
+      "release_date": "2022-05-06",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6M9hDiIR4mcwjZzTgHrdWA",
+          "name": "house call"
+        },
+        {
+          "spotify_id": "1htHgbGwgCWJBfGiQwcRqC",
+          "name": "dr. fresch"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc58fd651c4839643005270c",
+      "uri": "spotify:album:2XBHpy1Ht55rwk0AKwQEeQ",
+      "name": "badman",
+      "album_type": "single",
+      "release_date": "2022-03-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6eeaa27296e18aab461589e",
+      "uri": "spotify:album:5NV4VYi9UiVkAfceSgE6sM",
+      "name": "ghost",
+      "album_type": "single",
+      "release_date": "2022-01-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1htHgbGwgCWJBfGiQwcRqC",
+          "name": "dr. fresch"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e0e2e20a38c355e50d9a41d",
+      "uri": "spotify:album:08uBZSzzh6VpL31F5N0FDI",
+      "name": "bust it",
+      "album_type": "single",
+      "release_date": "2021-10-29",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3abRKajGbb3kLMy9AWzfMA",
+          "name": "bijou"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316b810495d094b648914e51f",
+      "uri": "spotify:album:05fAakLQpKfvVis18Su5Pg",
+      "name": "friends",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273026f286b1ddab3cb28fd049c",
+      "uri": "spotify:album:4SZU4npEGxQ8qFZGN1L0u7",
+      "name": "black mirror",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e050a200fad28e132f809fb",
+      "uri": "spotify:album:4lehQ5hATmQGE4exGkHJ8k",
+      "name": "realest",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273984159985210e7d062c0aa13",
+      "uri": "spotify:album:3XrY14EaJ4It92xmkz3Nnd",
+      "name": "boom",
+      "album_type": "single",
+      "release_date": "2021-02-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27371e66da1cdc284b1c9f6c6b8",
+      "uri": "spotify:album:2HLiKpy2KN2DrZXzAhLZvK",
+      "name": "the plug",
+      "album_type": "single",
+      "release_date": "2020-12-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273178761b0bc5ce676e3e2fde0",
+      "uri": "spotify:album:06S6dmTIivOgD5uENLdvAu",
+      "name": "act out",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa1a6de9710e7c52a8e8acb2",
+      "uri": "spotify:album:3D7niACF5xid2RRNjNx1Kp",
+      "name": "by myself",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "6uyugtkUnBNsMZNGmkj9oX",
+          "name": "rose motion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730546806e59794725c164f454",
+      "uri": "spotify:album:7Iy3o9iGhKXkDDjffUO4dT",
+      "name": "famous",
+      "album_type": "single",
+      "release_date": "2020-07-16",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273294ecf7ae63e84cba8a7a83a",
+      "uri": "spotify:album:1KzcjYyNMM3KbnbAG6L82B",
+      "name": "spice girl",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4cd70d9479e30730092025b",
+      "uri": "spotify:album:6lGasB1B7etwo4GCkc0S0g",
+      "name": "brat",
+      "album_type": "single",
+      "release_date": "2020-02-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "4lJ0Egpju6AgCrcDnVrleZ",
+          "name": "vouti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e6ea63a806acc5bdb95883c",
+      "uri": "spotify:album:6JQDMhXT5v8f43SieUjdzg",
+      "name": "don't really care (feat. nostalgix)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5L0wOxjuK5GaS1T90yNmmg",
+          "name": "peace maker!"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c78deadf9ea82a5326367c0",
+      "uri": "spotify:album:1lDbMFoEhHV5JiFymBaMtP",
+      "name": "og sins",
+      "album_type": "single",
+      "release_date": "2019-10-18",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a368ad5515deb8c0edb4ccd",
+      "uri": "spotify:album:4cclGpqXrsxncyIDglVraw",
+      "name": "mess with me",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349d836f632410cdebf9ebc19",
+      "uri": "spotify:album:3h1d7du9kLThPNHHxfL0t2",
+      "name": "pourin shots",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "1KrLsmuo1aPixXK9SeCOid",
+          "name": "malikai motion"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389e36ea0c75db54a106e2dcc",
+      "uri": "spotify:album:0kvMSJmTNsiEhOfhdKHvxR",
+      "name": "locked & loaded",
+      "album_type": "single",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        },
+        {
+          "spotify_id": "7A5IZJp8KNWCCCftlggg1q",
+          "name": "danny time"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d83dfc401b00d6fbf6eef88f",
+      "uri": "spotify:album:5haUZzUXVC9dUAArmt5Yq8",
+      "name": "robot disco",
+      "album_type": "single",
+      "release_date": "2018-10-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deaf2a32e0bc794e90cb9d16",
+      "uri": "spotify:album:77s2NkE5vmH0Rh6HF7zBux",
+      "name": "alien invasion",
+      "album_type": "single",
+      "release_date": "2018-08-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fa4a1f966e2fc93312d5e78",
+      "uri": "spotify:album:6T9AZzroEO9NJ41TRY17Ia",
+      "name": "basics",
+      "album_type": "single",
+      "release_date": "2017-07-26",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4KHTJZSucMeyhEBuJz5Eip",
+          "name": "markus aurelius"
+        },
+        {
+          "spotify_id": "6CarTAUaWnQb6bp7yjP0Zz",
+          "name": "nostalgix"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:24:42.000Z"
+}

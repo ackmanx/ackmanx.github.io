@@ -1,0 +1,1392 @@
+{
+  "name": "artbat",
+  "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+  "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb2634ca41d16e9ba796dc96cb",
+  "genres": [
+    "melodic techno",
+    "melodic house",
+    "techno",
+    "progressive house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e7b8a13a935abd153a558ec",
+      "uri": "spotify:album:59CAj97sLwMHJtZDfyvQYP",
+      "name": "take you there",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2H6DuasUdjR2blRAcYkDwr",
+          "name": "six40two"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273254f71308216ec63366fb993",
+      "uri": "spotify:album:4vePum8kXeh1BFpsZuBzl7",
+      "name": "break the loop",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "5B9q1NRokzWYB7nSgnlHyv",
+          "name": "giuseppe ottaviani"
+        },
+        {
+          "spotify_id": "508wtStPsMdIxMButKYnOS",
+          "name": "conor ross"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c7ba97a18f8d45858a4d3f5",
+      "uri": "spotify:album:0CIjX6kABTRUYzgle1dZGS",
+      "name": "fight machine (feat. naiim)",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "r3hab"
+        },
+        {
+          "spotify_id": "0e8a2RTD02fJ5lmCBOR7DI",
+          "name": "stylo"
+        },
+        {
+          "spotify_id": "6wVwTnmkjVeWVAas91xIJw",
+          "name": "eli & dani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dfcbc464c82019d0f1ed96e",
+      "uri": "spotify:album:7wbbPiINMvxBO7w9lzGWyx",
+      "name": "for a feeling (feat. rhodes) [adam sellouk & y do i remix]",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2T7HN3rqTpIn8OiVb0I5oq",
+          "name": "adam sellouk"
+        },
+        {
+          "spotify_id": "4GVWch4tEmNGIx9gAWrnex",
+          "name": "y do i"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312a90028b16c38559c7c9f49",
+      "uri": "spotify:album:6IRNZqDvyhgjdx5kXDECtl",
+      "name": "dance",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e7fc7e9cb7c9d819e4f84f8",
+      "uri": "spotify:album:7mzkVJfrdMzS4VhTOW1TGY",
+      "name": "different way (artbat remix)",
+      "album_type": "single",
+      "release_date": "2025-10-15",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6zsJjoCtL1WByG0VsuFWzR",
+          "name": "blond:ish"
+        },
+        {
+          "spotify_id": "7qPLO2XOUaRrRxkvLZ3AEK",
+          "name": "zeeba"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396f35875685187914745c4dc",
+      "uri": "spotify:album:7A7x2wJL7tfD8ADAsxChsp",
+      "name": "truth, peace, love, acid",
+      "album_type": "single",
+      "release_date": "2025-08-29",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec20427a1f1de4ae5dc53648",
+      "uri": "spotify:album:3iLdjCAbObHpiYqZCvdByJ",
+      "name": "cola (artbat remix)",
+      "album_type": "single",
+      "release_date": "2025-08-08",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        },
+        {
+          "spotify_id": "2vf4pRsEY6LpL5tKmqWb64",
+          "name": "elderbrook"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339277bf723b6f77421825f3a",
+      "uri": "spotify:album:6Ef5H4o43CHIat5nXoGdms",
+      "name": "galaxy",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350ac6561cfa90ea6339b4df1",
+      "uri": "spotify:album:1lTwLUaBbL9XkC6KeASwqo",
+      "name": "the spot",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "3rOSOkPQ5PHYOiR7mvLTMA",
+          "name": "joa"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3f778f96570b0a98359b083",
+      "uri": "spotify:album:0jqUzeynq0OFvfiRxidGfE",
+      "name": "culture",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19HFRWmRCl27kTk6LeqAO8",
+          "name": "morten"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2d0f2020b188c58bcba1d6e",
+      "uri": "spotify:album:5OPFryeZlyPtGluGjGKWbG",
+      "name": "sweet disposition (artbat remix)",
+      "album_type": "single",
+      "release_date": "2025-04-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "the temper trap"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f0933316a66dc6aee9656d6",
+      "uri": "spotify:album:4k3RDMGyLFORmxATJ2yjc6",
+      "name": "love is gonna save us",
+      "album_type": "single",
+      "release_date": "2025-03-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "4Ws2otunReOa6BbwxxpCt6",
+          "name": "benny benassi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a838d4fb544a560e5b1a63e0",
+      "uri": "spotify:album:4paVM4hXl2Lq9EhngKRpWy",
+      "name": "afterparty",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdfbd465fc7fe567b515c7f8",
+      "uri": "spotify:album:1FCDz3JcIg62PMInMhubHQ",
+      "name": "she the last one",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "28uJnu5EsrGml2tBd7y8ts",
+          "name": "vintage culture"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27385b76b74f98039fa7ea7022b",
+      "uri": "spotify:album:5kRla1xPI51kTotmC4nW6j",
+      "name": "i adore you (artbat remix)",
+      "album_type": "single",
+      "release_date": "2024-12-27",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5PlfkPxwCpRRWQJBxCa0By",
+          "name": "hugel"
+        },
+        {
+          "spotify_id": "0u6GtibW46tFX7koQ6uNJZ",
+          "name": "topic"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3a2903ea414bcf003691403",
+      "uri": "spotify:album:272iuIyZuKFVMUYZsvWis9",
+      "name": "hollow (feat. bonn) [kölsch remix]",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "19HFRWmRCl27kTk6LeqAO8",
+          "name": "morten"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2D9Oe8R9UhbMvFAsMJpXj0",
+          "name": "kölsch"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d57a4261f05fef719dceea9e",
+      "uri": "spotify:album:3IMeZdfa9akLXvM2mqJQad",
+      "name": "humans",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7mGCESDlw5ChfZQTQ3eUIS",
+          "name": "braev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aca64d6105d38b07b061b1f7",
+      "uri": "spotify:album:62cNVQX5G5tM6n302goHbL",
+      "name": "hollow (feat. bonn)",
+      "album_type": "single",
+      "release_date": "2024-09-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "19HFRWmRCl27kTk6LeqAO8",
+          "name": "morten"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7Io0XduXk7aOHFHA7sLru2",
+          "name": "bonn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f09dcf2cc523ea6920ccca9",
+      "uri": "spotify:album:36oj2t9bAdWr4WCJbgM4UB",
+      "name": "the ocean",
+      "album_type": "single",
+      "release_date": "2024-07-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3WqiBOiSB2FlD25EX9893G",
+          "name": "avalan rokston"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c42794af3ece7f0a5a99b1ab",
+      "uri": "spotify:album:1WyoGZphtDpMXxCD3iYuBJ",
+      "name": "pull out",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7orlzf5LTqSnCzURkZFebN",
+          "name": "kas:st"
+        },
+        {
+          "spotify_id": "2rnmC57D43ML3a2Ujc7tiP",
+          "name": "losless"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328b8ca2fcbdf2385c91501ad",
+      "uri": "spotify:album:5bitCrIgU2AoIY6Lp53s3k",
+      "name": "hey boy hey girl (artbat remix)",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1GhPHrq36VKCY3ucVaZCfo",
+          "name": "the chemical brothers"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdac294bcafce35226dad922",
+      "uri": "spotify:album:1ckOM91hsT9v0tuJIS3QzM",
+      "name": "friends (artbat remix extended)",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0xRXCcSX89eobfrshSVdyu",
+          "name": "meduza"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273321b16d3533de1aa22208e73",
+      "uri": "spotify:album:3sTdQoIdHfjxVLGtb3I3FL",
+      "name": "friends (artbat remix)",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0xRXCcSX89eobfrshSVdyu",
+          "name": "meduza"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273597fee7902b4d042248b1021",
+      "uri": "spotify:album:68XeM3jPZeyjITxqrrkaz7",
+      "name": "take off",
+      "album_type": "single",
+      "release_date": "2024-02-09",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c858bf328a2d5dbc877bd31a",
+      "uri": "spotify:album:0KIJ5H16buFOBL0vNpmSsi",
+      "name": "in your arms",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7fMAxXqd5hhcwbC1d0VkLQ",
+          "name": "another life"
+        },
+        {
+          "spotify_id": "2ug2jpxDeOgYfYleeYzg2K",
+          "name": "cay (de)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357767ba7f9fa8b2b3477cfdd",
+      "uri": "spotify:album:7HOrMf3DQGW4vlXqCzJFCM",
+      "name": "coming home (feat. john martin) [vintage culture remix]",
+      "album_type": "single",
+      "release_date": "2023-12-22",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2auikkNYqigWStoHWK1Grq",
+          "name": "john martin"
+        },
+        {
+          "spotify_id": "28uJnu5EsrGml2tBd7y8ts",
+          "name": "vintage culture"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dbeae8074059bc48b4fd162b",
+      "uri": "spotify:album:7KaXmqRS3KHFZtYLDSuCnL",
+      "name": "remember",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331e9c4fadca2636979f0ea1e",
+      "uri": "spotify:album:0e6QKn14Qh0qmpZMRuUvm1",
+      "name": "coming home (feat. john martin)",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2auikkNYqigWStoHWK1Grq",
+          "name": "john martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273680d8916f9962efa997eb330",
+      "uri": "spotify:album:0VU4JkITnhQ5zpfVeaIVDb",
+      "name": "artefact",
+      "album_type": "single",
+      "release_date": "2023-07-21",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfbf3bf80783e08246f880ad",
+      "uri": "spotify:album:4FjkGcjCasHkfTJjkBnCfA",
+      "name": "breathe in",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7fMAxXqd5hhcwbC1d0VkLQ",
+          "name": "another life"
+        },
+        {
+          "spotify_id": "2ug2jpxDeOgYfYleeYzg2K",
+          "name": "cay (de)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f31f33a3ce537e448add3b91",
+      "uri": "spotify:album:1FchiEL5g79UaUVnwdGQcK",
+      "name": "breathe in (short mix)",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7fMAxXqd5hhcwbC1d0VkLQ",
+          "name": "another life"
+        },
+        {
+          "spotify_id": "2ug2jpxDeOgYfYleeYzg2K",
+          "name": "cay (de)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1870357fb870664183e1e3",
+      "uri": "spotify:album:5BRqAXbsa6oxnnLQIiDHai",
+      "name": "all that matters (artbat remix)",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "2D9Oe8R9UhbMvFAsMJpXj0",
+          "name": "kölsch"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b449ecee87a1c37eb8962e0f",
+      "uri": "spotify:album:3fjsQVB2BQ9yGDe35IpmuQ",
+      "name": "dreamcatcher",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "59dW0kJuMkQquLbBomht2S",
+          "name": "fred lenix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273614523312ab73e91dc3aa801",
+      "uri": "spotify:album:6mQ61LMEZzW5HAvFWFumbK",
+      "name": "tibet",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "1NaQOKgddaJipUtmptb7GI",
+          "name": "argy"
+        },
+        {
+          "spotify_id": "3DJVDo0kd19fZXpTabasOX",
+          "name": "zafrir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356a936ddc1024f01b3e3a04d",
+      "uri": "spotify:album:11Z7v788eMOAVcWvsKAMG8",
+      "name": "it's ours",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+          "name": "david guetta"
+        },
+        {
+          "spotify_id": "0Dc2rdPzleezxhvQhQbXuS",
+          "name": "idris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350843592100c533954f0a9ee",
+      "uri": "spotify:album:1pkzrTqVWHKTN9lgZDeq4j",
+      "name": "atlas (shall ocin & artbat remix)",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "623ecFS6T9xsx9Rb98eii5",
+          "name": "marc romboy"
+        },
+        {
+          "spotify_id": "2nq2BeSbzExGAv3Y4HgUf7",
+          "name": "stephan bodzin"
+        },
+        {
+          "spotify_id": "6OP6u8D2Icl5qmrCbyTY7M",
+          "name": "shall ocin"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340a93ad11212c743b8cd120b",
+      "uri": "spotify:album:5Z6mUYSbLGMoRyLq8JAuj1",
+      "name": "origin",
+      "album_type": "single",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "6OP6u8D2Icl5qmrCbyTY7M",
+          "name": "shall ocin"
+        },
+        {
+          "spotify_id": "7mGCESDlw5ChfZQTQ3eUIS",
+          "name": "braev"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c20f314197e181579c5c3691",
+      "uri": "spotify:album:4WiT6BAGyntDSVfkhaVZ7N",
+      "name": "generation",
+      "album_type": "single",
+      "release_date": "2022-05-27",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736370c66b29fc0348b35efcf4",
+      "uri": "spotify:album:5LDTX7O86bPNIQrEfiSiON",
+      "name": "our space",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7il6z1RANNDWYlYnIevd4L",
+          "name": "dino lenny"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a4ca792802017ee3e725feb",
+      "uri": "spotify:album:52vmOsY6n8BvRJqkD9Y5LK",
+      "name": "age of love (artbat rave mix)",
+      "album_type": "single",
+      "release_date": "2022-01-07",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "6n1t55WMsSIUFHrAL4mUsB",
+          "name": "pete tong"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de8a116b6eb8b51cf4028049",
+      "uri": "spotify:album:4xvJpAakgGogRXkIWz4wBG",
+      "name": "age of love (feat. jules buckley)",
+      "album_type": "single",
+      "release_date": "2021-12-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "6n1t55WMsSIUFHrAL4mUsB",
+          "name": "pete tong"
+        },
+        {
+          "spotify_id": "5gGbAKDXhDoBXIJe8SuBvX",
+          "name": "jules buckley"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef729babc6b17e97f24cad1e",
+      "uri": "spotify:album:3BZ1Veio6cybl9LnLpiFTs",
+      "name": "flame",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273543b3b41c59c8502a15e30d5",
+      "uri": "spotify:album:3oGj4EH7ZqAAQBkZZm3Ww3",
+      "name": "what else is there? (artbat remix)",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "röyksopp"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399465a189382fb860836d8f8",
+      "uri": "spotify:album:4UBnmNtpBEEOSBKdeF4q9N",
+      "name": "best of me (camelphat remix)",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2RZbJDQz3gwJppZzfbuxTx",
+          "name": "sailor & i"
+        },
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bb61b549a19fe98a26cbe22",
+      "uri": "spotify:album:7rZGU0nfb2k99L6N3dh9Ok",
+      "name": "best of me",
+      "album_type": "single",
+      "release_date": "2020-10-09",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2RZbJDQz3gwJppZzfbuxTx",
+          "name": "sailor & i"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734731d0665262e4fd7b6fa80b",
+      "uri": "spotify:album:0JZhnQOj0GJqODT4NolPLv",
+      "name": "best of me (radio edit)",
+      "album_type": "single",
+      "release_date": "2020-09-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "2RZbJDQz3gwJppZzfbuxTx",
+          "name": "sailor & i"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6ae86275d2c0f001261f691",
+      "uri": "spotify:album:10GHM2aJsTqVR0hg1uTH3l",
+      "name": "hypercolour (artbat remix)",
+      "album_type": "single",
+      "release_date": "2020-07-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        },
+        {
+          "spotify_id": "6CFQDzNLNcuK5lVZ766Yxt",
+          "name": "yannis"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddc9157a43f168202f7ea48a",
+      "uri": "spotify:album:0yHBN7E9bGRdOqHVP0dKhQ",
+      "name": "for a feeling (feat. rhodes) [layton giordani remix]",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7mC3RkNNTV6p2j9w4F8Ip4",
+          "name": "layton giordani"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387f910f8a55ed2bd6a7b38fd",
+      "uri": "spotify:album:0cBPK7AovyEBys5USO3MQ2",
+      "name": "for a feeling (feat. rhodes)",
+      "album_type": "single",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "camelphat"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273decf3d61118b9ab84012e2cd",
+      "uri": "spotify:album:0AqzWPMTahsqehA5ef4b0H",
+      "name": "keep control (artbat remix edit)",
+      "album_type": "single",
+      "release_date": "2020-02-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vBGVjjUKLWS8zLNSYwVVC",
+          "name": "sono"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f5efdc85bdea29b728aa1ecf",
+      "uri": "spotify:album:7sbZ5EN4zQ8F6d8ElD3cRi",
+      "name": "keep control (artbat remix)",
+      "album_type": "single",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7vBGVjjUKLWS8zLNSYwVVC",
+          "name": "sono"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abcb357702448a986ccd67f5",
+      "uri": "spotify:album:1zDR2z35ET98Hms88WPYSo",
+      "name": "aquarius",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7bb45ac04c966e4435aa740",
+      "uri": "spotify:album:4gzaCyT20sk6Xu6WzBlkpd",
+      "name": "return to oz (artbat remix)",
+      "album_type": "single",
+      "release_date": "2019-08-09",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2I4hRNCYkPKJQlkoEZKjYx",
+          "name": "monolink"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dca1abaaa3ab48e7f1edd570",
+      "uri": "spotify:album:4ir25CX8pHmpbuhCQDXsku",
+      "name": "orbital (15 yrs systematic)",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e65ede8b57cf929ef5e43809",
+      "uri": "spotify:album:2XkPQxDWtW7gS4CHy6ab67",
+      "name": "montserrat / closer",
+      "album_type": "single",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "50Lr1puweM1hFsF1LpIZLM",
+          "name": "whomadewho"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a8aac9c8e70ba063d04bd300",
+      "uri": "spotify:album:0xP3As4wwckI15pJ616PFC",
+      "name": "montserrat (artbat edit)",
+      "album_type": "single",
+      "release_date": "2019-04-05",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "50Lr1puweM1hFsF1LpIZLM",
+          "name": "whomadewho"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383a25987bef45a6ae17cddc9",
+      "uri": "spotify:album:4K8v2zx2n4sSBSaTyPixHa",
+      "name": "apollo 11",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1UcYY5JDPe05nqjODiVkx1",
+          "name": "matador"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8d2ac20d3a1b8c0d020fa58",
+      "uri": "spotify:album:7B7YyDjPsfe4ZkIXcYGDKq",
+      "name": "upperground ep",
+      "album_type": "single",
+      "release_date": "2019-01-04",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273987510e65548ad64d2546191",
+      "uri": "spotify:album:2ExOArPbBauMUMJsfxFRaT",
+      "name": "papillon",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afe0bcb200cd05f2a647fc0b",
+      "uri": "spotify:album:3AkSmcfIU3pNZagOe3EX44",
+      "name": "planeta ep",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735568f6c546509852ce53d7c3",
+      "uri": "spotify:album:0O8yCa2zuxtXbX0thTbqTI",
+      "name": "tabu",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4adecd8752ad5ef75888768",
+      "uri": "spotify:album:3U2Y7SuuRcQiu89IS3DEmG",
+      "name": "strap",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "5EqWm8g2vcGLqOkiHFU86V",
+          "name": "eekkoo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a28cc09da7ecae61e7c2699",
+      "uri": "spotify:album:70XVGQt4yg9z9PRHOrsmCa",
+      "name": "trip",
+      "album_type": "album",
+      "release_date": "2017-05-29",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e02dd2396c71117bb1ece92",
+      "uri": "spotify:album:6ZxKmaTsHSZzI873n5KxXY",
+      "name": "progression remixed",
+      "album_type": "single",
+      "release_date": "2016-12-09",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7KT19dObRj1T5OgnyQFm4C",
+          "name": "definition"
+        },
+        {
+          "spotify_id": "3YpEUCjdLuPmBspkmoPYnX",
+          "name": "gabriel ananda"
+        },
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cfe2e49367611436f36f400",
+      "uri": "spotify:album:186YakiwTrmSRK8uCvwI93",
+      "name": "inside",
+      "album_type": "single",
+      "release_date": "2016-07-25",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7KT19dObRj1T5OgnyQFm4C",
+          "name": "definition"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336b9b59d088f105ef0192bde",
+      "uri": "spotify:album:77wWxqQRU6gBuoJbVcvn1l",
+      "name": "zing - single",
+      "album_type": "single",
+      "release_date": "2016-07-08",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357fb58b32997871154fabaef",
+      "uri": "spotify:album:7pnI5vi4A3ODtXTKkGFU5r",
+      "name": "chivvy / momentum",
+      "album_type": "single",
+      "release_date": "2016-05-30",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fabb546f9b5dd73b3f48af31",
+      "uri": "spotify:album:3VjouFXYKwaPJvE5sbAcAY",
+      "name": "saltation ep",
+      "album_type": "single",
+      "release_date": "2015-11-27",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "7KT19dObRj1T5OgnyQFm4C",
+          "name": "definition"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27341ceee8c8cf7f39e36ca6ccb",
+      "uri": "spotify:album:3T3NbdhjGf7QvA5zZNqJri",
+      "name": "walking",
+      "album_type": "single",
+      "release_date": "2015-10-05",
+      "release_year": "2015",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        },
+        {
+          "spotify_id": "1coO6utitBMoT4p80OMwi0",
+          "name": "yanq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331df9a6c55acac8cd191cb39",
+      "uri": "spotify:album:3irSLEhcy2IoobBzdXpXbJ",
+      "name": "mandrake ep",
+      "album_type": "single",
+      "release_date": "2015-09-14",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3BkRu2TGd2I1uBxZKddfg1",
+          "name": "artbat"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:03:14.000Z"
+}

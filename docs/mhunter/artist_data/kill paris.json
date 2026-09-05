@@ -1,0 +1,845 @@
+{
+  "name": "kill paris",
+  "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+  "uri": "spotify:artist:6BNaPZdAIZAJnbgJRiZz2w",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb54bd03100e6d95d31f8f84b6",
+  "genres": [
+    "future bass",
+    "chillstep",
+    "drumstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737bb0fa0d640c59641ae90059",
+      "uri": "spotify:album:4i3Xb7T1uGRB58fJ3R80HA",
+      "name": "in the middle of the universe",
+      "album_type": "single",
+      "release_date": "2026-08-14",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d48d98096e6ff33b11ed0bd",
+      "uri": "spotify:album:2DkruzZ5SS6ZvEL6AjKQzi",
+      "name": "in the middle of the universe",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352080a2b7a046d11d4b96875",
+      "uri": "spotify:album:5Ze1Vhh1doCXQz8IKQJbhh",
+      "name": "range lover",
+      "album_type": "single",
+      "release_date": "2025-07-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "15b7pakhBTtXpRGmPZHOph",
+          "name": "diamond dave"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9884c27a55eb97e67d6a0aa",
+      "uri": "spotify:album:0L8GRZOwxq3IjxIc7m7QEp",
+      "name": "out of my mind (diamond dave remix)",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        },
+        {
+          "spotify_id": "15b7pakhBTtXpRGmPZHOph",
+          "name": "diamond dave"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307dab278b5def88fc1905199",
+      "uri": "spotify:album:5AMf9l2xdXf4oBYsMISMVe",
+      "name": "can you handle this?",
+      "album_type": "single",
+      "release_date": "2024-09-27",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307f5354e78effd64db6c6759",
+      "uri": "spotify:album:4gXEZq5vScOMNlkLDchf9I",
+      "name": "summer is forever",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732446dcf29cb7f472f257780c",
+      "uri": "spotify:album:3ukOIufDyjiNgfBKi1Frt4",
+      "name": "let me pour you some fire",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e8eb56d2b90307387b854ad",
+      "uri": "spotify:album:3dbXkcVGRa8NcEEZZUf0ae",
+      "name": "i'm groovin'",
+      "album_type": "single",
+      "release_date": "2024-02-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fd59546ea6d62ff16dc934aa",
+      "uri": "spotify:album:5gLmuuTZV76yaQNJAkBwi2",
+      "name": "out of my mind",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2q4nh6YJTPQKpuNqAMgjcu",
+          "name": "corey baker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d11a25da123d5780427f0d5b",
+      "uri": "spotify:album:4FiMPuckLPdSnIyHYHucNG",
+      "name": "made of time (slowed + sped up)",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "66tyfeU6ZerzudGCX9mXcg",
+          "name": "trøves"
+        },
+        {
+          "spotify_id": "3G9gR0x4v3J2Vek0Fw0yf2",
+          "name": "emily vaughn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332a8ad0573d5132454ada9f2",
+      "uri": "spotify:album:3JxQJsWxkAvgoupb7VOkua",
+      "name": "do you wanna move",
+      "album_type": "single",
+      "release_date": "2022-11-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d47712d1fdb96510b221b390",
+      "uri": "spotify:album:5Y0UqqKBzHSsqiAn2TOnWS",
+      "name": "terms & conditions",
+      "album_type": "single",
+      "release_date": "2021-12-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "5ksWrQv29WBLe0Q0Qzqdtx",
+          "name": "hobbie sound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d632f2d225cfe38a84528e4",
+      "uri": "spotify:album:64mBFdHbBJ063Dh5mWSYZS",
+      "name": "jet ski in the desert",
+      "album_type": "single",
+      "release_date": "2021-09-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373057e54d7509ea49eeebd81",
+      "uri": "spotify:album:6HeWJmnPpueWR5dwV20QQD",
+      "name": "couped up (remixes)",
+      "album_type": "single",
+      "release_date": "2021-05-28",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "1K9PCWYQ7Xh5MCzHoZuv7y",
+          "name": "comisar"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7f40f6388a2290a22e6494a",
+      "uri": "spotify:album:5JmLxL9QRaKh82CjSHFdj9",
+      "name": "couped up (esper remix)",
+      "album_type": "single",
+      "release_date": "2021-04-16",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "4qxyQRkuA00BdgRmKhzSC2",
+          "name": "esper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f70f5d84549d5ddecd2f11b4",
+      "uri": "spotify:album:6Xisv7uQvoTqXibIiMf0U2",
+      "name": "just groove",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fba4381d26a06073e7272aa0",
+      "uri": "spotify:album:1Kz3p87RqrLMXyQ48pdcp9",
+      "name": "couped up",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354c3e9176bd70f7dcdf8d99e",
+      "uri": "spotify:album:1Z5aqFl3FZ5Vt6550zJUHz",
+      "name": "friends",
+      "album_type": "single",
+      "release_date": "2020-10-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6X2cD6Y4zRNwn8ZkYPHKe6",
+          "name": "marvel years"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "2xx0ChFyXa0a4S48GAXFUz",
+          "name": "manic focus"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa24526e3e9cca4939ce38e2",
+      "uri": "spotify:album:2ugoiEXcEoPHiV3sBI6Y0f",
+      "name": "house with a pool",
+      "album_type": "album",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389749e6700fcbf0c2049e0fa",
+      "uri": "spotify:album:1Ad0EYGe8otWsUqyRVzgto",
+      "name": "it's true",
+      "album_type": "single",
+      "release_date": "2020-08-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e9da991a1fec0c3aba91ce8",
+      "uri": "spotify:album:2umnm2bXtMIveUNZAMlcVw",
+      "name": "why we feel this way",
+      "album_type": "single",
+      "release_date": "2020-06-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d5c491e8bd935a8f8553767d",
+      "uri": "spotify:album:5xbvDyuDhutkot7pQKqbVw",
+      "name": "way out",
+      "album_type": "single",
+      "release_date": "2020-02-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273077b59806f7817e691a58dc4",
+      "uri": "spotify:album:1jZ4yxcMVA4dbu9HE9BqDC",
+      "name": "i've seen it all / ghosty",
+      "album_type": "single",
+      "release_date": "2020-01-29",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf10251d51222e3742dcffec",
+      "uri": "spotify:album:1HHbgwSADRB0v8cAyiJEu8",
+      "name": "storyteller (kill paris remix)",
+      "album_type": "single",
+      "release_date": "2019-09-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7aUSp5cOZlwEtd5zPC795k",
+          "name": "haywyre"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f46d37e2ee608aa18012ab6",
+      "uri": "spotify:album:2kOEVZfwLLuf4Hn0q2hj7w",
+      "name": "played out",
+      "album_type": "single",
+      "release_date": "2019-08-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273169e7ac31fd3cc5c1575b309",
+      "uri": "spotify:album:62GohodbfPvxuc9nHaDZkX",
+      "name": "venus fly trap",
+      "album_type": "single",
+      "release_date": "2019-05-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc70a8c391acc60359ce94f1",
+      "uri": "spotify:album:4uBdfaSFkLltNfnAr4x9nR",
+      "name": "galaxies within us",
+      "album_type": "album",
+      "release_date": "2019-02-14",
+      "release_year": "2019",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf2e661048f44b61feb86a20",
+      "uri": "spotify:album:71pyYrhitoM8gIxs90teNg",
+      "name": "fizzy lifting drink",
+      "album_type": "single",
+      "release_date": "2019-02-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "1KW04GdOuzrsTVOAVd6eRg",
+          "name": "jimi tents"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734f52daa3795f8a8854de9be3",
+      "uri": "spotify:album:0uhSgQN66j0ET9yhqGcJ0w",
+      "name": "magic",
+      "album_type": "single",
+      "release_date": "2019-01-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b84c08da95e2bec4f896a22e",
+      "uri": "spotify:album:3QNVoE6vtK454znkmfzuX4",
+      "name": "i (still) dream of you",
+      "album_type": "single",
+      "release_date": "2018-11-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da2e37b68d36d2747bc08532",
+      "uri": "spotify:album:6YTCYpuJAtLl4GyOr8wDwp",
+      "name": "two minds",
+      "album_type": "single",
+      "release_date": "2018-08-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8511437447c7d0b15d54a18",
+      "uri": "spotify:album:4cuWQNHaJYI6zNi9DQsirk",
+      "name": "falling apart (again) [kill paris remix]",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1NpKmfDYMhw1KJIIUCsX4O",
+          "name": "mija"
+        },
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e49772e32b39af2168bece8f",
+      "uri": "spotify:album:2sJNSpjImdGEnVisRL5qc1",
+      "name": "made of time",
+      "album_type": "single",
+      "release_date": "2018-03-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "66tyfeU6ZerzudGCX9mXcg",
+          "name": "trøves"
+        },
+        {
+          "spotify_id": "3G9gR0x4v3J2Vek0Fw0yf2",
+          "name": "emily vaughn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b24c26587a2fd55527ab97e1",
+      "uri": "spotify:album:6fi67DYEQH5WIQMOSmetVY",
+      "name": "red lights just a gent remix",
+      "album_type": "single",
+      "release_date": "2018-02-08",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2b180fadf9cbaf7547b9dc8",
+      "uri": "spotify:album:4mpvGGETt0XyU6nwH8kmYJ",
+      "name": "out of the dark",
+      "album_type": "single",
+      "release_date": "2017-11-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b9b0e575e48075b0516db26",
+      "uri": "spotify:album:4b5okcGnttPUsMYgD7UstM",
+      "name": "red lights",
+      "album_type": "single",
+      "release_date": "2017-09-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c15d7aeaa04fa4c73f0b7b4c",
+      "uri": "spotify:album:2F2609uOxkhgnd6OysbbU4",
+      "name": "where r u",
+      "album_type": "single",
+      "release_date": "2017-05-02",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328940ba902445c7f2db5ede2",
+      "uri": "spotify:album:4JZZ51u7Vr9JSrWwJiRUUj",
+      "name": "good love",
+      "album_type": "single",
+      "release_date": "2017-02-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c8d46e69b00e3d0d861f0a5",
+      "uri": "spotify:album:562rRCWvDV3A1wFIEU5Wow",
+      "name": "junkie (dnmo remix)",
+      "album_type": "single",
+      "release_date": "2017-02-07",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "3cMInYqk6yzf37zo8iznoz",
+          "name": "dnmo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732843f0a6211dcb2586aff1e1",
+      "uri": "spotify:album:6RVGIa9zhhYAiBem7riGLq",
+      "name": "junkie",
+      "album_type": "single",
+      "release_date": "2016-11-03",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "3RTklnRcfHgkQJwFpgOq3t",
+          "name": "nevve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a4331e5ee470a4a7704682d6",
+      "uri": "spotify:album:3tjPnqMFGgUVnGx3kyabt0",
+      "name": "operate (illenium remix)",
+      "album_type": "single",
+      "release_date": "2015-07-06",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        },
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2d5f1f9c7b71844a35dd39c",
+      "uri": "spotify:album:3HeoqMNVapcn1pP5Epcles",
+      "name": "galaxies between us",
+      "album_type": "album",
+      "release_date": "2015-04-14",
+      "release_year": "2015",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737faa04239e79d087ff873d28",
+      "uri": "spotify:album:33Wfc0EWSVbCWGvL6ac3z2",
+      "name": "foreplay",
+      "album_type": "single",
+      "release_date": "2014-04-22",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732394c6d75ec2e872bcc62884",
+      "uri": "spotify:album:1p57IbKMI24MEdwxRgWefR",
+      "name": "foreplay remixes",
+      "album_type": "single",
+      "release_date": "2014-04-22",
+      "release_year": "2014",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fed0b61b257094909b2e0c44",
+      "uri": "spotify:album:02e3wKWmsPYON8G3x4T8y8",
+      "name": "falling in love again",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c380a301fd0b9e94113399b2",
+      "uri": "spotify:album:0xU0rlcpg2aBtp6eJmH0CN",
+      "name": "to a new earth ep",
+      "album_type": "single",
+      "release_date": "2013",
+      "release_year": "2013",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273efe78c63fcc9be8cd2b05e17",
+      "uri": "spotify:album:4X7f1NLRG3UAMl7oHlVoNd",
+      "name": "phat lines",
+      "album_type": "single",
+      "release_date": "2011-12-28",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311552e477a0fd7ec23ea84a7",
+      "uri": "spotify:album:039vl6gifAobUCzhnS33VE",
+      "name": "pns ep",
+      "album_type": "single",
+      "release_date": "2011-10-19",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27336029bfe9bbeb70a62b11c4e",
+      "uri": "spotify:album:1LxK5aRwTDP9egJ974XUzm",
+      "name": "yeah",
+      "album_type": "single",
+      "release_date": "2011-08-09",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BNaPZdAIZAJnbgJRiZz2w",
+          "name": "kill paris"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:16:26.000Z"
+}

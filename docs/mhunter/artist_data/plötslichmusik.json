@@ -1,0 +1,72 @@
+{
+  "name": "plötslichmusik",
+  "spotify_id": "4cZpGu1xT78Bd3yrY4Ruob",
+  "uri": "spotify:artist:4cZpGu1xT78Bd3yrY4Ruob",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb10614a4b1f01101fb3fb7802",
+  "genres": [
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309b48e3a4bfbc05939740c3c",
+      "uri": "spotify:album:7sov83hFb92DmsiqYXzVBH",
+      "name": "geburtstag",
+      "album_type": "single",
+      "release_date": "2022-05-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4cZpGu1xT78Bd3yrY4Ruob",
+          "name": "plötslichmusik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273148305cb4fcfa1883e440459",
+      "uri": "spotify:album:2Ol62qcK4fJ2hLDUleQXMD",
+      "name": "keine stabilität",
+      "album_type": "single",
+      "release_date": "2006-01-01",
+      "release_year": "2006",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4cZpGu1xT78Bd3yrY4Ruob",
+          "name": "plötslichmusik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327658429ae94b7b393ef0ecc",
+      "uri": "spotify:album:0CJ9yxwD8dl6jk3jQ4Hu6Z",
+      "name": "das alphabet",
+      "album_type": "single",
+      "release_date": "2005-01-01",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4cZpGu1xT78Bd3yrY4Ruob",
+          "name": "plötslichmusik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d6fa2a61d6c5f7af85a26de",
+      "uri": "spotify:album:1rvLqtAS7YxYSSmHzQt2tB",
+      "name": "wasserliebe",
+      "album_type": "single",
+      "release_date": "2005-01-01",
+      "release_year": "2005",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4cZpGu1xT78Bd3yrY4Ruob",
+          "name": "plötslichmusik"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:26:03.000Z"
+}

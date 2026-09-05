@@ -1,0 +1,848 @@
+{
+  "name": "faderhead",
+  "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+  "uri": "spotify:artist:4tLIGM52ee6vMMdBtDZFi7",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1dbb4e10c0912a586d3fbed7",
+  "genres": [
+    "ebm",
+    "industrial",
+    "darkwave",
+    "industrial metal",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354fc8d57761738c681af6ad3",
+      "uri": "spotify:album:2xg9LqNR15whB3fXfOzZD1",
+      "name": "scar (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4qHZF44iMWAe41wVgfL1je",
+          "name": "super dragon punch!!"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eccc177113976b9ccfb8441d",
+      "uri": "spotify:album:4BHWXbuP4lgrZMK0dCppCY",
+      "name": "hungry or a liar (cyberpunk rework)",
+      "album_type": "single",
+      "release_date": "2026-05-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        },
+        {
+          "spotify_id": "5zVdBR08144dpsqIGsGFWo",
+          "name": "paul woida"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392632fb0c850867a10d83df4",
+      "uri": "spotify:album:1c3Hz3sJTg2UedP237zgsN",
+      "name": "we are black again",
+      "album_type": "single",
+      "release_date": "2026-02-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369e8833b70c75687bc9b736f",
+      "uri": "spotify:album:3GDORejVCAaofw5osPNjQX",
+      "name": "into the metadrome",
+      "album_type": "single",
+      "release_date": "2025-11-06",
+      "release_year": "2025",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358b1f937ecff93c6e4475b8b",
+      "uri": "spotify:album:3Iwy6DB5hNSfDCffG3A0Ou",
+      "name": "this is not the end (cyberpunk version)",
+      "album_type": "single",
+      "release_date": "2025-07-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e99a2a375e3696b7d63e0b25",
+      "uri": "spotify:album:1ommhWE7uzz19sgjnDFXvh",
+      "name": "this is not the end",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731725db2ad59979ff2a31dc66",
+      "uri": "spotify:album:3wPKVwfES5xzSBbwcUFgrm",
+      "name": "angry enough",
+      "album_type": "single",
+      "release_date": "2025-02-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314cfd934904a7e41c0de21f0",
+      "uri": "spotify:album:2tzu6vX75eITqTS8jRzSyd",
+      "name": "día de muertos (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2024-12-06",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5zT9s2gWiwEEK15GiE49jq",
+          "name": "schattenmann"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342d8fee03a4fc82ba13f2697",
+      "uri": "spotify:album:6uus0gq6zG75Z58iUCGVZV",
+      "name": "goth rave",
+      "album_type": "single",
+      "release_date": "2024-11-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733748d993c79f539a8d5720c1",
+      "uri": "spotify:album:5C5RKPFPa80XjX5Qk2n4YN",
+      "name": "everything's fucked up",
+      "album_type": "single",
+      "release_date": "2024-10-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737447468ae6a25acc5608bf18",
+      "uri": "spotify:album:4IpoGNgaOUH5IhlvvdHq0D",
+      "name": "external",
+      "album_type": "single",
+      "release_date": "2024-09-28",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "39S8vz17l4TyZm8FYu3Msc",
+          "name": "dilemma"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355f2e92e5ef7b0a37540b341",
+      "uri": "spotify:album:7qmi8lsE7GLXGGEGCKjvks",
+      "name": "summer rain",
+      "album_type": "single",
+      "release_date": "2024-09-06",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736616b55eb4ffe28b46f4cd98",
+      "uri": "spotify:album:0zGxEhibrKgCMUqDoL1j3d",
+      "name": "live fast die last (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3F7Pu7vdlZ5cx4EaBfSxUN",
+          "name": "chemical sweet kid"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edb13a462fc9e8951c4a1514",
+      "uri": "spotify:album:3GN2B4qzgUfPd0njjsJyBk",
+      "name": "the endless descent",
+      "album_type": "single",
+      "release_date": "2024-08-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732daaabd6a876ceb6f7f33e55",
+      "uri": "spotify:album:5aEaWdfFWL1BTFvTgfLnQB",
+      "name": "emotional baggage",
+      "album_type": "single",
+      "release_date": "2024-07-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f98f79d153bcfecd5cac58f0",
+      "uri": "spotify:album:3ieK54SqXNuoQlYgD97oRx",
+      "name": "souls burned black",
+      "album_type": "single",
+      "release_date": "2024-06-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc1f75cf1242d06e3e7f0157",
+      "uri": "spotify:album:4DJWsD9TxGdTRou4813xQY",
+      "name": "die for this",
+      "album_type": "single",
+      "release_date": "2024-05-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348244913a80fdb1fc6b179b3",
+      "uri": "spotify:album:3vhK0qj7ST9KgplpQ8kSfA",
+      "name": "breathe again",
+      "album_type": "single",
+      "release_date": "2024-04-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314a1f6a81b8772f56170cac6",
+      "uri": "spotify:album:3fgBLFV73ThWxve4rN60zp",
+      "name": "bring the pain",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c55ff5194324bc8696f9426",
+      "uri": "spotify:album:5LAZ244HEDiFDerFMMNprG",
+      "name": "the hell we need",
+      "album_type": "single",
+      "release_date": "2024-02-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351b77e548718c592f133072d",
+      "uri": "spotify:album:207ItT4UVIdZSkHR9ch23R",
+      "name": "burn all night",
+      "album_type": "single",
+      "release_date": "2024-01-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aba0131bcb0e7e6219e59829",
+      "uri": "spotify:album:4DAknWOsbgGOeL5JjKK48H",
+      "name": "remain in history (remix)",
+      "album_type": "single",
+      "release_date": "2023-10-27",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1gTcxM7ZV6CiFtjIF7TGQ2",
+          "name": "mental discipline"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364045b5986886d8e66dab990",
+      "uri": "spotify:album:5qbIB0WlLwSuG1BbUxItKv",
+      "name": "the ascender",
+      "album_type": "single",
+      "release_date": "2023-04-15",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273938c4f6bfce8f481e75f3ea1",
+      "uri": "spotify:album:3pXHakVrxIFrA7kTWeBFmK",
+      "name": "ishtar (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2023-03-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2ullA26EsVWUOB7Y9Cq1l3",
+          "name": "stars crusaders"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387451de16d319f5ef672a0fc",
+      "uri": "spotify:album:60jRYV54x0UxKsUXutjcno",
+      "name": "blood & glitter (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2023-03-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28eLrVsohdXynlnIzQ2VvI",
+          "name": "lord of the lost"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea66faae821b91fd73a88514",
+      "uri": "spotify:album:70zZNvvllWjBtBZ6EgFxK2",
+      "name": "therapy for one (acoustic)",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337679ccfc67a7519f2e072d4",
+      "uri": "spotify:album:5dhbxdTghfJZqPLv5KueSt",
+      "name": "iisland",
+      "album_type": "single",
+      "release_date": "2022-11-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ATzDLuAJJWC4nSFgnVKxF",
+          "name": "diorama"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e05f52619de30fc737a10a0",
+      "uri": "spotify:album:0fhmfl7ShTiXTwmcJhvb2F",
+      "name": "halloween spooky queens (v2022)",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0804293e2bb855fc1ae2d22",
+      "uri": "spotify:album:29T3wZc0dvhaFyyMijrto5",
+      "name": "years of the serpent",
+      "album_type": "album",
+      "release_date": "2022-01-14",
+      "release_year": "2022",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9fa312bed925ea6f1ec99ed",
+      "uri": "spotify:album:0fhzD42WNCKfforO3dX2je",
+      "name": "all black everything",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e218fb9bec155fe18464ffb",
+      "uri": "spotify:album:17MMMi6DhA0ax1VtF0Gk7V",
+      "name": "halloween spooky queens (v2021)",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a28a3673014344040d32c16",
+      "uri": "spotify:album:6JiLqwA5bO1K3bc4bfhqGX",
+      "name": "better",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273157f82184c7b810badc3e7b1",
+      "uri": "spotify:album:66ZM0OGXTAhIBFbTKsQ4vI",
+      "name": "2077",
+      "album_type": "single",
+      "release_date": "2020-12-07",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0d96a7dbfc1e4cd4f338506",
+      "uri": "spotify:album:619OnKo5KTuvRolGdmrOod",
+      "name": "halloween spooky queens",
+      "album_type": "single",
+      "release_date": "2020-10-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc62f3d82c0ca6284644b950",
+      "uri": "spotify:album:0tnye5F7xDxeS1t6iN1ZnP",
+      "name": "to the floor (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2020-10-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0c93MqjpCoRQrXHIdSbPYr",
+          "name": "heartlay"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737446a0a824288282b4a905dd",
+      "uri": "spotify:album:6U90bTEB4tpYZIj73n8Icp",
+      "name": "the holy shows (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2020-09-01",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4x6qWmbv7fZuBoO3KIywAe",
+          "name": "corporate christ"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfcff703ccf87a1adb23a385",
+      "uri": "spotify:album:70oGWJxoSa1y0SYEcgAuCR",
+      "name": "i did not know",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395f9fd20a4f1221be3b30ba7",
+      "uri": "spotify:album:0nzeW4Z7duLkmTCFW7mwZ4",
+      "name": "love (faderhead remix)",
+      "album_type": "single",
+      "release_date": "2020-03-20",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0fzYg278rF3jvy0eUXt9py",
+          "name": "in balance"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328e27076dbb6d43b71447905",
+      "uri": "spotify:album:1yje4PeM5dByg7EPhfRWbH",
+      "name": "sanctuary",
+      "album_type": "single",
+      "release_date": "2020-01-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1LslcVgu6Wwo7wG0uNKFC6",
+          "name": "anna lux"
+        },
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c626a151aabdd32dea85eb14",
+      "uri": "spotify:album:1lcgqDpuoCwJZCUbHIAYTE",
+      "name": "asteria",
+      "album_type": "album",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7b57b14db2c5c0fbd662ac7",
+      "uri": "spotify:album:0HQdaBA0jkjI1c81Iy9vI2",
+      "name": "starchaser",
+      "album_type": "single",
+      "release_date": "2019-03-11",
+      "release_year": "2019",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b01ccb69f66d211ce968da6c",
+      "uri": "spotify:album:4z7ylKiNwD9WxV5BNWQGoZ",
+      "name": "night physics",
+      "album_type": "album",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4a281b5bd65264fee62a4b",
+      "uri": "spotify:album:47x4z2b7q2nymzupLxyc0Q",
+      "name": "fh-x",
+      "album_type": "album",
+      "release_date": "2016-02-12",
+      "release_year": "2016",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739353ec3b196bd92f1467f7e0",
+      "uri": "spotify:album:1y6MXe7M67i9ONG3qjt0aR",
+      "name": "atoms & emptiness",
+      "album_type": "album",
+      "release_date": "2014-02-07",
+      "release_year": "2014",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e9ea41ae744ab87111e7afb",
+      "uri": "spotify:album:63BM561TwR2gU5eAAajpNt",
+      "name": "fh4",
+      "album_type": "album",
+      "release_date": "2013-03-01",
+      "release_year": "2013",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356820046cfbea8da04d54e3c",
+      "uri": "spotify:album:0dDJWmWHEOjGNSYVruhSfn",
+      "name": "the world of faderhead",
+      "album_type": "album",
+      "release_date": "2012-03-15",
+      "release_year": "2012",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb2d68492c0b9e891b4992af",
+      "uri": "spotify:album:2WMkmSEdrAoXVFtZPwYMDj",
+      "name": "the way to fuck clubs",
+      "album_type": "single",
+      "release_date": "2011-11-11",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b6c6d3c30c4223de17719f2",
+      "uri": "spotify:album:1UDOgnvxU6WEVMUFwXqJ0z",
+      "name": "black friday",
+      "album_type": "album",
+      "release_date": "2010-11-26",
+      "release_year": "2010",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbb15565b9dc5f6c5c119a89",
+      "uri": "spotify:album:6UfH7XKux8tWMBfa1ElnMW",
+      "name": "horizon born",
+      "album_type": "single",
+      "release_date": "2009-10-01",
+      "release_year": "2009",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735139bf64114d8b7449cd7fc8",
+      "uri": "spotify:album:5BXGKTDm6chOmf5IwWuwLH",
+      "name": "fh3",
+      "album_type": "album",
+      "release_date": "2008-10-10",
+      "release_year": "2008",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734592815e4f24452557344c37",
+      "uri": "spotify:album:5zUNFyFdWj1uJPPNiu18AR",
+      "name": "fh2",
+      "album_type": "album",
+      "release_date": "2007-06-14",
+      "release_year": "2007",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e65513833a1483a51eb01d46",
+      "uri": "spotify:album:7ArFgBYthAy1cI5t5XEEMU",
+      "name": "fh1",
+      "album_type": "album",
+      "release_date": "2006-03-31",
+      "release_year": "2006",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "4tLIGM52ee6vMMdBtDZFi7",
+          "name": "faderhead"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:10.000Z"
+}

@@ -1,0 +1,2264 @@
+{
+  "name": "maddix",
+  "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+  "uri": "spotify:artist:0RMeG9M8QFzss9bAbq99KA",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1f3d2bbc9e9f0a14e0025c73",
+  "genres": [
+    "big room",
+    "techno",
+    "hard techno",
+    "acid techno",
+    "hypertechno"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397fd37c60e5a4a336c22c1ac",
+      "uri": "spotify:album:2i2O4p6GWuRkjLn4M7TvhF",
+      "name": "gabber",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6LFELkZXRJs04hi8gywM2A",
+          "name": "dyen"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c46d1e1cc028fe7320138d1d",
+      "uri": "spotify:album:5UOVBJYCvmVM6XmZib15Iz",
+      "name": "we rave (part one & part two)",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732487f3e0d026b3193c96c89b",
+      "uri": "spotify:album:77AA7tGtxYu52V0IZXqNdE",
+      "name": "movement:x ep",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b99545c5703246d1cc950573",
+      "uri": "spotify:album:34XAOjgNpgHmc5wXAgcpO2",
+      "name": "my favourite regrets",
+      "album_type": "single",
+      "release_date": "2026-06-25",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5FXLHhKgStv36wfwXMhTWt",
+          "name": "will atkinson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273830d1e9e6b18c3b90f0d65e9",
+      "uri": "spotify:album:652q8v7z5hRdijxX4L19DW",
+      "name": "over the edge",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "1WPEvpdkTpcT5R976cTAFJ",
+          "name": "ryvm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273702ad4ae07d2f900f75b76ce",
+      "uri": "spotify:album:4oXeqHeQ05U7Y2oouENg5F",
+      "name": "acid for breakfast",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6ade969359228aa8a401993",
+      "uri": "spotify:album:2CcgpiaIAMwGLXUAP7Geax",
+      "name": "coming home",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "65E2g1HICX11fDBessVxkW",
+          "name": "caroline roxy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273276d722fd4fe200cbfb77b90",
+      "uri": "spotify:album:0AMYBABg2SQ8hWDys7rIJq",
+      "name": "favela",
+      "album_type": "single",
+      "release_date": "2026-04-03",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b15f83151f3edddb69c3677",
+      "uri": "spotify:album:6PACqViUcHMi7Nm0hn9JSI",
+      "name": "mouth go lala",
+      "album_type": "single",
+      "release_date": "2026-02-13",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "65E2g1HICX11fDBessVxkW",
+          "name": "caroline roxy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1da8b9c4467c59aa45fd60b",
+      "uri": "spotify:album:6SAmBQXySShXE2X5Cm2SuN",
+      "name": "transmission",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "04Ze9i5w3NXno5DdMNpJZC",
+          "name": "olly james"
+        },
+        {
+          "spotify_id": "1QEd635szhierW6gzRiS1o",
+          "name": "hannah laing"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736221dcdbbbca91281cc6ee6a",
+      "uri": "spotify:album:2GhUn8p1cnRyaY79OWfBRJ",
+      "name": "the ultimate seduction",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5VFvWYGBfacooJsp4oFC2X",
+          "name": "tmpl"
+        },
+        {
+          "spotify_id": "34PGWtOdhHBdMwQRgMW3tA",
+          "name": "the ultimate seduction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca021784487165f83fe31ae8",
+      "uri": "spotify:album:6M66TFVI1FXWh2c6HEeyld",
+      "name": "girls go freak",
+      "album_type": "single",
+      "release_date": "2025-11-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "21A7bhIL1m6CNZn8y57PIZ",
+          "name": "reinier zonneveld"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c5f53a342fd96d72353022d",
+      "uri": "spotify:album:4wfxWFYZmfkJyfx04zDrru",
+      "name": "meet her at the love parade (luca agnelli remix)",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "0wOXK4GjUAFUDhd7mvKBbW",
+          "name": "da hool"
+        },
+        {
+          "spotify_id": "4gF60Mys5KoWdQrf0bhRWq",
+          "name": "luca agnelli"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273543438f0dedc607e4bbce2c1",
+      "uri": "spotify:album:415ILB52mOjN4EuM0fYZeR",
+      "name": "move it 2 the drum",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739533d34cb78956518af9a711",
+      "uri": "spotify:album:32q9aKAUK6isuEDwPv9EBT",
+      "name": "mix the master",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "20D9Fu8EFrF4NlXOxEGgtD",
+          "name": "potatoheadz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5aca1770d25c1f0e252c0c2",
+      "uri": "spotify:album:24pocT8fPZICPOt99SR5rO",
+      "name": "rave till my grave",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "7iajTuviby3038TmfrpvZ3",
+          "name": "villain"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fea30c708cd62cdf814c49a7",
+      "uri": "spotify:album:5hIEv7z1BwnIceZkS5mVpy",
+      "name": "rolling",
+      "album_type": "single",
+      "release_date": "2025-07-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6TVdVlY6irsNPkMHT2HkfD",
+          "name": "space 92"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3b9a63b7df7c7de4552f49b",
+      "uri": "spotify:album:0cPXpgOUjwQjWttiq982ge",
+      "name": "late at night",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4h8IEOdrg60WM5XGyNOCVU",
+          "name": "lilly palmer"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730271face14d5710f9c91177c",
+      "uri": "spotify:album:2huIIggdRS5Ndv1887BiKq",
+      "name": "the kingdom",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "3Ij56hbjOTHq8RgutQwfxC",
+          "name": "radical redemption"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c2da0cac7ec33d154dde36b",
+      "uri": "spotify:album:62wY0EwBpn7ntmJYjoDvE9",
+      "name": "never alone",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6ArtT03Hv9H55Y3EVa7d2V",
+          "name": "the rocketman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736bee3b80e3030539542c1214",
+      "uri": "spotify:album:7eSRPuF0coIgkXo7xiAIap",
+      "name": "hellfire",
+      "album_type": "single",
+      "release_date": "2025-02-28",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5ENS85nZShljwNgg4wFD7D",
+          "name": "gabry ponte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f74a5d3d4b892956956b8c7",
+      "uri": "spotify:album:6BPNER5Jea0HNq4tqqGWXt",
+      "name": "sound of the underground",
+      "album_type": "single",
+      "release_date": "2025-01-17",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738bc2abb24970726cd920c751",
+      "uri": "spotify:album:6aHGQKNhpHKLXzr2BYzxA9",
+      "name": "global awakening",
+      "album_type": "album",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 18,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737635ad9324946b55a4fb8b60",
+      "uri": "spotify:album:5SWxhhXSajB3h1vIb8KeiO",
+      "name": "young birds",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6ArtT03Hv9H55Y3EVa7d2V",
+          "name": "the rocketman"
+        },
+        {
+          "spotify_id": "7jW78RDarQBikuSXe9WkLD",
+          "name": "dr. phil omanski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d4835d3b8c90b5d34307bf4",
+      "uri": "spotify:album:4GgysfFudxwx4X0teu4Sz3",
+      "name": "where you are (orchestral version) - live at the forum",
+      "album_type": "single",
+      "release_date": "2024-11-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "john summit"
+        },
+        {
+          "spotify_id": "4yX6mpMyBGf9UfvBB8JJrc",
+          "name": "hayla"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273848058ce7759eedac2b44928",
+      "uri": "spotify:album:6RvM8Eu3uDTonjyetFmWd0",
+      "name": "direct dizko",
+      "album_type": "single",
+      "release_date": "2024-11-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "22bukBZvUppuwQwmDz75Gz",
+          "name": "sander van doorn"
+        },
+        {
+          "spotify_id": "6NJ6jCt44aupOI2ECwo2zN",
+          "name": "s.o. project"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f4a4b7d1bc741cb4cb7ce5e",
+      "uri": "spotify:album:2wPdtzzwkPHbFL2QWyLAkU",
+      "name": "meet her at the love parade (live at tomorrowland)",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "0wOXK4GjUAFUDhd7mvKBbW",
+          "name": "da hool"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f3bb292a37da34334c44028",
+      "uri": "spotify:album:2GPgkNnsPkXdL9k9kFeJxx",
+      "name": "i'm from holland",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0a21fe3e3d42cfea762b84e",
+      "uri": "spotify:album:6RuDefM3tROFkpIbT7JTfF",
+      "name": "my fantasy",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0ETJQforv5OXgDgidQv9qd",
+          "name": "hi-lo"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4d4babe120a3189c481c7c6",
+      "uri": "spotify:album:0Y2oWCQtDxs7xtRSnEzs6i",
+      "name": "spiritum (the remixes)",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "3DgZk9TPxWee4QgbRpKGF4",
+          "name": "shibui"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273386ce835398077e38f2dbfac",
+      "uri": "spotify:album:794yfQdOCAI93WHwTkVEro",
+      "name": "love takes over",
+      "album_type": "single",
+      "release_date": "2024-06-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "2V431yZGG08uroH2CZAgur",
+          "name": "sarah de warren"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357f37ef9545d7847c9e5b75f",
+      "uri": "spotify:album:3yZ5NNRrnEtyJFkylL0SaK",
+      "name": "meet her at the love parade",
+      "album_type": "single",
+      "release_date": "2024-05-17",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "dimitri vegas & like mike"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "0wOXK4GjUAFUDhd7mvKBbW",
+          "name": "da hool"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b340d113cbae7e04df9df62",
+      "uri": "spotify:album:2Vitbdw1me1czTqB7zFxin",
+      "name": "open sesame (abracadabra) [d-block & s-te-fan remix]",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6L7a6wPGpvLtTwOsMLnF1z",
+          "name": "d-block & s-te-fan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd41d9e2d8c28a87c502f56d",
+      "uri": "spotify:album:4KrUxvKkI2xRKnaBZhf0SZ",
+      "name": "adrenalina (minha gasolina)",
+      "album_type": "single",
+      "release_date": "2024-04-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "32kPQzj1rk4nnGIIJpIUic",
+          "name": "ceres"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bb59d18e4612bb5cdd75a88",
+      "uri": "spotify:album:6gmvmAQvthM3tyXqOaOyFX",
+      "name": "16",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4a455e574622386a76123bc",
+      "uri": "spotify:album:4spbKALzJWO1dHSz9k7P7P",
+      "name": "my gasoline (hard edit)",
+      "album_type": "single",
+      "release_date": "2024-03-15",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4NzdIkiweEHJgVdg8q2Ruk",
+          "name": "basswell"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b81e8909809c194022a87c8",
+      "uri": "spotify:album:3AgsBmKKEIueKsDwgTRsDT",
+      "name": "open sesame (abracadabra) [feat. leila k]",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f89dffc926bf753acfd36ce8",
+      "uri": "spotify:album:3DLisv8F3tPRnqRgAwPmxn",
+      "name": "spiritum",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "29zsVzEH33dD5QqxeL8dvy",
+          "name": "vini vici"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "3DgZk9TPxWee4QgbRpKGF4",
+          "name": "shibui"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733674b9a4f2927361e67b4a85",
+      "uri": "spotify:album:3AQBpvauWclxKlpEANyD3N",
+      "name": "90s bitch",
+      "album_type": "single",
+      "release_date": "2023-12-08",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6ArtT03Hv9H55Y3EVa7d2V",
+          "name": "the rocketman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1625dac08633e9c1050613b",
+      "uri": "spotify:album:6H8dsCDiabAWMIAzERgKC5",
+      "name": "lose this feeling (maddix remix)",
+      "album_type": "single",
+      "release_date": "2023-11-17",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0SfsnGyD8FpIN4U4WCkBZ5",
+          "name": "armin van buuren"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731be17eff821158262ca9ab0a",
+      "uri": "spotify:album:0QqaJAnYqsE1LHb9cYBKNK",
+      "name": "hypnotizing",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Hini2nQyoglzpdKe41cZt",
+          "name": "umek"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b4f6e56d539efe075cc97a5b",
+      "uri": "spotify:album:4f6hP9KBR7Sm6ACbWTYQGc",
+      "name": "close to you (audiotricz remix)",
+      "album_type": "single",
+      "release_date": "2023-09-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "52I8HbScEEvgwiiSDaM7gP",
+          "name": "audiotricz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27369d909de065723d22b4650a2",
+      "uri": "spotify:album:2xZmuGqmfSwCD21PQBKw9t",
+      "name": "computers take over the world (maddix remix)",
+      "album_type": "single",
+      "release_date": "2023-09-15",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735905a52f9aa7c813b224d076",
+      "uri": "spotify:album:2yH8T6iAwdAp8NkLOnMWsk",
+      "name": "my gasoline",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "7akxhVMmCpSDFw152XqCu6",
+          "name": "fēlēs"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9954db9fe2c0af1383e70ec",
+      "uri": "spotify:album:5IQSHIPD6Z8EBTTjHI8uUM",
+      "name": "close to you",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273893d4d85024c6152a12341db",
+      "uri": "spotify:album:79Q74XqZiaRXq39mBTOiRx",
+      "name": "acid",
+      "album_type": "single",
+      "release_date": "2023-05-05",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933f207b20e0dba80585705f",
+      "uri": "spotify:album:19EBg9uVXWeTh3T0MzAj7X",
+      "name": "revolution",
+      "album_type": "single",
+      "release_date": "2023-03-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c0e0e7c92b0afa4ef3aa538",
+      "uri": "spotify:album:0RvYihxekHtNCJIpBbo4ED",
+      "name": "the formula",
+      "album_type": "single",
+      "release_date": "2023-03-15",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "1ccmwHm4DPRPR12TZVWdu8",
+          "name": "fovos"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273369a32cf5d496bd50b2fd7b1",
+      "uri": "spotify:album:6Xfhu7tRzNbBgFCzupqSWd",
+      "name": "raw diamonds",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "3nAVFW9Ici1N82YmQMbV8J",
+          "name": "penelope"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333f6afe6415e2a392f6b1247",
+      "uri": "spotify:album:30GbdnnaB9AfEGBw3sVWBe",
+      "name": "tell me why (maddix remix)",
+      "album_type": "single",
+      "release_date": "2023-02-10",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7urnl0uH1w3NCoErxw7AUK",
+          "name": "supermode"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc19b0b556aad79a919505b6",
+      "uri": "spotify:album:3FOqjkgC6qqes6K3Ejly3B",
+      "name": "take me away again",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "2a0fbijQhcaj1hOFp5b3id",
+          "name": "4 strings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ea0dfe16837b6a3e954648f",
+      "uri": "spotify:album:7qq8YG9xN3dnJuKBt023Xq",
+      "name": "take me away again (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "2a0fbijQhcaj1hOFp5b3id",
+          "name": "4 strings"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b669338eb88664580ac54267",
+      "uri": "spotify:album:5TqgtXhlVZi0KwEdWr1AST",
+      "name": "thrill",
+      "album_type": "single",
+      "release_date": "2022-11-11",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4wiFBUvu3Vqn8gZpY81szc",
+          "name": "linka"
+        },
+        {
+          "spotify_id": "3QgGgYrGPyaHh4n1d65Ukd",
+          "name": "gregor potter"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d1e63a707f9948c4d157506",
+      "uri": "spotify:album:1apxsMdnOCbNdXbFxtwzVe",
+      "name": "telescope (maddix remix)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5FXLHhKgStv36wfwXMhTWt",
+          "name": "will atkinson"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730aeec97affab02a63da5527c",
+      "uri": "spotify:album:79KvTeK1cf79PUcKxzAGhb",
+      "name": "heute nacht",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9ea37b6fed7a8958cd821ba",
+      "uri": "spotify:album:6rYjhNR2dnCspaErVPJslQ",
+      "name": "heute nacht (sped up)",
+      "album_type": "single",
+      "release_date": "2022-10-14",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273000459124de0eb48076d08e6",
+      "uri": "spotify:album:4dgs1IAwfLF9DcquCpm3MA",
+      "name": "no escape",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739d171d9d584f95eb35c67e57",
+      "uri": "spotify:album:4E6xEzoduK8PF7P8Qj1mX9",
+      "name": "ce soir (voulez-vous)",
+      "album_type": "single",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27359186a0efd1193822149adfd",
+      "uri": "spotify:album:7eO4QOIMUJS1FI0KRriiie",
+      "name": "purpose",
+      "album_type": "single",
+      "release_date": "2022-06-03",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37awA8DFCAnCCL7aqYbDnD",
+          "name": "blasterjaxx"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27372a3b81bd1b48a08404333b6",
+      "uri": "spotify:album:3v46wgRrhBFMreOqatqQNT",
+      "name": "culture",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ca76ecb74faac9366b66088b",
+      "uri": "spotify:album:2afR3N9xTrNEfcAFpx1DP4",
+      "name": "the formula",
+      "album_type": "single",
+      "release_date": "2022-03-04",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d6bd116a72887f7ea350615",
+      "uri": "spotify:album:2xzKZQIWAnXGmLCy4ieFmG",
+      "name": "advanced (maddix remix)",
+      "album_type": "single",
+      "release_date": "2022-01-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "03kG9mdI2xdVCLOsFt26GR",
+          "name": "marcel woods"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fdf4bc1e973b5a124a94d7a",
+      "uri": "spotify:album:2mX3c9J3RpbmkHp8fCyUrK",
+      "name": "state of mind",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bd5ae287e53a08f48ae84252",
+      "uri": "spotify:album:58pzpO6xPQ7WfAc6gBtOyD",
+      "name": "different state",
+      "album_type": "single",
+      "release_date": "2021-10-22",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cb8ac4dae6d3b94263721a0",
+      "uri": "spotify:album:1ANuId2P3gKQZx00I5TwQl",
+      "name": "the lost dna vol. 1",
+      "album_type": "album",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731938d1bc9330ae310feebc67",
+      "uri": "spotify:album:3useFfiPakNg1ofhRPsUSA",
+      "name": "pydna",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ddc2c7eb8df9b3b2e0997fcb",
+      "uri": "spotify:album:6wWywlKRmCYm272mHFijWR",
+      "name": "space in your mind",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6ArtT03Hv9H55Y3EVa7d2V",
+          "name": "the rocketman"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343569abacc9f2b5ec8b302f6",
+      "uri": "spotify:album:5Az3S3nhxkfHktyQKXHZO8",
+      "name": "acid soul",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b8a3166abbb74b4c2a03d22",
+      "uri": "spotify:album:4SGE8yaXOB3fFePYPKaAl8",
+      "name": "receive life",
+      "album_type": "single",
+      "release_date": "2021-06-25",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac8440ce0af82a5786ddc2e6",
+      "uri": "spotify:album:3fiBwpvIKhmbfvg08tcTfP",
+      "name": "apollo (maddix remix)",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "4RTCIP5yp2tL1AtBCq7ukj",
+          "name": "amba shepherd"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d591bc41751e0ecb9a8e324",
+      "uri": "spotify:album:2OGs5qIadg1y6VYBFYu0dl",
+      "name": "home",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380400dca5151715a96d10280",
+      "uri": "spotify:album:1FOgH1sxVfxbPbNIKSbMbD",
+      "name": "in my body",
+      "album_type": "single",
+      "release_date": "2021-03-26",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273464a1c362d2dc3b8cf21b01d",
+      "uri": "spotify:album:1XW1S0gopiclcGHo1ViWur",
+      "name": "superheroes (tribe edit)",
+      "album_type": "single",
+      "release_date": "2021-02-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374b364dd60a1094d167f3f5d",
+      "uri": "spotify:album:4q02OUew4TvWoYrdrmrfJ5",
+      "name": "superheroes",
+      "album_type": "single",
+      "release_date": "2021-02-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c59667af5efc4a53fdb2e283",
+      "uri": "spotify:album:7H8uxwCVQlJEaBMkwgGwde",
+      "name": "activating",
+      "album_type": "single",
+      "release_date": "2021-01-15",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27347249732cff173f946c961f0",
+      "uri": "spotify:album:3RvGMNChAQOEZEIYn5f7Z5",
+      "name": "reality",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273615d3ddabde06c444673a5f2",
+      "uri": "spotify:album:6wWUiF3Y5iENyJUVahVLCx",
+      "name": "tribe ep vol. i",
+      "album_type": "single",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b51e8c4b4a9631f54681a4e4",
+      "uri": "spotify:album:5ugjqWQ2RFnOTNr9izVDGx",
+      "name": "this is what it feels like (maddix remix)",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273168cded043106425e61cc5e9",
+      "uri": "spotify:album:7gS3faHx5yoStZViQFgttb",
+      "name": "tekno",
+      "album_type": "single",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327edddfcf1450ba24c0b8d8a",
+      "uri": "spotify:album:5a8Q8QjVScNewiXuwEdXwy",
+      "name": "electric",
+      "album_type": "single",
+      "release_date": "2020-06-26",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0c9cd67ba97edc61762d94c",
+      "uri": "spotify:album:6yyxptYtMmHh1VZo4izai6",
+      "name": "existence",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273384a3c52b5a3ab56c5fb8f88",
+      "uri": "spotify:album:6QgEcZt1EWhtLIVz6YSzsm",
+      "name": "technology",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334822bf5b1dc11aefa03d5bb",
+      "uri": "spotify:album:2jFMfmwj1MThPG3L1y2saa",
+      "name": "ecstasy",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273518761be0af167c02defe16d",
+      "uri": "spotify:album:3SB2pcaTcXpDVyj3J01uVW",
+      "name": "bad meets evil",
+      "album_type": "single",
+      "release_date": "2020-03-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "1mgNVAgWBv1L9CvAocHTTD",
+          "name": "anvy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f28322562499d67a9b81fdd1",
+      "uri": "spotify:album:40TTev6p9rcADb4iKIegfV",
+      "name": "follow me",
+      "album_type": "single",
+      "release_date": "2020-01-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "7wVdHjM4odGF5lGsqVSHJT",
+          "name": "saberz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731c9b08b5d6baa1418dee23f8",
+      "uri": "spotify:album:3JzRkxJwqvlaVgxsfE2UXb",
+      "name": "future noise",
+      "album_type": "single",
+      "release_date": "2019-12-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e5c0d7354e8b6983ed239eb",
+      "uri": "spotify:album:16biLxoLFOSctW8r1K9IJN",
+      "name": "with or without you (kage remix)",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6ehv7BnQkNEh7Hqd8rRcot",
+          "name": "kage"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381f89219c42ea3bc4dba8f43",
+      "uri": "spotify:album:6TWXImZdx36S1rCby7UstO",
+      "name": "with or without you (crime zcene remix)",
+      "album_type": "single",
+      "release_date": "2019-12-06",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "63Uotocmp2cieAZLI0Y4wv",
+          "name": "crime zcene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733585ee5e9066a0b061acbf17",
+      "uri": "spotify:album:2E8u7WXutdX7MflomsZx8O",
+      "name": "with or without you (jac & harri remix)",
+      "album_type": "single",
+      "release_date": "2019-11-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "3o2JkvV32a6n4Xwf585pmT",
+          "name": "jac & harri"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bcbb9db33b1900a80c079071",
+      "uri": "spotify:album:0ePjXKueJXfrPHLCYtYrcT",
+      "name": "people are strange (incl. festival mix)",
+      "album_type": "single",
+      "release_date": "2019-11-01",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eadea40dbb03f45c99eafbe",
+      "uri": "spotify:album:5Nld4gDyej1v4POCN98D4y",
+      "name": "with or without you",
+      "album_type": "single",
+      "release_date": "2019-09-20",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27364a151548d6f22360b48959b",
+      "uri": "spotify:album:140x8lphpsytDiXDy64L0W",
+      "name": "invincible (till the day we die) [festival mix]",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "0jqSpIpPWIxPpAyvfExLQC",
+          "name": "michael jo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733383f0aa4339fdd90bb313c7",
+      "uri": "spotify:album:3BU4gkbq9tWXsfSmR310YU",
+      "name": "invincible (till the day we die)",
+      "album_type": "single",
+      "release_date": "2019-08-02",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "0jqSpIpPWIxPpAyvfExLQC",
+          "name": "michael jo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733efb4095daad82cc7d34969b",
+      "uri": "spotify:album:10ZhvxWH5yoY7k6AJQ5Wf7",
+      "name": "the omen",
+      "album_type": "single",
+      "release_date": "2019-06-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27326ecff3c96d147d3ee156f03",
+      "uri": "spotify:album:4wtexY1ypbB5UXLOx5ttGg",
+      "name": "zero",
+      "album_type": "single",
+      "release_date": "2019-02-01",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305dc06453b1eb114e3784198",
+      "uri": "spotify:album:27P026RLXVHUUrZHiFpGBD",
+      "name": "the prophecy (kaaze remode)",
+      "album_type": "single",
+      "release_date": "2018-12-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "6WGE3kO8ULME2ErBcOksSR",
+          "name": "kaaze"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b9f1dbeced0be55981f4569e",
+      "uri": "spotify:album:1njd12iCKD1kjayysfVowS",
+      "name": "mangalam",
+      "album_type": "single",
+      "release_date": "2018-12-14",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1u7OVFmWah4wQhOPIbUb8U",
+          "name": "will sparks"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331acf4ac8f6e38921855fbba",
+      "uri": "spotify:album:6yxBvTIdba7JCF6u9NXY5K",
+      "name": "shuttin it down",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273400606bf61860dc958096eac",
+      "uri": "spotify:album:3ZCt6pnEE7ZMNquAZN7Put",
+      "name": "the prophecy",
+      "album_type": "single",
+      "release_date": "2018-09-28",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CbeG1224FS58EUx4tPevZ",
+          "name": "timmy trumpet"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b05ef41b5ab6622b9f331480",
+      "uri": "spotify:album:20nc4NOXp3VUhh1iUX1Xwi",
+      "name": "bella ciao",
+      "album_type": "single",
+      "release_date": "2018-08-17",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273923b3c8c3432132c140b5828",
+      "uri": "spotify:album:7w5gno8l4natkN4ctVhygR",
+      "name": "keep it jackin",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373ebff8f41bdf18db46f2288",
+      "uri": "spotify:album:6DCKM5G3l8l7R3BFcDjQae",
+      "name": "soldier",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "1hSKIb96KuZ2SScNbnHCqU",
+          "name": "kevu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e48a9dc37b9da3db0719cb47",
+      "uri": "spotify:album:2VSLp8GPouoOqhSJTqjlcJ",
+      "name": "lose control",
+      "album_type": "single",
+      "release_date": "2018-05-04",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736936af8c1cbb6e66f28cbf74",
+      "uri": "spotify:album:6YXSl8jURCjbkiscl43OS5",
+      "name": "mantra",
+      "album_type": "single",
+      "release_date": "2017-12-01",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27389642e92086a123d19cd797d",
+      "uri": "spotify:album:1qNW8RKsZc4kUAf0hork7O",
+      "name": "trabanca",
+      "album_type": "single",
+      "release_date": "2017-11-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5guBrcv1BxjlJdKlW8MNyh",
+          "name": "dj junior (tw)"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273794f8040d8bbb0efd1fbfcf7",
+      "uri": "spotify:album:038DFyoLAIy2DKHke45Ved",
+      "name": "the underground",
+      "album_type": "single",
+      "release_date": "2017-10-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735677518d991a6c3cd82f7ee9",
+      "uri": "spotify:album:3qKkTQn0gMGlHCQCIkhzF5",
+      "name": "showdown",
+      "album_type": "single",
+      "release_date": "2017-08-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4uirC8jwtU1yVLDdsOzT0n",
+          "name": "loax"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b053e4390d4817df26b2980a",
+      "uri": "spotify:album:5YEBTZbVNwPv43P1AehQsc",
+      "name": "smash this beat",
+      "album_type": "single",
+      "release_date": "2017-07-27",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6BrvowZBreEkXzJQMpL174",
+          "name": "hardwell"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/3b08fca6e01003295cf4338541ec4909da1f3205",
+      "uri": "spotify:album:6b1JMlc7eIC2BXfqzmy4Ak",
+      "name": "badman",
+      "album_type": "single",
+      "release_date": "2017-06-30",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "47v4vGA1qCl7hyevSkpRM7",
+          "name": "futuristic polar bears"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e6f2d33b11577ebb5926b473",
+      "uri": "spotify:album:4z5uW0ALVEXRDJhoNjanxE",
+      "name": "b.a.s.e",
+      "album_type": "single",
+      "release_date": "2017-04-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0QZSzSj4BDYFARD2hZ7oNI",
+          "name": "kill the buzz"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273593034d29ab2840cd512758a",
+      "uri": "spotify:album:1KElvfAQbVQQZrCwA5UJoh",
+      "name": "fauda",
+      "album_type": "single",
+      "release_date": "2017-04-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "5dlXp2PYNwRSdvFtSBFN9X",
+          "name": "rivero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae3a4594270e4902d1cb9b32",
+      "uri": "spotify:album:3oPQ061yawv0maihztbG2n",
+      "name": "bang",
+      "album_type": "single",
+      "release_date": "2017-02-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "1hSKIb96KuZ2SScNbnHCqU",
+          "name": "kevu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b5cffaacd92a483eb765d8ae",
+      "uri": "spotify:album:5QrCLrDFAXf68QGjBQavja",
+      "name": "trippin",
+      "album_type": "single",
+      "release_date": "2017-01-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383edb90aec6fb2a1eabc10ae",
+      "uri": "spotify:album:2uHEkd0VPrdfbdPpayXzCa",
+      "name": "shake it",
+      "album_type": "single",
+      "release_date": "2016-11-28",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3QjbhhPrW6clls3VPRGkXu",
+          "name": "joey dale"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731d16d9ac357886d9e439fd29",
+      "uri": "spotify:album:151hgv3VkmEzM5DQsgXQ3I",
+      "name": "invictus",
+      "album_type": "single",
+      "release_date": "2016-09-26",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "04Ze9i5w3NXno5DdMNpJZC",
+          "name": "olly james"
+        },
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354e3d25f62f1f820574e975d",
+      "uri": "spotify:album:0mOnTaWdZ6QCy8GRbQk9dl",
+      "name": "zodiac",
+      "album_type": "single",
+      "release_date": "2016-08-22",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730f7b5bd080912c95eb2417d0",
+      "uri": "spotify:album:2mLMFDxZL3V17LWlu5CKRu",
+      "name": "dirty bassline",
+      "album_type": "single",
+      "release_date": "2016-07-25",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b9cfd8ee2436e8c89dd7ad1",
+      "uri": "spotify:album:4aJwSu4WuG3rYk1rVlv3b4",
+      "name": "voltage",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "41O0Sb8nBFTzRtHDSlAJzs",
+          "name": "jayden jaxx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b32a4cb35ade8598d8b5be34",
+      "uri": "spotify:album:50ZMdHeYQ5o2MCUatoOJXn",
+      "name": "ghosts",
+      "album_type": "single",
+      "release_date": "2015-11-30",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef65cd6fcb2a1593eecab2d1",
+      "uri": "spotify:album:4ZRDMrSIXQFUZjRbyHUnN1",
+      "name": "riptide",
+      "album_type": "single",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c83acca9f43b00d41bc0af8",
+      "uri": "spotify:album:6Z9NbFtcQ0hUFbqvNWTAd5",
+      "name": "true blood",
+      "album_type": "single",
+      "release_date": "2015-05-30",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273655a9f4dda842f9c8df00e77",
+      "uri": "spotify:album:3HJPUoS6jHNuT5h6sZXqMx",
+      "name": "gravity",
+      "album_type": "single",
+      "release_date": "2014-12-04",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fae38f3ddee5189347337b3",
+      "uri": "spotify:album:2NZ9EXNQUsKpRCt4aFlDgH",
+      "name": "anthems",
+      "album_type": "single",
+      "release_date": "2014-06-30",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        },
+        {
+          "spotify_id": "4Nbb79nDtcphU1w6aVcaDv",
+          "name": "newtown knife gang"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323b78fb4b83550ec9e4c3042",
+      "uri": "spotify:album:2RswtXGUgJNoCE1GApOq7Y",
+      "name": "rampant",
+      "album_type": "single",
+      "release_date": "2014-01-20",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0RMeG9M8QFzss9bAbq99KA",
+          "name": "maddix"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:20:44.000Z"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "maximum the hormone",
+  "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+  "uri": "spotify:artist:3AMut7lAb1JjINkn8Fmkhu",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405",
+  "genres": [
+    "j-rock",
+    "anime",
+    "visual kei"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3c9954a5297f5bc1bf90c3b",
+      "uri": "spotify:album:22bkV1gcP9weQRmRktdCM4",
+      "name": "hawatari nioku centi [2-hundred-million-centimeter-long blades] (tv edit)",
+      "album_type": "single",
+      "release_date": "2022-10-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3365a2486681e6cc2574be5",
+      "uri": "spotify:album:6Met7PlW4vHDLB8lNqBvVf",
+      "name": "kamigami-神噛- (tv edit)",
+      "album_type": "single",
+      "release_date": "2021-06-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27383022a7da60600c96cf75ff9",
+      "uri": "spotify:album:6emA4oeGdqUPdNzJwVlD5y",
+      "name": "これからの麺カタコッテリの話をしよう",
+      "album_type": "single",
+      "release_date": "2018-11-28",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27399f76f9ea015feae8e584fb5",
+      "uri": "spotify:album:3WHeO5too2qe9walXJpmtC",
+      "name": "mimikajiru shin'uchi",
+      "album_type": "album",
+      "release_date": "2015-11-18",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea3e34070bae7b6416dcaf48",
+      "uri": "spotify:album:5orNkSHYQpay7oiSWQIVxV",
+      "name": "yoshu fukushu",
+      "album_type": "album",
+      "release_date": "2013-07-31",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4",
+      "uri": "spotify:album:6dxTTn3tLurox31zSM0X1K",
+      "name": "bu-ikikaesu",
+      "album_type": "album",
+      "release_date": "2007-03-14",
+      "release_year": "2007",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c0976799fbf70838e3620159",
+      "uri": "spotify:album:1tDmwRVLM7phI55WEm1kPf",
+      "name": "rock-impo goroshi",
+      "album_type": "album",
+      "release_date": "2005-03-02",
+      "release_year": "2005",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bceb316efd1755c69af7c23",
+      "uri": "spotify:album:1MMdPpUpa7jZefWmUL5srA",
+      "name": "kusoban",
+      "album_type": "album",
+      "release_date": "2004-01-21",
+      "release_year": "2004",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "3AMut7lAb1JjINkn8Fmkhu",
+          "name": "maximum the hormone"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:37.000Z"
+}

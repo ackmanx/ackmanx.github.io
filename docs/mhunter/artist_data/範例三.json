@@ -1,0 +1,47 @@
+{
+  "name": "範例三",
+  "spotify_id": "6P6VHZ4xAfv8O5fsse8CPz",
+  "uri": "spotify:artist:6P6VHZ4xAfv8O5fsse8CPz",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb23de0d4e9499ecaf13acc97c",
+  "genres": [
+    "chinese hip hop",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309ddcbce47afa787f78ec9ed",
+      "uri": "spotify:album:0XVTHcqzM4OjFfQZPAEV0X",
+      "name": "好小子健康錄",
+      "album_type": "single",
+      "release_date": "2026-01-13",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7IdmULbCzlzGK7fqupqst4",
+          "name": "許時"
+        },
+        {
+          "spotify_id": "6P6VHZ4xAfv8O5fsse8CPz",
+          "name": "範例三"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366a7a5eb6a6506bd39dbf0b8",
+      "uri": "spotify:album:13espQzjJ9lDw7rQ5SyUhn",
+      "name": "請你叫我查理布朗",
+      "album_type": "album",
+      "release_date": "2020-05-01",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "6P6VHZ4xAfv8O5fsse8CPz",
+          "name": "範例三"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:37:15.000Z"
+}

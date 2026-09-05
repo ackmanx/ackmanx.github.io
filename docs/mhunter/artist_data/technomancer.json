@@ -1,0 +1,179 @@
+{
+  "name": "technomancer",
+  "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+  "uri": "spotify:artist:1cxwVW3CiUuZFar8IIPFrh",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb8c59bf6eb3fc6d2e358b428f",
+  "genres": [
+    "ebm",
+    "synthpop",
+    "industrial"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f3db7e8ae5e0666957d2d811",
+      "uri": "spotify:album:5Xrr7rphSZYbAKvpyqhkyK",
+      "name": "without you",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b144c8c15470cb2ea97bc00",
+      "uri": "spotify:album:1TcmeYAsEENlJ6wTrSwKmG",
+      "name": "hyperfuel",
+      "album_type": "album",
+      "release_date": "2022-11-04",
+      "release_year": "2022",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4aaf50aef15d7c8cbacdb4c",
+      "uri": "spotify:album:0NbzPZ1V8n47NXxJbcH4Y6",
+      "name": "ecstasy",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b107e4374d32491590ef59a3",
+      "uri": "spotify:album:5m8jWQTFv78uOmynIDKy4W",
+      "name": "i want you",
+      "album_type": "album",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ec5c923e151a271211c1d8c1",
+      "uri": "spotify:album:3cytYdHmesfI47php2wYfb",
+      "name": "empire",
+      "album_type": "single",
+      "release_date": "2019-05-31",
+      "release_year": "2019",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e17b8f5c4a45c5b3e971065c",
+      "uri": "spotify:album:1YimXRATQ3ucuNNhRtcNAr",
+      "name": "the outsider ep",
+      "album_type": "single",
+      "release_date": "2018-06-15",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27331ba84017db65a9bf672ffcd",
+      "uri": "spotify:album:3ljre7cGtlDctrdqWcghFD",
+      "name": "electronic warfare",
+      "album_type": "single",
+      "release_date": "2015-01-05",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0c41a7667d143fa756ecb22",
+      "uri": "spotify:album:4ssUmeTL4lXzQULVlrmvEN",
+      "name": "d-mn",
+      "album_type": "single",
+      "release_date": "2014-08-08",
+      "release_year": "2014",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a2d2ee55e8656095b1fc2e3",
+      "uri": "spotify:album:1NctsSUoW0KGzCZCew9Qzp",
+      "name": "path of destruction",
+      "album_type": "single",
+      "release_date": "2013-11-15",
+      "release_year": "2013",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7e3c84731468be73788a442",
+      "uri": "spotify:album:6FtJ6XStIpAwCNGuUFPZCy",
+      "name": "system failure (bonus version)",
+      "album_type": "album",
+      "release_date": "2013-05-17",
+      "release_year": "2013",
+      "total_tracks": 15,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730b7850eac513456cc748b11f",
+      "uri": "spotify:album:1Tn4VU2GE3ilLlhnWpiy5a",
+      "name": "drift",
+      "album_type": "single",
+      "release_date": "2013-03-08",
+      "release_year": "2013",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "1cxwVW3CiUuZFar8IIPFrh",
+          "name": "technomancer"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:53.000Z"
+}

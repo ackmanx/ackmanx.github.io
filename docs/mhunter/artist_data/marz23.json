@@ -1,0 +1,468 @@
+{
+  "name": "marz23",
+  "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+  "uri": "spotify:artist:4XBG26mgvzGqT09eopG4d9",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb76079c205edf58db8ce3eace",
+  "genres": [
+    "chinese hip hop",
+    "mandopop",
+    "chinese r&b",
+    "taiwanese pop",
+    "taiwanese indie",
+    "chinese rock",
+    "c-pop",
+    "chinese indie"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273339ad29be194aa082678f4ff",
+      "uri": "spotify:album:5sJUDZLa1v28h54yQmbPaE",
+      "name": "super daddy",
+      "album_type": "single",
+      "release_date": "2026-07-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nPE5xOhatljavLB3KMjCu",
+          "name": "ken_g"
+        },
+        {
+          "spotify_id": "4TcOznbEZBqev21LzAH4KE",
+          "name": "高爾宣 osn"
+        },
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e08d0959682bee5cdbceef1d",
+      "uri": "spotify:album:5Dj0zeqDmvNeaOJBZiMYtY",
+      "name": "our dream",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "71l6Wfk7PaTVPAOH7ln56V",
+          "name": "princess ai"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e09a3ef707e23ad2c105e9b1",
+      "uri": "spotify:album:7H3Sh1OIqvcgc3Tvl2f6Xg",
+      "name": "觀自在",
+      "album_type": "single",
+      "release_date": "2026-05-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c06c45e903bb385f213a717",
+      "uri": "spotify:album:19E9ewQ8LcaWaHbRi8Wp7j",
+      "name": "魅惑天空 2ø25",
+      "album_type": "single",
+      "release_date": "2025-11-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733f1462b134ec9c83789d2e68",
+      "uri": "spotify:album:7D0UoSpD6qC3PAFP1KStSE",
+      "name": "不簡單的歌 (feat. faye 詹雯婷)",
+      "album_type": "single",
+      "release_date": "2025-08-27",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "7hmSHY9HVVQKejpGbPbo16",
+          "name": "faye 詹雯婷"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa5cf2b04bb31a76db039246",
+      "uri": "spotify:album:58Enk3Puo9RZJUW2XcyDf2",
+      "name": "癡情暈船仔",
+      "album_type": "single",
+      "release_date": "2025-04-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273817ba4a532fe81d4ed1ccf4c",
+      "uri": "spotify:album:4dGh85yiEkYj77n93dP9MT",
+      "name": "我是一隻小小鳥104搖滾版",
+      "album_type": "single",
+      "release_date": "2025-02-06",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333c1b23717de395a7ae8e547",
+      "uri": "spotify:album:6brp086LRoC8nGX6fyHHnK",
+      "name": "反正我願意",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3zGGhKGLorCRgcXc22gYDX",
+          "name": "fumon"
+        },
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1fd4935d1e54efdf9a4837a",
+      "uri": "spotify:album:5Fcd41aiuAVXw1BNQQFYli",
+      "name": "marz23 最美的風景台北演唱會精選實錄 (live)",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732317731f8440ac11c1ab4510",
+      "uri": "spotify:album:0MHpDBlkQmraKJ64yyjtWj",
+      "name": "94在靠杯",
+      "album_type": "single",
+      "release_date": "2023-10-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368e831b255807e7c315a0eaf",
+      "uri": "spotify:album:3eWiFgiKcR03wd33WLRnRE",
+      "name": "你哪位?",
+      "album_type": "single",
+      "release_date": "2023-10-17",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b593b1892f107b7314be31f2",
+      "uri": "spotify:album:3OfDmuDl9aMma0I8JxtYeA",
+      "name": "不遠處",
+      "album_type": "album",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adea8cd52933d509d3d32a06",
+      "uri": "spotify:album:6XNIzjnjbV9DbsaHG7xZGb",
+      "name": "不愛自己了",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9b691cd3d1a228cb812aabc",
+      "uri": "spotify:album:4R24nFxGHvAj4yTv3Q3wt9",
+      "name": "情勒",
+      "album_type": "single",
+      "release_date": "2023-02-24",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "7Icsejk4pdIhkq2KO5A0jD",
+          "name": "øzi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d49ac8ed413e463b15322102",
+      "uri": "spotify:album:3RoGELXVstcOsXygDvIkBX",
+      "name": "假肖 (feat. marz23)",
+      "album_type": "single",
+      "release_date": "2022-11-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "45sDYsh1i1bXB3IRi04MTz",
+          "name": "barry chen"
+        },
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27352af9600c4b59b7e6874404d",
+      "uri": "spotify:album:1Byiccy1kQfGueajzyPQKK",
+      "name": "overrated (feat. smrtdeath)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "4NYeChhB65zL0ywl4rHmSk",
+          "name": "smrtdeath"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d5e6d5a3c67c0f86520f6b5",
+      "uri": "spotify:album:6JyYqodvDfNbgqm8T44dde",
+      "name": "不搖就滾",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734827def9b091bafe659937bc",
+      "uri": "spotify:album:3CSze05DeS7ElFA5ppOcNP",
+      "name": "浪費時間 (feat. jutes)",
+      "album_type": "single",
+      "release_date": "2021-12-29",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "53fzjsJnjEKkA6TdncuIM4",
+          "name": "jutes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315f3d67fd3839ccdd6b94139",
+      "uri": "spotify:album:4BrfXgKqGTbQFV3KV7mBzh",
+      "name": "放過自己 (acoustic version)",
+      "album_type": "single",
+      "release_date": "2021-10-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0FQHLgDeg1QZGzkyRxAPRd",
+          "name": "g5sh"
+        },
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273583382a7fdd2a34c7d5a1e51",
+      "uri": "spotify:album:0oM9cYr2l14guScjTsMIKX",
+      "name": "最美的風景 (feat. 莫宰羊)",
+      "album_type": "single",
+      "release_date": "2021-04-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        },
+        {
+          "spotify_id": "2yN7qnZbV8krGJEB16nUOe",
+          "name": "莫宰羊"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730fde9b3e142588d8e90e9af0",
+      "uri": "spotify:album:6KbVYCjpczKwK8hLczGiY6",
+      "name": "marz23 live in taipei",
+      "album_type": "single",
+      "release_date": "2021-01-22",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e74824c7b91a591f8ebe4594",
+      "uri": "spotify:album:1i9NZgKrjl9gQVIczUEJYh",
+      "name": "23",
+      "album_type": "album",
+      "release_date": "2020-08-18",
+      "release_year": "2020",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27300a4594f32fe48bd0c95a565",
+      "uri": "spotify:album:26CSUQwNHIsqLeM8blKseA",
+      "name": "23",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2739971df649b82b57e37a1",
+      "uri": "spotify:album:1C7733wb2ReqUIIPevpR5k",
+      "name": "break me down (feat. jesse)",
+      "album_type": "single",
+      "release_date": "2020-06-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310a118e0cce4080a93298572",
+      "uri": "spotify:album:5dXoXMcOrVg7z7YhYUoef9",
+      "name": "寂寞男孩 (feat. tyson yoshi)",
+      "album_type": "single",
+      "release_date": "2019-11-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dceea19c0c890e3882ddb20",
+      "uri": "spotify:album:60km7JojwtwZ4uxyjQNZIm",
+      "name": "我不是饒舌歌手",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0d9c196d7d560e947203c76",
+      "uri": "spotify:album:6GVUVyOJSm66B5gdFlK8OT",
+      "name": "陪你失敗 (feat. 寺二)",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XBG26mgvzGqT09eopG4d9",
+          "name": "marz23"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:15.000Z"
+}

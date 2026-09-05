@@ -1,0 +1,1836 @@
+{
+  "name": "william black",
+  "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+  "uri": "spotify:artist:7d5SfGXKpgS3JK8BFIq59h",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebf8ea4df82da2c0112ab6ef76",
+  "genres": [
+    "melodic bass",
+    "future bass",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9848467998f460a6da15e01",
+      "uri": "spotify:album:6uUmp5LDUJ1BV8ZEa7yV35",
+      "name": "flutters",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "7u3oRlaehXDcEJBMKjoe51",
+          "name": "audra miller"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c8c06b79122b6700bbb6414",
+      "uri": "spotify:album:1NHoBUiHVoOE38FV7pU16P",
+      "name": "the shadow realm (remixes)",
+      "album_type": "album",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce79f215240255e80bc9f20e",
+      "uri": "spotify:album:4BXn8TL9uIihNIFUnvEmZN",
+      "name": "can't be alone (without you) (feat. rosie darling) (home by dawn remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6g747HiZMhVxVcQS1t8LI4",
+          "name": "home by dawn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d700e5d03ac63f22e572c31d",
+      "uri": "spotify:album:5Tx21aeluFeBPXdmOPJ0WH",
+      "name": "empty space (feat. baby blue) (bumpÿ remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "7lw0xI8tV0PadI2OatBuG9",
+          "name": "bumpÿ"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b1b6d8d96fb8d326e51f13c3",
+      "uri": "spotify:album:2rY39i2TqUGDva5cwzIjsI",
+      "name": "empty space (feat. baby blue) (st. mary remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "053q2D9p8VzxaIzwGZhCUM",
+          "name": "st. mary"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba1b3a078c2f3ad50dfc70d9",
+      "uri": "spotify:album:3dvUWEwAXDxgqKXVLa50s8",
+      "name": "find me in the dark (feat. baby blue) (acyan remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "0o70ZPcBroPuIcUOOLWDI4",
+          "name": "acyan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b92274cb5f411be530cbfaa9",
+      "uri": "spotify:album:01N8ZIK1JVVmpnLz7PUDNi",
+      "name": "goodbye (sportmode remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "4YUE2tJ9FiSdHrlyiRnxQN",
+          "name": "mgrd"
+        },
+        {
+          "spotify_id": "1kp5El0IY8pR8AGgVtgFhK",
+          "name": "sportmode"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a78316a60fb55ba2fa83e6a8",
+      "uri": "spotify:album:1Ki7jlpf2t8usBiWEefwt2",
+      "name": "let me go (bafu remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        },
+        {
+          "spotify_id": "4L0It80jhQQKMTU2r02nkL",
+          "name": "no/me"
+        },
+        {
+          "spotify_id": "7noh40d76QRMnTPGW2VvO6",
+          "name": "bafu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c087aab387a99dc27603ce3e",
+      "uri": "spotify:album:2YCnzOQq7PSW2GJjzwmXHK",
+      "name": "monster (feat. baby blue) (reaper remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "24kY0bUku58QhWv5WFFXaf",
+          "name": "reaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dd7e7944a392d96a1477b6d1",
+      "uri": "spotify:album:5NRigKyZdebxBz5huQXzHG",
+      "name": "nightmare (doil remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        },
+        {
+          "spotify_id": "1avxJxeDVDFiIs54JSk1aD",
+          "name": "doil"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b2b398807fa4a47281a5b6e5",
+      "uri": "spotify:album:5seJyLCP1PJyK8RL9DGJuL",
+      "name": "run (ryn remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "5WGU9uL2Z3jtOwIJEwMh2L",
+          "name": "ryn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736859f91c4735f5410e37c454",
+      "uri": "spotify:album:7u45g3k7fu80ooYGhnZJHn",
+      "name": "save me (abandoned remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "1qs72LBhNBAQGwxFAnlo0x",
+          "name": "abandoned"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273920c32b1871675a7e83b3ee8",
+      "uri": "spotify:album:4VEQopGf7uzzntUUM2LdEd",
+      "name": "save me (too biased remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "5VGAt0ZerQ6qjF4eWDDwui",
+          "name": "too biased"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a187e663dc30bd6ae2197ca",
+      "uri": "spotify:album:0f125ZIOXlAnCOZnMyeJQY",
+      "name": "too good to be true (feat. trella) (last heroes remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        },
+        {
+          "spotify_id": "3HHfEn7yPOy3IiHS6CHG97",
+          "name": "last heroes"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d7198ab875452cc483d82e10",
+      "uri": "spotify:album:3WWCjp5snPSAt6r46Jr9cO",
+      "name": "unlove u (star seed remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "5xR2U3IJuuJP89isSMnxtd",
+          "name": "star seed"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358977396b7185d962f39b917",
+      "uri": "spotify:album:2aEv3Ro5mk9lRW80E0Qbnc",
+      "name": "waiting on this day forever (eternal remix)",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "5AezLZZAw28r0FhLbbL1b2",
+          "name": "siberia"
+        },
+        {
+          "spotify_id": "78zIVRdVKJ8tl8TTtsC3Ke",
+          "name": "freja the dragon"
+        },
+        {
+          "spotify_id": "2QWz3LR07ojF3Dw3JAClOE",
+          "name": "eternal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ea63264ff3f77ace869645d",
+      "uri": "spotify:album:2wcXGuNBH6afGaUaEV2bTU",
+      "name": "mirage",
+      "album_type": "single",
+      "release_date": "2026-05-01",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6CCTvLyIHqUhY6VQizt150",
+          "name": "jason ross"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "1X2sRzO3K7Uvry9JWbG2iO",
+          "name": "oaks"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbae3c96888a3d743b1f1cf2",
+      "uri": "spotify:album:22UdzaKFPyadSbLclM86cJ",
+      "name": "back to u (acoustic)",
+      "album_type": "single",
+      "release_date": "2025-12-19",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731458d9b7cdcc789dc68da11b",
+      "uri": "spotify:album:6APpd11qDPfXsVAWoEL2Or",
+      "name": "the shadow realm",
+      "album_type": "album",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c6f908237fd452ad267a9e91",
+      "uri": "spotify:album:2QTDpgaVDssnhaf5v0g7Uw",
+      "name": "empty space (without you pt.2)",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6DdWFOHTfxcBOLTHMrKpAN",
+          "name": "baby blue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a4b3e5583e7ca61b6f40039",
+      "uri": "spotify:album:29KyScAE0wTMhuR9YQBRIu",
+      "name": "let me go",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        },
+        {
+          "spotify_id": "4L0It80jhQQKMTU2r02nkL",
+          "name": "no/me"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d6ae0ca209f52f88acef7019",
+      "uri": "spotify:album:3afg8FqjwFMl2JFKN3cdV3",
+      "name": "too good to be true (feat. trella)",
+      "album_type": "single",
+      "release_date": "2025-11-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c12473f57a24c5f336bbc5d",
+      "uri": "spotify:album:0vf786GQAdrGGHxbw4ohZg",
+      "name": "goodbye",
+      "album_type": "single",
+      "release_date": "2025-09-26",
+      "release_year": "2025",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        },
+        {
+          "spotify_id": "4YUE2tJ9FiSdHrlyiRnxQN",
+          "name": "mgrd"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5a519e99ce20195579e858f",
+      "uri": "spotify:album:6IMTzt0m9cTMn97VD8QIFX",
+      "name": "monster",
+      "album_type": "single",
+      "release_date": "2025-08-15",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6DdWFOHTfxcBOLTHMrKpAN",
+          "name": "baby blue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f05628a0c8b91ad14cbf4393",
+      "uri": "spotify:album:4DxsVIzj7Fo52tiMngJkxO",
+      "name": "nightmare",
+      "album_type": "single",
+      "release_date": "2025-06-13",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273286488747857b36ee0db4a9a",
+      "uri": "spotify:album:0prOosQFge1HKryicdbaZ1",
+      "name": "waiting on this day forever",
+      "album_type": "single",
+      "release_date": "2025-05-09",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "5AezLZZAw28r0FhLbbL1b2",
+          "name": "siberia"
+        },
+        {
+          "spotify_id": "78zIVRdVKJ8tl8TTtsC3Ke",
+          "name": "freja the dragon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2722b0b141edb8965952f65",
+      "uri": "spotify:album:45pxPQmVRnzeOfgLKZMSPH",
+      "name": "save me",
+      "album_type": "single",
+      "release_date": "2025-03-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "48hiuLYhfSj1EYOrZPAuje",
+          "name": "kate morgan"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735c16de57439ed86ac49814ff",
+      "uri": "spotify:album:2epDNme9aR6mueN6NQ9Mhx",
+      "name": "wish i could forget (william black remix)",
+      "album_type": "single",
+      "release_date": "2025-01-24",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a9d11e355728fbff0e56ebe7",
+      "uri": "spotify:album:7zyN9IgD0cq7IqQbx2MZb2",
+      "name": "different shit",
+      "album_type": "single",
+      "release_date": "2024-12-13",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e085c604e9e3b869ff67b06",
+      "uri": "spotify:album:4FOfIstLTkuZLYc3AJCaG1",
+      "name": "the nature of hope remixes",
+      "album_type": "album",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e36a77567d2fabc00ed5d5f1",
+      "uri": "spotify:album:6B7vqLfRLHzRR84AwGpLvd",
+      "name": "collide",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "7didXxc5oXHa2VLDXPxNag",
+          "name": "jazara"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735b8421649d5b559764a7c7d4",
+      "uri": "spotify:album:64LfdYdDEcDICo3wjUDAlp",
+      "name": "all falls down",
+      "album_type": "single",
+      "release_date": "2024-08-30",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27333a26089752295664c5ea69a",
+      "uri": "spotify:album:1G72BOFuFqlonKRSvzxHyK",
+      "name": "keep u warm (ft. jordan shaw)",
+      "album_type": "single",
+      "release_date": "2024-04-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6Z8vLeI1ZMj2kzTNWVOBXr",
+          "name": "jordan shaw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cabef12eb73c9515024f0b3",
+      "uri": "spotify:album:06lxDpivRf6gtBBFLTlAUp",
+      "name": "stay",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6N7etQK8kFwtD0Kch6FVvf",
+          "name": "afinity"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733c62732ad0594301fdd03d71",
+      "uri": "spotify:album:64ZcjP0jb06XnpDf3VxXwm",
+      "name": "the nature of hope",
+      "album_type": "album",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734fe5df065425ea761287e43d",
+      "uri": "spotify:album:38RdF3YX7jMghQqhjAvXi4",
+      "name": "my own advice",
+      "album_type": "single",
+      "release_date": "2023-10-13",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "45eNHdiiabvmbp4erw26rg",
+          "name": "illenium"
+        },
+        {
+          "spotify_id": "4TPT9nwjRvEV49q7f8p4fy",
+          "name": "alana springsteen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739180f2f0b2f8813c1799514e",
+      "uri": "spotify:album:4dno18wmZxZldvHiApenIa",
+      "name": "lie",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731766c217dd70118fdd6da2bf",
+      "uri": "spotify:album:4tFVMKFJs5PXf4Nk01Yrmn",
+      "name": "in the cold",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3lPtB78D5puSWQ7ltAafQw",
+          "name": "james droll"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738a01844da60a2b848c56c54f",
+      "uri": "spotify:album:0MaD5lTQ32Np46N7qTmR4f",
+      "name": "beautiful nothing",
+      "album_type": "single",
+      "release_date": "2023-07-14",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        },
+        {
+          "spotify_id": "2pQzh5cuuqpDErGZNaOULd",
+          "name": "gavn!"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733085bb9a6febb0e570bf3bb2",
+      "uri": "spotify:album:4e2QxrBv9chCtzQRIWCzN8",
+      "name": "last forever",
+      "album_type": "single",
+      "release_date": "2023-06-09",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6Z8vLeI1ZMj2kzTNWVOBXr",
+          "name": "jordan shaw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a16fbe735e1a04e6e53972b5",
+      "uri": "spotify:album:4BNrohSLaSA4ifKPJyzUts",
+      "name": "would you even know",
+      "album_type": "single",
+      "release_date": "2023-05-26",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "audien"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6fbIkBK4DW2IPnlKk9MLWS",
+          "name": "tia tia"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d71775622b39147b8f802f03",
+      "uri": "spotify:album:3r3rcik5DCG8NgULSco5bX",
+      "name": "on my own - reaper remix",
+      "album_type": "single",
+      "release_date": "2022-12-16",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "24kY0bUku58QhWv5WFFXaf",
+          "name": "reaper"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a87aa54f26f7561c95f9b3c",
+      "uri": "spotify:album:6sbh8lCL3pBkNYpx05qFTZ",
+      "name": "you're not alone",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "0zPDD8eFOxihKPKPI0uZEz",
+          "name": "cinema kid"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f517fc59d5f17fbd85d5e73c",
+      "uri": "spotify:album:6MlwwEzsLHkt4cfzQDfMpO",
+      "name": "on my own",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6nKQmcReKxJx1vUt9g25j6",
+          "name": "saywecanfly"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f099411a7b46df64ebd720c",
+      "uri": "spotify:album:1U4UkhcMbsrTv3XjajyNOV",
+      "name": "ready (ray volpe remix)",
+      "album_type": "single",
+      "release_date": "2022-07-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "dabin"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "2K9qsrYnsu1EWt7ZQkkuXb",
+          "name": "ray volpe"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b61ab9ad035c11f1fae3fead",
+      "uri": "spotify:album:4eMWDhANOqrYZVw8hO9pNh",
+      "name": "pieces (remixes)",
+      "album_type": "album",
+      "release_date": "2022-07-01",
+      "release_year": "2022",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736634a8e0479c3365542c5866",
+      "uri": "spotify:album:4tyu7bnUQQE3zgnGOOAzOW",
+      "name": "haven (gammer remix)",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3ppkM4QtM781APpaX7H9t7",
+          "name": "dia frampton"
+        },
+        {
+          "spotify_id": "5nd7jnne7zbsV2J5jBKNOY",
+          "name": "gammer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7b6035d5a281950528246bf",
+      "uri": "spotify:album:2OrEvZTNIChKz6LQlXEZ3G",
+      "name": "only one i need",
+      "album_type": "single",
+      "release_date": "2022-03-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cdb2cee23c4d93c44514d288",
+      "uri": "spotify:album:07QJ6nCnRk7lOswVgLAE2r",
+      "name": "broken - vip",
+      "album_type": "single",
+      "release_date": "2022-02-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734cae64780023f5d32c303c0b",
+      "uri": "spotify:album:2Mzaihfp9i7m6UO5HSRtHb",
+      "name": "pieces",
+      "album_type": "album",
+      "release_date": "2021-11-05",
+      "release_year": "2021",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fc64f4c2194bb5e85261164c",
+      "uri": "spotify:album:7ghIKFtH1hzdB3dLXgRcOf",
+      "name": "broken",
+      "album_type": "single",
+      "release_date": "2021-09-17",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308342ad5f5f4e3e134c73a9b",
+      "uri": "spotify:album:1FUaAK23gwHBdJ5dsSLdiL",
+      "name": "shadow",
+      "album_type": "single",
+      "release_date": "2021-08-06",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "2VWRwW6HEugI8FWTDv9exG",
+          "name": "skeez"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733fe45136816fecebae29eb57",
+      "uri": "spotify:album:6xs2a1obuebXACO3IDc55C",
+      "name": "remedy remixes",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de0568517ad3b8699925a871",
+      "uri": "spotify:album:2XdpVHuASuS8tusg7qpbvS",
+      "name": "only one i need",
+      "album_type": "single",
+      "release_date": "2021-06-11",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "1sKIizVYeHkGy7Tjmn9QRj",
+          "name": "haliene"
+        },
+        {
+          "spotify_id": "5tIz2pifqzGGWEDKOrrmoE",
+          "name": "thomas laurent"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ab945f776c32d2cef0644556",
+      "uri": "spotify:album:7HoJUJ98AOWoqDifxxZO4f",
+      "name": "remedy",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3b6d31ce1c45e2e1af22032",
+      "uri": "spotify:album:0pAk7Nh1tcS4NvdkDHmbtG",
+      "name": "deep end (cloudnone remix)",
+      "album_type": "single",
+      "release_date": "2021-04-09",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27353f0e5f27672cedbeea815c7",
+      "uri": "spotify:album:0ihdLjQ6b9QzmrfA9tbkZX",
+      "name": "deep end",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273957c316f4a2fdb0fee303268",
+      "uri": "spotify:album:6TcSd0dM3kXzNE9XtazBjI",
+      "name": "butterflies acoustic",
+      "album_type": "single",
+      "release_date": "2021-02-12",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381dfacac5add6e073a5d6941",
+      "uri": "spotify:album:5IGbVBz7v9f90qWXxe1LJ6",
+      "name": "closer than you (remixes)",
+      "album_type": "single",
+      "release_date": "2021-01-08",
+      "release_year": "2021",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b880f12076b0eba79eb7ee92",
+      "uri": "spotify:album:32q03z1Ex52fOjVn31aMs1",
+      "name": "back to u (remixes)",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ab778625094d57ed6de0b7a",
+      "uri": "spotify:album:30uFv44hmEKmf91yabK0cU",
+      "name": "back to u (control freak remix)",
+      "album_type": "single",
+      "release_date": "2020-12-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "0ouxenSvuyyfflbOirMy19",
+          "name": "control freak"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c18ec940467ecbeb184ddb4e",
+      "uri": "spotify:album:0qqCC84kBtkvN3FCYMgaVg",
+      "name": "back to u (fairlane remix)",
+      "album_type": "single",
+      "release_date": "2020-12-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391a2b24eb1098812a9d170b5",
+      "uri": "spotify:album:0wzFfCgkhUXaoAxj5qOBkY",
+      "name": "back to u (matrix & futurebound remix)",
+      "album_type": "single",
+      "release_date": "2020-12-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "41iVQ05he8SrfIWbZQ58N7",
+          "name": "matrix & futurebound"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eec020705c9de83739f2b75b",
+      "uri": "spotify:album:7637nL7aRD1fZcu5IOtq04",
+      "name": "back to u (mazare remix)",
+      "album_type": "single",
+      "release_date": "2020-12-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "4yzZdtb9UicgY2M23eEtL9",
+          "name": "mazare"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273763b3cef45baeff89272586b",
+      "uri": "spotify:album:5lu2U7sORKCZiJqvj8yTNg",
+      "name": "back to u (topi remix)",
+      "album_type": "single",
+      "release_date": "2020-12-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6WP0h3qR0awvIWPMvE72F8",
+          "name": "topi"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730bbbd39484df16fb98c7cea2",
+      "uri": "spotify:album:1PQ6YhtbVeWIlWw6vbmUnj",
+      "name": "closer than you",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273363965191dc3f933acea909b",
+      "uri": "spotify:album:1NTbAtJXFPApsdWfhIvJ4Q",
+      "name": "butterflies remixes",
+      "album_type": "single",
+      "release_date": "2020-08-07",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fa71235dad0dd361d861daa6",
+      "uri": "spotify:album:7jKKNjFSpqYkJibB9dzljd",
+      "name": "butterflies synchronice remix",
+      "album_type": "single",
+      "release_date": "2020-08-03",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df34234cbad3fca10cda133e",
+      "uri": "spotify:album:0hKOffv9vWtya3CkEXrVhO",
+      "name": "back to u",
+      "album_type": "single",
+      "release_date": "2020-04-24",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ff7bffeee8cc5098ed7c4b01",
+      "uri": "spotify:album:5Ru6DMKlZ5p7oS5EidhsSf",
+      "name": "potions (william black remix)",
+      "album_type": "single",
+      "release_date": "2020-04-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "slander"
+        },
+        {
+          "spotify_id": "4LZ4De2MoO3lP6QaNCfvcu",
+          "name": "said the sky"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736390a3d7ce84ff661eeee6ab",
+      "uri": "spotify:album:0MA24Cu5boP9OZFMck9sJg",
+      "name": "take me snavs remix",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "02tNJ4ZTGXThzSA5A9QREM",
+          "name": "matte"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dee097794b34db0cb632669",
+      "uri": "spotify:album:6ZEOvlvcojU1AWhb35I11T",
+      "name": "pages (the remixes)",
+      "album_type": "album",
+      "release_date": "2020-02-20",
+      "release_year": "2020",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c8efcb69d449f7c29c722b4c",
+      "uri": "spotify:album:443j0dvN3p665BQD9OOQnR",
+      "name": "butterflies",
+      "album_type": "single",
+      "release_date": "2020-02-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "fairlane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fbde569930c22ff5cf4c055",
+      "uri": "spotify:album:3p7BhFUglNoZmHdbCE4eXA",
+      "name": "nothing left (feat. runn)",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Uyqa2sdHm1bL5JK4IC4zc",
+          "name": "wooli"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380ebce41193dc3cdde3f0881",
+      "uri": "spotify:album:1Odo1jOh1HUl7g0fcz5baw",
+      "name": "pages",
+      "album_type": "album",
+      "release_date": "2019-08-22",
+      "release_year": "2019",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328645d37cc1e105b9c01eca2",
+      "uri": "spotify:album:1w5VI649kiFOcpL0xrpvh0",
+      "name": "drown the sky",
+      "album_type": "single",
+      "release_date": "2019-08-14",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27376b40ad3bfb54ac3c42746c1",
+      "uri": "spotify:album:1zoCJAQjT7TafFMGekuYHb",
+      "name": "ruins",
+      "album_type": "single",
+      "release_date": "2019-06-19",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "4i8u1FZVapjZBcCyyrAnU3",
+          "name": "micah martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da587114fef32c39838dcae9",
+      "uri": "spotify:album:4dtiE6LJBc9O7SuIUid06i",
+      "name": "back together",
+      "album_type": "single",
+      "release_date": "2019-04-29",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273270c97ef47d48a6fc9f2546b",
+      "uri": "spotify:album:5bB6cyK7tmWsJJIuJW0LVa",
+      "name": "universe",
+      "album_type": "single",
+      "release_date": "2018-11-19",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304d965bb6d7c1e61f23a0d1c",
+      "uri": "spotify:album:4JtM18wPH6ufsD2Y0jTXKx",
+      "name": "take me",
+      "album_type": "single",
+      "release_date": "2018-07-27",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "02tNJ4ZTGXThzSA5A9QREM",
+          "name": "matte"
+        },
+        {
+          "spotify_id": "3l0H4QNiYYNdIsnZ4JgJAg",
+          "name": "runn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273240b5b11b790c3adb70e7fbf",
+      "uri": "spotify:album:3MVVCwwRA08xhvIIMNx9rW",
+      "name": "hallucinate",
+      "album_type": "single",
+      "release_date": "2018-07-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730788026013857c16f5e285bd",
+      "uri": "spotify:album:11m2lXYbRAoqZJrPU0hjJR",
+      "name": "here at last (remixes)",
+      "album_type": "single",
+      "release_date": "2018-06-21",
+      "release_year": "2018",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6F4KRaTnwZ3ttUYpdo45C8",
+          "name": "rico & miella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e856665e770ac71d9377148",
+      "uri": "spotify:album:6eNw2odn44HZxPp7jCgEvn",
+      "name": "daydreamer egzod remix",
+      "album_type": "single",
+      "release_date": "2018-06-07",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6F4KRaTnwZ3ttUYpdo45C8",
+          "name": "rico & miella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273085cdf2d1f4e8f51c9bf19f9",
+      "uri": "spotify:album:6hrdQ1dCSLHtu7KW38IH4f",
+      "name": "i wish (remixes)",
+      "album_type": "single",
+      "release_date": "2018-04-30",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ded5f7b1c435d116eaf09fc",
+      "uri": "spotify:album:01ULdlCKSdorbslu8Uj7Kv",
+      "name": "daydreamer",
+      "album_type": "single",
+      "release_date": "2018-02-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "685c4a84PTRlygc8EUE7tV",
+          "name": "amidy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388d7391f679741a57555fbb4",
+      "uri": "spotify:album:4GC8Kachga0ie0x0Si0Fqb",
+      "name": "here at last",
+      "album_type": "single",
+      "release_date": "2017-12-28",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        },
+        {
+          "spotify_id": "6F4KRaTnwZ3ttUYpdo45C8",
+          "name": "rico & miella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c64565d4534bf7c23feaf12",
+      "uri": "spotify:album:5GTPxeQnZnFdV3xMPXPomI",
+      "name": "i wish (feat. skylr)",
+      "album_type": "single",
+      "release_date": "2017-11-06",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d16a0d757d5f5814c728ebeb",
+      "uri": "spotify:album:6StMymbf0x9N61cXOUph51",
+      "name": "letting go",
+      "album_type": "single",
+      "release_date": "2017-09-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aaac6ecb19b956a49be2dc85",
+      "uri": "spotify:album:2giLJ3Z3GFsOwYCaSoxMee",
+      "name": "not fair",
+      "album_type": "single",
+      "release_date": "2017-05-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0tqCXWVRTvS1rQl4diCNCh",
+          "name": "iyffe"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350fdba34491a1b3fbab6752a",
+      "uri": "spotify:album:5wZkWK4QbwkZD6juXGT0eI",
+      "name": "senses (william black remix)",
+      "album_type": "single",
+      "release_date": "2016-09-06",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "23ostNBoB9z6GMXLtHdg7y",
+          "name": "prismo"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dec566f4939506a143017dca",
+      "uri": "spotify:album:6KYB4SgnqMSJsitdX4GDgA",
+      "name": "restart (william black remix)",
+      "album_type": "single",
+      "release_date": "2016-06-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4ngwbMFTQKrLkLfREBYrvW",
+          "name": "khomha"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f698c3419188bcafe02c7e91",
+      "uri": "spotify:album:18aYrliDpE471EehAEkKVk",
+      "name": "fallen (william black remix)",
+      "album_type": "single",
+      "release_date": "2016-04-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0P2bZXPyjHYRW4guHVAFl1",
+          "name": "armnhmr"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bc3420c02c535da864fdf5c",
+      "uri": "spotify:album:3Os5zZtw01oZ7ahVQ9k4Zz",
+      "name": "fallen (feat. desiree dawson) (william black remix)",
+      "album_type": "single",
+      "release_date": "2016-04-17",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0P2bZXPyjHYRW4guHVAFl1",
+          "name": "armnhmr"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737211d9a27846cfde54e5ee94",
+      "uri": "spotify:album:5l5o2ZO4FzSZqIjgZelnKP",
+      "name": "my kingdom (william black remix)",
+      "album_type": "single",
+      "release_date": "2016-02-12",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "4EpMlYG5BnLKrzMQ56SD6r",
+          "name": "evangeline"
+        },
+        {
+          "spotify_id": "7d5SfGXKpgS3JK8BFIq59h",
+          "name": "william black"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:35:27.000Z"
+}

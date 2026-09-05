@@ -1,0 +1,430 @@
+{
+  "name": "melosense",
+  "spotify_id": "0mGQfVACilxbziAemzyhq9",
+  "uri": "spotify:artist:0mGQfVACilxbziAemzyhq9",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b2732e738d5d6448d03e1c7cebd3",
+  "genres": [
+    "melodic house"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736f87eace42bdc4eb5634d7e7",
+      "uri": "spotify:album:4Ijrsz7RqgUTYRO5paWoRx",
+      "name": "mystic lands",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c80c23cde024ce57754467a9",
+      "uri": "spotify:album:0CGobArKakGmfbhxiM7d9E",
+      "name": "reflections",
+      "album_type": "single",
+      "release_date": "2024-08-23",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273adddeaabe26efd4126d4da76",
+      "uri": "spotify:album:02PReiCde9bq2EDBwhq0Fe",
+      "name": "nous",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27320d145829f57f8d84c2afc97",
+      "uri": "spotify:album:3rCWjTF0iDCBooTonSNkM5",
+      "name": "can't replace you",
+      "album_type": "single",
+      "release_date": "2022-09-30",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d422f10b4e710a68afa5aa9f",
+      "uri": "spotify:album:2o5xtKA1TB3gF36gmxI2gK",
+      "name": "story to remember",
+      "album_type": "single",
+      "release_date": "2022-02-04",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b10982da2b5f4c8916a607c1",
+      "uri": "spotify:album:3l8mdyJUJj34PSU0vFkOoh",
+      "name": "lost in gruvv",
+      "album_type": "single",
+      "release_date": "2021-07-30",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305f26c485b198f12ecc62a78",
+      "uri": "spotify:album:0RZX12hVTys4rEwF9JAlGT",
+      "name": "explore",
+      "album_type": "single",
+      "release_date": "2020-12-09",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d8f8f9326a67c083034df8d5",
+      "uri": "spotify:album:0PV2gh8DCBL2vtGpV0n5iJ",
+      "name": "nostalgia",
+      "album_type": "single",
+      "release_date": "2019-12-11",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27325b9182e82f93fc1ee7369e3",
+      "uri": "spotify:album:1QJCcfH8yBDQmWR1GvrgOh",
+      "name": "greece 2000 (sebastian davidson & melosense remix)",
+      "album_type": "single",
+      "release_date": "2018-05-25",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "10feV0eOe64kjUc95Lnfuv",
+          "name": "three drives on a vinyl"
+        },
+        {
+          "spotify_id": "1uO4ut3M0hYeCfEEUdFnEp",
+          "name": "sebastian davidson"
+        },
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cfd379ac902d4a44179a02e",
+      "uri": "spotify:album:7jl6CXmUsAKLYQ7n5Kldsx",
+      "name": "sing4u",
+      "album_type": "single",
+      "release_date": "2018-04-18",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307a52b082558225e338e0beb",
+      "uri": "spotify:album:56oQlzLxgrIn9DaSbaqwtN",
+      "name": "lovebreak",
+      "album_type": "single",
+      "release_date": "2018-02-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb2d1522dd1ad614e008a199",
+      "uri": "spotify:album:4OfZMe68ViqcQguGMwBxBJ",
+      "name": "leave u here",
+      "album_type": "single",
+      "release_date": "2017-12-13",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1uO4ut3M0hYeCfEEUdFnEp",
+          "name": "sebastian davidson"
+        },
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a9abccf4dc6e94b5f9fe2ba",
+      "uri": "spotify:album:1sk847sHtLkddwEJWZg19T",
+      "name": "almost home (melosense remix)",
+      "album_type": "single",
+      "release_date": "2017-11-24",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "14Tg9FvbNismPR1PJHxRau",
+          "name": "sultan + shepard"
+        },
+        {
+          "spotify_id": "1C60viSZv6BoYtrnkZ44g5",
+          "name": "nadia ali"
+        },
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738be2f202cba61319aef6dac6",
+      "uri": "spotify:album:28f3lt9iRYGJyJ2VIZb3JU",
+      "name": "in love",
+      "album_type": "single",
+      "release_date": "2017-08-09",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273801b5aaafd608df8bf6e984b",
+      "uri": "spotify:album:02jcLTSTqbVvxvlmktQeVU",
+      "name": "home without you",
+      "album_type": "single",
+      "release_date": "2017-07-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        },
+        {
+          "spotify_id": "5RSEHfdP7OyTzuJkw46XmO",
+          "name": "louise rademakers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739cddcb233232f20214bbc706",
+      "uri": "spotify:album:50agt2jwUgn8TQ9BDyKcvJ",
+      "name": "adventure",
+      "album_type": "single",
+      "release_date": "2017-05-31",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f2ee6d40b83ecd791ed158d5",
+      "uri": "spotify:album:4pczezUlRRikJ39YRt1SHu",
+      "name": "away from here",
+      "album_type": "single",
+      "release_date": "2016-12-07",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b0440814bf6ebd703035918",
+      "uri": "spotify:album:70ILjr9MeyH1BsixATTC8K",
+      "name": "smooth feelings",
+      "album_type": "single",
+      "release_date": "2016-10-31",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5jszBjgaX2mY7NWAFNiFcB",
+          "name": "tom strobe"
+        },
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273764b315bae6124b546a84405",
+      "uri": "spotify:album:12NHn5Y54ykNvSvwFrwV24",
+      "name": "moments",
+      "album_type": "single",
+      "release_date": "2016-08-10",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cada9f4409c87d27174c3e93",
+      "uri": "spotify:album:5gX7XF7FyPbM2f09dsnrmA",
+      "name": "polarization",
+      "album_type": "single",
+      "release_date": "2016-07-20",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e658fbf66ed3c06ebd6f7b5a",
+      "uri": "spotify:album:41RncdoLzWmK2GwtjbOLez",
+      "name": "lines",
+      "album_type": "single",
+      "release_date": "2015-08-19",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346af95609183c846d72b0075",
+      "uri": "spotify:album:0cgsBfZeWpPtOlLkkq7HmO",
+      "name": "beautiful days",
+      "album_type": "album",
+      "release_date": "2015-06-01",
+      "release_year": "2015",
+      "total_tracks": 7,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0b067c2a0a2e8ddfa0281f2",
+      "uri": "spotify:album:3gkuIgE7dlxWisRhkhEOnS",
+      "name": "sokin",
+      "album_type": "single",
+      "release_date": "2015-05-13",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346383f2d13807129f896fe7a",
+      "uri": "spotify:album:7AyJNT6fKxxC5cAtYnGDMZ",
+      "name": "just a dream",
+      "album_type": "single",
+      "release_date": "2014-12-08",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b415a1dedb7cde545f21bde",
+      "uri": "spotify:album:4kYYZMZ3ytcqSVLq4ZN40A",
+      "name": "connected",
+      "album_type": "single",
+      "release_date": "2014-11-17",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e1605929fec53d7ee103f325",
+      "uri": "spotify:album:6Y57qwTOX3RySZQohgOKeC",
+      "name": "road & lights",
+      "album_type": "single",
+      "release_date": "2014-09-08",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0mGQfVACilxbziAemzyhq9",
+          "name": "melosense"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:58.000Z"
+}

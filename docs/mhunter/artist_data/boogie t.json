@@ -1,0 +1,796 @@
+{
+  "name": "boogie t",
+  "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+  "uri": "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb830745c7b90cace9c0d6c1e1",
+  "genres": [
+    "dubstep",
+    "riddim",
+    "bass music",
+    "edm",
+    "dub"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7b9d4e3010f526912bc64f4",
+      "uri": "spotify:album:075hlYPm9s84m8NfnVsn1i",
+      "name": "zero g (boogie t remix)",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27351a0ec98047365d567f61b8c",
+      "uri": "spotify:album:4raJUi9xkpIbuWdC46lBnX",
+      "name": "steppin",
+      "album_type": "single",
+      "release_date": "2026-06-26",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "6SJnjpekgnONgNtxKeMP8m",
+          "name": "dodge & fuski"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397f6ee55f013d4ddefa388cd",
+      "uri": "spotify:album:2JE1ovKWUdlgRaZL7tFZVA",
+      "name": "walk with giants ep",
+      "album_type": "single",
+      "release_date": "2026-03-20",
+      "release_year": "2026",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735dfdba003622e4e4239d751c",
+      "uri": "spotify:album:07okM9wWAQXXUGO0qsBUMf",
+      "name": "lotis eater",
+      "album_type": "single",
+      "release_date": "2026-02-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733314e24e1735f2417af38cc3",
+      "uri": "spotify:album:6mFrh4hDsOxPeRx009uF4v",
+      "name": "stepbrostep ep",
+      "album_type": "single",
+      "release_date": "2025-09-03",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "5JJclMMPi2YgEKjJY9AjbB",
+          "name": "mr. bill"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366f07157a208faec4240d328",
+      "uri": "spotify:album:3D6pv15SokDYFc6fvckcch",
+      "name": "whatuwant ep",
+      "album_type": "single",
+      "release_date": "2025-07-23",
+      "release_year": "2025",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "4a32m0kHbxZm3V7jHpW60g",
+          "name": "ill.gates"
+        },
+        {
+          "spotify_id": "6NHme6CBYENK4elm42Z3u3",
+          "name": "genghis john"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731460c4473506dee4b92e04b2",
+      "uri": "spotify:album:0uFYgbh1VmOnsy2wKEYG33",
+      "name": "psych remix ep",
+      "album_type": "single",
+      "release_date": "2025-07-02",
+      "release_year": "2025",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "3mEgLhTVxuUG4n1ezLNY5l",
+          "name": "izzy vadim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b66087735c19d25911390a8c",
+      "uri": "spotify:album:4uB1b1dTQIq5YaGmTxfM9h",
+      "name": "noise complaint",
+      "album_type": "single",
+      "release_date": "2025-06-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "1vOTVnnyLvVTeuwrZLghCN",
+          "name": "cyclops"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381e1f5c5a585ccd6b4a6b1fb",
+      "uri": "spotify:album:2op3Cz33O4FZ0iFKnvwOzH",
+      "name": "psych",
+      "album_type": "single",
+      "release_date": "2025-03-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "3mEgLhTVxuUG4n1ezLNY5l",
+          "name": "izzy vadim"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738091d731a195dd22c8045b43",
+      "uri": "spotify:album:2NmFcUFhHL2psXynCfVV96",
+      "name": "original sin",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273031654e4e72b613fd8ff9873",
+      "uri": "spotify:album:0SUVXcOng0R5aixhVnoC3h",
+      "name": "choppa",
+      "album_type": "single",
+      "release_date": "2024-12-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "2UFoFFh9ayxK6EvW4tZcH3",
+          "name": "skellytn"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735bdc8513941de66b3124fb78",
+      "uri": "spotify:album:7y7JKNbnce6TEJpSRFUW30",
+      "name": "burnin",
+      "album_type": "single",
+      "release_date": "2024-11-08",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27368ce06ba6842fb6b8a5a10b8",
+      "uri": "spotify:album:6GgVFimVPQwycH7VTdtM5B",
+      "name": "on the rocks",
+      "album_type": "single",
+      "release_date": "2024-03-22",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a0687e00670eb1c16d602f5",
+      "uri": "spotify:album:5niK10Dhrs2bp6u6ovz9rO",
+      "name": "encore",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324fa0f1e7237db1b06e3954a",
+      "uri": "spotify:album:2IYd25I6fhhQfckZpMEmGA",
+      "name": "live from spring adventure",
+      "album_type": "album",
+      "release_date": "2023-09-20",
+      "release_year": "2023",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "58ZUWJrQzFq9w0Yo5meqEg",
+          "name": "boogie t.rio"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273135ca34b12d4dafd482b43fc",
+      "uri": "spotify:album:4zCDRA2KaDa8UdX8GgeOil",
+      "name": "the archives",
+      "album_type": "single",
+      "release_date": "2023-06-28",
+      "release_year": "2023",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dc77043bef9eb6ca89a51ce",
+      "uri": "spotify:album:5scHOcSLLvYjToGyy0Mpw0",
+      "name": "clarity",
+      "album_type": "single",
+      "release_date": "2023-04-28",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307b09e99f56287c24212e64d",
+      "uri": "spotify:album:2J8LYFJQUoOOGx771kZBew",
+      "name": "smokin' dat spliff",
+      "album_type": "single",
+      "release_date": "2023-03-29",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9fdc9fda0caa228581383bc",
+      "uri": "spotify:album:4slgZsW53ofVqDllnhjcBu",
+      "name": "joint force 2 ep",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b1ab916690c36a8d4091bc0",
+      "uri": "spotify:album:3RH3p20romGgGgkp4G18Bo",
+      "name": "silver",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bec36cd7d61460e47b675ce",
+      "uri": "spotify:album:0hQ0OgU0d2ZB4NokFKoU4o",
+      "name": "get down the clown",
+      "album_type": "single",
+      "release_date": "2021-09-10",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334e41f5825f3637f4af56127",
+      "uri": "spotify:album:0X987YDtllhcLHYLRFizsZ",
+      "name": "mouth orchestra",
+      "album_type": "single",
+      "release_date": "2021-07-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307977cf95009f4261ca7626e",
+      "uri": "spotify:album:6Gmefd8dnuOAkjl7wqvFE9",
+      "name": "don't fear the reefer",
+      "album_type": "single",
+      "release_date": "2021-04-23",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbcbe841286ecc66c9b34a2b",
+      "uri": "spotify:album:2eiSOHoOSYuZeuv8ms7kmR",
+      "name": "first try",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dNqUwGTZcQQ09ecTKkCGH",
+          "name": "dirt monkey"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b0501f5fa3961370d0c4b490",
+      "uri": "spotify:album:4gbXO6z69GPhAFarPLDPh2",
+      "name": "joint force ep",
+      "album_type": "single",
+      "release_date": "2020-11-20",
+      "release_year": "2020",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730229b360528b5b0b63c9ce47",
+      "uri": "spotify:album:54tsqWGChjpZOK2nZ07HVq",
+      "name": "whirlwind check",
+      "album_type": "single",
+      "release_date": "2020-11-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "0hVEQQUbIzLsdjCJWv3NHA",
+          "name": "kendama goat"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7d050b22d247befa961e295",
+      "uri": "spotify:album:76PqsudlHdnZZ3J0z7J0Ol",
+      "name": "nuclear bass face (feat. boogie t)",
+      "album_type": "single",
+      "release_date": "2020-05-29",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "nghtmre"
+        },
+        {
+          "spotify_id": "3NJ94iuAmmMjbszODYT6pO",
+          "name": "subtronics"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733083d05419ec3757f7e123a5",
+      "uri": "spotify:album:5QLUlHezsa4td7M2Sqz2lN",
+      "name": "old gold ep",
+      "album_type": "single",
+      "release_date": "2019-11-12",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c4da41f9f711bf9e51acd7a6",
+      "uri": "spotify:album:7uiSnvEQyQwakBk63FELHF",
+      "name": "sweet t ep",
+      "album_type": "single",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b58dc546c51887d998469c2b",
+      "uri": "spotify:album:1R8VyOcEXj7TV9dUkp4UEp",
+      "name": "money",
+      "album_type": "single",
+      "release_date": "2019-07-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27379160f64431ee646406833da",
+      "uri": "spotify:album:5yg00EtYSggW30vdYZMtFe",
+      "name": "supa fly",
+      "album_type": "single",
+      "release_date": "2019-07-04",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "25oLRSUjJk4YHNUsQXk7Ut",
+          "name": "griz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d27a466c22f9a8970f14bac3",
+      "uri": "spotify:album:27InKU08SJpAmI33ElH8XP",
+      "name": "senpai",
+      "album_type": "single",
+      "release_date": "2019-06-12",
+      "release_year": "2019",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273baf17440afd48e657a93cae7",
+      "uri": "spotify:album:1ZJuzHSKMSmaTw1zissj0D",
+      "name": "2kfo",
+      "album_type": "single",
+      "release_date": "2019-06-10",
+      "release_year": "2019",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a377751d3aa0dd3250d72e7",
+      "uri": "spotify:album:07yYD2IUbbongJz5U3E93I",
+      "name": "'til the joint rolled",
+      "album_type": "single",
+      "release_date": "2019-06-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3f3a278a5c3f5f3221f8b38",
+      "uri": "spotify:album:5yni5ly8wiu5WMTm6bC33f",
+      "name": "redline",
+      "album_type": "single",
+      "release_date": "2018-10-24",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2yT7X3Gg2S51DHz67FAYL6",
+          "name": "snails"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273521030268ee1cd4648dd9d17",
+      "uri": "spotify:album:7w0Kyxuw13WCngODGx1Si6",
+      "name": "bad",
+      "album_type": "single",
+      "release_date": "2018-05-02",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3oLY5NvzasiNds27QLs9Pa",
+          "name": "felmax"
+        },
+        {
+          "spotify_id": "2ihPQnVz8d2ePjGcXLbNf8",
+          "name": "sam lamar"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea189e304d3d401d3ff19263",
+      "uri": "spotify:album:1DPTq2DDkdRPeYTfrGmuch",
+      "name": "bad motha (wake the night remix)",
+      "album_type": "single",
+      "release_date": "2018-04-09",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "5hQeebc5h039UrHy8bkecA",
+          "name": "whiskers"
+        },
+        {
+          "spotify_id": "1AIh1LGEdCU1IZDjCr383d",
+          "name": "wake the night"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f72269d7c916e3ec640e0090",
+      "uri": "spotify:album:4dXDQZSSqLcLb4GWuVobDM",
+      "name": "bad motha (smooth move remix)",
+      "album_type": "single",
+      "release_date": "2018-03-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "5hQeebc5h039UrHy8bkecA",
+          "name": "whiskers"
+        },
+        {
+          "spotify_id": "2qvhD2wJNGGcAoMH8AKJab",
+          "name": "smooth move"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736dcf857f1acc1fd588c2297f",
+      "uri": "spotify:album:6270yuK2IQW15AP73XtfmJ",
+      "name": "bad motha (vip rework)",
+      "album_type": "single",
+      "release_date": "2018-03-05",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "5hQeebc5h039UrHy8bkecA",
+          "name": "whiskers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273039f507667ecc2c45b95d1f5",
+      "uri": "spotify:album:5QU69oVtfepUdWVtYZkiOK",
+      "name": "soul'd out",
+      "album_type": "single",
+      "release_date": "2017-10-23",
+      "release_year": "2017",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301a175147c82948b98e43238",
+      "uri": "spotify:album:5njXOjimcpT1DOBCc5t5ki",
+      "name": "arcade riddim",
+      "album_type": "single",
+      "release_date": "2017-08-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "3gTndoyyb2B9vPIQGCaska",
+          "name": "strix"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf5d8ee77cb4e0f8cce25c03",
+      "uri": "spotify:album:4Bb2C72deJa9E08QLRAopx",
+      "name": "flava",
+      "album_type": "single",
+      "release_date": "2017-06-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+          "name": "ganja white night"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ca00852a9a47e4797939f2c",
+      "uri": "spotify:album:6owDvyff0gw7kVdkoo0LZl",
+      "name": "bad motha",
+      "album_type": "single",
+      "release_date": "2017-02-16",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        },
+        {
+          "spotify_id": "5hQeebc5h039UrHy8bkecA",
+          "name": "whiskers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273211a116e83ec4b9757cf01eb",
+      "uri": "spotify:album:2XDmfOlzNquzaSx6iVT3cb",
+      "name": "god eater",
+      "album_type": "single",
+      "release_date": "2016-02-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0CSOHQTXEXfBSFCCAPRjqI",
+          "name": "boarcrok"
+        },
+        {
+          "spotify_id": "4opXhomSMm1ujbsvL3zNjo",
+          "name": "comrade yüth"
+        },
+        {
+          "spotify_id": "4zlw0jXUzd4dRcqI3Y1OiY",
+          "name": "boogie t"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:05:01.000Z"
+}

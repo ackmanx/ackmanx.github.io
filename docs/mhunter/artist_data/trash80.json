@@ -1,0 +1,72 @@
+{
+  "name": "trash80",
+  "spotify_id": "0g5MFQ15G9ksDiv8SPeB6e",
+  "uri": "spotify:artist:0g5MFQ15G9ksDiv8SPeB6e",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5ebd04329278c05ba8002ab8c36",
+  "genres": [
+    "synthwave"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273057f6b7450986dd15cd768a8",
+      "uri": "spotify:album:23CTF6dLrj7LrWOckelpqc",
+      "name": "theia",
+      "album_type": "single",
+      "release_date": "2017-08-21",
+      "release_year": "2017",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0g5MFQ15G9ksDiv8SPeB6e",
+          "name": "trash80"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d3176b0f9ec66b6cd518a92",
+      "uri": "spotify:album:11szSXvWK0yLaYKwTu9yH5",
+      "name": "archivl, vol. 2",
+      "album_type": "single",
+      "release_date": "2017-08-20",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0g5MFQ15G9ksDiv8SPeB6e",
+          "name": "trash80"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273533adc74e9570a06015c5322",
+      "uri": "spotify:album:1VZkwkiYgRvKJ0uxcsRGVw",
+      "name": "archivl, vol, 1",
+      "album_type": "single",
+      "release_date": "2017-08-13",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0g5MFQ15G9ksDiv8SPeB6e",
+          "name": "trash80"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739617a7ec8f0447ea036297f4",
+      "uri": "spotify:album:5TR2Igd1Crlvcss7RnAG9d",
+      "name": "icarus",
+      "album_type": "single",
+      "release_date": "2008-07-01",
+      "release_year": "2008",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0g5MFQ15G9ksDiv8SPeB6e",
+          "name": "trash80"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:33:04.000Z"
+}

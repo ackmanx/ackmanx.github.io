@@ -1,0 +1,316 @@
+{
+  "name": "melo",
+  "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+  "uri": "spotify:artist:2F4vNjg7yUVb7TuhCQ7F6X",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb34103a21da2efd1d6ad48731",
+  "genres": [
+    "chinese hip hop",
+    "chinese r&b"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339aad3eb37e9297eb13351c3",
+      "uri": "spotify:album:1gQHFm1fbQnnkbnistEhEO",
+      "name": "弥赛亚狂想曲",
+      "album_type": "album",
+      "release_date": "2026-07-09",
+      "release_year": "2026",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f75b6d310fea22573fa4e363",
+      "uri": "spotify:album:3S0AsaArCJ92FP6Og5qZMu",
+      "name": "楚河汉界（《有歌第二季第9期》） (live)",
+      "album_type": "single",
+      "release_date": "2026-02-27",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "3CSQfCUHVB3sZBfUfdWuph",
+          "name": "top barry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bf198b0abc6d033b246bf71e",
+      "uri": "spotify:album:0bQMBl2IxYQRKI6K6kGGRQ",
+      "name": "發達（f'ed up!）",
+      "album_type": "single",
+      "release_date": "2026-01-28",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "6xPrr4pTNgGedBCW4lkvcY",
+          "name": "小艾斯"
+        },
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ee4e35e0e5949e2f26c1758",
+      "uri": "spotify:album:6FeXcPnclhji2vW8Ej9Cf8",
+      "name": "superflow ⅱ",
+      "album_type": "album",
+      "release_date": "2025-08-20",
+      "release_year": "2025",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba729106f30a080ed4f6dceb",
+      "uri": "spotify:album:4kWxzp7TCBZT59nXWKQEQ6",
+      "name": "superflow ⅱ",
+      "album_type": "single",
+      "release_date": "2025-08-20",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "2jGquYVg6oxsetfzxYNgkD",
+          "name": "step.jad"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739229964d672f2f7aa35cbc73",
+      "uri": "spotify:album:21lwou0FtvhveoWGZALs0W",
+      "name": "纬哥",
+      "album_type": "single",
+      "release_date": "2025-08-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "3FpGegUfBRYiws8Ww49Y1j",
+          "name": "yitai wang"
+        },
+        {
+          "spotify_id": "0fyaEHmSmZs2YWMgbruITA",
+          "name": "masiwei"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739ffc0d0fdd1fa6b844eb7fa5",
+      "uri": "spotify:album:1ufkplJJAPMYyq9Zz37Da6",
+      "name": "murder season",
+      "album_type": "single",
+      "release_date": "2025-07-25",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4RNIsIsoiSbSAWapBf9q0w",
+          "name": "mengzi"
+        },
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "0fyaEHmSmZs2YWMgbruITA",
+          "name": "masiwei"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cbd121c30ba72d95e479781a",
+      "uri": "spotify:album:765ZggTerNrpdJBX1XwmqD",
+      "name": "30’ freestyle",
+      "album_type": "single",
+      "release_date": "2025-07-13",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273946f36790141640d5b16d417",
+      "uri": "spotify:album:0jX791mpG7GwFT2DFCnzGj",
+      "name": "life is a movie人生如戏",
+      "album_type": "album",
+      "release_date": "2024-05-14",
+      "release_year": "2024",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273286af24f5ac7eb160bfae68e",
+      "uri": "spotify:album:6uFSt7K2fWhLD6TQX4iehV",
+      "name": "black series",
+      "album_type": "album",
+      "release_date": "2023-04-11",
+      "release_year": "2023",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273532b5b65dfec1842bae995b2",
+      "uri": "spotify:album:0CdEKyDlepixu6ydNYF9D7",
+      "name": "楚河汉界",
+      "album_type": "single",
+      "release_date": "2023-02-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "3CSQfCUHVB3sZBfUfdWuph",
+          "name": "top barry"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c208a232d4c41cb93a0f8431",
+      "uri": "spotify:album:4K1H2vmnWZ11ITFdwlfEU2",
+      "name": "big man",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a3c088409e0e89b0ed0b3d2",
+      "uri": "spotify:album:5STkmWgxiUncJQaq4jQqLI",
+      "name": "i do",
+      "album_type": "single",
+      "release_date": "2022-06-10",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7r4a5XsfrfeOmZVquwSHFW",
+          "name": "crazy c"
+        },
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a503785e91b12a9d5b7205a5",
+      "uri": "spotify:album:3XPFeBbMuorCGx9MgNsatr",
+      "name": "old master 2",
+      "album_type": "album",
+      "release_date": "2021-04-01",
+      "release_year": "2021",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef8a337c7f193d625b863c32",
+      "uri": "spotify:album:4Rb0HomSffJojyz23mvcZg",
+      "name": "old master",
+      "album_type": "album",
+      "release_date": "2020-04-21",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366c13e54fd7fa5e0e46141e8",
+      "uri": "spotify:album:4qrAiq1evkWQLbVIrPCMnJ",
+      "name": "daili (feat. knowknow)",
+      "album_type": "single",
+      "release_date": "2020-04-14",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fcf216dd8eeefc35b12f2c47",
+      "uri": "spotify:album:5W1xau5fSJXTdxzzRIq0wa",
+      "name": "born like this",
+      "album_type": "single",
+      "release_date": "2020-04-07",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2F4vNjg7yUVb7TuhCQ7F6X",
+          "name": "melo"
+        },
+        {
+          "spotify_id": "07ZhipyrvoyNoJejeyM0PQ",
+          "name": "higher brothers"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:21:55.000Z"
+}

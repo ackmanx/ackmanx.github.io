@@ -1,0 +1,50 @@
+{
+  "name": "sushi killer",
+  "spotify_id": "4dljuICglLYdFmk4dXtfUa",
+  "uri": "spotify:artist:4dljuICglLYdFmk4dXtfUa",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c8c6ab1d88f832a59fd608",
+  "genres": [
+    "future bass"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305bccaf5a3292bee506f4ff2",
+      "uri": "spotify:album:37uHBMzICdMnENHF8aytqd",
+      "name": "ohana (sushi killer remix)",
+      "album_type": "single",
+      "release_date": "2015-09-04",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7y4WIUypFjIfAnGtElpGJV",
+          "name": "vena cava"
+        },
+        {
+          "spotify_id": "4dljuICglLYdFmk4dXtfUa",
+          "name": "sushi killer"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9c8c6ab1d88f832a59fd608",
+      "uri": "spotify:album:3VeB3svxVPUaXgcgVdcMN3",
+      "name": "anime bae",
+      "album_type": "single",
+      "release_date": "2014-10-20",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1wWsl04Vg99LLLKrEHYAhY",
+          "name": "kevin villecco"
+        },
+        {
+          "spotify_id": "4dljuICglLYdFmk4dXtfUa",
+          "name": "sushi killer"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:31:32.000Z"
+}

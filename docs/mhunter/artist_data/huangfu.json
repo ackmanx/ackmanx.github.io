@@ -1,0 +1,67 @@
+{
+  "name": "huangfu",
+  "spotify_id": "3tWGUNAljQ0Le36qt4thBm",
+  "uri": "spotify:artist:3tWGUNAljQ0Le36qt4thBm",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb60b156b80f2a2ac50ed4bb65",
+  "genres": [
+    "chinese hip hop",
+    "taiwanese pop",
+    "chinese r&b"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375b0d34bfb8eecd195ff7774",
+      "uri": "spotify:album:7uNbrpOO3v81xSDFuQaw3k",
+      "name": "saucing",
+      "album_type": "single",
+      "release_date": "2022-04-29",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3tWGUNAljQ0Le36qt4thBm",
+          "name": "huangfu"
+        },
+        {
+          "spotify_id": "6oQww0uMiqePdArgcGKx2S",
+          "name": "g.k. 高偉庭"
+        },
+        {
+          "spotify_id": "3Pn9jNiMGZoYek2Lt2qQL3",
+          "name": "braveboy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cc4fd5a8b73047a55f34deb7",
+      "uri": "spotify:album:1mz78RWMNnns0CYLUtPMQi",
+      "name": "襪子不洗",
+      "album_type": "single",
+      "release_date": "2018-02-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3tWGUNAljQ0Le36qt4thBm",
+          "name": "huangfu"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739213a3640ab942300955fba0",
+      "uri": "spotify:album:7fNPdOBrs4dP57DFK93v9Q",
+      "name": "超級趴的beat",
+      "album_type": "single",
+      "release_date": "2018-01-29",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3tWGUNAljQ0Le36qt4thBm",
+          "name": "huangfu"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:14:30.000Z"
+}

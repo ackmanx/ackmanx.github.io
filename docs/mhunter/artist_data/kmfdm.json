@@ -1,0 +1,916 @@
+{
+  "name": "kmfdm",
+  "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+  "uri": "spotify:artist:3V4IvzRQYP5mzuVtkcHgVa",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb6e108875d2c4d2c8752c9cb9",
+  "genres": [
+    "industrial",
+    "industrial metal",
+    "industrial rock",
+    "ebm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273392cb608ec455f55f682de92",
+      "uri": "spotify:album:7ARnTnHhyaxdyck4q0P1Ng",
+      "name": "enemy (+inhalt remix)",
+      "album_type": "single",
+      "release_date": "2026-08-07",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730626116c42b00c49ee042b16",
+      "uri": "spotify:album:63GQJa7IMmYGjVSfHozgnP",
+      "name": "the unholy within (begotten remix by kmfdm)",
+      "album_type": "single",
+      "release_date": "2026-06-23",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "28szYdg6lT3vuUl1LY6vj8",
+          "name": "seven factor"
+        },
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f933c50dcc035618baa440f5",
+      "uri": "spotify:album:283sz8aCQBgSDZNcZTufMW",
+      "name": "yoü",
+      "album_type": "single",
+      "release_date": "2026-04-24",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef5ba0c20c1da057abdd2985",
+      "uri": "spotify:album:42CYLrRVkVpNfocwsi5JzW",
+      "name": "enemy",
+      "album_type": "album",
+      "release_date": "2026-02-06",
+      "release_year": "2026",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aacd0bc35ce847a069321252",
+      "uri": "spotify:album:061viW1m53BtOgvGas9MFr",
+      "name": "enemy",
+      "album_type": "single",
+      "release_date": "2026-01-09",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a20106b8ccdf1e7c883bf7cc",
+      "uri": "spotify:album:22O4eii04TxV3E36VTtfxl",
+      "name": "oubliette",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732666d529685ed14c97f2295f",
+      "uri": "spotify:album:7n8IZ5BeZWEPyU4S77xUBl",
+      "name": "hau ruck 2025",
+      "album_type": "album",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a1e6ac82fdceb4c165f3d398",
+      "uri": "spotify:album:14cGptZmRilbWIuaMDaz1W",
+      "name": "leave it all behind (kmfdm remix)",
+      "album_type": "single",
+      "release_date": "2024-02-23",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5siUmTxIbfjNjrM5TmXvkX",
+          "name": "deadcode"
+        },
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348fbc29ec4146a34d443a2eb",
+      "uri": "spotify:album:4zTD0Ph1wmhnhlLiIw5Oi2",
+      "name": "let go",
+      "album_type": "album",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358a7b57accc6eed398656407",
+      "uri": "spotify:album:5PF52wMz9p681Ly95KU4Q0",
+      "name": "airhead",
+      "album_type": "single",
+      "release_date": "2024-01-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e91708c743d4f6af601a2bd",
+      "uri": "spotify:album:7L0TYsek1YTjmxNuXxxv5J",
+      "name": "sin sex & salvation (deluxe)",
+      "album_type": "album",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "5riS4sDqcjVAwvC37jxTP0",
+          "name": "pig"
+        },
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bbe8a2402932b6b230ad6121",
+      "uri": "spotify:album:1GXJBHRHg972dl18MzYKTf",
+      "name": "let go",
+      "album_type": "single",
+      "release_date": "2024-01-12",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de6850194ccebe2941b49c1f",
+      "uri": "spotify:album:3S4k4I4hvcCiLExpGaSPUa",
+      "name": "hyëna",
+      "album_type": "album",
+      "release_date": "2022-09-09",
+      "release_year": "2022",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27302e5f306a674f5afffce0eee",
+      "uri": "spotify:album:3iNLDLWcXC9MHOUkJKVWTj",
+      "name": "juke joint jezebel 2021",
+      "album_type": "single",
+      "release_date": "2021-08-27",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9fa17fe81b5c2063e162767",
+      "uri": "spotify:album:2p2FQXRowXJMjlIgW3JMI1",
+      "name": "in dub",
+      "album_type": "album",
+      "release_date": "2020-08-21",
+      "release_year": "2020",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27377f05381af9fc7e332cc8a70",
+      "uri": "spotify:album:3Uz5HaRcIKD4xRAXeG3QXc",
+      "name": "paradise",
+      "album_type": "album",
+      "release_date": "2019-09-27",
+      "release_year": "2019",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735d9a0c4fdc5c37c61ba206b2",
+      "uri": "spotify:album:0RHMHFargFjoQdMFQd2Vl4",
+      "name": "paradise",
+      "album_type": "single",
+      "release_date": "2019-09-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc0056e8759461a96d33c7bf",
+      "uri": "spotify:album:7iAsdTNnGtbiGR9Zc9bqEt",
+      "name": "live in the ussa",
+      "album_type": "album",
+      "release_date": "2018-10-26",
+      "release_year": "2018",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b993c0319470cf93ad47395d",
+      "uri": "spotify:album:245WVCbN1qZZTIBDHoFr7b",
+      "name": "wwiii",
+      "album_type": "single",
+      "release_date": "2018-10-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273da30e7a0f3a14cc5087827f4",
+      "uri": "spotify:album:6QvnH8j7aZZI823VzbWu2v",
+      "name": "hell yeah",
+      "album_type": "single",
+      "release_date": "2018-10-12",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d4299ad33a392f00a675b13",
+      "uri": "spotify:album:2XZuiJPqDW9UXssGEKEbAL",
+      "name": "hell yeah",
+      "album_type": "album",
+      "release_date": "2017-08-18",
+      "release_year": "2017",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273760cfeb65699b46b99a5b58b",
+      "uri": "spotify:album:0kOyTdAIk1tpCo1hhwFvgA",
+      "name": "yeah!",
+      "album_type": "single",
+      "release_date": "2017-06-23",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273797970660c12aab3a71cba32",
+      "uri": "spotify:album:05LycoMR5yw0TfNDgIitCu",
+      "name": "hell yeah",
+      "album_type": "single",
+      "release_date": "2017-05-23",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739395968715eb21e09221e446",
+      "uri": "spotify:album:4HmOgZCDLFAObBc3fQEduA",
+      "name": "rocks - milestones reloaded",
+      "album_type": "album",
+      "release_date": "2016-09-09",
+      "release_year": "2016",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738b928326d07ed4fa7c90e46e",
+      "uri": "spotify:album:1OjZIzKfKqdfqdPgmlx4MW",
+      "name": "salvation",
+      "album_type": "single",
+      "release_date": "2015-07-10",
+      "release_year": "2015",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5e2f3495a197d3013b12edc",
+      "uri": "spotify:album:4E4tIK6FaWx1tzywurG3Pv",
+      "name": "our time will come",
+      "album_type": "album",
+      "release_date": "2014-10-14",
+      "release_year": "2014",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27321ff51327dc2856151119d92",
+      "uri": "spotify:album:3zanutr13FLDIsZukrZ78r",
+      "name": "we are (live)",
+      "album_type": "album",
+      "release_date": "2014-09-09",
+      "release_year": "2014",
+      "total_tracks": 20,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d9a20510e9935ec193d666eb",
+      "uri": "spotify:album:1GYFCjhOUtfwynqz4l4AH1",
+      "name": "opium",
+      "album_type": "album",
+      "release_date": "2013-10-22",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381f6381e21d026189556a85e",
+      "uri": "spotify:album:5DYHEmxnKl1yIb3pvkJS4s",
+      "name": "kunst",
+      "album_type": "album",
+      "release_date": "2013-02-26",
+      "release_year": "2013",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736624656b5495f88a7d320d61",
+      "uri": "spotify:album:0WLWAE1tb53NWqQ9fLsOmS",
+      "name": "amnesia",
+      "album_type": "single",
+      "release_date": "2012-05-22",
+      "release_year": "2012",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733999074de8e3dde52b97f897",
+      "uri": "spotify:album:7Iv1eI4lCMTAzazmUbLOmt",
+      "name": "wtf?!",
+      "album_type": "album",
+      "release_date": "2011-04-26",
+      "release_year": "2011",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733204c0a8755725e421a8d379",
+      "uri": "spotify:album:4Adkt9uRgaj4SUjiaLCNsJ",
+      "name": "krank",
+      "album_type": "single",
+      "release_date": "2011-03-08",
+      "release_year": "2011",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739779d6817157b75b96ab09ff",
+      "uri": "spotify:album:1s1Hr6TiPBUs22PzMazjWb",
+      "name": "greatest shit",
+      "album_type": "album",
+      "release_date": "2010-09-28",
+      "release_year": "2010",
+      "total_tracks": 38,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731545b3c1d742453650834b8a",
+      "uri": "spotify:album:7oLQkvweAEuWCce178rKZz",
+      "name": "wurst",
+      "album_type": "album",
+      "release_date": "2010-09-28",
+      "release_year": "2010",
+      "total_tracks": 19,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273952e51ac1cefba7db43677e6",
+      "uri": "spotify:album:4UNPgTVADr8sr29Sj0Ylaz",
+      "name": "krieg",
+      "album_type": "album",
+      "release_date": "2010-04-27",
+      "release_year": "2010",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735db2f1efed5d7295463431ed",
+      "uri": "spotify:album:3wNSkXrDY4x4C7xrqa5oFq",
+      "name": "blitz",
+      "album_type": "album",
+      "release_date": "2009-03-24",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273849241fd8194670eb509c67b",
+      "uri": "spotify:album:61EjuRMPgOVcNjKJsNJVCN",
+      "name": "blitz (deluxe)",
+      "album_type": "album",
+      "release_date": "2009-03-24",
+      "release_year": "2009",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d53902cea95f8e06e25c6396",
+      "uri": "spotify:album:1XcROsOfTStPFqkeVbig9U",
+      "name": "skold vs. kmfdm",
+      "album_type": "album",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "71Yh3iYxx17VectgWOMvUr",
+          "name": "skold"
+        },
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecbb9fee181ab0050f2992a2",
+      "uri": "spotify:album:6A7vPi7Za2S0NZHw04DCzP",
+      "name": "extra volume 3",
+      "album_type": "album",
+      "release_date": "2008-10-07",
+      "release_year": "2008",
+      "total_tracks": 26,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af8287381a21b840730ad41a",
+      "uri": "spotify:album:7sflcq5RZ6DYThVgYqnKLB",
+      "name": "extra volume 2",
+      "album_type": "album",
+      "release_date": "2008-08-05",
+      "release_year": "2008",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27375f0400f66b29b23d98d10f4",
+      "uri": "spotify:album:1m8rXwUrnXfSjre91FSBsN",
+      "name": "extra volume 1",
+      "album_type": "album",
+      "release_date": "2008-06-03",
+      "release_year": "2008",
+      "total_tracks": 27,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ba2911d3a530e4b39bbacf0d",
+      "uri": "spotify:album:6O4QxLaSjEpvSpcFRzpTaP",
+      "name": "brimborium",
+      "album_type": "album",
+      "release_date": "2008-02-19",
+      "release_year": "2008",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e4f06c2596c67e7b2bb6a0a6",
+      "uri": "spotify:album:4ZYVbu1OZWOBVIdjjS4cxY",
+      "name": "tohuvabohu",
+      "album_type": "album",
+      "release_date": "2007-08-21",
+      "release_year": "2007",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273af716041b5ddb92172f55437",
+      "uri": "spotify:album:4t7C81k6tqhmPC0SmExV74",
+      "name": "ruck zuck",
+      "album_type": "album",
+      "release_date": "2006-05-09",
+      "release_year": "2006",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733ae89e1f734e93a0c83d0d2d",
+      "uri": "spotify:album:0Iy6xn2o0UM3a0woo3nF34",
+      "name": "hau ruck",
+      "album_type": "album",
+      "release_date": "2005-09-13",
+      "release_year": "2005",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27315ec15c8dfd33168f68d0da5",
+      "uri": "spotify:album:3Urw6dZEfZ4f9HuwijOmpn",
+      "name": "sturm & drang tour 2002 (live version)",
+      "album_type": "album",
+      "release_date": "2003-06-03",
+      "release_year": "2003",
+      "total_tracks": 13,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273162accc404855e17a17f61e6",
+      "uri": "spotify:album:3zgGdZBq4rrA2ATYyHgFcI",
+      "name": "wwiii",
+      "album_type": "album",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730537f45aa4657068b78c7dc0",
+      "uri": "spotify:album:287NtDlr4qel1lBk2l7FMJ",
+      "name": "attak",
+      "album_type": "album",
+      "release_date": "2002-03-19",
+      "release_year": "2002",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732b691713585e8f1cc8b0c8f1",
+      "uri": "spotify:album:6ivPDLqyCc1tCze8dls9t7",
+      "name": "boots",
+      "album_type": "single",
+      "release_date": "2002-02-05",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732e21581dce60b2594a6d4e79",
+      "uri": "spotify:album:3KJ7UpXQpH4RsjFhGKd8si",
+      "name": "adios",
+      "album_type": "album",
+      "release_date": "1999",
+      "release_year": "1999",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732834cfa8b3f18b0d22946c29",
+      "uri": "spotify:album:6g99frcxtUThvTjTwo9LfC",
+      "name": "symbols",
+      "album_type": "album",
+      "release_date": "1997",
+      "release_year": "1997",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736ef4e2b2f72748e060caceb2",
+      "uri": "spotify:album:6t0ZQyr1eVCpQdtxTMxE01",
+      "name": "xtort",
+      "album_type": "album",
+      "release_date": "1996",
+      "release_year": "1996",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7a468d3c627d7bb42a41a72",
+      "uri": "spotify:album:47Z7zIEHWy2ZQQzmg6B1w5",
+      "name": "nihil",
+      "album_type": "album",
+      "release_date": "1995",
+      "release_year": "1995",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e84c60c6f90278eeb809fc84",
+      "uri": "spotify:album:6We2VFbkhbRCQNX7Vud8aY",
+      "name": "angst",
+      "album_type": "album",
+      "release_date": "1993",
+      "release_year": "1993",
+      "total_tracks": 10,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737ba21fa51393bdc2131eca57",
+      "uri": "spotify:album:3dlBV9szQv1vP5e6uoGfvq",
+      "name": "money",
+      "album_type": "album",
+      "release_date": "1992",
+      "release_year": "1992",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27357b7179ba2371481a4cdd9a6",
+      "uri": "spotify:album:3jTXRgxzfTVgnaJvt9N44c",
+      "name": "naïve",
+      "album_type": "album",
+      "release_date": "1990",
+      "release_year": "1990",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734b26c80f5bb83803bcbd0c74",
+      "uri": "spotify:album:7gQ82cFat0jB9UP7hbEN7S",
+      "name": "uaioe",
+      "album_type": "album",
+      "release_date": "1989",
+      "release_year": "1989",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273deb97ee0839a2c1e89f38925",
+      "uri": "spotify:album:7fAUYY6bSBsETHGW4R31c2",
+      "name": "don't blow your top",
+      "album_type": "album",
+      "release_date": "1988",
+      "release_year": "1988",
+      "total_tracks": 11,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6c62b849f080db2c5a454e3",
+      "uri": "spotify:album:0qKaxliBSY7z2hoHu3hWYs",
+      "name": "what do you know, deutschland?",
+      "album_type": "album",
+      "release_date": "1986",
+      "release_year": "1986",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "3V4IvzRQYP5mzuVtkcHgVa",
+          "name": "kmfdm"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:18:57.000Z"
+}

@@ -1,0 +1,3200 @@
+{
+  "name": "firebeatz",
+  "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+  "uri": "spotify:artist:53YSn9tHwGJ6bq5P0gGoYo",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb535193eae048dbd308cdd078",
+  "genres": [
+    "big room",
+    "electro house",
+    "future house",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27304ea9d5b19027f6fb4f0c06e",
+      "uri": "spotify:album:0NE0HT48uLpSyu7qy7I7YX",
+      "name": "party favor",
+      "album_type": "single",
+      "release_date": "2026-07-10",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27350560c8ff67aff190d25a6ca",
+      "uri": "spotify:album:46ggzNeCNNiDIeadME3DV6",
+      "name": "pump that bass",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731690d3e6fe3312c1dc3148c7",
+      "uri": "spotify:album:1q5LnW8Sm74QMdbxRKaBtt",
+      "name": "pump that bass (extended mix)",
+      "album_type": "single",
+      "release_date": "2026-05-15",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf36dc2bb1c3ce38fec821cc",
+      "uri": "spotify:album:0uMjgDLEOckznmK59sxZE5",
+      "name": "in space",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc25c9e8fc70e824768b2ea8",
+      "uri": "spotify:album:1duRQZvyJyiZyIcAEdmy0f",
+      "name": "attention",
+      "album_type": "single",
+      "release_date": "2025-12-12",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735f9182c9863ab5f75bc320dc",
+      "uri": "spotify:album:2efULKMiabdYoxA2ql0yf0",
+      "name": "push me higher",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27380a4aa85a76ba2a814fb6dec",
+      "uri": "spotify:album:0tFuSTCyJhpFt326yMJa27",
+      "name": "block rockin",
+      "album_type": "single",
+      "release_date": "2025-09-19",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273237c3ffe01f60c033955f301",
+      "uri": "spotify:album:37YJr6XjMHtAWpljJbLCRv",
+      "name": "it's time",
+      "album_type": "single",
+      "release_date": "2025-07-18",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d240d5d475cd4d4963af3d00",
+      "uri": "spotify:album:4HckeGUqZQrIUCOGbNJB30",
+      "name": "charged up",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d51ff23f452a6478b7316242",
+      "uri": "spotify:album:2Ak3G6AMlLcVWQ9FJAKBQy",
+      "name": "charged up (extended mix)",
+      "album_type": "single",
+      "release_date": "2025-05-23",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27309fec017c70cd78cf869e6ae",
+      "uri": "spotify:album:5GeBG44iMwDJG9YneZ93Jp",
+      "name": "fck with my vibe",
+      "album_type": "single",
+      "release_date": "2025-04-11",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be04f421cd93d1cf04606d25",
+      "uri": "spotify:album:3YQ77cxN6Dp0eV6RbILPfb",
+      "name": "i can't take it",
+      "album_type": "single",
+      "release_date": "2025-03-14",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee63092538c13129d04cb6c1",
+      "uri": "spotify:album:0LZKbkVqBCFKNlbEHnaZjX",
+      "name": "da boom",
+      "album_type": "single",
+      "release_date": "2025-02-07",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "2T7bdw0TFPa9G27D2cVNCh",
+          "name": "erich lennig"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a44d81c64d9305b6cf51c02",
+      "uri": "spotify:album:3feSyCPkqIHNhq3Cfo7dFh",
+      "name": "chip tune",
+      "album_type": "single",
+      "release_date": "2024-11-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738cfe3b89104117aa36106f43",
+      "uri": "spotify:album:2WHfvIIzdT7dLVLTajxjvv",
+      "name": "higher state of consciousness",
+      "album_type": "single",
+      "release_date": "2024-10-25",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0NGAZxHanS9e0iNHpR8f2W",
+          "name": "alok"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f77c2e5ef2f0363152574401",
+      "uri": "spotify:album:3X4iUVkyOwnzVCOpQ4x1Uk",
+      "name": "selecta",
+      "album_type": "single",
+      "release_date": "2024-09-20",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1ECKbPx4YhCU4SgKq8pfAc",
+          "name": "noise cans"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ed58f18ec29c807ce0efd2b",
+      "uri": "spotify:album:390QFdjzIcJTN3CYzB9caz",
+      "name": "hot sauce",
+      "album_type": "single",
+      "release_date": "2024-09-05",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "2fIdQyZQ2BzF90G4zjSqUD",
+          "name": "giorgio dala"
+        },
+        {
+          "spotify_id": "6yVHCcCg5H7eycOZJzAbVT",
+          "name": "sane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730ff0fddc19514db8bc150ca2",
+      "uri": "spotify:album:2beIILyj8g324nsQBPkAka",
+      "name": "hot sauce",
+      "album_type": "single",
+      "release_date": "2024-08-22",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "2fIdQyZQ2BzF90G4zjSqUD",
+          "name": "giorgio dala"
+        },
+        {
+          "spotify_id": "6yVHCcCg5H7eycOZJzAbVT",
+          "name": "sane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391193a92a01723f9d2847c2a",
+      "uri": "spotify:album:2WFCl7gQcxpTr8bApIb3Hs",
+      "name": "don't call me baby (plastik funk 2024 discohouse mix)",
+      "album_type": "single",
+      "release_date": "2024-08-16",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c304e832861249f201ff1cd4",
+      "uri": "spotify:album:0es88FJMP1T7cCYTUtQrBd",
+      "name": "king of my city",
+      "album_type": "single",
+      "release_date": "2024-07-26",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e643a17262b746db9ae41669",
+      "uri": "spotify:album:69OmAgpfScQpwSiTSpVqHQ",
+      "name": "shut this place down",
+      "album_type": "single",
+      "release_date": "2024-07-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737eb4d2368f5f90e7e2a21134",
+      "uri": "spotify:album:4YT3rXNwTHQzwENlihD6CP",
+      "name": "droppin' hot (feat. sonny wilson)",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pbHrVayIcVpHI9z97u4bK",
+          "name": "bingo players"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "3gTl4XARdQR2Sy59osG0Ia",
+          "name": "sonny wilson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732032b51b035f294109bbd4a0",
+      "uri": "spotify:album:33qwiZ5P1Rzd1ZsjdYZX6q",
+      "name": "droppin' hot (feat. sonny wilson) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-06-21",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pbHrVayIcVpHI9z97u4bK",
+          "name": "bingo players"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "3gTl4XARdQR2Sy59osG0Ia",
+          "name": "sonny wilson"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316b533f92023e44932bd01d1",
+      "uri": "spotify:album:0tckIIhedkswS28WowGyml",
+      "name": "out of control",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a9a9e3c703febcc68c42fa9",
+      "uri": "spotify:album:7MYJPKIMcn331wbHRjUYhl",
+      "name": "jump up",
+      "album_type": "single",
+      "release_date": "2024-03-28",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b64ec00b7a045dbdaab6ebf",
+      "uri": "spotify:album:32hAkqc2mit3ilzkCgCEWX",
+      "name": "mary go wild (firebeatz remix)",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3LThgBIEhmkTZCJ6q7Jkzf",
+          "name": "grooveyard"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27335e95695d7d3ada5dc3301d0",
+      "uri": "spotify:album:6iZA354JqAeex1MLOFC6bC",
+      "name": "mary go wild (firebeatz remix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2024-02-02",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3LThgBIEhmkTZCJ6q7Jkzf",
+          "name": "grooveyard"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d1cec24e6d631ca06606366",
+      "uri": "spotify:album:0jqeBo8LT9o7jfMldunhOR",
+      "name": "move like dis",
+      "album_type": "single",
+      "release_date": "2024-01-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e2ce0c5203478fcd0d691b0e",
+      "uri": "spotify:album:3YZCt02V0cAwEdu13QRbQb",
+      "name": "womp",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27366c9551f142c34c599674f1c",
+      "uri": "spotify:album:5XutDsQOiHUJwU3UkO6KKd",
+      "name": "womp (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3IpvVrP3VLhruTmnququq7",
+          "name": "mike williams"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b83656be59310475e5c80b10",
+      "uri": "spotify:album:0xA7qhDX1GY1CY98vABlFy",
+      "name": "shined on me (club version)",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df7043ebc95bb2d91799d5f3",
+      "uri": "spotify:album:51NIfDuuDH6d949NxNQ3bC",
+      "name": "shined on me (club version) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-10-20",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f343179c7d87826e815d57cf",
+      "uri": "spotify:album:2lOBogTucTmpkO5ghcZIu4",
+      "name": "shined on me",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3543edb5e163c396088b49c",
+      "uri": "spotify:album:57WlfUC1SFkHoltnf3K83D",
+      "name": "shined on me (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-10-06",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273141369bb2695b3d7a9a21a93",
+      "uri": "spotify:album:74OJNvzVN89m84KJUuKFXh",
+      "name": "superfreak",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ccdfb6d897849880f7341019",
+      "uri": "spotify:album:2v7qXncHglsu3RHnuOUgrE",
+      "name": "superfreak (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-07-07",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273542fd3ca7d39e374c48a88af",
+      "uri": "spotify:album:3Kuep7SMF8iUO42jAWwEBj",
+      "name": "the party",
+      "album_type": "single",
+      "release_date": "2023-06-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343fd31d8f8efb8f9525c5bfa",
+      "uri": "spotify:album:2LFtKHZpmGiB0u9KIHL7GY",
+      "name": "california",
+      "album_type": "single",
+      "release_date": "2023-04-21",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e600aaeeca5bfeafd042371d",
+      "uri": "spotify:album:0IPJQcAIauvljTYPix0D0o",
+      "name": "back in control",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27390e1d5967ee27c802c94e5ce",
+      "uri": "spotify:album:2zBYofwSzUMRdS7B09jNZ7",
+      "name": "back in control (extended mix)",
+      "album_type": "single",
+      "release_date": "2023-03-31",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c215055dde2a1ab0a0d8b9a",
+      "uri": "spotify:album:0IE5Gtj3ByFAQrahK485Rw",
+      "name": "what happens here (club mix)",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "23QiUDhZI1asndJml1wpfV",
+          "name": "andrea damante"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27370bc1770c62b15b7b41f98a4",
+      "uri": "spotify:album:09g2oxrDvgrlRmXMGs7j86",
+      "name": "what happens here (club mix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-12-30",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "23QiUDhZI1asndJml1wpfV",
+          "name": "andrea damante"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732cb636afe3de35c46eaae531",
+      "uri": "spotify:album:5pLadYVkHZbxcg2izjdP4L",
+      "name": "lose my sh!t",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e73ab5f229266332a3dd4b60",
+      "uri": "spotify:album:52jZZiG4joscGhkUaphQCS",
+      "name": "lose my sh!t (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-12-02",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6e764676241d67cbe95b2a6",
+      "uri": "spotify:album:3y1kQEj8ApSJxWJlvSiJkv",
+      "name": "what happens here",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "23QiUDhZI1asndJml1wpfV",
+          "name": "andrea damante"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fef3efc178b2ce09eef9c0f7",
+      "uri": "spotify:album:3HTcnhEsAL6gR3IXVsdJLo",
+      "name": "what happens here (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-10-21",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "23QiUDhZI1asndJml1wpfV",
+          "name": "andrea damante"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bb4c27ad5bcb7c8e518a6be1",
+      "uri": "spotify:album:4LwxOAjsdpro1lF8gfw1yN",
+      "name": "listen up",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dfae2ead6099844554224b5a",
+      "uri": "spotify:album:7FMIHWNrX7TkzIrfkbr3Lt",
+      "name": "listen up (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-09-16",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dccb77cd64e6ad435a08ba6c",
+      "uri": "spotify:album:5gf686Ticu379hN8ryHU3S",
+      "name": "where's your head at (kill it with fire mix)",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273914417e134fdd08e7ec2a51f",
+      "uri": "spotify:album:09wLNfM852C1nRBw3Ob0be",
+      "name": "where's your head at (kill it with fire mix) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735995a6a526eae6ddc961b0a9",
+      "uri": "spotify:album:27I2ZnhDPiImd4YcP8lg6E",
+      "name": "no good",
+      "album_type": "single",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "12SPNXi0aDpFt0rMVbmLrr",
+          "name": "jay hardway"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27373e8ada0ea1d564a5a9c669c",
+      "uri": "spotify:album:6Bc76bCQ0aw1dCdvkEvLGY",
+      "name": "no good (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-05-20",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "12SPNXi0aDpFt0rMVbmLrr",
+          "name": "jay hardway"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733a9b1835ce552e1fe6f335f8",
+      "uri": "spotify:album:6xjqJWrbW41rwmPrpORsmd",
+      "name": "don't stop moving (club mix)",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27374331d61ea92d414d9f08842",
+      "uri": "spotify:album:3o8W2BlVXnYG4gHawp5QVa",
+      "name": "don't stop moving (extended club mix)",
+      "album_type": "single",
+      "release_date": "2022-05-13",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e7a6acf5113cfbb62126fe81",
+      "uri": "spotify:album:2MDDTPSBv2jYW3fQfP7K4a",
+      "name": "don't stop moving",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27355c3e3259411474ea714e253",
+      "uri": "spotify:album:1JSLD7mGNpM9OeoeiWYAyh",
+      "name": "don't stop moving (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-04-22",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736a91e8aa1f05609e3071c210",
+      "uri": "spotify:album:0pf3E6rDs3YHgMfSdPcupj",
+      "name": "everybody's got to learn sometime (feat. sushy)",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5v3JgLiZtNnw6ablRjjNKK",
+          "name": "stefy de cicco"
+        },
+        {
+          "spotify_id": "15Mmbnc3aM0g4bVvHHjxri",
+          "name": "sushy"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734977ee2296dc9e6c6a7f05b8",
+      "uri": "spotify:album:3RFg1Hlh4FFlGEbE7QBdtU",
+      "name": "everybody's got to learn sometime (feat. sushy) [extended mix]",
+      "album_type": "single",
+      "release_date": "2022-03-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5v3JgLiZtNnw6ablRjjNKK",
+          "name": "stefy de cicco"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27318db83a0f41366bca0f56427",
+      "uri": "spotify:album:7lhCnCiIAwapBSPkDaa9vR",
+      "name": "don't call me baby (club & festival mixes)",
+      "album_type": "single",
+      "release_date": "2022-02-25",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "3juwo4sTF5okJNvCfQpArZ",
+          "name": "nazzereene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee3c076fce359cb3e17cc019",
+      "uri": "spotify:album:1jZWtY4V0i85VKQB8QbQjX",
+      "name": "give it up",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "4cdyqaBREB68H77QKCrKP1",
+          "name": "dubdogz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323bad46339648b37827cee8b",
+      "uri": "spotify:album:0wPhJxr5B1Vcqwi9p3G4Ni",
+      "name": "give it up (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-02-18",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "4cdyqaBREB68H77QKCrKP1",
+          "name": "dubdogz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb7fa6a77e4e28307f923474",
+      "uri": "spotify:album:2NBTK3xNNT6zoVNIoEXXmK",
+      "name": "don't call me baby",
+      "album_type": "single",
+      "release_date": "2021-12-03",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "3juwo4sTF5okJNvCfQpArZ",
+          "name": "nazzereene"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27324068814b73c1989add8153d",
+      "uri": "spotify:album:1ocVJtcuGJBqnhiq22q9wy",
+      "name": "everybody down",
+      "album_type": "single",
+      "release_date": "2021-11-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a7bd74b8e72345d5a5c053f",
+      "uri": "spotify:album:4xE3QW5JImHCIYFjR0UVxB",
+      "name": "way down (feat. s.e.n.) [bonus mix]",
+      "album_type": "single",
+      "release_date": "2021-10-15",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "47hRHC6qhKdWBipZvwsSpo",
+          "name": "arengers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d352071be79a56dae85a31f8",
+      "uri": "spotify:album:7kbqvF86iqcOTBWYv9aFow",
+      "name": "resurrect",
+      "album_type": "single",
+      "release_date": "2021-10-08",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a2d12f97f8b21f8e704c3ee1",
+      "uri": "spotify:album:30IA9F1Auni0lJgcm8vzBX",
+      "name": "way down (feat. s.e.n.)",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "47hRHC6qhKdWBipZvwsSpo",
+          "name": "arengers"
+        },
+        {
+          "spotify_id": "7wAJdqoqfSGkDG188fWHxX",
+          "name": "s.e.n"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734885ba4b8ff1df48279e4584",
+      "uri": "spotify:album:74xaIVFYPW4hLu710CpjaF",
+      "name": "way down (feat. s.e.n.) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "47hRHC6qhKdWBipZvwsSpo",
+          "name": "arengers"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392002ffa45f2c104a75d9bd2",
+      "uri": "spotify:album:4X1lOCq49rwTU1pc6IwMQs",
+      "name": "move on",
+      "album_type": "single",
+      "release_date": "2021-07-09",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "6Jt9U8bJ56jqNdEKdLZ7Yw",
+          "name": "aster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731f490c22740ae6a6bf89e3b8",
+      "uri": "spotify:album:7goFpIoBYyp6qsCiz65vZP",
+      "name": "i wanna (na, na, na) [feat. ally ahern]",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "4RSgbf1zgR2X2APEbTqxbM",
+          "name": "ally ahern"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27327b982bf5f7cb6da9fa38eb2",
+      "uri": "spotify:album:08BAtNZU0uJTJwLcypcwFn",
+      "name": "i wanna (na, na, na) [feat. ally ahern] [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273554e3f62a68c4e05f7fbff67",
+      "uri": "spotify:album:4Pa4SvIUpENLBrY74AQkL5",
+      "name": "show the way",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed8605f5efa799e60b9a6e7d",
+      "uri": "spotify:album:2mNHYkd1vO5w9sbAvHRDWE",
+      "name": "on top of mine (feat. kelli-leigh)",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0m6f0nNS9GEq41eIJ288ff",
+          "name": "kelli-leigh"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f60a9a03962b4b4f9736750c",
+      "uri": "spotify:album:6HMv5EnXo8ph9N0B3ZoLKA",
+      "name": "on top of mine (feat. kelli-leigh) [extended mix]",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735cb55230deac5ad6a37e12ca",
+      "uri": "spotify:album:0RMwN0JKg3S63dZQzhwhL6",
+      "name": "let's get down",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d43f8ef0f4cf40d294bbd54e",
+      "uri": "spotify:album:3jc5H3QUYH81lIppxl7UDK",
+      "name": "let's get down (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-12-11",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b014f603a777e2db8fab0512",
+      "uri": "spotify:album:6nx0zE8OPaK6jipPuLjuPl",
+      "name": "instant moments",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27392dd49438e884e5be87a1d5c",
+      "uri": "spotify:album:0mJu5fJiSF5hMGzBtDO3VH",
+      "name": "instant moments (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-10-23",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a7efef3c8b3606e730810659",
+      "uri": "spotify:album:4FtnML3Ua2sXjeMQAYAcG5",
+      "name": "grollow",
+      "album_type": "single",
+      "release_date": "2020-10-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7aTljB6m794yQQAkI6lIvl",
+          "name": "metafo4r"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273add95ec3aa110d4115a26071",
+      "uri": "spotify:album:6EzGqktXHuyMGDF5zLq4zz",
+      "name": "never enough (feat. brooke tomlinson)",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27346062a4f4a986d305a8e718b",
+      "uri": "spotify:album:19tjkqlk5NH2yQFKey2zzO",
+      "name": "never enough (feat. brooke tomlinson) [extended mix]",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c7cf1da6c5d10c096f1f732d",
+      "uri": "spotify:album:0nHzabTwUQkctVnsQxLZ1U",
+      "name": "sinfonia della notte",
+      "album_type": "single",
+      "release_date": "2020-06-12",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397e0ab91e9d4e0fb6cd5d373",
+      "uri": "spotify:album:1ehUWFo1M5AbW8faq9mrok",
+      "name": "high enough",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f78f310dae8834486c7b4572",
+      "uri": "spotify:album:0r1IhwGEec2nEhPZkVS1zc",
+      "name": "high enough (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-05-08",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "plastik funk"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c224d5906c85de7c1145085",
+      "uri": "spotify:album:41hwgeE5so2SXTMnyg235y",
+      "name": "bad habit (club mix)",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273809b700d3f1400bc88ddb2dd",
+      "uri": "spotify:album:5wZyZj5Tj9ySe1iFmlpChq",
+      "name": "bad habit (extended club mix)",
+      "album_type": "single",
+      "release_date": "2020-03-27",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c09878296c2bb81d52353416",
+      "uri": "spotify:album:7pClOYzF8kqwTfN6FOw8a4",
+      "name": "bad habit",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae4f801a2f54843dfa643ec",
+      "uri": "spotify:album:0ZMWC9M0hT23PYZSlZpFN6",
+      "name": "bad habit (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-03-06",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737247401537a6dedd4e749c2c",
+      "uri": "spotify:album:79mGFrYCMldNKJXDXnW1Q8",
+      "name": "soul fifty",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273459d7d74d7ce5b0b2809c00b",
+      "uri": "spotify:album:2k9k2EBX1hDCy6ylfJmwWm",
+      "name": "soul fifty (extended mix)",
+      "album_type": "single",
+      "release_date": "2020-01-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fbcf4194ad50e017001a2c73",
+      "uri": "spotify:album:48dnRliAqaThOCCkRXjKIe",
+      "name": "lambo",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737786190e575d69edfc2968ff",
+      "uri": "spotify:album:2rRDvKsQVK6aexmxkD3nSV",
+      "name": "lambo (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27349ba55451a2adf5c2641a666",
+      "uri": "spotify:album:1Ni9k0BcpXn2cUWsquLqLV",
+      "name": "lift me up (feat. carla monroe)",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c73181e7edc07534ddc9343e",
+      "uri": "spotify:album:2Ob8rQd2vjxRrQFdIyYGAg",
+      "name": "lift me up (feat. carla monroe) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "oliver heldens"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2f50451f775f01fe839f100",
+      "uri": "spotify:album:0OOW0KIsK3nnenb2r2xvrk",
+      "name": "illusion (feat. karra)",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "24CzPFC4y3bM4AkUnZfuAU",
+          "name": "karra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27339669dda899d32874b617a43",
+      "uri": "spotify:album:3XQr9iFT4F4lIjo5S7MOgc",
+      "name": "illusion (feat. karra) [extended mix]",
+      "album_type": "single",
+      "release_date": "2019-08-30",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273972e6a2077a75c22d272f4b5",
+      "uri": "spotify:album:4TgdELrbn6KTDtQlfa5fQC",
+      "name": "rave machine",
+      "album_type": "single",
+      "release_date": "2019-07-12",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "7aTljB6m794yQQAkI6lIvl",
+          "name": "metafo4r"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735eda80690891fa3823bec004",
+      "uri": "spotify:album:3668Ug8YMfWx7K8HBMi2C0",
+      "name": "blowback",
+      "album_type": "single",
+      "release_date": "2019-06-24",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "22bukBZvUppuwQwmDz75Gz",
+          "name": "sander van doorn"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273116e114fc93e4f8f3c0aeee0",
+      "uri": "spotify:album:21vSCD5QvdRF0D2W2MnM56",
+      "name": "bounce",
+      "album_type": "single",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        },
+        {
+          "spotify_id": "4IqLLbr2HyLOULGwSupSzB",
+          "name": "pexem"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358e65774f00b2b83a3b3b0dc",
+      "uri": "spotify:album:62bf9u9oebNyFD9gnQnKpc",
+      "name": "ignite presents: club weapons, vol. 2",
+      "album_type": "single",
+      "release_date": "2019-03-15",
+      "release_year": "2019",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736cc12e6f72270420c097b6d8",
+      "uri": "spotify:album:49ItwU5nPTDRJY53aYDQJ0",
+      "name": "through my mind",
+      "album_type": "single",
+      "release_date": "2019-02-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c06038ff086c6a7b73350f41",
+      "uri": "spotify:album:3l6Rzld5nYgxOZamOJnrWg",
+      "name": "sun is shining (firebeatz remix)",
+      "album_type": "single",
+      "release_date": "2019-01-18",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1R5R9EyBe8MxRuD3BIXaV2",
+          "name": "funkstar de luxe"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387263595986d58ef5ab79fe9",
+      "uri": "spotify:album:35CbkWGIlp7Ql9GjJN6VM9",
+      "name": "rock to the rhythm",
+      "album_type": "single",
+      "release_date": "2018-11-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "4bB2Sc0a0Ix1FZykCZi98h",
+          "name": "yozo"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e5057fa565fd9943ce1e5c5",
+      "uri": "spotify:album:6E6w6YqKpxU3k8fvV0OT2l",
+      "name": "blackout",
+      "album_type": "single",
+      "release_date": "2018-09-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348cccec7fd91c0a8654c7ac1",
+      "uri": "spotify:album:3aL56M9si59HO2LVLy2zGZ",
+      "name": "blackout (extended mix)",
+      "album_type": "single",
+      "release_date": "2018-09-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738ac3580a08e8f5857d5f984f",
+      "uri": "spotify:album:3uLPQeiy27PUnKv312QrDG",
+      "name": "remember who you are",
+      "album_type": "single",
+      "release_date": "2018-06-08",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737231d7373426aa30069e5ec1",
+      "uri": "spotify:album:5khYupT4llHDyxMZvDOTaY",
+      "name": "ignite presents: club weapons, vol. 1",
+      "album_type": "single",
+      "release_date": "2018-06-01",
+      "release_year": "2018",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c75a571cd47ae3ef0a30e9c1",
+      "uri": "spotify:album:1jVT4hTaknRLhiZOCvRLzZ",
+      "name": "rock right now",
+      "album_type": "single",
+      "release_date": "2018-04-06",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "4gJCFxvqKc43Ifk0UIBB42",
+          "name": "madison mars"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc30d04658b5ba2b010af869",
+      "uri": "spotify:album:4i4OBv2VMq7wP9sDAnFG5p",
+      "name": "here we f*cking go (dark heart remix)",
+      "album_type": "single",
+      "release_date": "2018-03-30",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1k7Cc2WGh6LAE1TUh6dsiy",
+          "name": "dark heart"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273569b6bc258b11c5188ac5a46",
+      "uri": "spotify:album:2JL4UlBX921uXPWmIALWLY",
+      "name": "everything",
+      "album_type": "single",
+      "release_date": "2018-02-09",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "210s1q4wkXp3p2OyCOr790",
+          "name": "peppermint"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de1b1fd52e6488a99af97198",
+      "uri": "spotify:album:16HrO8L15fMWO1k3taEdEg",
+      "name": "till the sun comes up (remixes)",
+      "album_type": "single",
+      "release_date": "2018-01-22",
+      "release_year": "2018",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27332f015a33dd23be674b879a7",
+      "uri": "spotify:album:21YUvPZi5hYF28RrqnoGyR",
+      "name": "burn it down",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737d2930e690f4b1bc8717ec62",
+      "uri": "spotify:album:2u8hLMafjIruJJpXj59yBV",
+      "name": "keep your head up (feat. little giants) [club edit]",
+      "album_type": "single",
+      "release_date": "2017-11-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5wwneIFdawNgQ7GvKK29Z3",
+          "name": "lucas & steve"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737dfcee39e751e7ffde2b146f",
+      "uri": "spotify:album:5k9dbx4Ly2mA6yUHDwNI18",
+      "name": "keep your head up (feat. little giants)",
+      "album_type": "single",
+      "release_date": "2017-10-20",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5wwneIFdawNgQ7GvKK29Z3",
+          "name": "lucas & steve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ed8a07b0abafa29504572c91",
+      "uri": "spotify:album:3u72ELMu1pGoQPQSmWYge5",
+      "name": "let's get wild",
+      "album_type": "single",
+      "release_date": "2017-09-29",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eecb93a6ff0ee8c485673f7f",
+      "uri": "spotify:album:3bsDy2SC113Rv2a4tZIyT5",
+      "name": "till the sun comes up",
+      "album_type": "single",
+      "release_date": "2017-08-25",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730dca189be7c49811b74dcae9",
+      "uri": "spotify:album:5I3PKY4Ip6n94GKDf6LSd8",
+      "name": "show me your love",
+      "album_type": "single",
+      "release_date": "2017-08-11",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5wwneIFdawNgQ7GvKK29Z3",
+          "name": "lucas & steve"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27358e89f1b3b3cd2e7d566136c",
+      "uri": "spotify:album:6gnAvhzvxTO5k8oVVpWgrE",
+      "name": "ignite",
+      "album_type": "single",
+      "release_date": "2017-04-10",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343719f88c45355f374fa89d7",
+      "uri": "spotify:album:1FkfLqJoQxX35r0OF5Exdq",
+      "name": "om telolet om",
+      "album_type": "single",
+      "release_date": "2016-12-23",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afb02f0fffbfb40e7ba06916",
+      "uri": "spotify:album:1lAbkwfgSc37xZ3eKXvBn0",
+      "name": "lullaby (feat. bishøp) [the remixes]",
+      "album_type": "single",
+      "release_date": "2016-08-22",
+      "release_year": "2016",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8d56af815a8400f96c7f95f",
+      "uri": "spotify:album:57XTlW1Oyx8LvhkIt3snM4",
+      "name": "sir duke (festival extended mix)",
+      "album_type": "single",
+      "release_date": "2016-06-27",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0EK2nCt5jxbkN2HCmtKy4V",
+          "name": "fafaq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273468635e3dc28b1031c2e4b30",
+      "uri": "spotify:album:0zipiigCVw5lWQ4VRVw4D6",
+      "name": "sir duke",
+      "album_type": "single",
+      "release_date": "2016-06-24",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0EK2nCt5jxbkN2HCmtKy4V",
+          "name": "fafaq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27384250f8bf18471dbed66834a",
+      "uri": "spotify:album:5FgkshzFZCBjBPHvyVtki6",
+      "name": "sir duke (festival mix)",
+      "album_type": "single",
+      "release_date": "2016-06-13",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0EK2nCt5jxbkN2HCmtKy4V",
+          "name": "fafaq"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27387b5cefe0b7978594c4b3bea",
+      "uri": "spotify:album:1ecctJJQJBt14DDqFCHLHI",
+      "name": "lullaby (feat. bishøp) [extended mix]",
+      "album_type": "single",
+      "release_date": "2016-05-02",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc149900094947370b1963cf",
+      "uri": "spotify:album:0zUP4OxKat4BNmBas5qcZ8",
+      "name": "lullaby (feat. bishøp)",
+      "album_type": "single",
+      "release_date": "2016-04-18",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739206c33922cdf7a50c00e877",
+      "uri": "spotify:album:491K7eopgi6TDF1Au6VGNJ",
+      "name": "dat disco swindle",
+      "album_type": "single",
+      "release_date": "2016-02-26",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273be562d9a66221b9c02496fe3",
+      "uri": "spotify:album:4mLfpzlV6kspu3vlzrIfHo",
+      "name": "home (edit)",
+      "album_type": "single",
+      "release_date": "2016-01-08",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "12SPNXi0aDpFt0rMVbmLrr",
+          "name": "jay hardway"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273925edca8bd1ae403cda07532",
+      "uri": "spotify:album:6oAxHtCoGIUsG4qe3c4yr9",
+      "name": "tornado",
+      "album_type": "single",
+      "release_date": "2015-11-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27395e99da75c675fe602899c06",
+      "uri": "spotify:album:6ORB9yhk0goSk8bLLF0OzH",
+      "name": "tornado (extended mix)",
+      "album_type": "single",
+      "release_date": "2015-11-27",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d2717c0e035de2a7909ed016",
+      "uri": "spotify:album:5dw6tSvu5tx8DkB9heP3US",
+      "name": "ghostchild (feat. spree wilson)",
+      "album_type": "single",
+      "release_date": "2015-11-06",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273487bedc46c16278b1b85b053",
+      "uri": "spotify:album:4zR55d5x54uW7W7OABizqB",
+      "name": "go (extended mix)",
+      "album_type": "single",
+      "release_date": "2015-09-28",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ea6b4918a54a55db2cbaaf00",
+      "uri": "spotify:album:3amartLZiNW1azzvzz0o56",
+      "name": "go (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-09-25",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735a9b1eb5c3f8ec1113ef0a10",
+      "uri": "spotify:album:3EFSCorS3eKj58omXExW5B",
+      "name": "sky high (tiësto edit [extended mix])",
+      "album_type": "single",
+      "release_date": "2015-08-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737137f79b6b4ad6c93e58a43b",
+      "uri": "spotify:album:3kw77lJmSd5uivKfvyngkd",
+      "name": "sky high (tiësto edit)",
+      "album_type": "single",
+      "release_date": "2015-08-17",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356451295a1fa52ab8b4101a5",
+      "uri": "spotify:album:0XTqgWOPwIY8hz3gFXZGHs",
+      "name": "invincible (feat. ruby prophet)",
+      "album_type": "single",
+      "release_date": "2015-05-22",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273395029bc4bf7fdc2726e9c63",
+      "uri": "spotify:album:6FSmuDp2PH9WdFQJunoEup",
+      "name": "darkside",
+      "album_type": "single",
+      "release_date": "2015-04-20",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733aa96a8979dd9c68d615153f",
+      "uri": "spotify:album:2rpqRVFNL4yiQsvBrqqa7n",
+      "name": "rage",
+      "album_type": "single",
+      "release_date": "2015-03-02",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "22bukBZvUppuwQwmDz75Gz",
+          "name": "sander van doorn"
+        },
+        {
+          "spotify_id": "2vUCVkeZjzDcaoX4gagHdV",
+          "name": "julian jordan"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aa493dab6ea66412686395ca",
+      "uri": "spotify:album:1MqqLfIKtapv8bRAo4G4oL",
+      "name": "arsonist",
+      "album_type": "single",
+      "release_date": "2015-01-12",
+      "release_year": "2015",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ffe559ea9a3ce60467f7f8e",
+      "uri": "spotify:album:3nZzaI9rt1ScK2GoGFwFT6",
+      "name": "i can't understand",
+      "album_type": "single",
+      "release_date": "2014-12-01",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdb3a266ed02da7a1444dd37",
+      "uri": "spotify:album:3s4lXULxDi2TjBgxlK26EU",
+      "name": "calabria (firebeatz remix)",
+      "album_type": "single",
+      "release_date": "2014-10-27",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "32ejcIBfk6cbs473H0LlBE",
+          "name": "rune rk"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6c931fd8e370c8f3dcb201e",
+      "uri": "spotify:album:51S1X1sNnJ49wfASKk8zZa",
+      "name": "free (let it be)",
+      "album_type": "single",
+      "release_date": "2014-10-27",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "02Le1QyPKwyUgjQRnVjGqE",
+          "name": "stuart"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27337e194e14819a9822e6c8354",
+      "uri": "spotify:album:0o5FMj2LepZb7fZ6CNAxe3",
+      "name": "no heroes (feat. luciana)",
+      "album_type": "single",
+      "release_date": "2014-09-05",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "kshmr"
+        },
+        {
+          "spotify_id": "4ugGMtXC28CVR5hlYJy9wV",
+          "name": "luciana"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381a0b2fc2cd214798ca099b7",
+      "uri": "spotify:album:48TCQRJyC5HMkRw8uGc0uZ",
+      "name": "bombaclat",
+      "album_type": "single",
+      "release_date": "2014-07-05",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27334c0775648d96d10f76857b8",
+      "uri": "spotify:album:3nosAPwOVJ912YHHVcNI2H",
+      "name": "bazooka",
+      "album_type": "single",
+      "release_date": "2014-06-02",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a257f724eb3f673febfeb982",
+      "uri": "spotify:album:2a7AQ7ZAcUFtncsU1vekFt",
+      "name": "4 real life ep",
+      "album_type": "single",
+      "release_date": "2014-04-18",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273776db42feef2d65ee7706ad0",
+      "uri": "spotify:album:60o0hLZmGjwphgQzPt5M50",
+      "name": "guitar track",
+      "album_type": "single",
+      "release_date": "2014-04-07",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "22bukBZvUppuwQwmDz75Gz",
+          "name": "sander van doorn"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738d25352045261c68bf158a16",
+      "uri": "spotify:album:2vVYOsPwDIDRigcmvqDlRF",
+      "name": "helicopter (video edit)",
+      "album_type": "single",
+      "release_date": "2014-03-10",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "martin garrix"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c5de7bf3cd9d2bec2471d187",
+      "uri": "spotify:album:48PJHFdeg5FPVeNfwwODQd",
+      "name": "rockin",
+      "album_type": "single",
+      "release_date": "2014-02-07",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3XINWZaloea97SIRiyTJxX",
+          "name": "dubvision"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273471249db3b650385a8d4803f",
+      "uri": "spotify:album:3K48GzsPI97hFmEdRoOVlx",
+      "name": "switch",
+      "album_type": "single",
+      "release_date": "2014",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c781534a5f87c9c54519d476",
+      "uri": "spotify:album:63LRIAwENmuR5S3p3jIRcX",
+      "name": "max ammo",
+      "album_type": "single",
+      "release_date": "2013-12-30",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ee23037d20874e158e907bfa",
+      "uri": "spotify:album:0cNAJdyIcZl0oAujBD2yWL",
+      "name": "wicked",
+      "album_type": "single",
+      "release_date": "2013-09-30",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d1d80d5ca27d4a269e6a828b",
+      "uri": "spotify:album:6XwE8iRunOv4YHvmTHe1Xm",
+      "name": "sausage fest",
+      "album_type": "single",
+      "release_date": "2013-07-29",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391f18387a70967e09010502f",
+      "uri": "spotify:album:7Ad4ZSoVzAa1uuvi9ED38l",
+      "name": "ding dong",
+      "album_type": "single",
+      "release_date": "2013-05-14",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0FhsW40UydsdpNcKlkJEKC",
+          "name": "bobby burns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c13047e5e9c26a3da322c88a",
+      "uri": "spotify:album:44dQYrVe7XBEEQTAH0MRjK",
+      "name": "gangster",
+      "album_type": "single",
+      "release_date": "2013-03-25",
+      "release_year": "2013",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c607a95394922de7a1016489",
+      "uri": "spotify:album:0X3E5XjTBSCh9cBoQY0vNf",
+      "name": "dear new york",
+      "album_type": "single",
+      "release_date": "2013-01-16",
+      "release_year": "2013",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "1XaoPXtlB44tKU0d0Bxjfk",
+          "name": "schella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e0c9a1b1f92d18c2e687c60c",
+      "uri": "spotify:album:2v4S965cWYqtNSJBlUDjNK",
+      "name": "disque",
+      "album_type": "single",
+      "release_date": "2012-12-10",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27367a38c17d91ace3b9fcf7695",
+      "uri": "spotify:album:2UDj2M57xPv9PJ8dIaGfzA",
+      "name": "here we f*cking go",
+      "album_type": "single",
+      "release_date": "2012-11-05",
+      "release_year": "2012",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314ca08a536f49750ad32d1e7",
+      "uri": "spotify:album:5BEcPHRixrVL9jv62dobf6",
+      "name": "just one more time baby",
+      "album_type": "single",
+      "release_date": "2012-07-16",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Aw0IGM5JS3FuTgtRsDWGA",
+          "name": "chocolate puma"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391dc7ffeb801efa85a875e58",
+      "uri": "spotify:album:64tHbk978eZUjjOA6cJl9C",
+      "name": "reckless",
+      "album_type": "single",
+      "release_date": "2012-05-07",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b35794d5edcff004e8e8b4b8",
+      "uri": "spotify:album:3Q6rgnlyi0BhfhBu7wdW5o",
+      "name": "miniman",
+      "album_type": "single",
+      "release_date": "2012-04-09",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f8414fd84fb09ecd7fce6988",
+      "uri": "spotify:album:5nHz8Ga3FYIwUPveuUrmKj",
+      "name": "where's your head at",
+      "album_type": "single",
+      "release_date": "2012-01-30",
+      "release_year": "2012",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a82e7713c659880128af4a2",
+      "uri": "spotify:album:147xDwrie7UxdMDNRE7qzQ",
+      "name": "funky shit",
+      "album_type": "single",
+      "release_date": "2011-10-31",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dc289e128cf595a8a85eaac2",
+      "uri": "spotify:album:4a0BttSqnjnxgUni8nUUWh",
+      "name": "knock out",
+      "album_type": "single",
+      "release_date": "2011-07-25",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738603f063f79f5349135c48e6",
+      "uri": "spotify:album:7jjeFDenOVIpy0Ud6XbbxG",
+      "name": "where brooklyn at? / wise up",
+      "album_type": "single",
+      "release_date": "2011-06-11",
+      "release_year": "2011",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f5ff1d23f3d9b2489873c5b",
+      "uri": "spotify:album:12gLKp0lQkSwCaJ6G4U00b",
+      "name": "it's like that 2011 (the remixes)",
+      "album_type": "single",
+      "release_date": "2011-04-26",
+      "release_year": "2011",
+      "total_tracks": 6,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730c87f1e064c01e466a80ce1a",
+      "uri": "spotify:album:31Iae5aSrkBBaTqZytiMAn",
+      "name": "real life, dis dis",
+      "album_type": "single",
+      "release_date": "2011-04-11",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360e31cdf0aead0ad337d1c4e",
+      "uri": "spotify:album:17kthyAcpT2Cz7nbnicCA9",
+      "name": "it's like that 2011",
+      "album_type": "single",
+      "release_date": "2011-01-04",
+      "release_year": "2011",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27316a175845ac782b49294419d",
+      "uri": "spotify:album:4GpsmY409ba57dVbjn1TZs",
+      "name": "tell me",
+      "album_type": "single",
+      "release_date": "2011",
+      "release_year": "2011",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737119e838f96395b814283d35",
+      "uri": "spotify:album:5dDPVL4hZ85guu7H3arwb2",
+      "name": "zunga zunga",
+      "album_type": "single",
+      "release_date": "2010-10-25",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4XaX11VVNHfq7Rbbn1E5Gk",
+          "name": "greg van bueren"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731b6387a8e978e2bd1a71a183",
+      "uri": "spotify:album:44wCH4QoPfCSs0nFhkR7N2",
+      "name": "punk!",
+      "album_type": "single",
+      "release_date": "2010-09-27",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27338a3fffc9ea9bd5fde76b1c4",
+      "uri": "spotify:album:6cZYJSGmwVjz96cMwTP4oz",
+      "name": "beatboxa / look behind the obvious",
+      "album_type": "single",
+      "release_date": "2010-03-30",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735e37f512c465ff9b6d49e7d9",
+      "uri": "spotify:album:1V2pUmg2JcSwdvJ04gV09c",
+      "name": "seventy two / amfibi",
+      "album_type": "single",
+      "release_date": "2010-02-09",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739c600faf8799a4cce8a0142c",
+      "uri": "spotify:album:2vjaXcIGYdDxi13pi55gL2",
+      "name": "2 time's the charm/magic people",
+      "album_type": "single",
+      "release_date": "2010-02-08",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c80ea4d8969ec858859f6c4f",
+      "uri": "spotify:album:0AIy4f5mEKM11QhDIq5eWf",
+      "name": "cencerro",
+      "album_type": "single",
+      "release_date": "2010-01-01",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e58b9cf11f991536560d38c9",
+      "uri": "spotify:album:3xtQlGjtBV6iT4fEojUIYd",
+      "name": "hidden sound",
+      "album_type": "single",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cfd7208d407b98f5ec36805c",
+      "uri": "spotify:album:1NUCvU2IB9ukeK3XifE4F6",
+      "name": "hidden sound (this beat is got me)",
+      "album_type": "single",
+      "release_date": "2010",
+      "release_year": "2010",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf97929d82919c699f973709",
+      "uri": "spotify:album:2YZ9O2ShPg4Oq1qHzAz50i",
+      "name": "skandelous",
+      "album_type": "single",
+      "release_date": "2009-12-15",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328c1958263f2cf9700a77ba1",
+      "uri": "spotify:album:1EQQ8RhD1d4nRTWdKHQwsT",
+      "name": "hit the dust (feat. stanford)",
+      "album_type": "single",
+      "release_date": "2009-10-19",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0mRnzQ57yTuNxmAQWqKzYO",
+          "name": "mell tierra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bc530f4e33f96f099317d85a",
+      "uri": "spotify:album:0YzaodTDYtPAdGCamd3B7K",
+      "name": "flamboyant / swaziland",
+      "album_type": "single",
+      "release_date": "2009-06-01",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0bi8sypegPFiP6Rd9gdkyz",
+          "name": "apster"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737c71f2595424c1005bcbd69e",
+      "uri": "spotify:album:3rOl9KFqZ34QuYaqIT2mtd",
+      "name": "we're going back / bring the ruckuz",
+      "album_type": "single",
+      "release_date": "2009-04-07",
+      "release_year": "2009",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737fa2e9a05db9919204b80a49",
+      "uri": "spotify:album:2gePtCHpu5pObVkRTLJTJg",
+      "name": "electric zoo ep",
+      "album_type": "single",
+      "release_date": "2009-02-26",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0Xp3PoeuaiJubx3FJIZFDn",
+          "name": "joeysuki"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e063cfe3eafaa171335d1a47",
+      "uri": "spotify:album:6MW8cfKQX6EWt22zAuliN2",
+      "name": "funked",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27312df9a7c551e4fcb96bf0fad",
+      "uri": "spotify:album:5XxyVJJKqqCAjpOvtFnIx1",
+      "name": "ready to go",
+      "album_type": "single",
+      "release_date": "2009-01-01",
+      "release_year": "2009",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        },
+        {
+          "spotify_id": "0mRnzQ57yTuNxmAQWqKzYO",
+          "name": "mell tierra"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730420cb733d7697c7872b31a9",
+      "uri": "spotify:album:1invSint0ErushnxFnhLqZ",
+      "name": "speak up",
+      "album_type": "single",
+      "release_date": "2008-11-04",
+      "release_year": "2008",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "firebeatz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-15T05:11:36.000Z"
+}
