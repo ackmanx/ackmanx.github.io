@@ -1,0 +1,75 @@
+{
+  "name": "tristesse de la lune",
+  "spotify_id": "2p4BbIfr1C7pZ52XWlJAhK",
+  "uri": "spotify:artist:2p4BbIfr1C7pZ52XWlJAhK",
+  "image_url": "https://i.scdn.co/image/ab67616d0000b273e10a27fb00a1099546529fd7",
+  "genres": [
+    "ebm",
+    "darkwave",
+    "industrial",
+    "synthpop"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737e4853a51213470f6b305f0e",
+      "uri": "spotify:album:3kRGbqqdFdNGJx4eEL23UG",
+      "name": "ninive / time is moving",
+      "album_type": "album",
+      "release_date": "2005-11-10",
+      "release_year": "2005",
+      "total_tracks": 8,
+      "artists": [
+        {
+          "spotify_id": "2p4BbIfr1C7pZ52XWlJAhK",
+          "name": "tristesse de la lune"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e10a27fb00a1099546529fd7",
+      "uri": "spotify:album:4ZmgK089TM8qVzy5ykxL9J",
+      "name": "a heart whose love is innocent",
+      "album_type": "album",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 12,
+      "artists": [
+        {
+          "spotify_id": "2p4BbIfr1C7pZ52XWlJAhK",
+          "name": "tristesse de la lune"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737feddb702b8abad3fad2cb0d",
+      "uri": "spotify:album:2qlnIhBvgFmLQuGhgdWfVL",
+      "name": "queen of the damned",
+      "album_type": "single",
+      "release_date": "2003",
+      "release_year": "2003",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2p4BbIfr1C7pZ52XWlJAhK",
+          "name": "tristesse de la lune"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e64492859f79c3b61ebda3c9",
+      "uri": "spotify:album:32yB8irQXpR809nEysFORI",
+      "name": "eiskalte liebe",
+      "album_type": "single",
+      "release_date": "2002",
+      "release_year": "2002",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "2p4BbIfr1C7pZ52XWlJAhK",
+          "name": "tristesse de la lune"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-07T02:45:51.000Z"
+}

@@ -1,0 +1,275 @@
+{
+  "name": "jawns",
+  "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+  "uri": "spotify:artist:5dXHoJzpLuiEug5rSXeCib",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb1be65835dcfac2b7696980fe",
+  "genres": [
+    "edm trap"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c3d932a05d6d4d1cb0ef2b8b",
+      "uri": "spotify:album:3ShvQaljnue976JvrQeYyC",
+      "name": "escape",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738c3fd79142ddb17977ce642c",
+      "uri": "spotify:album:0v6UQFtp3LgMMJhivKhsJW",
+      "name": "snakeyes",
+      "album_type": "single",
+      "release_date": "2025-07-09",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a6ba5a01b7e1becef67f9563",
+      "uri": "spotify:album:3GAj3dyVo7jSkJjkbWGZdM",
+      "name": "wildstyle",
+      "album_type": "single",
+      "release_date": "2025-05-28",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ce04f77baa35da149542ec26",
+      "uri": "spotify:album:6SXovZDtjTYPfYTZ0yVxHx",
+      "name": "dogwater",
+      "album_type": "single",
+      "release_date": "2024-05-24",
+      "release_year": "2024",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738e4896229030944747942f43",
+      "uri": "spotify:album:18uWjwoHK5esXVpyEpUJMM",
+      "name": "deadweight",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        },
+        {
+          "spotify_id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "party favor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733e85c7d184331342d155a996",
+      "uri": "spotify:album:5kFkc8lvqPQFguLs5rb2ui",
+      "name": "damager",
+      "album_type": "single",
+      "release_date": "2024-03-29",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a78d5630ff3f430dfa14a7d",
+      "uri": "spotify:album:7HDr5VKcImOdCCENS9WatP",
+      "name": "erotica",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27393ed59b22d4687ae92397613",
+      "uri": "spotify:album:3FV6VTWXDst2O8O5nLatSF",
+      "name": "starfire",
+      "album_type": "single",
+      "release_date": "2023-08-18",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736d6452c92dc3928bf5e29718",
+      "uri": "spotify:album:2lpkjwFTE2mU7MDfYeFuu9",
+      "name": "menace",
+      "album_type": "single",
+      "release_date": "2023-04-07",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273777dd770849bacb4a06111ce",
+      "uri": "spotify:album:0dvJgq7sE4B46VNiR10kA8",
+      "name": "last resort",
+      "album_type": "single",
+      "release_date": "2022-07-08",
+      "release_year": "2022",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27381f1018d42493e231c8e1568",
+      "uri": "spotify:album:3iuQ6wqOmB3c4Bm9We7hRS",
+      "name": "body breaker",
+      "album_type": "single",
+      "release_date": "2022-05-25",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d31646d6cb03443d30fe3c79",
+      "uri": "spotify:album:6GYcCXDd07ECs79IfmTp2X",
+      "name": "detonator",
+      "album_type": "single",
+      "release_date": "2021-07-02",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e8e38dc6a7c0ea3da1f98354",
+      "uri": "spotify:album:1kcIPFB7x3HxBKdWR7tikw",
+      "name": "enter the world",
+      "album_type": "single",
+      "release_date": "2021-05-21",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "04p1jV00pBnrmh2rKl0jnT",
+          "name": "juelz"
+        },
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c996e6f4c2fd1b8cb16d72c3",
+      "uri": "spotify:album:51DdgKVyIRjaQYezkui9Vs",
+      "name": "rpm",
+      "album_type": "single",
+      "release_date": "2020-09-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273583077699e98b3df4a62cf78",
+      "uri": "spotify:album:4Sa6AVhVPv8OSwYzxqNuuu",
+      "name": "catalyst",
+      "album_type": "single",
+      "release_date": "2020-07-10",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27307859c21717b8ae0fa11b3da",
+      "uri": "spotify:album:6B83ryAvsi1rh7WaO4NzlR",
+      "name": "trash talk",
+      "album_type": "single",
+      "release_date": "2019-09-09",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737105b9bf46fb682b9e61fca4",
+      "uri": "spotify:album:0Fvh4ovaPLTtJ1N4FcdQdw",
+      "name": "house of god",
+      "album_type": "single",
+      "release_date": "2019-05-23",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5dXHoJzpLuiEug5rSXeCib",
+          "name": "jawns"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-07T02:45:25.000Z"
+}

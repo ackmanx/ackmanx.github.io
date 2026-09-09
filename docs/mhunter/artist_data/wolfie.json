@@ -1,0 +1,161 @@
+{
+  "name": "wolfie",
+  "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+  "uri": "spotify:artist:1Fdq7z6dh4dU9hnF0rwTTM",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb2d2ac954d03c35a6b070f627",
+  "genres": [
+    "riddim",
+    "dubstep"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a0103d75ac02d18ed623d2a0",
+      "uri": "spotify:album:0YUkxlQHrFKJxua30cpNP0",
+      "name": "dominate",
+      "album_type": "single",
+      "release_date": "2026-06-05",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4lZyQiNEwbXNpy5WBG8P9i",
+          "name": "usaybflow"
+        },
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        },
+        {
+          "spotify_id": "0w2Jns4lUVKyVQKvPbrF6R",
+          "name": "goat dubz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273edc36c1f9e2ce03e2ecbdcaa",
+      "uri": "spotify:album:69kNy18rhXoAROi6pz6WoM",
+      "name": "tear warp",
+      "album_type": "single",
+      "release_date": "2026-01-16",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        },
+        {
+          "spotify_id": "1eS7lcBsWcBKeNyZaJWbYd",
+          "name": "ascension"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735167716fbf29c4783d798a2a",
+      "uri": "spotify:album:2lpoiUiR0muyfiEjFBmzAE",
+      "name": "lights up",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        },
+        {
+          "spotify_id": "2cH8grOvtcCgywEYRVA7nk",
+          "name": "nghtnday"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356e31fc1367274d969f2b325",
+      "uri": "spotify:album:4nGN6e3K1o0h9x8jAFSMeZ",
+      "name": "wonkestra",
+      "album_type": "single",
+      "release_date": "2025-10-03",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5rme5gZgWm0zIFSl6Lb5QL",
+          "name": "liu kang"
+        },
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735ad5f764bed63c64653314f6",
+      "uri": "spotify:album:1CooIp0u3gpZwUzdJNclUc",
+      "name": "rage quit",
+      "album_type": "single",
+      "release_date": "2025-09-05",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27311251243f0268d4824b6435a",
+      "uri": "spotify:album:6cEP48WlilvNZztOWVtzEQ",
+      "name": "rave killer",
+      "album_type": "single",
+      "release_date": "2022-09-26",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        },
+        {
+          "spotify_id": "56UGM2CpbEJHePkHYSpxgK",
+          "name": "fke imge"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fe086d6563de28dc8756aeb6",
+      "uri": "spotify:album:5IgZBmwcKQvYyo7nFh1wfO",
+      "name": "doom",
+      "album_type": "single",
+      "release_date": "2022-05-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1a62b2873856c77d15f200",
+      "uri": "spotify:album:2kE0XJ4Z56nm41yKGAB8A1",
+      "name": "death beam",
+      "album_type": "single",
+      "release_date": "2022-02-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1Fdq7z6dh4dU9hnF0rwTTM",
+          "name": "wolfie"
+        },
+        {
+          "spotify_id": "56UGM2CpbEJHePkHYSpxgK",
+          "name": "fke imge"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-07T02:45:58.000Z"
+}

@@ -1,0 +1,120 @@
+{
+  "name": "miss construction",
+  "spotify_id": "40m16kE896yRgrr1bVeDi9",
+  "uri": "spotify:artist:40m16kE896yRgrr1bVeDi9",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb45080d5989941bb59ffb080e",
+  "genres": [
+    "industrial",
+    "ebm",
+    "industrial metal",
+    "industrial rock"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fdccd9a98eaa6775aa39354a",
+      "uri": "spotify:album:1tei1vAcmhV6vqcEF8isCb",
+      "name": "f.m.p.",
+      "album_type": "single",
+      "release_date": "2026-07-09",
+      "release_year": "2026",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273521a97377a4df1b8ce01a47c",
+      "uri": "spotify:album:6oNzKeX0RvaI8Qy4Y8gMo3",
+      "name": "heiß",
+      "album_type": "single",
+      "release_date": "2026-04-01",
+      "release_year": "2026",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f576a69a3c9294aaeaffdc7f",
+      "uri": "spotify:album:0hOwxEoiln4WFCSHYd8Lys",
+      "name": "hate",
+      "album_type": "single",
+      "release_date": "2026-01-29",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a93e11c4e84b6d40f5dc6b58",
+      "uri": "spotify:album:0CQhcO81jtsnS2AWWUEJTa",
+      "name": "back again",
+      "album_type": "single",
+      "release_date": "2025-12-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c2704ed3f76642ded7a4f43f",
+      "uri": "spotify:album:35390YWwQBCtqdDsF3sFXQ",
+      "name": "spiel mit mir",
+      "album_type": "single",
+      "release_date": "2025-10-10",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27313452199ea973ee4ee356759",
+      "uri": "spotify:album:2hz9BJTfDTY2SPzpkZmrpQ",
+      "name": "united trash (the z files)",
+      "album_type": "album",
+      "release_date": "2013-11-01",
+      "release_year": "2013",
+      "total_tracks": 14,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731911c18a59ce2b1d569299cd",
+      "uri": "spotify:album:603jWfAFPn4s2TDaeyAXL1",
+      "name": "kunstprodukt",
+      "album_type": "album",
+      "release_date": "2008-04-25",
+      "release_year": "2008",
+      "total_tracks": 16,
+      "artists": [
+        {
+          "spotify_id": "40m16kE896yRgrr1bVeDi9",
+          "name": "miss construction"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-07T02:45:32.000Z"
+}

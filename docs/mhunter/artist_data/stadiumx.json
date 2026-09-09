@@ -1,0 +1,2531 @@
+{
+  "name": "stadiumx",
+  "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+  "uri": "spotify:artist:0DRf6JJDQnRnz0Yp209CmH",
+  "image_url": "https://i.scdn.co/image/ab6761610000e5eb3f839141cc650267ed6afa91",
+  "genres": [
+    "progressive house",
+    "future house",
+    "edm"
+  ],
+  "albums": [
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273903cdd5d5852769f41cd7418",
+      "uri": "spotify:album:6N4CdLsearJv1Aa5j7nXwu",
+      "name": "take it higher",
+      "album_type": "single",
+      "release_date": "2026-08-21",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "tujamo"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b12987f671229fcf63f65f3f",
+      "uri": "spotify:album:5gl2lyqG34FkipTvY2WvYd",
+      "name": "to the beat",
+      "album_type": "single",
+      "release_date": "2026-07-24",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "37czgDRfGMvgRiUKHvnnhj",
+          "name": "öwnboss"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e79dc29343d4d1c466c5f2a",
+      "uri": "spotify:album:7jEsxKu7SLxVChJzaNXHRH",
+      "name": "pongo",
+      "album_type": "single",
+      "release_date": "2026-06-19",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2sZWQPBglKu7CxaZ6tJSYG",
+          "name": "miirabelle"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739f5edb0d030787f071925d52",
+      "uri": "spotify:album:22srco1Lk4IBlije5dSRBM",
+      "name": "puro",
+      "album_type": "single",
+      "release_date": "2026-04-17",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734c1362a420fb36ba02a8cdf0",
+      "uri": "spotify:album:5gdvUcyfJ9ObywZckKdagf",
+      "name": "vibe right",
+      "album_type": "single",
+      "release_date": "2026-03-06",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328c1495a1581473022f3caef",
+      "uri": "spotify:album:6dmEzeaXkbgVRcvC7UJXkW",
+      "name": "automatic",
+      "album_type": "single",
+      "release_date": "2026-01-30",
+      "release_year": "2026",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273afa7b03d85d94bcf1693448f",
+      "uri": "spotify:album:6EFCrhYI6AkdaeEDlzxE0X",
+      "name": "selector",
+      "album_type": "single",
+      "release_date": "2025-12-05",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e894c86cdb1563297f74adb",
+      "uri": "spotify:album:1KMIYWknvHaoy9o4GfGsrF",
+      "name": "vibration",
+      "album_type": "single",
+      "release_date": "2025-10-31",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2sZWQPBglKu7CxaZ6tJSYG",
+          "name": "miirabelle"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bdf31d9d8d2238b8382b5a1a",
+      "uri": "spotify:album:4LBIaDdMsds3eyITgCr9zP",
+      "name": "rip off",
+      "album_type": "single",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27308d911fcb0ab9dab72394cf0",
+      "uri": "spotify:album:1XfU0vKX0lGvHsBsiOikas",
+      "name": "last applause",
+      "album_type": "single",
+      "release_date": "2025-08-22",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z59lu7ApgQvSdntngRDkq",
+          "name": "b jones"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b54b2806f31ec181c003968d",
+      "uri": "spotify:album:2FDOHhlrEEf5s3oepqQVKf",
+      "name": "turbo",
+      "album_type": "single",
+      "release_date": "2025-08-01",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314a052f7ac7954ddb1af0696",
+      "uri": "spotify:album:3L0vVvOopYXI7W16j3ldXX",
+      "name": "kongobongo",
+      "album_type": "single",
+      "release_date": "2025-05-30",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "2sZWQPBglKu7CxaZ6tJSYG",
+          "name": "miirabelle"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731ce8d426b21bda8619068ac9",
+      "uri": "spotify:album:5N7lb35MeVCRxngPIatLOM",
+      "name": "nomadic soul",
+      "album_type": "single",
+      "release_date": "2025-04-04",
+      "release_year": "2025",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5cqctR1IEdc11lN3KEmoGW",
+          "name": "eran hersh"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f864494c0d8abf5bc484d96a",
+      "uri": "spotify:album:4cS9YZj4VRap7YJDOwR3gH",
+      "name": "nakupenda",
+      "album_type": "single",
+      "release_date": "2025-02-21",
+      "release_year": "2025",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "0LC3HTEh3afI3UfpmSdShk",
+          "name": "idd aziz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273abacfbbaff78f4c70b0acc15",
+      "uri": "spotify:album:6mxMTJ75Ex9kjFcokJiyPM",
+      "name": "thousand lives (scorz remix)",
+      "album_type": "single",
+      "release_date": "2024-12-20",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "3XBxSfCwYIMBzWmJL7ZJ4U",
+          "name": "jason walker"
+        },
+        {
+          "spotify_id": "2WSmz7fObdRrG8ZTXz7kcn",
+          "name": "scorz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737a8d119ec0abebc58dc81d0d",
+      "uri": "spotify:album:6CqfTu6XchKhkwX8Xyd4YA",
+      "name": "empty streets (eran hersh & stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2024-10-18",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "6JtFllJR7nhh8fa6oGefSj",
+          "name": "late night alumni"
+        },
+        {
+          "spotify_id": "5cqctR1IEdc11lN3KEmoGW",
+          "name": "eran hersh"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273253f3ceb68378cce3079d8c3",
+      "uri": "spotify:album:4hnB1fpPUsDQXSJa2u2oI6",
+      "name": "patchy",
+      "album_type": "single",
+      "release_date": "2024-06-14",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738f50c78c162e0978cc0ce84d",
+      "uri": "spotify:album:3kTUJB513TveXkmFPQ1HES",
+      "name": "summer moon remix",
+      "album_type": "single",
+      "release_date": "2024-05-31",
+      "release_year": "2024",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "3E9XtGFNNweLtiR8y5aZO5",
+          "name": "africanism"
+        },
+        {
+          "spotify_id": "5cqctR1IEdc11lN3KEmoGW",
+          "name": "eran hersh"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b3f3b8063a1821a78b48dddb",
+      "uri": "spotify:album:383JgyJScLSsnhH9f7E21B",
+      "name": "music in me",
+      "album_type": "single",
+      "release_date": "2024-05-03",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "27feHJH3VKyk8FgOndiWU8",
+          "name": "taylr renee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f54ca0f7a20a54d8bf71ed20",
+      "uri": "spotify:album:3UO5sfDTuFedAkOEoVRZdv",
+      "name": "howl at the moon (stadiumx rework)",
+      "album_type": "single",
+      "release_date": "2024-04-19",
+      "release_year": "2024",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "27feHJH3VKyk8FgOndiWU8",
+          "name": "taylr renee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731540142165c76cd8fa650198",
+      "uri": "spotify:album:0oFslnbQEIlYzRr6s7niBC",
+      "name": "let you let me go",
+      "album_type": "single",
+      "release_date": "2024-04-05",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "4sW5R5XKTge9Vwv44p9p18",
+          "name": "sam gray"
+        },
+        {
+          "spotify_id": "1exq6S91a0DeaZ9Q9tU7kk",
+          "name": "viktoria metzker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739dc7f6da3b138c683ad62e15",
+      "uri": "spotify:album:1Iu5rSNFaTAsqVeAZNPpWl",
+      "name": "don't forget",
+      "album_type": "single",
+      "release_date": "2024-03-01",
+      "release_year": "2024",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5Z59lu7ApgQvSdntngRDkq",
+          "name": "b jones"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "7nw3TslhIKWzoHZxpFYdPp",
+          "name": "maria mathea"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb4b037382d8ed08a781da45",
+      "uri": "spotify:album:0K0GixMAhFT4TrNWgPgZbD",
+      "name": "rodeo (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2023-12-15",
+      "release_year": "2023",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0ML3y0iBY1nq7HWAWP0EFm",
+          "name": "blanka"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27342dbf12c7ef17d9848c677bb",
+      "uri": "spotify:album:2pQs8e26pxeNdMYn4XRkLQ",
+      "name": "heaven (feat. azahriah) [mark roma extended remix]",
+      "album_type": "single",
+      "release_date": "2023-12-02",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "060FnJg6S5kH1FzOqLJePq",
+          "name": "mark roma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27319b00ee9864e6ccb76aa6b88",
+      "uri": "spotify:album:62ygqshPXAj1azDsvr1Aje",
+      "name": "heaven (feat. azahriah) [mark roma remix]",
+      "album_type": "single",
+      "release_date": "2023-12-01",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "060FnJg6S5kH1FzOqLJePq",
+          "name": "mark roma"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e367b53ef5165b10eb93073c",
+      "uri": "spotify:album:63VhWkn7zl2n2SeHjB4aLA",
+      "name": "bedam",
+      "album_type": "single",
+      "release_date": "2023-11-16",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        },
+        {
+          "spotify_id": "1okAr3huVXKvyVQewO5uBA",
+          "name": "deaf jules"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739e9cf8861f498cced826af2c",
+      "uri": "spotify:album:069yajzyYVbhyPxFMo8Lmd",
+      "name": "heaven (alle farben extended remix)",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "6EIriUxo7vznEgJtTDlXpq",
+          "name": "azahriah"
+        },
+        {
+          "spotify_id": "61ipISvUVa5LkJlKZnm3Oo",
+          "name": "alle farben"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ae5c2926cd1684a4ea9db5b6",
+      "uri": "spotify:album:2DBVqHi24RsIhGMTfFfPtR",
+      "name": "heaven (feat. azahriah) [alle farben remix]",
+      "album_type": "single",
+      "release_date": "2023-11-03",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "61ipISvUVa5LkJlKZnm3Oo",
+          "name": "alle farben"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f055166f66a465e907206465",
+      "uri": "spotify:album:2EQWeX3LJ3PnEOUcmEhSxW",
+      "name": "heaven (monoir extended remix)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "6EIriUxo7vznEgJtTDlXpq",
+          "name": "azahriah"
+        },
+        {
+          "spotify_id": "0TmLIfQje5MdX2ovu4yQKz",
+          "name": "monoir"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f356da6c22dacb641a22a81a",
+      "uri": "spotify:album:6LsSbQahE7r6ocYmBjbGwY",
+      "name": "heaven (monoir remix)",
+      "album_type": "single",
+      "release_date": "2023-09-22",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737449dcabaa2be149726cdfc5",
+      "uri": "spotify:album:5cgPp6YZCkPQK9eI2MeXqL",
+      "name": "fever (feat. salena mastroianni)",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "0X9HZbVBzUgugjKVgrYk6W",
+          "name": "salena mastroianni"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a96f0b17fff1d7cd7530b16a",
+      "uri": "spotify:album:1VwPm9Em8wT8vA8vQzRCC1",
+      "name": "fever (feat. salena mastroianni) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-08-25",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "0X9HZbVBzUgugjKVgrYk6W",
+          "name": "salena mastroianni"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f7d4675b4602887d934421b",
+      "uri": "spotify:album:5Qwq14opkryLpZyATalmrq",
+      "name": "good times (feat. gemaine)",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pbHrVayIcVpHI9z97u4bK",
+          "name": "bingo players"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "6WnCnGe06iOO6fTPYAPF03",
+          "name": "gemaine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27348753f32e690a9fdc4224eae",
+      "uri": "spotify:album:4qYW08efbmk7jLlWpI8AA7",
+      "name": "good times (feat. gemaine) [extended mix]",
+      "album_type": "single",
+      "release_date": "2023-08-11",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1pbHrVayIcVpHI9z97u4bK",
+          "name": "bingo players"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "6WnCnGe06iOO6fTPYAPF03",
+          "name": "gemaine"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273074ab3ef5f20e8a351793613",
+      "uri": "spotify:album:6qgCzcQfYKGv15NnFCoY2K",
+      "name": "heaven",
+      "album_type": "single",
+      "release_date": "2023-06-23",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        },
+        {
+          "spotify_id": "6EIriUxo7vznEgJtTDlXpq",
+          "name": "azahriah"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273302ac3c49fc1623b35320dee",
+      "uri": "spotify:album:2oWL9A4F2VvBz5Ol9D47du",
+      "name": "save me",
+      "album_type": "single",
+      "release_date": "2023-02-17",
+      "release_year": "2023",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "7rNPTious4qaZVcKH3cmX3",
+          "name": "timmo hendriks"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273105c56cbbbc8d8743fb29e78",
+      "uri": "spotify:album:1dHNqLZXp24PHbyx4xHRbD",
+      "name": "echoes",
+      "album_type": "single",
+      "release_date": "2023-02-03",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b59726330835d9123ccd61f7",
+      "uri": "spotify:album:2SCuDLTRprMzrNad4A7n5Q",
+      "name": "together",
+      "album_type": "single",
+      "release_date": "2023-01-27",
+      "release_year": "2023",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c218250d0695ef67f025c08",
+      "uri": "spotify:album:166oI2CSmmp0Wk4IaVbNrU",
+      "name": "harmony (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2022-12-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273595cedb5a09237beef01b6c7",
+      "uri": "spotify:album:1ewhG2nGyzpXIQ265RLIhY",
+      "name": "nobody (stadiumx edit)",
+      "album_type": "single",
+      "release_date": "2022-10-28",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        },
+        {
+          "spotify_id": "0ED1qOqe8QHtjQfCSpM1y2",
+          "name": "dave martin"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b57bfe7737adbe56a040fad0",
+      "uri": "spotify:album:3znwPAtGYz0jfQECIzB9Z2",
+      "name": "keep on dancing",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1KsrymyXUKgsUIfJdsbMiK",
+          "name": "kelvin river"
+        },
+        {
+          "spotify_id": "2IrrH2ytG96HCP9dnM6mGr",
+          "name": "twan ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731855299c6d3566fb22ffbf19",
+      "uri": "spotify:album:4bCrVqr7d6m5Yxl8O0A5jn",
+      "name": "keep on dancing (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-10-07",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1KsrymyXUKgsUIfJdsbMiK",
+          "name": "kelvin river"
+        },
+        {
+          "spotify_id": "2IrrH2ytG96HCP9dnM6mGr",
+          "name": "twan ray"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c91a92d8696a0eed27f3d93b",
+      "uri": "spotify:album:1FVFANLNa8PJRbVQPSXuvL",
+      "name": "september",
+      "album_type": "single",
+      "release_date": "2022-09-23",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "30B2OY2t19A6zCXGFUNlGB",
+          "name": "petey martin"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a14aa54774e6a16119cea8f7",
+      "uri": "spotify:album:2rfkM7cK0k4z66iEI0dCpv",
+      "name": "out of my mind",
+      "album_type": "single",
+      "release_date": "2022-09-02",
+      "release_year": "2022",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1ZwuShKjJItDJez0aDCsxN",
+          "name": "shells"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27323b6af41c1a08765172b85e3",
+      "uri": "spotify:album:2RazOB5iAQrg2zourPwoJR",
+      "name": "thousand lives",
+      "album_type": "single",
+      "release_date": "2022-08-05",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "arty"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "3XBxSfCwYIMBzWmJL7ZJ4U",
+          "name": "jason walker"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27356c8c01523f2ff2adfe5698f",
+      "uri": "spotify:album:6Ym5WHF7p9E7JXsc1EVMkv",
+      "name": "i'm still in love",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "bob sinclar"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273835f38952f189228f2a75b15",
+      "uri": "spotify:album:696CQCCqA4A9mo7X9uB8Wf",
+      "name": "i'm still in love (extended mix)",
+      "album_type": "single",
+      "release_date": "2022-06-17",
+      "release_year": "2022",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5YFS41yoX0YuFY39fq21oN",
+          "name": "bob sinclar"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b78684c89569c8c0b67ec15",
+      "uri": "spotify:album:0YNPKMJVUSf7zj353BakRn",
+      "name": "out of my mind",
+      "album_type": "single",
+      "release_date": "2022-03-11",
+      "release_year": "2022",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1ZwuShKjJItDJez0aDCsxN",
+          "name": "shells"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b972245151ffbf3a82f9ec92",
+      "uri": "spotify:album:50B4hQEC3xqZ8qhL16ldtR",
+      "name": "okay (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-09-24",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d966b08d798e835a1d3a76a0",
+      "uri": "spotify:album:1odsbeS37tz9kO99k1Ni4m",
+      "name": "wonderland (stadiumx edit)",
+      "album_type": "single",
+      "release_date": "2021-08-13",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3lHCbPkaSUJPiqQ9ZJLEOj",
+          "name": "maone"
+        },
+        {
+          "spotify_id": "1DvLVyahRmHrv2X8EAq88r",
+          "name": "vjs"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396fdb453449b02dd7d2db8da",
+      "uri": "spotify:album:0OgNhtATpWpFVzfu7zp8bT",
+      "name": "superman (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-06-04",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5TrkbV9x6OdTBlzWPJeBz5",
+          "name": "youngr"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273eb3918f65113393870d7389e",
+      "uri": "spotify:album:2hICMPuZmM55yG9AtcCnqA",
+      "name": "7 days",
+      "album_type": "single",
+      "release_date": "2021-05-14",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "5AVL4JohmPpJASDshyUzQj",
+          "name": "teamworx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273044fbe5a2350fa2c52a30e6c",
+      "uri": "spotify:album:4g6V9OEsYTgWqqnFCqv9ZX",
+      "name": "piece of my mind",
+      "album_type": "single",
+      "release_date": "2021-04-30",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "3lHCbPkaSUJPiqQ9ZJLEOj",
+          "name": "maone"
+        },
+        {
+          "spotify_id": "4wT5Qb0wFcb2G0K0iQUnHG",
+          "name": "lukas max"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734a9199a994c785d1667dfc21",
+      "uri": "spotify:album:63zjtkvo7yz6IyNVCNkdS2",
+      "name": "remember",
+      "album_type": "single",
+      "release_date": "2021-04-02",
+      "release_year": "2021",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "7rNPTious4qaZVcKH3cmX3",
+          "name": "timmo hendriks"
+        },
+        {
+          "spotify_id": "1569hvm0IW3DHOfruYP2lM",
+          "name": "robbie rosen"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27343b3daa273eb85bd1f14b7d6",
+      "uri": "spotify:album:1DmW66s1KgoymYYM1yf083",
+      "name": "fade away (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-03-19",
+      "release_year": "2021",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1N9n8MSxrr4Emhb566493b",
+          "name": "morgan page"
+        },
+        {
+          "spotify_id": "3VcAPpkjFtd3Sj5fmqPQd1",
+          "name": "vivid"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273095aa6022ace8181c37d5b49",
+      "uri": "spotify:album:05lostOSOgm4r0Es9PMIS0",
+      "name": "no regrets (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2021-03-05",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "dash berlin"
+        },
+        {
+          "spotify_id": "2XGg454n1pSdgoqrfcSDbq",
+          "name": "jeffrey sutorius"
+        },
+        {
+          "spotify_id": "0NST5cNxDtRZuToY6ngC0k",
+          "name": "jordan grace"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391ed5d678d6ea175ef6a5e46",
+      "uri": "spotify:album:6hsvEmiHT4Z6jcNQs5UK3D",
+      "name": "i wanna let go",
+      "album_type": "single",
+      "release_date": "2021-02-19",
+      "release_year": "2021",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "7wovvpD23QhAuKTtMzJxbQ",
+          "name": "kplr"
+        },
+        {
+          "spotify_id": "1adncZQpQ0JKUUCTJyPho4",
+          "name": "clara sofie"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d97b7d45abc40684006b71f7",
+      "uri": "spotify:album:07j3UuAbO6bWY82vb5FcqV",
+      "name": "in my arms",
+      "album_type": "single",
+      "release_date": "2020-12-18",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1o5EqlNmXaRRsT6imRMm3i",
+          "name": "pharien"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273248de3ee2a96f09cf413cacb",
+      "uri": "spotify:album:11scLLmnoReARbOn06yXDr",
+      "name": "what’s your love like (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2020-11-27",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "4d3yvTptO48nOYTPBcPFZC",
+          "name": "eve"
+        },
+        {
+          "spotify_id": "5MO2kbaGGA2a8kL4c9qqHq",
+          "name": "paul oakenfold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731009a24bde79096db0573907",
+      "uri": "spotify:album:1mt40hYF9QuxJjct27i4i4",
+      "name": "lay low (stadiumx edit)",
+      "album_type": "single",
+      "release_date": "2020-11-13",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5K6HIuMliRBshVrPaRqu69",
+          "name": "mordkey"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27310df7ae24ac58098906dac61",
+      "uri": "spotify:album:1apMjN2T7vOyx1D80oucVi",
+      "name": "sweet calling",
+      "album_type": "single",
+      "release_date": "2020-10-30",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "35L9RYuKatHB5finxS9DTo",
+          "name": "røyal"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731e6ec5b34a79be4bd77c7bea",
+      "uri": "spotify:album:4AoF56OF2OVvSo2yYjUXmf",
+      "name": "wars (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2020-08-28",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3PSaVjQnbHmuOKLBbFVxuW",
+          "name": "lakshmi"
+        },
+        {
+          "spotify_id": "5UgA77bKieWHI27WVk6bPE",
+          "name": "tim van werd"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273df2df8c8e12e46fe0b0b100b",
+      "uri": "spotify:album:004i8XAJvt12jLHhoM92vi",
+      "name": "free spirit",
+      "album_type": "single",
+      "release_date": "2020-08-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273aad1075dcf43a851dfeb521c",
+      "uri": "spotify:album:2WpwRQOq0ldOpC768TH9v0",
+      "name": "illusions (vip mix)",
+      "album_type": "single",
+      "release_date": "2020-07-31",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "2isGeJMHIqJZuuQ8MPh5sO",
+          "name": "sebastian wibe"
+        },
+        {
+          "spotify_id": "0izKfMblL8LX6Bv2wG3Cy7",
+          "name": "lena leon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f028504146c96134ea40399e",
+      "uri": "spotify:album:6a6GXyDoX6paNh610d30fB",
+      "name": "be mine (the remixes)",
+      "album_type": "album",
+      "release_date": "2020-07-17",
+      "release_year": "2020",
+      "total_tracks": 9,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730a42d9665635cac97cac53f4",
+      "uri": "spotify:album:6E64qxW2rV3RPeUJYU79RD",
+      "name": "be mine (stadiumx & metrush remix)",
+      "album_type": "single",
+      "release_date": "2020-07-03",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273dec4575d615a04f67b8d431a",
+      "uri": "spotify:album:79HS13F2k0Zrap01D3IiC0",
+      "name": "illusions",
+      "album_type": "single",
+      "release_date": "2020-06-19",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "0izKfMblL8LX6Bv2wG3Cy7",
+          "name": "lena leon"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273fef14fee4c5ea934d5348e28",
+      "uri": "spotify:album:4bWx8TPf6vHXYvKLS1JH9L",
+      "name": "losing my mind",
+      "album_type": "single",
+      "release_date": "2020-06-05",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c934fbdc5b6f9c9c225261e3",
+      "uri": "spotify:album:7j3ZkSfNBai7zDb68J3Imc",
+      "name": "be yourself",
+      "album_type": "single",
+      "release_date": "2020-05-22",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2739a713ad5b314a410cea02954",
+      "uri": "spotify:album:6xwbLBO9HmYGFZhDkQg9lr",
+      "name": "be mine",
+      "album_type": "single",
+      "release_date": "2020-05-15",
+      "release_year": "2020",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360c198a5c239759542bc3287",
+      "uri": "spotify:album:3jpkIypKG8VBVjbNwxEmVN",
+      "name": "somebody (stadiumx edit)",
+      "album_type": "single",
+      "release_date": "2020-05-14",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        },
+        {
+          "spotify_id": "1899F4ojFEHeMOWyXhnPje",
+          "name": "gspr"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736aeed2c2f92af542072109ef",
+      "uri": "spotify:album:4WAU9WjBkugWOf45HZNkcs",
+      "name": "we are life (moti remix)",
+      "album_type": "single",
+      "release_date": "2020-04-17",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "2isGeJMHIqJZuuQ8MPh5sO",
+          "name": "sebastian wibe"
+        },
+        {
+          "spotify_id": "1vo8zHmO1KzkuU9Xxh6J7W",
+          "name": "moti"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27382ee9ddd2dc52caddcf6df2a",
+      "uri": "spotify:album:4NOXbMzfMo82QSTLBdm6Tr",
+      "name": "sweet harmony",
+      "album_type": "single",
+      "release_date": "2020-04-02",
+      "release_year": "2020",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1xNeaOaf8khvhnxCU4TWcJ",
+          "name": "lux"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734ae15c7fd16933b511e71203",
+      "uri": "spotify:album:7sEHv9Rhnrd1NZg5wfJaeM",
+      "name": "we are life",
+      "album_type": "single",
+      "release_date": "2019-12-13",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "2isGeJMHIqJZuuQ8MPh5sO",
+          "name": "sebastian wibe"
+        },
+        {
+          "spotify_id": "4esHHdhDN4oeg9zYkAFpUs",
+          "name": "mingue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273137d20d2cb163d0a20062d5b",
+      "uri": "spotify:album:24DHMKm82XuXvN7i4t6IfS",
+      "name": "where are you now",
+      "album_type": "single",
+      "release_date": "2019-11-15",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27328a8eaf542acc5a4de239bd0",
+      "uri": "spotify:album:19R6mZ3ejLAvp4l3F3DhAe",
+      "name": "touch my soul",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734bd969f8b69ee61797147f88",
+      "uri": "spotify:album:453L5NRHtaVnxR3if0PsQi",
+      "name": "touch my soul (extended mix)",
+      "album_type": "single",
+      "release_date": "2019-10-25",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273933acc18db3b5f137fcf9930",
+      "uri": "spotify:album:69gAzggnY8OVRBz7kg4f6a",
+      "name": "love you forever (metrush remix)",
+      "album_type": "single",
+      "release_date": "2019-10-07",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ecad9ce72e8ce6cfb1277d9a",
+      "uri": "spotify:album:4J90JE7p17waL35zoWiBvi",
+      "name": "getting late",
+      "album_type": "single",
+      "release_date": "2019-10-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732f4bcb3c7b10cba0374cff22",
+      "uri": "spotify:album:7eJxrkuDWiel2lPQgU33nt",
+      "name": "know you better",
+      "album_type": "single",
+      "release_date": "2019-07-18",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b10acb2a373434776127d4ed",
+      "uri": "spotify:album:6HiujSCdsYuCXdd759w2kr",
+      "name": "love you forever",
+      "album_type": "single",
+      "release_date": "2019-06-21",
+      "release_year": "2019",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "66AE89GQTx88zLYhXn1wFK",
+          "name": "sam martin"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a99364f42a86a9c83a23b13",
+      "uri": "spotify:album:0hu5GIUEmTS4wOR0tipAZx",
+      "name": "overload",
+      "album_type": "single",
+      "release_date": "2019-05-03",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "4esHHdhDN4oeg9zYkAFpUs",
+          "name": "mingue"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27396ee603405376b1aa266aed8",
+      "uri": "spotify:album:4IbmOVnPIIjiepZznrDof8",
+      "name": "shake down",
+      "album_type": "single",
+      "release_date": "2019-02-04",
+      "release_year": "2019",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "5NzdRvsHUo8bIaIi7kTr74",
+          "name": "ayor"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d54a9a5aff7f1dc318f093aa",
+      "uri": "spotify:album:2BsrfrakhOuG1Eijbw02Lw",
+      "name": "want u",
+      "album_type": "single",
+      "release_date": "2018-11-26",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d120a973a67ae8154f5749d3",
+      "uri": "spotify:album:68R2aVmKwnrTV5qTOrllgH",
+      "name": "rise (ft. matluck) [acoustic]",
+      "album_type": "single",
+      "release_date": "2018-11-22",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27301cf4e4b5a14ac79c8137374",
+      "uri": "spotify:album:7k6uXynV5VgBsozFIEOzT7",
+      "name": "rise (ft. matluck) [afrojack remix]",
+      "album_type": "single",
+      "release_date": "2018-10-10",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "4D75GcNG95ebPtNvoNVXhz",
+          "name": "afrojack"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736b7dcf3342c79ebff4242aab",
+      "uri": "spotify:album:6eUaQ8c4pM6trQ5LgerdPS",
+      "name": "rise (ft. matluck) [thomas gold remix]",
+      "album_type": "single",
+      "release_date": "2018-10-10",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1XLjkBxFokuDTlHt0mQkRe",
+          "name": "thomas gold"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a55356812d8615b5810efa0f",
+      "uri": "spotify:album:4awIl57hbBaWtYfEYJ8Lhk",
+      "name": "could be love (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2018-09-21",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0uGApGjjFXKwUOAqYBeX7B",
+          "name": "deepend"
+        },
+        {
+          "spotify_id": "0QvtEuDIDAsKpfuOe2a237",
+          "name": "joe killington"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736020dab0f3c7168678fb3bcf",
+      "uri": "spotify:album:19fbdJRn0o0plZGV7e7UdW",
+      "name": "rise (ft. matluck)",
+      "album_type": "single",
+      "release_date": "2018-08-24",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "5CieAewiroqzWWxdsWuoNu",
+          "name": "matluck"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736e2802ce4fd14e0cdcf6db97",
+      "uri": "spotify:album:5tEAAoXjTpdcdWopSFflmF",
+      "name": "those were the days",
+      "album_type": "single",
+      "release_date": "2018-08-10",
+      "release_year": "2018",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "marc scibilia"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273457ffd057324185e44afc3cd",
+      "uri": "spotify:album:7vmkeT7847MogW1d6M1tJ0",
+      "name": "do it again (feat. bishøp)",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733b4a16c32a2ddbe8dc44568b",
+      "uri": "spotify:album:5KYHfdkYhVgrtaEezELQ2n",
+      "name": "do it again (feat. bishøp) [extended mix]",
+      "album_type": "single",
+      "release_date": "2018-07-20",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732a4b8865a7e4a13b8e0a89d5",
+      "uri": "spotify:album:3Hv8gjGR9CAmrkUUzBrsXE",
+      "name": "thinking of you",
+      "album_type": "single",
+      "release_date": "2018-03-19",
+      "release_year": "2018",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273150bbeb8da0542c34e1bf62a",
+      "uri": "spotify:album:2KEnXJmkrxUG78nbuB1TCC",
+      "name": "dangerous vibes",
+      "album_type": "single",
+      "release_date": "2018-02-16",
+      "release_year": "2018",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "2SHmJ9pvh1h1TXu2WulzL4",
+          "name": "going deeper"
+        },
+        {
+          "spotify_id": "1kprV7ls7rdPboF4LtuOgt",
+          "name": "mc flipside"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27314400a3601450497e9151d00",
+      "uri": "spotify:album:0vMcJBKkRn0dJWIS8YCQKH",
+      "name": "unforgettable (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2017-12-22",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "robin schulz"
+        },
+        {
+          "spotify_id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "marc scibilia"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cb9175813e649b02eecf8516",
+      "uri": "spotify:album:0y2h1i3qVvl4lwBqVYBXak",
+      "name": "it's not right but it's okay",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2736c985abc88862780cb382caf",
+      "uri": "spotify:album:63yjhN9OdiunO1hwgM9vKJ",
+      "name": "it's not right but it's okay (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-12-08",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27360c31a53eeec07cc40507fa6",
+      "uri": "spotify:album:54gWZ2mKq4Lt1gt689W7Xk",
+      "name": "those were the days (remix bundle)",
+      "album_type": "single",
+      "release_date": "2017-08-11",
+      "release_year": "2017",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "marc scibilia"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e3ce96df1b4de8708d315470",
+      "uri": "spotify:album:3bF7VFEhDVJXqBuu3J6BXk",
+      "name": "those were the days",
+      "album_type": "single",
+      "release_date": "2017-07-14",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "4CHiVarfTsFhkFOk5vHS77",
+          "name": "marc scibilia"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732bb20efe1b7afb64cf991fbc",
+      "uri": "spotify:album:7JPjO0woGaqGnCF6niOKSo",
+      "name": "howl at the moon (nicky romero remix)",
+      "album_type": "single",
+      "release_date": "2017-06-21",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "27feHJH3VKyk8FgOndiWU8",
+          "name": "taylr renee"
+        },
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f7b52a2898d80b0db118f3c0",
+      "uri": "spotify:album:07hpF7vP2goE7vNFMI93pp",
+      "name": "like home (stadiumx remix)",
+      "album_type": "single",
+      "release_date": "2017-06-07",
+      "release_year": "2017",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "4j5KBTO4tk7up54ZirNGvK",
+          "name": "nervo"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273002f0a0d8301ea299adc54f2",
+      "uri": "spotify:album:33l2ccq1mRnd6rdDQpZhow",
+      "name": "the fall (feat. bishøp)",
+      "album_type": "single",
+      "release_date": "2017-05-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a72a49a4711dafc72208bd31",
+      "uri": "spotify:album:0Pgx7upXi5VSGCb2i6DZby",
+      "name": "the fall (feat. bishøp) [extended mix]",
+      "album_type": "single",
+      "release_date": "2017-05-05",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e05195f51f66b3ad1c492ca",
+      "uri": "spotify:album:4HHftsyQ2GSXwdLFxAoHIY",
+      "name": "last night a d.j. saved my life (extended mix)",
+      "album_type": "single",
+      "release_date": "2017-04-17",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273a3c73aa746965c42426173fa",
+      "uri": "spotify:album:2ocmEcMLp34Fsl8VtCtzIJ",
+      "name": "last night a d.j. saved my life",
+      "album_type": "single",
+      "release_date": "2017-04-03",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734d263363daf1978910aafc9c",
+      "uri": "spotify:album:4PXN7g7WqsFtphNLhfhaoK",
+      "name": "spacebird",
+      "album_type": "single",
+      "release_date": "2017-01-12",
+      "release_year": "2017",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f9cbebe3abe512abbfa2c049",
+      "uri": "spotify:album:3vZRTsZ5i1gWSdGlT2TBmJ",
+      "name": "mass",
+      "album_type": "single",
+      "release_date": "2016-10-11",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27397c90b85a668646f41136a27",
+      "uri": "spotify:album:7zqFapzw7OlTM8eGaW5vog",
+      "name": "deeper",
+      "album_type": "single",
+      "release_date": "2016-09-23",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "5oVncOULo7QvpgN3D6Y0Ve",
+          "name": "syskey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f0476a1acf09ab7f5a770742",
+      "uri": "spotify:album:7vu6xnMu6DavhAkJZhK53q",
+      "name": "deeper (club mix)",
+      "album_type": "single",
+      "release_date": "2016-09-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "5oVncOULo7QvpgN3D6Y0Ve",
+          "name": "syskey"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ac90f5f1df354379442400b2",
+      "uri": "spotify:album:30gCHcfIWtyACEXbuU7Dbo",
+      "name": "another life (official balaton sound 2016 anthem)",
+      "album_type": "single",
+      "release_date": "2016-07-15",
+      "release_year": "2016",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "0a3yBT4F09K3h2pjnkT5TY",
+          "name": "baha"
+        },
+        {
+          "spotify_id": "3seE5fr0k5R1JAdkKXHS9S",
+          "name": "markquis"
+        },
+        {
+          "spotify_id": "3fuxStOqQv8TiytHeuGiE8",
+          "name": "delaney jane"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2730e4fdd70c39a930c1cf8ecc9",
+      "uri": "spotify:album:0lRiZFl5c5biw0O0K554mQ",
+      "name": "wonderland (acoustic version)",
+      "album_type": "single",
+      "release_date": "2016-06-29",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27340f8b440475a9e6678f9a723",
+      "uri": "spotify:album:7uxve30Xn72p6OiVIaGw31",
+      "name": "mombasa (the remixes)",
+      "album_type": "single",
+      "release_date": "2016-06-06",
+      "release_year": "2016",
+      "total_tracks": 5,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273e9546ae06e68bd9c82add298",
+      "uri": "spotify:album:1rrbxVTO4MZgRieVO6RKmY",
+      "name": "so much love (extended mix)",
+      "album_type": "single",
+      "release_date": "2016-05-30",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2738fa59202b247275358ad0dc9",
+      "uri": "spotify:album:3DxuMn3PUzAI4x1UfxMOnr",
+      "name": "so much love",
+      "album_type": "single",
+      "release_date": "2016-05-16",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c96fb54c63a70edd2a29acf7",
+      "uri": "spotify:album:5lngBdoiy5ejJsIz2toibe",
+      "name": "mombasa (original mix)",
+      "album_type": "single",
+      "release_date": "2016-03-14",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737618538666f8d5f8cdc168bd",
+      "uri": "spotify:album:6wryEpFiuy0vXABmgXKuwa",
+      "name": "mombasa (radio edit)",
+      "album_type": "single",
+      "release_date": "2016-03-14",
+      "release_year": "2016",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e01a58b513f7d00fec0ca67",
+      "uri": "spotify:album:4SnEzerWvY2jHhNiMu0iKE",
+      "name": "harmony",
+      "album_type": "single",
+      "release_date": "2015-12-21",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "nicky romero"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2735765db9a4a202f2772248e13",
+      "uri": "spotify:album:59eRzcf5CUjpNf7NSdBSt2",
+      "name": "glare",
+      "album_type": "single",
+      "release_date": "2015-11-16",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "1vj2R6AWl8rj1na7VCkQK4",
+          "name": "metrush"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b6a41fb15842a4e6467c9833",
+      "uri": "spotify:album:61jjEZMNBgdef9yB8bRLF9",
+      "name": "wonderland (remixes)",
+      "album_type": "single",
+      "release_date": "2015-09-21",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737f4369908e5bf8bbcb1821ff",
+      "uri": "spotify:album:1KfK973SrW5UKWjde0PHBe",
+      "name": "wonderland (feat. angelika vee) [remixes]",
+      "album_type": "single",
+      "release_date": "2015-09-21",
+      "release_year": "2015",
+      "total_tracks": 4,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737331da98faa2bc910f69560b",
+      "uri": "spotify:album:1UYjGecDJof5UYwRGzsPri",
+      "name": "time is on your side",
+      "album_type": "single",
+      "release_date": "2015-09-14",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "2nBYkTeSTO2e4B6m3HBEAi",
+          "name": "dzasko"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2732d2debfcafc429f0105bf2aa",
+      "uri": "spotify:album:1EWWMJyJKlxYBfMZec0Alf",
+      "name": "wonderland (radio edit)",
+      "album_type": "single",
+      "release_date": "2015-06-29",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27388371da44b7920e3f07e8b5b",
+      "uri": "spotify:album:6Xv79uzIdz8LZsdPW8cOy2",
+      "name": "lyon (stadiumx re-edit)",
+      "album_type": "single",
+      "release_date": "2015-06-22",
+      "release_year": "2015",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "718Qqn32g1KodPgOhDokuu",
+          "name": "wess & aleksandar galoski"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273b21b0a06aedaac7fe58d2e56",
+      "uri": "spotify:album:7wS7tF7JvbLgcK2Lbodski",
+      "name": "ghost",
+      "album_type": "single",
+      "release_date": "2014-12-08",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "2OFEXARoSZyZLR6S0oV2R7",
+          "name": "tom swoon"
+        },
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "6F4KRaTnwZ3ttUYpdo45C8",
+          "name": "rico & miella"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273c9b67b256da630740dd7970d",
+      "uri": "spotify:album:4wn0YVoto9CuPdK0U50WYZ",
+      "name": "rollerkraft",
+      "album_type": "single",
+      "release_date": "2014-06-06",
+      "release_year": "2014",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "24p18ZRiWWS3GmR4J1QrNp",
+          "name": "muzzaik"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273feddda6be05c0a333a1bb8c3",
+      "uri": "spotify:album:2GVJRXFGewVX4LaRSvtINv",
+      "name": "howl at the moon (remixes)",
+      "album_type": "single",
+      "release_date": "2014-04-14",
+      "release_year": "2014",
+      "total_tracks": 3,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "27feHJH3VKyk8FgOndiWU8",
+          "name": "taylr renee"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27354e06fb3224813e976598e09",
+      "uri": "spotify:album:4HQHV81zj57DsEXGdDMkes",
+      "name": "howl at the moon",
+      "album_type": "single",
+      "release_date": "2014-03-10",
+      "release_year": "2014",
+      "total_tracks": 2,
+      "artists": [
+        {
+          "spotify_id": "0DRf6JJDQnRnz0Yp209CmH",
+          "name": "stadiumx"
+        },
+        {
+          "spotify_id": "27feHJH3VKyk8FgOndiWU8",
+          "name": "taylr renee"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-07T02:45:40.000Z"
+}
