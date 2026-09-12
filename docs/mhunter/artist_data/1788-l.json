@@ -8,6 +8,27 @@
   ],
   "albums": [
     {
+      "mhunter_id": "illuminate__single__2026__1",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273de279a3cf9a86de8c535d7de",
+      "uri": "spotify:album:2HTRzekRCl7u07zvSyzvDD",
+      "name": "illuminate",
+      "album_type": "single",
+      "release_date": "2026-08-20",
+      "release_year": "2026",
+      "total_tracks": 1,
+      "artists": [
+        {
+          "spotify_id": "59Yq0xrABEihHANsfo9QMT",
+          "name": "blanke"
+        },
+        {
+          "spotify_id": "7oB4pCSzvvRtZka6DxXUfN",
+          "name": "1788-l"
+        }
+      ]
+    },
+    {
+      "mhunter_id": "fck around__single__2025__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2738e2af3962833e934328cd304",
       "uri": "spotify:album:1hed77AgC3e6xTi76fjG0D",
       "name": "fck around",
@@ -27,6 +48,7 @@
       ]
     },
     {
+      "mhunter_id": "pull up__single__2025__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273444392ca7ab899c488493f73",
       "uri": "spotify:album:7JvpbeaYonIXD4CgRKrpLY",
       "name": "pull up",
@@ -42,6 +64,7 @@
       ]
     },
     {
+      "mhunter_id": "nu-type vol. 1__single__2024__4",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273abbad11c7250325a2504123f",
       "uri": "spotify:album:7CFctl9XFeGEcX2tBYEgZR",
       "name": "nu-type vol. 1",
@@ -57,6 +80,7 @@
       ]
     },
     {
+      "mhunter_id": "wasp.exe__single__2024__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273e38295b727d8439734aa0604",
       "uri": "spotify:album:2RghQTPPo5b1kgXVLAfbQs",
       "name": "wasp.exe",
@@ -72,6 +96,7 @@
       ]
     },
     {
+      "mhunter_id": "wartype__single__2024__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a6d92e750535459d4db34a78",
       "uri": "spotify:album:7JZQdnIDCbjzcru5K8KJNk",
       "name": "wartype",
@@ -91,6 +116,7 @@
       ]
     },
     {
+      "mhunter_id": "alpha+__album__2023__8",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2738788b32ac757e7cf52f7b28a",
       "uri": "spotify:album:0I8olJNt4VzPJMladyyeHk",
       "name": "alpha+",
@@ -106,6 +132,7 @@
       ]
     },
     {
+      "mhunter_id": "break limit__single__2023__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273bcda0209700c5b1827f946d2",
       "uri": "spotify:album:6FTBnoUubZR6z0pvlX6ux4",
       "name": "break limit",
@@ -121,6 +148,7 @@
       ]
     },
     {
+      "mhunter_id": "sabernetiks__single__2023__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273711d21a7d1a579bd06311011",
       "uri": "spotify:album:5eMc2xXbtZV6jcvWYCeBgH",
       "name": "sabernetiks",
@@ -136,6 +164,7 @@
       ]
     },
     {
+      "mhunter_id": "xenoclone__single__2023__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2733bbff1583f7980079871f741",
       "uri": "spotify:album:3oOSsJCVHDlxj592VxKm7k",
       "name": "xenoclone",
@@ -151,6 +180,7 @@
       ]
     },
     {
+      "mhunter_id": "baseline test__single__2022__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2730e9b3ef2332b831e3b2a965d",
       "uri": "spotify:album:1mUnZkfutlChadoh11Yudn",
       "name": "baseline test",
@@ -166,6 +196,7 @@
       ]
     },
     {
+      "mhunter_id": "hi-tech__single__2021__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a39b680b73b86ef5d55610c9",
       "uri": "spotify:album:2cwfGnDOTg6CjVCkwOHGkH",
       "name": "hi-tech",
@@ -181,6 +212,7 @@
       ]
     },
     {
+      "mhunter_id": "parallel: s__single__2021__2",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2733269d2b3222a080d77ec4b5a",
       "uri": "spotify:album:59h7GpKrIO5bFUDE2ZoPfw",
       "name": "parallel: s",
@@ -196,6 +228,7 @@
       ]
     },
     {
+      "mhunter_id": "momentary lapse__single__2019__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2731d658b9dd4d4f1ee4a8aeca9",
       "uri": "spotify:album:7wVv36x8jiMe3XEdd7cRun",
       "name": "momentary lapse",
@@ -215,6 +248,7 @@
       ]
     },
     {
+      "mhunter_id": "phoenix (1788-l remix)__single__2019__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2732ab29190356345d290e6f9f1",
       "uri": "spotify:album:7wSxkil3wm6xsUj60gT4GO",
       "name": "phoenix (1788-l remix)",
@@ -234,6 +268,7 @@
       ]
     },
     {
+      "mhunter_id": "s y n t h e t i k__single__2019__4",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2730a1591454d86952dded0860c",
       "uri": "spotify:album:0YtlEFa7oPHKxXO29gn1k4",
       "name": "s y n t h e t i k",
@@ -249,6 +284,7 @@
       ]
     },
     {
+      "mhunter_id": "m a l f u n k t__single__2019__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2737e4f5875c8f3121bff9f0f35",
       "uri": "spotify:album:6IuTf1H52CYdGbBit0DxCy",
       "name": "m a l f u n k t",
@@ -268,6 +304,7 @@
       ]
     },
     {
+      "mhunter_id": "a b y s s__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273bfe4b1f5943476f199f5b666",
       "uri": "spotify:album:353UtuPDEl2a8dLHlc8Oiz",
       "name": "a b y s s",
@@ -287,6 +324,7 @@
       ]
     },
     {
+      "mhunter_id": "s e n t i e n c e__single__2018__4",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273e8ac25ee06b6449c188e156b",
       "uri": "spotify:album:0dOZY8YOJUn8yV1HfqqYdb",
       "name": "s e n t i e n c e",
@@ -302,6 +340,7 @@
       ]
     },
     {
+      "mhunter_id": "cyberspace__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273dbd70d2348dacca618637afd",
       "uri": "spotify:album:42Ul7pOsWYrg2OJlAiFB7i",
       "name": "cyberspace",
@@ -317,6 +356,7 @@
       ]
     },
     {
+      "mhunter_id": "sound of where'd u go__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a53d2835d07204d39473ec2a",
       "uri": "spotify:album:5GctXCncvRTQku8HkzMob3",
       "name": "sound of where'd u go",
@@ -340,6 +380,7 @@
       ]
     },
     {
+      "mhunter_id": "destiny__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273a7e6257aa8add470a2ad41b7",
       "uri": "spotify:album:6QIcWKOiBEQZiOjajuxOSR",
       "name": "destiny",
@@ -359,6 +400,7 @@
       ]
     },
     {
+      "mhunter_id": "multiverse__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b2735913604ba352565418dc5420",
       "uri": "spotify:album:0pHhfaQjhYMGYwn9z4Uk74",
       "name": "multiverse",
@@ -374,6 +416,7 @@
       ]
     },
     {
+      "mhunter_id": "pulsar beam__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b27355fd7816e739fc417d614443",
       "uri": "spotify:album:07dZISXUZNf20IglF1IXk1",
       "name": "pulsar beam",
@@ -389,6 +432,7 @@
       ]
     },
     {
+      "mhunter_id": "replica__single__2018__1",
       "image_url": "https://i.scdn.co/image/ab67616d0000b273e8f7b04d9bd3b67a74301834",
       "uri": "spotify:album:7fb6IzLtv8eaNWb3unkMmE",
       "name": "replica",
@@ -404,5 +448,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-15T14:55:48.000Z"
+  "last_updated": "2026-09-10T03:51:26.000Z"
 }
