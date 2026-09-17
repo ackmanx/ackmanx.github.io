@@ -1,6 +1,6 @@
 const STORAGE_KEY = 'personal-columns-v1'
 const SAVE_DELAY_MS = 250
-const PARAGRAPH_BREAK_RE = /\n{2,}/g
+const PARAGRAPH_BREAK_RE = /\n{3,}/g
 const columnsElement = document.querySelector('#columns')
 const addColumnButton = document.querySelector('#add-column')
 
@@ -212,8 +212,8 @@ function createCard(block, columnIndex, blockIndex, blocks) {
     columns[columnIndex] = serializeBlocks(currentBlocks)
     scheduleSave()
 
-    // Typing or pasting a blank line creates a new visual card.
-    if (/\n{2,}/.test(textarea.value)) {
+    // Keep one blank line within a card; a third newline creates the next card.
+    if (/\n{3,}/.test(textarea.value)) {
       renderColumn(columnIndex, { focusOffset: absoluteCaret })
     } else {
       autoResize(textarea)
