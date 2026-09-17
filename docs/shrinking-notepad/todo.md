@@ -1,2 +1,0 @@
-- Store the dump in mongo instead of local storage
-- Allow deleting of notes in the sidebar
