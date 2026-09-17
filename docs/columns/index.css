@@ -1,0 +1,142 @@
+:root {
+    color-scheme: light dark;
+    --bg: #f7f7f7;
+    --surface: #ffffff;
+    --card: #f4f4f4;
+    --text: #161616;
+    --muted: #6b6b6b;
+    --border: #d9d9d9;
+    --button-hover: #ededed;
+    --focus: #777777;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #111111;
+        --surface: #171717;
+        --card: #202020;
+        --text: #eeeeee;
+        --muted: #999999;
+        --border: #303030;
+        --button-hover: #242424;
+        --focus: #aaaaaa;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: var(--bg);
+    color: var(--text);
+    font-family:
+        Inter,
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        sans-serif;
+}
+
+button,
+textarea {
+    font: inherit;
+}
+
+#app {
+    width: 100%;
+    height: 100dvh;
+}
+
+.toolbar {
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    z-index: 10;
+    display: flex;
+    gap: 8px;
+}
+
+.toolbar button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    height: 40px;
+    padding: 0 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: color-mix(in srgb, var(--surface) 92%, transparent);
+    color: var(--text);
+    cursor: pointer;
+    backdrop-filter: blur(8px);
+}
+
+.toolbar button:hover {
+    background: var(--button-hover);
+}
+
+.toolbar button:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+}
+
+.columns {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    width: 100%;
+    height: 100%;
+}
+
+.column {
+    min-width: 0;
+    height: 100%;
+    overflow: auto;
+    border-left: 1px solid var(--border);
+    background: var(--surface);
+}
+
+.column:first-child {
+    border-left: 0;
+}
+
+.column-editor {
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+    gap: 12px;
+    padding: 68px 24px 24px;
+}
+
+.paragraph-card {
+    display: block;
+    width: 100%;
+    min-height: 54px;
+    resize: none;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    outline: 0;
+    padding: 14px 16px;
+    background: var(--card);
+    color: var(--text);
+    caret-color: var(--text);
+    line-height: 1.55;
+}
+
+.paragraph-card:focus {
+    border-color: var(--focus);
+    box-shadow: 0 0 0 1px var(--focus);
+}
+
+.paragraph-card::placeholder {
+    color: var(--muted);
+}
