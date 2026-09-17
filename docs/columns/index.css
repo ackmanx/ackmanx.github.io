@@ -64,7 +64,8 @@ textarea {
     gap: 8px;
 }
 
-.toolbar button {
+.toolbar button,
+.column-delete {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -79,13 +80,20 @@ textarea {
     backdrop-filter: blur(8px);
 }
 
-.toolbar button:hover {
+.toolbar button:hover,
+.column-delete:hover:not(:disabled) {
     background: var(--button-hover);
 }
 
-.toolbar button:focus-visible {
+.toolbar button:focus-visible,
+.column-delete:focus-visible {
     outline: 2px solid var(--focus);
     outline-offset: 2px;
+}
+
+.column-delete:disabled {
+    cursor: not-allowed;
+    opacity: 0.45;
 }
 
 .columns {
@@ -97,6 +105,7 @@ textarea {
 }
 
 .column {
+    position: relative;
     min-width: 0;
     height: 100%;
     overflow: auto;
@@ -106,6 +115,13 @@ textarea {
 
 .column:first-child {
     border-left: 0;
+}
+
+.column-delete {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 1;
 }
 
 .column-editor {

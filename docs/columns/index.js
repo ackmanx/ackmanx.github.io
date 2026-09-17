@@ -224,10 +224,29 @@ function createCard(block, columnIndex, blockIndex, blocks) {
   return textarea
 }
 
+function deleteColumn(index) {
+  if (columns.length === 1) return
+  if (!window.confirm(`Delete column ${index + 1}?`)) return
+
+  columns.splice(index, 1)
+  saveColumns()
+  render()
+}
+
 function createColumn(value, index) {
   const wrapper = document.createElement('div')
   wrapper.className = 'column'
   wrapper.dataset.columnIndex = index
+
+  const deleteButton = document.createElement('button')
+  deleteButton.className = 'column-delete'
+  deleteButton.type = 'button'
+  deleteButton.textContent = '×'
+  deleteButton.setAttribute('aria-label', `Delete column ${index + 1}`)
+  deleteButton.title = 'Delete column'
+  deleteButton.disabled = columns.length === 1
+  deleteButton.addEventListener('click', () => deleteColumn(index))
+  wrapper.append(deleteButton)
 
   const editor = document.createElement('div')
   editor.className = 'column-editor'
