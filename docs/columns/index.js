@@ -1,4 +1,5 @@
 const STORAGE_KEY = 'personal-columns-v1'
+const COLUMNS_API_URL = 'https://friends-of-mongo.vercel.app/columns'
 const SAVE_DELAY_MS = 250
 const PARAGRAPH_BREAK_RE = /\n{3,}/g
 const columnsElement = document.querySelector('#columns')
@@ -6,6 +7,9 @@ const addColumnButton = document.querySelector('#add-column')
 
 let columns = loadColumns()
 let saveTimer = null
+let saveInFlight = false
+let savePending = false
+let remotePersistenceEnabled = false
 
 function loadColumns() {
   try {
@@ -20,13 +24,108 @@ function loadColumns() {
   }
 }
 
-function saveColumns() {
+function saveColumnsLocally() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(columns))
 }
 
+function isColumnsData(data) {
+  return (
+    Array.isArray(data?.columns) &&
+    data.columns.length > 0 &&
+    data.columns.every((column) => typeof column === 'string')
+  )
+}
+
+async function loadColumnsFromApi() {
+  try {
+    const response = await fetch(COLUMNS_API_URL, {
+      headers: { Authorization: localStorage.getItem('super_secret') ?? '' },
+    })
+
+    if (response.status === 401 || response.status === 403) {
+      redirectToSecurity()
+      return
+    }
+
+    if (response.status === 404) {
+      remotePersistenceEnabled = true
+      scheduleSave()
+      return
+    }
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`)
+    }
+
+    const data = await response.json()
+    if (!isColumnsData(data)) {
+      throw new Error('Invalid columns data')
+    }
+
+    columns = data.columns
+    saveColumnsLocally()
+    remotePersistenceEnabled = true
+  } catch (error) {
+    console.error('Failed to load columns data from MongoDB; using local data', error)
+  }
+}
+
+async function saveColumnsToApi({ keepalive = false } = {}) {
+  if (!remotePersistenceEnabled) return
+
+  if (saveInFlight && !keepalive) {
+    savePending = true
+    return
+  }
+
+  const snapshot = [...columns]
+  if (!keepalive) saveInFlight = true
+
+  try {
+    const response = await fetch(COLUMNS_API_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: localStorage.getItem('super_secret') ?? '',
+      },
+      body: JSON.stringify({ columns: snapshot }),
+      keepalive,
+    })
+
+    if (response.status === 401 || response.status === 403) {
+      remotePersistenceEnabled = false
+      redirectToSecurity()
+      return
+    }
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`)
+    }
+  } catch (error) {
+    console.error('Failed to save columns data to MongoDB', error)
+  } finally {
+    if (!keepalive) {
+      saveInFlight = false
+
+      if (savePending) {
+        savePending = false
+        void saveColumnsToApi()
+      }
+    }
+  }
+}
+
+function queueRemoteSave() {
+  void saveColumnsToApi()
+}
+
 function scheduleSave() {
+  saveColumnsLocally()
+
+  if (!remotePersistenceEnabled) return
+
   window.clearTimeout(saveTimer)
-  saveTimer = window.setTimeout(saveColumns, SAVE_DELAY_MS)
+  saveTimer = window.setTimeout(queueRemoteSave, SAVE_DELAY_MS)
 }
 
 // Keep every column as one string. These blocks are only a visual/editing view.
@@ -229,7 +328,7 @@ function deleteColumn(index) {
   if (!window.confirm(`Delete column ${index + 1}?`)) return
 
   columns.splice(index, 1)
-  saveColumns()
+  scheduleSave()
   render()
 }
 
@@ -289,7 +388,7 @@ function render({ focusLast = false } = {}) {
 
 function addColumn() {
   columns.push('')
-  saveColumns()
+  scheduleSave()
   render({ focusLast: true })
 }
 
@@ -297,7 +396,13 @@ addColumnButton.addEventListener('click', addColumn)
 
 window.addEventListener('pagehide', () => {
   window.clearTimeout(saveTimer)
-  saveColumns()
+  saveColumnsLocally()
+  void saveColumnsToApi({ keepalive: true })
 })
 
-render()
+async function initialize() {
+  await loadColumnsFromApi()
+  render()
+}
+
+void initialize()
