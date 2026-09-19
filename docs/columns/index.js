@@ -42,11 +42,6 @@ async function loadColumnsFromApi() {
       headers: { Authorization: localStorage.getItem('super_secret') ?? '' },
     })
 
-    if (response.status === 401 || response.status === 403) {
-      redirectToSecurity()
-      return
-    }
-
     if (response.status === 404) {
       remotePersistenceEnabled = true
       scheduleSave()
@@ -94,7 +89,6 @@ async function saveColumnsToApi({ keepalive = false } = {}) {
 
     if (response.status === 401 || response.status === 403) {
       remotePersistenceEnabled = false
-      redirectToSecurity()
       return
     }
 
@@ -116,6 +110,7 @@ async function saveColumnsToApi({ keepalive = false } = {}) {
 }
 
 function queueRemoteSave() {
+  saveTimer = null
   void saveColumnsToApi()
 }
 
@@ -166,7 +161,7 @@ function autoResize(textarea) {
 function getCards(columnIndex) {
   return Array.from(
     columnsElement.querySelectorAll(`.column[data-column-index="${columnIndex}"] .paragraph-card`)
-  )
+  ).filter((card) => card instanceof HTMLTextAreaElement)
 }
 
 function setCaret(textarea, position) {
@@ -395,9 +390,14 @@ function addColumn() {
 addColumnButton.addEventListener('click', addColumn)
 
 window.addEventListener('pagehide', () => {
+  const hasPendingSave = saveTimer !== null
   window.clearTimeout(saveTimer)
+  saveTimer = null
   saveColumnsLocally()
-  void saveColumnsToApi({ keepalive: true })
+
+  if (hasPendingSave) {
+    void saveColumnsToApi({ keepalive: true })
+  }
 })
 
 async function initialize() {
